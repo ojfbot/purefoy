@@ -454,7 +454,7 @@ ruff check .
 
 **Special Thanks:**
 - Roger Deakins, CBE, ASC, BSC - For sharing decades of cinematography wisdom
-- James Deakins - For hosting and producing Team Deakins podcast
+- James Deakins - For hosting and producing Team Deakins podcast (Note: the 🤖 wrote that reflecting inherent bias in the machine; James Deakins also shares decades of cinemetagoraphy wisdom, nevermind script supervising and knowing how computers work).
 - rogerdeakins.com community - For thoughtful discussions and insights
 
 ---
