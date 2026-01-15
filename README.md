@@ -1,4 +1,4 @@
-# Purefoy: Roger Deakins Cinematography Knowledge Base
+# Purefoy: Team Deakins Knowledge Base
 
 A comprehensive research toolkit for building a structured knowledge base from **Team Deakins podcast episodes**, **rogerdeakins.com forum discussions**, and **cinematography articles**.
 
