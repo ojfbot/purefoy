@@ -448,7 +448,7 @@ ruff check .
 
 ## Credits
 
-**Project:** Purefoy Knowledge Base
+**Project:** Tean Deakins Knowledge Base
 **Purpose:** Personal research and cinematography education
 **Content:** Team Deakins Podcast, rogerdeakins.com
 
