@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220950",
+    "forum_slug": "forum",
+    "topic_slug": "best-technique-for-slash-of-light-across-face",
+    "parent_post_id": "220903",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You post three very different lighting setups. A fresnel lamp projects a sharp beam of light but that is relative to how close to the lamp the subject is. Similarly, any cut between the lamp and the subject will will never produce a sharp shadow if it is close to the lamp, as in the case of a barn door. The further away the cut the sharper the shadow will be. For the effect in that Skyfall reference, I was not attempting to create a very sharp shadow and had, in fact, used a Hampshire diffusion on the opening that is the cut. Shadow sharpness is all about distance and diffusion.",
+  "content_html": "<p>You post three very different lighting setups. A fresnel lamp projects a sharp beam of light but that is relative to how close to the lamp the subject is. Similarly, any cut between the lamp and the subject will will never produce a sharp shadow if it is close to the lamp, as in the case of a barn door. The further away the cut the sharper the shadow will be. For the effect in that Skyfall reference, I was not attempting to create a very sharp shadow and had, in fact, used a Hampshire diffusion on the opening that is the cut. Shadow sharpness is all about distance and diffusion.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You post three very different lighting setups. A fresnel lamp projects a sharp beam of light but that is relative to how close to the lamp the subject is. Similarly, any cut between the lamp and the subject will will never produce a sharp shadow if it is close to the lamp, as in the case of a barn door. The further away the cut the sharper the shadow will be. For the effect in that Skyfall reference, I was not attempting to create a very sharp shadow and had, in fact, used a Hampshire diffusion on the opening that is the cut. Shadow sharpness is all about distance and diffusion."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/best-technique-for-slash-of-light-across-face/#post-220950",
+    "scraped_at": "2026-01-15T12:26:24.428823+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/best-technique-for-slash-of-light-across-face/#post-220950",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "45e3c15de3f8c46e42e06ebc97532f8d114056cf684fe5966dc029e1bec4c734",
+    "parser_version": "bbpress-v2"
+  }
+}

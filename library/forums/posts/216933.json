@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216933",
+    "forum_slug": "forum",
+    "topic_slug": "light-density",
+    "parent_post_id": "216918",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks David, I was confused of it being described as ‘poor man’s process’ 🙂",
+  "content_html": "<p>Thanks David, I was confused of it being described as ‘poor man’s process’ 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks David, I was confused of it being described as ‘poor man’s process’ 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/light-density/#post-216962",
+    "scraped_at": "2026-01-15T15:22:24.871709+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/light-density/#post-216962",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0e2018f4ed57db49e0922750f06b6767ce61d4856b24317e371076221a3061b2",
+    "parser_version": "bbpress-v2"
+  }
+}

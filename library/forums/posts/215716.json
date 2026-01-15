@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215716",
+    "forum_slug": "forum",
+    "topic_slug": "the-look-of-hail-cesar",
+    "parent_post_id": "215700",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That image from the film is way off. I did shoot the exteriors to be warm but that is ridiculous. It looks like there is a yellow veil over the entire shot.",
+  "content_html": "<p>That image from the film is way off. I did shoot the exteriors to be warm but that is ridiculous. It looks like there is a yellow veil over the entire shot.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That image from the film is way off. I did shoot the exteriors to be warm but that is ridiculous. It looks like there is a yellow veil over the entire shot."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-look-of-hail-cesar/#post-215885",
+    "scraped_at": "2026-01-15T15:43:38.595719+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-look-of-hail-cesar/#post-215885",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d7981ef67eba617f16cb795c4c412a529418fc548c541745d6c7c394f9532629",
+    "parser_version": "bbpress-v2"
+  }
+}

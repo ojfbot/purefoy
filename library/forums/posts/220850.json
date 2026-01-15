@@ -1,0 +1,51 @@
+{
+  "ids": {
+    "post_id": "220850",
+    "forum_slug": "team-deakins",
+    "topic_slug": "reflections-new-book",
+    "parent_post_id": "217941",
+    "parent_type": "topic",
+    "position": 31
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "AdamD",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I can not explain how eager I am to read this book which arrived on my doorstep today – a Christmas gift from my beautiful wife.  Thank you so much for taking the time to share your wealth of knowledge with the world.\nRegards\nAdam",
+  "content_html": "<p>I can not explain how eager I am to read this book which arrived on my doorstep today – a Christmas gift from my beautiful wife.  Thank you so much for taking the time to share your wealth of knowledge with the world.</p>\n<p>Regards<br/>\nAdam</p>\n<p><img alt=\"Book arrived in Australia\" decoding=\"async\" height=\"500\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/220850/5tiatutcjgif969ooa1je0ggz2cftd0y.jpg\" width=\"500\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I can not explain how eager I am to read this book which arrived on my doorstep today – a Christmas gift from my beautiful wife.  Thank you so much for taking the time to share your wealth of knowledge with the world."
+    },
+    {
+      "type": "paragraph",
+      "text": "Regards\nAdam"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/220850/5tiatutcjgif969ooa1je0ggz2cftd0y.jpg",
+      "alt": "Book arrived in Australia",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/3/",
+    "scraped_at": "2026-01-15T11:50:43.619534+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/3/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e1f28f3d1749916d1c1267dab50284a01e47c1e9e2167cb6d73115d97ef4a573",
+    "parser_version": "bbpress-v2"
+  }
+}

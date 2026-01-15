@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215064",
+    "forum_slug": "forum",
+    "topic_slug": "outdoor-scenes-with-heavy-fog",
+    "parent_post_id": "215052",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Wow, I listened to the episode back then but had forgotten also. It’s at the 25 min mark. They burnt 150 smoke cans that morning.",
+  "content_html": "<p>Wow, I listened to the episode back then but had forgotten also. It’s at the 25 min mark. They burnt 150 smoke cans that morning.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Wow, I listened to the episode back then but had forgotten also. It’s at the 25 min mark. They burnt 150 smoke cans that morning."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/outdoor-scenes-with-heavy-fog/#post-215073",
+    "scraped_at": "2026-01-15T15:49:27.554181+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/outdoor-scenes-with-heavy-fog/#post-215073",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "00196acc9c69a8b619a48f31f3b9b8d2723e7f14f4e3e64f0e0bb099700fe490",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215633",
+    "forum_slug": "forum",
+    "topic_slug": "are-you-always-thinking-about-shape-when-you-create-images",
+    "parent_post_id": "215632",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I do think the process of composing is or has to be more visceral than cerebral. It’s a group of personal feelings and ideas from your part, it’s about your taste.\nIm coming from the documentary world and before that I was a photojournalist so I’m used to find images anywhere I go and do it fast. But I don’t think in those terms of shape, depth, as those concepts are already inside my vocabulary. So my method would be find the frame and then polish it.\nOne of the issues I see when having a more reflexive approach is that at the end images don’t look natural, they look forged. Same thing happens when everyone is looking at same still reference images. The amount of same-same images lately, with same lighting is just plain boring to me.\nBut everyone has to start somewhere so I think the best you could do is to start taking pictures daily, exercise your mind, get used to frame everything everywhere so you start shaping your vision as a cinematographer. Also look at photographs, paintings from all eras. You have to absorb as much as you can. Great part of your job will be to become the most visual literate person on the set and you have to work on that.",
+  "content_html": "<p>I do think the process of composing is or has to be more visceral than cerebral. It’s a group of personal feelings and ideas from your part, it’s about your taste.<br/>\nIm coming from the documentary world and before that I was a photojournalist so I’m used to find images anywhere I go and do it fast. But I don’t think in those terms of shape, depth, as those concepts are already inside my vocabulary. So my method would be find the frame and then polish it.<br/>\nOne of the issues I see when having a more reflexive approach is that at the end images don’t look natural, they look forged. Same thing happens when everyone is looking at same still reference images. The amount of same-same images lately, with same lighting is just plain boring to me.</p>\n<p>But everyone has to start somewhere so I think the best you could do is to start taking pictures daily, exercise your mind, get used to frame everything everywhere so you start shaping your vision as a cinematographer. Also look at photographs, paintings from all eras. You have to absorb as much as you can. Great part of your job will be to become the most visual literate person on the set and you have to work on that.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I do think the process of composing is or has to be more visceral than cerebral. It’s a group of personal feelings and ideas from your part, it’s about your taste.\nIm coming from the documentary world and before that I was a photojournalist so I’m used to find images anywhere I go and do it fast. But I don’t think in those terms of shape, depth, as those concepts are already inside my vocabulary. So my method would be find the frame and then polish it.\nOne of the issues I see when having a more reflexive approach is that at the end images don’t look natural, they look forged. Same thing happens when everyone is looking at same still reference images. The amount of same-same images lately, with same lighting is just plain boring to me."
+    },
+    {
+      "type": "paragraph",
+      "text": "But everyone has to start somewhere so I think the best you could do is to start taking pictures daily, exercise your mind, get used to frame everything everywhere so you start shaping your vision as a cinematographer. Also look at photographs, paintings from all eras. You have to absorb as much as you can. Great part of your job will be to become the most visual literate person on the set and you have to work on that."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/are-you-always-thinking-about-shape-when-you-create-images/#post-215640",
+    "scraped_at": "2026-01-15T15:46:03.044987+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/are-you-always-thinking-about-shape-when-you-create-images/#post-215640",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d37b62dd3f1fdb0f7e9c5eb3992e9ba9df8f990a578ae150c43f34f3c2abe963",
+    "parser_version": "bbpress-v2"
+  }
+}

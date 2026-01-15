@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "169528",
+    "forum_slug": "camera",
+    "topic_slug": "camera-starter-question",
+    "parent_post_id": "169402",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Using a modern zoom lens is more convenient and certainly much faster imo.\nThese new zooms now available are quite exceptional with their light weight barrels and extremely fast glass are now in more demand than ever.\nRental houses are selling off many of their primes and buying these smaller zooms as the market is now adapting to the influx of younger DPs who demand smaller and lighter equipment.\nMike",
+  "content_html": "<p>Using a modern zoom lens is more convenient and certainly much faster imo.</p>\n<p>These new zooms now available are quite exceptional with their light weight barrels and extremely fast glass are now in more demand than ever.<br/>\nRental houses are selling off many of their primes and buying these smaller zooms as the market is now adapting to the influx of younger DPs who demand smaller and lighter equipment.</p>\n<p>Mike</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Using a modern zoom lens is more convenient and certainly much faster imo."
+    },
+    {
+      "type": "paragraph",
+      "text": "These new zooms now available are quite exceptional with their light weight barrels and extremely fast glass are now in more demand than ever.\nRental houses are selling off many of their primes and buying these smaller zooms as the market is now adapting to the influx of younger DPs who demand smaller and lighter equipment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mike"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/",
+    "scraped_at": "2026-01-15T13:56:42.503917+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b4958674b0ebe48f70e240a5cac8e509f6ae9cd25a3bc02eb7102b7ae4b41e1d",
+    "parser_version": "bbpress-v2"
+  }
+}

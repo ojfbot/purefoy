@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215979",
+    "forum_slug": "forum",
+    "topic_slug": "shashank-redemption-harsh-lighting",
+    "parent_post_id": "215964",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I felt the prison canteen high lights seems  little more Harsh compare than prisoner’s cell blocks.",
+  "content_html": "<p>I felt the prison canteen high lights seems  little more Harsh compare than prisoner’s cell blocks.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I felt the prison canteen high lights seems  little more Harsh compare than prisoner’s cell blocks."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shashank-redemption-harsh-lighting/#post-215979",
+    "scraped_at": "2026-01-15T15:42:56.402866+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shashank-redemption-harsh-lighting/#post-215979",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f8c321dff9cfc46d5776198c88527c61b46e367631dcc51aaf6cea50ccaccb05",
+    "parser_version": "bbpress-v2"
+  }
+}

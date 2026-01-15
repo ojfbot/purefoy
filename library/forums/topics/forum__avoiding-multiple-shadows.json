@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/avoiding-multiple-shadows/",
+  "forum_slug": "forum",
+  "topic_slug": "avoiding-multiple-shadows",
+  "title": "Avoiding multiple shadows",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217259"
+  ],
+  "reply_tree": {
+    "post_id": "217259",
+    "post_type": "topic",
+    "author": "Mtm48",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/avoiding-multiple-shadows/",
+    "scraped_at": "2026-01-15T15:21:18.892284+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/avoiding-multiple-shadows/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0dd4d5eb8887cfda68bd287abc55ff82bd3b7b5171204da9a4efa2edd415a677",
+    "parser_version": "bbpress-v2"
+  }
+}

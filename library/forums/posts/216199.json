@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216199",
+    "forum_slug": "camera",
+    "topic_slug": "look-of-film-in-2024",
+    "parent_post_id": "216197",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "BHGoddard",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I was curious about this as well, and although it’s been around, the opposite process of doing a film-out from a digital negative seems to have become an aesthetic choice on more and more films recently (that can afford it).\nThe only one that comes to mind that actually struck a print, scanned it back, and used that as the final grade was The Batman but I’d love to hear if anyone knows of more recent (or older) films that have done the same.\nIt would be interesting to see how popular the process might become and if that will result in an inverse trend to your original question – film acquisition and digital finish (so-to-speak) vs. digital acquisition and print finish (a misnomer since the D.I. is still very much in the equation but I don’t know how else to put it), and seeing whether or not the latter inherently looks closer to film pre-digital intermediate/projection.",
+  "content_html": "<p>I was curious about this as well, and although it’s been around, the opposite process of doing a film-out from a digital negative seems to have become an aesthetic choice on more and more films recently (that can afford it).</p>\n<p>The only one that comes to mind that actually struck a print, scanned it back, and used that as the final grade was The Batman but I’d love to hear if anyone knows of more recent (or older) films that have done the same.</p>\n<p>It would be interesting to see how popular the process might become and if that will result in an inverse trend to your original question – film acquisition and digital finish (so-to-speak) vs. digital acquisition and print finish (a misnomer since the D.I. is still very much in the equation but I don’t know how else to put it), and seeing whether or not the latter inherently looks closer to film pre-digital intermediate/projection.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I was curious about this as well, and although it’s been around, the opposite process of doing a film-out from a digital negative seems to have become an aesthetic choice on more and more films recently (that can afford it)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The only one that comes to mind that actually struck a print, scanned it back, and used that as the final grade was The Batman but I’d love to hear if anyone knows of more recent (or older) films that have done the same."
+    },
+    {
+      "type": "paragraph",
+      "text": "It would be interesting to see how popular the process might become and if that will result in an inverse trend to your original question – film acquisition and digital finish (so-to-speak) vs. digital acquisition and print finish (a misnomer since the D.I. is still very much in the equation but I don’t know how else to put it), and seeing whether or not the latter inherently looks closer to film pre-digital intermediate/projection."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+    "scraped_at": "2026-01-15T14:33:45.471946+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "65c3dad62e2c028026cdeaacf78d23829023280b2a531ae45a27f2ec6c95fdf0",
+    "parser_version": "bbpress-v2"
+  }
+}

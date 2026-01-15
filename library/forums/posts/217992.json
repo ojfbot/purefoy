@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "217992",
+    "forum_slug": "forum",
+    "topic_slug": "creating-natural-looking-window-light-after-sunset",
+    "parent_post_id": "217965",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Matthew_",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for taking the time – it really means a lot to be able to ask this here.\nI don’t need or want to see what’s outside the windows. The main goal is to create the feeling of blue hour – that quiet moment just after sunset.\nI’m mainly after the atmosphere – a soft, subtle glow in the windows. Not complete darkness, but definitely nothing too bright either. Just enough to suggest that there’s still a bit of ambient light outside – and that glow would come from the windows themselves.\nBut then comes the question of exposure inside the room. It’s going to be quite dark, and the idea is that only this ambient dusk light is lighting the space…\nDo you think that could work naturally on camera, or would something need to be added or created to make it believable? I was considering maybe a very soft bounce off the ceiling to gently lift the exposure – but I’m afraid it might feel artificial or take away from the mood.\nOne thought I had was to use the windows in wide shots or wherever they’re visible in frame, as a way to backlight or separate the character from the background. Then, in shots where the window isn’t visible – like in close-ups – maybe I could push more light through it just to help exposure, without breaking the illusion.",
+  "content_html": "<p>Thank you for taking the time – it really means a lot to be able to ask this here.</p>\n<p>I don’t need or want to see what’s outside the windows. The main goal is to create the feeling of blue hour – that quiet moment just after sunset.</p>\n<p>I’m mainly after the atmosphere – a soft, subtle glow in the windows. Not complete darkness, but definitely nothing too bright either. Just enough to suggest that there’s still a bit of ambient light outside – and that glow would come from the windows themselves.</p>\n<p>But then comes the question of exposure inside the room. It’s going to be quite dark, and the idea is that only this ambient dusk light is lighting the space…</p>\n<p>Do you think that could work naturally on camera, or would something need to be added or created to make it believable? I was considering maybe a very soft bounce off the ceiling to gently lift the exposure – but I’m afraid it might feel artificial or take away from the mood.</p>\n<p>One thought I had was to use the windows in wide shots or wherever they’re visible in frame, as a way to backlight or separate the character from the background. Then, in shots where the window isn’t visible – like in close-ups – maybe I could push more light through it just to help exposure, without breaking the illusion.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for taking the time – it really means a lot to be able to ask this here."
+    },
+    {
+      "type": "paragraph",
+      "text": "I don’t need or want to see what’s outside the windows. The main goal is to create the feeling of blue hour – that quiet moment just after sunset."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m mainly after the atmosphere – a soft, subtle glow in the windows. Not complete darkness, but definitely nothing too bright either. Just enough to suggest that there’s still a bit of ambient light outside – and that glow would come from the windows themselves."
+    },
+    {
+      "type": "paragraph",
+      "text": "But then comes the question of exposure inside the room. It’s going to be quite dark, and the idea is that only this ambient dusk light is lighting the space…"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you think that could work naturally on camera, or would something need to be added or created to make it believable? I was considering maybe a very soft bounce off the ceiling to gently lift the exposure – but I’m afraid it might feel artificial or take away from the mood."
+    },
+    {
+      "type": "paragraph",
+      "text": "One thought I had was to use the windows in wide shots or wherever they’re visible in frame, as a way to backlight or separate the character from the background. Then, in shots where the window isn’t visible – like in close-ups – maybe I could push more light through it just to help exposure, without breaking the illusion."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/creating-natural-looking-window-light-after-sunset/#post-218018",
+    "scraped_at": "2026-01-15T15:19:45.501605+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-natural-looking-window-light-after-sunset/#post-218018",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4a463f4430daf9491ef77f38868b0350631751ee10c361c2d7c97ac5769ec0a7",
+    "parser_version": "bbpress-v2"
+  }
+}

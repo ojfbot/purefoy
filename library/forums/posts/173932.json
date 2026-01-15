@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "post_id": "173932",
+    "forum_slug": "post",
+    "topic_slug": "the-company-men-amazon-prime-vs-blu-ray-look"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "dharmawanwilly",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Sir Roger Deakins,\nI just noticed the look of “The Company Men” on Amazon Prime is quite different from the ones published by Blu-ray. Here is the picture attached, taken from trailer and screenshots provided by them; the Blu-ray ones have “Blu-ray” watermark on it.\nI’m curious about which one was your intended look for the movie; the neutral look of Amazon Prime or the seemingly colder look by Blu-ray?",
+  "content_html": "<p>Dear Sir Roger Deakins,</p>\n<p>I just noticed the look of “The Company Men” on Amazon Prime is quite different from the ones published by Blu-ray. Here is the picture attached, taken from trailer and screenshots provided by them; the Blu-ray ones have “Blu-ray” watermark on it.</p>\n<p>I’m curious about which one was your intended look for the movie; the neutral look of Amazon Prime or the seemingly colder look by Blu-ray?</p>\n<p><img alt=\"Amazon-1\" decoding=\"async\" height=\"480\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/173932/whqpadd2cbbq2e7ijt5wtpgehzqb9zwb.png\" width=\"640\"/></p>\n<p><img alt=\"Bluray-1\" decoding=\"async\" height=\"480\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/173932/hxym9zqf1a8s61pvpfsxp8i8c38t9ovu.jpg\" width=\"640\"/></p>\n<p><img alt=\"Amazon-2\" decoding=\"async\" height=\"480\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/173932/9m7b1g8lnnj3cv9okgfpxb1aqm1y7uos.png\" width=\"640\"/></p>\n<p><img alt=\"Bluray-2\" decoding=\"async\" height=\"480\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/173932/dm8dcfl84pqks3ee8vrqj3g3zlc23ne2.jpg\" width=\"640\"/></p>\n<p><img alt=\"Amazon-3\" decoding=\"async\" height=\"480\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/173932/e60l73piftqpobrd28hz6sag1pvyfdfj.png\" width=\"640\"/></p>\n<p><img alt=\"Bluray-3\" decoding=\"async\" height=\"480\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/173932/mjqyrb86hazr007jgfje7lyz65ah76y9.jpg\" width=\"640\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Sir Roger Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I just noticed the look of “The Company Men” on Amazon Prime is quite different from the ones published by Blu-ray. Here is the picture attached, taken from trailer and screenshots provided by them; the Blu-ray ones have “Blu-ray” watermark on it."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m curious about which one was your intended look for the movie; the neutral look of Amazon Prime or the seemingly colder look by Blu-ray?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/173932/whqpadd2cbbq2e7ijt5wtpgehzqb9zwb.png",
+      "alt": "Amazon-1",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/173932/hxym9zqf1a8s61pvpfsxp8i8c38t9ovu.jpg",
+      "alt": "Bluray-1",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/173932/9m7b1g8lnnj3cv9okgfpxb1aqm1y7uos.png",
+      "alt": "Amazon-2",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/173932/dm8dcfl84pqks3ee8vrqj3g3zlc23ne2.jpg",
+      "alt": "Bluray-2",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/173932/e60l73piftqpobrd28hz6sag1pvyfdfj.png",
+      "alt": "Amazon-3",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/173932/mjqyrb86hazr007jgfje7lyz65ah76y9.jpg",
+      "alt": "Bluray-3",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-company-men-amazon-prime-vs-blu-ray-look/#post-175749",
+    "scraped_at": "2026-01-15T13:39:57.613295+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-company-men-amazon-prime-vs-blu-ray-look/#post-175749",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e6715dfdf30bbfa76c6739b1bb26544733ace1074338ec729ca956d0af739e0b",
+    "parser_version": "bbpress-v2"
+  }
+}

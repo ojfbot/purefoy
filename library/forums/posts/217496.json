@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "217496",
+    "forum_slug": "composition",
+    "topic_slug": "framing-for-different-aspect-ratios-with-monitor",
+    "parent_post_id": "217465",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "sanghamithran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "hi master david,\nunderstood the reason to protect for multiple platforms, but isn’t it actually a compromise to frame this way? or does anyone prefer shooting like this, like you pointed out in the style of a rangefinder camera.\nThanks",
+  "content_html": "<p>hi master david,</p>\n<p>understood the reason to protect for multiple platforms, but isn’t it actually a compromise to frame this way? or does anyone prefer shooting like this, like you pointed out in the style of a rangefinder camera.</p>\n<p>Thanks</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "hi master david,"
+    },
+    {
+      "type": "paragraph",
+      "text": "understood the reason to protect for multiple platforms, but isn’t it actually a compromise to frame this way? or does anyone prefer shooting like this, like you pointed out in the style of a rangefinder camera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/framing-for-different-aspect-ratios-with-monitor/#post-217978",
+    "scraped_at": "2026-01-15T12:08:06.331276+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/framing-for-different-aspect-ratios-with-monitor/#post-217978",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2adb2e17f3b8b84ad99df7a11c7af6d26906a47903eaa207b207fe279d9f5b2d",
+    "parser_version": "bbpress-v2"
+  }
+}

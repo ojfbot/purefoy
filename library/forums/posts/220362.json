@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "220362",
+    "forum_slug": "post",
+    "topic_slug": "is-the-quality-of-shot-relevant-for-editing",
+    "parent_post_id": "220357",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks a lot Stip!\nI noticed that too, looking at scenes with fresh eyes, after some days, helps me a lot with editing.  I really love that kind of shots, like Ozu’s pillow shots (like the famous vase one) , the ones in the original Ghost in the Shell or, as you said, in Miyazaki’s works. Surely they are way more common than i remember\n(for some obscure reason your post made me think of a misterious tree full of symbolism…)\nbut i associate them mostly with japanese movies, it seems. They are like visual haikus, to me. I didn’t know they have a word for that, thanks for teaching me that!  🙂\nAnd yes, it’s almost a  “one man show”, i’m doing everything but acting : luckily i’ve some friends with years of experience as theatre actors that helped me, they really did a great job even with my poor directing skills (but it seems that they had a good time working with me and they offered to work again with me on the next short). So i had to learn everything from scratch in every area of a (very small) cinematographic production: from script to sound mixing, from production coordination as a producer to lights wiring as a gaffer.\nIt’s an horror short and i think these “pillow shots” really add something to the mood (and, jokes apart, i really love that famous shot in Prisoners, it creates tension in an abstract but powerful way). My problem is that – even if i did my best – some of the shots have a poorer “visual quality” (camera movement not so smooth, no enough head room, a boring point of view, contrast ratio on the face too even to suit the story, etc etc etc) and i’m not sure about using them, even if they could add something to the narrative element.",
+  "content_html": "<p>Thanks a lot Stip!</p>\n<p>I noticed that too, looking at scenes with fresh eyes, after some days, helps me a lot with editing.  I really love that kind of shots, like Ozu’s pillow shots (like the famous vase one) , the ones in the original Ghost in the Shell or, as you said, in Miyazaki’s works. Surely they are way more common than i remember <em>(for some obscure reason your post made me think of a misterious tree full of symbolism…)</em> but i associate them mostly with japanese movies, it seems. They are like visual haikus, to me. I didn’t know they have a word for that, thanks for teaching me that!  🙂</p>\n<p>And yes, it’s almost a  “one man show”, i’m doing everything but acting : luckily i’ve some friends with years of experience as theatre actors that helped me, they really did a great job even with my poor directing skills (but it seems that they had a good time working with me and they offered to work again with me on the next short). So i had to learn everything from scratch in every area of a (very small) cinematographic production: from script to sound mixing, from production coordination as a producer to lights wiring as a gaffer.</p>\n<p>It’s an horror short and i think these “pillow shots” really add something to the mood (and, jokes apart, i really love that famous shot in Prisoners, it creates tension in an abstract but powerful way). My problem is that – even if i did my best – some of the shots have a poorer “visual quality” (camera movement not so smooth, no enough head room, a boring point of view, contrast ratio on the face too even to suit the story, etc etc etc) and i’m not sure about using them, even if they could add something to the narrative element.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks a lot Stip!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I noticed that too, looking at scenes with fresh eyes, after some days, helps me a lot with editing.  I really love that kind of shots, like Ozu’s pillow shots (like the famous vase one) , the ones in the original Ghost in the Shell or, as you said, in Miyazaki’s works. Surely they are way more common than i remember\n(for some obscure reason your post made me think of a misterious tree full of symbolism…)\nbut i associate them mostly with japanese movies, it seems. They are like visual haikus, to me. I didn’t know they have a word for that, thanks for teaching me that!  🙂"
+    },
+    {
+      "type": "paragraph",
+      "text": "And yes, it’s almost a  “one man show”, i’m doing everything but acting : luckily i’ve some friends with years of experience as theatre actors that helped me, they really did a great job even with my poor directing skills (but it seems that they had a good time working with me and they offered to work again with me on the next short). So i had to learn everything from scratch in every area of a (very small) cinematographic production: from script to sound mixing, from production coordination as a producer to lights wiring as a gaffer."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s an horror short and i think these “pillow shots” really add something to the mood (and, jokes apart, i really love that famous shot in Prisoners, it creates tension in an abstract but powerful way). My problem is that – even if i did my best – some of the shots have a poorer “visual quality” (camera movement not so smooth, no enough head room, a boring point of view, contrast ratio on the face too even to suit the story, etc etc etc) and i’m not sure about using them, even if they could add something to the narrative element."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/is-the-quality-of-shot-relevant-for-editing/#post-220370",
+    "scraped_at": "2026-01-15T11:50:39.148854+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/is-the-quality-of-shot-relevant-for-editing/#post-220370",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0c98a35521e4ee4d9f5a56ac496781f27cd3c1271dcb03c5160462a9172e04e5",
+    "parser_version": "bbpress-v2"
+  }
+}

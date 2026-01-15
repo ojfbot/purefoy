@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "216929",
+    "forum_slug": "forum",
+    "topic_slug": "western-saloon-lighting-from-outside"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "MartinMoll",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi all,\nI am shooting (filming) in a western saloon next month and have very little experience lighting from outside.\nMy own lights / limited resources are:\n2x 500w bi-color LED\n2x 300w bi-color LED\nsome smaller LEDs, tubes etc.\nDo you guys think having 1000w outside would be enough to shoot a sunset look during the day? The saloon is quite small with windows facing north (no direct sunlight) and it’s winter here in Germany. Otherwise, I could rent additional lights of course.\nCheers, Martin",
+  "content_html": "<p>Hi all,<br/>\nI am shooting (filming) in a western saloon next month and have very little experience lighting from outside.</p>\n<p>My own lights / limited resources are:<br/>\n2x 500w bi-color LED<br/>\n2x 300w bi-color LED<br/>\nsome smaller LEDs, tubes etc.</p>\n<p>Do you guys think having 1000w outside would be enough to shoot a sunset look during the day? The saloon is quite small with windows facing north (no direct sunlight) and it’s winter here in Germany. Otherwise, I could rent additional lights of course.</p>\n<p>Cheers, Martin</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi all,\nI am shooting (filming) in a western saloon next month and have very little experience lighting from outside."
+    },
+    {
+      "type": "paragraph",
+      "text": "My own lights / limited resources are:\n2x 500w bi-color LED\n2x 300w bi-color LED\nsome smaller LEDs, tubes etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you guys think having 1000w outside would be enough to shoot a sunset look during the day? The saloon is quite small with windows facing north (no direct sunlight) and it’s winter here in Germany. Otherwise, I could rent additional lights of course."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cheers, Martin"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/western-saloon-lighting-from-outside/#post-216983",
+    "scraped_at": "2026-01-15T15:22:10.260719+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/western-saloon-lighting-from-outside/#post-216983",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dc21c14a8a0d6aa2a302472f7a3f9e3db4f0e37a397659c235c435260808c80b",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/i-think-i-found-a-solution-to-the-edit-bug-maybe/#post-216578",
+  "forum_slug": "website-news",
+  "topic_slug": "i-think-i-found-a-solution-to-the-edit-bug-maybe",
+  "title": "I think i found a solution to the “edit” bug (maybe)",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216533",
+    "216553",
+    "216559",
+    "216560",
+    "216578"
+  ],
+  "reply_tree": {
+    "post_id": "216533",
+    "post_type": "topic",
+    "author": "LucaM",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216553",
+        "post_type": "reply",
+        "author": "James",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216559",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216560",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216578",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/i-think-i-found-a-solution-to-the-edit-bug-maybe/#post-216578",
+    "scraped_at": "2026-01-15T11:51:08.950809+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/i-think-i-found-a-solution-to-the-edit-bug-maybe/#post-216578",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0016c071ab6f7dc4ea978e17152a046f8a0552b5e472a94501deea8ca43a9f30",
+    "parser_version": "bbpress-v2"
+  }
+}

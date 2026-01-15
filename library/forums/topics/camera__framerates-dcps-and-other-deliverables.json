@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/framerates-dcps-and-other-deliverables/#post-216416",
+  "forum_slug": "camera",
+  "topic_slug": "framerates-dcps-and-other-deliverables",
+  "title": "Framerates, DCPs and other deliverables.",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216412",
+    "216413",
+    "216416"
+  ],
+  "reply_tree": {
+    "post_id": "216412",
+    "post_type": "topic",
+    "author": "Will0",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216413",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216416",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/framerates-dcps-and-other-deliverables/#post-216416",
+    "scraped_at": "2026-01-15T14:13:27.054380+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/framerates-dcps-and-other-deliverables/#post-216416",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "91d8b63c10daff2950f8a8bc46d08aea780b6705f9e64bb41005da41342ed451",
+    "parser_version": "bbpress-v2"
+  }
+}

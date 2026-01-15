@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217162",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-for-blackmagic-micro-studio",
+    "parent_post_id": "217115",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "satin",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "<p style=”text-align: left;”>Thank you very much for your answer. Okey! I’ll do read the forums, the page, information and practice!</p>",
+  "content_html": "<p>&lt;p style=”text-align: left;”&gt;Thank you very much for your answer. Okey! I’ll do read the forums, the page, information and practice!&lt;/p&gt;</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "<p style=”text-align: left;”>Thank you very much for your answer. Okey! I’ll do read the forums, the page, information and practice!</p>"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-for-blackmagic-micro-studio/#post-217162",
+    "scraped_at": "2026-01-15T15:21:54.758943+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-blackmagic-micro-studio/#post-217162",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6efd3a97b80c5bb5ef80aea4f050937cb7d07cdbc762203437b4f3a4054496cb",
+    "parser_version": "bbpress-v2"
+  }
+}

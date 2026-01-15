@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "post_id": "197292",
+    "forum_slug": "set-talk",
+    "topic_slug": "age-factor",
+    "parent_post_id": "177312",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "The Byre",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger Deakins wrote:\nIn my opinion being a cinematographer requires a high level of fitness.\nI am about the same age as you and it’s not just the cinematographer that has to be fit – and age DOES play a role – but in reverse.  I really notice that many younger crew members cannot handle long days.  When it gets to 11 or 12 at night and we’ve all been on our pins all day, they seem to wilt.\nI’m sure someone will tell me why this is, but I have noticed it happening many times!",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/age-factor/#post-178572\">Roger Deakins wrote:</a></div>\n<p>In my opinion being a cinematographer requires a high level of fitness. </p></blockquote>\n<p>I am about the same age as you and it’s not just the cinematographer that has to be fit – and age DOES play a role – but in reverse.  I really notice that many younger crew members cannot handle long days.  When it gets to 11 or 12 at night and we’ve all been on our pins all day, they seem to wilt.</p>\n<p>I’m sure someone will tell me why this is, but I have noticed it happening many times!</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Roger Deakins wrote:\nIn my opinion being a cinematographer requires a high level of fitness."
+    },
+    {
+      "type": "paragraph",
+      "text": "In my opinion being a cinematographer requires a high level of fitness."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am about the same age as you and it’s not just the cinematographer that has to be fit – and age DOES play a role – but in reverse.  I really notice that many younger crew members cannot handle long days.  When it gets to 11 or 12 at night and we’ve all been on our pins all day, they seem to wilt."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m sure someone will tell me why this is, but I have noticed it happening many times!"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Roger Deakins wrote:\nIn my opinion being a cinematographer requires a high level of fitness."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/age-factor/#post-178572",
+      "text": "Roger Deakins wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/age-factor/#post-215615",
+    "scraped_at": "2026-01-15T13:06:10.209696+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/age-factor/#post-215615",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d6802ff10cdfd0804d7adf542eab9cb28ac84f9d489008cad75b193f4f553743",
+    "parser_version": "bbpress-v2"
+  }
+}

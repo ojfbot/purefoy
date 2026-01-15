@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "208647",
+    "forum_slug": "composition",
+    "topic_slug": "practicing-cinematography"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "bardanmcguire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Roger, Hope you’re doing well.\nI just wanted to ask you do you have any tips on practicing cinematography / visual storytelling properly?\nI was thinking about this recently that if there are right and wrong ways to practicing just about everything then there must be correct and incorrect ways of practicing cinematography.\nHope to hear from you soon.\nBardán",
+  "content_html": "<p>Hello Roger, Hope you’re doing well.</p>\n<p>I just wanted to ask you do you have any tips on practicing cinematography / visual storytelling properly?</p>\n<p>I was thinking about this recently that if there are right and wrong ways to practicing just about everything then there must be correct and incorrect ways of practicing cinematography.</p>\n<p>Hope to hear from you soon.</p>\n<p>Bardán</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Roger, Hope you’re doing well."
+    },
+    {
+      "type": "paragraph",
+      "text": "I just wanted to ask you do you have any tips on practicing cinematography / visual storytelling properly?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was thinking about this recently that if there are right and wrong ways to practicing just about everything then there must be correct and incorrect ways of practicing cinematography."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope to hear from you soon."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bardán"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/practicing-cinematography/#post-209158",
+    "scraped_at": "2026-01-15T13:23:42.322608+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/practicing-cinematography/#post-209158",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "24988322948d12b79d3942719aa37311413da5b9879429779838f02625da3f4a",
+    "parser_version": "bbpress-v2"
+  }
+}

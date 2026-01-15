@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "218149",
+    "forum_slug": "forum",
+    "topic_slug": "faking-daylight-on-a-small-crew",
+    "parent_post_id": "218147",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If you haven’t experienced a tropical rain the lack of sunshine can be the least of your problems. Rains in Costa Rica as in any other tropical area can get nasty very fast, be aware and listen to locals.\nYour plan with what you have sounds the best option. As you say, you will need to sell the idea of a shiny paradise and without a big crew or big lights tight framing, careful positioning and taking care of your backgrounds will be your allies. The nice thing of working with a skeleton crew is you can improvise a lot more. I would add some mirror frames to your package which won’t break the bank and can get you out of  jail in a pinch, once you move away those 600 they become very anemic.\nI was recently on a small shoot in the Caribbean which had to be shot later this June but we decided to move it to April precisely to avoid raining season and still we got rain half the days. Luckily there were quite a lot of interior work which we scheduled on raining days so the only person complaining was the sound guy.\nGood luck!",
+  "content_html": "<p>If you haven’t experienced a tropical rain the lack of sunshine can be the least of your problems. Rains in Costa Rica as in any other tropical area can get nasty very fast, be aware and listen to locals.</p>\n<p>Your plan with what you have sounds the best option. As you say, you will need to sell the idea of a shiny paradise and without a big crew or big lights tight framing, careful positioning and taking care of your backgrounds will be your allies. The nice thing of working with a skeleton crew is you can improvise a lot more. I would add some mirror frames to your package which won’t break the bank and can get you out of  jail in a pinch, once you move away those 600 they become very anemic.</p>\n<p>I was recently on a small shoot in the Caribbean which had to be shot later this June but we decided to move it to April precisely to avoid raining season and still we got rain half the days. Luckily there were quite a lot of interior work which we scheduled on raining days so the only person complaining was the sound guy.</p>\n<p>Good luck!</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you haven’t experienced a tropical rain the lack of sunshine can be the least of your problems. Rains in Costa Rica as in any other tropical area can get nasty very fast, be aware and listen to locals."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your plan with what you have sounds the best option. As you say, you will need to sell the idea of a shiny paradise and without a big crew or big lights tight framing, careful positioning and taking care of your backgrounds will be your allies. The nice thing of working with a skeleton crew is you can improvise a lot more. I would add some mirror frames to your package which won’t break the bank and can get you out of  jail in a pinch, once you move away those 600 they become very anemic."
+    },
+    {
+      "type": "paragraph",
+      "text": "I was recently on a small shoot in the Caribbean which had to be shot later this June but we decided to move it to April precisely to avoid raining season and still we got rain half the days. Luckily there were quite a lot of interior work which we scheduled on raining days so the only person complaining was the sound guy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Good luck!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/faking-daylight-on-a-small-crew/#post-218156",
+    "scraped_at": "2026-01-15T15:18:09.038375+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/faking-daylight-on-a-small-crew/#post-218156",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "46212931447209090885cd4a2047a16c4e75427577c05314962187826cfc4455",
+    "parser_version": "bbpress-v2"
+  }
+}

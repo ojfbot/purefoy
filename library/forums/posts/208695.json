@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "208695",
+    "forum_slug": "forum",
+    "topic_slug": "creating-a-black-void",
+    "parent_post_id": "207518",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I thin k you could simply shoot this with black velvet drape but I would be careful about what your character is wearing. If the black is not dense enough you should be able to crunch it with a window in timing. You could shoot this inside or at night outside. You only need black in the area directly interacting with the character.\nThis reply was modified 2 years, 8 months ago by\nRoger Deakins\n.",
+  "content_html": "<p>I thin k you could simply shoot this with black velvet drape but I would be careful about what your character is wearing. If the black is not dense enough you should be able to crunch it with a window in timing. You could shoot this inside or at night outside. You only need black in the area directly interacting with the character.</p>\n<p> </p>\n<ul class=\"bbp-reply-revision-log\" id=\"bbp-reply-revision-log-208695\">\n<li class=\"bbp-reply-revision-log-item\" id=\"bbp-reply-revision-log-208695-item-208696\">\n\t\tThis reply was modified 2 years, 8 months ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/roger/\" title=\"View Roger Deakins's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png\" srcset=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-28x28.png 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">Roger Deakins</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I thin k you could simply shoot this with black velvet drape but I would be careful about what your character is wearing. If the black is not dense enough you should be able to crunch it with a window in timing. You could shoot this inside or at night outside. You only need black in the area directly interacting with the character."
+    },
+    {
+      "type": "list",
+      "text": "This reply was modified 2 years, 8 months ago by\nRoger Deakins\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/roger/",
+      "text": "Roger Deakins",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/creating-a-black-void/#post-208695",
+    "scraped_at": "2026-01-15T15:53:51.738744+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-a-black-void/#post-208695",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4e9ade369418b27dc777e930cacbf76f6276fe16e59ffa21aec1c79e16da7ba0",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "220390",
+    "forum_slug": "forum",
+    "topic_slug": "reflections-book-arrived",
+    "parent_post_id": "220350",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Daniel wrote:\nDid you get your copy?\nLooking forward to read it but it will published on november 11th and won’t be here sooner than next month (but i am a bit sceptical about that, we’ll see) . 🙁",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/reflections-book-arrived/#post-220374\">Daniel wrote:</a></div>\n<p>Did you get your copy?</p></blockquote>\n<p>Looking forward to read it but it will published on november 11th and won’t be here sooner than next month (but i am a bit sceptical about that, we’ll see) . 🙁</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Daniel wrote:\nDid you get your copy?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you get your copy?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Looking forward to read it but it will published on november 11th and won’t be here sooner than next month (but i am a bit sceptical about that, we’ll see) . 🙁"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Daniel wrote:\nDid you get your copy?"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/reflections-book-arrived/#post-220374",
+      "text": "Daniel wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-book-arrived/#post-220408",
+    "scraped_at": "2026-01-15T13:24:03.975568+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-book-arrived/#post-220408",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0d34264d2b18c897925cc8b00887f9c2c108efed58b3638a467f4b5c9626f701",
+    "parser_version": "bbpress-v2"
+  }
+}

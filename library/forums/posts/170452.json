@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "170452",
+    "forum_slug": "camera",
+    "topic_slug": "differences-between-the-arri-xt-studio-and-other-cameras",
+    "parent_post_id": "170446",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I had asked Arri if it were possible to create a digital camera with an optical viewfinder as the electronic finders were then so tiring on the eye and really not that good.  The XT Studio was the result. There is no alternative to an electronic finder for any small digital camera so the optical option simply no longer exists.",
+  "content_html": "<p>I had asked Arri if it were possible to create a digital camera with an optical viewfinder as the electronic finders were then so tiring on the eye and really not that good.  The XT Studio was the result. There is no alternative to an electronic finder for any small digital camera so the optical option simply no longer exists.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I had asked Arri if it were possible to create a digital camera with an optical viewfinder as the electronic finders were then so tiring on the eye and really not that good.  The XT Studio was the result. There is no alternative to an electronic finder for any small digital camera so the optical option simply no longer exists."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/differences-between-the-arri-xt-studio-and-other-cameras/#post-170457",
+    "scraped_at": "2026-01-15T15:46:20.090903+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/differences-between-the-arri-xt-studio-and-other-cameras/#post-170457",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7d72d29c1321f62f846c90a4ec0db9b52f1b9c6415371cf6e0203104df450d2a",
+    "parser_version": "bbpress-v2"
+  }
+}

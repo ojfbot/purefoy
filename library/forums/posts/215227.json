@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215227",
+    "forum_slug": "camera",
+    "topic_slug": "advantages-and-disadvantages-of-feature-film-live-sound",
+    "parent_post_id": "215198",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "The Byre",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’ll just add to the above that not all actors are good at ADR, but ADR does give the casting director the freedom to pick actors who look perfect for the role but whose voices are unsuitable.  We are hoping to get going on a film in Gaelic, English and German next year (or maybe the year after that – we shall see!) and I imagine that there will be quite some ADR involved as most Gaelic speakers are older and the kid we would like for the junior lead does not even speak English!  The actress for the proper lead role speaks all three and the script is being written around her.",
+  "content_html": "<p>I’ll just add to the above that not all actors are good at ADR, but ADR does give the casting director the freedom to pick actors who look perfect for the role but whose voices are unsuitable.  We are hoping to get going on a film in Gaelic, English and German next year (or maybe the year after that – we shall see!) and I imagine that there will be quite some ADR involved as most Gaelic speakers are older and the kid we would like for the junior lead does not even speak English!  The actress for the proper lead role speaks all three and the script is being written around her.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’ll just add to the above that not all actors are good at ADR, but ADR does give the casting director the freedom to pick actors who look perfect for the role but whose voices are unsuitable.  We are hoping to get going on a film in Gaelic, English and German next year (or maybe the year after that – we shall see!) and I imagine that there will be quite some ADR involved as most Gaelic speakers are older and the kid we would like for the junior lead does not even speak English!  The actress for the proper lead role speaks all three and the script is being written around her."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/advantages-and-disadvantages-of-feature-film-live-sound/#post-215227",
+    "scraped_at": "2026-01-15T15:22:48.282427+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/advantages-and-disadvantages-of-feature-film-live-sound/#post-215227",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fd24bb34589eaaa04f867c693cd1b041ebb8d040a729ac28b8ad367e8dda2a61",
+    "parser_version": "bbpress-v2"
+  }
+}

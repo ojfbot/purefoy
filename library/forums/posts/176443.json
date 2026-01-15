@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "176443",
+    "forum_slug": "camera",
+    "topic_slug": "what-aperture-did-people-tend-to-use-in-movies-in-the-1940s",
+    "parent_post_id": "176430",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A “ton” is relative… In 1938, Kodak came out with Plus-X (80 ASA) and Super-XX (160 ASA).  Super-XX was used on “Citizen Kane”, sometimes pushed one-stop (so 320 ASA), and a few rare shots, pushed 2-stops (so 640 ASA).\n“Casablanca” would have been shot on Plus-X and probably lit and shot at an f/2.8 to f/4 as was common back then. But after “Citizen Kane” the interest in using more light and stopping down for more depth of field began in earnest for b&w films, though usually not to f/16 like “Citizen Kane” did on some scenes. Also, Super-XX was not commonly used despite the extra speed (it probably cost more to buy too.) It was replaced by Tri-X negative (1954, 320 ASA) and then Double-X negative (1959, 250 ASA). Stanley Cortez used Tri-X on films like “Shock Corridor” and “Night of the Hunter”. Plus-X was by far the most common b&w film stock used back then, though in the 1960s, Double-X started to be used more and more.\nKeep in mind that if the lighting is mostly hard and direct, you can get an f/2.8 on smaller units using Plus-X — you can key a close-up on a direct 650w or 1K tungsten fresnel at f/2.8 on 64/80 ASA film. Wider shots you’d get into 2Ks and 5Ks, maybe 10Ks outside windows.",
+  "content_html": "<p>A “ton” is relative… In 1938, Kodak came out with Plus-X (80 ASA) and Super-XX (160 ASA).  Super-XX was used on “Citizen Kane”, sometimes pushed one-stop (so 320 ASA), and a few rare shots, pushed 2-stops (so 640 ASA).</p>\n<p>“Casablanca” would have been shot on Plus-X and probably lit and shot at an f/2.8 to f/4 as was common back then. But after “Citizen Kane” the interest in using more light and stopping down for more depth of field began in earnest for b&amp;w films, though usually not to f/16 like “Citizen Kane” did on some scenes. Also, Super-XX was not commonly used despite the extra speed (it probably cost more to buy too.) It was replaced by Tri-X negative (1954, 320 ASA) and then Double-X negative (1959, 250 ASA). Stanley Cortez used Tri-X on films like “Shock Corridor” and “Night of the Hunter”. Plus-X was by far the most common b&amp;w film stock used back then, though in the 1960s, Double-X started to be used more and more.</p>\n<p>Keep in mind that if the lighting is mostly hard and direct, you can get an f/2.8 on smaller units using Plus-X — you can key a close-up on a direct 650w or 1K tungsten fresnel at f/2.8 on 64/80 ASA film. Wider shots you’d get into 2Ks and 5Ks, maybe 10Ks outside windows.</p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A “ton” is relative… In 1938, Kodak came out with Plus-X (80 ASA) and Super-XX (160 ASA).  Super-XX was used on “Citizen Kane”, sometimes pushed one-stop (so 320 ASA), and a few rare shots, pushed 2-stops (so 640 ASA)."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Casablanca” would have been shot on Plus-X and probably lit and shot at an f/2.8 to f/4 as was common back then. But after “Citizen Kane” the interest in using more light and stopping down for more depth of field began in earnest for b&w films, though usually not to f/16 like “Citizen Kane” did on some scenes. Also, Super-XX was not commonly used despite the extra speed (it probably cost more to buy too.) It was replaced by Tri-X negative (1954, 320 ASA) and then Double-X negative (1959, 250 ASA). Stanley Cortez used Tri-X on films like “Shock Corridor” and “Night of the Hunter”. Plus-X was by far the most common b&w film stock used back then, though in the 1960s, Double-X started to be used more and more."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep in mind that if the lighting is mostly hard and direct, you can get an f/2.8 on smaller units using Plus-X — you can key a close-up on a direct 650w or 1K tungsten fresnel at f/2.8 on 64/80 ASA film. Wider shots you’d get into 2Ks and 5Ks, maybe 10Ks outside windows."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-aperture-did-people-tend-to-use-in-movies-in-the-1940s/#post-176495",
+    "scraped_at": "2026-01-15T15:44:44.514467+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-aperture-did-people-tend-to-use-in-movies-in-the-1940s/#post-176495",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "22d70288ce46f45e6a872cbc88f3c07e05723fec3bfc7b1fd83fcc5761c6c38b",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216961",
+    "forum_slug": "forum",
+    "topic_slug": "western-saloon-lighting-from-outside",
+    "parent_post_id": "216929",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I wonder if that 10K Fresnel was actually a Carbon Arc. The picture shows a lamp with a pretty large front. A Carbon Arc (Brute Arc) would probably give you the wider pattern of ‘sunlight’ that appears in the scene.",
+  "content_html": "<p>I wonder if that 10K Fresnel was actually a Carbon Arc. The picture shows a lamp with a pretty large front. A Carbon Arc (Brute Arc) would probably give you the wider pattern of ‘sunlight’ that appears in the scene.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I wonder if that 10K Fresnel was actually a Carbon Arc. The picture shows a lamp with a pretty large front. A Carbon Arc (Brute Arc) would probably give you the wider pattern of ‘sunlight’ that appears in the scene."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/western-saloon-lighting-from-outside/#post-216983",
+    "scraped_at": "2026-01-15T15:22:10.261873+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/western-saloon-lighting-from-outside/#post-216983",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3088285097bae1115f20e2bbe90e4330213593ded2825e0d8cc2a0438d55e049",
+    "parser_version": "bbpress-v2"
+  }
+}

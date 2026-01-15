@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/oldschool-hollywood-lighting-50s-60s/#post-215763",
+  "forum_slug": "forum",
+  "topic_slug": "oldschool-hollywood-lighting-50s-60s",
+  "title": "Oldschool Hollywood lighting 50s/60s",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215736",
+    "215738",
+    "215743",
+    "215756",
+    "215760",
+    "215763"
+  ],
+  "reply_tree": {
+    "post_id": "215736",
+    "post_type": "topic",
+    "author": "jmixon",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215738",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215743",
+        "post_type": "reply",
+        "author": "M Ryan",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215756",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215760",
+        "post_type": "reply",
+        "author": "jmixon",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215763",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/oldschool-hollywood-lighting-50s-60s/#post-215763",
+    "scraped_at": "2026-01-15T15:44:38.747167+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/oldschool-hollywood-lighting-50s-60s/#post-215763",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6791df6f520a45e1ace881b225827de7926c47c5f734e8f6d36947088cd375b5",
+    "parser_version": "bbpress-v2"
+  }
+}

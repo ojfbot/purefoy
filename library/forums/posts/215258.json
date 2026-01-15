@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215258",
+    "forum_slug": "forum",
+    "topic_slug": "desert-chase-at-dawn-scene-in-no-country-for-old-men",
+    "parent_post_id": "215246",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I typed a long reply and by the time I hit “submit” the website software didn’t accept it I guess! It disappeared!",
+  "content_html": "<p>I typed a long reply and by the time I hit “submit” the website software didn’t accept it I guess! It disappeared!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I typed a long reply and by the time I hit “submit” the website software didn’t accept it I guess! It disappeared!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/desert-chase-at-dawn-scene-in-no-country-for-old-men/#post-215883",
+    "scraped_at": "2026-01-15T15:43:44.760171+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/desert-chase-at-dawn-scene-in-no-country-for-old-men/#post-215883",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "980490dc37edc8177a16cba77ada2feb175f326e739ef3d6bd21035ff4be43fd",
+    "parser_version": "bbpress-v2"
+  }
+}

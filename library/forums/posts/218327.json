@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "218327",
+    "forum_slug": "forum",
+    "topic_slug": "large-scale-sun-simulation-through-church-vitraux-feature-film-setup",
+    "parent_post_id": "218286",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I once projected a Wendy light through a dense, leaded window. It worked well but we were lucky the lead didn’t melt! But you shouldn’t have a similar problem with HMIs.\nThe rig of lights you propose would seem to have to occupy a large space, rather than form a point source like the sun. A single ArriMax 18K would give a more defined beam and the lamp could be rigged further from the window. If you wanted even more light, given an LF can be rated at 1600 without noticeable loss, you could overlap two of these lamps and still have a sharp beam. I would have one above the other so the beam is sharpest in the horizontal axis where it would be more apparent.",
+  "content_html": "<p>I once projected a Wendy light through a dense, leaded window. It worked well but we were lucky the lead didn’t melt! But you shouldn’t have a similar problem with HMIs.</p>\n<p>The rig of lights you propose would seem to have to occupy a large space, rather than form a point source like the sun. A single ArriMax 18K would give a more defined beam and the lamp could be rigged further from the window. If you wanted even more light, given an LF can be rated at 1600 without noticeable loss, you could overlap two of these lamps and still have a sharp beam. I would have one above the other so the beam is sharpest in the horizontal axis where it would be more apparent.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I once projected a Wendy light through a dense, leaded window. It worked well but we were lucky the lead didn’t melt! But you shouldn’t have a similar problem with HMIs."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rig of lights you propose would seem to have to occupy a large space, rather than form a point source like the sun. A single ArriMax 18K would give a more defined beam and the lamp could be rigged further from the window. If you wanted even more light, given an LF can be rated at 1600 without noticeable loss, you could overlap two of these lamps and still have a sharp beam. I would have one above the other so the beam is sharpest in the horizontal axis where it would be more apparent."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/large-scale-sun-simulation-through-church-vitraux-feature-film-setup/#post-219523",
+    "scraped_at": "2026-01-15T14:16:52.723754+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/large-scale-sun-simulation-through-church-vitraux-feature-film-setup/#post-219523",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ba26ed9f3395588aa6e5c1bd4e99cb83e3ca8e585265db795582c5e12c2c86a0",
+    "parser_version": "bbpress-v2"
+  }
+}

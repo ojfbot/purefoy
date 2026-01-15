@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/faking-daylight-on-a-small-crew/#post-218156",
+  "forum_slug": "forum",
+  "topic_slug": "faking-daylight-on-a-small-crew",
+  "title": "Faking Daylight on a small crew",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "218147",
+    "218149",
+    "218156"
+  ],
+  "reply_tree": {
+    "post_id": "218147",
+    "post_type": "topic",
+    "author": "Indiana_Wilson",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "218149",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218156",
+        "post_type": "reply",
+        "author": "Indiana_Wilson",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/faking-daylight-on-a-small-crew/#post-218156",
+    "scraped_at": "2026-01-15T15:18:09.052085+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/faking-daylight-on-a-small-crew/#post-218156",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "096d3e5376d70b3fa14dfef3d1fc76ea0a85084d9d9c8db1524e28cb64b0a879",
+    "parser_version": "bbpress-v2"
+  }
+}

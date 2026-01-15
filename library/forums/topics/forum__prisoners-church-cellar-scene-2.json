@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/prisoners-church-cellar-scene-2/#post-216758",
+  "forum_slug": "forum",
+  "topic_slug": "prisoners-church-cellar-scene-2",
+  "title": "“Prisoners” church cellar scene",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216659",
+    "216680",
+    "216687",
+    "216696",
+    "216721",
+    "216758"
+  ],
+  "reply_tree": {
+    "post_id": "216659",
+    "post_type": "topic",
+    "author": "LucaM",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216680",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216687",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216696",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216721",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216758",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/prisoners-church-cellar-scene-2/#post-216758",
+    "scraped_at": "2026-01-15T15:23:03.968431+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/prisoners-church-cellar-scene-2/#post-216758",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "085e0e00e1bdc14e0bf0dba17a31b7252d9105b27d5b436aadb4b120499301a8",
+    "parser_version": "bbpress-v2"
+  }
+}

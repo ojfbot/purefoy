@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "169458",
+    "forum_slug": "composition",
+    "topic_slug": "most-used-focal-length-on-jesse-james"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "sanghamithran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "hi , master roger\ncan you say what were your most used focal lengths on jesse james film. if possible on these attached images.\nespecially the shot which jesse standing in front of the train.\nwas a bit worried since forum was inaccessible for some days.\neveryone will be very relieved now .\nT\nThank you.",
+  "content_html": "<p><img alt=\"1\" decoding=\"async\" src=\"https://drive.google.com/file/d/1u-tMbobXGI2NTiV0ZFoLqgAWqKIDFTnE/view?usp=sharing\"/><br/>\n<img alt=\"2\" decoding=\"async\" src=\"https://drive.google.com/file/d/13nfmMtvhoeF_P5tc5zcolkuTt2PocoIS/view?usp=sharing, https://drive.google.com/file/d/1SzmEzxT57v_50EwjRuFTu7rC7IGYHLqW/view?usp=sharing, https://drive.google.com/file/d/1Uk9Z_abLgMSM8to1Crfz3dPZ_sAqW05L/view?usp=sharing, https://drive.google.com/file/d/1V0mhM350RPA-MloPaF2G9-t2VDHQ7no5/view?usp=sharing, https://drive.google.com/file/d/1hNi4DtnJwX2ge764sFPAb25PUFs0-KBu/view?usp=sharing, https://drive.google.com/file/d/1tENG-ZzJi9Sj9Ej4Oilpe6-IwO5qujKA/view?usp=sharing, https://drive.google.com/file/d/1twMj_DwuTEA_FO4dPbEEhglz70-9A-Lc/view?usp=sharing, https://drive.google.com/file/d/1xFVjhAyvebAW0Rf6rmfg2LMfywgQJzJI/view?usp=sharing\"/></p>\n<p>hi , master roger<br/>\ncan you say what were your most used focal lengths on jesse james film. if possible on these attached images.<br/>\nespecially the shot which jesse standing in front of the train.<br/>\nwas a bit worried since forum was inaccessible for some days.<br/>\neveryone will be very relieved now .<br/>\nT<br/>\nThank you.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "hi , master roger\ncan you say what were your most used focal lengths on jesse james film. if possible on these attached images.\nespecially the shot which jesse standing in front of the train.\nwas a bit worried since forum was inaccessible for some days.\neveryone will be very relieved now .\nT\nThank you."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://drive.google.com/file/d/1u-tMbobXGI2NTiV0ZFoLqgAWqKIDFTnE/view?usp=sharing",
+      "alt": "1",
+      "kind": "image"
+    },
+    {
+      "src": "https://drive.google.com/file/d/13nfmMtvhoeF_P5tc5zcolkuTt2PocoIS/view?usp=sharing, https://drive.google.com/file/d/1SzmEzxT57v_50EwjRuFTu7rC7IGYHLqW/view?usp=sharing, https://drive.google.com/file/d/1Uk9Z_abLgMSM8to1Crfz3dPZ_sAqW05L/view?usp=sharing, https://drive.google.com/file/d/1V0mhM350RPA-MloPaF2G9-t2VDHQ7no5/view?usp=sharing, https://drive.google.com/file/d/1hNi4DtnJwX2ge764sFPAb25PUFs0-KBu/view?usp=sharing, https://drive.google.com/file/d/1tENG-ZzJi9Sj9Ej4Oilpe6-IwO5qujKA/view?usp=sharing, https://drive.google.com/file/d/1twMj_DwuTEA_FO4dPbEEhglz70-9A-Lc/view?usp=sharing, https://drive.google.com/file/d/1xFVjhAyvebAW0Rf6rmfg2LMfywgQJzJI/view?usp=sharing",
+      "alt": "2",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/most-used-focal-length-on-jesse-james/#post-169544",
+    "scraped_at": "2026-01-15T13:39:54.145299+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/most-used-focal-length-on-jesse-james/#post-169544",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "220e857d9b88a9efd4789594a4b5b078aa66af5530006e628483bf3e147a4e9a",
+    "parser_version": "bbpress-v2"
+  }
+}

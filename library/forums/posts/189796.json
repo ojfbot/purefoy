@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "189796",
+    "forum_slug": "camera",
+    "topic_slug": "balancing-monitors",
+    "parent_post_id": "175337",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "James",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Our DIT monitor is always a P3 monitor. Before we shoot, I have not only this monitor (and the back up) calibrated, but I also get the other monitors on set, which are normally Rec709, calibrated as close as possible. AND, I have the editorial monitors calibrated as well. If things start to drift during the production, I arrange for another round of calibration. It’s very important to us that everyone is seeing what we’re shooting since we are shooting it as we want to see it in the end. We don’t plan to “fix” things in the DI.",
+  "content_html": "<p>Our DIT monitor is always a P3 monitor. Before we shoot, I have not only this monitor (and the back up) calibrated, but I also get the other monitors on set, which are normally Rec709, calibrated as close as possible. AND, I have the editorial monitors calibrated as well. If things start to drift during the production, I arrange for another round of calibration. It’s very important to us that everyone is seeing what we’re shooting since we are shooting it as we want to see it in the end. We don’t plan to “fix” things in the DI.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Our DIT monitor is always a P3 monitor. Before we shoot, I have not only this monitor (and the back up) calibrated, but I also get the other monitors on set, which are normally Rec709, calibrated as close as possible. AND, I have the editorial monitors calibrated as well. If things start to drift during the production, I arrange for another round of calibration. It’s very important to us that everyone is seeing what we’re shooting since we are shooting it as we want to see it in the end. We don’t plan to “fix” things in the DI."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/balancing-monitors/#post-189796",
+    "scraped_at": "2026-01-15T15:43:34.851623+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/balancing-monitors/#post-189796",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3c15ebf8c714ec263ac751ef6257469ffabce5661d245ba210fc9ac1f03a1c26",
+    "parser_version": "bbpress-v2"
+  }
+}

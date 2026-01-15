@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215642",
+    "forum_slug": "forum",
+    "topic_slug": "achieving-natural-bounce-result-in-a-daylight-scenario",
+    "parent_post_id": "215618",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Other than the fall-off of the light, a big source far away is similar to a small source close in. Only one of those references has a bounce source wrapping extra light on the face. And  am not saying which one that was.\nThe blocking of a scene and the choice of the time of day are key. Why is one character backlit and the other in full sun? That is a conscious choice.",
+  "content_html": "<p>Other than the fall-off of the light, a big source far away is similar to a small source close in. Only one of those references has a bounce source wrapping extra light on the face. And  am not saying which one that was.</p>\n<p>The blocking of a scene and the choice of the time of day are key. Why is one character backlit and the other in full sun? That is a conscious choice.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Other than the fall-off of the light, a big source far away is similar to a small source close in. Only one of those references has a bounce source wrapping extra light on the face. And  am not saying which one that was."
+    },
+    {
+      "type": "paragraph",
+      "text": "The blocking of a scene and the choice of the time of day are key. Why is one character backlit and the other in full sun? That is a conscious choice."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/achieving-natural-bounce-result-in-a-daylight-scenario/#post-215667",
+    "scraped_at": "2026-01-15T15:45:44.771709+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/achieving-natural-bounce-result-in-a-daylight-scenario/#post-215667",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fa3cc89bee34b795ab42d674fd5bd3776df9bcef1c36ff8c3a5163c4bd004de7",
+    "parser_version": "bbpress-v2"
+  }
+}

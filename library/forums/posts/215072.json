@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215072",
+    "forum_slug": "camera",
+    "topic_slug": "different-camera-tint-between-sicario-and-prisoners",
+    "parent_post_id": "215033",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "halfgrain",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The overall look of the movie is generally developed before any takes are shot and include the planned color grading, often developing a specific LUT for the movie. Therefore the decisions of color tint and “feel” don’t really need to be dialed in in-camera, but can be solved by using an according LUT in the DI.",
+  "content_html": "<p>The overall look of the movie is generally developed before any takes are shot and include the planned color grading, often developing a specific LUT for the movie. Therefore the decisions of color tint and “feel” don’t really need to be dialed in in-camera, but can be solved by using an according LUT in the DI.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The overall look of the movie is generally developed before any takes are shot and include the planned color grading, often developing a specific LUT for the movie. Therefore the decisions of color tint and “feel” don’t really need to be dialed in in-camera, but can be solved by using an according LUT in the DI."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/different-camera-tint-between-sicario-and-prisoners/#post-215072",
+    "scraped_at": "2026-01-15T15:23:33.542389+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/different-camera-tint-between-sicario-and-prisoners/#post-215072",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dacfeff52b149f8d80f915982664816ee9f3dc5779dca366c65bc671ac107a46",
+    "parser_version": "bbpress-v2"
+  }
+}

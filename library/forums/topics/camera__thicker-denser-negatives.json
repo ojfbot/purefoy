@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/thicker-denser-negatives/#post-219234",
+  "forum_slug": "camera",
+  "topic_slug": "thicker-denser-negatives",
+  "title": "Thicker & denser negatives",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "219217",
+    "219220",
+    "219221",
+    "219224",
+    "219229",
+    "219234"
+  ],
+  "reply_tree": {
+    "post_id": "219217",
+    "post_type": "topic",
+    "author": "Vasu",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "219220",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219221",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219224",
+        "post_type": "reply",
+        "author": "Vasu",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219229",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219234",
+        "post_type": "reply",
+        "author": "Vasu",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/thicker-denser-negatives/#post-219234",
+    "scraped_at": "2026-01-15T12:26:27.056845+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/thicker-denser-negatives/#post-219234",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "76f97e8ab19735db138770fcf7f077ba4c556bb92e574dfbe47954a9d4b025e5",
+    "parser_version": "bbpress-v2"
+  }
+}

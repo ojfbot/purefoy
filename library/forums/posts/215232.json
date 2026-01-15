@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215232",
+    "forum_slug": "camera",
+    "topic_slug": "tips-for-steady-handheld-shots",
+    "parent_post_id": "215217",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "When you steady a shot that has extreme sideways movement in post it can produce a very strange effect because it is not adjusting the foreground in relation to the background. You might just as well suggest the shot be made in AI rather than the real world.\nWalking backwards on a flat gravel road should not be a problem for someone who is proficient using a hand held camera. Counter to what might seem logical, a heavier camera may well help you as it tends to ground the shot. Yes, you can use a stabilizing system, of which there are many efficient variations. The shot you mention was made using a stabilized camera rigged to the top of a pole that was being carried by two grips.  The slight parallax movement of the characters to the background was a problem and was minimized by the way the grips walked, a kind of Groucho Marx step as is used by any hand-held camera operator. As far as I am aware, though some of the blends between shots were massaged in post none of the film was stabilized that way.",
+  "content_html": "<p>When you steady a shot that has extreme sideways movement in post it can produce a very strange effect because it is not adjusting the foreground in relation to the background. You might just as well suggest the shot be made in AI rather than the real world.</p>\n<p>Walking backwards on a flat gravel road should not be a problem for someone who is proficient using a hand held camera. Counter to what might seem logical, a heavier camera may well help you as it tends to ground the shot. Yes, you can use a stabilizing system, of which there are many efficient variations. The shot you mention was made using a stabilized camera rigged to the top of a pole that was being carried by two grips.  The slight parallax movement of the characters to the background was a problem and was minimized by the way the grips walked, a kind of Groucho Marx step as is used by any hand-held camera operator. As far as I am aware, though some of the blends between shots were massaged in post none of the film was stabilized that way.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "When you steady a shot that has extreme sideways movement in post it can produce a very strange effect because it is not adjusting the foreground in relation to the background. You might just as well suggest the shot be made in AI rather than the real world."
+    },
+    {
+      "type": "paragraph",
+      "text": "Walking backwards on a flat gravel road should not be a problem for someone who is proficient using a hand held camera. Counter to what might seem logical, a heavier camera may well help you as it tends to ground the shot. Yes, you can use a stabilizing system, of which there are many efficient variations. The shot you mention was made using a stabilized camera rigged to the top of a pole that was being carried by two grips.  The slight parallax movement of the characters to the background was a problem and was minimized by the way the grips walked, a kind of Groucho Marx step as is used by any hand-held camera operator. As far as I am aware, though some of the blends between shots were massaged in post none of the film was stabilized that way."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/tips-for-steady-handheld-shots/#post-215254",
+    "scraped_at": "2026-01-15T15:22:36.370199+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/tips-for-steady-handheld-shots/#post-215254",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ac09674ef7ff15044b59926e722759c8a12baa0a72d93473b545aadd3ed8a0d9",
+    "parser_version": "bbpress-v2"
+  }
+}

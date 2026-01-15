@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215641",
+    "forum_slug": "camera",
+    "topic_slug": "exposure",
+    "parent_post_id": "215560",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Shoot it the way you want it to appear on screen.",
+  "content_html": "<p>Shoot it the way you want it to appear on screen.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Shoot it the way you want it to appear on screen."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+    "scraped_at": "2026-01-15T15:20:45.306747+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2e8d31bd1308aa1d860a80a091de8a92f0fd79a66428948da40ab97c00eceb60",
+    "parser_version": "bbpress-v2"
+  }
+}

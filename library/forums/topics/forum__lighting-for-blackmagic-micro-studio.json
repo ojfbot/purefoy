@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/lighting-for-blackmagic-micro-studio/#post-217162",
+  "forum_slug": "forum",
+  "topic_slug": "lighting-for-blackmagic-micro-studio",
+  "title": "Lighting for blackmagic micro studio",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217115",
+    "217161",
+    "217162"
+  ],
+  "reply_tree": {
+    "post_id": "217115",
+    "post_type": "topic",
+    "author": "satin",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "217161",
+        "post_type": "reply",
+        "author": "gabj3",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217162",
+        "post_type": "reply",
+        "author": "satin",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-for-blackmagic-micro-studio/#post-217162",
+    "scraped_at": "2026-01-15T15:21:54.772242+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-blackmagic-micro-studio/#post-217162",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d3ebb6538660959fbec57249ce6e8909b4191f2576e6cd77e1d2ce4490a76379",
+    "parser_version": "bbpress-v2"
+  }
+}

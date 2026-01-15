@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "216639",
+    "forum_slug": "camera",
+    "topic_slug": "film-emulation-luts-deakins-lut-and-dior-lens-filter"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "SomewhereinFlorida",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This may be taboo for this site as I’m sure most of y’all are beyond this and it comes off as self promotion. My friend and I have been working on a super low budget indie feature for the last few years and started making some youtubes to share what we’ve learned, give away some tips, and hopefully gain some traction or some eyes. I’m gonna put the link to our two videos one about an old Dior lens filter we used and one about a Deakins inspired LUT we stumbled across and some film emulations we like. Not trying to upset anyone, we are definitely not professionals, and are thankful to anyone who watches and hopefully if you do there is something to take away. Have a good day everyone!",
+  "content_html": "<p>This may be taboo for this site as I’m sure most of y’all are beyond this and it comes off as self promotion. My friend and I have been working on a super low budget indie feature for the last few years and started making some youtubes to share what we’ve learned, give away some tips, and hopefully gain some traction or some eyes. I’m gonna put the link to our two videos one about an old Dior lens filter we used and one about a Deakins inspired LUT we stumbled across and some film emulations we like. Not trying to upset anyone, we are definitely not professionals, and are thankful to anyone who watches and hopefully if you do there is something to take away. Have a good day everyone!</p>\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"381\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/5X9zpVDVTGE?feature=oembed\" title=\"Color Grading: How We Shot With a Roger Deakins Inspired LUT\" width=\"678\"></iframe><br/>\n<iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"381\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/5MzqY4jSkiU?start=24&amp;feature=oembed\" title=\"Secret sauce One of A Kind Lens Filter - The Dior\" width=\"678\"></iframe></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This may be taboo for this site as I’m sure most of y’all are beyond this and it comes off as self promotion. My friend and I have been working on a super low budget indie feature for the last few years and started making some youtubes to share what we’ve learned, give away some tips, and hopefully gain some traction or some eyes. I’m gonna put the link to our two videos one about an old Dior lens filter we used and one about a Deakins inspired LUT we stumbled across and some film emulations we like. Not trying to upset anyone, we are definitely not professionals, and are thankful to anyone who watches and hopefully if you do there is something to take away. Have a good day everyone!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/film-emulation-luts-deakins-lut-and-dior-lens-filter/#post-216657",
+    "scraped_at": "2026-01-15T13:39:54.170863+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/film-emulation-luts-deakins-lut-and-dior-lens-filter/#post-216657",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9e67243d294fbe51696910135148e85e51bfce62bd07eaec6be1c7431b1094c4",
+    "parser_version": "bbpress-v2"
+  }
+}

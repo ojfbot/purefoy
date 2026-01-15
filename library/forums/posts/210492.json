@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "210492",
+    "forum_slug": "forum",
+    "topic_slug": "cove-light-considerations",
+    "parent_post_id": "205389",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Davinki",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Okay then, is there any situation where a par light would be the best option? Reason I ask is the light I’m considering owning has the best output with a par reflector by a long shot but is there a way to make the uneven beam usable so I don’t feel like I have to switch out for the fresnel and compromising on output?",
+  "content_html": "<p>Okay then, is there any situation where a par light would be the best option? Reason I ask is the light I’m considering owning has the best output with a par reflector by a long shot but is there a way to make the uneven beam usable so I don’t feel like I have to switch out for the fresnel and compromising on output?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Okay then, is there any situation where a par light would be the best option? Reason I ask is the light I’m considering owning has the best output with a par reflector by a long shot but is there a way to make the uneven beam usable so I don’t feel like I have to switch out for the fresnel and compromising on output?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+    "scraped_at": "2026-01-15T15:18:02.960014+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "73929107f659867ff3561675d1228fa66cc1a1ee87c4223f8ac752d73ae64b3f",
+    "parser_version": "bbpress-v2"
+  }
+}

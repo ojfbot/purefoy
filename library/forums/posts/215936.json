@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215936",
+    "forum_slug": "forum",
+    "topic_slug": "corporate-cinematic",
+    "parent_post_id": "215906",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Nate",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you. I’ll definitely try incorporating these into my process.",
+  "content_html": "<p>Thank you. I’ll definitely try incorporating these into my process.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you. I’ll definitely try incorporating these into my process."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/corporate-cinematic/#post-215936",
+    "scraped_at": "2026-01-15T15:43:14.416834+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/corporate-cinematic/#post-215936",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "507abf7a3512e0d618a1db78c5180a7c1e572e09d6688537176a802102b4e845",
+    "parser_version": "bbpress-v2"
+  }
+}

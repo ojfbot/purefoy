@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "173046",
+    "forum_slug": "camera",
+    "topic_slug": "am-i-crazy-for-not-feeling-modern-35mm-film"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Davinki",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello, so to me, 35mm motion picture film just doesn’t have an aesthetic quality over modern digital cameras as I struggle to tell the difference half the time, unlike with say super 16 which I find does register with me as being filmic, even with grain removed. Like, I have to tell myself as I watch a modern 35mm film that it was shot on film, some examples for me are don’t look up and the northman, and even with films that attempt to emulate older time periods like licorice pizza and once upon a time in Hollywood, I just don’t see the image find it looking like eras they’re emulating, they look modern to me, which is not to say they’re bad, they look great, I just struggle to feel those films as being shot on film despite the fact they were.  and whatever textural quality there is to 35mm film, I find is easy to replicate with film emulation, and I even heard of some 35mm productions like hbos winning time using film emulation as the film was too clean on its own so they added grain that would look more like 16mm film and at that point I ask, why not shoot it on 16?",
+  "content_html": "<p>Hello, so to me, 35mm motion picture film just doesn’t have an aesthetic quality over modern digital cameras as I struggle to tell the difference half the time, unlike with say super 16 which I find does register with me as being filmic, even with grain removed. Like, I have to tell myself as I watch a modern 35mm film that it was shot on film, some examples for me are don’t look up and the northman, and even with films that attempt to emulate older time periods like licorice pizza and once upon a time in Hollywood, I just don’t see the image find it looking like eras they’re emulating, they look modern to me, which is not to say they’re bad, they look great, I just struggle to feel those films as being shot on film despite the fact they were.  and whatever textural quality there is to 35mm film, I find is easy to replicate with film emulation, and I even heard of some 35mm productions like hbos winning time using film emulation as the film was too clean on its own so they added grain that would look more like 16mm film and at that point I ask, why not shoot it on 16?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello, so to me, 35mm motion picture film just doesn’t have an aesthetic quality over modern digital cameras as I struggle to tell the difference half the time, unlike with say super 16 which I find does register with me as being filmic, even with grain removed. Like, I have to tell myself as I watch a modern 35mm film that it was shot on film, some examples for me are don’t look up and the northman, and even with films that attempt to emulate older time periods like licorice pizza and once upon a time in Hollywood, I just don’t see the image find it looking like eras they’re emulating, they look modern to me, which is not to say they’re bad, they look great, I just struggle to feel those films as being shot on film despite the fact they were.  and whatever textural quality there is to 35mm film, I find is easy to replicate with film emulation, and I even heard of some 35mm productions like hbos winning time using film emulation as the film was too clean on its own so they added grain that would look more like 16mm film and at that point I ask, why not shoot it on 16?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/am-i-crazy-for-not-feeling-modern-35mm-film/#post-175975",
+    "scraped_at": "2026-01-15T15:45:11.510793+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/am-i-crazy-for-not-feeling-modern-35mm-film/#post-175975",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "096f4f14c3b0480c96697ea02b6357125517e149ad55edf6303c522b3a482070",
+    "parser_version": "bbpress-v2"
+  }
+}

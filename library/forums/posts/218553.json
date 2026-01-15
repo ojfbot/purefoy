@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "218553",
+    "forum_slug": "forum",
+    "topic_slug": "white-balance-with-multiple-light-sources",
+    "parent_post_id": "218550",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I pick a color temperature setting for the scene and then light around that. In a room of mixed daylight and practical sources of different colors, you just have to pick what setting gets you close to what you want creatively.\nYou start with what you can’t control easily, like a bunch of daylight coming in, and then work on what you\ncan\ncontrol. But there is not right or wrong choice. You may decide on something in-between daylight and tungsten so that the daylight is cool and the tungsten is warm, but to which direction you lean (4800K? 4300K?, etc.) is up to you creatively.\nIn situations that you have more control over, then yes, you pick something and light to that. Maybe in a day interior on location you pick 5500K and use powerful tungsten lamps outside the window for a warm sunset effect.\nAgain, you start by considering what you can’t adjust or control or turn-off and how you want that to render.  Maybe you are using a lot of old Cool White fluorescent tubes, which are around 4800K with some green in them — if you want those to render more of a cyan, then you have to set the camera closer to 3200K — if you use 5500K on the camera, then they tend to look slightly warm-green, a yellow-ish color.  I’ve even gelled daylight windows with Full 85 correction so that the Cool White tubes would render cyan\ncompared\nto the daylight.",
+  "content_html": "<p>I pick a color temperature setting for the scene and then light around that. In a room of mixed daylight and practical sources of different colors, you just have to pick what setting gets you close to what you want creatively.</p>\n<p>You start with what you can’t control easily, like a bunch of daylight coming in, and then work on what you <em>can</em> control. But there is not right or wrong choice. You may decide on something in-between daylight and tungsten so that the daylight is cool and the tungsten is warm, but to which direction you lean (4800K? 4300K?, etc.) is up to you creatively.</p>\n<p>In situations that you have more control over, then yes, you pick something and light to that. Maybe in a day interior on location you pick 5500K and use powerful tungsten lamps outside the window for a warm sunset effect.</p>\n<p>Again, you start by considering what you can’t adjust or control or turn-off and how you want that to render.  Maybe you are using a lot of old Cool White fluorescent tubes, which are around 4800K with some green in them — if you want those to render more of a cyan, then you have to set the camera closer to 3200K — if you use 5500K on the camera, then they tend to look slightly warm-green, a yellow-ish color.  I’ve even gelled daylight windows with Full 85 correction so that the Cool White tubes would render cyan <em>compared</em> to the daylight.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I pick a color temperature setting for the scene and then light around that. In a room of mixed daylight and practical sources of different colors, you just have to pick what setting gets you close to what you want creatively."
+    },
+    {
+      "type": "paragraph",
+      "text": "You start with what you can’t control easily, like a bunch of daylight coming in, and then work on what you\ncan\ncontrol. But there is not right or wrong choice. You may decide on something in-between daylight and tungsten so that the daylight is cool and the tungsten is warm, but to which direction you lean (4800K? 4300K?, etc.) is up to you creatively."
+    },
+    {
+      "type": "paragraph",
+      "text": "In situations that you have more control over, then yes, you pick something and light to that. Maybe in a day interior on location you pick 5500K and use powerful tungsten lamps outside the window for a warm sunset effect."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, you start by considering what you can’t adjust or control or turn-off and how you want that to render.  Maybe you are using a lot of old Cool White fluorescent tubes, which are around 4800K with some green in them — if you want those to render more of a cyan, then you have to set the camera closer to 3200K — if you use 5500K on the camera, then they tend to look slightly warm-green, a yellow-ish color.  I’ve even gelled daylight windows with Full 85 correction so that the Cool White tubes would render cyan\ncompared\nto the daylight."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/white-balance-with-multiple-light-sources/#post-218611",
+    "scraped_at": "2026-01-15T14:50:55.317805+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-with-multiple-light-sources/#post-218611",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a3ca2a9fab260b8111eb2b090273190f2e7ef63c2bec1893ef3d792840622835",
+    "parser_version": "bbpress-v2"
+  }
+}

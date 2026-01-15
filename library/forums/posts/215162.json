@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "215162",
+    "forum_slug": "forum",
+    "topic_slug": "amount-of-light-and-exposure",
+    "parent_post_id": "215161",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Luca,\nIf you double the amount of light (lux/fc) you will obtain a stop of increment in your light measurement so you have to “compensate” with your “triangle” or nd.\nBut I waiting for an answer of DP’s more expert than me.\nHave a nice weekend.\nMax.",
+  "content_html": "<p>Hello Luca,</p>\n<p>If you double the amount of light (lux/fc) you will obtain a stop of increment in your light measurement so you have to “compensate” with your “triangle” or nd.</p>\n<p>But I waiting for an answer of DP’s more expert than me.</p>\n<p>Have a nice weekend.</p>\n<p>Max.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Luca,"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you double the amount of light (lux/fc) you will obtain a stop of increment in your light measurement so you have to “compensate” with your “triangle” or nd."
+    },
+    {
+      "type": "paragraph",
+      "text": "But I waiting for an answer of DP’s more expert than me."
+    },
+    {
+      "type": "paragraph",
+      "text": "Have a nice weekend."
+    },
+    {
+      "type": "paragraph",
+      "text": "Max."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/amount-of-light-and-exposure/#post-215164",
+    "scraped_at": "2026-01-15T15:48:44.745451+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/amount-of-light-and-exposure/#post-215164",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3551e9a2ec44dd87596875f7ddd2ae80fd749e10630aca23afc78e5fa1473d7d",
+    "parser_version": "bbpress-v2"
+  }
+}

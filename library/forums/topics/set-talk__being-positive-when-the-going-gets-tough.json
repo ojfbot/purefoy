@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/being-positive-when-the-going-gets-tough/#post-172619",
+  "forum_slug": "set-talk",
+  "topic_slug": "being-positive-when-the-going-gets-tough",
+  "title": "Being positive when the going gets tough.",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "172576",
+    "172577",
+    "172615",
+    "172619"
+  ],
+  "reply_tree": {
+    "post_id": "172576",
+    "post_type": "topic",
+    "author": "Gustavo Perez",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "172577",
+        "post_type": "reply",
+        "author": "Gregg",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "172615",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "172619",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/being-positive-when-the-going-gets-tough/#post-172619",
+    "scraped_at": "2026-01-15T13:56:34.240551+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/being-positive-when-the-going-gets-tough/#post-172619",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c23d563c1a903369d0308c3959bb686a824adf9da6a544e17ad6a2561eea377b",
+    "parser_version": "bbpress-v2"
+  }
+}

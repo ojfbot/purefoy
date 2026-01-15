@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215545",
+    "forum_slug": "forum",
+    "topic_slug": "about-low-key-lighting",
+    "parent_post_id": "215519",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks to you all for your answers!\nI know that for some recording profile (s-logs for example) they suggest to overexpose a bit, and perhaps the idea expressed by the teacher was something in that line. But i’ve had the impression that he was meaning a general approach more than a requirement of some types of files, so i was curious about how diffuse is that idea among professional DOP and from your answers  my guess was correct: if you want a scene to look in some way, commit to the idea and manage to shot it in that way (and this may not be easy if the budget and the experience are limited, but this is a completely different problem).",
+  "content_html": "<p>Thanks to you all for your answers!<br/>\nI know that for some recording profile (s-logs for example) they suggest to overexpose a bit, and perhaps the idea expressed by the teacher was something in that line. But i’ve had the impression that he was meaning a general approach more than a requirement of some types of files, so i was curious about how diffuse is that idea among professional DOP and from your answers  my guess was correct: if you want a scene to look in some way, commit to the idea and manage to shot it in that way (and this may not be easy if the budget and the experience are limited, but this is a completely different problem).</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks to you all for your answers!\nI know that for some recording profile (s-logs for example) they suggest to overexpose a bit, and perhaps the idea expressed by the teacher was something in that line. But i’ve had the impression that he was meaning a general approach more than a requirement of some types of files, so i was curious about how diffuse is that idea among professional DOP and from your answers  my guess was correct: if you want a scene to look in some way, commit to the idea and manage to shot it in that way (and this may not be easy if the budget and the experience are limited, but this is a completely different problem)."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+    "scraped_at": "2026-01-15T15:46:20.707924+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "446f8b97b8cc23f2f65cc54aa4f74aeea1aa7f64fa3db383b31d77839eb0ed84",
+    "parser_version": "bbpress-v2"
+  }
+}

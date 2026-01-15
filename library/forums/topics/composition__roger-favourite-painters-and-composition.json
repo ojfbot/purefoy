@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/roger-favourite-painters-and-composition/",
+  "forum_slug": "composition",
+  "topic_slug": "roger-favourite-painters-and-composition",
+  "title": "Roger favourite painters and composition",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214500"
+  ],
+  "reply_tree": {
+    "post_id": "214500",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/roger-favourite-painters-and-composition/",
+    "scraped_at": "2026-01-15T13:16:12.229198+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/roger-favourite-painters-and-composition/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d2b73972c10327c271c42ffb057e42289fb58f3143fb89cabca67e12580b2beb",
+    "parser_version": "bbpress-v2"
+  }
+}

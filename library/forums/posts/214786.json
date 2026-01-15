@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214786",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 26
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Whether I cool off any fill light and by how much is determined by eye.",
+  "content_html": "<p>Whether I cool off any fill light and by how much is determined by eye.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Whether I cool off any fill light and by how much is determined by eye."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+    "scraped_at": "2026-01-15T15:51:27.815895+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "686d98eb0333dc38a59a32bc8c2ad6c72666ec8690a4403fbb699ec078976d6e",
+    "parser_version": "bbpress-v2"
+  }
+}

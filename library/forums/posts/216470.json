@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216470",
+    "forum_slug": "film-talk",
+    "topic_slug": "recent-movie-recommendations",
+    "parent_post_id": "216401",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger I have seen ‘The seed of the sacred fig’. It’s really good film. I connected very emotionally with that film.\nwhats your opinion about “Ripley’ Netflix show cinematography work. Have you seen ‘Ripley’",
+  "content_html": "<p><em>Dear master Roger I have seen ‘The seed of the sacred fig’. It’s really good film. I connected very emotionally with that film. </em></p>\n<p><em>whats your opinion about “Ripley’ Netflix show cinematography work. Have you seen ‘Ripley’</em></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger I have seen ‘The seed of the sacred fig’. It’s really good film. I connected very emotionally with that film."
+    },
+    {
+      "type": "paragraph",
+      "text": "whats your opinion about “Ripley’ Netflix show cinematography work. Have you seen ‘Ripley’"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recent-movie-recommendations/#post-216556",
+    "scraped_at": "2026-01-15T12:42:27.961701+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recent-movie-recommendations/#post-216556",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0e13ae2a99391aa6bb320d5f8c943e484871bc53041791b67467015bf373a0fe",
+    "parser_version": "bbpress-v2"
+  }
+}

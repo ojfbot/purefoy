@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "219996",
+    "forum_slug": "film-talk",
+    "topic_slug": "one-battle-after-another-in-70mm"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Daniel",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I was fortunate enough to see a screening in 70mm. I will see the film again in another format for comparison, probably Dolby Cinema.\nThe image on the massive 70mm projection looked great. There were a few quirks during the showing. I did not mind them.\nFirst, I was surprised to notice a decent amount of ‘flickering’ during high-key scenes (this was only my second time watching in this format). That might be normal. Second, we lost the audio for just a few seconds, and a large red dot appeared in the upper right-hand corner of the screen for several seconds during different scenes. I am curious about what caused that. I would view that format again anytime, regardless.\nI suspect a particular scene in the movie was inspired by 1917.",
+  "content_html": "<p>I was fortunate enough to see a screening in 70mm. I will see the film again in another format for comparison, probably Dolby Cinema.</p>\n<p>The image on the massive 70mm projection looked great. There were a few quirks during the showing. I did not mind them.</p>\n<p>First, I was surprised to notice a decent amount of ‘flickering’ during high-key scenes (this was only my second time watching in this format). That might be normal. Second, we lost the audio for just a few seconds, and a large red dot appeared in the upper right-hand corner of the screen for several seconds during different scenes. I am curious about what caused that. I would view that format again anytime, regardless.</p>\n<p>I suspect a particular scene in the movie was inspired by 1917.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I was fortunate enough to see a screening in 70mm. I will see the film again in another format for comparison, probably Dolby Cinema."
+    },
+    {
+      "type": "paragraph",
+      "text": "The image on the massive 70mm projection looked great. There were a few quirks during the showing. I did not mind them."
+    },
+    {
+      "type": "paragraph",
+      "text": "First, I was surprised to notice a decent amount of ‘flickering’ during high-key scenes (this was only my second time watching in this format). That might be normal. Second, we lost the audio for just a few seconds, and a large red dot appeared in the upper right-hand corner of the screen for several seconds during different scenes. I am curious about what caused that. I would view that format again anytime, regardless."
+    },
+    {
+      "type": "paragraph",
+      "text": "I suspect a particular scene in the movie was inspired by 1917."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/one-battle-after-another-in-70mm/#post-220351",
+    "scraped_at": "2026-01-15T11:50:52.678509+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/one-battle-after-another-in-70mm/#post-220351",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9ec855c7f10a056c22af9b037c2a0a12468ec7456117aa8398bf244e8c41aade",
+    "parser_version": "bbpress-v2"
+  }
+}

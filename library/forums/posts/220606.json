@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "220606",
+    "forum_slug": "camera",
+    "topic_slug": "360-degree-swing-body-cam-rig",
+    "parent_post_id": "217428",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There are some body cam shots in the opening of “Seconds” (1966):\nThey are distracting and unreal but obviously that was the intent, whether it is heavy-handed or not is open for debate.\nThis reply was modified 1 month, 3 weeks ago by\ndmullenasc\n.",
+  "content_html": "<p>There are some body cam shots in the opening of “Seconds” (1966):</p>\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"381\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/sl9Dzr_La5k?feature=oembed\" title=\"Seconds (1966) - Opening Scene at the Train Station (HD)\" width=\"678\"></iframe></p>\n<p>They are distracting and unreal but obviously that was the intent, whether it is heavy-handed or not is open for debate.</p>\n<ul class=\"bbp-reply-revision-log\" id=\"bbp-reply-revision-log-220606\">\n<li class=\"bbp-reply-revision-log-item\" id=\"bbp-reply-revision-log-220606-item-220607\">\n\t\tThis reply was modified 1 month, 3 weeks ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/dmullenasc/\" title=\"View dmullenasc's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://secure.gravatar.com/avatar/078da0edd0ffdf2bdf53b943207b847f?s=14&amp;d=retro&amp;r=g\" srcset=\"https://secure.gravatar.com/avatar/078da0edd0ffdf2bdf53b943207b847f?s=28&amp;d=retro&amp;r=g 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">dmullenasc</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There are some body cam shots in the opening of “Seconds” (1966):"
+    },
+    {
+      "type": "paragraph",
+      "text": "They are distracting and unreal but obviously that was the intent, whether it is heavy-handed or not is open for debate."
+    },
+    {
+      "type": "list",
+      "text": "This reply was modified 1 month, 3 weeks ago by\ndmullenasc\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/dmullenasc/",
+      "text": "dmullenasc",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://secure.gravatar.com/avatar/078da0edd0ffdf2bdf53b943207b847f?s=14&d=retro&r=g",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/360-degree-swing-body-cam-rig/#post-220644",
+    "scraped_at": "2026-01-15T12:09:03.993797+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/360-degree-swing-body-cam-rig/#post-220644",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "12675a50a9a2722e041c630e7fba9a5d87c793eaf13e72fb7a348f7d61a47445",
+    "parser_version": "bbpress-v2"
+  }
+}

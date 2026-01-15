@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/lighting-red-vs-red-filter/#post-214584",
+  "forum_slug": "forum",
+  "topic_slug": "lighting-red-vs-red-filter",
+  "title": "Lighting Red vs Red Filter",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214578",
+    "214584"
+  ],
+  "reply_tree": {
+    "post_id": "214578",
+    "post_type": "topic",
+    "author": "TheodorAdam",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214584",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-red-vs-red-filter/#post-214584",
+    "scraped_at": "2026-01-15T15:52:39.491669+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-red-vs-red-filter/#post-214584",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2a4caf9b7ecf923f22d2e877ae74270a45fcb59064255f37283b2bdc3afd685e",
+    "parser_version": "bbpress-v2"
+  }
+}

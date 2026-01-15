@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214536",
+    "forum_slug": "website-news",
+    "topic_slug": "happy-birthday-roger",
+    "parent_post_id": "214522",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "GianniRanzuglia",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Happy Birthday Sir!",
+  "content_html": "<p>Happy Birthday Sir!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Happy Birthday Sir!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-roger/#post-214536",
+    "scraped_at": "2026-01-15T12:48:29.348315+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-roger/#post-214536",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f61c917e4a360bd9e7dbb9bcaec55f624b610577024209434a3390dcc8d96876",
+    "parser_version": "bbpress-v2"
+  }
+}

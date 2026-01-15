@@ -1,0 +1,93 @@
+{
+  "ids": {
+    "post_id": "215276",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-for-dark-sequences",
+    "parent_post_id": "215273",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello,\nIt depends on the creative intent you’re trying to achieve.\nIn a photographic sense, noise is the difference in gradient from the mean signal.\nNoise is inherent to any sampling of information. In the case of imaging, the electromagnetic activity of the sensor impacts all values it creates. Noise/interference from the reset line (shutter) and thermal noise, among many other causes, add differentiation in charge as the analogue signal is amplified and read out from the sensor.\nIt’s important to note there are multiple stages of analogue amplification; with an APS sensor, every photosite has an amplifier, and the base of every column of photosites (pixels) has an amplifier. Amplifiers increase the noise in ratio to the amplification of the signal. Noise is in direct proportion to the signal.\nHowever, as this amplification is in the analogue domain, there are infinite steps. Therefore, the difference in gradient can be considered pleasing, incredibly, if not too overwhelming.\nThe final sensitivity after amplification in this analogue realm is considered a camera’s native ISO’ for dual native base cameras, which means your cameras have two readouts with different levels of analogue amplification.\nThe FX6 uses gain adaptive column amplifiers with a high or low gain option on the same line. The downside is that it reduces its dynamic range at its higher base.\nOnce your signal is quantized – I.E. sampled digitally in a radiometrically linear fashion. This is when you enter the realm of digital gain. Digital gain has a far more digitally disruptive effect.\nBy this, imagine you have an 18% grey card, and your camera is representing this card digitally, with a mean signal of R 18, G 18, and B 18. Now, let’s say, due to the impacts of sensor architecture, there are pixels representing a value of R 21 G 19 B 15; if one then amplified the quantized digital signal linearly, your mean signal would have an RGB triplet of  R 36 G36, B36 and your astray pixel would have a reading of R 42 G 38 B 30, the linear difference has doubled because your signal has doubled! SNR is a ratio!\nHowever, if you halved your signal (reduced your ISO by a stop), you would have R9, G9, and B9, and your astray pixel would have a value of R10, R9, and B7 values. You were reducing your noise by half.\nThere you go, that’s noise, that’s it, nothing else to it.\nIt’s lost information; the noise floor is where a camera can’t distinguish further information. If you raise the crap out of digital ISO, like Bradford Young, you lose details in the shadows, which could be artistically pleasant!\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>Hello,</p>\n<p>It depends on the creative intent you’re trying to achieve.</p>\n<p>In a photographic sense, noise is the difference in gradient from the mean signal.</p>\n<p>Noise is inherent to any sampling of information. In the case of imaging, the electromagnetic activity of the sensor impacts all values it creates. Noise/interference from the reset line (shutter) and thermal noise, among many other causes, add differentiation in charge as the analogue signal is amplified and read out from the sensor.</p>\n<p>It’s important to note there are multiple stages of analogue amplification; with an APS sensor, every photosite has an amplifier, and the base of every column of photosites (pixels) has an amplifier. Amplifiers increase the noise in ratio to the amplification of the signal. Noise is in direct proportion to the signal.</p>\n<p>However, as this amplification is in the analogue domain, there are infinite steps. Therefore, the difference in gradient can be considered pleasing, incredibly, if not too overwhelming.</p>\n<p>The final sensitivity after amplification in this analogue realm is considered a camera’s native ISO’ for dual native base cameras, which means your cameras have two readouts with different levels of analogue amplification.</p>\n<p>The FX6 uses gain adaptive column amplifiers with a high or low gain option on the same line. The downside is that it reduces its dynamic range at its higher base.</p>\n<p>Once your signal is quantized – I.E. sampled digitally in a radiometrically linear fashion. This is when you enter the realm of digital gain. Digital gain has a far more digitally disruptive effect.</p>\n<p>By this, imagine you have an 18% grey card, and your camera is representing this card digitally, with a mean signal of R 18, G 18, and B 18. Now, let’s say, due to the impacts of sensor architecture, there are pixels representing a value of R 21 G 19 B 15; if one then amplified the quantized digital signal linearly, your mean signal would have an RGB triplet of  R 36 G36, B36 and your astray pixel would have a reading of R 42 G 38 B 30, the linear difference has doubled because your signal has doubled! SNR is a ratio!</p>\n<p>However, if you halved your signal (reduced your ISO by a stop), you would have R9, G9, and B9, and your astray pixel would have a value of R10, R9, and B7 values. You were reducing your noise by half.</p>\n<p>There you go, that’s noise, that’s it, nothing else to it.</p>\n<p>It’s lost information; the noise floor is where a camera can’t distinguish further information. If you raise the crap out of digital ISO, like Bradford Young, you lose details in the shadows, which could be artistically pleasant!</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello,"
+    },
+    {
+      "type": "paragraph",
+      "text": "It depends on the creative intent you’re trying to achieve."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a photographic sense, noise is the difference in gradient from the mean signal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Noise is inherent to any sampling of information. In the case of imaging, the electromagnetic activity of the sensor impacts all values it creates. Noise/interference from the reset line (shutter) and thermal noise, among many other causes, add differentiation in charge as the analogue signal is amplified and read out from the sensor."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s important to note there are multiple stages of analogue amplification; with an APS sensor, every photosite has an amplifier, and the base of every column of photosites (pixels) has an amplifier. Amplifiers increase the noise in ratio to the amplification of the signal. Noise is in direct proportion to the signal."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, as this amplification is in the analogue domain, there are infinite steps. Therefore, the difference in gradient can be considered pleasing, incredibly, if not too overwhelming."
+    },
+    {
+      "type": "paragraph",
+      "text": "The final sensitivity after amplification in this analogue realm is considered a camera’s native ISO’ for dual native base cameras, which means your cameras have two readouts with different levels of analogue amplification."
+    },
+    {
+      "type": "paragraph",
+      "text": "The FX6 uses gain adaptive column amplifiers with a high or low gain option on the same line. The downside is that it reduces its dynamic range at its higher base."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once your signal is quantized – I.E. sampled digitally in a radiometrically linear fashion. This is when you enter the realm of digital gain. Digital gain has a far more digitally disruptive effect."
+    },
+    {
+      "type": "paragraph",
+      "text": "By this, imagine you have an 18% grey card, and your camera is representing this card digitally, with a mean signal of R 18, G 18, and B 18. Now, let’s say, due to the impacts of sensor architecture, there are pixels representing a value of R 21 G 19 B 15; if one then amplified the quantized digital signal linearly, your mean signal would have an RGB triplet of  R 36 G36, B36 and your astray pixel would have a reading of R 42 G 38 B 30, the linear difference has doubled because your signal has doubled! SNR is a ratio!"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if you halved your signal (reduced your ISO by a stop), you would have R9, G9, and B9, and your astray pixel would have a value of R10, R9, and B7 values. You were reducing your noise by half."
+    },
+    {
+      "type": "paragraph",
+      "text": "There you go, that’s noise, that’s it, nothing else to it."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s lost information; the noise floor is where a camera can’t distinguish further information. If you raise the crap out of digital ISO, like Bradford Young, you lose details in the shadows, which could be artistically pleasant!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-for-dark-sequences/#post-215308",
+    "scraped_at": "2026-01-15T15:47:44.639494+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-dark-sequences/#post-215308",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "eaa9bbe3a588a1da6fce6a5646e42a92d58028bdc5f504b605ed6509e32cb938",
+    "parser_version": "bbpress-v2"
+  }
+}

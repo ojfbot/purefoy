@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217488",
+    "forum_slug": "composition",
+    "topic_slug": "framing-for-different-aspect-ratios-with-monitor",
+    "parent_post_id": "217465",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "sanghamithran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Also how did you operate the composition in 1917 which was shot for wide aspect ratio with a 16:9 sensor, did you black out the top and bottom frame or similar to the above image only, asking espicially since 1917 was a more dynamic camera movement film than say no country.",
+  "content_html": "<p>Also how did you operate the composition in 1917 which was shot for wide aspect ratio with a 16:9 sensor, did you black out the top and bottom frame or similar to the above image only, asking espicially since 1917 was a more dynamic camera movement film than say no country.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Also how did you operate the composition in 1917 which was shot for wide aspect ratio with a 16:9 sensor, did you black out the top and bottom frame or similar to the above image only, asking espicially since 1917 was a more dynamic camera movement film than say no country."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/framing-for-different-aspect-ratios-with-monitor/#post-217978",
+    "scraped_at": "2026-01-15T12:08:06.330798+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/framing-for-different-aspect-ratios-with-monitor/#post-217978",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a75079beb5bdbeca3b58636cbea2b7074bcc1059a0cd07185b2cd8d80e0e463d",
+    "parser_version": "bbpress-v2"
+  }
+}

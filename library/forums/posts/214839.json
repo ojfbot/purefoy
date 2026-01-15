@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214839",
+    "forum_slug": "set-talk",
+    "topic_slug": "advice-on-film-set-etiquette",
+    "parent_post_id": "214817",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Rick Cook",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Just be mindful of what you say and when you say it. I’ve had Camera PA’s say things or ask questions that really got in my head in the moment and made me question my decisions. It can be really distracting and if the wrong person hears it, you could plant and idea that gives the assumption something isn’t right. Remember, the Department Heads and Keys have been on this project for a while, planning and discussion. It’s not really helpful for you to have an Idea that deviates from their plans. If you notice something is truly wrong (starbucks cup in the shot) Whisper into your Keys ear 😉",
+  "content_html": "<p>Just be mindful of what you say and when you say it. I’ve had Camera PA’s say things or ask questions that really got in my head in the moment and made me question my decisions. It can be really distracting and if the wrong person hears it, you could plant and idea that gives the assumption something isn’t right. Remember, the Department Heads and Keys have been on this project for a while, planning and discussion. It’s not really helpful for you to have an Idea that deviates from their plans. If you notice something is truly wrong (starbucks cup in the shot) Whisper into your Keys ear 😉</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Just be mindful of what you say and when you say it. I’ve had Camera PA’s say things or ask questions that really got in my head in the moment and made me question my decisions. It can be really distracting and if the wrong person hears it, you could plant and idea that gives the assumption something isn’t right. Remember, the Department Heads and Keys have been on this project for a while, planning and discussion. It’s not really helpful for you to have an Idea that deviates from their plans. If you notice something is truly wrong (starbucks cup in the shot) Whisper into your Keys ear 😉"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/advice-on-film-set-etiquette/#post-214839",
+    "scraped_at": "2026-01-15T13:23:37.491077+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/advice-on-film-set-etiquette/#post-214839",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b07912f540a4130cb836ba6fe578f4b9448d008252bf4d45d961df4cb2daff2d",
+    "parser_version": "bbpress-v2"
+  }
+}

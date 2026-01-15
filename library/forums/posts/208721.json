@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "208721",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-tight-tricky-location-to-light",
+    "parent_post_id": "206216",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This particular scene was lit by the overhead florescent tubes as you suggest. The idea of this kind of lighting came from a location we scouted before we built the set. I did add an extra 2′ tube to soften the light from these fixtures depending on the camera angle but that was all. In fact, I did use some small squares of black cloth to reduce the natural bounce off the set walls.\nThe small conical shades, and the paper hanging off them, that are the main source of light when the projectors are in operation, were also a mirror of the way the lighting was rigged in another working location that we scouted.",
+  "content_html": "<p>This particular scene was lit by the overhead florescent tubes as you suggest. The idea of this kind of lighting came from a location we scouted before we built the set. I did add an extra 2′ tube to soften the light from these fixtures depending on the camera angle but that was all. In fact, I did use some small squares of black cloth to reduce the natural bounce off the set walls.</p>\n<p>The small conical shades, and the paper hanging off them, that are the main source of light when the projectors are in operation, were also a mirror of the way the lighting was rigged in another working location that we scouted.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This particular scene was lit by the overhead florescent tubes as you suggest. The idea of this kind of lighting came from a location we scouted before we built the set. I did add an extra 2′ tube to soften the light from these fixtures depending on the camera angle but that was all. In fact, I did use some small squares of black cloth to reduce the natural bounce off the set walls."
+    },
+    {
+      "type": "paragraph",
+      "text": "The small conical shades, and the paper hanging off them, that are the main source of light when the projectors are in operation, were also a mirror of the way the lighting was rigged in another working location that we scouted."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-tight-tricky-location-to-light/#post-209208",
+    "scraped_at": "2026-01-15T15:53:46.002184+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-tight-tricky-location-to-light/#post-209208",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a7bae4a278d8a2a1d8ebdbf620e760f5a5d9b7e8ee413050f11bb271cb81ff4e",
+    "parser_version": "bbpress-v2"
+  }
+}

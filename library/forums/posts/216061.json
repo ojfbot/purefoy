@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216061",
+    "forum_slug": "forum",
+    "topic_slug": "bounce-lighting",
+    "parent_post_id": "216059",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The cutters shouldn’t be reducing light intensity on the subject, just the background, but if they are, then you might need to increase the light intensity to compensate (add an additional light to the bounce or use a stronger light). You can also use negative fill opposite the bounce to add some contrast.",
+  "content_html": "<p>The cutters shouldn’t be reducing light intensity on the subject, just the background, but if they are, then you might need to increase the light intensity to compensate (add an additional light to the bounce or use a stronger light). You can also use negative fill opposite the bounce to add some contrast.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The cutters shouldn’t be reducing light intensity on the subject, just the background, but if they are, then you might need to increase the light intensity to compensate (add an additional light to the bounce or use a stronger light). You can also use negative fill opposite the bounce to add some contrast."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bounce-lighting/#post-216109",
+    "scraped_at": "2026-01-15T15:41:54.711492+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bounce-lighting/#post-216109",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "29bb7479b0ee755a9acee83df4dc7849198778721510b4c2101e8cb87a9263d7",
+    "parser_version": "bbpress-v2"
+  }
+}

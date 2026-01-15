@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "178919",
+    "forum_slug": "camera",
+    "topic_slug": "photography"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "harrygils",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger, hope you’re doing well.\nI was wondering what kind of camera/lens you use for your still photography? Do you shoot digital or film?\nThanks!\nHarry",
+  "content_html": "<p>Hi Roger, hope you’re doing well.</p>\n<p>I was wondering what kind of camera/lens you use for your still photography? Do you shoot digital or film?</p>\n<p>Thanks!</p>\n<p>Harry</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger, hope you’re doing well."
+    },
+    {
+      "type": "paragraph",
+      "text": "I was wondering what kind of camera/lens you use for your still photography? Do you shoot digital or film?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Harry"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/photography/#post-181221",
+    "scraped_at": "2026-01-15T15:44:07.453258+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/photography/#post-181221",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "de993d931670420b8a5ce98e39aaf6cfd5a73c10b5f268ec6e39662062793b1b",
+    "parser_version": "bbpress-v2"
+  }
+}

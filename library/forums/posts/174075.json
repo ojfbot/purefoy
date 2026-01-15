@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "174075",
+    "forum_slug": "camera",
+    "topic_slug": "camera-knowledge",
+    "parent_post_id": "173700",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "What I would submit is that filmmaking is a technical medium and being able to answers these questions by definition implies a base of practical knowledge and skill. Somebody like Pier Pasolini would have very strong opinions about what makes an image resonate, but on his first film his cinematographer, Tonino Delli Colli, claimed that he still had to explain to Pasolini what a ‘lens’ even was. If Pasolini had remained ignorant of something as basic as focal lengths ‘Accattone’ would not have the same expressive power.",
+  "content_html": "<p>What I would submit is that filmmaking is a technical medium and being able to answers these questions by definition implies a base of practical knowledge and skill. Somebody like Pier Pasolini would have very strong opinions about what makes an image resonate, but on his first film his cinematographer, Tonino Delli Colli, claimed that he still had to explain to Pasolini what a ‘lens’ even was. If Pasolini had remained ignorant of something as basic as focal lengths ‘Accattone’ would not have the same expressive power.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "What I would submit is that filmmaking is a technical medium and being able to answers these questions by definition implies a base of practical knowledge and skill. Somebody like Pier Pasolini would have very strong opinions about what makes an image resonate, but on his first film his cinematographer, Tonino Delli Colli, claimed that he still had to explain to Pasolini what a ‘lens’ even was. If Pasolini had remained ignorant of something as basic as focal lengths ‘Accattone’ would not have the same expressive power."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-knowledge/#post-174075",
+    "scraped_at": "2026-01-15T15:45:38.306690+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-knowledge/#post-174075",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5eacbef9d426278c0310988be8e99a618e7b997142cbb0d4c2a611e0e44092cb",
+    "parser_version": "bbpress-v2"
+  }
+}

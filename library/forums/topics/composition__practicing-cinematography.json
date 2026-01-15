@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/practicing-cinematography/#post-209158",
+  "forum_slug": "composition",
+  "topic_slug": "practicing-cinematography",
+  "title": "Practicing Cinematography",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "208647",
+    "208743",
+    "209158"
+  ],
+  "reply_tree": {
+    "post_id": "208647",
+    "post_type": "topic",
+    "author": "bardanmcguire",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "208743",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "209158",
+        "post_type": "reply",
+        "author": "bardanmcguire",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/practicing-cinematography/#post-209158",
+    "scraped_at": "2026-01-15T13:23:42.335518+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/practicing-cinematography/#post-209158",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "84c0e5738d21f98aa3b2427baa37e538a1a160271af7f973e97597e5abfc22bd",
+    "parser_version": "bbpress-v2"
+  }
+}

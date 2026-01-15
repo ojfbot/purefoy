@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "post_id": "215590",
+    "forum_slug": "camera",
+    "topic_slug": "congrats-david-mullen-for-asc-award"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Congrats David for your win in the category “Episode of a one-hour televised series” for your work on ‘The Marvelous Mrs. Maisel’ – “Four Minutes”.\nhttps://theasc.com/asc-awards/38th-annual-asc-awards-winners\nI’d like to use this opportunity to thank you for sharing your knowledge on this forum!",
+  "content_html": "<p>Congrats David for your win in the category “Episode of a one-hour televised series” for your work on ‘The Marvelous Mrs. Maisel’ – “Four Minutes”.</p>\n<p><a href=\"https://theasc.com/asc-awards/38th-annual-asc-awards-winners\" rel=\"nofollow\">https://theasc.com/asc-awards/38th-annual-asc-awards-winners</a></p>\n<p>I’d like to use this opportunity to thank you for sharing your knowledge on this forum!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Congrats David for your win in the category “Episode of a one-hour televised series” for your work on ‘The Marvelous Mrs. Maisel’ – “Four Minutes”."
+    },
+    {
+      "type": "paragraph",
+      "text": "https://theasc.com/asc-awards/38th-annual-asc-awards-winners"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’d like to use this opportunity to thank you for sharing your knowledge on this forum!"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://theasc.com/asc-awards/38th-annual-asc-awards-winners",
+      "text": "https://theasc.com/asc-awards/38th-annual-asc-awards-winners",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/congrats-david-mullen-for-asc-award/#post-215601",
+    "scraped_at": "2026-01-15T15:21:39.164531+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/congrats-david-mullen-for-asc-award/#post-215601",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b7e0fb029721356e8ae89ba692fc32ba54b8cf26e3310060dccb81884a5033bd",
+    "parser_version": "bbpress-v2"
+  }
+}

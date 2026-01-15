@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215229",
+    "forum_slug": "forum",
+    "topic_slug": "moon-light-for-exterior",
+    "parent_post_id": "215213",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "The Byre",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The easy answer is Day-4-Night, but I hate that as it nearly always looks rubbish.  Even on big-budget productions, Day-4-Night nearly always sticks out like a sore thumb.\nThe trouble with pannels is that they are not sharp like moonlight.  For that reason, I would use a single, powerful industrial light, even an LED and set the shutter speed to 25th of a second to avoid flicker.  You can also bolt several building lights close together so that they are about 35cm across for a tight lighting source!\nHow much lamp power?  Depends on the camera and the lens!  You would be amazed at what you can get away with using modern cameras!  Suck it and see is the answer!",
+  "content_html": "<p>The easy answer is Day-4-Night, but I hate that as it nearly always looks rubbish.  Even on big-budget productions, Day-4-Night nearly always sticks out like a sore thumb.</p>\n<p>The trouble with pannels is that they are not sharp like moonlight.  For that reason, I would use a single, powerful industrial light, even an LED and set the shutter speed to 25th of a second to avoid flicker.  You can also bolt several building lights close together so that they are about 35cm across for a tight lighting source!</p>\n<p>How much lamp power?  Depends on the camera and the lens!  You would be amazed at what you can get away with using modern cameras!  Suck it and see is the answer!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The easy answer is Day-4-Night, but I hate that as it nearly always looks rubbish.  Even on big-budget productions, Day-4-Night nearly always sticks out like a sore thumb."
+    },
+    {
+      "type": "paragraph",
+      "text": "The trouble with pannels is that they are not sharp like moonlight.  For that reason, I would use a single, powerful industrial light, even an LED and set the shutter speed to 25th of a second to avoid flicker.  You can also bolt several building lights close together so that they are about 35cm across for a tight lighting source!"
+    },
+    {
+      "type": "paragraph",
+      "text": "How much lamp power?  Depends on the camera and the lens!  You would be amazed at what you can get away with using modern cameras!  Suck it and see is the answer!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/moon-light-for-exterior/",
+    "scraped_at": "2026-01-15T15:48:03.216107+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/moon-light-for-exterior/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "824c0a2928538cc8165d3ebed1fedf5036e8c3a4f9a10607777f4972ef275b4d",
+    "parser_version": "bbpress-v2"
+  }
+}

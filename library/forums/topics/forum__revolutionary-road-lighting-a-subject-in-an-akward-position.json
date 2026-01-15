@@ -1,0 +1,89 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-lighting-a-subject-in-an-akward-position/#post-216050",
+  "forum_slug": "forum",
+  "topic_slug": "revolutionary-road-lighting-a-subject-in-an-akward-position",
+  "title": "Revolutionary Road – Lighting a subject in an akward position",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216031",
+    "216035",
+    "216036",
+    "216039",
+    "216044",
+    "216046",
+    "216049",
+    "216050"
+  ],
+  "reply_tree": {
+    "post_id": "216031",
+    "post_type": "topic",
+    "author": "Max A.",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216035",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216036",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216039",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216044",
+        "post_type": "reply",
+        "author": "Gregg",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216046",
+        "post_type": "reply",
+        "author": "Frank",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216049",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216050",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 7,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-lighting-a-subject-in-an-akward-position/#post-216050",
+    "scraped_at": "2026-01-15T15:42:11.689453+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-lighting-a-subject-in-an-akward-position/#post-216050",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6773025097d2d3bda480c64540be59eb5706593f72292e8275abf1366e2a2d84",
+    "parser_version": "bbpress-v2"
+  }
+}

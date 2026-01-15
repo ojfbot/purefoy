@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216898",
+    "forum_slug": "camera",
+    "topic_slug": "false-color-and-lut-workflow",
+    "parent_post_id": "216887",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I am also open to hearing about and learning from other workflows if you have found a system that works for you!",
+  "content_html": "<p>I am also open to hearing about and learning from other workflows if you have found a system that works for you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I am also open to hearing about and learning from other workflows if you have found a system that works for you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/",
+    "scraped_at": "2026-01-15T13:16:24.779844+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cc78b27c95d3f4625f0dac0646be58d9c9db8cf7e78d0a6a539f89c44d176c93",
+    "parser_version": "bbpress-v2"
+  }
+}

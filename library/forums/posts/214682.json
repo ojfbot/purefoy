@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214682",
+    "forum_slug": "camera",
+    "topic_slug": "a-story-more-than-one-character-perspective",
+    "parent_post_id": "214671",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You talked one character perspective on lens choice podcast episode. You said If the story is one character perspective then we have to use wide lenses. If I understood wrong please tell the right one.",
+  "content_html": "<p>You talked one character perspective on lens choice podcast episode. You said If the story is one character perspective then we have to use wide lenses. If I understood wrong please tell the right one.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You talked one character perspective on lens choice podcast episode. You said If the story is one character perspective then we have to use wide lenses. If I understood wrong please tell the right one."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-story-more-than-one-character-perspective/#post-214737",
+    "scraped_at": "2026-01-15T15:25:28.236634+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-story-more-than-one-character-perspective/#post-214737",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4ac4c73f156550c1bb0aebaf141ad3c7312875a779d8a139387ef17489b5d8d2",
+    "parser_version": "bbpress-v2"
+  }
+}

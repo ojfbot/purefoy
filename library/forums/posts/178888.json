@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "178888",
+    "forum_slug": "camera",
+    "topic_slug": "master-anamorphics",
+    "parent_post_id": "169631",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I would have corrected the word “eliminate” in my reply if the edit function had worked…",
+  "content_html": "<p>I would have corrected the word “eliminate” in my reply if the edit function had worked…</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I would have corrected the word “eliminate” in my reply if the edit function had worked…"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-178888",
+    "scraped_at": "2026-01-15T15:44:20.045296+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-178888",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "834f17d34f351ef566a400f0e0324eac367a7a2aa1fd4ce32f9a6a7832ac2b84",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216834",
+    "forum_slug": "camera",
+    "topic_slug": "shooting-films-on-wider-apertures",
+    "parent_post_id": "216717",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I suspect ‘Son of Saul’ was shot with wide apertures to limit the focus of the backgrounds.",
+  "content_html": "<p>I suspect ‘Son of Saul’ was shot with wide apertures to limit the focus of the backgrounds.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I suspect ‘Son of Saul’ was shot with wide apertures to limit the focus of the backgrounds."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-films-on-wider-apertures/#post-216834",
+    "scraped_at": "2026-01-15T13:23:49.408922+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-films-on-wider-apertures/#post-216834",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "27a8e0f825f743a71c71462b78b3f70acf1c9c16375b031c35bcfcdedf28c2dc",
+    "parser_version": "bbpress-v2"
+  }
+}

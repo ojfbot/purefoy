@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214494",
+    "forum_slug": "composition",
+    "topic_slug": "editor-modifying-composition-in-post",
+    "parent_post_id": "214491",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "For an editor to change the cinematographer’s work without a very good reason shows a lack of respect — a cinematographer wouldn’t come into the editing room and start changing cuts after all.  Sometimes there is a good reason though — but an editor would usually tell the cinematographer what was going on and why they had to crop into the shot, etc.\nI only once worked with an editor who routinely recomposed and even re-colored footage I shot, which was crazy. But the movie was not very good and the director was crazy, so I just let them do what they wanted to the footage.  But it was really annoying — the editor only wanted to use close-ups so took all the medium and wide shots and zoomed into them to create even more close-ups and told me I wasn’t shooting enough close-ups!",
+  "content_html": "<p>For an editor to change the cinematographer’s work without a very good reason shows a lack of respect — a cinematographer wouldn’t come into the editing room and start changing cuts after all.  Sometimes there is a good reason though — but an editor would usually tell the cinematographer what was going on and why they had to crop into the shot, etc.</p>\n<p>I only once worked with an editor who routinely recomposed and even re-colored footage I shot, which was crazy. But the movie was not very good and the director was crazy, so I just let them do what they wanted to the footage.  But it was really annoying — the editor only wanted to use close-ups so took all the medium and wide shots and zoomed into them to create even more close-ups and told me I wasn’t shooting enough close-ups!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "For an editor to change the cinematographer’s work without a very good reason shows a lack of respect — a cinematographer wouldn’t come into the editing room and start changing cuts after all.  Sometimes there is a good reason though — but an editor would usually tell the cinematographer what was going on and why they had to crop into the shot, etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "I only once worked with an editor who routinely recomposed and even re-colored footage I shot, which was crazy. But the movie was not very good and the director was crazy, so I just let them do what they wanted to the footage.  But it was really annoying — the editor only wanted to use close-ups so took all the medium and wide shots and zoomed into them to create even more close-ups and told me I wasn’t shooting enough close-ups!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/editor-modifying-composition-in-post/#post-214495",
+    "scraped_at": "2026-01-15T13:16:18.980631+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/editor-modifying-composition-in-post/#post-214495",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "983661731d212d2ee593fdd70355d8deaf23fb7deef9b12fc44b9c1a8df49c53",
+    "parser_version": "bbpress-v2"
+  }
+}

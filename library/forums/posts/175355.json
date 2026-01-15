@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "175355",
+    "forum_slug": "camera",
+    "topic_slug": "cooke-7i-vs-arri-sp",
+    "parent_post_id": "175339",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think you have that wrong. I shot ‘Empire’ on the Arri Signature prime lenses.",
+  "content_html": "<p>I think you have that wrong. I shot ‘Empire’ on the Arri Signature prime lenses.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think you have that wrong. I shot ‘Empire’ on the Arri Signature prime lenses."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cooke-7i-vs-arri-sp/#post-176152",
+    "scraped_at": "2026-01-15T15:45:05.536902+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cooke-7i-vs-arri-sp/#post-176152",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5bb326d39ae04911dfdba423ffcd863df4f48963c2b21870f8551508cdef3338",
+    "parser_version": "bbpress-v2"
+  }
+}

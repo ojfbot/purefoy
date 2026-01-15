@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "206052",
+    "forum_slug": "website-news",
+    "topic_slug": "thank-you-nice-to-be-back",
+    "parent_post_id": "205456",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "simon m",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Agreed. An invaluable gift from Team Deakins.\nWelcome back!",
+  "content_html": "<p>Agreed. An invaluable gift from Team Deakins.</p>\n<p>Welcome back!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Agreed. An invaluable gift from Team Deakins."
+    },
+    {
+      "type": "paragraph",
+      "text": "Welcome back!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/thank-you-nice-to-be-back/#post-206223",
+    "scraped_at": "2026-01-15T12:48:35.999334+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/thank-you-nice-to-be-back/#post-206223",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b24ff7edf5e2c45d0f8d37d356ea4d51d393c04414ecce05ffd3b9bfda3f8f0f",
+    "parser_version": "bbpress-v2"
+  }
+}

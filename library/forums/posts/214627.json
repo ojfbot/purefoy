@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "post_id": "214627",
+    "forum_slug": "website-news",
+    "topic_slug": "how-to-make-a-small-and-confined-space-appear-more-spacious"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Sol",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This is a room for medical experiments. I’ll shoot all the equipment and the whloe room.The whole place is a little bit mess and narrow,so I wonder how I can make the room in  my flim feel large and some technology style.In composition,lighting or camera motion.\nbtw I’ll have some RGB tubes to make some blue light,a 1.8 HMI with some 1/4 CTB,two 300w LED etc.\nThanks for suggestions.",
+  "content_html": "<p><img alt=\"the room to be flim\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214627/njsty44i9w40x9i5qlszeraoha60o4rq.png\"/></p>\n<p>This is a room for medical experiments. I’ll shoot all the equipment and the whloe room.The whole place is a little bit mess and narrow,so I wonder how I can make the room in  my flim feel large and some technology style.In composition,lighting or camera motion.<br/>\nbtw I’ll have some RGB tubes to make some blue light,a 1.8 HMI with some 1/4 CTB,two 300w LED etc.<br/>\nThanks for suggestions.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This is a room for medical experiments. I’ll shoot all the equipment and the whloe room.The whole place is a little bit mess and narrow,so I wonder how I can make the room in  my flim feel large and some technology style.In composition,lighting or camera motion.\nbtw I’ll have some RGB tubes to make some blue light,a 1.8 HMI with some 1/4 CTB,two 300w LED etc.\nThanks for suggestions."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214627/njsty44i9w40x9i5qlszeraoha60o4rq.png",
+      "alt": "the room to be flim",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-make-a-small-and-confined-space-appear-more-spacious/#post-214652",
+    "scraped_at": "2026-01-15T12:48:20.205323+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-make-a-small-and-confined-space-appear-more-spacious/#post-214652",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "43dfb845961ea78ef2b8212ffcf2ba138643b2c1e8249f3dbb25f5bfd49e331f",
+    "parser_version": "bbpress-v2"
+  }
+}

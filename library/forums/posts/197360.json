@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "197360",
+    "forum_slug": "set-talk",
+    "topic_slug": "age-factor",
+    "parent_post_id": "177312",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It depends the person more than the age in my opinion. Some people gets used to set rhythm some are not. Also not every set Is the same. Small crew and multitasking? Or 8 people on camera dept and a chair on video village?\nAlso the circumstances. Spending all night long on a shoot after a long day when you earn 4k per day is more bearable than when you get paid 400 isn’t?\nAlso not all cinematography work is the same. Commercial gig on a studio is not the same as 12 hours in the middle of the bush on a tiny African country shooting doc.",
+  "content_html": "<p>It depends the person more than the age in my opinion. Some people gets used to set rhythm some are not. Also not every set Is the same. Small crew and multitasking? Or 8 people on camera dept and a chair on video village?</p>\n<p>Also the circumstances. Spending all night long on a shoot after a long day when you earn 4k per day is more bearable than when you get paid 400 isn’t?</p>\n<p>Also not all cinematography work is the same. Commercial gig on a studio is not the same as 12 hours in the middle of the bush on a tiny African country shooting doc.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "It depends the person more than the age in my opinion. Some people gets used to set rhythm some are not. Also not every set Is the same. Small crew and multitasking? Or 8 people on camera dept and a chair on video village?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also the circumstances. Spending all night long on a shoot after a long day when you earn 4k per day is more bearable than when you get paid 400 isn’t?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also not all cinematography work is the same. Commercial gig on a studio is not the same as 12 hours in the middle of the bush on a tiny African country shooting doc."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/age-factor/#post-215615",
+    "scraped_at": "2026-01-15T13:06:10.209929+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/age-factor/#post-215615",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7586ae22da9acbf2d2261631c7591e016f8eadad0b4de44e62071c27585acf85",
+    "parser_version": "bbpress-v2"
+  }
+}

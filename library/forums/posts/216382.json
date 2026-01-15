@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216382",
+    "forum_slug": "composition",
+    "topic_slug": "composition-and-symmetry",
+    "parent_post_id": "216380",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "“For a diagonal line effect” I meant — still cannot edit my posts on this site!",
+  "content_html": "<p>“For a diagonal line effect” I meant — still cannot edit my posts on this site!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "“For a diagonal line effect” I meant — still cannot edit my posts on this site!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/composition-and-symmetry/#post-217506",
+    "scraped_at": "2026-01-15T12:09:26.085498+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/composition-and-symmetry/#post-217506",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "29c562a53e74f0b588d30da6c78f5c04d048b68f97f205fc035ea218dbc6c49d",
+    "parser_version": "bbpress-v2"
+  }
+}

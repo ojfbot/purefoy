@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "214520",
+    "forum_slug": "camera",
+    "topic_slug": "full-frame-digital",
+    "parent_post_id": "214515",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Planet_Coast",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey Roger,\nOn ‘1917’ you used the Arri Signature Primes which open up to a T1.8. Would the depth of field have been significantly different if you shot on a S35 Alexa and Master Primes at a T1.4?\nI’m not questioning your choices, I’m just trying to understand the benefits of shooting full frame digital.\nI understand the increased information.\nWhen I said S35 Alexa, I was referring to the older Alexas such as the Alexa XT Studio, Mini etc. and not the Alexa 35 which has a new sensor.\nYou’re right, I meant closing down the iris to compensate for the depth of field between the LF and the S35.",
+  "content_html": "<p>Hey Roger,</p>\n<p>On ‘1917’ you used the Arri Signature Primes which open up to a T1.8. Would the depth of field have been significantly different if you shot on a S35 Alexa and Master Primes at a T1.4?</p>\n<p>I’m not questioning your choices, I’m just trying to understand the benefits of shooting full frame digital.</p>\n<p>I understand the increased information.</p>\n<p>When I said S35 Alexa, I was referring to the older Alexas such as the Alexa XT Studio, Mini etc. and not the Alexa 35 which has a new sensor.</p>\n<p>You’re right, I meant closing down the iris to compensate for the depth of field between the LF and the S35.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "On ‘1917’ you used the Arri Signature Primes which open up to a T1.8. Would the depth of field have been significantly different if you shot on a S35 Alexa and Master Primes at a T1.4?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m not questioning your choices, I’m just trying to understand the benefits of shooting full frame digital."
+    },
+    {
+      "type": "paragraph",
+      "text": "I understand the increased information."
+    },
+    {
+      "type": "paragraph",
+      "text": "When I said S35 Alexa, I was referring to the older Alexas such as the Alexa XT Studio, Mini etc. and not the Alexa 35 which has a new sensor."
+    },
+    {
+      "type": "paragraph",
+      "text": "You’re right, I meant closing down the iris to compensate for the depth of field between the LF and the S35."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/full-frame-digital/#post-214545",
+    "scraped_at": "2026-01-15T15:25:49.127306+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/full-frame-digital/#post-214545",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fd91d133c22189285f3bcc70ea6ef38e9f1dcd2c3d58ec287220f74c2a5294f7",
+    "parser_version": "bbpress-v2"
+  }
+}

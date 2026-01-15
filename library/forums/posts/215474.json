@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215474",
+    "forum_slug": "forum",
+    "topic_slug": "high-key-lighting-the-commercial-look",
+    "parent_post_id": "214712",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "HHFischer",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi all,\nSo sorry I didn’t check up on this until now, I didn’t appear to get any emails letting me know about the replies and got busy. Thank you all for your guidance, reading through has been very helpful! I love some of the tips you’ve been able to provide and can’t wait to try them all out next time I shoot. I appreciate the practicality of you solutions and how specific you were able to me.\nThanks again and sorry for the delay!",
+  "content_html": "<p>Hi all,</p>\n<p>So sorry I didn’t check up on this until now, I didn’t appear to get any emails letting me know about the replies and got busy. Thank you all for your guidance, reading through has been very helpful! I love some of the tips you’ve been able to provide and can’t wait to try them all out next time I shoot. I appreciate the practicality of you solutions and how specific you were able to me.</p>\n<p>Thanks again and sorry for the delay!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi all,"
+    },
+    {
+      "type": "paragraph",
+      "text": "So sorry I didn’t check up on this until now, I didn’t appear to get any emails letting me know about the replies and got busy. Thank you all for your guidance, reading through has been very helpful! I love some of the tips you’ve been able to provide and can’t wait to try them all out next time I shoot. I appreciate the practicality of you solutions and how specific you were able to me."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks again and sorry for the delay!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/high-key-lighting-the-commercial-look/#post-215474",
+    "scraped_at": "2026-01-15T15:47:09.417900+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/high-key-lighting-the-commercial-look/#post-215474",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "62287df288770e633ff77600f567bbb2161ce10927d0e6c3759b4253419fb00f",
+    "parser_version": "bbpress-v2"
+  }
+}

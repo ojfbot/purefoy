@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215169",
+    "forum_slug": "forum",
+    "topic_slug": "choosing-between-5600-and-3200",
+    "parent_post_id": "215166",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Technically you’d have a little less noise at 5600K because sensors are naturally close to daylight-balance – the blue channel has to be boosted after raw conversion to make the image balanced for 3200K.\nHowever, regarding color reproduction, that is more an issue of the lighting technology involved rather than the color temperature. True daylight and tungsten are continuous spectrum sources whereas LEDs have spikes of color at different frequencies, some have more color phosphors / spikes with smaller gaps, creating more accurate color reproduction.",
+  "content_html": "<p>Technically you’d have a little less noise at 5600K because sensors are naturally close to daylight-balance – the blue channel has to be boosted after raw conversion to make the image balanced for 3200K.</p>\n<p>However, regarding color reproduction, that is more an issue of the lighting technology involved rather than the color temperature. True daylight and tungsten are continuous spectrum sources whereas LEDs have spikes of color at different frequencies, some have more color phosphors / spikes with smaller gaps, creating more accurate color reproduction.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Technically you’d have a little less noise at 5600K because sensors are naturally close to daylight-balance – the blue channel has to be boosted after raw conversion to make the image balanced for 3200K."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, regarding color reproduction, that is more an issue of the lighting technology involved rather than the color temperature. True daylight and tungsten are continuous spectrum sources whereas LEDs have spikes of color at different frequencies, some have more color phosphors / spikes with smaller gaps, creating more accurate color reproduction."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/choosing-between-5600-and-3200/#post-215170",
+    "scraped_at": "2026-01-15T15:48:39.336012+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/choosing-between-5600-and-3200/#post-215170",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8b224dc822f846099063bd0954012ba03dc1ca78bb450672424ee4171e921bdb",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "post_id": "212262",
+    "forum_slug": "post",
+    "topic_slug": "film-tinting"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Jacob W.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Is anyone familiar with the process of ‘Film Tinting’ – shooting Black and White film stock and then dying the film after developing it – most notably seen in the 60’s Czech western ‘Lemonade Joe’.\nI’m planning on recreating this with 16mm B/W film – I’ve been told by one of the only B/W developing labs in the US (ColorLab) that a company in Prague still does this process (funny the secret must have been kept in lock and key in Czech)\nJust curious. I’ve tried to travel down the rabbit hole to reach out to this company but wanted to query the forum for all of it’s depth and knowledge on this process.",
+  "content_html": "<p>Is anyone familiar with the process of ‘Film Tinting’ – shooting Black and White film stock and then dying the film after developing it – most notably seen in the 60’s Czech western ‘Lemonade Joe’.</p>\n<p>I’m planning on recreating this with 16mm B/W film – I’ve been told by one of the only B/W developing labs in the US (ColorLab) that a company in Prague still does this process (funny the secret must have been kept in lock and key in Czech)</p>\n<p>Just curious. I’ve tried to travel down the rabbit hole to reach out to this company but wanted to query the forum for all of it’s depth and knowledge on this process.</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/212262/iz7og30b2lyo15ltlqivz4oyi3gste1q.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Is anyone familiar with the process of ‘Film Tinting’ – shooting Black and White film stock and then dying the film after developing it – most notably seen in the 60’s Czech western ‘Lemonade Joe’."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m planning on recreating this with 16mm B/W film – I’ve been told by one of the only B/W developing labs in the US (ColorLab) that a company in Prague still does this process (funny the secret must have been kept in lock and key in Czech)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just curious. I’ve tried to travel down the rabbit hole to reach out to this company but wanted to query the forum for all of it’s depth and knowledge on this process."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/212262/iz7og30b2lyo15ltlqivz4oyi3gste1q.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/film-tinting/",
+    "scraped_at": "2026-01-15T13:23:47.596099+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/film-tinting/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "87914c5560dfd3b0628958164f50fa4f12ce9e16153a472e5546ad0a978a0a3c",
+    "parser_version": "bbpress-v2"
+  }
+}

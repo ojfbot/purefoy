@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215760",
+    "forum_slug": "forum",
+    "topic_slug": "oldschool-hollywood-lighting-50s-60s",
+    "parent_post_id": "215736",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "jmixon",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That’s fair, I guess I just meant maybe it had something to do with film stock back in the day that isn’t produced anymore, or old lenses that you’d have to use–things I’m just not familiar with as these films are so old and this is an AI image referencing those old films.\nIt, and Lawrence, are definitely overlit as far as “realism” goes, I agree. But stylistically there could be reasons to use that look in a film I believe, sure. I find it quite stunning personally.",
+  "content_html": "<p>That’s fair, I guess I just meant maybe it had something to do with film stock back in the day that isn’t produced anymore, or old lenses that you’d have to use–things I’m just not familiar with as these films are so old and this is an AI image referencing those old films.</p>\n<p>It, and Lawrence, are definitely overlit as far as “realism” goes, I agree. But stylistically there could be reasons to use that look in a film I believe, sure. I find it quite stunning personally.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That’s fair, I guess I just meant maybe it had something to do with film stock back in the day that isn’t produced anymore, or old lenses that you’d have to use–things I’m just not familiar with as these films are so old and this is an AI image referencing those old films."
+    },
+    {
+      "type": "paragraph",
+      "text": "It, and Lawrence, are definitely overlit as far as “realism” goes, I agree. But stylistically there could be reasons to use that look in a film I believe, sure. I find it quite stunning personally."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/oldschool-hollywood-lighting-50s-60s/#post-215763",
+    "scraped_at": "2026-01-15T15:44:38.733098+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/oldschool-hollywood-lighting-50s-60s/#post-215763",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cf09c6ec8537c13d78ed066b64023625d353546761a5bea213cff0a1dd7ff60d",
+    "parser_version": "bbpress-v2"
+  }
+}

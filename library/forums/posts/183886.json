@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "183886",
+    "forum_slug": "camera",
+    "topic_slug": "arri-trinity-advantages-and-disadvantages"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger you used arri Trinity for 1917. What’s the advantages of arri Trinity. Which situation it could be useful tool. Because some people’s using arri Trinity just like that seducing movements. In your perception which movie used Trinity perfectly.",
+  "content_html": "<p>Dear master Roger you used arri Trinity for 1917. What’s the advantages of arri Trinity. Which situation it could be useful tool. Because some people’s using arri Trinity just like that seducing movements. In your perception which movie used Trinity perfectly.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger you used arri Trinity for 1917. What’s the advantages of arri Trinity. Which situation it could be useful tool. Because some people’s using arri Trinity just like that seducing movements. In your perception which movie used Trinity perfectly."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/arri-trinity-advantages-and-disadvantages/#post-187431",
+    "scraped_at": "2026-01-15T15:43:47.341453+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/arri-trinity-advantages-and-disadvantages/#post-187431",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4453b8d3897b6b159d66c4b03cc5b83f1ad6ea8843e662c70aee07d5ccf92999",
+    "parser_version": "bbpress-v2"
+  }
+}

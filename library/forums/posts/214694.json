@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214694",
+    "forum_slug": "forum",
+    "topic_slug": "rigging-tube-lights-to-concrete-wall",
+    "parent_post_id": "214688",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Astera tubes are a bit heavy but perhaps a long strip of velcro on the wall and the backside of the tube? Remember you’ll need to pull them down to recharge or replace.",
+  "content_html": "<p>Astera tubes are a bit heavy but perhaps a long strip of velcro on the wall and the backside of the tube? Remember you’ll need to pull them down to recharge or replace.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Astera tubes are a bit heavy but perhaps a long strip of velcro on the wall and the backside of the tube? Remember you’ll need to pull them down to recharge or replace."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/rigging-tube-lights-to-concrete-wall/#post-214770",
+    "scraped_at": "2026-01-15T15:51:42.759682+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/rigging-tube-lights-to-concrete-wall/#post-214770",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a977d01e199796900b36a2baefb08dff0d672bb916b147ffa0d155fa59fbee12",
+    "parser_version": "bbpress-v2"
+  }
+}

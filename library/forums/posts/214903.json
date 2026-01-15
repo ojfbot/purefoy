@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214903",
+    "forum_slug": "forum",
+    "topic_slug": "is-the-craft-of-lighting-black-and-white-different-from-color",
+    "parent_post_id": "214895",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think the main thing to keep in mind is that even though in black & white photography the separation of different elements is coming primarily through contrast and composition, color definitely still matters because of tones. If you take the example of a very deep red brick house against a very purple-violet sky, the tones of those two things will actually look fairly close in B&W and it will be a much flatter image than it is in color. If you ignore color on set and then try to window everything in the grade it might end up being a fairly long and painstaking process.",
+  "content_html": "<p>I think the main thing to keep in mind is that even though in black &amp; white photography the separation of different elements is coming primarily through contrast and composition, color definitely still matters because of tones. If you take the example of a very deep red brick house against a very purple-violet sky, the tones of those two things will actually look fairly close in B&amp;W and it will be a much flatter image than it is in color. If you ignore color on set and then try to window everything in the grade it might end up being a fairly long and painstaking process.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think the main thing to keep in mind is that even though in black & white photography the separation of different elements is coming primarily through contrast and composition, color definitely still matters because of tones. If you take the example of a very deep red brick house against a very purple-violet sky, the tones of those two things will actually look fairly close in B&W and it will be a much flatter image than it is in color. If you ignore color on set and then try to window everything in the grade it might end up being a fairly long and painstaking process."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/is-the-craft-of-lighting-black-and-white-different-from-color/#post-214906",
+    "scraped_at": "2026-01-15T15:50:48.339407+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/is-the-craft-of-lighting-black-and-white-different-from-color/#post-214906",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dd8a272602ed0da06495ffc805c07ce72a0e726c251fff39a7aa5b53c2116cf6",
+    "parser_version": "bbpress-v2"
+  }
+}

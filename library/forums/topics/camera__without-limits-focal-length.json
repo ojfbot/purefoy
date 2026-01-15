@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/without-limits-focal-length/#post-183564",
+  "forum_slug": "camera",
+  "topic_slug": "without-limits-focal-length",
+  "title": "‘Without Limits’ focal length",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "182886",
+    "183164",
+    "183564"
+  ],
+  "reply_tree": {
+    "post_id": "182886",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "183164",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "183564",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/without-limits-focal-length/#post-183564",
+    "scraped_at": "2026-01-15T15:43:58.830395+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/without-limits-focal-length/#post-183564",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "268ab0c1138d64dd6aae1e249c193c0ca2612e1a4a175d453e9e4d09a3c43c6e",
+    "parser_version": "bbpress-v2"
+  }
+}

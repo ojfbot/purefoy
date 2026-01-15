@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "176392",
+    "forum_slug": "camera",
+    "topic_slug": "arri-sharpness-detail",
+    "parent_post_id": "176357",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I suspect the ‘detail’ settings to try to mimic micro contrast but that’s just my guess using it in Davinci Resolve. It can introduce a halo effect quickly if overdone.",
+  "content_html": "<p>I suspect the ‘detail’ settings to try to mimic micro contrast but that’s just my guess using it in Davinci Resolve. It can introduce a halo effect quickly if overdone.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I suspect the ‘detail’ settings to try to mimic micro contrast but that’s just my guess using it in Davinci Resolve. It can introduce a halo effect quickly if overdone."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/arri-sharpness-detail/#post-176406",
+    "scraped_at": "2026-01-15T15:44:52.865658+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/arri-sharpness-detail/#post-176406",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8fce49269b9fe57e1eeec77aa736190691167e47e1e11adb09feb37df2cae0b0",
+    "parser_version": "bbpress-v2"
+  }
+}

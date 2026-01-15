@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/a-personal-thanks-to-james-and-roger-just-wrapped-my-feature/",
+  "forum_slug": "film-talk",
+  "topic_slug": "a-personal-thanks-to-james-and-roger-just-wrapped-my-feature",
+  "title": "A personal Thanks to James and Roger, Just wrapped my feature",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215790"
+  ],
+  "reply_tree": {
+    "post_id": "215790",
+    "post_type": "topic",
+    "author": "Baudelaire",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-personal-thanks-to-james-and-roger-just-wrapped-my-feature/",
+    "scraped_at": "2026-01-15T13:06:08.138892+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-personal-thanks-to-james-and-roger-just-wrapped-my-feature/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d6bc192ebd9a90ed04bd2775feaf0041b4ab082c94ee966bb7c41fa9bfe59d96",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "201976",
+    "forum_slug": "website-news",
+    "topic_slug": "new-looking-at-lighting"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "James",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A new Looking at Lighting page will come out on Wednesday. This examines the lighting in EMPIRE OF LIGHT. If you are a member of the website, you’ll be able to find it under the “Members Only” menu.",
+  "content_html": "<p>A new Looking at Lighting page will come out on Wednesday. This examines the lighting in EMPIRE OF LIGHT. If you are a member of the website, you’ll be able to find it under the “Members Only” menu.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A new Looking at Lighting page will come out on Wednesday. This examines the lighting in EMPIRE OF LIGHT. If you are a member of the website, you’ll be able to find it under the “Members Only” menu."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/new-looking-at-lighting/#post-202552",
+    "scraped_at": "2026-01-15T12:48:41.599765+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/new-looking-at-lighting/#post-202552",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c77115321a2f7d065def0a605d36991d2ec239cebca64d7aaeb8add7c1bccc62",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/4k-physical-releases/#post-217195",
+  "forum_slug": "film-talk",
+  "topic_slug": "4k-physical-releases",
+  "title": "4k physical releases",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216845",
+    "216851",
+    "217195"
+  ],
+  "reply_tree": {
+    "post_id": "216845",
+    "post_type": "topic",
+    "author": "rspencerw",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216851",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217195",
+        "post_type": "reply",
+        "author": "rspencerw",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/4k-physical-releases/#post-217195",
+    "scraped_at": "2026-01-15T12:09:14.283644+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/4k-physical-releases/#post-217195",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "67df6b29fb36cc603f34059b7673b7c1dd2316c263fc066c3a32898eecf2cef5",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-dusk-dialogue/#post-215015",
+  "forum_slug": "forum",
+  "topic_slug": "empire-of-light-dusk-dialogue",
+  "title": "Empire of Light – Dusk dialogue",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214963",
+    "214964",
+    "214965",
+    "214966",
+    "214970",
+    "214972",
+    "214976",
+    "214999",
+    "215004",
+    "215008",
+    "215013",
+    "215015"
+  ],
+  "reply_tree": {
+    "post_id": "214963",
+    "post_type": "topic",
+    "author": "Max A.",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214964",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214965",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214966",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214970",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214972",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214976",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214999",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215004",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215008",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215013",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215015",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 11,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-dusk-dialogue/#post-215015",
+    "scraped_at": "2026-01-15T15:49:45.594646+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-dusk-dialogue/#post-215015",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "25a138f244597df0d618b9ca4c6f71e558f6ab49fd51af2612a4e42fd0bd498d",
+    "parser_version": "bbpress-v2"
+  }
+}

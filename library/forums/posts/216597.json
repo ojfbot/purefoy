@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "216597",
+    "forum_slug": "camera",
+    "topic_slug": "camera-starter-question",
+    "parent_post_id": "169402",
+    "parent_type": "topic",
+    "position": 20
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I currently don’t own a camera but if I’d buy one I’d want it to be a S35mm equivalent sensor.\nEspecially affordable entry cinema cameras gravitate towards large format sensors nowadays, which is a bummer for me personally. So:\n+ S35mm sensor\n+ large dynamic range\n+ internal RAW recording\n+ internal ND",
+  "content_html": "<p>I currently don’t own a camera but if I’d buy one I’d want it to be a S35mm equivalent sensor.</p>\n<p>Especially affordable entry cinema cameras gravitate towards large format sensors nowadays, which is a bummer for me personally. So:</p>\n<p>+ S35mm sensor</p>\n<p>+ large dynamic range</p>\n<p>+ internal RAW recording</p>\n<p>+ internal ND</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I currently don’t own a camera but if I’d buy one I’d want it to be a S35mm equivalent sensor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Especially affordable entry cinema cameras gravitate towards large format sensors nowadays, which is a bummer for me personally. So:"
+    },
+    {
+      "type": "paragraph",
+      "text": "+ S35mm sensor"
+    },
+    {
+      "type": "paragraph",
+      "text": "+ large dynamic range"
+    },
+    {
+      "type": "paragraph",
+      "text": "+ internal RAW recording"
+    },
+    {
+      "type": "paragraph",
+      "text": "+ internal ND"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/page/2/",
+    "scraped_at": "2026-01-15T13:56:45.967855+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "08a914b5512371e27eb6ea76cfe01c5205ebe67c7cf094d26f5f396c079785f9",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "193040",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-practical-bare-bulb",
+    "parent_post_id": "190614",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "“There was a serious flare but I placed a small square of white tape in the middle of the bulb facing camera and that dealt with the flare.”\nLove it!",
+  "content_html": "<p>“There was a serious flare but I placed a small square of white tape in the middle of the bulb facing camera and that dealt with the flare.”</p>\n<p> </p>\n<p>Love it!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "“There was a serious flare but I placed a small square of white tape in the middle of the bulb facing camera and that dealt with the flare.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Love it!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-practical-bare-bulb/",
+    "scraped_at": "2026-01-15T15:55:03.849546+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-practical-bare-bulb/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a6f7712c71442e517e57b7f48abdc22803c6564a686926d86afd94bfa544b18f",
+    "parser_version": "bbpress-v2"
+  }
+}

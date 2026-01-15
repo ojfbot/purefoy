@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "199642",
+    "forum_slug": "forum",
+    "topic_slug": "1917-tracking-shots-lighting",
+    "parent_post_id": "199431",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I did consider a number of hand held variations of lighting for the daytime work but that was a little ‘overthinking’. In the end the lighting just didn’t make sense as the speeds and space restrictions were too much to deal with. The hardest part of the shoot was the waiting for cloudy conditions. When any cloud came over it always seemed the pressure was on me to say we could shoot or not. I guess that was true. But, thankfully, we were pretty much all in sync about what it would take to make the ‘one shot’ work. In fact we didn’t shoot at all on our first day!\nTo maintain consistency, I did have a remote control beside my camera head controls, which either I or my DIT was adjusting depending on which piece of equipment the camera was mounted on. With the Steadicam, I could be on the wheel. With the Trinity I had one hand on the tilt control and the other on the aperture and when we were on the Stabileye I was talking Josh, my DIT, through the exposure changes.",
+  "content_html": "<p>I did consider a number of hand held variations of lighting for the daytime work but that was a little ‘overthinking’. In the end the lighting just didn’t make sense as the speeds and space restrictions were too much to deal with. The hardest part of the shoot was the waiting for cloudy conditions. When any cloud came over it always seemed the pressure was on me to say we could shoot or not. I guess that was true. But, thankfully, we were pretty much all in sync about what it would take to make the ‘one shot’ work. In fact we didn’t shoot at all on our first day!</p>\n<p>To maintain consistency, I did have a remote control beside my camera head controls, which either I or my DIT was adjusting depending on which piece of equipment the camera was mounted on. With the Steadicam, I could be on the wheel. With the Trinity I had one hand on the tilt control and the other on the aperture and when we were on the Stabileye I was talking Josh, my DIT, through the exposure changes.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I did consider a number of hand held variations of lighting for the daytime work but that was a little ‘overthinking’. In the end the lighting just didn’t make sense as the speeds and space restrictions were too much to deal with. The hardest part of the shoot was the waiting for cloudy conditions. When any cloud came over it always seemed the pressure was on me to say we could shoot or not. I guess that was true. But, thankfully, we were pretty much all in sync about what it would take to make the ‘one shot’ work. In fact we didn’t shoot at all on our first day!"
+    },
+    {
+      "type": "paragraph",
+      "text": "To maintain consistency, I did have a remote control beside my camera head controls, which either I or my DIT was adjusting depending on which piece of equipment the camera was mounted on. With the Steadicam, I could be on the wheel. With the Trinity I had one hand on the tilt control and the other on the aperture and when we were on the Stabileye I was talking Josh, my DIT, through the exposure changes."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/1917-tracking-shots-lighting/#post-199804",
+    "scraped_at": "2026-01-15T15:54:30.961699+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/1917-tracking-shots-lighting/#post-199804",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "25102af231716d1d0316bdb5ab47cdf435f3050c3b6fd77b6f87b5a895854db4",
+    "parser_version": "bbpress-v2"
+  }
+}

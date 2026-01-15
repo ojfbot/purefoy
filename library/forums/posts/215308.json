@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215308",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-for-dark-sequences",
+    "parent_post_id": "215273",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Rob-Webster",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If you want a texture shadow look then you really need to protect that area when you expose.\nYou can lower the ISO to move the dynamic range into the shadows. You can create a LUT that brings the image down a stop or two, and over expose the image slightly to get more detail in the blacks.\nYou could also go the other way and create a denser darkness by compressing the shadows. All depends on the type of “dark” you are trying to create.",
+  "content_html": "<p>If you want a texture shadow look then you really need to protect that area when you expose.</p>\n<p>You can lower the ISO to move the dynamic range into the shadows. You can create a LUT that brings the image down a stop or two, and over expose the image slightly to get more detail in the blacks.</p>\n<p>You could also go the other way and create a denser darkness by compressing the shadows. All depends on the type of “dark” you are trying to create.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you want a texture shadow look then you really need to protect that area when you expose."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can lower the ISO to move the dynamic range into the shadows. You can create a LUT that brings the image down a stop or two, and over expose the image slightly to get more detail in the blacks."
+    },
+    {
+      "type": "paragraph",
+      "text": "You could also go the other way and create a denser darkness by compressing the shadows. All depends on the type of “dark” you are trying to create."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-for-dark-sequences/#post-215308",
+    "scraped_at": "2026-01-15T15:47:44.640479+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-dark-sequences/#post-215308",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "247666cab8eebf12094c57667ea79fd01436e0694cffb9963fbece9502b52802",
+    "parser_version": "bbpress-v2"
+  }
+}

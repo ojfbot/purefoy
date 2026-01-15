@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215324",
+    "forum_slug": "camera",
+    "topic_slug": "zoom-in-vs-dolly-pushing",
+    "parent_post_id": "215307",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That’s right. There is no right way.\nThe effect of a zoom could be likened to you focussing your attention on a part of your surroundings. As it involves seeing an object in more detail but from a greater distance, than if it were a dolly in, it does have a different feel but it is all about context.",
+  "content_html": "<p>That’s right. There is no right way.</p>\n<p>The effect of a zoom could be likened to you focussing your attention on a part of your surroundings. As it involves seeing an object in more detail but from a greater distance, than if it were a dolly in, it does have a different feel but it is all about context.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That’s right. There is no right way."
+    },
+    {
+      "type": "paragraph",
+      "text": "The effect of a zoom could be likened to you focussing your attention on a part of your surroundings. As it involves seeing an object in more detail but from a greater distance, than if it were a dolly in, it does have a different feel but it is all about context."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+    "scraped_at": "2026-01-15T15:22:12.537684+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6a5a42abf522c16196bd21074546d4a22b979e7a0ce38844aaf29512488fbbca",
+    "parser_version": "bbpress-v2"
+  }
+}

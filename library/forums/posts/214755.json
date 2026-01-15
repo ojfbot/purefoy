@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "214755",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The distance the bounce source is from the subject controls the ‘softness’ of the light but also the fall off. If you want the wall behind your subject to seem as brightly lit as they are then you have the bounce at some distance away but if you want to isolate a face you then move it close.\nThe curve I might put into an array of small bounce boards or muslins is to ‘funnel the light when I need to. It doesn’t affect the subject as much as it does the background.\nThe height of the bounce is a choice made when looking at the natural source you are adding to or emulating. You might also change the height depending on how the light falls on your subject, whether that is an object or a face.\nI always control color temperature on set and definitely NOT in post. How to handle color temperature? Maybe that is all about observation of how natural light can change color during the progress of a day or how it varies from one artificial source to another.",
+  "content_html": "<p>The distance the bounce source is from the subject controls the ‘softness’ of the light but also the fall off. If you want the wall behind your subject to seem as brightly lit as they are then you have the bounce at some distance away but if you want to isolate a face you then move it close.</p>\n<p>The curve I might put into an array of small bounce boards or muslins is to ‘funnel the light when I need to. It doesn’t affect the subject as much as it does the background.</p>\n<p>The height of the bounce is a choice made when looking at the natural source you are adding to or emulating. You might also change the height depending on how the light falls on your subject, whether that is an object or a face.</p>\n<p>I always control color temperature on set and definitely NOT in post. How to handle color temperature? Maybe that is all about observation of how natural light can change color during the progress of a day or how it varies from one artificial source to another.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The distance the bounce source is from the subject controls the ‘softness’ of the light but also the fall off. If you want the wall behind your subject to seem as brightly lit as they are then you have the bounce at some distance away but if you want to isolate a face you then move it close."
+    },
+    {
+      "type": "paragraph",
+      "text": "The curve I might put into an array of small bounce boards or muslins is to ‘funnel the light when I need to. It doesn’t affect the subject as much as it does the background."
+    },
+    {
+      "type": "paragraph",
+      "text": "The height of the bounce is a choice made when looking at the natural source you are adding to or emulating. You might also change the height depending on how the light falls on your subject, whether that is an object or a face."
+    },
+    {
+      "type": "paragraph",
+      "text": "I always control color temperature on set and definitely NOT in post. How to handle color temperature? Maybe that is all about observation of how natural light can change color during the progress of a day or how it varies from one artificial source to another."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+    "scraped_at": "2026-01-15T15:51:24.795278+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5cd954f58ea8bd20befae34dba230ce377392dd55cd1d4de4e8393c21f171044",
+    "parser_version": "bbpress-v2"
+  }
+}

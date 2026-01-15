@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "173085",
+    "forum_slug": "team-deakins",
+    "topic_slug": "live-youtube-conversation",
+    "parent_post_id": "172882",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "James",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Now that I’ve got the technology down, yes! I’m talking with Greig Fraser now about doing one.",
+  "content_html": "<p>Now that I’ve got the technology down, yes! I’m talking with Greig Fraser now about doing one.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Now that I’ve got the technology down, yes! I’m talking with Greig Fraser now about doing one."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/live-youtube-conversation/#post-173126",
+    "scraped_at": "2026-01-15T14:12:58.165378+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/live-youtube-conversation/#post-173126",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a22bcacef4eea6056ffa2a2898cbdd6ead1bee59728b56f402b809e06768d372",
+    "parser_version": "bbpress-v2"
+  }
+}

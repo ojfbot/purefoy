@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216860",
+    "forum_slug": "forum",
+    "topic_slug": "frames-and-diffusion-questions",
+    "parent_post_id": "216826",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Much appreciated info thank you! I’m thinking of a way to get my hands on a few to test out and see the differences. Perhaps i’ll buy a few different 21″x24″sheets and side by side them. Seems like the affordable approach for testing",
+  "content_html": "<p>Much appreciated info thank you! I’m thinking of a way to get my hands on a few to test out and see the differences. Perhaps i’ll buy a few different 21″x24″sheets and side by side them. Seems like the affordable approach for testing</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Much appreciated info thank you! I’m thinking of a way to get my hands on a few to test out and see the differences. Perhaps i’ll buy a few different 21″x24″sheets and side by side them. Seems like the affordable approach for testing"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/frames-and-diffusion-questions/#post-216860",
+    "scraped_at": "2026-01-15T15:22:48.902616+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/frames-and-diffusion-questions/#post-216860",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9204c40d0147472be9fe0a5aad84e20fe2019350aac86b693466f719698b7d04",
+    "parser_version": "bbpress-v2"
+  }
+}

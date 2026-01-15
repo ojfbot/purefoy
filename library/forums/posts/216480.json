@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216480",
+    "forum_slug": "website-news",
+    "topic_slug": "night-interior-ballroom-lighting",
+    "parent_post_id": "211185",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Julius",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello,\nyou said that you would rig the ringlights to the existing chandelier, but wouldnt that chandiler create a shadow if the ringlight is rigged over the chandiler, unless the ringlight is rigged under the chandelier, but this wouldnt work if it appears in frame.\nJulius",
+  "content_html": "<p>Hello,</p>\n<p>you said that you would rig the ringlights to the existing chandelier, but wouldnt that chandiler create a shadow if the ringlight is rigged over the chandiler, unless the ringlight is rigged under the chandelier, but this wouldnt work if it appears in frame.</p>\n<div class=\"bbp-signature\"><p>Julius</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello,"
+    },
+    {
+      "type": "paragraph",
+      "text": "you said that you would rig the ringlights to the existing chandelier, but wouldnt that chandiler create a shadow if the ringlight is rigged over the chandiler, unless the ringlight is rigged under the chandelier, but this wouldnt work if it appears in frame."
+    },
+    {
+      "type": "paragraph",
+      "text": "Julius"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/night-interior-ballroom-lighting/#post-216480",
+    "scraped_at": "2026-01-15T12:07:59.798995+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/night-interior-ballroom-lighting/#post-216480",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7a50a5bc3772db5839f5614960c13e063b9a3920c603548fa4ae6bfaa1870991",
+    "parser_version": "bbpress-v2"
+  }
+}

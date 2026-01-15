@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "215548",
+    "forum_slug": "forum",
+    "topic_slug": "about-low-key-lighting",
+    "parent_post_id": "215519",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "JakobGrasboeck",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "(my original post was not finished and submitted too early)\nI used the process that Stip describes on the Sony FS7. In CineEI-Mode the camera records with the native ISO of 2000. I usually rated it at 500, to get 2 stops overexposure. With the CineEI-mode the on-set monitors show the image at ISO500 then. In post i pulled it down two stops, thereby getting richer blacks with not too much noise. For me thats just a technical process (and really just an offset of your intended values – the ratios don‘t change with this process). So I would not consider that to be a creative process ie. it doesn‘t feel wrong to pull the image in post to the look I intended. I‘ll attach an image I shot a lighting exercise at university with this process. I hope it works.",
+  "content_html": "<p>(my original post was not finished and submitted too early)<br/>\nI used the process that Stip describes on the Sony FS7. In CineEI-Mode the camera records with the native ISO of 2000. I usually rated it at 500, to get 2 stops overexposure. With the CineEI-mode the on-set monitors show the image at ISO500 then. In post i pulled it down two stops, thereby getting richer blacks with not too much noise. For me thats just a technical process (and really just an offset of your intended values – the ratios don‘t change with this process). So I would not consider that to be a creative process ie. it doesn‘t feel wrong to pull the image in post to the look I intended. I‘ll attach an image I shot a lighting exercise at university with this process. I hope it works.<img alt=\"FS7 in CineEI rated at ISO500\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215548/2xicbwv5jun80dw024ujschen11feqjr.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "(my original post was not finished and submitted too early)\nI used the process that Stip describes on the Sony FS7. In CineEI-Mode the camera records with the native ISO of 2000. I usually rated it at 500, to get 2 stops overexposure. With the CineEI-mode the on-set monitors show the image at ISO500 then. In post i pulled it down two stops, thereby getting richer blacks with not too much noise. For me thats just a technical process (and really just an offset of your intended values – the ratios don‘t change with this process). So I would not consider that to be a creative process ie. it doesn‘t feel wrong to pull the image in post to the look I intended. I‘ll attach an image I shot a lighting exercise at university with this process. I hope it works."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215548/2xicbwv5jun80dw024ujschen11feqjr.jpg",
+      "alt": "FS7 in CineEI rated at ISO500",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+    "scraped_at": "2026-01-15T15:46:20.708208+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d19b4402f2b756fcb6410ded0a9c2f4fad053426a1ce32bae892e86c4434d06a",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216236",
+    "forum_slug": "camera",
+    "topic_slug": "indie-film-making-project-help",
+    "parent_post_id": "216231",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Exajoel",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Sony FX30 is cheaper and much better equipped for video capture than A7C while being almost as compact. BMPCC 6k pro is more expensive at 2500 $, has better ergonomics, a large, bright built-in monitor, ND filters, and can shoot raw out of the box, but lacks autofocus.\nNeither slog curve was designed for 8-bit capture, and can exhibit some egregious color banding when shooting with an 8-bit codec. Fx30 has both 10-bit internal and raw via hdmi.",
+  "content_html": "<p>Sony FX30 is cheaper and much better equipped for video capture than A7C while being almost as compact. BMPCC 6k pro is more expensive at 2500 $, has better ergonomics, a large, bright built-in monitor, ND filters, and can shoot raw out of the box, but lacks autofocus.</p>\n<p>Neither slog curve was designed for 8-bit capture, and can exhibit some egregious color banding when shooting with an 8-bit codec. Fx30 has both 10-bit internal and raw via hdmi.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sony FX30 is cheaper and much better equipped for video capture than A7C while being almost as compact. BMPCC 6k pro is more expensive at 2500 $, has better ergonomics, a large, bright built-in monitor, ND filters, and can shoot raw out of the box, but lacks autofocus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Neither slog curve was designed for 8-bit capture, and can exhibit some egregious color banding when shooting with an 8-bit codec. Fx30 has both 10-bit internal and raw via hdmi."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/indie-film-making-project-help/#post-216251",
+    "scraped_at": "2026-01-15T14:33:33.380075+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/indie-film-making-project-help/#post-216251",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "65b14792d68c232f8ff1dae6d457b281b9d976f1d11143785aac9f8f83d74f09",
+    "parser_version": "bbpress-v2"
+  }
+}

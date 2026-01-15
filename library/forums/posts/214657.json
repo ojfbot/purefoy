@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214657",
+    "forum_slug": "forum",
+    "topic_slug": "very-minimal-lighting",
+    "parent_post_id": "211337",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Ayan_Anirban",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Wow! Brilliant work man. Could you please explain how you ensured light continuity or was it more or less consistent because of the cloudy weather? Also, how did you approach balancing exterior to interior? I wish I could make the daylight work the way you have done it in this work.",
+  "content_html": "<p>Wow! Brilliant work man. Could you please explain how you ensured light continuity or was it more or less consistent because of the cloudy weather? Also, how did you approach balancing exterior to interior? I wish I could make the daylight work the way you have done it in this work.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Wow! Brilliant work man. Could you please explain how you ensured light continuity or was it more or less consistent because of the cloudy weather? Also, how did you approach balancing exterior to interior? I wish I could make the daylight work the way you have done it in this work."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/very-minimal-lighting/#post-220353",
+    "scraped_at": "2026-01-15T13:39:55.369840+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/very-minimal-lighting/#post-220353",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9d1fccd50246e25f60f08bab68760245e6da8bad4ece928d10476034378522da",
+    "parser_version": "bbpress-v2"
+  }
+}

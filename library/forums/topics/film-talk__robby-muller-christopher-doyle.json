@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/robby-muller-christopher-doyle/",
+  "forum_slug": "film-talk",
+  "topic_slug": "robby-muller-christopher-doyle",
+  "title": "Robby Müller & Christopher Doyle",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216635"
+  ],
+  "reply_tree": {
+    "post_id": "216635",
+    "post_type": "topic",
+    "author": "jayjoe",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/robby-muller-christopher-doyle/",
+    "scraped_at": "2026-01-15T12:26:21.891982+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/robby-muller-christopher-doyle/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "71fc3e1d8ae096d0d29449687f7c92bdcd7ba7168a6c8f6c159b3123ef8cc1bc",
+    "parser_version": "bbpress-v2"
+  }
+}

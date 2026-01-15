@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "175390",
+    "forum_slug": "website-news",
+    "topic_slug": "recovering-the-old-forums-need-help",
+    "parent_post_id": "174482",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Mike If website’s failed then Roger and James teaching intentions also failed. If they don’t recover, their hard work will be meaningless. Why it was started for will end in failure. So they both reconsider to get back old forum while their free time.",
+  "content_html": "<p>Hi Mike If website’s failed then Roger and James teaching intentions also failed. If they don’t recover, their hard work will be meaningless. Why it was started for will end in failure. So they both reconsider to get back old forum while their free time.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Mike If website’s failed then Roger and James teaching intentions also failed. If they don’t recover, their hard work will be meaningless. Why it was started for will end in failure. So they both reconsider to get back old forum while their free time."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/",
+    "scraped_at": "2026-01-15T12:42:24.677759+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "03c21ca3e0796f3592508b9eb4c75a8879307f4bde752f8a555b0a8b14a40543",
+    "parser_version": "bbpress-v2"
+  }
+}

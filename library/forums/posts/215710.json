@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215710",
+    "forum_slug": "camera",
+    "topic_slug": "directing-effect-of-133-43-ratio",
+    "parent_post_id": "215637",
+    "parent_type": "topic",
+    "position": 11
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Can’t edit on this forum so can’t remove second photo but the ratio is roughly correct.\nInteresting subject though.",
+  "content_html": "<p>Can’t edit on this forum so can’t remove second photo but the ratio is roughly correct.</p>\n<p>Interesting subject though.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Can’t edit on this forum so can’t remove second photo but the ratio is roughly correct."
+    },
+    {
+      "type": "paragraph",
+      "text": "Interesting subject though."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+    "scraped_at": "2026-01-15T13:56:37.696775+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "856c9c5b7d72b0238cb3f740cfdc3ebabd307505188435f21e06a1512c4d8c2f",
+    "parser_version": "bbpress-v2"
+  }
+}

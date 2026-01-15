@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "177312",
+    "forum_slug": "set-talk",
+    "topic_slug": "age-factor"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Gendaito",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Despite a serious labour shortage for experience employees in the UK and government determination to get the 0ver 50s in particular those who retired during the pandemic to return to work, employers still discrimante against the age group. There is misconception that younger employees can be trained up and contribute more in the long term when the reality is many younger employees especially in their 20s tend not to stay for long and move jobs partly because employers keep choosing younger workforce.\nAs someone who has reach that milestone of over 50 that is concerning for me. I now work with a younger workforce and often find myself filling in for their absent and when they leave their jobs I pick up the pieces they left behind.\nAs a sexagenarian I wonder what Roger’s opinion is? Have you ever encountered problems or been excluded from a gig because they wanted someone younger?",
+  "content_html": "<p>Despite a serious labour shortage for experience employees in the UK and government determination to get the 0ver 50s in particular those who retired during the pandemic to return to work, employers still discrimante against the age group. There is misconception that younger employees can be trained up and contribute more in the long term when the reality is many younger employees especially in their 20s tend not to stay for long and move jobs partly because employers keep choosing younger workforce.</p>\n<p>As someone who has reach that milestone of over 50 that is concerning for me. I now work with a younger workforce and often find myself filling in for their absent and when they leave their jobs I pick up the pieces they left behind.</p>\n<p>As a sexagenarian I wonder what Roger’s opinion is? Have you ever encountered problems or been excluded from a gig because they wanted someone younger?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Despite a serious labour shortage for experience employees in the UK and government determination to get the 0ver 50s in particular those who retired during the pandemic to return to work, employers still discrimante against the age group. There is misconception that younger employees can be trained up and contribute more in the long term when the reality is many younger employees especially in their 20s tend not to stay for long and move jobs partly because employers keep choosing younger workforce."
+    },
+    {
+      "type": "paragraph",
+      "text": "As someone who has reach that milestone of over 50 that is concerning for me. I now work with a younger workforce and often find myself filling in for their absent and when they leave their jobs I pick up the pieces they left behind."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a sexagenarian I wonder what Roger’s opinion is? Have you ever encountered problems or been excluded from a gig because they wanted someone younger?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/age-factor/#post-215615",
+    "scraped_at": "2026-01-15T13:06:10.208260+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/age-factor/#post-215615",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "265271cc52570562f943e3a709572b362ac2a7fdbde9cf57a802bd8ea39cd6e8",
+    "parser_version": "bbpress-v2"
+  }
+}

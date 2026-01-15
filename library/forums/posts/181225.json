@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "181225",
+    "forum_slug": "composition",
+    "topic_slug": "visualizing"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Rizzy",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Roger Deakins,\nI was wondering if you’d be able to talk a bit about your experience of visualizing, particularly on films where you have done a fair bit of prep, such as your work with Sam Mendes and Denis Villeneuve. How clear is your minds image after a first script read? Do you find a particular image or feeling shapes and guides everything or is it more general? Are you already thinking about lights and composition or more the general scene? How close is what you create on the day to what you were imagining? Is the day about discovering something that has been elusive?\nSorry if that’s a lot of questions! I’m just very curious about this and it’s quite a complex and large process to sum up in one question.\nAll the best! And eternally grateful to you and James for the Team Deakins podcast.",
+  "content_html": "<p>Hello Roger Deakins,</p>\n<p>I was wondering if you’d be able to talk a bit about your experience of visualizing, particularly on films where you have done a fair bit of prep, such as your work with Sam Mendes and Denis Villeneuve. How clear is your minds image after a first script read? Do you find a particular image or feeling shapes and guides everything or is it more general? Are you already thinking about lights and composition or more the general scene? How close is what you create on the day to what you were imagining? Is the day about discovering something that has been elusive?</p>\n<p>Sorry if that’s a lot of questions! I’m just very curious about this and it’s quite a complex and large process to sum up in one question.</p>\n<p>All the best! And eternally grateful to you and James for the Team Deakins podcast.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Roger Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was wondering if you’d be able to talk a bit about your experience of visualizing, particularly on films where you have done a fair bit of prep, such as your work with Sam Mendes and Denis Villeneuve. How clear is your minds image after a first script read? Do you find a particular image or feeling shapes and guides everything or is it more general? Are you already thinking about lights and composition or more the general scene? How close is what you create on the day to what you were imagining? Is the day about discovering something that has been elusive?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sorry if that’s a lot of questions! I’m just very curious about this and it’s quite a complex and large process to sum up in one question."
+    },
+    {
+      "type": "paragraph",
+      "text": "All the best! And eternally grateful to you and James for the Team Deakins podcast."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/visualizing/#post-214695",
+    "scraped_at": "2026-01-15T13:06:07.647328+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/visualizing/#post-214695",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "98e3f6a23560f37026dc30a906b96a1b6ae20c0c3076d7576d1525dbd1b1ecbe",
+    "parser_version": "bbpress-v2"
+  }
+}

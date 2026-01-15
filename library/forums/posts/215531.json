@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215531",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-advice-on-reducing-high-key-light-source",
+    "parent_post_id": "215523",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Andrew C",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Maybe you can use black garbage bags to control the sources more, if they are out of frame. 5-1 reflectors are pretty inexpensive, or you can get unbleached muslin from a fabric store, or use a shower curtain for diffusion.",
+  "content_html": "<p>Maybe you can use black garbage bags to control the sources more, if they are out of frame. 5-1 reflectors are pretty inexpensive, or you can get unbleached muslin from a fabric store, or use a shower curtain for diffusion.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Maybe you can use black garbage bags to control the sources more, if they are out of frame. 5-1 reflectors are pretty inexpensive, or you can get unbleached muslin from a fabric store, or use a shower curtain for diffusion."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-advice-on-reducing-high-key-light-source/#post-215572",
+    "scraped_at": "2026-01-15T15:46:29.987261+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-advice-on-reducing-high-key-light-source/#post-215572",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1caddec5e9f8615912b2c8800408658a8a4f563bbda974fcf37454d80a6cb9f3",
+    "parser_version": "bbpress-v2"
+  }
+}

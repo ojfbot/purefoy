@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "post_id": "220453",
+    "forum_slug": "team-deakins",
+    "topic_slug": "reflections-new-book",
+    "parent_post_id": "217941",
+    "parent_type": "topic",
+    "position": 21
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "James wrote:\nThe supply of signed books for the ASC is NOT limited. We are visiting there often to sign yet more books.\nI apologize, it seems i misunderstood what they wrote on the ASC page dedicated to the book, but anyway i meant that usually the signed copies of a book are, for practical reason, in a smaller number than the ones printed and sold around the world.\nJames wrote:\nWe hope that some signing events are organized locally since we do enjoy meeting the people. But I haven’t been contacted by anyone who wants to organize that.\nI think that the more the book will get popular (and from what i’ve been seeing around the web, people are looking forward for it everywhere) the more you’ll be asked for that! If there will be one within reach i’ll pack the family in the car and i’ll be there for sure, ah ah!",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/2/#post-220450\">James wrote:</a></div>\n<p>The supply of signed books for the ASC is NOT limited. We are visiting there often to sign yet more books. </p></blockquote>\n<p>I apologize, it seems i misunderstood what they wrote on the ASC page dedicated to the book, but anyway i meant that usually the signed copies of a book are, for practical reason, in a smaller number than the ones printed and sold around the world.</p>\n<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/2/#post-220450\">James wrote:</a></div>\n<p> We hope that some signing events are organized locally since we do enjoy meeting the people. But I haven’t been contacted by anyone who wants to organize that.</p></blockquote>\n<p>I think that the more the book will get popular (and from what i’ve been seeing around the web, people are looking forward for it everywhere) the more you’ll be asked for that! If there will be one within reach i’ll pack the family in the car and i’ll be there for sure, ah ah!</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "James wrote:\nThe supply of signed books for the ASC is NOT limited. We are visiting there often to sign yet more books."
+    },
+    {
+      "type": "paragraph",
+      "text": "The supply of signed books for the ASC is NOT limited. We are visiting there often to sign yet more books."
+    },
+    {
+      "type": "paragraph",
+      "text": "I apologize, it seems i misunderstood what they wrote on the ASC page dedicated to the book, but anyway i meant that usually the signed copies of a book are, for practical reason, in a smaller number than the ones printed and sold around the world."
+    },
+    {
+      "type": "quote",
+      "text": "James wrote:\nWe hope that some signing events are organized locally since we do enjoy meeting the people. But I haven’t been contacted by anyone who wants to organize that."
+    },
+    {
+      "type": "paragraph",
+      "text": "We hope that some signing events are organized locally since we do enjoy meeting the people. But I haven’t been contacted by anyone who wants to organize that."
+    },
+    {
+      "type": "paragraph",
+      "text": "I think that the more the book will get popular (and from what i’ve been seeing around the web, people are looking forward for it everywhere) the more you’ll be asked for that! If there will be one within reach i’ll pack the family in the car and i’ll be there for sure, ah ah!"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "James wrote:\nThe supply of signed books for the ASC is NOT limited. We are visiting there often to sign yet more books."
+    },
+    {
+      "text": "James wrote:\nWe hope that some signing events are organized locally since we do enjoy meeting the people. But I haven’t been contacted by anyone who wants to organize that."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/2/#post-220450",
+      "text": "James wrote:",
+      "kind": "external"
+    },
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/2/#post-220450",
+      "text": "James wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/2/",
+    "scraped_at": "2026-01-15T11:50:40.146313+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0218d4cdc61e07538c906992c8330bb141464280c8ac5a386726a88d3e540afc",
+    "parser_version": "bbpress-v2"
+  }
+}

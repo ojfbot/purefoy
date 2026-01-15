@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214680",
+    "forum_slug": "camera",
+    "topic_slug": "eyes-wide-shut-moving-mirror",
+    "parent_post_id": "214623",
+    "parent_type": "topic",
+    "position": 17
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Skyfall scene.\nThis set always intrigues me. You certainly stop eating your popcorn when watching this scene, you are not sure at first which one is JB but hoping he is the victor. Very impressive imo and wonder how it was conceived, you must have played around with different background scenes so why did you choose the jelly fish sequence and what were alternatives.",
+  "content_html": "<p>Skyfall scene.</p>\n<p>This set always intrigues me. You certainly stop eating your popcorn when watching this scene, you are not sure at first which one is JB but hoping he is the victor. Very impressive imo and wonder how it was conceived, you must have played around with different background scenes so why did you choose the jelly fish sequence and what were alternatives.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Skyfall scene."
+    },
+    {
+      "type": "paragraph",
+      "text": "This set always intrigues me. You certainly stop eating your popcorn when watching this scene, you are not sure at first which one is JB but hoping he is the victor. Very impressive imo and wonder how it was conceived, you must have played around with different background scenes so why did you choose the jelly fish sequence and what were alternatives."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/eyes-wide-shut-moving-mirror/page/2/",
+    "scraped_at": "2026-01-15T12:08:52.215907+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/eyes-wide-shut-moving-mirror/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "479d8fd92702f3d94c3c093804805c512ff15ebb506c72ff07d454d2d5f525a0",
+    "parser_version": "bbpress-v2"
+  }
+}

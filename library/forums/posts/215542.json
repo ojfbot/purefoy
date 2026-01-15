@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215542",
+    "forum_slug": "forum",
+    "topic_slug": "about-low-key-lighting",
+    "parent_post_id": "215519",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "When I shoot raw, I like to dial down the base ISO one stop (2 for extreme low light) when shooting a low key scene.\nThe only thing this actually does is it makes the preview on the monitor or EVF one stop darker. So I still create the look ‘in camera’ but I get cleaner shadows (because one stop of the dynamic range is moved from above to below middle grey).\nSome cameras (Alexa) look great underexposed and don’t necessarily need that.",
+  "content_html": "<p>When I shoot raw, I like to dial down the base ISO one stop (2 for extreme low light) when shooting a low key scene.</p>\n<p>The only thing this actually does is it makes the preview on the monitor or EVF one stop darker. So I still create the look ‘in camera’ but I get cleaner shadows (because one stop of the dynamic range is moved from above to below middle grey).</p>\n<p>Some cameras (Alexa) look great underexposed and don’t necessarily need that.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "When I shoot raw, I like to dial down the base ISO one stop (2 for extreme low light) when shooting a low key scene."
+    },
+    {
+      "type": "paragraph",
+      "text": "The only thing this actually does is it makes the preview on the monitor or EVF one stop darker. So I still create the look ‘in camera’ but I get cleaner shadows (because one stop of the dynamic range is moved from above to below middle grey)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some cameras (Alexa) look great underexposed and don’t necessarily need that."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+    "scraped_at": "2026-01-15T15:46:20.706979+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d93b450c4ec7bfbe742f32e0e2a2e2a68b812cf07cb25b9fc2ab3c78cd924467",
+    "parser_version": "bbpress-v2"
+  }
+}

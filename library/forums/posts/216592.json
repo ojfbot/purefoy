@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216592",
+    "forum_slug": "camera",
+    "topic_slug": "camera-starter-question",
+    "parent_post_id": "169402",
+    "parent_type": "topic",
+    "position": 17
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m unsure if this is possible, but with internal electronic ND filters, it would be awesome to ND isolated parts of the sensor at different strengths. Essentially having built in graduated ND",
+  "content_html": "<p>I’m unsure if this is possible, but with internal electronic ND filters, it would be awesome to ND isolated parts of the sensor at different strengths. Essentially having built in graduated ND</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m unsure if this is possible, but with internal electronic ND filters, it would be awesome to ND isolated parts of the sensor at different strengths. Essentially having built in graduated ND"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/page/2/",
+    "scraped_at": "2026-01-15T13:56:45.966994+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0f6ac43f9f5c1842c02ac660a8b38c6e91c8895bcdcd4cdb345e0e93165a887d",
+    "parser_version": "bbpress-v2"
+  }
+}

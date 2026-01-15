@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216577",
+    "forum_slug": "composition",
+    "topic_slug": "inspiration-sources",
+    "parent_post_id": "216503",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I find a bit curious the fact that your shots are famous for their natural look, but you often mention among your influences expressionist and abstract painters , that are not naturalistic by definition. A guess is it an influence on istinct and emotions, more than on visual style?",
+  "content_html": "<p>I find a bit curious the fact that your shots are famous for their natural look, but you often mention among your influences expressionist and abstract painters , that are not naturalistic by definition. A guess is it an influence on istinct and emotions, more than on visual style?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I find a bit curious the fact that your shots are famous for their natural look, but you often mention among your influences expressionist and abstract painters , that are not naturalistic by definition. A guess is it an influence on istinct and emotions, more than on visual style?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/",
+    "scraped_at": "2026-01-15T12:26:03.382618+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9c0b1004866df46b2eee4e4a750bf351948cdb566eb5a688e61b4c6e857a6f3a",
+    "parser_version": "bbpress-v2"
+  }
+}

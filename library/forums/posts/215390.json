@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "215390",
+    "forum_slug": "camera",
+    "topic_slug": "shallow-depth-of-field",
+    "parent_post_id": "215380",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "But weren’t those still s35 sensors? The past few years there emerged lots of full frame / 135 sensor cameras (and more fast lens options too). I definitely noticed a trend in very shallow DoF, especially in TV shows, where you’d sometimes even see wide shots with fore-/background separation.\nNo single technique is better or worse than another, it all depends on whether it is wielded by an artist or not — and Greig Fraser is an artist, he’s proven that on many productions.\nFraser is an artist but I don’t have to admire all of his work, and this one is too computational for me. The new tool of gaming engines being used to create worlds around the stage bares the danger of feeling like a computer game and it happened to me in The Batman too often, although I wasn’t aware of how it was shot when watching.\nI also had the feeling the visuals tried to deflect me from an ultimately shallow story and endless plot holes 🙂",
+  "content_html": "<p>But weren’t those still s35 sensors? The past few years there emerged lots of full frame / 135 sensor cameras (and more fast lens options too). I definitely noticed a trend in very shallow DoF, especially in TV shows, where you’d sometimes even see wide shots with fore-/background separation.</p>\n<blockquote><p>No single technique is better or worse than another, it all depends on whether it is wielded by an artist or not — and Greig Fraser is an artist, he’s proven that on many productions.</p></blockquote>\n<p>Fraser is an artist but I don’t have to admire all of his work, and this one is too computational for me. The new tool of gaming engines being used to create worlds around the stage bares the danger of feeling like a computer game and it happened to me in The Batman too often, although I wasn’t aware of how it was shot when watching.</p>\n<p>I also had the feeling the visuals tried to deflect me from an ultimately shallow story and endless plot holes 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "But weren’t those still s35 sensors? The past few years there emerged lots of full frame / 135 sensor cameras (and more fast lens options too). I definitely noticed a trend in very shallow DoF, especially in TV shows, where you’d sometimes even see wide shots with fore-/background separation."
+    },
+    {
+      "type": "quote",
+      "text": "No single technique is better or worse than another, it all depends on whether it is wielded by an artist or not — and Greig Fraser is an artist, he’s proven that on many productions."
+    },
+    {
+      "type": "paragraph",
+      "text": "No single technique is better or worse than another, it all depends on whether it is wielded by an artist or not — and Greig Fraser is an artist, he’s proven that on many productions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fraser is an artist but I don’t have to admire all of his work, and this one is too computational for me. The new tool of gaming engines being used to create worlds around the stage bares the danger of feeling like a computer game and it happened to me in The Batman too often, although I wasn’t aware of how it was shot when watching."
+    },
+    {
+      "type": "paragraph",
+      "text": "I also had the feeling the visuals tried to deflect me from an ultimately shallow story and endless plot holes 🙂"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "No single technique is better or worse than another, it all depends on whether it is wielded by an artist or not — and Greig Fraser is an artist, he’s proven that on many productions."
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shallow-depth-of-field/#post-215799",
+    "scraped_at": "2026-01-15T15:21:03.235945+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shallow-depth-of-field/#post-215799",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c972754689574fead20eac9935afde3da26e890fa118b37cac67a956ec9dc26f",
+    "parser_version": "bbpress-v2"
+  }
+}

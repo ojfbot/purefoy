@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216397",
+    "forum_slug": "camera",
+    "topic_slug": "single-lens-shot-movies",
+    "parent_post_id": "216215",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Davinki",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There’s also “Climax” (2018) directed by Gaspar Noe and shot by Benoit Debie",
+  "content_html": "<p>There’s also “Climax” (2018) directed by Gaspar Noe and shot by Benoit Debie</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There’s also “Climax” (2018) directed by Gaspar Noe and shot by Benoit Debie"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/single-lens-shot-movies/#post-216397",
+    "scraped_at": "2026-01-15T14:13:35.749562+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/single-lens-shot-movies/#post-216397",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "70392e70e64cdb7fe4f969cacdd86f3afe8bc366058caddaac3d375b99fcbb21",
+    "parser_version": "bbpress-v2"
+  }
+}

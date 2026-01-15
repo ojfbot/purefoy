@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "post_id": "216676",
+    "forum_slug": "forum",
+    "topic_slug": "working-with-limited-lighting"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "ceciliah1738",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mr. Deakins and everyone in this wonderful forum!\nI’m shooting a micro-budget short film at a collge basketball gym where we can’t redress the lighting on the celling. My cinematographer and I are currently trying to count it as natural lighting and factor it as something we can’t control and try to either find ways to block it out (ex: put negative fills in the corners of the gym overhead) but we are not too sure on how to do with limited lighting in such vast space.\n(Courtsey of Pepperdine Basketball)\nI believe with the control of limited lighting, it could either look like a youtube sports videography or cinematography (Thin ice we are walking on!). My first thought was that we need to figure out the lighting first and then move on the cameras/composition; or is this something that can be done after we consult the latters? or Should we go ahead and forgo the celling light and light our own lights around the court to mimic it ? Some of the shots will also be black and white, so idealiy, we would like there to be some type of contrast against the exisiting flat lighting.\nAny insights/two cents would be very helpful. I apologize for bringing back a major flashback of  any “limited lighting” days. Thank you so much for giving me the space to ask questions and I look forward to hearing your thoughts!\nRespectfully,\nCecilia H",
+  "content_html": "<p>Hello Mr. Deakins and everyone in this wonderful forum!</p>\n<p>I’m shooting a micro-budget short film at a collge basketball gym where we can’t redress the lighting on the celling. My cinematographer and I are currently trying to count it as natural lighting and factor it as something we can’t control and try to either find ways to block it out (ex: put negative fills in the corners of the gym overhead) but we are not too sure on how to do with limited lighting in such vast space. <img alt=\"\" decoding=\"async\" height=\"283\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216676/xb5e70vbxzwpznraie0gp5ce1ayljhdu.jpeg\" width=\"504\"/></p>\n<p><img alt=\"\" decoding=\"async\" height=\"492\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216676/r08awpg3cbneetqw7dad9vxd12l3q6xy.png\" width=\"503\"/></p>\n<p>(Courtsey of Pepperdine Basketball)</p>\n<p>I believe with the control of limited lighting, it could either look like a youtube sports videography or cinematography (Thin ice we are walking on!). My first thought was that we need to figure out the lighting first and then move on the cameras/composition; or is this something that can be done after we consult the latters? or Should we go ahead and forgo the celling light and light our own lights around the court to mimic it ? Some of the shots will also be black and white, so idealiy, we would like there to be some type of contrast against the exisiting flat lighting.</p>\n<p>Any insights/two cents would be very helpful. I apologize for bringing back a major flashback of  any “limited lighting” days. Thank you so much for giving me the space to ask questions and I look forward to hearing your thoughts!</p>\n<p>Respectfully,</p>\n<p>Cecilia H</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mr. Deakins and everyone in this wonderful forum!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m shooting a micro-budget short film at a collge basketball gym where we can’t redress the lighting on the celling. My cinematographer and I are currently trying to count it as natural lighting and factor it as something we can’t control and try to either find ways to block it out (ex: put negative fills in the corners of the gym overhead) but we are not too sure on how to do with limited lighting in such vast space."
+    },
+    {
+      "type": "paragraph",
+      "text": "(Courtsey of Pepperdine Basketball)"
+    },
+    {
+      "type": "paragraph",
+      "text": "I believe with the control of limited lighting, it could either look like a youtube sports videography or cinematography (Thin ice we are walking on!). My first thought was that we need to figure out the lighting first and then move on the cameras/composition; or is this something that can be done after we consult the latters? or Should we go ahead and forgo the celling light and light our own lights around the court to mimic it ? Some of the shots will also be black and white, so idealiy, we would like there to be some type of contrast against the exisiting flat lighting."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any insights/two cents would be very helpful. I apologize for bringing back a major flashback of  any “limited lighting” days. Thank you so much for giving me the space to ask questions and I look forward to hearing your thoughts!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Respectfully,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cecilia H"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216676/xb5e70vbxzwpznraie0gp5ce1ayljhdu.jpeg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216676/r08awpg3cbneetqw7dad9vxd12l3q6xy.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/working-with-limited-lighting/#post-216714",
+    "scraped_at": "2026-01-15T15:23:19.313909+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/working-with-limited-lighting/#post-216714",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "969ff6465f45955140245f9470c270aa5c61f5614feb86937ac6f595c97808a1",
+    "parser_version": "bbpress-v2"
+  }
+}

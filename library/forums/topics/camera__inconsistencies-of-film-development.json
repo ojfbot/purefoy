@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/inconsistencies-of-film-development/#post-170757",
+  "forum_slug": "camera",
+  "topic_slug": "inconsistencies-of-film-development",
+  "title": "Inconsistencies of film development",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "170435",
+    "170454",
+    "170735",
+    "170757"
+  ],
+  "reply_tree": {
+    "post_id": "170435",
+    "post_type": "topic",
+    "author": "gcconnelly",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "170454",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170735",
+        "post_type": "reply",
+        "author": "gcconnelly",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170757",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inconsistencies-of-film-development/#post-170757",
+    "scraped_at": "2026-01-15T15:46:11.173351+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inconsistencies-of-film-development/#post-170757",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e3b37fb6583dd996d36efc103985115c63f92db5634b3927a8254eeb01ed956e",
+    "parser_version": "bbpress-v2"
+  }
+}

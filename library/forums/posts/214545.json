@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "post_id": "214545",
+    "forum_slug": "camera",
+    "topic_slug": "full-frame-digital",
+    "parent_post_id": "214515",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Mathematically speaking if you want to match LF depth of field to a standard Alexa you need to close down your iris by 1.3. Same multiplier you would use to match lenses and angles of view between sensors.\nT4 on Alexa vs T5.6 1/3 on LF.\n32mm on Alexa vs 40mm on LF.\nI understand your question and yes if you really want a s35 depth of field on a LF you will need more light or sensor gain to reach a deeper Tstop to match that look.\nBut if you really wanted that you won’t use the LF on first place isn’t? If you want the look of a s35 sensor then use a s35 camera.\nAlso this is no mathematics so lots of factors come to play apart from numbers. Lensing, as Roger said, being a huge one.\nGeneral preference nowadays seem to go to the LF look. And we describe that as images who have less depth of field as no one rents the LF to over illuminate to close the iris more. With the new Alexa35 we will see what happens.",
+  "content_html": "<p>Mathematically speaking if you want to match LF depth of field to a standard Alexa you need to close down your iris by 1.3. Same multiplier you would use to match lenses and angles of view between sensors.</p>\n<p>T4 on Alexa vs T5.6 1/3 on LF.</p>\n<p>32mm on Alexa vs 40mm on LF.</p>\n<p>I understand your question and yes if you really want a s35 depth of field on a LF you will need more light or sensor gain to reach a deeper Tstop to match that look.</p>\n<p>But if you really wanted that you won’t use the LF on first place isn’t? If you want the look of a s35 sensor then use a s35 camera.</p>\n<p>Also this is no mathematics so lots of factors come to play apart from numbers. Lensing, as Roger said, being a huge one.</p>\n<p>General preference nowadays seem to go to the LF look. And we describe that as images who have less depth of field as no one rents the LF to over illuminate to close the iris more. With the new Alexa35 we will see what happens.</p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Mathematically speaking if you want to match LF depth of field to a standard Alexa you need to close down your iris by 1.3. Same multiplier you would use to match lenses and angles of view between sensors."
+    },
+    {
+      "type": "paragraph",
+      "text": "T4 on Alexa vs T5.6 1/3 on LF."
+    },
+    {
+      "type": "paragraph",
+      "text": "32mm on Alexa vs 40mm on LF."
+    },
+    {
+      "type": "paragraph",
+      "text": "I understand your question and yes if you really want a s35 depth of field on a LF you will need more light or sensor gain to reach a deeper Tstop to match that look."
+    },
+    {
+      "type": "paragraph",
+      "text": "But if you really wanted that you won’t use the LF on first place isn’t? If you want the look of a s35 sensor then use a s35 camera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also this is no mathematics so lots of factors come to play apart from numbers. Lensing, as Roger said, being a huge one."
+    },
+    {
+      "type": "paragraph",
+      "text": "General preference nowadays seem to go to the LF look. And we describe that as images who have less depth of field as no one rents the LF to over illuminate to close the iris more. With the new Alexa35 we will see what happens."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/full-frame-digital/#post-214545",
+    "scraped_at": "2026-01-15T15:25:49.129710+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/full-frame-digital/#post-214545",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a6bb9e0f3208f2b0d08e659653895b56138421b8943d4dc0f2cbc3da21bd6e6d",
+    "parser_version": "bbpress-v2"
+  }
+}

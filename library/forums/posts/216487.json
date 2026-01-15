@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "post_id": "216487",
+    "forum_slug": "film-talk",
+    "topic_slug": "recent-movie-recommendations",
+    "parent_post_id": "216401",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger Deakins wrote:\nI can’t recommend more highly The Seed of the Sacred Fig. The film will be released shortly but in the meantime you could watch any of the director’s previous films. His name is Mohammad Rasoulof and among his earlier work is Iron Island, The White Meadow, Manuscripts Don’t Burn, There is no Evil and A Man of Integrity. Mohammad Rasoulof and Andrey Zvyagintsev are making films that illustrate what power film can have.\nYour knowledge of worldwide cinema is always remarkable.\nOut of curiosity: is there any horror movie that you liked? Maybe i’m completely wrong but it isn’t a genre you mention a lot in your suggestions and i’m not aware of any horror movie you worked on (even if there’s some hint to it in The Village, Sicario’s most scary scenes, a bit of splatter in Fargo too!), so I have the impression  you are not a great fan of it. Is it correct?",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/recent-movie-recommendations/#post-216465\">Roger Deakins wrote:</a></div>\n<p>I can’t recommend more highly The Seed of the Sacred Fig. The film will be released shortly but in the meantime you could watch any of the director’s previous films. His name is Mohammad Rasoulof and among his earlier work is Iron Island, The White Meadow, Manuscripts Don’t Burn, There is no Evil and A Man of Integrity. Mohammad Rasoulof and Andrey Zvyagintsev are making films that illustrate what power film can have.</p></blockquote>\n<p>Your knowledge of worldwide cinema is always remarkable.</p>\n<p>Out of curiosity: is there any horror movie that you liked? Maybe i’m completely wrong but it isn’t a genre you mention a lot in your suggestions and i’m not aware of any horror movie you worked on (even if there’s some hint to it in The Village, Sicario’s most scary scenes, a bit of splatter in Fargo too!), so I have the impression  you are not a great fan of it. Is it correct?</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Roger Deakins wrote:\nI can’t recommend more highly The Seed of the Sacred Fig. The film will be released shortly but in the meantime you could watch any of the director’s previous films. His name is Mohammad Rasoulof and among his earlier work is Iron Island, The White Meadow, Manuscripts Don’t Burn, There is no Evil and A Man of Integrity. Mohammad Rasoulof and Andrey Zvyagintsev are making films that illustrate what power film can have."
+    },
+    {
+      "type": "paragraph",
+      "text": "I can’t recommend more highly The Seed of the Sacred Fig. The film will be released shortly but in the meantime you could watch any of the director’s previous films. His name is Mohammad Rasoulof and among his earlier work is Iron Island, The White Meadow, Manuscripts Don’t Burn, There is no Evil and A Man of Integrity. Mohammad Rasoulof and Andrey Zvyagintsev are making films that illustrate what power film can have."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your knowledge of worldwide cinema is always remarkable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Out of curiosity: is there any horror movie that you liked? Maybe i’m completely wrong but it isn’t a genre you mention a lot in your suggestions and i’m not aware of any horror movie you worked on (even if there’s some hint to it in The Village, Sicario’s most scary scenes, a bit of splatter in Fargo too!), so I have the impression  you are not a great fan of it. Is it correct?"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Roger Deakins wrote:\nI can’t recommend more highly The Seed of the Sacred Fig. The film will be released shortly but in the meantime you could watch any of the director’s previous films. His name is Mohammad Rasoulof and among his earlier work is Iron Island, The White Meadow, Manuscripts Don’t Burn, There is no Evil and A Man of Integrity. Mohammad Rasoulof and Andrey Zvyagintsev are making films that illustrate what power film can have."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/recent-movie-recommendations/#post-216465",
+      "text": "Roger Deakins wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recent-movie-recommendations/#post-216556",
+    "scraped_at": "2026-01-15T12:42:27.962372+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recent-movie-recommendations/#post-216556",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a418419df183d1db603d928964628a5b30ebffaa7aee61ef52b6f2532e489cfc",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "215273",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-for-dark-sequences"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Scottster202",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It’s very popular now to shoot very dark, shadows are close to 0 and your highlights around under 40 IRE, it seems a difficult balance of maintaining detail in your shadows to not have too much noise and also being able to push them down in post and have the detail in shadows while you’re shooting.\nI saw Greg Frasier shot a lot of The Batman sequences with ISO 320 to get clean shadows as it was a dark film overall, but also I see some DP’s shoot a lot of low light sequences in new shows and movies with the Venice 2 with its dual ISO of 3200.\nI just wanted to see how people shoot darker either with shooting at a lower ISO to maintain shadow detail or use the dual ISO of more modern cameras?\nI know this is a very complex conversation with using a LUT designed for shooting darker sequences and also knowing where your shadows can lie on different cameras, but does anyone have any info on how people do this?\nThank you!",
+  "content_html": "<p>It’s very popular now to shoot very dark, shadows are close to 0 and your highlights around under 40 IRE, it seems a difficult balance of maintaining detail in your shadows to not have too much noise and also being able to push them down in post and have the detail in shadows while you’re shooting.</p>\n<p>I saw Greg Frasier shot a lot of The Batman sequences with ISO 320 to get clean shadows as it was a dark film overall, but also I see some DP’s shoot a lot of low light sequences in new shows and movies with the Venice 2 with its dual ISO of 3200.</p>\n<p>I just wanted to see how people shoot darker either with shooting at a lower ISO to maintain shadow detail or use the dual ISO of more modern cameras?</p>\n<p>I know this is a very complex conversation with using a LUT designed for shooting darker sequences and also knowing where your shadows can lie on different cameras, but does anyone have any info on how people do this?</p>\n<p>Thank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "It’s very popular now to shoot very dark, shadows are close to 0 and your highlights around under 40 IRE, it seems a difficult balance of maintaining detail in your shadows to not have too much noise and also being able to push them down in post and have the detail in shadows while you’re shooting."
+    },
+    {
+      "type": "paragraph",
+      "text": "I saw Greg Frasier shot a lot of The Batman sequences with ISO 320 to get clean shadows as it was a dark film overall, but also I see some DP’s shoot a lot of low light sequences in new shows and movies with the Venice 2 with its dual ISO of 3200."
+    },
+    {
+      "type": "paragraph",
+      "text": "I just wanted to see how people shoot darker either with shooting at a lower ISO to maintain shadow detail or use the dual ISO of more modern cameras?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I know this is a very complex conversation with using a LUT designed for shooting darker sequences and also knowing where your shadows can lie on different cameras, but does anyone have any info on how people do this?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-for-dark-sequences/#post-215308",
+    "scraped_at": "2026-01-15T15:47:44.638745+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-dark-sequences/#post-215308",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f5b5a29e20989e32d54ff502dee06e27f28a9381ae36f425c0ef69e9a2c196cf",
+    "parser_version": "bbpress-v2"
+  }
+}

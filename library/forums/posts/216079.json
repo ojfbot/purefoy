@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "216079",
+    "forum_slug": "camera",
+    "topic_slug": "reading-recommendations-for-camera-blocking-scene-design"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Hanno Mertin",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi everyone,\nin my film school I am learning a lot, but yet none of my cinematography teachers have talked about “rules” for camera blocking / scene design for classic yet complicated staging of actors. For example in the podcast episode with Editor Lisa Churgin she talked about a “rule” for how to shoot a triangle staging of actors having an interaction of some kind, like a dialogue – something that comes up all the time. Paraphrasing a bit, but Mrs Churgin said, “you\nre either in the triangle or you are out of the triangle\", and Slawomir Idziak had mixed both \"in\" and \"out\" during the movie 'Gattaca' - she said it didn\nt cut together so they had to reshoot it.\nAt my film school, the directors most often expect me (a cinematography student) to be aware of such “rules” on how to cover a scene, from simple one-on-one to complex table group interactions. So this comment from Mrs Churgin sparked my interest because that seems like a “rule” one should know ahead of time. I am aware of the importance of eyelines, the 180 deg rule and controlling “looking space” in the composition of a frame, I assume those all play into these kind of situations and are the foundation of it all. I wondered if there are more of these kind of “rules” (a term not to be taken too seriously but still very fitting for what was described in the episode). So if anyone has a recommendation for how to study simple to complex camera blocking situations, either in the form of a book, articles, videos or maybe even movie scenes that show various blocking situations, I highly appreciate your input.\nThanks guys!\nAll the best\nHanno\n@hannomertin\nCinematography Student | Filmakademie Baden-Wuerttemberg",
+  "content_html": "<p>Hi everyone,</p>\n<p>in my film school I am learning a lot, but yet none of my cinematography teachers have talked about “rules” for camera blocking / scene design for classic yet complicated staging of actors. For example in the podcast episode with Editor Lisa Churgin she talked about a “rule” for how to shoot a triangle staging of actors having an interaction of some kind, like a dialogue – something that comes up all the time. Paraphrasing a bit, but Mrs Churgin said, “you<code>re either in the triangle or you are out of the triangle\", and Slawomir Idziak had mixed both \"in\" and \"out\" during the movie 'Gattaca' - she said it didn</code>t cut together so they had to reshoot it.</p>\n<p>At my film school, the directors most often expect me (a cinematography student) to be aware of such “rules” on how to cover a scene, from simple one-on-one to complex table group interactions. So this comment from Mrs Churgin sparked my interest because that seems like a “rule” one should know ahead of time. I am aware of the importance of eyelines, the 180 deg rule and controlling “looking space” in the composition of a frame, I assume those all play into these kind of situations and are the foundation of it all. I wondered if there are more of these kind of “rules” (a term not to be taken too seriously but still very fitting for what was described in the episode). So if anyone has a recommendation for how to study simple to complex camera blocking situations, either in the form of a book, articles, videos or maybe even movie scenes that show various blocking situations, I highly appreciate your input.</p>\n<p>Thanks guys!<br/>\nAll the best<br/>\nHanno</p>\n<div class=\"bbp-signature\"><p>@hannomertin<br/>\nCinematography Student | Filmakademie Baden-Wuerttemberg</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi everyone,"
+    },
+    {
+      "type": "paragraph",
+      "text": "in my film school I am learning a lot, but yet none of my cinematography teachers have talked about “rules” for camera blocking / scene design for classic yet complicated staging of actors. For example in the podcast episode with Editor Lisa Churgin she talked about a “rule” for how to shoot a triangle staging of actors having an interaction of some kind, like a dialogue – something that comes up all the time. Paraphrasing a bit, but Mrs Churgin said, “you\nre either in the triangle or you are out of the triangle\", and Slawomir Idziak had mixed both \"in\" and \"out\" during the movie 'Gattaca' - she said it didn\nt cut together so they had to reshoot it."
+    },
+    {
+      "type": "code",
+      "text": "re either in the triangle or you are out of the triangle\", and Slawomir Idziak had mixed both \"in\" and \"out\" during the movie 'Gattaca' - she said it didn"
+    },
+    {
+      "type": "paragraph",
+      "text": "At my film school, the directors most often expect me (a cinematography student) to be aware of such “rules” on how to cover a scene, from simple one-on-one to complex table group interactions. So this comment from Mrs Churgin sparked my interest because that seems like a “rule” one should know ahead of time. I am aware of the importance of eyelines, the 180 deg rule and controlling “looking space” in the composition of a frame, I assume those all play into these kind of situations and are the foundation of it all. I wondered if there are more of these kind of “rules” (a term not to be taken too seriously but still very fitting for what was described in the episode). So if anyone has a recommendation for how to study simple to complex camera blocking situations, either in the form of a book, articles, videos or maybe even movie scenes that show various blocking situations, I highly appreciate your input."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks guys!\nAll the best\nHanno"
+    },
+    {
+      "type": "paragraph",
+      "text": "@hannomertin\nCinematography Student | Filmakademie Baden-Wuerttemberg"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reading-recommendations-for-camera-blocking-scene-design/#post-218443",
+    "scraped_at": "2026-01-15T12:42:30.148929+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reading-recommendations-for-camera-blocking-scene-design/#post-218443",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "110ae7af999ff3e401ad933a1ef51bf210ed536c8e21aa69c4712e27680892d1",
+    "parser_version": "bbpress-v2"
+  }
+}

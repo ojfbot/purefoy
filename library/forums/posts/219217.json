@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "219217",
+    "forum_slug": "camera",
+    "topic_slug": "thicker-denser-negatives"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Vasu",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Master Roger and David & everyone in the forum\nRecently i started reading about film and its processing methods. A very common term i hear everywhere is getting thicker negatives and denser negatives what these two means..?\nIs it rating the film below recommended ASA or underexposing it and pushing it a stop in developing what it is…?",
+  "content_html": "<p>Hi Master Roger and David &amp; everyone in the forum</p>\n<p>Recently i started reading about film and its processing methods. A very common term i hear everywhere is getting thicker negatives and denser negatives what these two means..?</p>\n<p>Is it rating the film below recommended ASA or underexposing it and pushing it a stop in developing what it is…?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Master Roger and David & everyone in the forum"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recently i started reading about film and its processing methods. A very common term i hear everywhere is getting thicker negatives and denser negatives what these two means..?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is it rating the film below recommended ASA or underexposing it and pushing it a stop in developing what it is…?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/thicker-denser-negatives/#post-219234",
+    "scraped_at": "2026-01-15T12:26:27.041239+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/thicker-denser-negatives/#post-219234",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5058f04b1b0616f1f7250d676fb7eb6aa42209a8b9fddb821e00bef1a846c710",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215046",
+    "forum_slug": "camera",
+    "topic_slug": "do-i-lose-anything-in-the-di-by-not-using-85-80a-filter",
+    "parent_post_id": "215045",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I am a bit rusty as well. I think it would be fine to drop the 85. I used to do that when it was just a film print and I wanted cooler shadows. In the DI you should be fine.",
+  "content_html": "<p><em>I am a bit rusty as well. I think it would be fine to drop the 85. I used to do that when it was just a film print and I wanted cooler shadows. In the DI you should be fine.</em></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I am a bit rusty as well. I think it would be fine to drop the 85. I used to do that when it was just a film print and I wanted cooler shadows. In the DI you should be fine."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/do-i-lose-anything-in-the-di-by-not-using-85-80a-filter/#post-215046",
+    "scraped_at": "2026-01-15T15:23:45.629993+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/do-i-lose-anything-in-the-di-by-not-using-85-80a-filter/#post-215046",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b136a105eca86d7835146e74ade0f45a4939cbdd2ebac249d4be7fb186e5a556",
+    "parser_version": "bbpress-v2"
+  }
+}

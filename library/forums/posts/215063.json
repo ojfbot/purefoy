@@ -1,0 +1,55 @@
+{
+  "ids": {
+    "post_id": "215063",
+    "forum_slug": "forum",
+    "topic_slug": "outdoor-scenes-with-heavy-fog",
+    "parent_post_id": "215052",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "George",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you very much for the answer – the “Red Resert” scene is also a very good example for what we are aiming for.\nI´ve just relistened to the podcast episode with Aleksey Rodionov and actually, Roger, you even did ask him about the light an the fog – he answered that he used smoke cans for the effect. He prefered that to regular smoke machines, because its smoke is heavier, so it stays longer and didn´t have a blueish tint. They had around 20 people with cans on set. And they were lucky with the wind, but it even was a sunny day..who would have thought. Your reply then was “it sounds so easy” haha =)\nSo, Roger, I guess that shot of Blade Runner 2049 was on an indoor stage, right?",
+  "content_html": "<p>Thank you very much for the answer – the “Red Resert” scene is also a very good example for what we are aiming for.</p>\n<p>I´ve just relistened to the podcast episode with Aleksey Rodionov and actually, Roger, you even did ask him about the light an the fog – he answered that he used smoke cans for the effect. He prefered that to regular smoke machines, because its smoke is heavier, so it stays longer and didn´t have a blueish tint. They had around 20 people with cans on set. And they were lucky with the wind, but it even was a sunny day..who would have thought. Your reply then was “it sounds so easy” haha =)</p>\n<p>So, Roger, I guess that shot of Blade Runner 2049 was on an indoor stage, right?</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215063/fd4ehzulyqdbmqyfgyzo03u0ra7iqfid.jpg\"/></p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you very much for the answer – the “Red Resert” scene is also a very good example for what we are aiming for."
+    },
+    {
+      "type": "paragraph",
+      "text": "I´ve just relistened to the podcast episode with Aleksey Rodionov and actually, Roger, you even did ask him about the light an the fog – he answered that he used smoke cans for the effect. He prefered that to regular smoke machines, because its smoke is heavier, so it stays longer and didn´t have a blueish tint. They had around 20 people with cans on set. And they were lucky with the wind, but it even was a sunny day..who would have thought. Your reply then was “it sounds so easy” haha =)"
+    },
+    {
+      "type": "paragraph",
+      "text": "So, Roger, I guess that shot of Blade Runner 2049 was on an indoor stage, right?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215063/fd4ehzulyqdbmqyfgyzo03u0ra7iqfid.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/outdoor-scenes-with-heavy-fog/#post-215073",
+    "scraped_at": "2026-01-15T15:49:27.553997+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/outdoor-scenes-with-heavy-fog/#post-215073",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ae6ebb7ad52df3532375c92a2c6962185e5803a7faeff4cbcfb32f00be158195",
+    "parser_version": "bbpress-v2"
+  }
+}

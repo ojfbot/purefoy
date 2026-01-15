@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217493",
+    "forum_slug": "composition",
+    "topic_slug": "framing-for-different-aspect-ratios-with-monitor",
+    "parent_post_id": "217465",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Some monitors will allow you to darken the area outside the frame lines without resorting to blacking it out. There are reasons why a DP/Operator would want to see outside the theatrical frame lines, like to protect a larger area for either TV or VFX/post work or a taller IMAX version… or to simply see things about to enter the frame before they do.",
+  "content_html": "<p>Some monitors will allow you to darken the area outside the frame lines without resorting to blacking it out. There are reasons why a DP/Operator would want to see outside the theatrical frame lines, like to protect a larger area for either TV or VFX/post work or a taller IMAX version… or to simply see things about to enter the frame before they do.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Some monitors will allow you to darken the area outside the frame lines without resorting to blacking it out. There are reasons why a DP/Operator would want to see outside the theatrical frame lines, like to protect a larger area for either TV or VFX/post work or a taller IMAX version… or to simply see things about to enter the frame before they do."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/framing-for-different-aspect-ratios-with-monitor/#post-217978",
+    "scraped_at": "2026-01-15T12:08:06.331023+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/framing-for-different-aspect-ratios-with-monitor/#post-217978",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a1c82158042f6d6e60683baa72dfd5d2d9bbb5d2847b855fe543d983ba34aa7d",
+    "parser_version": "bbpress-v2"
+  }
+}

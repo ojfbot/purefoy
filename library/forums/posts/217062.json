@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217062",
+    "forum_slug": "set-talk",
+    "topic_slug": "the-rise-of-a-i",
+    "parent_post_id": "215627",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Baudelaire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "this is a topic I am heavily involved in. I have used extensively a suite of  readily available A.I programs on my own indie feature. Music soundtrack generation, Stills design development, actual complex video  scene generation coupled with a secondary program to increase resolution.  If anyone on forum has any practical questions on real world application of these apps I will be happy to do my best and answer.  As regards the overarching question of A.i replacing the human artist I think its usually overlooked in most discussions that one still needs visually training to understand what you are looking at. Also Roger himself made the salient point on a podcast episode in answer to a common gripe about A.I reaping analysing artist existing work, this is just how Art is made and artist have always worked. (for reference I have a degree in Fine Art and trained as painter for many years.)",
+  "content_html": "<p>this is a topic I am heavily involved in. I have used extensively a suite of  readily available A.I programs on my own indie feature. Music soundtrack generation, Stills design development, actual complex video  scene generation coupled with a secondary program to increase resolution.  If anyone on forum has any practical questions on real world application of these apps I will be happy to do my best and answer.  As regards the overarching question of A.i replacing the human artist I think its usually overlooked in most discussions that one still needs visually training to understand what you are looking at. Also Roger himself made the salient point on a podcast episode in answer to a common gripe about A.I reaping analysing artist existing work, this is just how Art is made and artist have always worked. (for reference I have a degree in Fine Art and trained as painter for many years.)</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "this is a topic I am heavily involved in. I have used extensively a suite of  readily available A.I programs on my own indie feature. Music soundtrack generation, Stills design development, actual complex video  scene generation coupled with a secondary program to increase resolution.  If anyone on forum has any practical questions on real world application of these apps I will be happy to do my best and answer.  As regards the overarching question of A.i replacing the human artist I think its usually overlooked in most discussions that one still needs visually training to understand what you are looking at. Also Roger himself made the salient point on a podcast episode in answer to a common gripe about A.I reaping analysing artist existing work, this is just how Art is made and artist have always worked. (for reference I have a degree in Fine Art and trained as painter for many years.)"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-rise-of-a-i/#post-217062",
+    "scraped_at": "2026-01-15T12:26:19.411072+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-rise-of-a-i/#post-217062",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4ab756c4cf2f864a51e4f73e9b54b0aebfaba7fbd1e1766a78056afcdb901d95",
+    "parser_version": "bbpress-v2"
+  }
+}

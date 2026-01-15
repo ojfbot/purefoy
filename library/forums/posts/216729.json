@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "216729",
+    "forum_slug": "still-photography",
+    "topic_slug": "mr-deakins-camera-recommendations"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Tim J",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mr. Deakins,\nI’m hoping you have the time to give me your thoughts on Camera Brands/Models. I’m currently shooting a Nikon D7100, but will be upgrading soon. Possibly a Z9 or maybe to another brand like Leica. I would like to make it a serious hobby. Very interested to know what your preferences are.\nThank you,\nTim",
+  "content_html": "<p>Hello Mr. Deakins,</p>\n<p>I’m hoping you have the time to give me your thoughts on Camera Brands/Models. I’m currently shooting a Nikon D7100, but will be upgrading soon. Possibly a Z9 or maybe to another brand like Leica. I would like to make it a serious hobby. Very interested to know what your preferences are.</p>\n<p>Thank you,</p>\n<p>Tim</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mr. Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m hoping you have the time to give me your thoughts on Camera Brands/Models. I’m currently shooting a Nikon D7100, but will be upgrading soon. Possibly a Z9 or maybe to another brand like Leica. I would like to make it a serious hobby. Very interested to know what your preferences are."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tim"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-camera-recommendations/#post-216846",
+    "scraped_at": "2026-01-15T11:50:45.858962+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-camera-recommendations/#post-216846",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4b2abf519c163c96fc4373d2f1698df7b0d8cf61e6e9a39cce621d5731d535db",
+    "parser_version": "bbpress-v2"
+  }
+}

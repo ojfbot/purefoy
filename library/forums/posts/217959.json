@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217959",
+    "forum_slug": "camera",
+    "topic_slug": "low-asa-on-alexa-classic",
+    "parent_post_id": "217900",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "As you say, it really is about the trade-off with how quickly the highlights will clip and your ability to bring that information back in post if need be. At 200 ISO on the Alexa Classic I think you’ll have something like two stops fewer above middle grey than you would at 800 ISO? There’s also the practicality of shooting at lower sensitivity and how much light you’ll need to get an exposure. If I were shooting on a very controlled set where I could pump in as much light as needed, I was committing to a specific exposure with very little allowance in development because I was confident nothing would clip, and I wanted an extremely clean image, that’s when I would shoot at 200 ISO.",
+  "content_html": "<p>As you say, it really is about the trade-off with how quickly the highlights will clip and your ability to bring that information back in post if need be. At 200 ISO on the Alexa Classic I think you’ll have something like two stops fewer above middle grey than you would at 800 ISO? There’s also the practicality of shooting at lower sensitivity and how much light you’ll need to get an exposure. If I were shooting on a very controlled set where I could pump in as much light as needed, I was committing to a specific exposure with very little allowance in development because I was confident nothing would clip, and I wanted an extremely clean image, that’s when I would shoot at 200 ISO.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "As you say, it really is about the trade-off with how quickly the highlights will clip and your ability to bring that information back in post if need be. At 200 ISO on the Alexa Classic I think you’ll have something like two stops fewer above middle grey than you would at 800 ISO? There’s also the practicality of shooting at lower sensitivity and how much light you’ll need to get an exposure. If I were shooting on a very controlled set where I could pump in as much light as needed, I was committing to a specific exposure with very little allowance in development because I was confident nothing would clip, and I wanted an extremely clean image, that’s when I would shoot at 200 ISO."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/low-asa-on-alexa-classic/#post-217975",
+    "scraped_at": "2026-01-15T13:15:53.157826+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/low-asa-on-alexa-classic/#post-217975",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7b27aa204b2917a1145b5f30c95133e2462721d06ffc1b44a6aacf34e46ae41e",
+    "parser_version": "bbpress-v2"
+  }
+}

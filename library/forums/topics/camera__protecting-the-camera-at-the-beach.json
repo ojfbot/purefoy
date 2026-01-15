@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/protecting-the-camera-at-the-beach/#post-215965",
+  "forum_slug": "camera",
+  "topic_slug": "protecting-the-camera-at-the-beach",
+  "title": "Protecting the camera at the beach?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215938",
+    "215944",
+    "215965"
+  ],
+  "reply_tree": {
+    "post_id": "215938",
+    "post_type": "topic",
+    "author": "Connor",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215944",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215965",
+        "post_type": "reply",
+        "author": "Connor",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/protecting-the-camera-at-the-beach/#post-215965",
+    "scraped_at": "2026-01-15T15:20:17.874118+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/protecting-the-camera-at-the-beach/#post-215965",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ca859cee5324cfdf64a33a434fb09c23206b2309e3229b47025bf1567cfba74a",
+    "parser_version": "bbpress-v2"
+  }
+}

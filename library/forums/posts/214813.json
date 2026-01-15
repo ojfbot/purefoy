@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "post_id": "214813",
+    "forum_slug": "camera",
+    "topic_slug": "breaking-the-rules-consistently",
+    "parent_post_id": "214798",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "dmullenasc wrote:\nI don’t think Kubrick actually shot wide-open on the Zeiss Super Speeds all the time on those movies, partly because he mixed lenses in scenes, sometimes Cooke zooms were used, plus the Zeiss VariPrimes were also used on “Eyes Wide Shut”. So the sets weren’t always lit to only f/1.4.\nWhat would you guess the f-number of a lot of those interiors in Eyes Wide Shut was? I’ve heard conflicting things over the years about how they developed the stock. In the ASC article back in ’99 Larry Smith was quoted, “We decided that if we pushed everything two stops, it would really have the effect of an extra stop and a quarter or a stop and a half.” People have asserted that they printed down but that’s never mentioned in the article. I got the impression Smith was saying that even force developing two stops and then keeping the negative that thin, they found that it was really more like 1125-1250 ASA rather than 2000 ASA.\nEven at 1125 ASA, that would be something like 2 footcandles at f/1.4 for 18% grey, and then 10 footcandles for the T3 Cooke zoom? Which seems about right for the light levels in many scenes. Smith is quoted in the same article, “We decided to shoot nearly all of the picture at a stop of T1.3, and since we were pushing everything, we were able to create a wonderful warm glow.”\nI can’t tell when they used the VariPrimes but I vaguely remember another interview with Larry Smith where he said that most of the movie is steadicam, and it wouldn’t have made sense to use them for those setups.",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/breaking-the-rules-consistently/#post-214808\">dmullenasc wrote:</a></div>\n<p>I don’t think Kubrick actually shot wide-open on the Zeiss Super Speeds all the time on those movies, partly because he mixed lenses in scenes, sometimes Cooke zooms were used, plus the Zeiss VariPrimes were also used on “Eyes Wide Shut”. So the sets weren’t always lit to only f/1.4.</p></blockquote>\n<p>What would you guess the f-number of a lot of those interiors in Eyes Wide Shut was? I’ve heard conflicting things over the years about how they developed the stock. In the ASC article back in ’99 Larry Smith was quoted, “We decided that if we pushed everything two stops, it would really have the effect of an extra stop and a quarter or a stop and a half.” People have asserted that they printed down but that’s never mentioned in the article. I got the impression Smith was saying that even force developing two stops and then keeping the negative that thin, they found that it was really more like 1125-1250 ASA rather than 2000 ASA.</p>\n<p>Even at 1125 ASA, that would be something like 2 footcandles at f/1.4 for 18% grey, and then 10 footcandles for the T3 Cooke zoom? Which seems about right for the light levels in many scenes. Smith is quoted in the same article, “We decided to shoot nearly all of the picture at a stop of T1.3, and since we were pushing everything, we were able to create a wonderful warm glow.”</p>\n<p>I can’t tell when they used the VariPrimes but I vaguely remember another interview with Larry Smith where he said that most of the movie is steadicam, and it wouldn’t have made sense to use them for those setups.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "dmullenasc wrote:\nI don’t think Kubrick actually shot wide-open on the Zeiss Super Speeds all the time on those movies, partly because he mixed lenses in scenes, sometimes Cooke zooms were used, plus the Zeiss VariPrimes were also used on “Eyes Wide Shut”. So the sets weren’t always lit to only f/1.4."
+    },
+    {
+      "type": "paragraph",
+      "text": "I don’t think Kubrick actually shot wide-open on the Zeiss Super Speeds all the time on those movies, partly because he mixed lenses in scenes, sometimes Cooke zooms were used, plus the Zeiss VariPrimes were also used on “Eyes Wide Shut”. So the sets weren’t always lit to only f/1.4."
+    },
+    {
+      "type": "paragraph",
+      "text": "What would you guess the f-number of a lot of those interiors in Eyes Wide Shut was? I’ve heard conflicting things over the years about how they developed the stock. In the ASC article back in ’99 Larry Smith was quoted, “We decided that if we pushed everything two stops, it would really have the effect of an extra stop and a quarter or a stop and a half.” People have asserted that they printed down but that’s never mentioned in the article. I got the impression Smith was saying that even force developing two stops and then keeping the negative that thin, they found that it was really more like 1125-1250 ASA rather than 2000 ASA."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even at 1125 ASA, that would be something like 2 footcandles at f/1.4 for 18% grey, and then 10 footcandles for the T3 Cooke zoom? Which seems about right for the light levels in many scenes. Smith is quoted in the same article, “We decided to shoot nearly all of the picture at a stop of T1.3, and since we were pushing everything, we were able to create a wonderful warm glow.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "I can’t tell when they used the VariPrimes but I vaguely remember another interview with Larry Smith where he said that most of the movie is steadicam, and it wouldn’t have made sense to use them for those setups."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "dmullenasc wrote:\nI don’t think Kubrick actually shot wide-open on the Zeiss Super Speeds all the time on those movies, partly because he mixed lenses in scenes, sometimes Cooke zooms were used, plus the Zeiss VariPrimes were also used on “Eyes Wide Shut”. So the sets weren’t always lit to only f/1.4."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/breaking-the-rules-consistently/#post-214808",
+      "text": "dmullenasc wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/breaking-the-rules-consistently/#post-214815",
+    "scraped_at": "2026-01-15T15:25:07.041260+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/breaking-the-rules-consistently/#post-214815",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7eaaa1ffdbb061faaee845d035654a89698e482ec985a5b24ff8fdc10b215997",
+    "parser_version": "bbpress-v2"
+  }
+}

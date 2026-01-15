@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "177535",
+    "forum_slug": "set-talk",
+    "topic_slug": "age-factor",
+    "parent_post_id": "177312",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Maybe it depends also on the position and duties?\nI have no experience about cinema world but i think it’s a situation common to many other fields:  young people are preferred by employers because they usually are fine with lower pay rates given the lack of experience, even if the present young generation seems to have a different approach to this way of thinking than the previous ones (that’s why they shift jobs very frequently and refuse low paying jobs).\nThis said, i think you’ll want someone that actually knows the job for a decision making and responsability position and that’s not related to age (but it’s easy to think that an older person that has been doing that job for years has more experience and knowledge). As i said i have no experience in cinema but honestly i can’t imagine a production that could have the chance to work with a famous artist in a relevant position (as a DP for example) and refuse because that artist is not the younger around.\nAs far as my little world is concerned, i prefer to work with smart people. I know a lot of stupid young people and clever old ones, as well as i know incredibly smart young people and absolutely stupid old ones. There’s too focus on age, with should focus on stupidity. 🙂",
+  "content_html": "<p>Maybe it depends also on the position and duties?</p>\n<p>I have no experience about cinema world but i think it’s a situation common to many other fields:  young people are preferred by employers because they usually are fine with lower pay rates given the lack of experience, even if the present young generation seems to have a different approach to this way of thinking than the previous ones (that’s why they shift jobs very frequently and refuse low paying jobs).</p>\n<p>This said, i think you’ll want someone that actually knows the job for a decision making and responsability position and that’s not related to age (but it’s easy to think that an older person that has been doing that job for years has more experience and knowledge). As i said i have no experience in cinema but honestly i can’t imagine a production that could have the chance to work with a famous artist in a relevant position (as a DP for example) and refuse because that artist is not the younger around.</p>\n<p>As far as my little world is concerned, i prefer to work with smart people. I know a lot of stupid young people and clever old ones, as well as i know incredibly smart young people and absolutely stupid old ones. There’s too focus on age, with should focus on stupidity. 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Maybe it depends also on the position and duties?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have no experience about cinema world but i think it’s a situation common to many other fields:  young people are preferred by employers because they usually are fine with lower pay rates given the lack of experience, even if the present young generation seems to have a different approach to this way of thinking than the previous ones (that’s why they shift jobs very frequently and refuse low paying jobs)."
+    },
+    {
+      "type": "paragraph",
+      "text": "This said, i think you’ll want someone that actually knows the job for a decision making and responsability position and that’s not related to age (but it’s easy to think that an older person that has been doing that job for years has more experience and knowledge). As i said i have no experience in cinema but honestly i can’t imagine a production that could have the chance to work with a famous artist in a relevant position (as a DP for example) and refuse because that artist is not the younger around."
+    },
+    {
+      "type": "paragraph",
+      "text": "As far as my little world is concerned, i prefer to work with smart people. I know a lot of stupid young people and clever old ones, as well as i know incredibly smart young people and absolutely stupid old ones. There’s too focus on age, with should focus on stupidity. 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/age-factor/#post-215615",
+    "scraped_at": "2026-01-15T13:06:10.208713+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/age-factor/#post-215615",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e00e1e44b816912e462ba090eff0ac5b7aaee488aae1f92ae201b98a8491cd12",
+    "parser_version": "bbpress-v2"
+  }
+}

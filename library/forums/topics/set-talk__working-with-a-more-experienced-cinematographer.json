@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/working-with-a-more-experienced-cinematographer/#post-215730",
+  "forum_slug": "set-talk",
+  "topic_slug": "working-with-a-more-experienced-cinematographer",
+  "title": "Working with a more experienced cinematographer",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215681",
+    "215706",
+    "215730"
+  ],
+  "reply_tree": {
+    "post_id": "215681",
+    "post_type": "topic",
+    "author": "Silver",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215706",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215730",
+        "post_type": "reply",
+        "author": "Silver",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/working-with-a-more-experienced-cinematographer/#post-215730",
+    "scraped_at": "2026-01-15T13:06:00.798199+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/working-with-a-more-experienced-cinematographer/#post-215730",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5a6778eed525d241aa4cc7d3d8347ed7462ad63db552a5c79e51e6038260b219",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214878",
+    "forum_slug": "still-photography",
+    "topic_slug": "some-vintage-baseball-stills-from-yesterday",
+    "parent_post_id": "214866",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Nice shot of the cinema but it would have better if you Included the untouched photo so that we can compare the two.  That would make it more interesting.",
+  "content_html": "<p>Nice shot of the cinema but it would have better if you Included the untouched photo so that we can compare the two.  That would make it more interesting.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Nice shot of the cinema but it would have better if you Included the untouched photo so that we can compare the two.  That would make it more interesting."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/some-vintage-baseball-stills-from-yesterday/#post-214878",
+    "scraped_at": "2026-01-15T12:42:31.352190+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/some-vintage-baseball-stills-from-yesterday/#post-214878",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d98301e43de07bdb80f9acb824b38e6e444fcd9022b9d619461d279a44cb13cd",
+    "parser_version": "bbpress-v2"
+  }
+}

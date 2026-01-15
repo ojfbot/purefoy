@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "220073",
+    "forum_slug": "composition",
+    "topic_slug": "sicario-briefing-room",
+    "parent_post_id": "219668",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think that was the shot as it does seems the overheads are reflect on the characters heads. Denis and the editor were trying to construct the best version of the scene. The fact is that we shot the POV, if that really is the one that was moved, for later in the scene but they felt it would be stronger earlier makes total sense. I once shot a dance sequence with Sam Mendes that involved multiple color changes. In that case he used a red shot to match into part of the scene which we had shot under blue light. Luckily, we were finishing the film with a DI and I could adjust the shot so that no one has noticed the imbalance. Other than me! I hated having to do it but the scene was stronger for it being edited in that way.\nWatch the driving sequences in Scorsese’s  Alice Doesn’t Live Here Anymore. (His best film IMO) In one section the background to the boy is almost dusk while the reverse is in blinding sunlight. And its a long scene. No one, least of all Marty, would intend it that way but there are always compromises to be made.",
+  "content_html": "<p>I think that was the shot as it does seems the overheads are reflect on the characters heads. Denis and the editor were trying to construct the best version of the scene. The fact is that we shot the POV, if that really is the one that was moved, for later in the scene but they felt it would be stronger earlier makes total sense. I once shot a dance sequence with Sam Mendes that involved multiple color changes. In that case he used a red shot to match into part of the scene which we had shot under blue light. Luckily, we were finishing the film with a DI and I could adjust the shot so that no one has noticed the imbalance. Other than me! I hated having to do it but the scene was stronger for it being edited in that way.</p>\n<p>Watch the driving sequences in Scorsese’s  Alice Doesn’t Live Here Anymore. (His best film IMO) In one section the background to the boy is almost dusk while the reverse is in blinding sunlight. And its a long scene. No one, least of all Marty, would intend it that way but there are always compromises to be made.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think that was the shot as it does seems the overheads are reflect on the characters heads. Denis and the editor were trying to construct the best version of the scene. The fact is that we shot the POV, if that really is the one that was moved, for later in the scene but they felt it would be stronger earlier makes total sense. I once shot a dance sequence with Sam Mendes that involved multiple color changes. In that case he used a red shot to match into part of the scene which we had shot under blue light. Luckily, we were finishing the film with a DI and I could adjust the shot so that no one has noticed the imbalance. Other than me! I hated having to do it but the scene was stronger for it being edited in that way."
+    },
+    {
+      "type": "paragraph",
+      "text": "Watch the driving sequences in Scorsese’s  Alice Doesn’t Live Here Anymore. (His best film IMO) In one section the background to the boy is almost dusk while the reverse is in blinding sunlight. And its a long scene. No one, least of all Marty, would intend it that way but there are always compromises to be made."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario-briefing-room/#post-220376",
+    "scraped_at": "2026-01-15T11:50:52.768429+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-briefing-room/#post-220376",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a9e2d51f42762cbd9ae2224666247b29aff3b038f248f676bb7d1bc3c5935bd6",
+    "parser_version": "bbpress-v2"
+  }
+}

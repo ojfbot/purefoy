@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215391",
+    "forum_slug": "forum",
+    "topic_slug": "set-lighting-diffusion-vs-size-of-the-source",
+    "parent_post_id": "215372",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hard to see the effect of that kind of rig when you don’t see the shot.",
+  "content_html": "<p>Hard to see the effect of that kind of rig when you don’t see the shot.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hard to see the effect of that kind of rig when you don’t see the shot."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/set-lighting-diffusion-vs-size-of-the-source/#post-215392",
+    "scraped_at": "2026-01-15T15:47:32.606921+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/set-lighting-diffusion-vs-size-of-the-source/#post-215392",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0ab36e4e9b03977b109ce2fde15bd56dd6906846912468d9b4c047de1788bcc2",
+    "parser_version": "bbpress-v2"
+  }
+}

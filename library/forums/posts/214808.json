@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214808",
+    "forum_slug": "camera",
+    "topic_slug": "breaking-the-rules-consistently",
+    "parent_post_id": "214798",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t think Kubrick actually shot wide-open on the Zeiss Super Speeds all the time on those movies, partly because he mixed lenses in scenes, sometimes Cooke zooms were used, plus the Zeiss VariPrimes were also used on “Eyes Wide Shut”. So the sets weren’t always lit to only f/1.4.",
+  "content_html": "<p>I don’t think Kubrick actually shot wide-open on the Zeiss Super Speeds all the time on those movies, partly because he mixed lenses in scenes, sometimes Cooke zooms were used, plus the Zeiss VariPrimes were also used on “Eyes Wide Shut”. So the sets weren’t always lit to only f/1.4.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t think Kubrick actually shot wide-open on the Zeiss Super Speeds all the time on those movies, partly because he mixed lenses in scenes, sometimes Cooke zooms were used, plus the Zeiss VariPrimes were also used on “Eyes Wide Shut”. So the sets weren’t always lit to only f/1.4."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/breaking-the-rules-consistently/#post-214815",
+    "scraped_at": "2026-01-15T15:25:07.040047+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/breaking-the-rules-consistently/#post-214815",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "83e57116bf00ec9b8aea022870c467f03eba7e50f38ef22ff90e767f12c7d9ef",
+    "parser_version": "bbpress-v2"
+  }
+}

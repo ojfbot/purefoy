@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216702",
+    "forum_slug": "forum",
+    "topic_slug": "ganged-chinese-lantern-vs-roger-ring-lights",
+    "parent_post_id": "216611",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There’s no way to answer this question in the abstract. Obviously if you had a ring of lightbulbs with enough space between them to put a paper lantern around them, you’d create a larger and thus softer source.\nThe rule regarding the size of a light source relative to the subject affecting softness still applies.  In theory, a paper lantern is a bigger source than a bare light bulb unless the paper lantern is far enough away to be the same physical size relative to the subject as the bare light bulb. If you had a ring of paper lanterns the same distance away as a ring of bare light bulbs, thus larger in size as a source, the light would be softer, at least in one direction (if the bare bulbs were very close together then they would be soft in the direction of the ring but less soft at a right angle to the ring — it’s like comparing a bare 4′ fluorescent tube to a 4′ x 2′ LED soft light, the softness is the same in the long direction but not in the short direction.)\nBut the reasons you might build a ring light is partly (or mainly)\nrelated to size and weight\n, you are trying to create something with a low profile that can fit close to the ceiling and perhaps augment and spread the light from a practical lamp hanging from the ceiling. In this case, a ring of paper lanterns might hang down too low from the ceiling to be out of the shot.  So the scenarios in which you’d use one approach versus the other are different.",
+  "content_html": "<p>There’s no way to answer this question in the abstract. Obviously if you had a ring of lightbulbs with enough space between them to put a paper lantern around them, you’d create a larger and thus softer source.</p>\n<p>The rule regarding the size of a light source relative to the subject affecting softness still applies.  In theory, a paper lantern is a bigger source than a bare light bulb unless the paper lantern is far enough away to be the same physical size relative to the subject as the bare light bulb. If you had a ring of paper lanterns the same distance away as a ring of bare light bulbs, thus larger in size as a source, the light would be softer, at least in one direction (if the bare bulbs were very close together then they would be soft in the direction of the ring but less soft at a right angle to the ring — it’s like comparing a bare 4′ fluorescent tube to a 4′ x 2′ LED soft light, the softness is the same in the long direction but not in the short direction.)</p>\n<p>But the reasons you might build a ring light is partly (or mainly) <em>related to size and weight</em>, you are trying to create something with a low profile that can fit close to the ceiling and perhaps augment and spread the light from a practical lamp hanging from the ceiling. In this case, a ring of paper lanterns might hang down too low from the ceiling to be out of the shot.  So the scenarios in which you’d use one approach versus the other are different.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There’s no way to answer this question in the abstract. Obviously if you had a ring of lightbulbs with enough space between them to put a paper lantern around them, you’d create a larger and thus softer source."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rule regarding the size of a light source relative to the subject affecting softness still applies.  In theory, a paper lantern is a bigger source than a bare light bulb unless the paper lantern is far enough away to be the same physical size relative to the subject as the bare light bulb. If you had a ring of paper lanterns the same distance away as a ring of bare light bulbs, thus larger in size as a source, the light would be softer, at least in one direction (if the bare bulbs were very close together then they would be soft in the direction of the ring but less soft at a right angle to the ring — it’s like comparing a bare 4′ fluorescent tube to a 4′ x 2′ LED soft light, the softness is the same in the long direction but not in the short direction.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "But the reasons you might build a ring light is partly (or mainly)\nrelated to size and weight\n, you are trying to create something with a low profile that can fit close to the ceiling and perhaps augment and spread the light from a practical lamp hanging from the ceiling. In this case, a ring of paper lanterns might hang down too low from the ceiling to be out of the shot.  So the scenarios in which you’d use one approach versus the other are different."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ganged-chinese-lantern-vs-roger-ring-lights/#post-216720",
+    "scraped_at": "2026-01-15T15:23:13.496778+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ganged-chinese-lantern-vs-roger-ring-lights/#post-216720",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b8c5b7cd8ee3ec07049fe5385ec33637b54882596aef78aff3d8e9ff8b6bc931",
+    "parser_version": "bbpress-v2"
+  }
+}

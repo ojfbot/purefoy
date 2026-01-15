@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "post_id": "216245",
+    "forum_slug": "forum",
+    "topic_slug": "learning-lighting-practice-setups"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Bgrunge",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello all,\nI’m starting to learn lighting for filmmaking from scratch and need to practice a bit.\nIf I were to create and film 10 scenes to practice lighting setups, what should those lighting setups be? What’s the progression that would teach me the most (without costing too much)?\nWhat I’m working with\n– lights: 60w bi color, 230w bi color, and a couple of paper lanterns\n– one bowens fresnel with barndoors, one softbox\n– some fabrics for diffusion / bounce\n– some light stands (no boom arms, can’t find reliable ones around here)\n– some gaffer tape, clamps, black and white foamcore",
+  "content_html": "<p>Hello all,</p>\n<p>I’m starting to learn lighting for filmmaking from scratch and need to practice a bit.</p>\n<p>If I were to create and film 10 scenes to practice lighting setups, what should those lighting setups be? What’s the progression that would teach me the most (without costing too much)?</p>\n<p>What I’m working with</p>\n<p>– lights: 60w bi color, 230w bi color, and a couple of paper lanterns</p>\n<p>– one bowens fresnel with barndoors, one softbox</p>\n<p>– some fabrics for diffusion / bounce</p>\n<p>– some light stands (no boom arms, can’t find reliable ones around here)</p>\n<p>– some gaffer tape, clamps, black and white foamcore</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello all,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m starting to learn lighting for filmmaking from scratch and need to practice a bit."
+    },
+    {
+      "type": "paragraph",
+      "text": "If I were to create and film 10 scenes to practice lighting setups, what should those lighting setups be? What’s the progression that would teach me the most (without costing too much)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What I’m working with"
+    },
+    {
+      "type": "paragraph",
+      "text": "– lights: 60w bi color, 230w bi color, and a couple of paper lanterns"
+    },
+    {
+      "type": "paragraph",
+      "text": "– one bowens fresnel with barndoors, one softbox"
+    },
+    {
+      "type": "paragraph",
+      "text": "– some fabrics for diffusion / bounce"
+    },
+    {
+      "type": "paragraph",
+      "text": "– some light stands (no boom arms, can’t find reliable ones around here)"
+    },
+    {
+      "type": "paragraph",
+      "text": "– some gaffer tape, clamps, black and white foamcore"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/learning-lighting-practice-setups/#post-216264",
+    "scraped_at": "2026-01-15T15:25:49.530525+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/learning-lighting-practice-setups/#post-216264",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ef3502ed9dfeda8e3fe29b15cdc59b73239550d1535d2a1323d3fda11c7e8594",
+    "parser_version": "bbpress-v2"
+  }
+}

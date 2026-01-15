@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/photographer-2024/",
+  "forum_slug": "still-photography",
+  "topic_slug": "photographer-2024",
+  "title": "PHOTOGRAPHER (2024)",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216710"
+  ],
+  "reply_tree": {
+    "post_id": "216710",
+    "post_type": "topic",
+    "author": "CarlZand",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/photographer-2024/",
+    "scraped_at": "2026-01-15T11:50:59.161203+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/photographer-2024/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "79f0124c2e20da4d5f108ab4fa5163f4805ddc92a71b561000e1d999870d7ccb",
+    "parser_version": "bbpress-v2"
+  }
+}

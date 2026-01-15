@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "217211",
+    "forum_slug": "camera",
+    "topic_slug": "false-color-and-lut-workflow",
+    "parent_post_id": "216887",
+    "parent_type": "topic",
+    "position": 16
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Let’s say you are lighting a face for a ratio, say 4:1 or something. Does metering the contrast levels reference the LOG image, or the image after converted to rec709,etc.? For example if you do use a light meter to light these ratios exactly, will converting to 709 or P3 crush those levels even more?\nDifferent manufacturers have different LOG curves but they all only serve the technical purpose of storing the best possible information into a compressed file. LOG is not ‘viewing ready’. It needs to be converted in an image that our eyes perceive as ‘normal’ (display), only then contrast ratios will represent what you have measured on set.\nTo do that you need to know what color space / gamma your monitor is in and use the appropriate conversion. Your external camera monitor might be Rec.709, your Macbook Air would need a Apple P3 (P3 D65 + sRGB gamma) conversion and so on.",
+  "content_html": "<blockquote><p> Let’s say you are lighting a face for a ratio, say 4:1 or something. Does metering the contrast levels reference the LOG image, or the image after converted to rec709,etc.? For example if you do use a light meter to light these ratios exactly, will converting to 709 or P3 crush those levels even more?</p></blockquote>\n<p>Different manufacturers have different LOG curves but they all only serve the technical purpose of storing the best possible information into a compressed file. LOG is not ‘viewing ready’. It needs to be converted in an image that our eyes perceive as ‘normal’ (display), only then contrast ratios will represent what you have measured on set.</p>\n<p>To do that you need to know what color space / gamma your monitor is in and use the appropriate conversion. Your external camera monitor might be Rec.709, your Macbook Air would need a Apple P3 (P3 D65 + sRGB gamma) conversion and so on.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Let’s say you are lighting a face for a ratio, say 4:1 or something. Does metering the contrast levels reference the LOG image, or the image after converted to rec709,etc.? For example if you do use a light meter to light these ratios exactly, will converting to 709 or P3 crush those levels even more?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s say you are lighting a face for a ratio, say 4:1 or something. Does metering the contrast levels reference the LOG image, or the image after converted to rec709,etc.? For example if you do use a light meter to light these ratios exactly, will converting to 709 or P3 crush those levels even more?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Different manufacturers have different LOG curves but they all only serve the technical purpose of storing the best possible information into a compressed file. LOG is not ‘viewing ready’. It needs to be converted in an image that our eyes perceive as ‘normal’ (display), only then contrast ratios will represent what you have measured on set."
+    },
+    {
+      "type": "paragraph",
+      "text": "To do that you need to know what color space / gamma your monitor is in and use the appropriate conversion. Your external camera monitor might be Rec.709, your Macbook Air would need a Apple P3 (P3 D65 + sRGB gamma) conversion and so on."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Let’s say you are lighting a face for a ratio, say 4:1 or something. Does metering the contrast levels reference the LOG image, or the image after converted to rec709,etc.? For example if you do use a light meter to light these ratios exactly, will converting to 709 or P3 crush those levels even more?"
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/page/2/",
+    "scraped_at": "2026-01-15T13:16:28.939561+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "229f773da42a54094d2663e89025dc57b6afde38e0269c415eb54182b755ae10",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "217146",
+    "forum_slug": "forum",
+    "topic_slug": "opening-sequence-to-skyfall",
+    "parent_post_id": "217145",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I could tell you exactly how I lit the opening sequence but how would that help you?You would be merely copying what I had done.\nThis reply was modified 10 months, 3 weeks ago by\nRoger Deakins\n.",
+  "content_html": "<p>I could tell you exactly how I lit the opening sequence but how would that help you?You would be merely copying what I had done.</p>\n<ul class=\"bbp-reply-revision-log\" id=\"bbp-reply-revision-log-217146\">\n<li class=\"bbp-reply-revision-log-item\" id=\"bbp-reply-revision-log-217146-item-217147\">\n\t\tThis reply was modified 10 months, 3 weeks ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/roger/\" title=\"View Roger Deakins's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png\" srcset=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-28x28.png 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">Roger Deakins</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I could tell you exactly how I lit the opening sequence but how would that help you?You would be merely copying what I had done."
+    },
+    {
+      "type": "list",
+      "text": "This reply was modified 10 months, 3 weeks ago by\nRoger Deakins\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/roger/",
+      "text": "Roger Deakins",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/opening-sequence-to-skyfall/#post-217204",
+    "scraped_at": "2026-01-15T15:21:30.564776+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/opening-sequence-to-skyfall/#post-217204",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dc94bcc81bb617271eaad3b81c535566b13aa1778f4d753193aecbe9089180da",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/ansel-adams-zone-system/#post-204430",
+  "forum_slug": "forum",
+  "topic_slug": "ansel-adams-zone-system",
+  "title": "Ansel Adams zone system",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "201222",
+    "201415",
+    "201423",
+    "201541",
+    "201689",
+    "201712",
+    "201741",
+    "201819",
+    "201871",
+    "204430"
+  ],
+  "reply_tree": {
+    "post_id": "201222",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "201415",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "201423",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "201541",
+        "post_type": "reply",
+        "author": "Daniel",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "201689",
+        "post_type": "reply",
+        "author": "M Ryan",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "201712",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "201741",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "201819",
+        "post_type": "reply",
+        "author": "Gregg",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "201871",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "204430",
+        "post_type": "reply",
+        "author": "andrewtrost",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 9,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ansel-adams-zone-system/#post-204430",
+    "scraped_at": "2026-01-15T15:53:57.803737+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ansel-adams-zone-system/#post-204430",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "17de5318e29e87cb563ce23b8cd2a06ee0c9f1136dd2e8460c7e43dde7c76a50",
+    "parser_version": "bbpress-v2"
+  }
+}

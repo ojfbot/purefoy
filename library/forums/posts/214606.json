@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "post_id": "214606",
+    "forum_slug": "team-deakins",
+    "topic_slug": "now-youtube-video-6-17"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "James",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thus Saturday, June 17th, a new video will post to the Team Deakins YouTube channel. This will be a recording of a Q&A we had with university students in SMU, Dallas.\nIt publishes tomorrow and this will be the link:\nhttps://youtu.be/ix2itY28k0M",
+  "content_html": "<p>Thus Saturday, June 17th, a new video will post to the Team Deakins YouTube channel. This will be a recording of a Q&amp;A we had with university students in SMU, Dallas.</p>\n<p>It publishes tomorrow and this will be the link:</p>\n<p><a href=\"https://youtu.be/ix2itY28k0M\" rel=\"nofollow\">https://youtu.be/ix2itY28k0M</a></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thus Saturday, June 17th, a new video will post to the Team Deakins YouTube channel. This will be a recording of a Q&A we had with university students in SMU, Dallas."
+    },
+    {
+      "type": "paragraph",
+      "text": "It publishes tomorrow and this will be the link:"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://youtu.be/ix2itY28k0M"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://youtu.be/ix2itY28k0M",
+      "text": "https://youtu.be/ix2itY28k0M",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/now-youtube-video-6-17/#post-214615",
+    "scraped_at": "2026-01-15T13:56:36.934350+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/now-youtube-video-6-17/#post-214615",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a19dee1e7aade873bc56d678189eb69851f184aa8a4f5acc546274950cb599b9",
+    "parser_version": "bbpress-v2"
+  }
+}

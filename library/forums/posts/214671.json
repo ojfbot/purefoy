@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "214671",
+    "forum_slug": "camera",
+    "topic_slug": "a-story-more-than-one-character-perspective"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger how do you choose lens choice a story is more than one character perspective. And why do you shoot wide lenses a story is only one character perspective. Could you remember your favorite multiple characters perspective movies.",
+  "content_html": "<p>Dear master Roger how do you choose lens choice a story is more than one character perspective. And why do you shoot wide lenses a story is only one character perspective. Could you remember your favorite multiple characters perspective movies.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger how do you choose lens choice a story is more than one character perspective. And why do you shoot wide lenses a story is only one character perspective. Could you remember your favorite multiple characters perspective movies."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-story-more-than-one-character-perspective/#post-214737",
+    "scraped_at": "2026-01-15T15:25:28.235968+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-story-more-than-one-character-perspective/#post-214737",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7354d57ad1057e4d841708ef6df735e696edc9881123ad868dee7378afddb185",
+    "parser_version": "bbpress-v2"
+  }
+}

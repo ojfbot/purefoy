@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215973",
+    "forum_slug": "forum",
+    "topic_slug": "br2049-exposure-metering-in-extremely-dark-scene",
+    "parent_post_id": "215966",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There is always a place where you want your mid exposure to fall. Here it would be the sink counter top. Another example would be a wall which you want to read as a stop under. While I have to admit it is easier to shoot a scene like this with a calibrated monitor to refer to, the viewing conditions when you look at the monitor can be deceptive. That is why a meter is always a good tool.",
+  "content_html": "<p>There is always a place where you want your mid exposure to fall. Here it would be the sink counter top. Another example would be a wall which you want to read as a stop under. While I have to admit it is easier to shoot a scene like this with a calibrated monitor to refer to, the viewing conditions when you look at the monitor can be deceptive. That is why a meter is always a good tool.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There is always a place where you want your mid exposure to fall. Here it would be the sink counter top. Another example would be a wall which you want to read as a stop under. While I have to admit it is easier to shoot a scene like this with a calibrated monitor to refer to, the viewing conditions when you look at the monitor can be deceptive. That is why a meter is always a good tool."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/br2049-exposure-metering-in-extremely-dark-scene/#post-215986",
+    "scraped_at": "2026-01-15T15:42:50.300922+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/br2049-exposure-metering-in-extremely-dark-scene/#post-215986",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4431b216ea457d469beafcd1655b474afebbfc9897503f572376b1ee2f8d771e",
+    "parser_version": "bbpress-v2"
+  }
+}

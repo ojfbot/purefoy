@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216599",
+    "forum_slug": "camera",
+    "topic_slug": "camera-starter-question",
+    "parent_post_id": "169402",
+    "parent_type": "topic",
+    "position": 21
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Tyler F",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t know about all camera technology but I remember Leica releasing a film SLR that had an attachable digital back that had a sensor so you could effectively shoot film or digital on the same camera…\nNow imagine that with a cinema camera having the ability to shoot both mediums without needing to completely switch over to another system and being able to keep your build.\nOhh–and optical viewfinders as I prefer them to digital ones 🙂",
+  "content_html": "<p>I don’t know about all camera technology but I remember Leica releasing a film SLR that had an attachable digital back that had a sensor so you could effectively shoot film or digital on the same camera…</p>\n<p>Now imagine that with a cinema camera having the ability to shoot both mediums without needing to completely switch over to another system and being able to keep your build.</p>\n<p>Ohh–and optical viewfinders as I prefer them to digital ones 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t know about all camera technology but I remember Leica releasing a film SLR that had an attachable digital back that had a sensor so you could effectively shoot film or digital on the same camera…"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now imagine that with a cinema camera having the ability to shoot both mediums without needing to completely switch over to another system and being able to keep your build."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohh–and optical viewfinders as I prefer them to digital ones 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/page/2/",
+    "scraped_at": "2026-01-15T13:56:45.968106+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "acd5bee5ad75ed37f30431ec8039ef479ae509c288c1ef60df695f2910014fc5",
+    "parser_version": "bbpress-v2"
+  }
+}

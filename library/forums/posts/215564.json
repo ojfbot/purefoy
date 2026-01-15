@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215564",
+    "forum_slug": "forum",
+    "topic_slug": "about-low-key-lighting",
+    "parent_post_id": "215519",
+    "parent_type": "topic",
+    "position": 13
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Raising the ISO for a non-raw recording format like ProRes 444 Log-C in the Alexa does not necessarily mean you will have more clipping compared to recording Arriraw with the high ISO just as metadata. It’s when your recording codec is in a display gamma like Rec.709 that you get in trouble with lopping off dynamic range.\nThe best way to control noise is to work at an ISO that gives you a noise level you like or can live with, and then expose consistently so there aren’t major adjustments in post (particularly to the shadows.)\nAssuming your codec keeps all the dynamic range in log as a raw recording would, the problems you run into are more related to bit depth, compression artifacts and to color, which is now baked in.  So in that case, there can be color channel noise issues if you’ve baked in a certain color bias that you later try to remove in post.  With a debayered RGB recording, you have to work in post with the colors you see in the recording.",
+  "content_html": "<p>Raising the ISO for a non-raw recording format like ProRes 444 Log-C in the Alexa does not necessarily mean you will have more clipping compared to recording Arriraw with the high ISO just as metadata. It’s when your recording codec is in a display gamma like Rec.709 that you get in trouble with lopping off dynamic range.</p>\n<p>The best way to control noise is to work at an ISO that gives you a noise level you like or can live with, and then expose consistently so there aren’t major adjustments in post (particularly to the shadows.)</p>\n<p>Assuming your codec keeps all the dynamic range in log as a raw recording would, the problems you run into are more related to bit depth, compression artifacts and to color, which is now baked in.  So in that case, there can be color channel noise issues if you’ve baked in a certain color bias that you later try to remove in post.  With a debayered RGB recording, you have to work in post with the colors you see in the recording.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Raising the ISO for a non-raw recording format like ProRes 444 Log-C in the Alexa does not necessarily mean you will have more clipping compared to recording Arriraw with the high ISO just as metadata. It’s when your recording codec is in a display gamma like Rec.709 that you get in trouble with lopping off dynamic range."
+    },
+    {
+      "type": "paragraph",
+      "text": "The best way to control noise is to work at an ISO that gives you a noise level you like or can live with, and then expose consistently so there aren’t major adjustments in post (particularly to the shadows.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Assuming your codec keeps all the dynamic range in log as a raw recording would, the problems you run into are more related to bit depth, compression artifacts and to color, which is now baked in.  So in that case, there can be color channel noise issues if you’ve baked in a certain color bias that you later try to remove in post.  With a debayered RGB recording, you have to work in post with the colors you see in the recording."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+    "scraped_at": "2026-01-15T15:46:20.709667+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5844d657a3c37e8f8acfc0f6b2297bc88abde29b9fb6c13a4ebed3f0f11ce5ab",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "216692",
+    "forum_slug": "forum",
+    "topic_slug": "gregory-heisler"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "CarlZand",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Now, I would really love for James and Roger to have a chat with one of the best portrait photographers I admire. The down to earth Gregory Heisler. Please, consider this and check out this long video, it´s really worth it. Hope it inspires everyone in here. Cheers.",
+  "content_html": "<p>Now, I would really love for James and Roger to have a chat with one of the best portrait photographers I admire. The down to earth Gregory Heisler. Please, consider this and check out this long video, it´s really worth it. Hope it inspires everyone in here. Cheers.</p>\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"381\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/ExvRe9XAPy0?feature=oembed\" title=\"Gregory Heisler - Lecture And Lighting Demo - UPAA 2024 Symposium\" width=\"678\"></iframe></p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Now, I would really love for James and Roger to have a chat with one of the best portrait photographers I admire. The down to earth Gregory Heisler. Please, consider this and check out this long video, it´s really worth it. Hope it inspires everyone in here. Cheers."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/gregory-heisler/",
+    "scraped_at": "2026-01-15T15:23:21.775775+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/gregory-heisler/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "89bc27763ef3dc2c06071faafcb8dc6a4662a4a3ca148427fc89d6302ea27fbb",
+    "parser_version": "bbpress-v2"
+  }
+}

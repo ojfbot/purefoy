@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214779",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 19
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There is no right or wrong approach. Sometimes you want a color cast or to see a color temperature difference, sometimes you don’t, sometimes you just want to adjust the degree of difference while keeping it. Sometimes you want orange or blue light on faces. I only mention 1/2 CTO gel on windows as a technique some cinematographers use to partially correct daylight towards tungsten rather than completely correct it by using Full CTO or 85 gel. There is no right or wrong approach!",
+  "content_html": "<p>There is no right or wrong approach. Sometimes you want a color cast or to see a color temperature difference, sometimes you don’t, sometimes you just want to adjust the degree of difference while keeping it. Sometimes you want orange or blue light on faces. I only mention 1/2 CTO gel on windows as a technique some cinematographers use to partially correct daylight towards tungsten rather than completely correct it by using Full CTO or 85 gel. There is no right or wrong approach!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There is no right or wrong approach. Sometimes you want a color cast or to see a color temperature difference, sometimes you don’t, sometimes you just want to adjust the degree of difference while keeping it. Sometimes you want orange or blue light on faces. I only mention 1/2 CTO gel on windows as a technique some cinematographers use to partially correct daylight towards tungsten rather than completely correct it by using Full CTO or 85 gel. There is no right or wrong approach!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+    "scraped_at": "2026-01-15T15:51:27.814367+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "67612d30f0eaae16bcb83c418cd151cc221531e08b4362f9341718e01ea6251b",
+    "parser_version": "bbpress-v2"
+  }
+}

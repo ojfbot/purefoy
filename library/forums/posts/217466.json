@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "post_id": "217466",
+    "forum_slug": "team-deakins/team-deakins-podcast",
+    "topic_slug": "post-with-ed-lachman-mar-12-2025"
+  },
+  "author": {
+    "display_name": "#217466",
+    "role": "Max A."
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Participant\nFantastic discussion between two giants of Cinematography. In my dreams, I would like to talk every day for 24 hours with people like you who have so many things to share and learn from.\nIt was really interesting the comparison that Mr. Lachman made about the differences of color contamination between Analog and Digital.\nI wish you a peaceful day.❤\nMax.",
+  "content_html": "<div class=\"bbp-reply-header\" id=\"post-217466\">\n<div class=\"bbp-meta\">\n<span class=\"bbp-reply-post-date\">March 21, 2025 at 7:49 am</span>\n<a class=\"bbp-reply-permalink\" href=\"https://www.rogerdeakins.com/forums/topic/post-with-ed-lachman-mar-12-2025/#post-217466\">#217466</a>\n<span class=\"bbp-admin-links\"></span>\n</div><!-- .bbp-meta -->\n</div> #post-217466 \n<div class=\"loop-item-0 user-id-35329 bbp-parent-forum-169247 bbp-parent-topic-217460 bbp-reply-position-1 odd post-217466 reply type-reply status-publish hentry\">\n<div class=\"bbp-reply-author\">\n<a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/maxaccarino/\" title=\"View Max A.'s profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-80 photo\" decoding=\"async\" height=\"80\" loading=\"lazy\" src=\"https://secure.gravatar.com/avatar/cb38944ec92f88ba27577c97cc2222ce?s=80&amp;d=retro&amp;r=g\" srcset=\"https://secure.gravatar.com/avatar/cb38944ec92f88ba27577c97cc2222ce?s=160&amp;d=retro&amp;r=g 2x\" width=\"80\"/></span><span class=\"bbp-author-name\">Max A.</span></a><div class=\"bbp-author-role\"><div class=\"\">Participant</div></div>\n<div class=\"tc_display\"><ul></ul></div>\n</div><!-- .bbp-reply-author -->\n<div class=\"bbp-reply-content\">\n<p>Fantastic discussion between two giants of Cinematography. In my dreams, I would like to talk every day for 24 hours with people like you who have so many things to share and learn from.</p>\n<p>It was really interesting the comparison that Mr. Lachman made about the differences of color contamination between Analog and Digital.</p>\n<p>I wish you a peaceful day.❤</p>\n<p>Max.</p>\n</div><!-- .bbp-reply-content -->\n</div> .reply",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Fantastic discussion between two giants of Cinematography. In my dreams, I would like to talk every day for 24 hours with people like you who have so many things to share and learn from."
+    },
+    {
+      "type": "paragraph",
+      "text": "It was really interesting the comparison that Mr. Lachman made about the differences of color contamination between Analog and Digital."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful day.❤"
+    },
+    {
+      "type": "paragraph",
+      "text": "Max."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/post-with-ed-lachman-mar-12-2025/#post-217466",
+      "text": "#217466",
+      "kind": "external"
+    },
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/maxaccarino/",
+      "text": "Max A.",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://secure.gravatar.com/avatar/cb38944ec92f88ba27577c97cc2222ce?s=80&d=retro&r=g",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/post-with-ed-lachman-mar-12-2025/#post-217466",
+    "scraped_at": "2026-01-15T09:42:55.202637+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/post-with-ed-lachman-mar-12-2025/#post-217466",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1cc91695a65e30066c56f9a752958bea98eed3d6f0feb4762e3688018566e9f3",
+    "parser_version": "bbpress-v1"
+  }
+}

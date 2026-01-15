@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215148",
+    "forum_slug": "forum",
+    "topic_slug": "1917-flare-scene-capturing-isolation",
+    "parent_post_id": "215116",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The flares were real and our effects supervisor had them specially made to last exactly 26 seconds, which was the length of time it took them to cross the frame. They were mounted on wires and computer controlled. We could have just shot them into the air but the results  would have been quite random given the wind and other variables, so we opted for control and a wire rig. The set was designed from a model and we used small LED bulbs as stand ins for the flares. From that we could see how the shadows would play out on the full size set.\nIsolation? Close shots with a shallow depth of field could work very well. You could take a look at ‘Come and See’ to get a sense of how that might work.",
+  "content_html": "<p>The flares were real and our effects supervisor had them specially made to last exactly 26 seconds, which was the length of time it took them to cross the frame. They were mounted on wires and computer controlled. We could have just shot them into the air but the results  would have been quite random given the wind and other variables, so we opted for control and a wire rig. The set was designed from a model and we used small LED bulbs as stand ins for the flares. From that we could see how the shadows would play out on the full size set.</p>\n<p>Isolation? Close shots with a shallow depth of field could work very well. You could take a look at ‘Come and See’ to get a sense of how that might work.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The flares were real and our effects supervisor had them specially made to last exactly 26 seconds, which was the length of time it took them to cross the frame. They were mounted on wires and computer controlled. We could have just shot them into the air but the results  would have been quite random given the wind and other variables, so we opted for control and a wire rig. The set was designed from a model and we used small LED bulbs as stand ins for the flares. From that we could see how the shadows would play out on the full size set."
+    },
+    {
+      "type": "paragraph",
+      "text": "Isolation? Close shots with a shallow depth of field could work very well. You could take a look at ‘Come and See’ to get a sense of how that might work."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/1917-flare-scene-capturing-isolation/#post-215150",
+    "scraped_at": "2026-01-15T15:48:56.740521+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/1917-flare-scene-capturing-isolation/#post-215150",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1c9577fb743dc0ebad6ab540ee8e0ca1fb6623c7b828a7cb3ea39176d63bc38d",
+    "parser_version": "bbpress-v2"
+  }
+}

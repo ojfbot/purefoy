@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216548",
+    "forum_slug": "film-talk",
+    "topic_slug": "recent-movie-recommendations",
+    "parent_post_id": "216401",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks Roger!\nI loved The Witch too, i think it creates a deeply disturbing and uneasy feeling (i think in this its colors and in general the cinematography play a great role) without using the traditional tricks of many horror movies that use the story just an excuse for a collection of jump scares. A24 is creating a sort of revolution in the horror genre and I think Robert Eggers is the most talentend of the directors working with them. I read he loved the original Nosferatu so much that he considered almost disgusting the idea of doing a remake of such an ageless masterpiece, but i think he’s the perfect director for it.\nWell, let’s hope you’ll find a great horror story to tell, sooner or later, 20 years after The Village (a movie i loved, by the way, it has one of the most beautiful scenes i’ve ever seen – the one in which Joaquim Phoenix takes Bryce Dallas Howard’s hand and they run in slow motion, with the final part of the scene that seems almost a Caravaggio painting) the world needs and deserves another scary Deakins movie!",
+  "content_html": "<p>Thanks Roger!</p>\n<p>I loved The Witch too, i think it creates a deeply disturbing and uneasy feeling (i think in this its colors and in general the cinematography play a great role) without using the traditional tricks of many horror movies that use the story just an excuse for a collection of jump scares. A24 is creating a sort of revolution in the horror genre and I think Robert Eggers is the most talentend of the directors working with them. I read he loved the original Nosferatu so much that he considered almost disgusting the idea of doing a remake of such an ageless masterpiece, but i think he’s the perfect director for it.</p>\n<p>Well, let’s hope you’ll find a great horror story to tell, sooner or later, 20 years after The Village (a movie i loved, by the way, it has one of the most beautiful scenes i’ve ever seen – the one in which Joaquim Phoenix takes Bryce Dallas Howard’s hand and they run in slow motion, with the final part of the scene that seems almost a Caravaggio painting) the world needs and deserves another scary Deakins movie!</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks Roger!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I loved The Witch too, i think it creates a deeply disturbing and uneasy feeling (i think in this its colors and in general the cinematography play a great role) without using the traditional tricks of many horror movies that use the story just an excuse for a collection of jump scares. A24 is creating a sort of revolution in the horror genre and I think Robert Eggers is the most talentend of the directors working with them. I read he loved the original Nosferatu so much that he considered almost disgusting the idea of doing a remake of such an ageless masterpiece, but i think he’s the perfect director for it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Well, let’s hope you’ll find a great horror story to tell, sooner or later, 20 years after The Village (a movie i loved, by the way, it has one of the most beautiful scenes i’ve ever seen – the one in which Joaquim Phoenix takes Bryce Dallas Howard’s hand and they run in slow motion, with the final part of the scene that seems almost a Caravaggio painting) the world needs and deserves another scary Deakins movie!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recent-movie-recommendations/#post-216556",
+    "scraped_at": "2026-01-15T12:42:27.962936+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recent-movie-recommendations/#post-216556",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2b019ec6e562b66087a0b562fa293a7188cddd2915315ea8e7373df95600032a",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214793",
+    "forum_slug": "forum",
+    "topic_slug": "sicario-hitman-scene",
+    "parent_post_id": "214790",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There was an additional tube on a stand to augment the cold kitchen light and I suspect I had a small Fresnel lamp adding to the warm light on the ceiling. It doesn’t look as if the hanging lamp would make that ‘pool’ of warm light behind the silhouette. This was a set and the practicals were set with all the scenes in mind but there is often a shot that needs a ‘tweak’.",
+  "content_html": "<p>There was an additional tube on a stand to augment the cold kitchen light and I suspect I had a small Fresnel lamp adding to the warm light on the ceiling. It doesn’t look as if the hanging lamp would make that ‘pool’ of warm light behind the silhouette. This was a set and the practicals were set with all the scenes in mind but there is often a shot that needs a ‘tweak’.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There was an additional tube on a stand to augment the cold kitchen light and I suspect I had a small Fresnel lamp adding to the warm light on the ceiling. It doesn’t look as if the hanging lamp would make that ‘pool’ of warm light behind the silhouette. This was a set and the practicals were set with all the scenes in mind but there is often a shot that needs a ‘tweak’."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario-hitman-scene/#post-214796",
+    "scraped_at": "2026-01-15T15:51:36.634609+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-hitman-scene/#post-214796",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b8ea83cdbbc9bfa518d7192065f0b807e45c756b433812ae6563b504c90b974e",
+    "parser_version": "bbpress-v2"
+  }
+}

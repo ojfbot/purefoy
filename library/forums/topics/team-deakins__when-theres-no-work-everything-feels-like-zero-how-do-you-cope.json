@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/when-theres-no-work-everything-feels-like-zero-how-do-you-cope/#post-220751",
+  "forum_slug": "team-deakins",
+  "topic_slug": "when-theres-no-work-everything-feels-like-zero-how-do-you-cope",
+  "title": "When There’s No Work, Everything Feels Like Zero—How Do You Cope?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220708",
+    "220709",
+    "220749",
+    "220750",
+    "220751"
+  ],
+  "reply_tree": {
+    "post_id": "220708",
+    "post_type": "topic",
+    "author": "Harsh_3cine",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "220709",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220749",
+        "post_type": "reply",
+        "author": "Gregg",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220750",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220751",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/when-theres-no-work-everything-feels-like-zero-how-do-you-cope/#post-220751",
+    "scraped_at": "2026-01-15T11:50:52.726737+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/when-theres-no-work-everything-feels-like-zero-how-do-you-cope/#post-220751",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ad7682c35f7689f69dd60d3aab03bf8f6d7a135890bcaf6b7997e49faf964883",
+    "parser_version": "bbpress-v2"
+  }
+}

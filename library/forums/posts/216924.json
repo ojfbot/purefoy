@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216924",
+    "forum_slug": "camera",
+    "topic_slug": "false-color-and-lut-workflow",
+    "parent_post_id": "216887",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Matt Stahley",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I  expose by eye but pull up the waveform to just see where everything is sitting. Im colorblind so fall color is pointless to me. to many hues look similar. zebras would be even faster and no need to switch to a false color lut especially if all your doing is checking skin and highlights. Most cameras allow you to set two sets for whatever IRE you need.",
+  "content_html": "<p>I  expose by eye but pull up the waveform to just see where everything is sitting. Im colorblind so fall color is pointless to me. to many hues look similar. zebras would be even faster and no need to switch to a false color lut especially if all your doing is checking skin and highlights. Most cameras allow you to set two sets for whatever IRE you need.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I  expose by eye but pull up the waveform to just see where everything is sitting. Im colorblind so fall color is pointless to me. to many hues look similar. zebras would be even faster and no need to switch to a false color lut especially if all your doing is checking skin and highlights. Most cameras allow you to set two sets for whatever IRE you need."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/",
+    "scraped_at": "2026-01-15T13:16:24.780831+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "56c86d72ee04f4f7458a62dbbff2065e63a600edc96009b6f634539b5b878eaf",
+    "parser_version": "bbpress-v2"
+  }
+}

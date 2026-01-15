@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/what-fulfils-you-to-continue-your-art-in-the-age-of-algorithms/#post-218427",
+  "forum_slug": "team-deakins",
+  "topic_slug": "what-fulfils-you-to-continue-your-art-in-the-age-of-algorithms",
+  "title": "What fulfils you to continue your art in the age of algorithms?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216923",
+    "218118",
+    "218427"
+  ],
+  "reply_tree": {
+    "post_id": "216923",
+    "post_type": "topic",
+    "author": "Timur",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "218118",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218427",
+        "post_type": "reply",
+        "author": "Timur",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-fulfils-you-to-continue-your-art-in-the-age-of-algorithms/#post-218427",
+    "scraped_at": "2026-01-15T12:42:26.929679+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-fulfils-you-to-continue-your-art-in-the-age-of-algorithms/#post-218427",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4f10a748daa944fee6714ec11993ae0bc8395cbf83fed7a18f08ec40af9deea4",
+    "parser_version": "bbpress-v2"
+  }
+}

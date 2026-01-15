@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/dick-pope/#post-216434",
+  "forum_slug": "film-talk",
+  "topic_slug": "dick-pope",
+  "title": "Dick Pope",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216430",
+    "216434"
+  ],
+  "reply_tree": {
+    "post_id": "216430",
+    "post_type": "topic",
+    "author": "Quadra",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216434",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dick-pope/#post-216434",
+    "scraped_at": "2026-01-15T12:48:58.536308+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dick-pope/#post-216434",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "55198f7f77aa43601d71c879b4aa930a974023493efc0b84ff935c9e4bed29d0",
+    "parser_version": "bbpress-v2"
+  }
+}

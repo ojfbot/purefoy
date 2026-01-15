@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "220563",
+    "forum_slug": "forum",
+    "topic_slug": "questions-reg-true-grit-greaser-bobs-lighting-breakdown",
+    "parent_post_id": "220562",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The numbers of lamps and the distance towards the subject were calculated to minimize the multiple shadow issue. If you looked at the light on your hand you could see every shadow but when there is movement etc. that is not noticeable in the frame.\nThe doubles, singles etc. referred to scrims, or wires, that act as an ND in front of a lamp and which I used to reduce the light at the ends of each row. The middle of the row was always at full intensity and slightly spotted in. The outsides were slightly more flooded out and contained progressively more dense wires. I felt this technique softened the shadows, while the length of the rows ‘wrapped’ the light around the subject.\nMost of the close shots of Mattie were lit using a bounce source closer in. The lights set for the main action would not have reached her as we shot her at a different spot which was easier to access. Some close shots were made later in a studio.",
+  "content_html": "<p>The numbers of lamps and the distance towards the subject were calculated to minimize the multiple shadow issue. If you looked at the light on your hand you could see every shadow but when there is movement etc. that is not noticeable in the frame.</p>\n<p>The doubles, singles etc. referred to scrims, or wires, that act as an ND in front of a lamp and which I used to reduce the light at the ends of each row. The middle of the row was always at full intensity and slightly spotted in. The outsides were slightly more flooded out and contained progressively more dense wires. I felt this technique softened the shadows, while the length of the rows ‘wrapped’ the light around the subject.</p>\n<p>Most of the close shots of Mattie were lit using a bounce source closer in. The lights set for the main action would not have reached her as we shot her at a different spot which was easier to access. Some close shots were made later in a studio.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The numbers of lamps and the distance towards the subject were calculated to minimize the multiple shadow issue. If you looked at the light on your hand you could see every shadow but when there is movement etc. that is not noticeable in the frame."
+    },
+    {
+      "type": "paragraph",
+      "text": "The doubles, singles etc. referred to scrims, or wires, that act as an ND in front of a lamp and which I used to reduce the light at the ends of each row. The middle of the row was always at full intensity and slightly spotted in. The outsides were slightly more flooded out and contained progressively more dense wires. I felt this technique softened the shadows, while the length of the rows ‘wrapped’ the light around the subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "Most of the close shots of Mattie were lit using a bounce source closer in. The lights set for the main action would not have reached her as we shot her at a different spot which was easier to access. Some close shots were made later in a studio."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/questions-reg-true-grit-greaser-bobs-lighting-breakdown/#post-220566",
+    "scraped_at": "2026-01-15T13:23:29.850471+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/questions-reg-true-grit-greaser-bobs-lighting-breakdown/#post-220566",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d8e25f3bd2a051dc16f5db414c04b41d063e5ecf68fb98ab0cdbc512a60f4888",
+    "parser_version": "bbpress-v2"
+  }
+}

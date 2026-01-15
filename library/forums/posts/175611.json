@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "175611",
+    "forum_slug": "website-news",
+    "topic_slug": "recovering-the-old-forums-need-help",
+    "parent_post_id": "174482",
+    "parent_type": "topic",
+    "position": 13
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m not sure what made anyone believe that James and Roger lost interest in the site. They literally run it for us, not for them. Not a single ad. They answer every question.\nThis site to me has and always will be one of the very few, precious bastions in a shallow but screaming online world. Even after years I’m still in disbelief that these two industry giants engage with me at eye level, so…\nThank you James and Roger!",
+  "content_html": "<p>I’m not sure what made anyone believe that James and Roger lost interest in the site. They literally run it for us, not for them. Not a single ad. They answer every question.</p>\n<p>This site to me has and always will be one of the very few, precious bastions in a shallow but screaming online world. Even after years I’m still in disbelief that these two industry giants engage with me at eye level, so…</p>\n<p><strong>Thank you James and Roger!</strong></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m not sure what made anyone believe that James and Roger lost interest in the site. They literally run it for us, not for them. Not a single ad. They answer every question."
+    },
+    {
+      "type": "paragraph",
+      "text": "This site to me has and always will be one of the very few, precious bastions in a shallow but screaming online world. Even after years I’m still in disbelief that these two industry giants engage with me at eye level, so…"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you James and Roger!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/",
+    "scraped_at": "2026-01-15T12:42:24.679289+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f14eafbff1c3798526d27d54ed8a7731a714ed42ead2121638b5b79b3ce96eed",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "post_id": "220484",
+    "forum_slug": "post",
+    "topic_slug": "about-show-luts-and-daily-timing",
+    "parent_post_id": "220470",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "So my doubt is that if it’s a common practice to use both a “pre” and a “post” LUT, or if the latter is just an unprofessional quick turnaround.\nI think calling it “pre” and “post” LUT might be confusing as ideally they should\nnot\nbe two different ones. Rather think of it as “customised” versus “non-customised” LUTs.\n“Show LUT” is basically just a word that is commonly used by colorists for a\ncustom look\nthat is then saved as a Look Up Table (LUT), so that it can be used in-camera while shooting.\nCamera tests are being made to check if the LUT introduces unwanted artefacts under various circumstances, to assess if it looks and feels right or e.g. to make wardrobe decisions, as their appearance can change due to hue shifts and saturation changes.\nAs David pointed out, the “Show LUT” (custom LUT) itself then can be used in post\nor\nact as a reference while grading is done from scratch. There is no right or wrong here. If I remember correctly the LUT for “The Joker” was used in post as it was crafted very well and acted rock-solid (Jill and Mitch Bogdanowicz). Another famous  “Show LUT” (custom LUT) example is Roger’s own, which I believe he shot every movie since 2011 under and gave the “look” to all of them.\nThe point of an in-camera Show LUT is that decisions on set translate well to the final look (of course you will still use your eyes and meters on set, not just the monitor). You don’t have to create a custom LUT for that, you could use any LUT you like – just decide on the look\nbefore\nshooting and don’t fundamentally change it in post – that’s the whole trick.\nWhich is probably what you meant with “pre” and “post” LUT: to use e.g. a standard Rec.709 camera conversion LUT while shooting but then apply some Look LUT in post. This can still work but it’s less ideal in my opinion.",
+  "content_html": "<blockquote><p>So my doubt is that if it’s a common practice to use both a “pre” and a “post” LUT, or if the latter is just an unprofessional quick turnaround.</p></blockquote>\n<p>I think calling it “pre” and “post” LUT might be confusing as ideally they should <em>not</em> be two different ones. Rather think of it as “customised” versus “non-customised” LUTs.</p>\n<p>“Show LUT” is basically just a word that is commonly used by colorists for a<em> custom look</em> that is then saved as a Look Up Table (LUT), so that it can be used in-camera while shooting.</p>\n<p>Camera tests are being made to check if the LUT introduces unwanted artefacts under various circumstances, to assess if it looks and feels right or e.g. to make wardrobe decisions, as their appearance can change due to hue shifts and saturation changes.</p>\n<p>As David pointed out, the “Show LUT” (custom LUT) itself then can be used in post <em>or</em> act as a reference while grading is done from scratch. There is no right or wrong here. If I remember correctly the LUT for “The Joker” was used in post as it was crafted very well and acted rock-solid (Jill and Mitch Bogdanowicz). Another famous  “Show LUT” (custom LUT) example is Roger’s own, which I believe he shot every movie since 2011 under and gave the “look” to all of them.</p>\n<p>The point of an in-camera Show LUT is that decisions on set translate well to the final look (of course you will still use your eyes and meters on set, not just the monitor). You don’t have to create a custom LUT for that, you could use any LUT you like – just decide on the look <em>before</em> shooting and don’t fundamentally change it in post – that’s the whole trick.</p>\n<p>Which is probably what you meant with “pre” and “post” LUT: to use e.g. a standard Rec.709 camera conversion LUT while shooting but then apply some Look LUT in post. This can still work but it’s less ideal in my opinion.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "So my doubt is that if it’s a common practice to use both a “pre” and a “post” LUT, or if the latter is just an unprofessional quick turnaround."
+    },
+    {
+      "type": "paragraph",
+      "text": "So my doubt is that if it’s a common practice to use both a “pre” and a “post” LUT, or if the latter is just an unprofessional quick turnaround."
+    },
+    {
+      "type": "paragraph",
+      "text": "I think calling it “pre” and “post” LUT might be confusing as ideally they should\nnot\nbe two different ones. Rather think of it as “customised” versus “non-customised” LUTs."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Show LUT” is basically just a word that is commonly used by colorists for a\ncustom look\nthat is then saved as a Look Up Table (LUT), so that it can be used in-camera while shooting."
+    },
+    {
+      "type": "paragraph",
+      "text": "Camera tests are being made to check if the LUT introduces unwanted artefacts under various circumstances, to assess if it looks and feels right or e.g. to make wardrobe decisions, as their appearance can change due to hue shifts and saturation changes."
+    },
+    {
+      "type": "paragraph",
+      "text": "As David pointed out, the “Show LUT” (custom LUT) itself then can be used in post\nor\nact as a reference while grading is done from scratch. There is no right or wrong here. If I remember correctly the LUT for “The Joker” was used in post as it was crafted very well and acted rock-solid (Jill and Mitch Bogdanowicz). Another famous  “Show LUT” (custom LUT) example is Roger’s own, which I believe he shot every movie since 2011 under and gave the “look” to all of them."
+    },
+    {
+      "type": "paragraph",
+      "text": "The point of an in-camera Show LUT is that decisions on set translate well to the final look (of course you will still use your eyes and meters on set, not just the monitor). You don’t have to create a custom LUT for that, you could use any LUT you like – just decide on the look\nbefore\nshooting and don’t fundamentally change it in post – that’s the whole trick."
+    },
+    {
+      "type": "paragraph",
+      "text": "Which is probably what you meant with “pre” and “post” LUT: to use e.g. a standard Rec.709 camera conversion LUT while shooting but then apply some Look LUT in post. This can still work but it’s less ideal in my opinion."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "So my doubt is that if it’s a common practice to use both a “pre” and a “post” LUT, or if the latter is just an unprofessional quick turnaround."
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-show-luts-and-daily-timing/#post-220503",
+    "scraped_at": "2026-01-15T13:23:44.326547+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-show-luts-and-daily-timing/#post-220503",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "188ceb1de8aab8f3f06e0882989be86a87d78ae1062205857d25b4387a1ebcce",
+    "parser_version": "bbpress-v2"
+  }
+}

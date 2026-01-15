@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "182886",
+    "forum_slug": "camera",
+    "topic_slug": "without-limits-focal-length"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger i have seen ‘without Limits’ movie. Shot by Conrad hall. He used more long focal length lenses for this movie. I want to ask you If you had shot that movie, would you have used a long lens? You are not great fan of long lenses. Right? If story demand would you use zoom lenses!",
+  "content_html": "<p>Dear master Roger i have seen ‘without Limits’ movie. Shot by Conrad hall. He used more long focal length lenses for this movie. I want to ask you If you had shot that movie, would you have used a long lens? You are not great fan of long lenses. Right? If story demand would you use zoom lenses!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger i have seen ‘without Limits’ movie. Shot by Conrad hall. He used more long focal length lenses for this movie. I want to ask you If you had shot that movie, would you have used a long lens? You are not great fan of long lenses. Right? If story demand would you use zoom lenses!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/without-limits-focal-length/#post-183564",
+    "scraped_at": "2026-01-15T15:43:58.817375+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/without-limits-focal-length/#post-183564",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2e49cf48f3a896fb1acafe98c5d193f6ba4033150ab13ff204ef56712ad05df4",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "ids": {
+    "post_id": "220051",
+    "forum_slug": "website-news",
+    "topic_slug": "podcasts-have-dissapeared"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Mr DM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I am a late joiner and listener to the fantastic world of the Team Deakins podcast. Started 8 months ago and am about 110+ episodes in starting from the very first episode. Have been using the Podcast app that comes standard on iphones, half way listening to the John Toll episode, took a break, only to return to the app having only episodes from 2023 available.\nAll previous episodes are gone.\nFavorited episodes are gone.\nAll listening history is gone.\nHave gone to check on my desktop (\nhttps://podcasts.apple.com/us/podcast/team-deakins/id1510638084\n), same thing. Everything prior to August 2023 is gone.\nAnyone else seeing this? I registered just to find out if I’m missing something here?\nSuper bummed about it (I know I can dip into the archives on here, but losing my listening history feels a little devastating).",
+  "content_html": "<p>I am a late joiner and listener to the fantastic world of the Team Deakins podcast. Started 8 months ago and am about 110+ episodes in starting from the very first episode. Have been using the Podcast app that comes standard on iphones, half way listening to the John Toll episode, took a break, only to return to the app having only episodes from 2023 available.</p>\n<p>All previous episodes are gone.<br/>\nFavorited episodes are gone.<br/>\nAll listening history is gone.</p>\n<p>Have gone to check on my desktop (<a href=\"https://podcasts.apple.com/us/podcast/team-deakins/id1510638084\" rel=\"nofollow\">https://podcasts.apple.com/us/podcast/team-deakins/id1510638084</a>), same thing. Everything prior to August 2023 is gone.</p>\n<p>Anyone else seeing this? I registered just to find out if I’m missing something here?<br/>\nSuper bummed about it (I know I can dip into the archives on here, but losing my listening history feels a little devastating).</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I am a late joiner and listener to the fantastic world of the Team Deakins podcast. Started 8 months ago and am about 110+ episodes in starting from the very first episode. Have been using the Podcast app that comes standard on iphones, half way listening to the John Toll episode, took a break, only to return to the app having only episodes from 2023 available."
+    },
+    {
+      "type": "paragraph",
+      "text": "All previous episodes are gone.\nFavorited episodes are gone.\nAll listening history is gone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Have gone to check on my desktop (\nhttps://podcasts.apple.com/us/podcast/team-deakins/id1510638084\n), same thing. Everything prior to August 2023 is gone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Anyone else seeing this? I registered just to find out if I’m missing something here?\nSuper bummed about it (I know I can dip into the archives on here, but losing my listening history feels a little devastating)."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://podcasts.apple.com/us/podcast/team-deakins/id1510638084",
+      "text": "https://podcasts.apple.com/us/podcast/team-deakins/id1510638084",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/podcasts-have-dissapeared/#post-220064",
+    "scraped_at": "2026-01-15T11:50:33.103700+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/podcasts-have-dissapeared/#post-220064",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "af7123c3a0f04c1c3dbb1e8b74c6e2ec9967e005167da310afb0e7ad82ad1425",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216152",
+    "forum_slug": "camera",
+    "topic_slug": "handheld-movies",
+    "parent_post_id": "216147",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’ve the impression that besides looking at good examples of something , a good way to be on the right track is looking at bad examples of that, not only about handheld movies, i mean in general in life. Find handheld scenes that don’t work and find where the problems are.\nA movie I watched a couple of days ago – a movie with famous actors in its cast, so not some kind of indie production made by unexperienced beginners –  was almost entirely handheld (I suspect to create some kind of realistic effect and immersive effect on the audience), but it was so horribly shot that it was both a painful experience but also an useful one: as long as i will do the complete opposite of whatever they did i could obtain a decent work even with my very limited knowledge.",
+  "content_html": "<p>I’ve the impression that besides looking at good examples of something , a good way to be on the right track is looking at bad examples of that, not only about handheld movies, i mean in general in life. Find handheld scenes that don’t work and find where the problems are.</p>\n<p>A movie I watched a couple of days ago – a movie with famous actors in its cast, so not some kind of indie production made by unexperienced beginners –  was almost entirely handheld (I suspect to create some kind of realistic effect and immersive effect on the audience), but it was so horribly shot that it was both a painful experience but also an useful one: as long as i will do the complete opposite of whatever they did i could obtain a decent work even with my very limited knowledge.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’ve the impression that besides looking at good examples of something , a good way to be on the right track is looking at bad examples of that, not only about handheld movies, i mean in general in life. Find handheld scenes that don’t work and find where the problems are."
+    },
+    {
+      "type": "paragraph",
+      "text": "A movie I watched a couple of days ago – a movie with famous actors in its cast, so not some kind of indie production made by unexperienced beginners –  was almost entirely handheld (I suspect to create some kind of realistic effect and immersive effect on the audience), but it was so horribly shot that it was both a painful experience but also an useful one: as long as i will do the complete opposite of whatever they did i could obtain a decent work even with my very limited knowledge."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/handheld-movies/#post-216169",
+    "scraped_at": "2026-01-15T14:50:59.132691+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/handheld-movies/#post-216169",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "000864ae0f5339cb8bf12ded00bd7530dbe5d8042dfaf25c672e11bc7d570131",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/still-photography-influence/#post-215660",
+  "forum_slug": "camera",
+  "topic_slug": "still-photography-influence",
+  "title": "Still Photography Influence",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215654",
+    "215660"
+  ],
+  "reply_tree": {
+    "post_id": "215654",
+    "post_type": "topic",
+    "author": "DuncanM",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215660",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/still-photography-influence/#post-215660",
+    "scraped_at": "2026-01-15T15:21:21.053689+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/still-photography-influence/#post-215660",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f854ea503e1b7c932cf33c893f3f8792ca33177d2a5a9dc0fee58273de5248f9",
+    "parser_version": "bbpress-v2"
+  }
+}

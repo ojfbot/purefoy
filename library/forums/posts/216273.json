@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216273",
+    "forum_slug": "forum",
+    "topic_slug": "what-are-gag-lights-and-why-use-them",
+    "parent_post_id": "216250",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks for the explanation Roger, you have been very kind!",
+  "content_html": "<p>Thanks for the explanation Roger, you have been very kind!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks for the explanation Roger, you have been very kind!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-are-gag-lights-and-why-use-them/#post-216273",
+    "scraped_at": "2026-01-15T15:25:34.787892+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-are-gag-lights-and-why-use-them/#post-216273",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3e054c6aea642d295476da8277fbbdda21f18bdbbd8684c42220c89ca9fbe5da",
+    "parser_version": "bbpress-v2"
+  }
+}

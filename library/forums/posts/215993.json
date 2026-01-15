@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "215993",
+    "forum_slug": "still-photography",
+    "topic_slug": "leica-lenses"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Dmitriy.Nedria",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey Mr. Roger,\nI’m also a massive fan of your photography and cinematography. As a photographer and cinematographer, I know you use Leica cameras. I can see that your favourite focal lengths are 35mm and 28mm. I’m just wondering, what’s your favourite Leica lens? Is it the Summicron, Summilux, or another model? Do you prefer aspherical lenses? I’d love to hear about your taste in Leica lenses.\nThanks for your reply!\nBest regards,\nDmytro",
+  "content_html": "<p>Hey Mr. Roger,</p>\n<p>I’m also a massive fan of your photography and cinematography. As a photographer and cinematographer, I know you use Leica cameras. I can see that your favourite focal lengths are 35mm and 28mm. I’m just wondering, what’s your favourite Leica lens? Is it the Summicron, Summilux, or another model? Do you prefer aspherical lenses? I’d love to hear about your taste in Leica lenses.</p>\n<p>Thanks for your reply!</p>\n<p>Best regards,<br/>\nDmytro</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey Mr. Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m also a massive fan of your photography and cinematography. As a photographer and cinematographer, I know you use Leica cameras. I can see that your favourite focal lengths are 35mm and 28mm. I’m just wondering, what’s your favourite Leica lens? Is it the Summicron, Summilux, or another model? Do you prefer aspherical lenses? I’d love to hear about your taste in Leica lenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks for your reply!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Best regards,\nDmytro"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/leica-lenses/#post-216011",
+    "scraped_at": "2026-01-15T12:09:21.213768+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/leica-lenses/#post-216011",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9981fcb393eeba1aae0eeff3e1d7a3b5b92410d301a5844f292956b33921e352",
+    "parser_version": "bbpress-v2"
+  }
+}

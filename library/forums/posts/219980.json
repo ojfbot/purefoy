@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "219980",
+    "forum_slug": "forum",
+    "topic_slug": "4300k-location-with-daylight-or-tungsten-key",
+    "parent_post_id": "219974",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Excellent insight, thanks for the response David!",
+  "content_html": "<p>Excellent insight, thanks for the response David!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Excellent insight, thanks for the response David!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/4300k-location-with-daylight-or-tungsten-key/#post-219980",
+    "scraped_at": "2026-01-15T14:13:33.397748+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/4300k-location-with-daylight-or-tungsten-key/#post-219980",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "40e702715e991965aaab6569942444e1de31c08ea5abf73b27c25ba6b0ad647a",
+    "parser_version": "bbpress-v2"
+  }
+}

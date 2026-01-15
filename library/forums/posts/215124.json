@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "215124",
+    "forum_slug": "forum",
+    "topic_slug": "pushing-light-through-windows",
+    "parent_post_id": "215082",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Sean Buffini",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger Deakins wrote:\nI would not say exposure plays so much of a role as you think.\nWelp, shows how much I know! I didn’t consider you weren’t clipping the windows.",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/pushing-light-through-windows/#post-215105\">Roger Deakins wrote:</a></div>\n<p>I would not say exposure plays so much of a role as you think.</p></blockquote>\n<p>Welp, shows how much I know! I didn’t consider you weren’t clipping the windows.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Roger Deakins wrote:\nI would not say exposure plays so much of a role as you think."
+    },
+    {
+      "type": "paragraph",
+      "text": "I would not say exposure plays so much of a role as you think."
+    },
+    {
+      "type": "paragraph",
+      "text": "Welp, shows how much I know! I didn’t consider you weren’t clipping the windows."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Roger Deakins wrote:\nI would not say exposure plays so much of a role as you think."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/pushing-light-through-windows/#post-215105",
+      "text": "Roger Deakins wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/pushing-light-through-windows/#post-215124",
+    "scraped_at": "2026-01-15T15:49:03.179511+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/pushing-light-through-windows/#post-215124",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "47d6c5733a5791210780e81ec7940c893ef7ac4e28d0a31031a2cda29b39bef9",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220485",
+    "forum_slug": "post",
+    "topic_slug": "about-show-luts-and-daily-timing",
+    "parent_post_id": "220470",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "“Show LUT” = custom look LUT that is used both during shooting and in post (directly or as reference).",
+  "content_html": "<p>“Show LUT” = custom look LUT that is used both during shooting and in post (directly or as reference).</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "“Show LUT” = custom look LUT that is used both during shooting and in post (directly or as reference)."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-show-luts-and-daily-timing/#post-220503",
+    "scraped_at": "2026-01-15T13:23:44.326893+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-show-luts-and-daily-timing/#post-220503",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f8258a65963331e7f526b1e22d599d33cfffbfa082587edd4c727c4ceae798bf",
+    "parser_version": "bbpress-v2"
+  }
+}

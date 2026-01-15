@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216509",
+    "forum_slug": "forum",
+    "topic_slug": "white-balance-warm-tungsten",
+    "parent_post_id": "216221",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "simon m",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger, you mention that ‘No Country For Old Men’ had no color grading in post. I was surprised to read that, as I recall you speaking about the breakthrough role of grading for ‘Oh Brother Where Art Thou’.  Perhaps the technology was not sufficiently advanced at the time of ‘Oh Brother’ to perform a full grade? Would love to know what was the first movie you shot that you brought into the DI?\nThanks so much.",
+  "content_html": "<p>Roger, you mention that ‘No Country For Old Men’ had no color grading in post. I was surprised to read that, as I recall you speaking about the breakthrough role of grading for ‘Oh Brother Where Art Thou’.  Perhaps the technology was not sufficiently advanced at the time of ‘Oh Brother’ to perform a full grade? Would love to know what was the first movie you shot that you brought into the DI?<br/>\nThanks so much.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roger, you mention that ‘No Country For Old Men’ had no color grading in post. I was surprised to read that, as I recall you speaking about the breakthrough role of grading for ‘Oh Brother Where Art Thou’.  Perhaps the technology was not sufficiently advanced at the time of ‘Oh Brother’ to perform a full grade? Would love to know what was the first movie you shot that you brought into the DI?\nThanks so much."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/",
+    "scraped_at": "2026-01-15T15:23:58.133238+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7252048b018150a922b3a6c25fbc999697ab4b5d2f2d778cc75c8ddfa7ef5371",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "216032",
+    "forum_slug": "forum",
+    "topic_slug": "sicario-cg-ultra-photorealistic-cg-and-vfx-work"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "sanghamithran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Master Deakins.\nHope you are doing well and always waiting for your next film.\nI had just seen this CG work reel of sicario on YouTube. If it wasn’t for this video I could have never guessed theses scenes were augmented with CG and VFX like this. Thought all of it was real and practically done.\nCould please Give a detailed insight when you have time into your role as cinematographer and the nature of collaboration with Director,VFX supervisor,ART director and all these magicians of the great team working together in blending all this CG and VFX into this much seamless shots.\nThis work is very invisible and stands very much line with the Roger deakins Philosophy on cinematography.\nThank you always for the inspiration that you and your collaborators are.",
+  "content_html": "<p>Hi Master Deakins.</p>\n<p>Hope you are doing well and always waiting for your next film.</p>\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"381\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/BSFb2F9fcmo?feature=oembed\" title=\"SICARIO | VFX Breakdown by Oblique FX (2015)\" width=\"678\"></iframe></p>\n<p>I had just seen this CG work reel of sicario on YouTube. If it wasn’t for this video I could have never guessed theses scenes were augmented with CG and VFX like this. Thought all of it was real and practically done.</p>\n<p>Could please Give a detailed insight when you have time into your role as cinematographer and the nature of collaboration with Director,VFX supervisor,ART director and all these magicians of the great team working together in blending all this CG and VFX into this much seamless shots.</p>\n<p>This work is very invisible and stands very much line with the Roger deakins Philosophy on cinematography.</p>\n<p> </p>\n<p>Thank you always for the inspiration that you and your collaborators are.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Master Deakins."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope you are doing well and always waiting for your next film."
+    },
+    {
+      "type": "paragraph",
+      "text": "I had just seen this CG work reel of sicario on YouTube. If it wasn’t for this video I could have never guessed theses scenes were augmented with CG and VFX like this. Thought all of it was real and practically done."
+    },
+    {
+      "type": "paragraph",
+      "text": "Could please Give a detailed insight when you have time into your role as cinematographer and the nature of collaboration with Director,VFX supervisor,ART director and all these magicians of the great team working together in blending all this CG and VFX into this much seamless shots."
+    },
+    {
+      "type": "paragraph",
+      "text": "This work is very invisible and stands very much line with the Roger deakins Philosophy on cinematography."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you always for the inspiration that you and your collaborators are."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario-cg-ultra-photorealistic-cg-and-vfx-work/#post-216047",
+    "scraped_at": "2026-01-15T15:42:17.273697+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-cg-ultra-photorealistic-cg-and-vfx-work/#post-216047",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a563ca5d34f7328191e3f47a43224379f4ebc98f313f8449a154691e0ee3a3d4",
+    "parser_version": "bbpress-v2"
+  }
+}

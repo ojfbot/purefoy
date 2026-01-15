@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "212578",
+    "forum_slug": "forum",
+    "topic_slug": "a-reflection-of-our-profession",
+    "parent_post_id": "212302",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Ganesh Venkatesh",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "colors may have psychological effect.\nbut you establish a particular color for particular emotion in the begging of your film.\nthe audience feel the same emotion when they see that color even in the end of the film.\nimage system of your film depends on the story and your vision.\nthe books tells us some great filmmakers told their story in that way with using those techniques and particular colors.",
+  "content_html": "<p>colors may have psychological effect.</p>\n<p>but you establish a particular color for particular emotion in the begging of your film.<br/>\nthe audience feel the same emotion when they see that color even in the end of the film.</p>\n<p>image system of your film depends on the story and your vision. </p>\n<p>the books tells us some great filmmakers told their story in that way with using those techniques and particular colors. </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "colors may have psychological effect."
+    },
+    {
+      "type": "paragraph",
+      "text": "but you establish a particular color for particular emotion in the begging of your film.\nthe audience feel the same emotion when they see that color even in the end of the film."
+    },
+    {
+      "type": "paragraph",
+      "text": "image system of your film depends on the story and your vision."
+    },
+    {
+      "type": "paragraph",
+      "text": "the books tells us some great filmmakers told their story in that way with using those techniques and particular colors."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-reflection-of-our-profession/#post-214700",
+    "scraped_at": "2026-01-15T15:52:00.455549+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-reflection-of-our-profession/#post-214700",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2bfac3372cdf5acf0988632ccde3d2ca5ec5b7cd7d9ab9b8e0b0ed2c800b12e5",
+    "parser_version": "bbpress-v2"
+  }
+}

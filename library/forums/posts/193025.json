@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "193025",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-practical-bare-bulb",
+    "parent_post_id": "190614",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There was just the one bulb and no other light. There was a serious flare but I placed a small square of white tape in the middle of the bulb facing camera and that dealt with the flare. The source was so hot that the tape pretty much disappeared and I took out the rest in the DI.\nThis reply was modified 2 years, 10 months ago by\nRoger Deakins\n.",
+  "content_html": "<p>There was just the one bulb and no other light. There was a serious flare but I placed a small square of white tape in the middle of the bulb facing camera and that dealt with the flare. The source was so hot that the tape pretty much disappeared and I took out the rest in the DI.</p>\n<ul class=\"bbp-reply-revision-log\" id=\"bbp-reply-revision-log-193025\">\n<li class=\"bbp-reply-revision-log-item\" id=\"bbp-reply-revision-log-193025-item-193029\">\n\t\tThis reply was modified 2 years, 10 months ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/roger/\" title=\"View Roger Deakins's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png\" srcset=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-28x28.png 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">Roger Deakins</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There was just the one bulb and no other light. There was a serious flare but I placed a small square of white tape in the middle of the bulb facing camera and that dealt with the flare. The source was so hot that the tape pretty much disappeared and I took out the rest in the DI."
+    },
+    {
+      "type": "list",
+      "text": "This reply was modified 2 years, 10 months ago by\nRoger Deakins\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/roger/",
+      "text": "Roger Deakins",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-practical-bare-bulb/",
+    "scraped_at": "2026-01-15T15:55:03.849316+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-practical-bare-bulb/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3fea88352daf83e4d05a5458adec5ad6d8f1164da215a2e3b4ef15096a147f78",
+    "parser_version": "bbpress-v2"
+  }
+}

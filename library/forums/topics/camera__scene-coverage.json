@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/scene-coverage/#post-214854",
+  "forum_slug": "camera",
+  "topic_slug": "scene-coverage",
+  "title": "Scene coverage",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214835",
+    "214843",
+    "214853",
+    "214854"
+  ],
+  "reply_tree": {
+    "post_id": "214835",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214843",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214853",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214854",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/scene-coverage/#post-214854",
+    "scraped_at": "2026-01-15T15:24:48.822169+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/scene-coverage/#post-214854",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9b63d18cd49d42a5e89f4abc5dc953e1a2c836502fb0a892a72c143c67abecae",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217344",
+    "forum_slug": "composition",
+    "topic_slug": "deciding-width-of-ots-shot",
+    "parent_post_id": "217110",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "tuckertota",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks for the reply! Can you give an example of how context would make you choose wider or tighter? Do you mean context of the story? Or the location?",
+  "content_html": "<p>Thanks for the reply! Can you give an example of how context would make you choose wider or tighter? Do you mean context of the story? Or the location?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks for the reply! Can you give an example of how context would make you choose wider or tighter? Do you mean context of the story? Or the location?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/deciding-width-of-ots-shot/#post-217479",
+    "scraped_at": "2026-01-15T12:25:59.909867+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/deciding-width-of-ots-shot/#post-217479",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "260a05174474118c8a52018cbe6cdee96815ea68a29b8020e5823b8244c31280",
+    "parser_version": "bbpress-v2"
+  }
+}

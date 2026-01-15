@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "215307",
+    "forum_slug": "camera",
+    "topic_slug": "zoom-in-vs-dolly-pushing"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger zoom in technique will bring out the emotions. I have heard John seals interviews. He talks about zoo in technique will bring the emotions. What’s really difference between zoom in vs dolly pushing except perspective changes",
+  "content_html": "<p>Dear master Roger zoom in technique will bring out the emotions. I have heard John seals interviews. He talks about zoo in technique will bring the emotions. What’s really difference between zoom in vs dolly pushing except perspective changes</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger zoom in technique will bring out the emotions. I have heard John seals interviews. He talks about zoo in technique will bring the emotions. What’s really difference between zoom in vs dolly pushing except perspective changes"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+    "scraped_at": "2026-01-15T15:22:12.536881+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "619eeccc3945feed670ab34edb63af943f6d60d05a80e3569c092b471f7d6bbe",
+    "parser_version": "bbpress-v2"
+  }
+}

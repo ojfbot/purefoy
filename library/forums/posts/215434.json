@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215434",
+    "forum_slug": "forum",
+    "topic_slug": "split-tone-look-how-much-to-get-in-camera",
+    "parent_post_id": "215414",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If you have people in the frame, then it’s easiest to shift strong colors that are opposite of the faces, hence why blue screens and green screens are used for VFX. So if a background is pure blue, then it can easily be shifted to blue-green (cyan) or green without affecting foreground faces lit warm. Or if there is only blue in the frame and the faces are pure silhouette like in that frame from “Vertigo”.\nBUT what about the blue light spilling onto the faces, perhaps in the shadow side, so the face has a mix of blue and warmth in that area?  Or any other area in the frame where the blue light is transitioning into the warm light, creating an in-between color?  Even in that scene from “Vertigo” there are other shots where the green light is mixing with warm interior lighting.\nNow just shifting the blue channel towards green isn’t going to look as “clean” overall compared to if you had just lit with cyan light in the first place where the blending point of colors would come out naturally with that mix of green. And it gets harder as you go further from the original blue — you can get away with some minor shift to blue-green but turning blue to pure green is much trickier in those areas of mixed colored light. So in the long run, it’s better to just light it with the colors you want in the first place — why spend time in post trying to create that effect, with mixed results?",
+  "content_html": "<p>If you have people in the frame, then it’s easiest to shift strong colors that are opposite of the faces, hence why blue screens and green screens are used for VFX. So if a background is pure blue, then it can easily be shifted to blue-green (cyan) or green without affecting foreground faces lit warm. Or if there is only blue in the frame and the faces are pure silhouette like in that frame from “Vertigo”.</p>\n<p>BUT what about the blue light spilling onto the faces, perhaps in the shadow side, so the face has a mix of blue and warmth in that area?  Or any other area in the frame where the blue light is transitioning into the warm light, creating an in-between color?  Even in that scene from “Vertigo” there are other shots where the green light is mixing with warm interior lighting.</p>\n<p>Now just shifting the blue channel towards green isn’t going to look as “clean” overall compared to if you had just lit with cyan light in the first place where the blending point of colors would come out naturally with that mix of green. And it gets harder as you go further from the original blue — you can get away with some minor shift to blue-green but turning blue to pure green is much trickier in those areas of mixed colored light. So in the long run, it’s better to just light it with the colors you want in the first place — why spend time in post trying to create that effect, with mixed results?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you have people in the frame, then it’s easiest to shift strong colors that are opposite of the faces, hence why blue screens and green screens are used for VFX. So if a background is pure blue, then it can easily be shifted to blue-green (cyan) or green without affecting foreground faces lit warm. Or if there is only blue in the frame and the faces are pure silhouette like in that frame from “Vertigo”."
+    },
+    {
+      "type": "paragraph",
+      "text": "BUT what about the blue light spilling onto the faces, perhaps in the shadow side, so the face has a mix of blue and warmth in that area?  Or any other area in the frame where the blue light is transitioning into the warm light, creating an in-between color?  Even in that scene from “Vertigo” there are other shots where the green light is mixing with warm interior lighting."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now just shifting the blue channel towards green isn’t going to look as “clean” overall compared to if you had just lit with cyan light in the first place where the blending point of colors would come out naturally with that mix of green. And it gets harder as you go further from the original blue — you can get away with some minor shift to blue-green but turning blue to pure green is much trickier in those areas of mixed colored light. So in the long run, it’s better to just light it with the colors you want in the first place — why spend time in post trying to create that effect, with mixed results?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/split-tone-look-how-much-to-get-in-camera/#post-215434",
+    "scraped_at": "2026-01-15T15:47:20.616271+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/split-tone-look-how-much-to-get-in-camera/#post-215434",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6376f31c933119ccb115dc1a16ced013b301376c1627a1c14cb5c191d642aa7e",
+    "parser_version": "bbpress-v2"
+  }
+}

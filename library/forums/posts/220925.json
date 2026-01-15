@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "220925",
+    "forum_slug": "forum",
+    "topic_slug": "safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings",
+    "parent_post_id": "220739",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "drewvalenti",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey Stefano, it sounds like the core of your question is “what type of protection should be in place to prevent hazards in case of bulb failure.” I encourage you to discuss this with your gaffer and key grip. When it comes to electrical hazards and rigging safety, it’s not the DP who will be physically close to the dangers. If you don’t feel you have a gaffer or key grip you can rely on and fully trust, that’s a red flag. Find crew you can trust, crew with more experience in their role than you have in their role. Utilize their experience and perspective. Instead of dictating a master plan, collaborate with them – if they’re experienced, they can save you time, money, and get you closer to your visual goals with less headache.\nHope this helps!\nDrew\nGaffer, Los Angeles",
+  "content_html": "<p>Hey Stefano, it sounds like the core of your question is “what type of protection should be in place to prevent hazards in case of bulb failure.” I encourage you to discuss this with your gaffer and key grip. When it comes to electrical hazards and rigging safety, it’s not the DP who will be physically close to the dangers. If you don’t feel you have a gaffer or key grip you can rely on and fully trust, that’s a red flag. Find crew you can trust, crew with more experience in their role than you have in their role. Utilize their experience and perspective. Instead of dictating a master plan, collaborate with them – if they’re experienced, they can save you time, money, and get you closer to your visual goals with less headache.</p>\n<p>Hope this helps!</p>\n<p>Drew<br/>\nGaffer, Los Angeles</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey Stefano, it sounds like the core of your question is “what type of protection should be in place to prevent hazards in case of bulb failure.” I encourage you to discuss this with your gaffer and key grip. When it comes to electrical hazards and rigging safety, it’s not the DP who will be physically close to the dangers. If you don’t feel you have a gaffer or key grip you can rely on and fully trust, that’s a red flag. Find crew you can trust, crew with more experience in their role than you have in their role. Utilize their experience and perspective. Instead of dictating a master plan, collaborate with them – if they’re experienced, they can save you time, money, and get you closer to your visual goals with less headache."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope this helps!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Drew\nGaffer, Los Angeles"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings/#post-220925",
+    "scraped_at": "2026-01-15T12:26:33.289588+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings/#post-220925",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7018ed87008d7500d48510bd0a32e29480f55cab14301a6fd45b7254e2525983",
+    "parser_version": "bbpress-v2"
+  }
+}

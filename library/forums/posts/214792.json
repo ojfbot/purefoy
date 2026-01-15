@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "214792",
+    "forum_slug": "forum",
+    "topic_slug": "natural-available-light"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "keited24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The gist of it is this. I have finally received public funding to make a feature film in Malta, where I’m from. The funding is minimal, and I will altogether only have 100K to make a micro budget film. I really don’t want to miss out on an opportunity here to make an impression and tell an impactful story that travels further than our Maltese shores.\nSo, coming from a minimalistic mindset, I think the best approach for the story and project is to film with natural light and practicals only (kinda like a Dogme 95 approach I guess). I will focus the rest of my very limited budget on casting good actors and focus on their delivery and story.\nMy question is… since I am now in research mode, I would like to watch and study as many films as possible that have primarily used natural light and available light in their films. Can we start listing films, or can you name a few films that have primarily used natural light in their movies? Also please feel free to offer any advice.",
+  "content_html": "<p>The gist of it is this. I have finally received public funding to make a feature film in Malta, where I’m from. The funding is minimal, and I will altogether only have 100K to make a micro budget film. I really don’t want to miss out on an opportunity here to make an impression and tell an impactful story that travels further than our Maltese shores.</p>\n<p>So, coming from a minimalistic mindset, I think the best approach for the story and project is to film with natural light and practicals only (kinda like a Dogme 95 approach I guess). I will focus the rest of my very limited budget on casting good actors and focus on their delivery and story.</p>\n<p>My question is… since I am now in research mode, I would like to watch and study as many films as possible that have primarily used natural light and available light in their films. Can we start listing films, or can you name a few films that have primarily used natural light in their movies? Also please feel free to offer any advice.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The gist of it is this. I have finally received public funding to make a feature film in Malta, where I’m from. The funding is minimal, and I will altogether only have 100K to make a micro budget film. I really don’t want to miss out on an opportunity here to make an impression and tell an impactful story that travels further than our Maltese shores."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, coming from a minimalistic mindset, I think the best approach for the story and project is to film with natural light and practicals only (kinda like a Dogme 95 approach I guess). I will focus the rest of my very limited budget on casting good actors and focus on their delivery and story."
+    },
+    {
+      "type": "paragraph",
+      "text": "My question is… since I am now in research mode, I would like to watch and study as many films as possible that have primarily used natural light and available light in their films. Can we start listing films, or can you name a few films that have primarily used natural light in their movies? Also please feel free to offer any advice."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/natural-available-light/#post-214831",
+    "scraped_at": "2026-01-15T15:51:12.517108+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/natural-available-light/#post-214831",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "28551a69625095a6d013b5146f001ae955739517421dff1bb51f6b788a0973a9",
+    "parser_version": "bbpress-v2"
+  }
+}

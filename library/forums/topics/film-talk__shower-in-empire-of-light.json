@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/shower-in-empire-of-light/#post-171944",
+  "forum_slug": "film-talk",
+  "topic_slug": "shower-in-empire-of-light",
+  "title": "Shower in Empire of Light",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "171505",
+    "171725",
+    "171726",
+    "171944"
+  ],
+  "reply_tree": {
+    "post_id": "171505",
+    "post_type": "topic",
+    "author": "halfgrain",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "171725",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "171726",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "171944",
+        "post_type": "reply",
+        "author": "halfgrain",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shower-in-empire-of-light/#post-171944",
+    "scraped_at": "2026-01-15T14:33:49.250363+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shower-in-empire-of-light/#post-171944",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a61460c4d48b9adf451662bc201f29e1031e6cd63dbdc01908704e371b03afc3",
+    "parser_version": "bbpress-v2"
+  }
+}

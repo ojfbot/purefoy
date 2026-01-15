@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216302",
+    "forum_slug": "camera",
+    "topic_slug": "single-lens-shot-movies",
+    "parent_post_id": "216215",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Perhaps i’m wrong, but i have the impression that while the focal length per se it’s an interesting information,  it’s more interesting to compare it to the story, to see how it serves the narrative and the reason behind the choice of that particular lens. In other words, i suppose it was technically possible to shoot, let’s say for example, “1917” only in 18 or in 24 mm (with different results, of course) : the interesting part , to me at least , it’s not that they used just 1 lens, but\nwhy\nthey used\nthat\nlens and what choices they were forced to do because of that.",
+  "content_html": "<p>Perhaps i’m wrong, but i have the impression that while the focal length per se it’s an interesting information,  it’s more interesting to compare it to the story, to see how it serves the narrative and the reason behind the choice of that particular lens. In other words, i suppose it was technically possible to shoot, let’s say for example, “1917” only in 18 or in 24 mm (with different results, of course) : the interesting part , to me at least , it’s not that they used just 1 lens, but <em>why</em> they used <em>that</em> lens and what choices they were forced to do because of that.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Perhaps i’m wrong, but i have the impression that while the focal length per se it’s an interesting information,  it’s more interesting to compare it to the story, to see how it serves the narrative and the reason behind the choice of that particular lens. In other words, i suppose it was technically possible to shoot, let’s say for example, “1917” only in 18 or in 24 mm (with different results, of course) : the interesting part , to me at least , it’s not that they used just 1 lens, but\nwhy\nthey used\nthat\nlens and what choices they were forced to do because of that."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/single-lens-shot-movies/#post-216397",
+    "scraped_at": "2026-01-15T14:13:35.749210+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/single-lens-shot-movies/#post-216397",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c5040b6ac4e48d4e55189d93a70ca32d7111524f856cd08cf9c51038134d9c6b",
+    "parser_version": "bbpress-v2"
+  }
+}

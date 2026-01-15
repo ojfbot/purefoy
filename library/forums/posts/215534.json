@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215534",
+    "forum_slug": "forum",
+    "topic_slug": "about-low-key-lighting",
+    "parent_post_id": "215519",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m totally with you here. I try to shoot the image the way I want it to be in the final film. Make the decision when you shoot not in post.",
+  "content_html": "<p>I’m totally with you here. I try to shoot the image the way I want it to be in the final film. Make the decision when you shoot not in post.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m totally with you here. I try to shoot the image the way I want it to be in the final film. Make the decision when you shoot not in post."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+    "scraped_at": "2026-01-15T15:46:20.706196+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3872525dda314ff0672bfbc1872f3afb3ee05bca6619f22235863aa16c149e15",
+    "parser_version": "bbpress-v2"
+  }
+}

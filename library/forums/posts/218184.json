@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218184",
+    "forum_slug": "film-talk",
+    "topic_slug": "come-and-see",
+    "parent_post_id": "218173",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t think cinema is just entertainment. Entertainment movies exist, of course, but there are also movies dealing with moral and ethical problems that also have something to say, not just make you spend a couple of fun hours. I think it for every kind of artistic expression, there’s space for entertainment and for a lot more.",
+  "content_html": "<p>I don’t think cinema is just entertainment. Entertainment movies exist, of course, but there are also movies dealing with moral and ethical problems that also have something to say, not just make you spend a couple of fun hours. I think it for every kind of artistic expression, there’s space for entertainment and for a lot more.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t think cinema is just entertainment. Entertainment movies exist, of course, but there are also movies dealing with moral and ethical problems that also have something to say, not just make you spend a couple of fun hours. I think it for every kind of artistic expression, there’s space for entertainment and for a lot more."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/come-and-see/#post-220074",
+    "scraped_at": "2026-01-15T11:51:11.244303+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/come-and-see/#post-220074",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a45be63b187017a3e09049173c0dbc6b8173dfbc3754a93e20436380cdae9504",
+    "parser_version": "bbpress-v2"
+  }
+}

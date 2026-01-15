@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "219529",
+    "forum_slug": "composition",
+    "topic_slug": "shot-list-for-group-scene-burn-after-reading",
+    "parent_post_id": "219526",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I was not on Burn After Reading but from working on many other films with Joel and Ethan I can say that they would have had a clear idea of the shots they wanted. It is rare they shoot a shot they don’t intend to use. They edit their films and know the flow of a scene before they get into the cutting room.",
+  "content_html": "<p>I was not on Burn After Reading but from working on many other films with Joel and Ethan I can say that they would have had a clear idea of the shots they wanted. It is rare they shoot a shot they don’t intend to use. They edit their films and know the flow of a scene before they get into the cutting room.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I was not on Burn After Reading but from working on many other films with Joel and Ethan I can say that they would have had a clear idea of the shots they wanted. It is rare they shoot a shot they don’t intend to use. They edit their films and know the flow of a scene before they get into the cutting room."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shot-list-for-group-scene-burn-after-reading/#post-219532",
+    "scraped_at": "2026-01-15T12:07:55.397013+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shot-list-for-group-scene-burn-after-reading/#post-219532",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9db8766ea1aa1fee8420dfbbc9ba74ba7697cc95f45084c863c51e13500228f8",
+    "parser_version": "bbpress-v2"
+  }
+}

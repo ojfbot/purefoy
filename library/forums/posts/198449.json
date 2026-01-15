@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "198449",
+    "forum_slug": "camera",
+    "topic_slug": "inspiration-and-diy-rigs",
+    "parent_post_id": "192046",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "simon m",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That is just hilarious – the broomcam. I will definitely be trying that!",
+  "content_html": "<p>That is just hilarious – the broomcam. I will definitely be trying that!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That is just hilarious – the broomcam. I will definitely be trying that!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inspiration-and-diy-rigs/#post-198449",
+    "scraped_at": "2026-01-15T15:43:01.133192+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inspiration-and-diy-rigs/#post-198449",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "28c9c1d8066472d42d16daf6192224833c4ed26d3c9d19f49fb9132d9f7a0a18",
+    "parser_version": "bbpress-v2"
+  }
+}

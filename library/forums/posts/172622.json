@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "172622",
+    "forum_slug": "camera",
+    "topic_slug": "master-anamorphics",
+    "parent_post_id": "169631",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Davinki",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Kemalettin wrote:\nAlso, i wanna add this question i just didn’t want to open a new thread. Have you ever used Panavision glass spherical or anamorphic?\nI’m not sure if he considered panavision anamorphic as they have the flaws that make him shoot spherical in the first place, but I do wonder if he’s shot on the primos.",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-169701\">Kemalettin wrote:</a></div>\n<p>Also, i wanna add this question i just didn’t want to open a new thread. Have you ever used Panavision glass spherical or anamorphic?</p></blockquote>\n<p>I’m not sure if he considered panavision anamorphic as they have the flaws that make him shoot spherical in the first place, but I do wonder if he’s shot on the primos.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Kemalettin wrote:\nAlso, i wanna add this question i just didn’t want to open a new thread. Have you ever used Panavision glass spherical or anamorphic?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, i wanna add this question i just didn’t want to open a new thread. Have you ever used Panavision glass spherical or anamorphic?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m not sure if he considered panavision anamorphic as they have the flaws that make him shoot spherical in the first place, but I do wonder if he’s shot on the primos."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Kemalettin wrote:\nAlso, i wanna add this question i just didn’t want to open a new thread. Have you ever used Panavision glass spherical or anamorphic?"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-169701",
+      "text": "Kemalettin wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-178888",
+    "scraped_at": "2026-01-15T15:44:20.044316+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-178888",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cfbe0f02626e5684f17f1b393304e5e84eb1b96f10e82611a03eb64118c383d6",
+    "parser_version": "bbpress-v2"
+  }
+}

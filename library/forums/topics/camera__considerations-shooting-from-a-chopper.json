@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/considerations-shooting-from-a-chopper/#post-215603",
+  "forum_slug": "camera",
+  "topic_slug": "considerations-shooting-from-a-chopper",
+  "title": "Considerations shooting from a chopper",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215602",
+    "215603"
+  ],
+  "reply_tree": {
+    "post_id": "215602",
+    "post_type": "topic",
+    "author": "Nick Frayne",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215603",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/considerations-shooting-from-a-chopper/#post-215603",
+    "scraped_at": "2026-01-15T15:21:33.440624+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/considerations-shooting-from-a-chopper/#post-215603",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "884d133b7a4449a8d56278cce15cd00b7239e8e35c035665b3b6bc82b1ecb9ce",
+    "parser_version": "bbpress-v2"
+  }
+}

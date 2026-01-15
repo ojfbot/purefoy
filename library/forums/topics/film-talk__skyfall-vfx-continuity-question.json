@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/skyfall-vfx-continuity-question/#post-216779",
+  "forum_slug": "film-talk",
+  "topic_slug": "skyfall-vfx-continuity-question",
+  "title": "Skyfall VFX / Continuity Question",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216697",
+    "216779"
+  ],
+  "reply_tree": {
+    "post_id": "216697",
+    "post_type": "topic",
+    "author": "kaicz",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216779",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/skyfall-vfx-continuity-question/#post-216779",
+    "scraped_at": "2026-01-15T12:09:27.466975+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/skyfall-vfx-continuity-question/#post-216779",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "776393c88f787ef57c65f33428e5b5e793d1ddc27f0a925def74ef34064dd158",
+    "parser_version": "bbpress-v2"
+  }
+}

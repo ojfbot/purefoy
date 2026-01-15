@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214898",
+    "forum_slug": "set-talk",
+    "topic_slug": "are-cinematographers-only-executors",
+    "parent_post_id": "214777",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There are directors who are very controlling of the image, specify camera placement to the millimeter and the lens length etc.. It is a personal decision whether, as a cinematographer, a purely technical contribution is enough.",
+  "content_html": "<p>There are directors who are very controlling of the image, specify camera placement to the millimeter and the lens length etc.. It is a personal decision whether, as a cinematographer, a purely technical contribution is enough.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There are directors who are very controlling of the image, specify camera placement to the millimeter and the lens length etc.. It is a personal decision whether, as a cinematographer, a purely technical contribution is enough."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/are-cinematographers-only-executors/#post-214898",
+    "scraped_at": "2026-01-15T13:23:30.438712+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/are-cinematographers-only-executors/#post-214898",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7be5dc0d1b5ab19bcb6552cdffaac1162b6e65808986317498ba8d047ee7cbdf",
+    "parser_version": "bbpress-v2"
+  }
+}

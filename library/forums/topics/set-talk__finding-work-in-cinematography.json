@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/finding-work-in-cinematography/#post-218056",
+  "forum_slug": "set-talk",
+  "topic_slug": "finding-work-in-cinematography",
+  "title": "Finding Work in Cinematography",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "218047",
+    "218056"
+  ],
+  "reply_tree": {
+    "post_id": "218047",
+    "post_type": "topic",
+    "author": "Madhav6",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "218056",
+        "post_type": "reply",
+        "author": "David Kennedy North",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/finding-work-in-cinematography/#post-218056",
+    "scraped_at": "2026-01-15T11:51:12.871594+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/finding-work-in-cinematography/#post-218056",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fc70bb7369d930d53e3369cdb2a9ccdb20ba0eb4b0fbe8b71c5624223a7d0f6d",
+    "parser_version": "bbpress-v2"
+  }
+}

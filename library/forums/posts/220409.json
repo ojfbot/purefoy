@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "220409",
+    "forum_slug": "forum",
+    "topic_slug": "dark"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Yakov10",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nI’m getting ready to shoot a movie where most of the action will take place in the dark.\nThe hero enters the room, the door closes behind him and complete darkness falls.\nDarkness becomes one of the main characters. 65% of the screen time, the viewer sees not just darkness, as the absence of light, but a kind of thick, viscous, almost physical substance that fills the space. It’s not just a black color, it’s a deep, moving texture—like a black liquid, smoke, or magnetic shavings. There are no familiar shadows, silhouettes, or visual supports. Only the hero’s voice, rustles, echoes, breathing, rasping.\nThe main question. How to remove the darkness?\nI would appreciate it if you could respond.",
+  "content_html": "<p>Hi Roger,</p>\n<p>I’m getting ready to shoot a movie where most of the action will take place in the dark.</p>\n<p>The hero enters the room, the door closes behind him and complete darkness falls.</p>\n<p>Darkness becomes one of the main characters. 65% of the screen time, the viewer sees not just darkness, as the absence of light, but a kind of thick, viscous, almost physical substance that fills the space. It’s not just a black color, it’s a deep, moving texture—like a black liquid, smoke, or magnetic shavings. There are no familiar shadows, silhouettes, or visual supports. Only the hero’s voice, rustles, echoes, breathing, rasping.</p>\n<p>The main question. How to remove the darkness?</p>\n<p>I would appreciate it if you could respond.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m getting ready to shoot a movie where most of the action will take place in the dark."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hero enters the room, the door closes behind him and complete darkness falls."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darkness becomes one of the main characters. 65% of the screen time, the viewer sees not just darkness, as the absence of light, but a kind of thick, viscous, almost physical substance that fills the space. It’s not just a black color, it’s a deep, moving texture—like a black liquid, smoke, or magnetic shavings. There are no familiar shadows, silhouettes, or visual supports. Only the hero’s voice, rustles, echoes, breathing, rasping."
+    },
+    {
+      "type": "paragraph",
+      "text": "The main question. How to remove the darkness?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I would appreciate it if you could respond."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dark/#post-220680",
+    "scraped_at": "2026-01-15T13:16:05.347036+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dark/#post-220680",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b78502a5a098bb83a0ea37f67783ced950bba253306dffc9dd06641dabd79b0f",
+    "parser_version": "bbpress-v2"
+  }
+}

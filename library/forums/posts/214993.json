@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "post_id": "214993",
+    "forum_slug": "camera",
+    "topic_slug": "dynamic-range",
+    "parent_post_id": "214969",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "In a technical sense –\nYour camera analogue architecture (your photosite, column amps – and all the circuitry before digital quantization) is photographically linear and linear in signal.\nIn contrast, your photopic vision perceives light logarithmically. I.e. you perceive each photographic stop of light with an equal amount of value even though they are linearly double or half the amount of energy.\nThis is where the digital world of signal processing and your photopic vision do not align. Producing a camera’s analogue sensor architecture in anything other than a linear fashion would be problematic from a sampling and gain perspective.\nHowever, for a camera to capture an additional stop of dynamic range, it must have double the internal latitude in quantization and a double physical saturation limit.\nSo yes, extending a camera’s dynamic range isn’t easy – especially in a fashion that works photographically.\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>In a technical sense –</p>\n<p>Your camera analogue architecture (your photosite, column amps – and all the circuitry before digital quantization) is photographically linear and linear in signal.</p>\n<p>In contrast, your photopic vision perceives light logarithmically. I.e. you perceive each photographic stop of light with an equal amount of value even though they are linearly double or half the amount of energy.</p>\n<p>This is where the digital world of signal processing and your photopic vision do not align. Producing a camera’s analogue sensor architecture in anything other than a linear fashion would be problematic from a sampling and gain perspective.</p>\n<p>However, for a camera to capture an additional stop of dynamic range, it must have double the internal latitude in quantization and a double physical saturation limit.</p>\n<p>So yes, extending a camera’s dynamic range isn’t easy – especially in a fashion that works photographically.</p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In a technical sense –"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your camera analogue architecture (your photosite, column amps – and all the circuitry before digital quantization) is photographically linear and linear in signal."
+    },
+    {
+      "type": "paragraph",
+      "text": "In contrast, your photopic vision perceives light logarithmically. I.e. you perceive each photographic stop of light with an equal amount of value even though they are linearly double or half the amount of energy."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is where the digital world of signal processing and your photopic vision do not align. Producing a camera’s analogue sensor architecture in anything other than a linear fashion would be problematic from a sampling and gain perspective."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, for a camera to capture an additional stop of dynamic range, it must have double the internal latitude in quantization and a double physical saturation limit."
+    },
+    {
+      "type": "paragraph",
+      "text": "So yes, extending a camera’s dynamic range isn’t easy – especially in a fashion that works photographically."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dynamic-range/#post-214993",
+    "scraped_at": "2026-01-15T15:24:15.733433+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dynamic-range/#post-214993",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "17463e4553533975cb8d52d2695ff7463c65751a8c566e5c60ca92601c6cf9bd",
+    "parser_version": "bbpress-v2"
+  }
+}

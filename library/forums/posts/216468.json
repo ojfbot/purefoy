@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216468",
+    "forum_slug": "camera",
+    "topic_slug": "cooke-lenses",
+    "parent_post_id": "216165",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "artembirdman",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Roger! Thank you so much for your work! It is a great happiness to watch people like you! I’ve learned a lot from you. I am looking forward to your new works! I\nI have one question. In the movie ‘The Man Who Wasn’t There’ you used Cooke optics and I wanted to ask what focal lengths were used in the movie? It seemed to me that it was shot wider than your previous work with Ethan and Joel.\nThank you for your attention, I wish you good health and good projects.",
+  "content_html": "<p>Hello Roger! Thank you so much for your work! It is a great happiness to watch people like you! I’ve learned a lot from you. I am looking forward to your new works! I</p>\n<p>I have one question. In the movie ‘The Man Who Wasn’t There’ you used Cooke optics and I wanted to ask what focal lengths were used in the movie? It seemed to me that it was shot wider than your previous work with Ethan and Joel.</p>\n<p> </p>\n<p>Thank you for your attention, I wish you good health and good projects.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Roger! Thank you so much for your work! It is a great happiness to watch people like you! I’ve learned a lot from you. I am looking forward to your new works! I"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have one question. In the movie ‘The Man Who Wasn’t There’ you used Cooke optics and I wanted to ask what focal lengths were used in the movie? It seemed to me that it was shot wider than your previous work with Ethan and Joel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for your attention, I wish you good health and good projects."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cooke-lenses/#post-216477",
+    "scraped_at": "2026-01-15T14:13:14.547634+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cooke-lenses/#post-216477",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0dc8e5d70d63e357c859ad92de0e6d676d2e818c62461917cdfe742a72cd33fc",
+    "parser_version": "bbpress-v2"
+  }
+}

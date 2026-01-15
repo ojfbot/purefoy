@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "208743",
+    "forum_slug": "composition",
+    "topic_slug": "practicing-cinematography",
+    "parent_post_id": "208647",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t know that there is any right or wrong way to practice cinematography or anything else for that matter. Though, maybe, that is not true of yoga or marathon running etc.. I would say to watch as many films as you have time for, study the work of as many painters and photographers as you can, and just shoot! Edit what you shoot, see what you like and what you feel was a failure and then try again. And again! And again! There are no tricks or easy answers.\nIt was once suggested to me that if I could light a human face I could light anything. Perhaps that is true in the sense that a film is generally dependent on the characters depicted within it, so it’s not a bad idea to concentrate on the face. But cinematography, visual storytelling, is not only about portraiture.",
+  "content_html": "<p>I don’t know that there is any right or wrong way to practice cinematography or anything else for that matter. Though, maybe, that is not true of yoga or marathon running etc.. I would say to watch as many films as you have time for, study the work of as many painters and photographers as you can, and just shoot! Edit what you shoot, see what you like and what you feel was a failure and then try again. And again! And again! There are no tricks or easy answers.</p>\n<p>It was once suggested to me that if I could light a human face I could light anything. Perhaps that is true in the sense that a film is generally dependent on the characters depicted within it, so it’s not a bad idea to concentrate on the face. But cinematography, visual storytelling, is not only about portraiture.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t know that there is any right or wrong way to practice cinematography or anything else for that matter. Though, maybe, that is not true of yoga or marathon running etc.. I would say to watch as many films as you have time for, study the work of as many painters and photographers as you can, and just shoot! Edit what you shoot, see what you like and what you feel was a failure and then try again. And again! And again! There are no tricks or easy answers."
+    },
+    {
+      "type": "paragraph",
+      "text": "It was once suggested to me that if I could light a human face I could light anything. Perhaps that is true in the sense that a film is generally dependent on the characters depicted within it, so it’s not a bad idea to concentrate on the face. But cinematography, visual storytelling, is not only about portraiture."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/practicing-cinematography/#post-209158",
+    "scraped_at": "2026-01-15T13:23:42.322926+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/practicing-cinematography/#post-209158",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e4872824707ce84e2c56d9626206a04dd603c13e3f78a79bdab35c005ff6006d",
+    "parser_version": "bbpress-v2"
+  }
+}

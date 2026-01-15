@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "post_id": "215918",
+    "forum_slug": "forum",
+    "topic_slug": "practical-lighting-on-small-spaces-and-exposure",
+    "parent_post_id": "215917",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m in the very same situation (working on a short movie with little experience, practical lights, etc) , so I can’t give you advices, but perhaps the things that I tried for myself could help you a little and save you some time (i hope so, at least) .\n– you want the audience\nthink\nthat the light is created by a bulb, a candle, etc, but this doesn’t mean that you actually use them to light\nall\nof your scenes. Example : in a  medium shot you show the practical light, so the audience know that there’s that source there. This create the motivation to know where the light is coming from. In the next close up of your talent you could use another source (of the same color and type of light but stronger) that you won’t show but that will help you achieving the right exposure. A bit of creativity and DIY will help you in creating the right look. You want to use a nice lamp for the scene? You can hide a second bulb behind it, for example, to have more light from the same practical source (if i remember correctly Roger did something like that for 1917, in the tent scene to increase the light from a lantern).\n– if you want to shape the lights you could use some (black) flag to reduce the bouncing on the wall and the ambient light, if you manage to avoid to make the flag visible in camera (in a small space may be tricky, be creative with camera angles!)\n– mind the inverse square law. It could be a powerful tool but I’m afraid it could also turn into the biggest enemy of people like us using a small set of practical lights. When you double the distance the light gets 4 times weaker, that means you’ll need 2 stops more to achieve the same exposure (please, correct me if i’m wrong on that). On the contrary, if you halve the distance you get a 4 times stronger light, with a bonus of 2 stops in exposure. The same practical light you used in a shot will be stronger or weaker in the next according to this law: for example, mind it when planning actors movement.\n– pay attention to the noise created by high ISO : a low key scene will probably mean that you’ll need to rely on high ISO to achieve the correct exposure. Use it as very last resource\nThat’s what i’m doing for my short, perhaps it can give you some idea:  my short movie the character will have only a torch and a bit of blue backlight from a (fake) window. But this means that nothing will actually light his face: you put a torch in front of you, not on you… My possible solution: in some shots the torch will be visible (that’s the motivation), but in the close ups it won’t and i’ll give him 2 or 3 torches and place a bouncing surface at the right angle in front  of him.  Since it will create a lot bouncing lights i’ll place a black flag right behind him to make the room darker. My goal is creating the right contrast ratio between him and the background while keeping the ISO as low as i can. It\nshould\nwork, as long as i manage to keep all of this stuff out of camera in a really small space.\nI hope it helps somehow!",
+  "content_html": "<p>I’m in the very same situation (working on a short movie with little experience, practical lights, etc) , so I can’t give you advices, but perhaps the things that I tried for myself could help you a little and save you some time (i hope so, at least) .</p>\n<p>– you want the audience <em>think</em> that the light is created by a bulb, a candle, etc, but this doesn’t mean that you actually use them to light <em>all </em>of your scenes. Example : in a  medium shot you show the practical light, so the audience know that there’s that source there. This create the motivation to know where the light is coming from. In the next close up of your talent you could use another source (of the same color and type of light but stronger) that you won’t show but that will help you achieving the right exposure. A bit of creativity and DIY will help you in creating the right look. You want to use a nice lamp for the scene? You can hide a second bulb behind it, for example, to have more light from the same practical source (if i remember correctly Roger did something like that for 1917, in the tent scene to increase the light from a lantern).</p>\n<p>– if you want to shape the lights you could use some (black) flag to reduce the bouncing on the wall and the ambient light, if you manage to avoid to make the flag visible in camera (in a small space may be tricky, be creative with camera angles!)</p>\n<p>– mind the inverse square law. It could be a powerful tool but I’m afraid it could also turn into the biggest enemy of people like us using a small set of practical lights. When you double the distance the light gets 4 times weaker, that means you’ll need 2 stops more to achieve the same exposure (please, correct me if i’m wrong on that). On the contrary, if you halve the distance you get a 4 times stronger light, with a bonus of 2 stops in exposure. The same practical light you used in a shot will be stronger or weaker in the next according to this law: for example, mind it when planning actors movement.</p>\n<p>– pay attention to the noise created by high ISO : a low key scene will probably mean that you’ll need to rely on high ISO to achieve the correct exposure. Use it as very last resource</p>\n<p>That’s what i’m doing for my short, perhaps it can give you some idea:  my short movie the character will have only a torch and a bit of blue backlight from a (fake) window. But this means that nothing will actually light his face: you put a torch in front of you, not on you… My possible solution: in some shots the torch will be visible (that’s the motivation), but in the close ups it won’t and i’ll give him 2 or 3 torches and place a bouncing surface at the right angle in front  of him.  Since it will create a lot bouncing lights i’ll place a black flag right behind him to make the room darker. My goal is creating the right contrast ratio between him and the background while keeping the ISO as low as i can. It<em> should</em> work, as long as i manage to keep all of this stuff out of camera in a really small space.</p>\n<p>I hope it helps somehow!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m in the very same situation (working on a short movie with little experience, practical lights, etc) , so I can’t give you advices, but perhaps the things that I tried for myself could help you a little and save you some time (i hope so, at least) ."
+    },
+    {
+      "type": "paragraph",
+      "text": "– you want the audience\nthink\nthat the light is created by a bulb, a candle, etc, but this doesn’t mean that you actually use them to light\nall\nof your scenes. Example : in a  medium shot you show the practical light, so the audience know that there’s that source there. This create the motivation to know where the light is coming from. In the next close up of your talent you could use another source (of the same color and type of light but stronger) that you won’t show but that will help you achieving the right exposure. A bit of creativity and DIY will help you in creating the right look. You want to use a nice lamp for the scene? You can hide a second bulb behind it, for example, to have more light from the same practical source (if i remember correctly Roger did something like that for 1917, in the tent scene to increase the light from a lantern)."
+    },
+    {
+      "type": "paragraph",
+      "text": "– if you want to shape the lights you could use some (black) flag to reduce the bouncing on the wall and the ambient light, if you manage to avoid to make the flag visible in camera (in a small space may be tricky, be creative with camera angles!)"
+    },
+    {
+      "type": "paragraph",
+      "text": "– mind the inverse square law. It could be a powerful tool but I’m afraid it could also turn into the biggest enemy of people like us using a small set of practical lights. When you double the distance the light gets 4 times weaker, that means you’ll need 2 stops more to achieve the same exposure (please, correct me if i’m wrong on that). On the contrary, if you halve the distance you get a 4 times stronger light, with a bonus of 2 stops in exposure. The same practical light you used in a shot will be stronger or weaker in the next according to this law: for example, mind it when planning actors movement."
+    },
+    {
+      "type": "paragraph",
+      "text": "– pay attention to the noise created by high ISO : a low key scene will probably mean that you’ll need to rely on high ISO to achieve the correct exposure. Use it as very last resource"
+    },
+    {
+      "type": "paragraph",
+      "text": "That’s what i’m doing for my short, perhaps it can give you some idea:  my short movie the character will have only a torch and a bit of blue backlight from a (fake) window. But this means that nothing will actually light his face: you put a torch in front of you, not on you… My possible solution: in some shots the torch will be visible (that’s the motivation), but in the close ups it won’t and i’ll give him 2 or 3 torches and place a bouncing surface at the right angle in front  of him.  Since it will create a lot bouncing lights i’ll place a black flag right behind him to make the room darker. My goal is creating the right contrast ratio between him and the background while keeping the ISO as low as i can. It\nshould\nwork, as long as i manage to keep all of this stuff out of camera in a really small space."
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope it helps somehow!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-on-small-spaces-and-exposure/#post-215931",
+    "scraped_at": "2026-01-15T15:43:26.989021+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-on-small-spaces-and-exposure/#post-215931",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3731676a9af0e8f1fd73544420630c7016647f1dbdd7addc750fa75ea5590eb8",
+    "parser_version": "bbpress-v2"
+  }
+}

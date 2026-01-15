@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "217520",
+    "forum_slug": "composition",
+    "topic_slug": "framing-for-different-aspect-ratios-with-monitor",
+    "parent_post_id": "217465",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "sanghamithran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "ah yes, got it James, I had shot a couple of works with blacked out for 2.35 and it had worked for me, would be interesting to see not doing that and trying out this approach to see how it is affecting my framing,\nThanks.",
+  "content_html": "<p>ah yes, got it James, I had shot a couple of works with blacked out for 2.35 and it had worked for me, would be interesting to see not doing that and trying out this approach to see how it is affecting my framing,</p>\n<p>Thanks.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "ah yes, got it James, I had shot a couple of works with blacked out for 2.35 and it had worked for me, would be interesting to see not doing that and trying out this approach to see how it is affecting my framing,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/framing-for-different-aspect-ratios-with-monitor/#post-217978",
+    "scraped_at": "2026-01-15T12:08:06.331674+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/framing-for-different-aspect-ratios-with-monitor/#post-217978",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8189d7c93d9527feeb4c720a8cac1aff4013cdba62db2b0535c68804fc019318",
+    "parser_version": "bbpress-v2"
+  }
+}

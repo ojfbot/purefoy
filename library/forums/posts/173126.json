@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "173126",
+    "forum_slug": "team-deakins",
+    "topic_slug": "live-youtube-conversation",
+    "parent_post_id": "172882",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Very interesting podcast, one of the best you have done.\n16 for dinner, that’s a lot of cooking.👩‍🍳",
+  "content_html": "<p>Very interesting podcast, one of the best you have done.</p>\n<p>16 for dinner, that’s a lot of cooking.👩‍🍳</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Very interesting podcast, one of the best you have done."
+    },
+    {
+      "type": "paragraph",
+      "text": "16 for dinner, that’s a lot of cooking.👩‍🍳"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/live-youtube-conversation/#post-173126",
+    "scraped_at": "2026-01-15T14:12:58.165777+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/live-youtube-conversation/#post-173126",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9c389d2eb74430f4cc96ed883768a99d7ba7b6568c61c627da324898441b0fb1",
+    "parser_version": "bbpress-v2"
+  }
+}

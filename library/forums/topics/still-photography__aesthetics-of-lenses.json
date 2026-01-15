@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/aesthetics-of-lenses/",
+  "forum_slug": "still-photography",
+  "topic_slug": "aesthetics-of-lenses",
+  "title": "Aesthetics of lenses",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "174450"
+  ],
+  "reply_tree": {
+    "post_id": "174450",
+    "post_type": "topic",
+    "author": "Nicolas LP",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/aesthetics-of-lenses/",
+    "scraped_at": "2026-01-15T12:49:01.257231+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/aesthetics-of-lenses/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "55893a59028cd36dab7e1af65607130b1f3426dcb7d5df95e0bcb4c01a987870",
+    "parser_version": "bbpress-v2"
+  }
+}

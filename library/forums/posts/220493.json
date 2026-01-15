@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "post_id": "220493",
+    "forum_slug": "camera",
+    "topic_slug": "calibrating-monitors",
+    "parent_post_id": "219223",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Michael Lindsay",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I would maybe consider a couple of things.\nSimple tristimulus colour meters alone can’t calibrate screens accurately. Even a course spectroradiometer can’t really do this. It took me a long time to learn the why of this. I have watched people ‘probe a monitor’ and end up with false confidence and a less useful picture than they wanted and also wrong to eye. Unless someone good is doing the calibration, I’d rather set the monitor up by my eye.\nAlso consider a SDR tonal mapping sent to an accurate monitor properly calibrated to 100 nits outside in bright sunlight or on the set of a 1000fps shoot. Now consider another monitor properly calibrated to 2000 Nits used on the set of a moody dark set lit to T1.3@24fps on a 1600asa camera.  Without other tools or knowledge, there could be an issue.\nSo I suggest ‘knowing’ one monitor you keep on using (and if calibration it is part of keeping it stable, then great.\nAlso use the same, or know tonal mapping, for example, standard 709 TX from Arri OR a LUT that you know and keep using.\nEvery single year since digital cinema film cameras came around, I have heard of at least one disaster on not cheap shoots from people only viewing a Log tonal mapping on set. Thankfully, it is happening less now but the last shoot I heard about that had this issue was an underwater tank shoot with dancers so it was not an inexpensive issue. Calibrating that monitor would have made no difference.\nProbably my post is less useful than ‘Train Your Eye’ from Roger but perhaps it offers support for that practice.\nregards Michael",
+  "content_html": "<p>I would maybe consider a couple of things.</p>\n<p>Simple tristimulus colour meters alone can’t calibrate screens accurately. Even a course spectroradiometer can’t really do this. It took me a long time to learn the why of this. I have watched people ‘probe a monitor’ and end up with false confidence and a less useful picture than they wanted and also wrong to eye. Unless someone good is doing the calibration, I’d rather set the monitor up by my eye.</p>\n<p>Also consider a SDR tonal mapping sent to an accurate monitor properly calibrated to 100 nits outside in bright sunlight or on the set of a 1000fps shoot. Now consider another monitor properly calibrated to 2000 Nits used on the set of a moody dark set lit to T1.3@24fps on a 1600asa camera.  Without other tools or knowledge, there could be an issue.</p>\n<p>So I suggest ‘knowing’ one monitor you keep on using (and if calibration it is part of keeping it stable, then great.</p>\n<p>Also use the same, or know tonal mapping, for example, standard 709 TX from Arri OR a LUT that you know and keep using.</p>\n<p>Every single year since digital cinema film cameras came around, I have heard of at least one disaster on not cheap shoots from people only viewing a Log tonal mapping on set. Thankfully, it is happening less now but the last shoot I heard about that had this issue was an underwater tank shoot with dancers so it was not an inexpensive issue. Calibrating that monitor would have made no difference.</p>\n<p>Probably my post is less useful than ‘Train Your Eye’ from Roger but perhaps it offers support for that practice.</p>\n<p>regards Michael</p>\n<p> </p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I would maybe consider a couple of things."
+    },
+    {
+      "type": "paragraph",
+      "text": "Simple tristimulus colour meters alone can’t calibrate screens accurately. Even a course spectroradiometer can’t really do this. It took me a long time to learn the why of this. I have watched people ‘probe a monitor’ and end up with false confidence and a less useful picture than they wanted and also wrong to eye. Unless someone good is doing the calibration, I’d rather set the monitor up by my eye."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also consider a SDR tonal mapping sent to an accurate monitor properly calibrated to 100 nits outside in bright sunlight or on the set of a 1000fps shoot. Now consider another monitor properly calibrated to 2000 Nits used on the set of a moody dark set lit to T1.3@24fps on a 1600asa camera.  Without other tools or knowledge, there could be an issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "So I suggest ‘knowing’ one monitor you keep on using (and if calibration it is part of keeping it stable, then great."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also use the same, or know tonal mapping, for example, standard 709 TX from Arri OR a LUT that you know and keep using."
+    },
+    {
+      "type": "paragraph",
+      "text": "Every single year since digital cinema film cameras came around, I have heard of at least one disaster on not cheap shoots from people only viewing a Log tonal mapping on set. Thankfully, it is happening less now but the last shoot I heard about that had this issue was an underwater tank shoot with dancers so it was not an inexpensive issue. Calibrating that monitor would have made no difference."
+    },
+    {
+      "type": "paragraph",
+      "text": "Probably my post is less useful than ‘Train Your Eye’ from Roger but perhaps it offers support for that practice."
+    },
+    {
+      "type": "paragraph",
+      "text": "regards Michael"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/calibrating-monitors/#post-220494",
+    "scraped_at": "2026-01-15T12:09:23.555046+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/calibrating-monitors/#post-220494",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c9f85d9bcbd8289caa06ea28f5d6fdc045e4c1317cc246a81b31fb6eb3ecf107",
+    "parser_version": "bbpress-v2"
+  }
+}

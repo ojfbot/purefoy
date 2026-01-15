@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "post_id": "216122",
+    "forum_slug": "camera",
+    "topic_slug": "highlight-latitude-in-sony-f5-f55"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "r.k.Logeshwaran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Can someone explain what ‘highlight latitude’ is, how it is derived, and how it can be used?",
+  "content_html": "<p>Can someone explain what ‘highlight latitude’ is, how it is derived, and how it can be used?<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216122/do2ukssf4lv1nksc91rvgujzui14fon9.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Can someone explain what ‘highlight latitude’ is, how it is derived, and how it can be used?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216122/do2ukssf4lv1nksc91rvgujzui14fon9.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/highlight-latitude-in-sony-f5-f55/#post-216124",
+    "scraped_at": "2026-01-15T15:08:23.817019+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/highlight-latitude-in-sony-f5-f55/#post-216124",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "70bc8fef92d5cf7ef57df0d7bbfc33bc3dbbef22f1182569ffe4f54f1fa9e4cd",
+    "parser_version": "bbpress-v2"
+  }
+}

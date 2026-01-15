@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "214705",
+    "forum_slug": "post",
+    "topic_slug": "changing-the-cinematographers-exposure-values-in-post",
+    "parent_post_id": "170152",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Fedor Dokuchaev – Colorist",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This is a very interesting topic. I do not think that adjusting exposure to the middle gray is a necessary step in the pipeline. I work in DaVinci Resolve.\nIf I work with different cameras, I convert them to DaVinci Wide Gamut / Davinci Intermediate, so middle gray of each Log is correctly remapped.\nThat said, I do change exposure and sometimes rather dramatically – but only after I discuss this change with the director. It happens with student films a lot, because students sometimes try to create all look in-camera and do not do it correctly.\nRecently I had a film with heavily underexposed dark scenes and overexposed bright ones. I had to use noise reduction and change exposure rather dramatically, so the viewers can just see and understand what is happening in the first minutes. If these scenes were shot with correct exposure, I could have easily lower exposure in post, getting clean looking shadows and a lot of details.\nThe second reason for changing exposure in post is look creation. Usually look for the film is built around middle gray or midtones. We keep healthy contrast in midtones and add roll-offs and split toning in the highs and the lows of the image.\nSo, if an image is overexposed and is pushed in the highs, color contrast of the look dissapears. To avoid that, I sometimes increase contrast of the image by using Lift, so some part of it ended up in the lower region. And changing exposure also helps with getting the image “look-ready”.",
+  "content_html": "<p>This is a very interesting topic. I do not think that adjusting exposure to the middle gray is a necessary step in the pipeline. I work in DaVinci Resolve.</p>\n<p>If I work with different cameras, I convert them to DaVinci Wide Gamut / Davinci Intermediate, so middle gray of each Log is correctly remapped.</p>\n<p>That said, I do change exposure and sometimes rather dramatically – but only after I discuss this change with the director. It happens with student films a lot, because students sometimes try to create all look in-camera and do not do it correctly.</p>\n<p>Recently I had a film with heavily underexposed dark scenes and overexposed bright ones. I had to use noise reduction and change exposure rather dramatically, so the viewers can just see and understand what is happening in the first minutes. If these scenes were shot with correct exposure, I could have easily lower exposure in post, getting clean looking shadows and a lot of details.</p>\n<p>The second reason for changing exposure in post is look creation. Usually look for the film is built around middle gray or midtones. We keep healthy contrast in midtones and add roll-offs and split toning in the highs and the lows of the image.</p>\n<p>So, if an image is overexposed and is pushed in the highs, color contrast of the look dissapears. To avoid that, I sometimes increase contrast of the image by using Lift, so some part of it ended up in the lower region. And changing exposure also helps with getting the image “look-ready”.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This is a very interesting topic. I do not think that adjusting exposure to the middle gray is a necessary step in the pipeline. I work in DaVinci Resolve."
+    },
+    {
+      "type": "paragraph",
+      "text": "If I work with different cameras, I convert them to DaVinci Wide Gamut / Davinci Intermediate, so middle gray of each Log is correctly remapped."
+    },
+    {
+      "type": "paragraph",
+      "text": "That said, I do change exposure and sometimes rather dramatically – but only after I discuss this change with the director. It happens with student films a lot, because students sometimes try to create all look in-camera and do not do it correctly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recently I had a film with heavily underexposed dark scenes and overexposed bright ones. I had to use noise reduction and change exposure rather dramatically, so the viewers can just see and understand what is happening in the first minutes. If these scenes were shot with correct exposure, I could have easily lower exposure in post, getting clean looking shadows and a lot of details."
+    },
+    {
+      "type": "paragraph",
+      "text": "The second reason for changing exposure in post is look creation. Usually look for the film is built around middle gray or midtones. We keep healthy contrast in midtones and add roll-offs and split toning in the highs and the lows of the image."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, if an image is overexposed and is pushed in the highs, color contrast of the look dissapears. To avoid that, I sometimes increase contrast of the image by using Lift, so some part of it ended up in the lower region. And changing exposure also helps with getting the image “look-ready”."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/changing-the-cinematographers-exposure-values-in-post/#post-214706",
+    "scraped_at": "2026-01-15T13:16:10.629694+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/changing-the-cinematographers-exposure-values-in-post/#post-214706",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "82e1ac7f71e1f97a5d8f2aa590e66ebafb6aa29d3cbad1f8c34bc666435f02d4",
+    "parser_version": "bbpress-v2"
+  }
+}

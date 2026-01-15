@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "215096",
+    "forum_slug": "camera",
+    "topic_slug": "on-cleaner-anamorphics",
+    "parent_post_id": "215088",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Davinki",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Frank wrote:\nRealistically any production that could afford a V-Raptor and a set of Master Anamorphics wouldn’t be so stretched for budget that the data rate would become the deciding factor in something as essential to the look of the film as the choice of lenses. If you wanted to shoot 2.39 but were agnostic on whether or not it should be spherical or anamorphic, would the data rate really be what pushed you toward anamorphic before every other characteristic of the lenses themselves? The width of the sensor is to some extent arbitrary, you could match the field of view of the Master Anamorphics with spherical lenses by using wider focal lengths. The widest Master Anamorphic is 28mm, the equivalent field of view on Super 35 would be around 14mm. As David said, if you wanted to also match the depth of field there are a number of wide aperture 14mm lenses.\nhence, debatable.",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215095\">Frank wrote:</a></div>\n<p>Realistically any production that could afford a V-Raptor and a set of Master Anamorphics wouldn’t be so stretched for budget that the data rate would become the deciding factor in something as essential to the look of the film as the choice of lenses. If you wanted to shoot 2.39 but were agnostic on whether or not it should be spherical or anamorphic, would the data rate really be what pushed you toward anamorphic before every other characteristic of the lenses themselves? The width of the sensor is to some extent arbitrary, you could match the field of view of the Master Anamorphics with spherical lenses by using wider focal lengths. The widest Master Anamorphic is 28mm, the equivalent field of view on Super 35 would be around 14mm. As David said, if you wanted to also match the depth of field there are a number of wide aperture 14mm lenses.</p></blockquote>\n<p> hence, debatable.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Frank wrote:\nRealistically any production that could afford a V-Raptor and a set of Master Anamorphics wouldn’t be so stretched for budget that the data rate would become the deciding factor in something as essential to the look of the film as the choice of lenses. If you wanted to shoot 2.39 but were agnostic on whether or not it should be spherical or anamorphic, would the data rate really be what pushed you toward anamorphic before every other characteristic of the lenses themselves? The width of the sensor is to some extent arbitrary, you could match the field of view of the Master Anamorphics with spherical lenses by using wider focal lengths. The widest Master Anamorphic is 28mm, the equivalent field of view on Super 35 would be around 14mm. As David said, if you wanted to also match the depth of field there are a number of wide aperture 14mm lenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Realistically any production that could afford a V-Raptor and a set of Master Anamorphics wouldn’t be so stretched for budget that the data rate would become the deciding factor in something as essential to the look of the film as the choice of lenses. If you wanted to shoot 2.39 but were agnostic on whether or not it should be spherical or anamorphic, would the data rate really be what pushed you toward anamorphic before every other characteristic of the lenses themselves? The width of the sensor is to some extent arbitrary, you could match the field of view of the Master Anamorphics with spherical lenses by using wider focal lengths. The widest Master Anamorphic is 28mm, the equivalent field of view on Super 35 would be around 14mm. As David said, if you wanted to also match the depth of field there are a number of wide aperture 14mm lenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "hence, debatable."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Frank wrote:\nRealistically any production that could afford a V-Raptor and a set of Master Anamorphics wouldn’t be so stretched for budget that the data rate would become the deciding factor in something as essential to the look of the film as the choice of lenses. If you wanted to shoot 2.39 but were agnostic on whether or not it should be spherical or anamorphic, would the data rate really be what pushed you toward anamorphic before every other characteristic of the lenses themselves? The width of the sensor is to some extent arbitrary, you could match the field of view of the Master Anamorphics with spherical lenses by using wider focal lengths. The widest Master Anamorphic is 28mm, the equivalent field of view on Super 35 would be around 14mm. As David said, if you wanted to also match the depth of field there are a number of wide aperture 14mm lenses."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215095",
+      "text": "Frank wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215102",
+    "scraped_at": "2026-01-15T15:23:21.464930+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215102",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b4ae46e412f857da8dce762d6dac88d17a186f3c404782d62c9197c6c3774f0e",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215867",
+    "forum_slug": "camera",
+    "topic_slug": "high-iso-for-shooting-daylight-exterior",
+    "parent_post_id": "215856",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "First sentence should have been a question and not sound as rough, sorry but I couldn’t edit it.",
+  "content_html": "<p>First sentence should have been a question and not sound as rough, sorry but I couldn’t edit it.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "First sentence should have been a question and not sound as rough, sorry but I couldn’t edit it."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/high-iso-for-shooting-daylight-exterior/",
+    "scraped_at": "2026-01-15T15:20:21.252242+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/high-iso-for-shooting-daylight-exterior/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "09564627ee78cd4192f5b8a72ca6db705705db0d7671ecda0e4bf2c5e37af6a5",
+    "parser_version": "bbpress-v2"
+  }
+}

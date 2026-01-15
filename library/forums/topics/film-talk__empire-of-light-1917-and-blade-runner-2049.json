@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-1917-and-blade-runner-2049/#post-208761",
+  "forum_slug": "film-talk",
+  "topic_slug": "empire-of-light-1917-and-blade-runner-2049",
+  "title": "Empire of Light, 1917 and Blade Runner 2049",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "196017",
+    "208761"
+  ],
+  "reply_tree": {
+    "post_id": "196017",
+    "post_type": "topic",
+    "author": "GianniRanzuglia",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "208761",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-1917-and-blade-runner-2049/#post-208761",
+    "scraped_at": "2026-01-15T14:17:06.187432+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-1917-and-blade-runner-2049/#post-208761",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "32a732e21a042b714f68a9b3b4569418126b439cd9e0510e4c2c0b7aaa53016f",
+    "parser_version": "bbpress-v2"
+  }
+}

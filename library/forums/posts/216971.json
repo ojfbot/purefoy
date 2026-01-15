@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "216971",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-spaces-calculations",
+    "parent_post_id": "216966",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "G.C.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "On the one side you can calculate how many foot candles you need to get to middle grey based. A rule of thumb is that you need 100fc for a T2.8 at 100 ISO and 24fps. Double or halve the values for each stop, so T4 at 400 ASA/ISO requires ≈50 fc if you want to light at key.\nLighting units typically have photometric data available, so you know how much light you get at what distance and for a given beam angle.\nEach fixture has a different “throw” depending the beam angle. Once you know the beam angle you can also calculate how many lights you need to cover a certain area.\nBut many decisions also come from experience and instinct, especially with soft lights. How many space lights does one need for a large studio and what’s their spacing? There is no clear cut answer to this.",
+  "content_html": "<p>On the one side you can calculate how many foot candles you need to get to middle grey based. A rule of thumb is that you need 100fc for a T2.8 at 100 ISO and 24fps. Double or halve the values for each stop, so T4 at 400 ASA/ISO requires ≈50 fc if you want to light at key.</p>\n<p>Lighting units typically have photometric data available, so you know how much light you get at what distance and for a given beam angle.</p>\n<p>Each fixture has a different “throw” depending the beam angle. Once you know the beam angle you can also calculate how many lights you need to cover a certain area.</p>\n<p>But many decisions also come from experience and instinct, especially with soft lights. How many space lights does one need for a large studio and what’s their spacing? There is no clear cut answer to this.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "On the one side you can calculate how many foot candles you need to get to middle grey based. A rule of thumb is that you need 100fc for a T2.8 at 100 ISO and 24fps. Double or halve the values for each stop, so T4 at 400 ASA/ISO requires ≈50 fc if you want to light at key."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lighting units typically have photometric data available, so you know how much light you get at what distance and for a given beam angle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each fixture has a different “throw” depending the beam angle. Once you know the beam angle you can also calculate how many lights you need to cover a certain area."
+    },
+    {
+      "type": "paragraph",
+      "text": "But many decisions also come from experience and instinct, especially with soft lights. How many space lights does one need for a large studio and what’s their spacing? There is no clear cut answer to this."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-spaces-calculations/#post-217018",
+    "scraped_at": "2026-01-15T15:22:03.627064+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-spaces-calculations/#post-217018",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dca9add7059eb932d42758a81a5d6838b0c9bb89f2f4720e425632256f28f529",
+    "parser_version": "bbpress-v2"
+  }
+}

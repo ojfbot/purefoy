@@ -1,0 +1,81 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/raw-compressed-format-red-patent/#post-176319",
+  "forum_slug": "camera",
+  "topic_slug": "raw-compressed-format-red-patent",
+  "title": "Raw compressed format – RED patent",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "176198",
+    "176223",
+    "176247",
+    "176267",
+    "176279",
+    "176317",
+    "176319"
+  ],
+  "reply_tree": {
+    "post_id": "176198",
+    "post_type": "topic",
+    "author": "Wideground",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "176223",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "176247",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "176267",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "176279",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "176317",
+        "post_type": "reply",
+        "author": "gabj3",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "176319",
+        "post_type": "reply",
+        "author": "gabj3",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 6,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/raw-compressed-format-red-patent/#post-176319",
+    "scraped_at": "2026-01-15T15:44:59.795893+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/raw-compressed-format-red-patent/#post-176319",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3b9c3efff6e5faf5c53e3176d7fd2c5b62e3cfc3b439b4fa4a42c74c9612d6bb",
+    "parser_version": "bbpress-v2"
+  }
+}

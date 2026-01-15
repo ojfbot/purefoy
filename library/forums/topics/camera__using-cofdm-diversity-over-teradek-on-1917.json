@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/using-cofdm-diversity-over-teradek-on-1917/",
+  "forum_slug": "camera",
+  "topic_slug": "using-cofdm-diversity-over-teradek-on-1917",
+  "title": "Using COFDM Diversity over Teradek on 1917",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "173621"
+  ],
+  "reply_tree": {
+    "post_id": "173621",
+    "post_type": "topic",
+    "author": "gabj3",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/using-cofdm-diversity-over-teradek-on-1917/",
+    "scraped_at": "2026-01-15T15:45:53.339302+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/using-cofdm-diversity-over-teradek-on-1917/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9404f6abec5869462c0f4febcf6ebdaafc1c5b7f2ada334b80f80c362071cf71",
+    "parser_version": "bbpress-v2"
+  }
+}

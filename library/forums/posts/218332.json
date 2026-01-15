@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "218332",
+    "forum_slug": "set-talk",
+    "topic_slug": "blocking-and-rhythm",
+    "parent_post_id": "218289",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I would say it is a combination of what is shot and editing. The balance can vary between a film that is tightly storyboarded or worked out in a blocking rehearsal and one for which alternative coverage is provided.\nBoth the scenes you mention were conceived prior to the start of shooting. The Village was entirely storyboarded and our shots were almost exactly as we had planned. Jesse James was also pre planned (a shot list rather than complete storyboards) but some shots we added as we worked with the actors.",
+  "content_html": "<p>I would say it is a combination of what is shot and editing. The balance can vary between a film that is tightly storyboarded or worked out in a blocking rehearsal and one for which alternative coverage is provided.</p>\n<p>Both the scenes you mention were conceived prior to the start of shooting. The Village was entirely storyboarded and our shots were almost exactly as we had planned. Jesse James was also pre planned (a shot list rather than complete storyboards) but some shots we added as we worked with the actors.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I would say it is a combination of what is shot and editing. The balance can vary between a film that is tightly storyboarded or worked out in a blocking rehearsal and one for which alternative coverage is provided."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both the scenes you mention were conceived prior to the start of shooting. The Village was entirely storyboarded and our shots were almost exactly as we had planned. Jesse James was also pre planned (a shot list rather than complete storyboards) but some shots we added as we worked with the actors."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/blocking-and-rhythm/#post-218343",
+    "scraped_at": "2026-01-15T11:51:03.343537+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/blocking-and-rhythm/#post-218343",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "baf1b27b932753800d2a8950b8642b786bfaa47d9f32bb2e14131ebb38d4aa5d",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "216187",
+    "forum_slug": "camera",
+    "topic_slug": "switching-stock-or-not-kodak-5219-500t",
+    "parent_post_id": "216181",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It’s just my opinion, but the early daylight-balanced Kodak EXR stocks (50D and 250D) were definitely higher in contrast than the tungsten-balanced ones, but by the time of Vision-3, Kodak made them all pretty similar (almost too similar).  The main change between Vision-2 and Vision-3 was the introduction of “micro grains” (very slow in speed) which increased detail by 1-stop in the extreme overexposure areas.\nI use daylight stocks sometimes but whether I do a show that is, let’s say, 250D and 500T versus 200T and 500T, depends on a number of factors. As Roger says, you can pull the 85 filter on tungsten stocks for cooler shadows or a blue dusk effect, or let the scene itself be timed on the cool side (i.e. only partially correct for the missing 85 filter.)\nSo I tend to base the decision on whether it’s a movie that will lean cool or lean warm — if I’m doing a wintery movie in the woods, I’m more likely to stick to just tungsten stocks, if I’m doing a summer movie in the desert, I’m more likely to get the daylight stocks partly to avoid the 85 filter.\nI worked 2nd Unit on Season 1 of “Westworld” matching footage from the first half of the shoot before they shutdown, and one DP used 50D whenever he could and the other DP shot everything on 500T — I’m not sure viewers saw a big difference…",
+  "content_html": "<p>It’s just my opinion, but the early daylight-balanced Kodak EXR stocks (50D and 250D) were definitely higher in contrast than the tungsten-balanced ones, but by the time of Vision-3, Kodak made them all pretty similar (almost too similar).  The main change between Vision-2 and Vision-3 was the introduction of “micro grains” (very slow in speed) which increased detail by 1-stop in the extreme overexposure areas.</p>\n<p>I use daylight stocks sometimes but whether I do a show that is, let’s say, 250D and 500T versus 200T and 500T, depends on a number of factors. As Roger says, you can pull the 85 filter on tungsten stocks for cooler shadows or a blue dusk effect, or let the scene itself be timed on the cool side (i.e. only partially correct for the missing 85 filter.)</p>\n<p>So I tend to base the decision on whether it’s a movie that will lean cool or lean warm — if I’m doing a wintery movie in the woods, I’m more likely to stick to just tungsten stocks, if I’m doing a summer movie in the desert, I’m more likely to get the daylight stocks partly to avoid the 85 filter.</p>\n<p>I worked 2nd Unit on Season 1 of “Westworld” matching footage from the first half of the shoot before they shutdown, and one DP used 50D whenever he could and the other DP shot everything on 500T — I’m not sure viewers saw a big difference…</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "It’s just my opinion, but the early daylight-balanced Kodak EXR stocks (50D and 250D) were definitely higher in contrast than the tungsten-balanced ones, but by the time of Vision-3, Kodak made them all pretty similar (almost too similar).  The main change between Vision-2 and Vision-3 was the introduction of “micro grains” (very slow in speed) which increased detail by 1-stop in the extreme overexposure areas."
+    },
+    {
+      "type": "paragraph",
+      "text": "I use daylight stocks sometimes but whether I do a show that is, let’s say, 250D and 500T versus 200T and 500T, depends on a number of factors. As Roger says, you can pull the 85 filter on tungsten stocks for cooler shadows or a blue dusk effect, or let the scene itself be timed on the cool side (i.e. only partially correct for the missing 85 filter.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "So I tend to base the decision on whether it’s a movie that will lean cool or lean warm — if I’m doing a wintery movie in the woods, I’m more likely to stick to just tungsten stocks, if I’m doing a summer movie in the desert, I’m more likely to get the daylight stocks partly to avoid the 85 filter."
+    },
+    {
+      "type": "paragraph",
+      "text": "I worked 2nd Unit on Season 1 of “Westworld” matching footage from the first half of the shoot before they shutdown, and one DP used 50D whenever he could and the other DP shot everything on 500T — I’m not sure viewers saw a big difference…"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/switching-stock-or-not-kodak-5219-500t/#post-216189",
+    "scraped_at": "2026-01-15T14:50:52.883877+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/switching-stock-or-not-kodak-5219-500t/#post-216189",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "432b57ced8cb9d488f03fbdd74f7654b08e419dc80b47da3961fbae0dcb19cdb",
+    "parser_version": "bbpress-v2"
+  }
+}

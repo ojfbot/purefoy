@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "214798",
+    "forum_slug": "camera",
+    "topic_slug": "breaking-the-rules-consistently"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "tjwilson",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "In classrooms there are a lot of camera rules you get told to follow:\nshutter speed must be double your frame rate\nf/2.8 is the aperture you should always start at\netc…etc….etc…..\nPeople talk quite a bit about when they break these rules for a specific circumstance or scene. I wanted to ask about breaking these camera rules consistently in every scene or scene type across a film.\nBecause getting a consistent “feel” in a film, where you don’t consciously think about the cinematography, is something I think these well-meaning rules are trying to push you toward.\nCan anyone think of examples where they broke these “rules”, but kept on breaking them for the entire film, not just for one scene? Hearing about how you made some of those decisions in prep and the process you went through to test and implement them during filming would be very interesting. Also, has anyone had to throw away a great rule breaking shot because it ruined the consistency of the film? If you can think of any examples, I’d love to hear them.",
+  "content_html": "<p>In classrooms there are a lot of camera rules you get told to follow:</p>\n<ul>\n<li>shutter speed must be double your frame rate</li>\n<li>f/2.8 is the aperture you should always start at</li>\n<li>etc…etc….etc…..</li>\n</ul>\n<p>People talk quite a bit about when they break these rules for a specific circumstance or scene. I wanted to ask about breaking these camera rules consistently in every scene or scene type across a film.</p>\n<p>Because getting a consistent “feel” in a film, where you don’t consciously think about the cinematography, is something I think these well-meaning rules are trying to push you toward.</p>\n<p>Can anyone think of examples where they broke these “rules”, but kept on breaking them for the entire film, not just for one scene? Hearing about how you made some of those decisions in prep and the process you went through to test and implement them during filming would be very interesting. Also, has anyone had to throw away a great rule breaking shot because it ruined the consistency of the film? If you can think of any examples, I’d love to hear them.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In classrooms there are a lot of camera rules you get told to follow:"
+    },
+    {
+      "type": "list",
+      "text": "shutter speed must be double your frame rate\nf/2.8 is the aperture you should always start at\netc…etc….etc….."
+    },
+    {
+      "type": "paragraph",
+      "text": "People talk quite a bit about when they break these rules for a specific circumstance or scene. I wanted to ask about breaking these camera rules consistently in every scene or scene type across a film."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because getting a consistent “feel” in a film, where you don’t consciously think about the cinematography, is something I think these well-meaning rules are trying to push you toward."
+    },
+    {
+      "type": "paragraph",
+      "text": "Can anyone think of examples where they broke these “rules”, but kept on breaking them for the entire film, not just for one scene? Hearing about how you made some of those decisions in prep and the process you went through to test and implement them during filming would be very interesting. Also, has anyone had to throw away a great rule breaking shot because it ruined the consistency of the film? If you can think of any examples, I’d love to hear them."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/breaking-the-rules-consistently/#post-214815",
+    "scraped_at": "2026-01-15T15:25:07.039238+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/breaking-the-rules-consistently/#post-214815",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2f9101026005716e017466937aa69f9f50b6fd99e6bbc23e42f346d0e1b7db0a",
+    "parser_version": "bbpress-v2"
+  }
+}

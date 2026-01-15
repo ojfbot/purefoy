@@ -1,0 +1,81 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/working-with-limited-lighting/#post-216714",
+  "forum_slug": "forum",
+  "topic_slug": "working-with-limited-lighting",
+  "title": "Working with limited lighting",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216676",
+    "216678",
+    "216681",
+    "216682",
+    "216685",
+    "216711",
+    "216714"
+  ],
+  "reply_tree": {
+    "post_id": "216676",
+    "post_type": "topic",
+    "author": "ceciliah1738",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216678",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216681",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216682",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216685",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216711",
+        "post_type": "reply",
+        "author": "ceciliah1738",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216714",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 6,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/working-with-limited-lighting/#post-216714",
+    "scraped_at": "2026-01-15T15:23:19.330411+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/working-with-limited-lighting/#post-216714",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2796040c6923a313785f1e1dd67ad2eaf854a7933ec05a268489500f30238a07",
+    "parser_version": "bbpress-v2"
+  }
+}

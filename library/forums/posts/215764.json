@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215764",
+    "forum_slug": "composition",
+    "topic_slug": "animation-films-composition-and-lighting",
+    "parent_post_id": "215674",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "We always referred to lens lengths and precise compositions on the animated film we were involved with. But, as always, its a collaboration with a great many people.\nCamera capture was only used on specific scenes or, as with Rango, to explore a set. For the Croods, we were looking at how a hand held camera would feel. I’ve only experienced it in limited situations rather than an entire film.",
+  "content_html": "<p>We always referred to lens lengths and precise compositions on the animated film we were involved with. But, as always, its a collaboration with a great many people.</p>\n<p>Camera capture was only used on specific scenes or, as with Rango, to explore a set. For the Croods, we were looking at how a hand held camera would feel. I’ve only experienced it in limited situations rather than an entire film.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "We always referred to lens lengths and precise compositions on the animated film we were involved with. But, as always, its a collaboration with a great many people."
+    },
+    {
+      "type": "paragraph",
+      "text": "Camera capture was only used on specific scenes or, as with Rango, to explore a set. For the Croods, we were looking at how a hand held camera would feel. I’ve only experienced it in limited situations rather than an entire film."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/animation-films-composition-and-lighting/#post-215764",
+    "scraped_at": "2026-01-15T12:42:18.107654+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/animation-films-composition-and-lighting/#post-215764",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a2caa662f487d740b984f5eef5fc48b530b383146a11dc457cf71ed0258a4298",
+    "parser_version": "bbpress-v2"
+  }
+}

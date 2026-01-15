@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/do-i-lose-anything-in-the-di-by-not-using-85-80a-filter/#post-215046",
+  "forum_slug": "camera",
+  "topic_slug": "do-i-lose-anything-in-the-di-by-not-using-85-80a-filter",
+  "title": "Do I lose anything in the DI by not using 85/80A filter?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215045",
+    "215046"
+  ],
+  "reply_tree": {
+    "post_id": "215045",
+    "post_type": "topic",
+    "author": "iamjoehan",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215046",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/do-i-lose-anything-in-the-di-by-not-using-85-80a-filter/#post-215046",
+    "scraped_at": "2026-01-15T15:23:45.641685+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/do-i-lose-anything-in-the-di-by-not-using-85-80a-filter/#post-215046",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "020d3289afe5fb249ac158c14e74b19b8abc181bfd8088ad2170e023467bcda5",
+    "parser_version": "bbpress-v2"
+  }
+}

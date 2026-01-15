@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "216479",
+    "forum_slug": "camera",
+    "topic_slug": "the-coordination-between-camera-ei-exposure-index-and-lighting",
+    "parent_post_id": "216428",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Juanlage",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Good morning,\nI hope my contribution helps you; it’s another way to see things and has helped me understand it better.\nWhen working with a camera in Raw or Log, the ISO and Cine EI are metadata. This means that even if you set the Cine EI to 2000 ISO or 200 ISO, the camera’s base sensitivity (let’s say it is 800) will not actually change. This can be seen in a WFO, where the signal does not change when altering the Cine EI. In reality, I could work without paying attention to the Cine EI and just look at the WFO, setting the signal close to the clipping point on the black side if there are many uncontrolled highlights or near the white clipping if I want to reduce noise as much as the scene allows. This is done, of course, by adjusting the aperture, opening or closing it while closely watching the waveform monitor.\nHowever, this method has a problem: if you ignore the Cine EI, even if the signal is workable, it won’t have logical continuity because the camera has a metadata (ISO Cine EI) that is inconsistent with the exposure you’ve set using the waveform monitor, causing exposure jumps in the image. Another issue is that LUTs won’t work properly because they are associated with the Cine EI metadata to maintain coherence; you’ll see them more overexposed or underexposed. Additionally, no one will understand the intent of your photography.\nUltimately, the Cine EI is just a reference to ensure the workflow remains coherent and the exposure intent is clear. If your base is 800 and you lower it to 400, logically you open the aperture by one stop. When you do this, activate and deactivate the LUT; when the LUT is deactivated, you’ll see that the log signal is higher on the waveform monitor because you’ve compensated by opening the aperture from 800 EI to 400 EI. If you don’t compensate by opening the aperture, the signal will remain in the same place on the waveform monitor.\nI hope this explanation is clear since my English is not good and this is translated by Google. Thank you and best regards,",
+  "content_html": "<p>Good morning,</p>\n<p>I hope my contribution helps you; it’s another way to see things and has helped me understand it better.</p>\n<p>When working with a camera in Raw or Log, the ISO and Cine EI are metadata. This means that even if you set the Cine EI to 2000 ISO or 200 ISO, the camera’s base sensitivity (let’s say it is 800) will not actually change. This can be seen in a WFO, where the signal does not change when altering the Cine EI. In reality, I could work without paying attention to the Cine EI and just look at the WFO, setting the signal close to the clipping point on the black side if there are many uncontrolled highlights or near the white clipping if I want to reduce noise as much as the scene allows. This is done, of course, by adjusting the aperture, opening or closing it while closely watching the waveform monitor.</p>\n<p>However, this method has a problem: if you ignore the Cine EI, even if the signal is workable, it won’t have logical continuity because the camera has a metadata (ISO Cine EI) that is inconsistent with the exposure you’ve set using the waveform monitor, causing exposure jumps in the image. Another issue is that LUTs won’t work properly because they are associated with the Cine EI metadata to maintain coherence; you’ll see them more overexposed or underexposed. Additionally, no one will understand the intent of your photography.</p>\n<p>Ultimately, the Cine EI is just a reference to ensure the workflow remains coherent and the exposure intent is clear. If your base is 800 and you lower it to 400, logically you open the aperture by one stop. When you do this, activate and deactivate the LUT; when the LUT is deactivated, you’ll see that the log signal is higher on the waveform monitor because you’ve compensated by opening the aperture from 800 EI to 400 EI. If you don’t compensate by opening the aperture, the signal will remain in the same place on the waveform monitor.</p>\n<p>I hope this explanation is clear since my English is not good and this is translated by Google. Thank you and best regards,</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Good morning,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope my contribution helps you; it’s another way to see things and has helped me understand it better."
+    },
+    {
+      "type": "paragraph",
+      "text": "When working with a camera in Raw or Log, the ISO and Cine EI are metadata. This means that even if you set the Cine EI to 2000 ISO or 200 ISO, the camera’s base sensitivity (let’s say it is 800) will not actually change. This can be seen in a WFO, where the signal does not change when altering the Cine EI. In reality, I could work without paying attention to the Cine EI and just look at the WFO, setting the signal close to the clipping point on the black side if there are many uncontrolled highlights or near the white clipping if I want to reduce noise as much as the scene allows. This is done, of course, by adjusting the aperture, opening or closing it while closely watching the waveform monitor."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, this method has a problem: if you ignore the Cine EI, even if the signal is workable, it won’t have logical continuity because the camera has a metadata (ISO Cine EI) that is inconsistent with the exposure you’ve set using the waveform monitor, causing exposure jumps in the image. Another issue is that LUTs won’t work properly because they are associated with the Cine EI metadata to maintain coherence; you’ll see them more overexposed or underexposed. Additionally, no one will understand the intent of your photography."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ultimately, the Cine EI is just a reference to ensure the workflow remains coherent and the exposure intent is clear. If your base is 800 and you lower it to 400, logically you open the aperture by one stop. When you do this, activate and deactivate the LUT; when the LUT is deactivated, you’ll see that the log signal is higher on the waveform monitor because you’ve compensated by opening the aperture from 800 EI to 400 EI. If you don’t compensate by opening the aperture, the signal will remain in the same place on the waveform monitor."
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope this explanation is clear since my English is not good and this is translated by Google. Thank you and best regards,"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-coordination-between-camera-ei-exposure-index-and-lighting/#post-216479",
+    "scraped_at": "2026-01-15T14:13:06.156099+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-coordination-between-camera-ei-exposure-index-and-lighting/#post-216479",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2e194bac94cff9d15f2c7896642a35ccb5bfa5803091bb0aedfbe75a70eeb8f6",
+    "parser_version": "bbpress-v2"
+  }
+}

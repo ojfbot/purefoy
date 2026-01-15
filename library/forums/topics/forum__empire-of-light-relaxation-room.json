@@ -1,0 +1,81 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-relaxation-room/#post-214958",
+  "forum_slug": "forum",
+  "topic_slug": "empire-of-light-relaxation-room",
+  "title": "Empire of Light – Relaxation Room",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214947",
+    "214949",
+    "214951",
+    "214952",
+    "214955",
+    "214957",
+    "214958"
+  ],
+  "reply_tree": {
+    "post_id": "214947",
+    "post_type": "topic",
+    "author": "Max A.",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214949",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214951",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214952",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214955",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214957",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214958",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 6,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-relaxation-room/#post-214958",
+    "scraped_at": "2026-01-15T15:50:15.389728+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-relaxation-room/#post-214958",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "469560e9c3e70be1460dfe2cb3370ebecb7911e1a4d6be4aae5458aaa53078b6",
+    "parser_version": "bbpress-v2"
+  }
+}

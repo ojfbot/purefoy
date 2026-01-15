@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "214961",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-trends"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Tyler F",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I was having a discussion with a few friends last night regarding hard vs soft light. Some of whom (like myself) enjoy the classic ‘hollywood’ lighting techniques. Obviously there were restrictions at the time when film stocks were only so fast/sensititive to light, so unless you had many big lights, it was more difficult to do setups such as a book light.\nA point was made that the classic hollywood hard light made actors/actresses look like ‘movie stars’. I can’t say that I fully agree but I do feel a certain glamourness when watching Ingrid Bergman in Casablanca for example. Today’s films can be so dark and flat it’s hard to even make out what’s happening. I won’t name names.\nDo you miss any of those techniques that were used from the 40’s-60’s? Browsing your work Roger, naturalism is something you’ve mastered, but do you ever wish to see light that is even slightly unmotivated?",
+  "content_html": "<p>I was having a discussion with a few friends last night regarding hard vs soft light. Some of whom (like myself) enjoy the classic ‘hollywood’ lighting techniques. Obviously there were restrictions at the time when film stocks were only so fast/sensititive to light, so unless you had many big lights, it was more difficult to do setups such as a book light.</p>\n<p>A point was made that the classic hollywood hard light made actors/actresses look like ‘movie stars’. I can’t say that I fully agree but I do feel a certain glamourness when watching Ingrid Bergman in Casablanca for example. Today’s films can be so dark and flat it’s hard to even make out what’s happening. I won’t name names.</p>\n<p>Do you miss any of those techniques that were used from the 40’s-60’s? Browsing your work Roger, naturalism is something you’ve mastered, but do you ever wish to see light that is even slightly unmotivated?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I was having a discussion with a few friends last night regarding hard vs soft light. Some of whom (like myself) enjoy the classic ‘hollywood’ lighting techniques. Obviously there were restrictions at the time when film stocks were only so fast/sensititive to light, so unless you had many big lights, it was more difficult to do setups such as a book light."
+    },
+    {
+      "type": "paragraph",
+      "text": "A point was made that the classic hollywood hard light made actors/actresses look like ‘movie stars’. I can’t say that I fully agree but I do feel a certain glamourness when watching Ingrid Bergman in Casablanca for example. Today’s films can be so dark and flat it’s hard to even make out what’s happening. I won’t name names."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you miss any of those techniques that were used from the 40’s-60’s? Browsing your work Roger, naturalism is something you’ve mastered, but do you ever wish to see light that is even slightly unmotivated?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-trends/#post-214962",
+    "scraped_at": "2026-01-15T15:49:57.259236+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-trends/#post-214962",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "502d7109e658d21fb9931bfda1c572a51c3627ecfb7e1b4527e39dddecec49de",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "171542",
+    "forum_slug": "website-news",
+    "topic_slug": "website-down",
+    "parent_post_id": "169461",
+    "parent_type": "topic",
+    "position": 12
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "halfgrain",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m sorry for maybe missing the obvious, but how exactly can I navigate through the “backup” on web.archive.org ? All I can see is a list of URLs saved, but clicking on it seems to only reveal statistics but not the actual content. Would you be able to guide me in the right direction? Thanks!",
+  "content_html": "<p>I’m sorry for maybe missing the obvious, but how exactly can I navigate through the “backup” on web.archive.org ? All I can see is a list of URLs saved, but clicking on it seems to only reveal statistics but not the actual content. Would you be able to guide me in the right direction? Thanks!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m sorry for maybe missing the obvious, but how exactly can I navigate through the “backup” on web.archive.org ? All I can see is a list of URLs saved, but clicking on it seems to only reveal statistics but not the actual content. Would you be able to guide me in the right direction? Thanks!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/website-down/",
+    "scraped_at": "2026-01-15T11:50:45.888054+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/website-down/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7f02f45b4316c03029059eb6256d117bcf1231a30e94df49706df3aeb2005ee6",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "215724",
+    "forum_slug": "forum",
+    "topic_slug": "the-look-of-hail-cesar",
+    "parent_post_id": "215700",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you very much for your reply Mr. Deakins! I apologize if something is altered in the image of the film. I took the picture from Filgrab, a website with many movie stills, maybe there was a loss of color details (probably based on the Internet color space) when the website uploaded the stills. Maybe, they took the stills from a movie source with colors slightly off, who knows?\nWhen you say that you did shoot the exteriors to be warm, and based on the fact that you shoot with film stock did you warm the image during DI or by adding a filter in front of the lens (or maybe shooting with a daylight stock with 85filter but I know you prefer the tungsten stock when you shot in film).\nMaybe today a solution could be shooting with a white balance slightly off (as suggested by Stip), my curiosity is related to the process with the film stock workflow.\nI also love the color density that film stock has, it is not easy to “replicate” with digital files until I don’t work with a high-end camera and expert colorist.\nAs always, thank you for your patience in answering our questions, it is priceless for me.\nI apologize for my bad English.\nI wish you a peaceful day.\nMax.",
+  "content_html": "<p>Thank you very much for your reply Mr. Deakins! I apologize if something is altered in the image of the film. I took the picture from Filgrab, a website with many movie stills, maybe there was a loss of color details (probably based on the Internet color space) when the website uploaded the stills. Maybe, they took the stills from a movie source with colors slightly off, who knows?</p>\n<p>When you say that you did shoot the exteriors to be warm, and based on the fact that you shoot with film stock did you warm the image during DI or by adding a filter in front of the lens (or maybe shooting with a daylight stock with 85filter but I know you prefer the tungsten stock when you shot in film).<br/>\nMaybe today a solution could be shooting with a white balance slightly off (as suggested by Stip), my curiosity is related to the process with the film stock workflow.</p>\n<p>I also love the color density that film stock has, it is not easy to “replicate” with digital files until I don’t work with a high-end camera and expert colorist.</p>\n<p>As always, thank you for your patience in answering our questions, it is priceless for me.<br/>\nI apologize for my bad English.</p>\n<p>I wish you a peaceful day.<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you very much for your reply Mr. Deakins! I apologize if something is altered in the image of the film. I took the picture from Filgrab, a website with many movie stills, maybe there was a loss of color details (probably based on the Internet color space) when the website uploaded the stills. Maybe, they took the stills from a movie source with colors slightly off, who knows?"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you say that you did shoot the exteriors to be warm, and based on the fact that you shoot with film stock did you warm the image during DI or by adding a filter in front of the lens (or maybe shooting with a daylight stock with 85filter but I know you prefer the tungsten stock when you shot in film).\nMaybe today a solution could be shooting with a white balance slightly off (as suggested by Stip), my curiosity is related to the process with the film stock workflow."
+    },
+    {
+      "type": "paragraph",
+      "text": "I also love the color density that film stock has, it is not easy to “replicate” with digital files until I don’t work with a high-end camera and expert colorist."
+    },
+    {
+      "type": "paragraph",
+      "text": "As always, thank you for your patience in answering our questions, it is priceless for me.\nI apologize for my bad English."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful day.\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-look-of-hail-cesar/#post-215885",
+    "scraped_at": "2026-01-15T15:43:38.596046+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-look-of-hail-cesar/#post-215885",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "11cdbda87d7d324de0eec4c50c14f34451264bfc5c089333db4b733f31f9f504",
+    "parser_version": "bbpress-v2"
+  }
+}

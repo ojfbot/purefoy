@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/ncfom-hotel-scene/#post-189959",
+  "forum_slug": "camera",
+  "topic_slug": "ncfom-hotel-scene",
+  "title": "NCFOM hotel scene",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "189948",
+    "189959"
+  ],
+  "reply_tree": {
+    "post_id": "189948",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "189959",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ncfom-hotel-scene/#post-189959",
+    "scraped_at": "2026-01-15T15:43:13.696445+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ncfom-hotel-scene/#post-189959",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "24017093bbad817d6ba02c876c2c1880fd5ed78c877f97d34ecc864b78de91a2",
+    "parser_version": "bbpress-v2"
+  }
+}

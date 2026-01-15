@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "198403",
+    "forum_slug": "camera",
+    "topic_slug": "inspiration-and-diy-rigs",
+    "parent_post_id": "192046",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I always loved (but never tried) the “BroomCam”: rig a camera onto a broom for an ultra low ‘steadicam’.",
+  "content_html": "<p>I always loved (but never tried) the “BroomCam”: rig a camera onto a broom for an ultra low ‘steadicam’.</p>\n<p><iframe allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"381\" loading=\"lazy\" src=\"https://player.vimeo.com/video/152185194?h=e31ca1b3a1&amp;dnt=1&amp;app_id=122963\" title=\"PutchLabs BroomCam promo\" width=\"678\"></iframe></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I always loved (but never tried) the “BroomCam”: rig a camera onto a broom for an ultra low ‘steadicam’."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inspiration-and-diy-rigs/#post-198449",
+    "scraped_at": "2026-01-15T15:43:01.133024+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inspiration-and-diy-rigs/#post-198449",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "14f0485899966c8fedfd4fc3cba4c5e17f4bc0fca5a522b6a2415e29f6fff523",
+    "parser_version": "bbpress-v2"
+  }
+}

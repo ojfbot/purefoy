@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "215682",
+    "forum_slug": "film-talk",
+    "topic_slug": "kurosawas-high-and-low",
+    "parent_post_id": "215653",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "GianniRanzuglia",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello,\nLawrence of Arabia includes a lot breathtaking wide shots of the landscape, and it’s at full effect when its hundreds of extras are on screen. Similarly, Stanley Kubrick’s 2001: A Space Odyssey and Barry Lyndon feature immaculate looking and incredible precise artwork, I love every  painterly frame of Barry Lyndon.\nBut do check out Hitchcock and Fellini’s films too! Fellini’s films are visually extravagant and encompass a surreal cinematic style. And both directors move the camera superbly.\nHope this helps!",
+  "content_html": "<p>Hello,</p>\n<p>Lawrence of Arabia includes a lot breathtaking wide shots of the landscape, and it’s at full effect when its hundreds of extras are on screen. Similarly, Stanley Kubrick’s 2001: A Space Odyssey and Barry Lyndon feature immaculate looking and incredible precise artwork, I love every  painterly frame of Barry Lyndon.</p>\n<p>But do check out Hitchcock and Fellini’s films too! Fellini’s films are visually extravagant and encompass a surreal cinematic style. And both directors move the camera superbly.</p>\n<p>Hope this helps!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lawrence of Arabia includes a lot breathtaking wide shots of the landscape, and it’s at full effect when its hundreds of extras are on screen. Similarly, Stanley Kubrick’s 2001: A Space Odyssey and Barry Lyndon feature immaculate looking and incredible precise artwork, I love every  painterly frame of Barry Lyndon."
+    },
+    {
+      "type": "paragraph",
+      "text": "But do check out Hitchcock and Fellini’s films too! Fellini’s films are visually extravagant and encompass a surreal cinematic style. And both directors move the camera superbly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope this helps!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/kurosawas-high-and-low/#post-215755",
+    "scraped_at": "2026-01-15T13:16:10.527420+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/kurosawas-high-and-low/#post-215755",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "034c33585ff0d3898b23f77a5b30867495adeb51605b84b4f22ac508ed632405",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "175763",
+    "forum_slug": "set-talk",
+    "topic_slug": "gaining-set-experience"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "bscofano88",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Team Deakins and forum members,\nI have recently listened to Monaya Abel’s episode of the podcast and it caught my attention how – apparently – being in film school is a great way to gain expertise, by both building a network and working on your colleagues shorts.\nNot being to film school, I feel a bit “stuck” on this aspect. I would deeply appreciate having more set experience, getting my hands dirty, but I am usually disregard for the position I apply for being inexperienced. Tricky, right? I need experience to have more experience…\nI would appreciate any inputs from the community, mostly thinking about:\nIs self producing a great way to get this much needed expertise?\nWhen hiring a young professional, what do you usually look for?\nIs it necessary to be in film school to get trainee/apprentice positions in the US and Europe?\nThanks in advance for all replies, I honestly appreciate it.",
+  "content_html": "<p>Hello Team Deakins and forum members,</p>\n<p>I have recently listened to Monaya Abel’s episode of the podcast and it caught my attention how – apparently – being in film school is a great way to gain expertise, by both building a network and working on your colleagues shorts.</p>\n<p>Not being to film school, I feel a bit “stuck” on this aspect. I would deeply appreciate having more set experience, getting my hands dirty, but I am usually disregard for the position I apply for being inexperienced. Tricky, right? I need experience to have more experience…</p>\n<p>I would appreciate any inputs from the community, mostly thinking about:</p>\n<ul>\n<li>Is self producing a great way to get this much needed expertise?</li>\n<li>When hiring a young professional, what do you usually look for?</li>\n<li>Is it necessary to be in film school to get trainee/apprentice positions in the US and Europe?</li>\n</ul>\n<p>Thanks in advance for all replies, I honestly appreciate it.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Team Deakins and forum members,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have recently listened to Monaya Abel’s episode of the podcast and it caught my attention how – apparently – being in film school is a great way to gain expertise, by both building a network and working on your colleagues shorts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not being to film school, I feel a bit “stuck” on this aspect. I would deeply appreciate having more set experience, getting my hands dirty, but I am usually disregard for the position I apply for being inexperienced. Tricky, right? I need experience to have more experience…"
+    },
+    {
+      "type": "paragraph",
+      "text": "I would appreciate any inputs from the community, mostly thinking about:"
+    },
+    {
+      "type": "list",
+      "text": "Is self producing a great way to get this much needed expertise?\nWhen hiring a young professional, what do you usually look for?\nIs it necessary to be in film school to get trainee/apprentice positions in the US and Europe?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks in advance for all replies, I honestly appreciate it."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/gaining-set-experience/#post-185168",
+    "scraped_at": "2026-01-15T13:39:57.225732+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/gaining-set-experience/#post-185168",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f6e060963c74bc44ffcd4bdb82c8ac2acff1d60a03b488c183289b36a5fa3be7",
+    "parser_version": "bbpress-v2"
+  }
+}

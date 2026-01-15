@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "196637",
+    "forum_slug": "camera",
+    "topic_slug": "alexa-mini-lf",
+    "parent_post_id": "196072",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Don’t see any reason for the LF to be thrown out. I have a Leica M8 stills camera, which has a smaller sensor and less resolution than the M9, for instance, but it continues to produce good images – if I point it in the right direction.",
+  "content_html": "<p>Don’t see any reason for the LF to be thrown out. I have a Leica M8 stills camera, which has a smaller sensor and less resolution than the M9, for instance, but it continues to produce good images – if I point it in the right direction.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Don’t see any reason for the LF to be thrown out. I have a Leica M8 stills camera, which has a smaller sensor and less resolution than the M9, for instance, but it continues to produce good images – if I point it in the right direction."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/alexa-mini-lf/#post-199631",
+    "scraped_at": "2026-01-15T15:42:49.603028+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/alexa-mini-lf/#post-199631",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c41a4f00bf4b2fc5ed05b504cc254364645b1bbb60b6e9f3527304e833041b6c",
+    "parser_version": "bbpress-v2"
+  }
+}

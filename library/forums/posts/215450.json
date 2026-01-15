@@ -1,0 +1,56 @@
+{
+  "ids": {
+    "post_id": "215450",
+    "forum_slug": "film-talk",
+    "topic_slug": "films-that-light-and-compose-faces-very-well",
+    "parent_post_id": "215446",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m not entirely sure but maybe some of Roger Deakins’ films have one or two decent shots in it 😉\nOther than that, ‘Come and See’ comes to mind, mostly (all?) natural light but rarely do films create such power with faces.",
+  "content_html": "<p>I’m not entirely sure but maybe some of Roger Deakins’ films have one or two decent shots in it 😉</p>\n<p>Other than that, ‘Come and See’ comes to mind, mostly (all?) natural light but rarely do films create such power with faces.</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215450/outcha44ostdt2b0qvx2fhdjm5zl0rkz.jpeg\"/><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215450/ulkew1baqd5laxm2f7rwtybog3wu27zz.jpeg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m not entirely sure but maybe some of Roger Deakins’ films have one or two decent shots in it 😉"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other than that, ‘Come and See’ comes to mind, mostly (all?) natural light but rarely do films create such power with faces."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215450/outcha44ostdt2b0qvx2fhdjm5zl0rkz.jpeg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215450/ulkew1baqd5laxm2f7rwtybog3wu27zz.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/films-that-light-and-compose-faces-very-well/#post-215592",
+    "scraped_at": "2026-01-15T13:23:37.873228+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/films-that-light-and-compose-faces-very-well/#post-215592",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "901ddc28c27c86e8ddb6da2ea7d58b850b41bc83102fd4e38bfc9156824d0bc3",
+    "parser_version": "bbpress-v2"
+  }
+}

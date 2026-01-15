@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "post_id": "170189",
+    "forum_slug": "post",
+    "topic_slug": "changing-the-cinematographers-exposure-values-in-post",
+    "parent_post_id": "170152",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You can off-set logarithmic gamma similarly to RAW just the camera manufacturer itself then has no ‘say’ in redistribution of values.\nAs you say when you adjust RAW values in the decoder its in a linear space (keep in mind, in RAW almost nobody still captures linear values, we just re-linearise the signal from its logarithmic container).\nYou can do the same with a ProRes 4444 – non ‘RAW’ codec by applying the same mathematical transforms, it’s just a little jankier as most logarithmic equations have an EI aspect that you cannot adjust, so the signal redistribution is not the same as if its done with the manufacturers SDK.\nHowever, this does bring up an interesting subject – I recently had a series of cinematographers shoot on REDs and Sony’s for the entirety of a show, both claiming either looked better. I told production they were indistinguishable.\nWe created our show look in the Log3G10 RedWGRGB IPP2 colour pipeline and I matched all Sony’s to Log3G10 RedWGRGB and the additional show-‘look’ was applied and was near indistinguishable.\nJust map out the transform with both cameras in near-identical settings as a test, make your corrects (I don’t do this in a colour NLE but rather a compositor) and it’ll be as accurate if not more than applying corrections after normalising signal and it retains artistic intent.\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>You can off-set logarithmic gamma similarly to RAW just the camera manufacturer itself then has no ‘say’ in redistribution of values.</p>\n<p>As you say when you adjust RAW values in the decoder its in a linear space (keep in mind, in RAW almost nobody still captures linear values, we just re-linearise the signal from its logarithmic container).</p>\n<p>You can do the same with a ProRes 4444 – non ‘RAW’ codec by applying the same mathematical transforms, it’s just a little jankier as most logarithmic equations have an EI aspect that you cannot adjust, so the signal redistribution is not the same as if its done with the manufacturers SDK.</p>\n<p> </p>\n<p>However, this does bring up an interesting subject – I recently had a series of cinematographers shoot on REDs and Sony’s for the entirety of a show, both claiming either looked better. I told production they were indistinguishable.</p>\n<p>We created our show look in the Log3G10 RedWGRGB IPP2 colour pipeline and I matched all Sony’s to Log3G10 RedWGRGB and the additional show-‘look’ was applied and was near indistinguishable.</p>\n<p>Just map out the transform with both cameras in near-identical settings as a test, make your corrects (I don’t do this in a colour NLE but rather a compositor) and it’ll be as accurate if not more than applying corrections after normalising signal and it retains artistic intent.</p>\n<p> </p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You can off-set logarithmic gamma similarly to RAW just the camera manufacturer itself then has no ‘say’ in redistribution of values."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you say when you adjust RAW values in the decoder its in a linear space (keep in mind, in RAW almost nobody still captures linear values, we just re-linearise the signal from its logarithmic container)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can do the same with a ProRes 4444 – non ‘RAW’ codec by applying the same mathematical transforms, it’s just a little jankier as most logarithmic equations have an EI aspect that you cannot adjust, so the signal redistribution is not the same as if its done with the manufacturers SDK."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, this does bring up an interesting subject – I recently had a series of cinematographers shoot on REDs and Sony’s for the entirety of a show, both claiming either looked better. I told production they were indistinguishable."
+    },
+    {
+      "type": "paragraph",
+      "text": "We created our show look in the Log3G10 RedWGRGB IPP2 colour pipeline and I matched all Sony’s to Log3G10 RedWGRGB and the additional show-‘look’ was applied and was near indistinguishable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just map out the transform with both cameras in near-identical settings as a test, make your corrects (I don’t do this in a colour NLE but rather a compositor) and it’ll be as accurate if not more than applying corrections after normalising signal and it retains artistic intent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/changing-the-cinematographers-exposure-values-in-post/#post-214706",
+    "scraped_at": "2026-01-15T13:16:10.626558+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/changing-the-cinematographers-exposure-values-in-post/#post-214706",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e16a034cf7a4bcda5597eb11051077a308bcba5b0a87530c265b36b7f8ec3fd7",
+    "parser_version": "bbpress-v2"
+  }
+}

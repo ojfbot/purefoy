@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "218678",
+    "forum_slug": "set-talk",
+    "topic_slug": "we-did-it"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Despite unexperience,  countless problems, difficulties of every kind, errors and mistakes, today we wrapped up the principal photography of our short movie! I know It won’t be a masterpiece and a simply acceptable result Is my goal, yet i wanted to celebrate here too since Roger, David and you all have had, with your example and advices, a huge role in pushing me forward when everybody was telling me to give up!",
+  "content_html": "<p>Despite unexperience,  countless problems, difficulties of every kind, errors and mistakes, today we wrapped up the principal photography of our short movie! I know It won’t be a masterpiece and a simply acceptable result Is my goal, yet i wanted to celebrate here too since Roger, David and you all have had, with your example and advices, a huge role in pushing me forward when everybody was telling me to give up!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Despite unexperience,  countless problems, difficulties of every kind, errors and mistakes, today we wrapped up the principal photography of our short movie! I know It won’t be a masterpiece and a simply acceptable result Is my goal, yet i wanted to celebrate here too since Roger, David and you all have had, with your example and advices, a huge role in pushing me forward when everybody was telling me to give up!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/we-did-it/#post-218702",
+    "scraped_at": "2026-01-15T11:50:54.333718+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/we-did-it/#post-218702",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8a1dd05ec8a6f4cfb30bb18354d0e35da08d9231a7936551f3f29d519605fcd4",
+    "parser_version": "bbpress-v2"
+  }
+}

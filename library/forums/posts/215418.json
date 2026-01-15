@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215418",
+    "forum_slug": "forum",
+    "topic_slug": "split-tone-look-how-much-to-get-in-camera",
+    "parent_post_id": "215414",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I have no idea why you would not want to create the look you are after in camera. I’m sure your DIT friend means well but you are creating the images not them. The image you post were no doubt shot to be the way they are.",
+  "content_html": "<p>I have no idea why you would not want to create the look you are after in camera. I’m sure your DIT friend means well but you are creating the images not them. The image you post were no doubt shot to be the way they are.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I have no idea why you would not want to create the look you are after in camera. I’m sure your DIT friend means well but you are creating the images not them. The image you post were no doubt shot to be the way they are."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/split-tone-look-how-much-to-get-in-camera/#post-215434",
+    "scraped_at": "2026-01-15T15:47:20.615246+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/split-tone-look-how-much-to-get-in-camera/#post-215434",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d3ad26c554ee2d3375e7102c9d21a9a7d8b860888f0308cc1dadf373132ab8bf",
+    "parser_version": "bbpress-v2"
+  }
+}

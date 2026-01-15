@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-camera-recommendations/#post-216846",
+  "forum_slug": "still-photography",
+  "topic_slug": "mr-deakins-camera-recommendations",
+  "title": "Mr. Deakins Camera Recommendations",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216729",
+    "216777",
+    "216786",
+    "216818",
+    "216846"
+  ],
+  "reply_tree": {
+    "post_id": "216729",
+    "post_type": "topic",
+    "author": "Tim J",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216777",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216786",
+        "post_type": "reply",
+        "author": "Tim J",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216818",
+        "post_type": "reply",
+        "author": "Tyler F",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216846",
+        "post_type": "reply",
+        "author": "Tim J",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-camera-recommendations/#post-216846",
+    "scraped_at": "2026-01-15T11:50:45.873334+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-camera-recommendations/#post-216846",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8a4b16e6a504d0ff230163aea3e0aeb8c0a9aed44886aee446c435250f9c27be",
+    "parser_version": "bbpress-v2"
+  }
+}

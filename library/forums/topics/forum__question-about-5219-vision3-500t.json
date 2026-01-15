@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/question-about-5219-vision3-500t/#post-215625",
+  "forum_slug": "forum",
+  "topic_slug": "question-about-5219-vision3-500t",
+  "title": "Question about 5219 Vision3 500T",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215623",
+    "215625"
+  ],
+  "reply_tree": {
+    "post_id": "215623",
+    "post_type": "topic",
+    "author": "JeeBoo",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215625",
+        "post_type": "reply",
+        "author": "Tyler F",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/question-about-5219-vision3-500t/#post-215625",
+    "scraped_at": "2026-01-15T15:46:11.554987+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/question-about-5219-vision3-500t/#post-215625",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e62bfa4a394cedddff1a0d1401ef46126b6d64b313e220ba3ac5f09fb5fc6c71",
+    "parser_version": "bbpress-v2"
+  }
+}

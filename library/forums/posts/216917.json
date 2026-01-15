@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216917",
+    "forum_slug": "camera",
+    "topic_slug": "false-color-and-lut-workflow",
+    "parent_post_id": "216887",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A simple, but important reminder. Especially in the screen generation. Thank you!",
+  "content_html": "<p>A simple, but important reminder. Especially in the screen generation. Thank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A simple, but important reminder. Especially in the screen generation. Thank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/",
+    "scraped_at": "2026-01-15T13:16:24.780640+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8a3d7ba64639d9bb23f91fe195bb0044f7d275443634dd7fcb97a905aee536bd",
+    "parser_version": "bbpress-v2"
+  }
+}

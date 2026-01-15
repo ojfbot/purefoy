@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218116",
+    "forum_slug": "forum",
+    "topic_slug": "contrast-control-in-wide-angle-lenses",
+    "parent_post_id": "218085",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m unsure what you are asking in regard to the use of wide lenses. Lighting for a wide shot with a soft bounce source can be more problematic than a close shot but that has little to do with the lens choice. Sure, you might need to control the bounce source if it is further from your subject but that kind of challenge happens regardless of the width of a shot.",
+  "content_html": "<p>I’m unsure what you are asking in regard to the use of wide lenses. Lighting for a wide shot with a soft bounce source can be more problematic than a close shot but that has little to do with the lens choice. Sure, you might need to control the bounce source if it is further from your subject but that kind of challenge happens regardless of the width of a shot.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m unsure what you are asking in regard to the use of wide lenses. Lighting for a wide shot with a soft bounce source can be more problematic than a close shot but that has little to do with the lens choice. Sure, you might need to control the bounce source if it is further from your subject but that kind of challenge happens regardless of the width of a shot."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/contrast-control-in-wide-angle-lenses/#post-218124",
+    "scraped_at": "2026-01-15T15:19:39.062451+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/contrast-control-in-wide-angle-lenses/#post-218124",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0c819d7e0b948ad3feb2de1e2ef012784f54ffb191883baf204ee8f9ecf4b67d",
+    "parser_version": "bbpress-v2"
+  }
+}

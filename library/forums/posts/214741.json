@@ -1,0 +1,55 @@
+{
+  "ids": {
+    "post_id": "214741",
+    "forum_slug": "camera",
+    "topic_slug": "long-lenses-and-emotions-they-convey",
+    "parent_post_id": "214730",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There are a number of reasons one picks a certain focal length. When long lenses are combined with a distant camera position, the resulting compression of shapes creates certain graphic effects that may be dramatically interesting.\nLook at this shot from Kurosawa’s “Red Beard”, reportedly shot on a 500mm anamorphic lens (so 250mm spherical equivalent) at f/22 for a deep focus. The effect is that everyone’s head in the scene is the same size; this works dramatically because it is about a village coming together to hear the sad story of a dying man who is well-loved.\nOn a smaller scale, when I’ve shot in crowded clubs and restaurants, the only issue when shooting close on wider-angle lenses is that the camera is “inside” the crowd so you don’t have a sense that there are characters behind the camera in the room. But back up a little and use a medium focal length and the main character can be framed between some foreground people to create a visual sense that they are surrounded on all sides. If that’s an important story point, then there is a reason for shooting it that way.",
+  "content_html": "<p>There are a number of reasons one picks a certain focal length. When long lenses are combined with a distant camera position, the resulting compression of shapes creates certain graphic effects that may be dramatically interesting.</p>\n<p>Look at this shot from Kurosawa’s “Red Beard”, reportedly shot on a 500mm anamorphic lens (so 250mm spherical equivalent) at f/22 for a deep focus. The effect is that everyone’s head in the scene is the same size; this works dramatically because it is about a village coming together to hear the sad story of a dying man who is well-loved.</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214741/lrpxucmzbxmw473v907g0678kjxfrw2p.jpg\"/></p>\n<p>On a smaller scale, when I’ve shot in crowded clubs and restaurants, the only issue when shooting close on wider-angle lenses is that the camera is “inside” the crowd so you don’t have a sense that there are characters behind the camera in the room. But back up a little and use a medium focal length and the main character can be framed between some foreground people to create a visual sense that they are surrounded on all sides. If that’s an important story point, then there is a reason for shooting it that way.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There are a number of reasons one picks a certain focal length. When long lenses are combined with a distant camera position, the resulting compression of shapes creates certain graphic effects that may be dramatically interesting."
+    },
+    {
+      "type": "paragraph",
+      "text": "Look at this shot from Kurosawa’s “Red Beard”, reportedly shot on a 500mm anamorphic lens (so 250mm spherical equivalent) at f/22 for a deep focus. The effect is that everyone’s head in the scene is the same size; this works dramatically because it is about a village coming together to hear the sad story of a dying man who is well-loved."
+    },
+    {
+      "type": "paragraph",
+      "text": "On a smaller scale, when I’ve shot in crowded clubs and restaurants, the only issue when shooting close on wider-angle lenses is that the camera is “inside” the crowd so you don’t have a sense that there are characters behind the camera in the room. But back up a little and use a medium focal length and the main character can be framed between some foreground people to create a visual sense that they are surrounded on all sides. If that’s an important story point, then there is a reason for shooting it that way."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214741/lrpxucmzbxmw473v907g0678kjxfrw2p.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/long-lenses-and-emotions-they-convey/#post-214749",
+    "scraped_at": "2026-01-15T15:25:19.317472+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/long-lenses-and-emotions-they-convey/#post-214749",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "be3fc3b9aaf7d18be27a3588eb27eac1e92d6d6f9c82ffcdf6cc929cddf6d971",
+    "parser_version": "bbpress-v2"
+  }
+}

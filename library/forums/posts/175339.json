@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "175339",
+    "forum_slug": "camera",
+    "topic_slug": "cooke-7i-vs-arri-sp"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Limbo",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Mr. Deakins,\nI find that you used both Cooke 7i and Arri SP in your new film, Empire of Light.\nCould you tell us why you chose to use two different sets of lenses? I’m also curious about how you feel about them.\nThanks!",
+  "content_html": "<p>Hi Mr. Deakins,</p>\n<p>I find that you used both Cooke 7i and Arri SP in your new film, Empire of Light.</p>\n<p>Could you tell us why you chose to use two different sets of lenses? I’m also curious about how you feel about them.</p>\n<p>Thanks!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Mr. Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I find that you used both Cooke 7i and Arri SP in your new film, Empire of Light."
+    },
+    {
+      "type": "paragraph",
+      "text": "Could you tell us why you chose to use two different sets of lenses? I’m also curious about how you feel about them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cooke-7i-vs-arri-sp/#post-176152",
+    "scraped_at": "2026-01-15T15:45:05.536603+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cooke-7i-vs-arri-sp/#post-176152",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "28db59adf17a0a90fb0c3099cdaebe9cf6166f2c2b68480a30da49b4f6492f86",
+    "parser_version": "bbpress-v2"
+  }
+}

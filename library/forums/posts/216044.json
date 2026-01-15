@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "216044",
+    "forum_slug": "forum",
+    "topic_slug": "revolutionary-road-lighting-a-subject-in-an-akward-position",
+    "parent_post_id": "216031",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Gregg",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger,\nJust out of interest, for these shots did you decide on the camera position?\nWonderful example of crossing the line…\nMuch appreciated\nKind regards\nGregg",
+  "content_html": "<p>Dear Roger,</p>\n<p>Just out of interest, for these shots did you decide on the camera position?</p>\n<p>Wonderful example of crossing the line…</p>\n<p>Much appreciated</p>\n<p>Kind regards</p>\n<p>Gregg</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just out of interest, for these shots did you decide on the camera position?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wonderful example of crossing the line…"
+    },
+    {
+      "type": "paragraph",
+      "text": "Much appreciated"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kind regards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gregg"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-lighting-a-subject-in-an-akward-position/#post-216050",
+    "scraped_at": "2026-01-15T15:42:11.674008+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-lighting-a-subject-in-an-akward-position/#post-216050",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cbe8012c7bc0cc452fef9afcdc3b296cb96e8c72fc1865968540c47f915760b5",
+    "parser_version": "bbpress-v2"
+  }
+}

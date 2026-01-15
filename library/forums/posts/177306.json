@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "177306",
+    "forum_slug": "camera",
+    "topic_slug": "short-slow-push-ins-pull-outs-example-films",
+    "parent_post_id": "177107",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "In my experience you can use a skater dolly or slider when there is no physical space for tracks or a big dolly.\nBut all skater dollies I’ve tried are pretty hard to work when you need very slow moves as push-ins or push out. The whole thing, even with big camera packages (14/15kg) is too light. You can not finesse the slow movement.\nAll sliders I’ve tried are the same. Normal speed movements are fine, slow push-in? Very disappointed.\nThere is a reason why a full Fisher or Chapman dolly weights what it weights. You need that mass to create that slow movement in my opinion. And even then there is a limit about how slow you can go.\nAlso let’s not forget a slider or skate dolly is useless when you need to pedestal the camera. Big reason to choose a full dolly or even a steadicam op.\nI don’t know the slider you mention. It seems one with electronic motors right?\nIf it’s silent, motor speed is fully tuneable and holds you desired camera weight why not. You can give it a try.\nI think it’s more for cutaways, scenery footage o general views. It’s something you don’t want to use to cover a scene in my opinion. How would you adjust the camera tilt and pan while it’s moving? You moving behind with it?\nI won’t be popular to say this, but if you really need super slow push in just zoom in post. A push-in dolly movement and a zoom in post are completely different things yes. But you will get at the same place. And as I said, in my experience there is a limit how slow you can get with a dolly. It all depends the budget you are managing and the time. As everything that happens in set. Still if the change of framing is not huge between A and B I would tell post to zoom in. If it’s long movement with big frame changing there is no alternative. Lay track and use a dolly.",
+  "content_html": "<p>In my experience you can use a skater dolly or slider when there is no physical space for tracks or a big dolly.<br/>\nBut all skater dollies I’ve tried are pretty hard to work when you need very slow moves as push-ins or push out. The whole thing, even with big camera packages (14/15kg) is too light. You can not finesse the slow movement.<br/>\nAll sliders I’ve tried are the same. Normal speed movements are fine, slow push-in? Very disappointed.</p>\n<p>There is a reason why a full Fisher or Chapman dolly weights what it weights. You need that mass to create that slow movement in my opinion. And even then there is a limit about how slow you can go.</p>\n<p>Also let’s not forget a slider or skate dolly is useless when you need to pedestal the camera. Big reason to choose a full dolly or even a steadicam op.</p>\n<p>I don’t know the slider you mention. It seems one with electronic motors right?<br/>\nIf it’s silent, motor speed is fully tuneable and holds you desired camera weight why not. You can give it a try.</p>\n<p>I think it’s more for cutaways, scenery footage o general views. It’s something you don’t want to use to cover a scene in my opinion. How would you adjust the camera tilt and pan while it’s moving? You moving behind with it?</p>\n<p>I won’t be popular to say this, but if you really need super slow push in just zoom in post. A push-in dolly movement and a zoom in post are completely different things yes. But you will get at the same place. And as I said, in my experience there is a limit how slow you can get with a dolly. It all depends the budget you are managing and the time. As everything that happens in set. Still if the change of framing is not huge between A and B I would tell post to zoom in. If it’s long movement with big frame changing there is no alternative. Lay track and use a dolly.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In my experience you can use a skater dolly or slider when there is no physical space for tracks or a big dolly.\nBut all skater dollies I’ve tried are pretty hard to work when you need very slow moves as push-ins or push out. The whole thing, even with big camera packages (14/15kg) is too light. You can not finesse the slow movement.\nAll sliders I’ve tried are the same. Normal speed movements are fine, slow push-in? Very disappointed."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a reason why a full Fisher or Chapman dolly weights what it weights. You need that mass to create that slow movement in my opinion. And even then there is a limit about how slow you can go."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also let’s not forget a slider or skate dolly is useless when you need to pedestal the camera. Big reason to choose a full dolly or even a steadicam op."
+    },
+    {
+      "type": "paragraph",
+      "text": "I don’t know the slider you mention. It seems one with electronic motors right?\nIf it’s silent, motor speed is fully tuneable and holds you desired camera weight why not. You can give it a try."
+    },
+    {
+      "type": "paragraph",
+      "text": "I think it’s more for cutaways, scenery footage o general views. It’s something you don’t want to use to cover a scene in my opinion. How would you adjust the camera tilt and pan while it’s moving? You moving behind with it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I won’t be popular to say this, but if you really need super slow push in just zoom in post. A push-in dolly movement and a zoom in post are completely different things yes. But you will get at the same place. And as I said, in my experience there is a limit how slow you can get with a dolly. It all depends the budget you are managing and the time. As everything that happens in set. Still if the change of framing is not huge between A and B I would tell post to zoom in. If it’s long movement with big frame changing there is no alternative. Lay track and use a dolly."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/short-slow-push-ins-pull-outs-example-films/#post-177385",
+    "scraped_at": "2026-01-15T15:44:32.845469+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/short-slow-push-ins-pull-outs-example-films/#post-177385",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3e1a3934fbf480d95932e1beb5ed3a9813952e8947273244b7646528d7a84e29",
+    "parser_version": "bbpress-v2"
+  }
+}

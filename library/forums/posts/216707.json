@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216707",
+    "forum_slug": "forum",
+    "topic_slug": "sillouette-with-illuminated-sunglasses",
+    "parent_post_id": "216690",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "ThatGreasyFootball",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks for the info dmullenasc, what might you suggest for a light as opposed to the flashlight? Do you think it might be possible to shape the light from a high powered source so that it only hits the general area of the dull sprayed glasses and not the face? Unfortunately I am too poor to accomplish the lighting of something that would be big enough to fill the glasses, like your flat wall or building idea.",
+  "content_html": "<p>Thanks for the info dmullenasc, what might you suggest for a light as opposed to the flashlight? Do you think it might be possible to shape the light from a high powered source so that it only hits the general area of the dull sprayed glasses and not the face? Unfortunately I am too poor to accomplish the lighting of something that would be big enough to fill the glasses, like your flat wall or building idea.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks for the info dmullenasc, what might you suggest for a light as opposed to the flashlight? Do you think it might be possible to shape the light from a high powered source so that it only hits the general area of the dull sprayed glasses and not the face? Unfortunately I am too poor to accomplish the lighting of something that would be big enough to fill the glasses, like your flat wall or building idea."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sillouette-with-illuminated-sunglasses/#post-217513",
+    "scraped_at": "2026-01-15T15:20:30.870906+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sillouette-with-illuminated-sunglasses/#post-217513",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "96b81c990affae9ff025af2107cc60240eb7aff6d48b7ba49d4d15d6144b222b",
+    "parser_version": "bbpress-v2"
+  }
+}

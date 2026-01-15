@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "175337",
+    "forum_slug": "camera",
+    "topic_slug": "balancing-monitors"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Limbo",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi fellows,\nI wonder what kind of monitors you guys use on cameras and in video village.\nI find it very hard to keep the same look(contrast/color) between different monitors. And it’s pretty sad when you realize that the director is looking at a different image than yours.\nI usually use a 7′ Atmos Shogun on the camera. However, I was surprised to find that it’s almost 1 stop brighter and less contrasty than the 19′ Atmos Sumo(from the same brand and both by default setting).\nFor other brands like SmallHD, I find that there are too many versions out there. And the look of each version is very different from the others. And they sometimes tend to be a little stylized instead of accurate.\nCan you tell me what kind of monitors you guys use in the industry? And how do you keep them the same look?\nMany thanks!",
+  "content_html": "<p>Hi fellows,</p>\n<p>I wonder what kind of monitors you guys use on cameras and in video village.</p>\n<p>I find it very hard to keep the same look(contrast/color) between different monitors. And it’s pretty sad when you realize that the director is looking at a different image than yours.</p>\n<p>I usually use a 7′ Atmos Shogun on the camera. However, I was surprised to find that it’s almost 1 stop brighter and less contrasty than the 19′ Atmos Sumo(from the same brand and both by default setting).</p>\n<p>For other brands like SmallHD, I find that there are too many versions out there. And the look of each version is very different from the others. And they sometimes tend to be a little stylized instead of accurate.</p>\n<p>Can you tell me what kind of monitors you guys use in the industry? And how do you keep them the same look?</p>\n<p> </p>\n<p>Many thanks!</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi fellows,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I wonder what kind of monitors you guys use on cameras and in video village."
+    },
+    {
+      "type": "paragraph",
+      "text": "I find it very hard to keep the same look(contrast/color) between different monitors. And it’s pretty sad when you realize that the director is looking at a different image than yours."
+    },
+    {
+      "type": "paragraph",
+      "text": "I usually use a 7′ Atmos Shogun on the camera. However, I was surprised to find that it’s almost 1 stop brighter and less contrasty than the 19′ Atmos Sumo(from the same brand and both by default setting)."
+    },
+    {
+      "type": "paragraph",
+      "text": "For other brands like SmallHD, I find that there are too many versions out there. And the look of each version is very different from the others. And they sometimes tend to be a little stylized instead of accurate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Can you tell me what kind of monitors you guys use in the industry? And how do you keep them the same look?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many thanks!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/balancing-monitors/#post-189796",
+    "scraped_at": "2026-01-15T15:43:34.850430+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/balancing-monitors/#post-189796",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7fa086772f507939451f09fc117d70f18f137350e6f8c2659e372a71b307b0f2",
+    "parser_version": "bbpress-v2"
+  }
+}

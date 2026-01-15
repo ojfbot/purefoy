@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "175643",
+    "forum_slug": "website-news",
+    "topic_slug": "recovering-the-old-forums-need-help",
+    "parent_post_id": "174482",
+    "parent_type": "topic",
+    "position": 17
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Magneticat",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello James and Roger –\nmy original post was just an offer to help you recover the old forums, if you still have backups or data stored somewhere (or attempt a recovery even if the situation is more desperate than that). While I studied history of cinema and directing (20 years ago!) circumstances brought me elsewhere, so I worked specifically on internet forums and as a programmer for the past 20 years. This is my line of work, and I do not want any compensation for my services – regaining access to the old content is reward enough and it is my way to give back to the community. I can share my Linkedin, if needed.\nAnyhow, even if you do not want or need external help, for the time being, just make sure you store backups from before the hack. Many hosting services keep old backups for a limited period of time – so unless you have made your own copies locally, old backups containing a copy of the old database might be cycled out and removed permanently. I can work also with data recovery (so, deleted databases with no backups, etc.) – provided the host allows the access to do so – but it might be difficult to retrieve data from a few months ago.\nNo criticism was implied in my original post, I know very well how busy you both must be, and I value the podcast just as much as I value the forum. Invaluable resources.\nCiao",
+  "content_html": "<p>Hello James and Roger –</p>\n<p>my original post was just an offer to help you recover the old forums, if you still have backups or data stored somewhere (or attempt a recovery even if the situation is more desperate than that). While I studied history of cinema and directing (20 years ago!) circumstances brought me elsewhere, so I worked specifically on internet forums and as a programmer for the past 20 years. This is my line of work, and I do not want any compensation for my services – regaining access to the old content is reward enough and it is my way to give back to the community. I can share my Linkedin, if needed.</p>\n<p>Anyhow, even if you do not want or need external help, for the time being, just make sure you store backups from before the hack. Many hosting services keep old backups for a limited period of time – so unless you have made your own copies locally, old backups containing a copy of the old database might be cycled out and removed permanently. I can work also with data recovery (so, deleted databases with no backups, etc.) – provided the host allows the access to do so – but it might be difficult to retrieve data from a few months ago.</p>\n<p>No criticism was implied in my original post, I know very well how busy you both must be, and I value the podcast just as much as I value the forum. Invaluable resources.</p>\n<p>Ciao</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello James and Roger –"
+    },
+    {
+      "type": "paragraph",
+      "text": "my original post was just an offer to help you recover the old forums, if you still have backups or data stored somewhere (or attempt a recovery even if the situation is more desperate than that). While I studied history of cinema and directing (20 years ago!) circumstances brought me elsewhere, so I worked specifically on internet forums and as a programmer for the past 20 years. This is my line of work, and I do not want any compensation for my services – regaining access to the old content is reward enough and it is my way to give back to the community. I can share my Linkedin, if needed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Anyhow, even if you do not want or need external help, for the time being, just make sure you store backups from before the hack. Many hosting services keep old backups for a limited period of time – so unless you have made your own copies locally, old backups containing a copy of the old database might be cycled out and removed permanently. I can work also with data recovery (so, deleted databases with no backups, etc.) – provided the host allows the access to do so – but it might be difficult to retrieve data from a few months ago."
+    },
+    {
+      "type": "paragraph",
+      "text": "No criticism was implied in my original post, I know very well how busy you both must be, and I value the podcast just as much as I value the forum. Invaluable resources."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ciao"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/",
+    "scraped_at": "2026-01-15T12:42:24.680431+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5a5186f6ec7b95804e5979471f137b150ccdfe65aa51c40d141be94e7702f33c",
+    "parser_version": "bbpress-v2"
+  }
+}

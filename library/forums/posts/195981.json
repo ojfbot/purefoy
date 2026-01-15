@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "195981",
+    "forum_slug": "forum",
+    "topic_slug": "building-a-tunnel-of-diffusion",
+    "parent_post_id": "195538",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "The Byre",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Does it HAVE to be cloth?  How about sheets of plastic/PVC?  Admittedly, they will not pass & health and safety rules for a regulated union shoot, but if the is an ‘informal’ gig, I would go down the PVC route.\nYou can also get 8′ x 4′ PVC sheets that will pass H&S rules (fire retardant, etc.) that are used in hospitals and commercial kitchens.  8′ is the standard ceiling height.\nWhite and clear PVC on a roll costs (UK) about £30 for a 4m x 8m length on eBay.\nThere are all sorts of funky materials for you to play with and get creative about!",
+  "content_html": "<p>Does it HAVE to be cloth?  How about sheets of plastic/PVC?  Admittedly, they will not pass &amp; health and safety rules for a regulated union shoot, but if the is an ‘informal’ gig, I would go down the PVC route.</p>\n<p>You can also get 8′ x 4′ PVC sheets that will pass H&amp;S rules (fire retardant, etc.) that are used in hospitals and commercial kitchens.  8′ is the standard ceiling height.</p>\n<p>White and clear PVC on a roll costs (UK) about £30 for a 4m x 8m length on eBay.</p>\n<p>There are all sorts of funky materials for you to play with and get creative about!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Does it HAVE to be cloth?  How about sheets of plastic/PVC?  Admittedly, they will not pass & health and safety rules for a regulated union shoot, but if the is an ‘informal’ gig, I would go down the PVC route."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also get 8′ x 4′ PVC sheets that will pass H&S rules (fire retardant, etc.) that are used in hospitals and commercial kitchens.  8′ is the standard ceiling height."
+    },
+    {
+      "type": "paragraph",
+      "text": "White and clear PVC on a roll costs (UK) about £30 for a 4m x 8m length on eBay."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are all sorts of funky materials for you to play with and get creative about!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/building-a-tunnel-of-diffusion/#post-197339",
+    "scraped_at": "2026-01-15T15:54:52.099500+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/building-a-tunnel-of-diffusion/#post-197339",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ed2c33a22449219b685f495611f295b9164c98c8ed4d8e5aaac091e3b8858ecd",
+    "parser_version": "bbpress-v2"
+  }
+}

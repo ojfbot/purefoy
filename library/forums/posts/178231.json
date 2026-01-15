@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "178231",
+    "forum_slug": "camera",
+    "topic_slug": "shot-design-in-prep",
+    "parent_post_id": "177736",
+    "parent_type": "topic",
+    "position": 13
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Blocking during prep or on the night before can work well if the location or set are available, but a problem can arise when an actor comes in the next day with a different idea. Mind you, that can happen when they come back from their make up trailer or after take one! There is no ‘right’ way!",
+  "content_html": "<p>Blocking during prep or on the night before can work well if the location or set are available, but a problem can arise when an actor comes in the next day with a different idea. Mind you, that can happen when they come back from their make up trailer or after take one! There is no ‘right’ way!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Blocking during prep or on the night before can work well if the location or set are available, but a problem can arise when an actor comes in the next day with a different idea. Mind you, that can happen when they come back from their make up trailer or after take one! There is no ‘right’ way!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/",
+    "scraped_at": "2026-01-15T15:44:23.532238+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2a8fb3687d0d006aec23fc1e4c0f1be081e43c26795edbf5b5120c5b3ef6d02f",
+    "parser_version": "bbpress-v2"
+  }
+}

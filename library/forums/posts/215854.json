@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215854",
+    "forum_slug": "composition",
+    "topic_slug": "empire-of-light-pan-shots-to-open-scenes",
+    "parent_post_id": "215828",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I seem to remember we used the pan to emphasize the passage of time or simply make a softer cut between scenes. Who’s idea? Probably one each. We discussed the script and our shooting pattern well in advance and these kind of languid pans seemed right for the piece. Of course, most were lost in the cut.",
+  "content_html": "<p>I seem to remember we used the pan to emphasize the passage of time or simply make a softer cut between scenes. Who’s idea? Probably one each. We discussed the script and our shooting pattern well in advance and these kind of languid pans seemed right for the piece. Of course, most were lost in the cut.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I seem to remember we used the pan to emphasize the passage of time or simply make a softer cut between scenes. Who’s idea? Probably one each. We discussed the script and our shooting pattern well in advance and these kind of languid pans seemed right for the piece. Of course, most were lost in the cut."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-pan-shots-to-open-scenes/#post-215861",
+    "scraped_at": "2026-01-15T12:26:26.429856+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-pan-shots-to-open-scenes/#post-215861",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1772ff081179d321c9699164c7f8e182541b44ed4bc7ee71ba09e6ed2251b78f",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "170884",
+    "forum_slug": "camera",
+    "topic_slug": "shooting-film-in-2022",
+    "parent_post_id": "170736",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gcconnelly",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Interesting! Thanks again for answering all these questions!\nTo flip the question, how do you think you would’ve handled exposure if you had shot “Jarhead” on digital. I might be mixing up projects, but I think I remember reading that you did a pull process on that film combined with a slight bleached bypass. Would you attempt to do something similar on digital where you overexpose the exteriors to get more shadow detail and then pull it down in the DI?\nI’m also curious in general how you tend to expose day exteriors. Obviously, it varies depending on the intended look, but I was curious how you would meter on a backlit exterior shot like this one:\nI’d imagine the key to fill ratio was pretty extreme on this. Would you just split the difference between the key side and shadow side or is there a certain number of stops below middle gray you will always keep the shadows?",
+  "content_html": "<p>Interesting! Thanks again for answering all these questions!</p>\n<p>To flip the question, how do you think you would’ve handled exposure if you had shot “Jarhead” on digital. I might be mixing up projects, but I think I remember reading that you did a pull process on that film combined with a slight bleached bypass. Would you attempt to do something similar on digital where you overexpose the exteriors to get more shadow detail and then pull it down in the DI?</p>\n<p>I’m also curious in general how you tend to expose day exteriors. Obviously, it varies depending on the intended look, but I was curious how you would meter on a backlit exterior shot like this one:</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/170884/k728pro78y99tnxzichhx7de1drtmnrn.jpeg\"/></p>\n<p>I’d imagine the key to fill ratio was pretty extreme on this. Would you just split the difference between the key side and shadow side or is there a certain number of stops below middle gray you will always keep the shadows?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Interesting! Thanks again for answering all these questions!"
+    },
+    {
+      "type": "paragraph",
+      "text": "To flip the question, how do you think you would’ve handled exposure if you had shot “Jarhead” on digital. I might be mixing up projects, but I think I remember reading that you did a pull process on that film combined with a slight bleached bypass. Would you attempt to do something similar on digital where you overexpose the exteriors to get more shadow detail and then pull it down in the DI?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m also curious in general how you tend to expose day exteriors. Obviously, it varies depending on the intended look, but I was curious how you would meter on a backlit exterior shot like this one:"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’d imagine the key to fill ratio was pretty extreme on this. Would you just split the difference between the key side and shadow side or is there a certain number of stops below middle gray you will always keep the shadows?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/170884/k728pro78y99tnxzichhx7de1drtmnrn.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-film-in-2022/#post-170903",
+    "scraped_at": "2026-01-15T15:46:05.123990+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-film-in-2022/#post-170903",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "190f9e7d30cbf2b32091444215fb68965686a676bf07712c65d66a2fcb0aae17",
+    "parser_version": "bbpress-v2"
+  }
+}

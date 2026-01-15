@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220692",
+    "forum_slug": "website-news",
+    "topic_slug": "why-rogerdeakins-not-available-in-social-media",
+    "parent_post_id": "220645",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Actually I asked about Roger personal social media accounts. I know you have Instagram and Facebook, team deakins and YouTube channel accounts. I am following yours.",
+  "content_html": "<p>Actually I asked about Roger personal social media accounts. I know you have Instagram and Facebook, team deakins and YouTube channel accounts. I am following yours.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Actually I asked about Roger personal social media accounts. I know you have Instagram and Facebook, team deakins and YouTube channel accounts. I am following yours."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/why-rogerdeakins-not-available-in-social-media/#post-220692",
+    "scraped_at": "2026-01-15T12:48:23.601812+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/why-rogerdeakins-not-available-in-social-media/#post-220692",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "29c36b2853bad1c3c2fac0b91ccccd88d8ff9df2b4d99cb019fe46c500ef2026",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "217204",
+    "forum_slug": "forum",
+    "topic_slug": "opening-sequence-to-skyfall",
+    "parent_post_id": "217145",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Deano",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Ben – Did you read through the information in the ‘looking at lighting’ section?\nSkyfall is covered in quite a lot of detail, including lights used for the scene you are studying.\nHope this helps.\nDean",
+  "content_html": "<p>Hi Ben – Did you read through the information in the ‘looking at lighting’ section?</p>\n<p>Skyfall is covered in quite a lot of detail, including lights used for the scene you are studying.</p>\n<p>Hope this helps.</p>\n<p>Dean</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Ben – Did you read through the information in the ‘looking at lighting’ section?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Skyfall is covered in quite a lot of detail, including lights used for the scene you are studying."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope this helps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dean"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/opening-sequence-to-skyfall/#post-217204",
+    "scraped_at": "2026-01-15T15:21:30.566210+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/opening-sequence-to-skyfall/#post-217204",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "da51cf2f2160f198d5ea51ba4081c5d14adcdfb49b46a6d8dd9e32d07c228f3f",
+    "parser_version": "bbpress-v2"
+  }
+}

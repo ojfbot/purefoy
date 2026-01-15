@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "216081",
+    "forum_slug": "forum",
+    "topic_slug": "front-lit-shots-how-to-deal-with",
+    "parent_post_id": "216072",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Of course, mine was just a shared thought, I was reflecting on the fact that sometimes perhaps the technical aspects can guide the staging and the positions of the characters and, in some way, deliver a certain narrative point to the audience.\nYour suggestions and advice are very relevant and I hope to be able to bring them out at the right time, when I am dealing with a situation similar to the one described in the post 😁.\nThanks again for your response and advice BH Goddard.\nI wish you a peaceful day\nMax.",
+  "content_html": "<p>Of course, mine was just a shared thought, I was reflecting on the fact that sometimes perhaps the technical aspects can guide the staging and the positions of the characters and, in some way, deliver a certain narrative point to the audience.</p>\n<p>Your suggestions and advice are very relevant and I hope to be able to bring them out at the right time, when I am dealing with a situation similar to the one described in the post 😁.</p>\n<p>Thanks again for your response and advice BH Goddard.</p>\n<p>I wish you a peaceful day<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Of course, mine was just a shared thought, I was reflecting on the fact that sometimes perhaps the technical aspects can guide the staging and the positions of the characters and, in some way, deliver a certain narrative point to the audience."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your suggestions and advice are very relevant and I hope to be able to bring them out at the right time, when I am dealing with a situation similar to the one described in the post 😁."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks again for your response and advice BH Goddard."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful day\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/front-lit-shots-how-to-deal-with/#post-216102",
+    "scraped_at": "2026-01-15T15:41:59.927561+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/front-lit-shots-how-to-deal-with/#post-216102",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "717cb2868805d6754329ef73f25bb2cf2e6f20c03d16c7cce74a9c863bcf04e0",
+    "parser_version": "bbpress-v2"
+  }
+}

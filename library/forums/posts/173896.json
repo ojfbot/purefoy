@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "173896",
+    "forum_slug": "camera",
+    "topic_slug": "shooting-a-short-on-16mm",
+    "parent_post_id": "173737",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Andrew C",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you. Do you have a standard process then, when exposing film, like taking multiple readings around the set and setting the lens to an average of those, depending on what you would like?\nWould I expose skin tones similarity to how I would digitally? Or should I mostly stick to slightly overexposing?",
+  "content_html": "<p>Thank you. Do you have a standard process then, when exposing film, like taking multiple readings around the set and setting the lens to an average of those, depending on what you would like?</p>\n<p>Would I expose skin tones similarity to how I would digitally? Or should I mostly stick to slightly overexposing?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you. Do you have a standard process then, when exposing film, like taking multiple readings around the set and setting the lens to an average of those, depending on what you would like?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Would I expose skin tones similarity to how I would digitally? Or should I mostly stick to slightly overexposing?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-a-short-on-16mm/#post-173926",
+    "scraped_at": "2026-01-15T15:45:44.260058+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-a-short-on-16mm/#post-173926",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bcc159ac02ac84a06ea43c662c6b0d2c3fda8d96db50ec4a4bd1651465d15b48",
+    "parser_version": "bbpress-v2"
+  }
+}

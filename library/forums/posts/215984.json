@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "215984",
+    "forum_slug": "forum",
+    "topic_slug": "br2049-exposure-metering-in-extremely-dark-scene",
+    "parent_post_id": "215966",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "In a couple of weeks i’ll be shooting my first short movie and i’ll have a very similar scene, in terms of mood and lights (i am aware that i am aiming too high for my first work but i think It’s the right light for that scene, so i am trying to do my best to face the challenge) .\nSince i am still not very sure about the metering i Will use this workflow:\n– metering the Key light on the relevant elements of the scene, setting It at a level that allows me to use the lower ISO possible for the given aperture, trying to keep It under 800\n– set the fill light to obtain a good contrast ratio with the Key (It’s an horror story, i think a bit of contrast will help creating the atmosphere)\n– keep the shadows as dark as i can, trying to reduce noise with the low ISO.\nIs there any relevant problem with such an approach? Any advice to improve my workflow?",
+  "content_html": "<p>In a couple of weeks i’ll be shooting my first short movie and i’ll have a very similar scene, in terms of mood and lights (i am aware that i am aiming too high for my first work but i think It’s the right light for that scene, so i am trying to do my best to face the challenge) .</p>\n<p>Since i am still not very sure about the metering i Will use this workflow:</p>\n<p>– metering the Key light on the relevant elements of the scene, setting It at a level that allows me to use the lower ISO possible for the given aperture, trying to keep It under 800</p>\n<p>– set the fill light to obtain a good contrast ratio with the Key (It’s an horror story, i think a bit of contrast will help creating the atmosphere)</p>\n<p>– keep the shadows as dark as i can, trying to reduce noise with the low ISO.</p>\n<p>Is there any relevant problem with such an approach? Any advice to improve my workflow?</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In a couple of weeks i’ll be shooting my first short movie and i’ll have a very similar scene, in terms of mood and lights (i am aware that i am aiming too high for my first work but i think It’s the right light for that scene, so i am trying to do my best to face the challenge) ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since i am still not very sure about the metering i Will use this workflow:"
+    },
+    {
+      "type": "paragraph",
+      "text": "– metering the Key light on the relevant elements of the scene, setting It at a level that allows me to use the lower ISO possible for the given aperture, trying to keep It under 800"
+    },
+    {
+      "type": "paragraph",
+      "text": "– set the fill light to obtain a good contrast ratio with the Key (It’s an horror story, i think a bit of contrast will help creating the atmosphere)"
+    },
+    {
+      "type": "paragraph",
+      "text": "– keep the shadows as dark as i can, trying to reduce noise with the low ISO."
+    },
+    {
+      "type": "paragraph",
+      "text": "Is there any relevant problem with such an approach? Any advice to improve my workflow?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/br2049-exposure-metering-in-extremely-dark-scene/#post-215986",
+    "scraped_at": "2026-01-15T15:42:50.302578+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/br2049-exposure-metering-in-extremely-dark-scene/#post-215986",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d475549a4c4dde20091bd91b79934ef0f43b792c6c7f2678cc9e128427e7c1a3",
+    "parser_version": "bbpress-v2"
+  }
+}

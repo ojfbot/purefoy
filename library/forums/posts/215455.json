@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215455",
+    "forum_slug": "post",
+    "topic_slug": "semi-transparent-curtain-in-front-of-greenscreen",
+    "parent_post_id": "215437",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "George",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for your replies!\nRenting a backdrop is not an option as it is set in a very specific time and place. I´ve never tried projecting the background in front of the window. Did you achieve good results with that?",
+  "content_html": "<p>Thank you for your replies!</p>\n<p>Renting a backdrop is not an option as it is set in a very specific time and place. I´ve never tried projecting the background in front of the window. Did you achieve good results with that?</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for your replies!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Renting a backdrop is not an option as it is set in a very specific time and place. I´ve never tried projecting the background in front of the window. Did you achieve good results with that?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/semi-transparent-curtain-in-front-of-greenscreen/#post-215463",
+    "scraped_at": "2026-01-15T13:05:59.935687+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/semi-transparent-curtain-in-front-of-greenscreen/#post-215463",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "401850d1ed74698a52b4689bad134ec0e13918362c07c73217d22937b5c45437",
+    "parser_version": "bbpress-v2"
+  }
+}

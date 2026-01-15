@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "212640",
+    "forum_slug": "forum",
+    "topic_slug": "a-reflection-of-our-profession",
+    "parent_post_id": "212302",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You can check “Color Psychology” by Eva Heller. It’s a book about how we interact with colors, what colors feel to us, how we mix them, etc. It’s a case study based on a quite big sample of population. It’s probably the closest you can get about how humans, at least humans in Europe, interact with colors and what each colors feel to us. It has also a brief story about some colors and particular stories. I wouldn’t take it so serious but if you are in need for some color theory and/or you are looking for references is great. Special mention the chapter about the colors mixing and how it change the meanings of just a single color.",
+  "content_html": "<p>You can check “Color Psychology” by Eva Heller. It’s a book about how we interact with colors, what colors feel to us, how we mix them, etc. It’s a case study based on a quite big sample of population. It’s probably the closest you can get about how humans, at least humans in Europe, interact with colors and what each colors feel to us. It has also a brief story about some colors and particular stories. I wouldn’t take it so serious but if you are in need for some color theory and/or you are looking for references is great. Special mention the chapter about the colors mixing and how it change the meanings of just a single color.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You can check “Color Psychology” by Eva Heller. It’s a book about how we interact with colors, what colors feel to us, how we mix them, etc. It’s a case study based on a quite big sample of population. It’s probably the closest you can get about how humans, at least humans in Europe, interact with colors and what each colors feel to us. It has also a brief story about some colors and particular stories. I wouldn’t take it so serious but if you are in need for some color theory and/or you are looking for references is great. Special mention the chapter about the colors mixing and how it change the meanings of just a single color."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-reflection-of-our-profession/#post-214700",
+    "scraped_at": "2026-01-15T15:52:00.455760+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-reflection-of-our-profession/#post-214700",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "213ccce245a6e11c0bc0df8c48f449737edd614ad11ff97cd86aa0e60ad1be70",
+    "parser_version": "bbpress-v2"
+  }
+}

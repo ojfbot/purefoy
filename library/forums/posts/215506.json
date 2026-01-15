@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "215506",
+    "forum_slug": "composition",
+    "topic_slug": "shooting-for-the-big-screen-vs-the-small-screen"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "ZTM236",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I was listening to the Rian Johnson pod the other day and Roger and Rian were speaking about shooting for the big screen vs the small screen. My question is what, technique wise, really separates the two? Because I don’t really feel like it’s drama based.",
+  "content_html": "<p>I was listening to the Rian Johnson pod the other day and Roger and Rian were speaking about shooting for the big screen vs the small screen. My question is what, technique wise, really separates the two? Because I don’t really feel like it’s drama based.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I was listening to the Rian Johnson pod the other day and Roger and Rian were speaking about shooting for the big screen vs the small screen. My question is what, technique wise, really separates the two? Because I don’t really feel like it’s drama based."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-for-the-big-screen-vs-the-small-screen/#post-215649",
+    "scraped_at": "2026-01-15T12:42:27.583584+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-for-the-big-screen-vs-the-small-screen/#post-215649",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "627fd4133ee282c74e071f54a7f8e123a5e6a894dc4826a01678491127ac09a1",
+    "parser_version": "bbpress-v2"
+  }
+}

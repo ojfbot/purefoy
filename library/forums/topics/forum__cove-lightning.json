@@ -1,0 +1,283 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+  "forum_slug": "forum",
+  "topic_slug": "cove-lightning",
+  "title": "Cove Lightning",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214633",
+    "214637",
+    "214645",
+    "214656",
+    "214659",
+    "214754",
+    "214755",
+    "214759",
+    "214760",
+    "214761",
+    "214763",
+    "214764",
+    "214765",
+    "214766",
+    "214767",
+    "214768",
+    "214633",
+    "214775",
+    "214776",
+    "214778",
+    "214779",
+    "214780",
+    "214781",
+    "214782",
+    "214783",
+    "214784",
+    "214785",
+    "214786",
+    "214787",
+    "214788",
+    "214789",
+    "214816",
+    "214633",
+    "214818"
+  ],
+  "reply_tree": {
+    "post_id": "214633",
+    "post_type": "topic",
+    "author": "Laurent",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214637",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214645",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214656",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214659",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214754",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214755",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214759",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214760",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214761",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214763",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214764",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214765",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214766",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214767",
+        "post_type": "reply",
+        "author": "Davinki",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214768",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214775",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214776",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214778",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214779",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214780",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214781",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214782",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214783",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214784",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214785",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214786",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214787",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214788",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214789",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214816",
+        "post_type": "reply",
+        "author": "Laurent",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214818",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 31,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+    "scraped_at": "2026-01-15T15:51:30.633572+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0e61cd83ac81f948e25833b4799e717ae378813a56018f353dc0726386190e63",
+    "parser_version": "bbpress-v2"
+  }
+}

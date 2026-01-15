@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215961",
+    "forum_slug": "forum",
+    "topic_slug": "meter-reading-on-overcast-days",
+    "parent_post_id": "215925",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks a lot Tyler! I am actually thinking about getting an entry level Sekonic meter, for my simple needs is more than enough (getting close to a decent exposure and learning a bit about lighting), but i was curious about this model Roger was talking about and in general the analogic ones, I find them a bit intimidating, ah ah!",
+  "content_html": "<p>Thanks a lot Tyler! I am actually thinking about getting an entry level Sekonic meter, for my simple needs is more than enough (getting close to a decent exposure and learning a bit about lighting), but i was curious about this model Roger was talking about and in general the analogic ones, I find them a bit intimidating, ah ah!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks a lot Tyler! I am actually thinking about getting an entry level Sekonic meter, for my simple needs is more than enough (getting close to a decent exposure and learning a bit about lighting), but i was curious about this model Roger was talking about and in general the analogic ones, I find them a bit intimidating, ah ah!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/#post-215975",
+    "scraped_at": "2026-01-15T15:43:02.750145+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/#post-215975",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c6db1ca545d5560a6774e41d94d3c46e0cf7440ce78c0ab097080061d5be1c12",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214549",
+    "forum_slug": "film-talk",
+    "topic_slug": "low-no-budget-movies-with-intriguing-cinematography",
+    "parent_post_id": "206257",
+    "parent_type": "topic",
+    "position": 14
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Those are all great suggestions, thanks guys!\nI haven’t seen ‘Columbus’ yet. Looks like it’s an unagitated, intimate story and the cinematography seems to reflect that – will certainly watch it!",
+  "content_html": "<p>Those are all great suggestions, thanks guys!</p>\n<p>I haven’t seen ‘Columbus’ yet. Looks like it’s an unagitated, intimate story and the cinematography seems to reflect that – will certainly watch it!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Those are all great suggestions, thanks guys!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I haven’t seen ‘Columbus’ yet. Looks like it’s an unagitated, intimate story and the cinematography seems to reflect that – will certainly watch it!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/low-no-budget-movies-with-intriguing-cinematography/",
+    "scraped_at": "2026-01-15T14:13:32.890483+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/low-no-budget-movies-with-intriguing-cinematography/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d5a129662ac25e42886ae5de3c8806335429a01e8c447a8b6b9ffbab34e62be0",
+    "parser_version": "bbpress-v2"
+  }
+}

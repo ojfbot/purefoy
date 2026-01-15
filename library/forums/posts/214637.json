@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "post_id": "214637",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The angle of the light to the light to the bounce can alter the size and the shape of the source you create. Whether a lamp is above and rigged to the ceiling or on the floor on a low boy or ‘turtle’ is usually just about space and convenience.\nYou can double the muslin but it doesn’t make so much difference. The light going through it could be a problem though, and bounce around to interfere with the contrast of the shot.\nIf I have a series of lamps bouncing off a wide reflector I may, repeat may, dim the lamps to the sides and also warm them up to create a softer fall off and a warmth reaching into the shadow area. I might do that but it is no means necessary.\nWhether I gel a light and with what strength of gel in order to maintain color balance is a decision based on the script, the scene and the individual shot. Maybe, you would like the daylight to be blue’ish and the interior lights to be warm. Maybe not.\nThis reply was modified 2 years, 6 months ago by\nRoger Deakins\n.",
+  "content_html": "<p>The angle of the light to the light to the bounce can alter the size and the shape of the source you create. Whether a lamp is above and rigged to the ceiling or on the floor on a low boy or ‘turtle’ is usually just about space and convenience.</p>\n<p>You can double the muslin but it doesn’t make so much difference. The light going through it could be a problem though, and bounce around to interfere with the contrast of the shot.</p>\n<p>If I have a series of lamps bouncing off a wide reflector I may, repeat may, dim the lamps to the sides and also warm them up to create a softer fall off and a warmth reaching into the shadow area. I might do that but it is no means necessary.</p>\n<p>Whether I gel a light and with what strength of gel in order to maintain color balance is a decision based on the script, the scene and the individual shot. Maybe, you would like the daylight to be blue’ish and the interior lights to be warm. Maybe not.</p>\n<p> </p>\n<ul class=\"bbp-reply-revision-log\" id=\"bbp-reply-revision-log-214637\">\n<li class=\"bbp-reply-revision-log-item\" id=\"bbp-reply-revision-log-214637-item-214654\">\n\t\tThis reply was modified 2 years, 6 months ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/roger/\" title=\"View Roger Deakins's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png\" srcset=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-28x28.png 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">Roger Deakins</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The angle of the light to the light to the bounce can alter the size and the shape of the source you create. Whether a lamp is above and rigged to the ceiling or on the floor on a low boy or ‘turtle’ is usually just about space and convenience."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can double the muslin but it doesn’t make so much difference. The light going through it could be a problem though, and bounce around to interfere with the contrast of the shot."
+    },
+    {
+      "type": "paragraph",
+      "text": "If I have a series of lamps bouncing off a wide reflector I may, repeat may, dim the lamps to the sides and also warm them up to create a softer fall off and a warmth reaching into the shadow area. I might do that but it is no means necessary."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether I gel a light and with what strength of gel in order to maintain color balance is a decision based on the script, the scene and the individual shot. Maybe, you would like the daylight to be blue’ish and the interior lights to be warm. Maybe not."
+    },
+    {
+      "type": "list",
+      "text": "This reply was modified 2 years, 6 months ago by\nRoger Deakins\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/roger/",
+      "text": "Roger Deakins",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+    "scraped_at": "2026-01-15T15:51:24.793797+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "95d6c969b434e672808280eccb48f923385aedc0abd0a0f93b1dd6c8c2a04025",
+    "parser_version": "bbpress-v2"
+  }
+}

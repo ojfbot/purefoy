@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "207113",
+    "forum_slug": "composition",
+    "topic_slug": "psycho-singles-eye-line-curse-of-color-in-modern-cinema",
+    "parent_post_id": "206942",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "GianniRanzuglia",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi,\nAlfred Hitchcock was famously known and still is, for the way he used editing to create tension and suspense. Mismatching eyelines is a trick he used in Vertigo, North by Northwest, Notorious and Psycho, particularly giving the latter film a sense of danger in the scene you mentioned.",
+  "content_html": "<p>Hi,</p>\n<p>Alfred Hitchcock was famously known and still is, for the way he used editing to create tension and suspense. Mismatching eyelines is a trick he used in Vertigo, North by Northwest, Notorious and Psycho, particularly giving the latter film a sense of danger in the scene you mentioned.</p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alfred Hitchcock was famously known and still is, for the way he used editing to create tension and suspense. Mismatching eyelines is a trick he used in Vertigo, North by Northwest, Notorious and Psycho, particularly giving the latter film a sense of danger in the scene you mentioned."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/psycho-singles-eye-line-curse-of-color-in-modern-cinema/#post-211113",
+    "scraped_at": "2026-01-15T13:23:32.283683+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/psycho-singles-eye-line-curse-of-color-in-modern-cinema/#post-211113",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6d276bc3b35e1fde582534913aaa2e9f4bbd08915b1ca3a079613fa18791535c",
+    "parser_version": "bbpress-v2"
+  }
+}

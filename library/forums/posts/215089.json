@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "215089",
+    "forum_slug": "forum",
+    "topic_slug": "led-on-film"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "iamjoehan",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nWould you say there is a striking difference exposing film using LEDs? I haven’t shot a proper narrative on film in a while and that was when LEDs were just coming out so much of my units were tungstens and kino’s.\nI’ve defaulted to those on my ask/order but they came back with Aputure 1200D and Astera Titans as alternatives. Seems like many vendors are no longer carrying tungsten or HMI units.\nShould I be worried and source some tungsten/HMI units?",
+  "content_html": "<p>Hi Roger,</p>\n<p>Would you say there is a striking difference exposing film using LEDs? I haven’t shot a proper narrative on film in a while and that was when LEDs were just coming out so much of my units were tungstens and kino’s.</p>\n<p>I’ve defaulted to those on my ask/order but they came back with Aputure 1200D and Astera Titans as alternatives. Seems like many vendors are no longer carrying tungsten or HMI units.</p>\n<p>Should I be worried and source some tungsten/HMI units?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Would you say there is a striking difference exposing film using LEDs? I haven’t shot a proper narrative on film in a while and that was when LEDs were just coming out so much of my units were tungstens and kino’s."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve defaulted to those on my ask/order but they came back with Aputure 1200D and Astera Titans as alternatives. Seems like many vendors are no longer carrying tungsten or HMI units."
+    },
+    {
+      "type": "paragraph",
+      "text": "Should I be worried and source some tungsten/HMI units?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/led-on-film/#post-215121",
+    "scraped_at": "2026-01-15T15:49:09.772833+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/led-on-film/#post-215121",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "18da0546cf5e2251cb892a24dbd58367b07c692fcf927d65acffe61f0de87c1c",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "220370",
+    "forum_slug": "post",
+    "topic_slug": "is-the-quality-of-shot-relevant-for-editing",
+    "parent_post_id": "220357",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks Stip, i think It’s a good advice to see what wins at the end, their emotional power (i like this way of thinking!) or the annoyance for their imperfections.\nI am afraid that i need to become a way better cinematographer but also a less finicky person at the same time,  ah ah.",
+  "content_html": "<p>Thanks Stip, i think It’s a good advice to see what wins at the end, their emotional power (i like this way of thinking!) or the annoyance for their imperfections.</p>\n<p>I am afraid that i need to become a way better cinematographer but also a less finicky person at the same time,  ah ah.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks Stip, i think It’s a good advice to see what wins at the end, their emotional power (i like this way of thinking!) or the annoyance for their imperfections."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am afraid that i need to become a way better cinematographer but also a less finicky person at the same time,  ah ah."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/is-the-quality-of-shot-relevant-for-editing/#post-220370",
+    "scraped_at": "2026-01-15T11:50:39.149414+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/is-the-quality-of-shot-relevant-for-editing/#post-220370",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8bdc86bf48344276ea6aca9632d5cfdc4eb0ed82ce5fb3fedd5ed9438dcd1cea",
+    "parser_version": "bbpress-v2"
+  }
+}

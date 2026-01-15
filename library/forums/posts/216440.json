@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216440",
+    "forum_slug": "camera",
+    "topic_slug": "the-coordination-between-camera-ei-exposure-index-and-lighting",
+    "parent_post_id": "216428",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi David – Could you explain this a little further how a higher ISO would retain highlights? Intuitively, it would seem a higher ISO would push the sensor out of its optimal dynamic range and increase the intensity of highlights. Even with using ND, would you get more noise in shadows and less dynamic range? And is this characteristic camera specific for an Arri vs a Sony Venice or other camera for example, or do all digital cameras behave this way?",
+  "content_html": "<p>Hi David – Could you explain this a little further how a higher ISO would retain highlights? Intuitively, it would seem a higher ISO would push the sensor out of its optimal dynamic range and increase the intensity of highlights. Even with using ND, would you get more noise in shadows and less dynamic range? And is this characteristic camera specific for an Arri vs a Sony Venice or other camera for example, or do all digital cameras behave this way?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi David – Could you explain this a little further how a higher ISO would retain highlights? Intuitively, it would seem a higher ISO would push the sensor out of its optimal dynamic range and increase the intensity of highlights. Even with using ND, would you get more noise in shadows and less dynamic range? And is this characteristic camera specific for an Arri vs a Sony Venice or other camera for example, or do all digital cameras behave this way?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-coordination-between-camera-ei-exposure-index-and-lighting/#post-216479",
+    "scraped_at": "2026-01-15T14:13:06.155373+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-coordination-between-camera-ei-exposure-index-and-lighting/#post-216479",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "99fa44a11435150f0ac491605dfb5c55c9d461693c2fca670c602c4e9a60ab4b",
+    "parser_version": "bbpress-v2"
+  }
+}

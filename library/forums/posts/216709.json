@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216709",
+    "forum_slug": "camera",
+    "topic_slug": "reading-recommendations-for-camera-blocking-scene-design",
+    "parent_post_id": "216079",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "CarlZand",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I love all of those filmmakers Roger mentions. I was born in 1976, living in the north of México, in one of the most dangerous cities in the world, and I am a film buff (that is and has been my safety route); I have learned more about the human condition with those masters. Huston, Ozu, Melville, Bresson, Cassavetes, Buñuel. and the list goes on…\nOther art forms like music, painting; just observing ordinary life, really, has had a major impact in how I understand films and life. That has played a major role. For instance, I am an amateur street/still photographer, and when it comes to writing, one book: “In the Blink of an Eye,” by the great Walter Murch, has been a big landmark for me when it comes to writing. It is a book about film editing, but, the soul of the conversation applies to storytelling and intuition, with a heart. Look it up.\nThere is always some new experience in many art forms of expression to learn from. So, thank you for this forum and let´s keep the ball rolling. Cheers to all of you.",
+  "content_html": "<p>I love all of those filmmakers Roger mentions. I was born in 1976, living in the north of México, in one of the most dangerous cities in the world, and I am a film buff (that is and has been my safety route); I have learned more about the human condition with those masters. Huston, Ozu, Melville, Bresson, Cassavetes, Buñuel. and the list goes on…</p>\n<p>Other art forms like music, painting; just observing ordinary life, really, has had a major impact in how I understand films and life. That has played a major role. For instance, I am an amateur street/still photographer, and when it comes to writing, one book: “In the Blink of an Eye,” by the great Walter Murch, has been a big landmark for me when it comes to writing. It is a book about film editing, but, the soul of the conversation applies to storytelling and intuition, with a heart. Look it up.</p>\n<p>There is always some new experience in many art forms of expression to learn from. So, thank you for this forum and let´s keep the ball rolling. Cheers to all of you.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I love all of those filmmakers Roger mentions. I was born in 1976, living in the north of México, in one of the most dangerous cities in the world, and I am a film buff (that is and has been my safety route); I have learned more about the human condition with those masters. Huston, Ozu, Melville, Bresson, Cassavetes, Buñuel. and the list goes on…"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other art forms like music, painting; just observing ordinary life, really, has had a major impact in how I understand films and life. That has played a major role. For instance, I am an amateur street/still photographer, and when it comes to writing, one book: “In the Blink of an Eye,” by the great Walter Murch, has been a big landmark for me when it comes to writing. It is a book about film editing, but, the soul of the conversation applies to storytelling and intuition, with a heart. Look it up."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is always some new experience in many art forms of expression to learn from. So, thank you for this forum and let´s keep the ball rolling. Cheers to all of you."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reading-recommendations-for-camera-blocking-scene-design/#post-218443",
+    "scraped_at": "2026-01-15T12:42:30.150516+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reading-recommendations-for-camera-blocking-scene-design/#post-218443",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6cb51816d606577ad51870c9d4d48391cdab06c5c571670e317cb32a58758c91",
+    "parser_version": "bbpress-v2"
+  }
+}

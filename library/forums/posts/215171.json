@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "215171",
+    "forum_slug": "camera",
+    "topic_slug": "optical-viewfinder"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "gazoo_global",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Do you find that using cameras like the Alexa Studio with an optical viewfinder changes the way you light and compose a shot?\nSince an optical viewfinder shows excatly what’s in front of you (a natural representation of light and colors) versus an electronic finder with its digitally processed image through a look up table.\nNow that you’ve changed over to a better electronic viewfinder (compared to the first Alexa), I wonder if you are liking or disliking the difference.",
+  "content_html": "<p>Do you find that using cameras like the Alexa Studio with an optical viewfinder changes the way you light and compose a shot?</p>\n<p>Since an optical viewfinder shows excatly what’s in front of you (a natural representation of light and colors) versus an electronic finder with its digitally processed image through a look up table.</p>\n<p>Now that you’ve changed over to a better electronic viewfinder (compared to the first Alexa), I wonder if you are liking or disliking the difference.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Do you find that using cameras like the Alexa Studio with an optical viewfinder changes the way you light and compose a shot?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since an optical viewfinder shows excatly what’s in front of you (a natural representation of light and colors) versus an electronic finder with its digitally processed image through a look up table."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now that you’ve changed over to a better electronic viewfinder (compared to the first Alexa), I wonder if you are liking or disliking the difference."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/optical-viewfinder/#post-215178",
+    "scraped_at": "2026-01-15T15:23:07.021686+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/optical-viewfinder/#post-215178",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b16d8e790327bf7c8a3621ce8fded8a126aaf34ecfe073b77f49f1cab11e62f5",
+    "parser_version": "bbpress-v2"
+  }
+}

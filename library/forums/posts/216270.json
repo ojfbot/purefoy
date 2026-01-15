@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "216270",
+    "forum_slug": "forum",
+    "topic_slug": "what-are-gag-lights-and-why-use-them",
+    "parent_post_id": "216250",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Look at a 9 light or 12 light Maxi Brute. If you hold your hand close the lamp you see every shadow, though perhaps you should do this with an equivalent multiple bulb LED if you value your hand.\n:))",
+  "content_html": "<blockquote><p>Look at a 9 light or 12 light Maxi Brute. If you hold your hand close the lamp you see every shadow, though perhaps you should do this with an equivalent multiple bulb LED if you value your hand.</p></blockquote>\n<p>:))</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Look at a 9 light or 12 light Maxi Brute. If you hold your hand close the lamp you see every shadow, though perhaps you should do this with an equivalent multiple bulb LED if you value your hand."
+    },
+    {
+      "type": "paragraph",
+      "text": "Look at a 9 light or 12 light Maxi Brute. If you hold your hand close the lamp you see every shadow, though perhaps you should do this with an equivalent multiple bulb LED if you value your hand."
+    },
+    {
+      "type": "paragraph",
+      "text": ":))"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Look at a 9 light or 12 light Maxi Brute. If you hold your hand close the lamp you see every shadow, though perhaps you should do this with an equivalent multiple bulb LED if you value your hand."
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-are-gag-lights-and-why-use-them/#post-216273",
+    "scraped_at": "2026-01-15T15:25:34.787724+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-are-gag-lights-and-why-use-them/#post-216273",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f2712c9b2aef21d4f7f8afdbb8314c1cb06485012ce0d09ce2d9ae6acef7bdb7",
+    "parser_version": "bbpress-v2"
+  }
+}

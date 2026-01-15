@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "220509",
+    "forum_slug": "forum",
+    "topic_slug": "exposure-skin-tone",
+    "parent_post_id": "220501",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t have a scientific answer but skin is a pastel color and as it gets lighter, like any color, it gets less saturated by eye.\nA similar thing happens in colored lighting — 5600K light on a 3200K camera looks pale blue when overexposed and deep blue when underexposed.\nAs to how overexposed a face can get and still be corrected back to normal, that depends on the camera and the recording format, the skill of the colorist — and the face.",
+  "content_html": "<p>I don’t have a scientific answer but skin is a pastel color and as it gets lighter, like any color, it gets less saturated by eye.</p>\n<p>A similar thing happens in colored lighting — 5600K light on a 3200K camera looks pale blue when overexposed and deep blue when underexposed.</p>\n<p>As to how overexposed a face can get and still be corrected back to normal, that depends on the camera and the recording format, the skill of the colorist — and the face.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t have a scientific answer but skin is a pastel color and as it gets lighter, like any color, it gets less saturated by eye."
+    },
+    {
+      "type": "paragraph",
+      "text": "A similar thing happens in colored lighting — 5600K light on a 3200K camera looks pale blue when overexposed and deep blue when underexposed."
+    },
+    {
+      "type": "paragraph",
+      "text": "As to how overexposed a face can get and still be corrected back to normal, that depends on the camera and the recording format, the skill of the colorist — and the face."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposure-skin-tone/#post-220576",
+    "scraped_at": "2026-01-15T13:16:22.484347+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposure-skin-tone/#post-220576",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0763decbc529aa9691457da0f4662a3caf1fd9db56d2ed27fd281790f33653f4",
+    "parser_version": "bbpress-v2"
+  }
+}

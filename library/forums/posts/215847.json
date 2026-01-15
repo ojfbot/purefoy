@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "215847",
+    "forum_slug": "forum",
+    "topic_slug": "relationship-between-light-output-and-contrast-in-a-room"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Ocon",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger and fellow cinematographers,\nI’ve always been curious about whether the contrast in a scene changes if you adjust both the output of your lamps and the t-stop on your lens by the same proportion in a controlled lighting environment (no natural light etc.).\nFor example: If you’re filming a scene at night in an apartment room, using only a few practicals and a film lamp outside the frame, and you change your t-stop from 2 to 2.8 while doubling the output of all practicals and film lamps, will the contrast of the image remain the same? Do the room’s bounce light and the light from the lamps change proportionally?",
+  "content_html": "<p>Hi Roger and fellow cinematographers,</p>\n<p>I’ve always been curious about whether the contrast in a scene changes if you adjust both the output of your lamps and the t-stop on your lens by the same proportion in a controlled lighting environment (no natural light etc.).</p>\n<p>For example: If you’re filming a scene at night in an apartment room, using only a few practicals and a film lamp outside the frame, and you change your t-stop from 2 to 2.8 while doubling the output of all practicals and film lamps, will the contrast of the image remain the same? Do the room’s bounce light and the light from the lamps change proportionally?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger and fellow cinematographers,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve always been curious about whether the contrast in a scene changes if you adjust both the output of your lamps and the t-stop on your lens by the same proportion in a controlled lighting environment (no natural light etc.)."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example: If you’re filming a scene at night in an apartment room, using only a few practicals and a film lamp outside the frame, and you change your t-stop from 2 to 2.8 while doubling the output of all practicals and film lamps, will the contrast of the image remain the same? Do the room’s bounce light and the light from the lamps change proportionally?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/relationship-between-light-output-and-contrast-in-a-room/#post-215868",
+    "scraped_at": "2026-01-15T15:43:57.013365+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/relationship-between-light-output-and-contrast-in-a-room/#post-215868",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dbf12053ea1d88296d7956b30c20912cf8b2347a9b41c26c46d67d7507910855",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "220259",
+    "forum_slug": "film-talk",
+    "topic_slug": "first-viewing-of-stalker"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "MNMike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "One of the things I love about this forum and the pod is the education around older films that were not on my radar. I’m embarrassed to say that I’ve never seen a Tarkovsky film. As luck would have it Stalker is playing at a local cinema tonight and I’m looking forward to my first viewing, and on the big screen no less!. Thank you Roger and James and everyone else for the many forms of education I get from this site.",
+  "content_html": "<p>One of the things I love about this forum and the pod is the education around older films that were not on my radar. I’m embarrassed to say that I’ve never seen a Tarkovsky film. As luck would have it Stalker is playing at a local cinema tonight and I’m looking forward to my first viewing, and on the big screen no less!. Thank you Roger and James and everyone else for the many forms of education I get from this site.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "One of the things I love about this forum and the pod is the education around older films that were not on my radar. I’m embarrassed to say that I’ve never seen a Tarkovsky film. As luck would have it Stalker is playing at a local cinema tonight and I’m looking forward to my first viewing, and on the big screen no less!. Thank you Roger and James and everyone else for the many forms of education I get from this site."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/first-viewing-of-stalker/#post-220262",
+    "scraped_at": "2026-01-15T11:51:01.812522+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/first-viewing-of-stalker/#post-220262",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d93539cbcf0d2c0cd977561ad558723558905eb56e5fe0f622729502f0d46e33",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215798",
+    "forum_slug": "forum",
+    "topic_slug": "continuity-with-haze",
+    "parent_post_id": "215776",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "adamsteadi",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Wow, holy smokes! Densitometer? Never even knew they existed. So many presumptions from me but I would think if the back light is heavier than the side light it is because we are seeing more directly into the depth of the haze in the scene than a sidelight would portray. Makes total sense.",
+  "content_html": "<p>Wow, holy smokes! Densitometer? Never even knew they existed. So many presumptions from me but I would think if the back light is heavier than the side light it is because we are seeing more directly into the depth of the haze in the scene than a sidelight would portray. Makes total sense.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Wow, holy smokes! Densitometer? Never even knew they existed. So many presumptions from me but I would think if the back light is heavier than the side light it is because we are seeing more directly into the depth of the haze in the scene than a sidelight would portray. Makes total sense."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/continuity-with-haze/#post-215798",
+    "scraped_at": "2026-01-15T15:44:26.616652+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/continuity-with-haze/#post-215798",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ebcf1397f08f329b0bacb31d9e2412465adf8ecda19790b7617bd7bc5122e51c",
+    "parser_version": "bbpress-v2"
+  }
+}

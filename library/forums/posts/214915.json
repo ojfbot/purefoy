@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "214915",
+    "forum_slug": "forum",
+    "topic_slug": "phantom-thread-cafe-scene",
+    "parent_post_id": "214912",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "",
+  "content_html": "<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214915/eqsomq193gx2dcg6el32ha7slv95bg8v.jpeg\"/></p>",
+  "blocks": [],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214915/eqsomq193gx2dcg6el32ha7slv95bg8v.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/phantom-thread-cafe-scene/#post-214960",
+    "scraped_at": "2026-01-15T15:50:06.663760+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/phantom-thread-cafe-scene/#post-214960",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "84622a9e923ae766cb672953569855313213588ed30244ed8956c4ef87a1c06a",
+    "parser_version": "bbpress-v2"
+  }
+}

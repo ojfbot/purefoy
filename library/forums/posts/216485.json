@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216485",
+    "forum_slug": "forum",
+    "topic_slug": "decisionmaking-of-overhead-lightingrigs",
+    "parent_post_id": "216481",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Each choice is determined by the context and the scene. If I had used an eight or ten foot ring light on the dance scene in Hail Caesar the effect would have been entirely different from the array of small Fresnel lamps. I could focus the Fresnels to create entirely different patterns of light across the set as the dance progressed. A ring would have given me a soft wash, which was fine in the Casino. There the light never changed.",
+  "content_html": "<p>Each choice is determined by the context and the scene. If I had used an eight or ten foot ring light on the dance scene in Hail Caesar the effect would have been entirely different from the array of small Fresnel lamps. I could focus the Fresnels to create entirely different patterns of light across the set as the dance progressed. A ring would have given me a soft wash, which was fine in the Casino. There the light never changed.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Each choice is determined by the context and the scene. If I had used an eight or ten foot ring light on the dance scene in Hail Caesar the effect would have been entirely different from the array of small Fresnel lamps. I could focus the Fresnels to create entirely different patterns of light across the set as the dance progressed. A ring would have given me a soft wash, which was fine in the Casino. There the light never changed."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/decisionmaking-of-overhead-lightingrigs/#post-216485",
+    "scraped_at": "2026-01-15T15:24:34.163123+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/decisionmaking-of-overhead-lightingrigs/#post-216485",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9ee87f0d1fcafe1320b23c12357444b40514dc0a183d4a7dfae8d18cb068eb35",
+    "parser_version": "bbpress-v2"
+  }
+}

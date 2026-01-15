@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215212",
+    "forum_slug": "forum",
+    "topic_slug": "poorman-process-for-night-bus-interior",
+    "parent_post_id": "215199",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "What kind of LEDs generally you preferred in this case. What is personal thoughts about skypanel and astera tubes for buses night interior lighting.",
+  "content_html": "<p>What kind of LEDs generally you preferred in this case. What is personal thoughts about skypanel and astera tubes for buses night interior lighting.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "What kind of LEDs generally you preferred in this case. What is personal thoughts about skypanel and astera tubes for buses night interior lighting."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/poorman-process-for-night-bus-interior/#post-215215",
+    "scraped_at": "2026-01-15T15:48:12.695190+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/poorman-process-for-night-bus-interior/#post-215215",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bdea1a37c17c2e4cb50951b57c49f8a5d7535d821ad26bbb47085e252a6c8c2e",
+    "parser_version": "bbpress-v2"
+  }
+}

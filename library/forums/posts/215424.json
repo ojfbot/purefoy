@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "post_id": "215424",
+    "forum_slug": "forum",
+    "topic_slug": "split-tone-look-how-much-to-get-in-camera",
+    "parent_post_id": "215414",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "To define why it will cause you artefacts.\nWe spend much of our time keeping the green channel of any image acquisition as noise-free as possible. This is because, photopically, your human vision is most sensitive to the green part of the spectrum yada yada.\nIn all WB gains for the Alexa line cameras (and most), no gain is ever applied to the green channel.\nTo add green in post-production, you would have to gain the green channel, dependent on how much, this would introduce visible noise.\nThat being said, consider what you’re trying to achieve. Even with the ideology a camera is just data collection and a large part of authorship comes in display preparation and post production. You still need two different hues to make the selects easy.\nTo create a lighting effect in post is painful to make look realistic… when you can just light it.\nPost is geat at de/emphasising or stylising an effect.\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>To define why it will cause you artefacts.</p>\n<p>We spend much of our time keeping the green channel of any image acquisition as noise-free as possible. This is because, photopically, your human vision is most sensitive to the green part of the spectrum yada yada.</p>\n<p>In all WB gains for the Alexa line cameras (and most), no gain is ever applied to the green channel.</p>\n<p>To add green in post-production, you would have to gain the green channel, dependent on how much, this would introduce visible noise.</p>\n<p>That being said, consider what you’re trying to achieve. Even with the ideology a camera is just data collection and a large part of authorship comes in display preparation and post production. You still need two different hues to make the selects easy.</p>\n<p>To create a lighting effect in post is painful to make look realistic… when you can just light it.</p>\n<p>Post is geat at de/emphasising or stylising an effect.</p>\n<p> </p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "To define why it will cause you artefacts."
+    },
+    {
+      "type": "paragraph",
+      "text": "We spend much of our time keeping the green channel of any image acquisition as noise-free as possible. This is because, photopically, your human vision is most sensitive to the green part of the spectrum yada yada."
+    },
+    {
+      "type": "paragraph",
+      "text": "In all WB gains for the Alexa line cameras (and most), no gain is ever applied to the green channel."
+    },
+    {
+      "type": "paragraph",
+      "text": "To add green in post-production, you would have to gain the green channel, dependent on how much, this would introduce visible noise."
+    },
+    {
+      "type": "paragraph",
+      "text": "That being said, consider what you’re trying to achieve. Even with the ideology a camera is just data collection and a large part of authorship comes in display preparation and post production. You still need two different hues to make the selects easy."
+    },
+    {
+      "type": "paragraph",
+      "text": "To create a lighting effect in post is painful to make look realistic… when you can just light it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Post is geat at de/emphasising or stylising an effect."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/split-tone-look-how-much-to-get-in-camera/#post-215434",
+    "scraped_at": "2026-01-15T15:47:20.615893+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/split-tone-look-how-much-to-get-in-camera/#post-215434",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8c9a3bf8b185dc444e0dcb91d60f1af973b7a25ecbe3540d66a154338fe6f161",
+    "parser_version": "bbpress-v2"
+  }
+}

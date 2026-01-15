@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215420",
+    "forum_slug": "forum",
+    "topic_slug": "desert-chase-at-dawn-scene-in-no-country-for-old-men",
+    "parent_post_id": "215246",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "bardanmcguire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi David! I’m just wondering do you just have vast libraries of screenshots from movies that you like?\nIt just seems like that to me from the screenshots you share from films on this forum and your brilliant posts on Instagram!\nI’ve actually been going through a lot of movies over the past few years and either screenshotting specific scenes I want to analyse or just every shot in the entire movie and then just going through the whole thing to best understand each shots relation to one another and of course composition, lighting etc. Shot deck just isn’t specific enough for me. I find it very helpful for developing my own ideas.",
+  "content_html": "<p>Hi David! I’m just wondering do you just have vast libraries of screenshots from movies that you like?</p>\n<p>It just seems like that to me from the screenshots you share from films on this forum and your brilliant posts on Instagram!</p>\n<p>I’ve actually been going through a lot of movies over the past few years and either screenshotting specific scenes I want to analyse or just every shot in the entire movie and then just going through the whole thing to best understand each shots relation to one another and of course composition, lighting etc. Shot deck just isn’t specific enough for me. I find it very helpful for developing my own ideas.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi David! I’m just wondering do you just have vast libraries of screenshots from movies that you like?"
+    },
+    {
+      "type": "paragraph",
+      "text": "It just seems like that to me from the screenshots you share from films on this forum and your brilliant posts on Instagram!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve actually been going through a lot of movies over the past few years and either screenshotting specific scenes I want to analyse or just every shot in the entire movie and then just going through the whole thing to best understand each shots relation to one another and of course composition, lighting etc. Shot deck just isn’t specific enough for me. I find it very helpful for developing my own ideas."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/desert-chase-at-dawn-scene-in-no-country-for-old-men/#post-215883",
+    "scraped_at": "2026-01-15T15:43:44.761292+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/desert-chase-at-dawn-scene-in-no-country-for-old-men/#post-215883",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e39caa311f736a661fab084f30b6db56d899aa6cc15491d3912f30133e8fc870",
+    "parser_version": "bbpress-v2"
+  }
+}

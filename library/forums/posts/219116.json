@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "219116",
+    "forum_slug": "forum",
+    "topic_slug": "blade-runner-eyeball",
+    "parent_post_id": "196026",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’ve done eyeball shots on a 100mm macro, a 200mm macro, and the end of a 24-290mm zoom with a diopter…\nOne issue is that with a 100mm macro, the lens is only a few inches from the eye, not leaving a lot of room for lighting, but it works. A 200mm macro allows you to be at a more comfortable distance so I would say anywhere in between 100mm and 200mm could work for you.",
+  "content_html": "<p>I’ve done eyeball shots on a 100mm macro, a 200mm macro, and the end of a 24-290mm zoom with a diopter…</p>\n<p>One issue is that with a 100mm macro, the lens is only a few inches from the eye, not leaving a lot of room for lighting, but it works. A 200mm macro allows you to be at a more comfortable distance so I would say anywhere in between 100mm and 200mm could work for you.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’ve done eyeball shots on a 100mm macro, a 200mm macro, and the end of a 24-290mm zoom with a diopter…"
+    },
+    {
+      "type": "paragraph",
+      "text": "One issue is that with a 100mm macro, the lens is only a few inches from the eye, not leaving a lot of room for lighting, but it works. A 200mm macro allows you to be at a more comfortable distance so I would say anywhere in between 100mm and 200mm could work for you."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/blade-runner-eyeball/#post-219209",
+    "scraped_at": "2026-01-15T14:33:21.762746+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/blade-runner-eyeball/#post-219209",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "703a319adcf0f9a1ad8a685e7bf5dddd36eb0e642f670b0661014a292523117b",
+    "parser_version": "bbpress-v2"
+  }
+}

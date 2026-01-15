@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215106",
+    "forum_slug": "forum",
+    "topic_slug": "pushing-light-through-windows",
+    "parent_post_id": "215082",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "halfgrain",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you so much, Roger! Those are great insights and it all makes sense. Can’t wait to build my own experience with those setups, since I’m sure any theoretical knowledge just can’t compete with figuring these things out as you build your experience as a DP. I just haven’t had the chance yet.",
+  "content_html": "<p>Thank you so much, Roger! Those are great insights and it all makes sense. Can’t wait to build my own experience with those setups, since I’m sure any theoretical knowledge just can’t compete with figuring these things out as you build your experience as a DP. I just haven’t had the chance yet.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you so much, Roger! Those are great insights and it all makes sense. Can’t wait to build my own experience with those setups, since I’m sure any theoretical knowledge just can’t compete with figuring these things out as you build your experience as a DP. I just haven’t had the chance yet."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/pushing-light-through-windows/#post-215124",
+    "scraped_at": "2026-01-15T15:49:03.179190+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/pushing-light-through-windows/#post-215124",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "584e0f16d6afe13b756331b3e0bd0137ecdefe2f1e051e84f4129aab2ff0c171",
+    "parser_version": "bbpress-v2"
+  }
+}

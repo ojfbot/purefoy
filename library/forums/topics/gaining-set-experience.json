@@ -1,0 +1,64 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/gaining-set-experience/",
+  "topic_slug": "gaining-set-experience",
+  "title": "Gaining Set Experience",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "175763",
+    "175796",
+    "175797",
+    "175961",
+    "185168"
+  ],
+  "reply_tree": {
+    "post_id": "175763",
+    "post_type": "topic",
+    "author": "James Parsons",
+    "timestamp": "2023-01-18T15:32:00",
+    "children": [
+      {
+        "post_id": "175796",
+        "post_type": "reply",
+        "author": "unknown",
+        "timestamp": "2023-01-19T02:58:00",
+        "children": []
+      },
+      {
+        "post_id": "175797",
+        "post_type": "reply",
+        "author": "unknown",
+        "timestamp": "2023-01-19T03:06:00",
+        "children": []
+      },
+      {
+        "post_id": "175961",
+        "post_type": "reply",
+        "author": "unknown",
+        "timestamp": "2023-01-20T13:03:00",
+        "children": []
+      },
+      {
+        "post_id": "185168",
+        "post_type": "reply",
+        "author": "unknown",
+        "timestamp": "2023-03-01T17:42:00",
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/gaining-set-experience/",
+    "scraped_at": "2026-01-15T11:04:25.610357+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/gaining-set-experience/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "367999ee54c17b6d559eb3a33993bcee5206bcb92a6ee11b4e78f085b522d4e3",
+    "parser_version": "bbpress-v2"
+  }
+}

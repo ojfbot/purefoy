@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218165",
+    "forum_slug": "film-talk",
+    "topic_slug": "andrei-tarkovsky-film",
+    "parent_post_id": "217198",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "thomasvangool",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger, you should direct something!",
+  "content_html": "<p>Roger, you should direct something!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roger, you should direct something!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/andrei-tarkovsky-film/#post-218165",
+    "scraped_at": "2026-01-15T12:08:58.665086+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/andrei-tarkovsky-film/#post-218165",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1c754f6bae923216118c22fa7cffe725c031f183d56871543ad583fe2d535d3f",
+    "parser_version": "bbpress-v2"
+  }
+}

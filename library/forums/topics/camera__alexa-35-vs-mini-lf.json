@@ -1,0 +1,105 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/alexa-35-vs-mini-lf/#post-215996",
+  "forum_slug": "camera",
+  "topic_slug": "alexa-35-vs-mini-lf",
+  "title": "Alexa 35 vs Mini LF",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "169876",
+    "170041",
+    "170133",
+    "170134",
+    "176591",
+    "176627",
+    "182866",
+    "215994",
+    "215995",
+    "215996"
+  ],
+  "reply_tree": {
+    "post_id": "169876",
+    "post_type": "topic",
+    "author": "jlarson",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "170041",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170133",
+        "post_type": "reply",
+        "author": "gabj3",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170134",
+        "post_type": "reply",
+        "author": "gabj3",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "176591",
+        "post_type": "reply",
+        "author": "Kemalettin",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "176627",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "182866",
+        "post_type": "reply",
+        "author": "Hans",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215994",
+        "post_type": "reply",
+        "author": "Dmitriy.Nedria",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215995",
+        "post_type": "reply",
+        "author": "M Ryan",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215996",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 9,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/alexa-35-vs-mini-lf/#post-215996",
+    "scraped_at": "2026-01-15T15:20:04.380573+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/alexa-35-vs-mini-lf/#post-215996",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "75a5221d7da489a44eec2ef8fa6d92498aeb7d8fcb621f7f69688ef88d59e265",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "215512",
+    "forum_slug": "website-news",
+    "topic_slug": "sicario-blue-hour-scene"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Andrew Russo",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger, I’m a cinematographer with a question about how you approached a scene in Sicario. The scene is an hour and 23 minutes into the film as a group of soldiers (with Benicio, Josh, Emily, etc) gear up in front of their vehicles before beginning their decent to the tunnel that will eventually lead them to Mexico. The scene contains roughly 12 shots that all appear to have been filmed in that timeframe between the sun being below the horizon, but not yet dark enough to be night. How many days did it take to get this scene? Were all shots filmed after the sun was down? How many cameras did you use and if multiple, how many cameras did you shoot at the same time or did you leap frog cameras?\nI’m always hesitate to try these things with an aggressive shooting schedule so any input would be very valuable. Thank you!\nBest,\nAndrew Russo",
+  "content_html": "<p>Hi Roger, I’m a cinematographer with a question about how you approached a scene in Sicario. The scene is an hour and 23 minutes into the film as a group of soldiers (with Benicio, Josh, Emily, etc) gear up in front of their vehicles before beginning their decent to the tunnel that will eventually lead them to Mexico. The scene contains roughly 12 shots that all appear to have been filmed in that timeframe between the sun being below the horizon, but not yet dark enough to be night. How many days did it take to get this scene? Were all shots filmed after the sun was down? How many cameras did you use and if multiple, how many cameras did you shoot at the same time or did you leap frog cameras?</p>\n<p>I’m always hesitate to try these things with an aggressive shooting schedule so any input would be very valuable. Thank you!</p>\n<p>Best,</p>\n<p>Andrew Russo</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger, I’m a cinematographer with a question about how you approached a scene in Sicario. The scene is an hour and 23 minutes into the film as a group of soldiers (with Benicio, Josh, Emily, etc) gear up in front of their vehicles before beginning their decent to the tunnel that will eventually lead them to Mexico. The scene contains roughly 12 shots that all appear to have been filmed in that timeframe between the sun being below the horizon, but not yet dark enough to be night. How many days did it take to get this scene? Were all shots filmed after the sun was down? How many cameras did you use and if multiple, how many cameras did you shoot at the same time or did you leap frog cameras?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m always hesitate to try these things with an aggressive shooting schedule so any input would be very valuable. Thank you!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Best,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Andrew Russo"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario-blue-hour-scene/#post-215530",
+    "scraped_at": "2026-01-15T12:26:17.894671+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-blue-hour-scene/#post-215530",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ee1d72ad9b033e70e4bb0bb3179921be285025f06bc4426f7e7b923301b15350",
+    "parser_version": "bbpress-v2"
+  }
+}

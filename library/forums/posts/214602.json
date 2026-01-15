@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "214602",
+    "forum_slug": "forum",
+    "topic_slug": "true-grit-courtroom-ceiling-rig",
+    "parent_post_id": "212264",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you very much for your reply Mr. Deakins! I know you are really busy around the world and really appreciate your answer (priceless).\n“In a case like this I will ask for a rig to be put up knowing it might only be necessary for…”\nThe big lesson for me here is this concept, too often, also if I do often just small productions I do things during the day by watching on the frame, and often the result is a lot of stands and cables around.\nWhen I saw the photo of the rig I thought about your possible idea to have a “clean” set and lamps “ready to use”.\nThank you again for your reply Mr. Deakins, and thank you as usual for your kindness. Reading from you is always fantastic.\nI wish you a peaceful day.\nMax.",
+  "content_html": "<p>Thank you very much for your reply Mr. Deakins! I know you are really busy around the world and really appreciate your answer (priceless).</p>\n<p>“In a case like this I will ask for a rig to be put up knowing it might only be necessary for…”</p>\n<p>The big lesson for me here is this concept, too often, also if I do often just small productions I do things during the day by watching on the frame, and often the result is a lot of stands and cables around.<br/>\nWhen I saw the photo of the rig I thought about your possible idea to have a “clean” set and lamps “ready to use”.</p>\n<p>Thank you again for your reply Mr. Deakins, and thank you as usual for your kindness. Reading from you is always fantastic.</p>\n<p>I wish you a peaceful day.<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you very much for your reply Mr. Deakins! I know you are really busy around the world and really appreciate your answer (priceless)."
+    },
+    {
+      "type": "paragraph",
+      "text": "“In a case like this I will ask for a rig to be put up knowing it might only be necessary for…”"
+    },
+    {
+      "type": "paragraph",
+      "text": "The big lesson for me here is this concept, too often, also if I do often just small productions I do things during the day by watching on the frame, and often the result is a lot of stands and cables around.\nWhen I saw the photo of the rig I thought about your possible idea to have a “clean” set and lamps “ready to use”."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you again for your reply Mr. Deakins, and thank you as usual for your kindness. Reading from you is always fantastic."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful day.\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/true-grit-courtroom-ceiling-rig/#post-214602",
+    "scraped_at": "2026-01-15T15:52:27.527939+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/true-grit-courtroom-ceiling-rig/#post-214602",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "533f1bb6b4890595f3362dd0b4b42aa602b2c2493096a2d83a0db4d19680ab77",
+    "parser_version": "bbpress-v2"
+  }
+}

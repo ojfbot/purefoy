@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "215039",
+    "forum_slug": "forum",
+    "topic_slug": "bathroom-and-club-lighting-questions",
+    "parent_post_id": "214943",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "yannl",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks for the tips. Luckily we were able to shoot the club scene in a real club during an event, so we didn’t have to cast that many extras. I went with the option of a tube hung next to the sink. Here are some stills of the scene in the bathroom:",
+  "content_html": "<p>Thanks for the tips. Luckily we were able to shoot the club scene in a real club during an event, so we didn’t have to cast that many extras. I went with the option of a tube hung next to the sink. Here are some stills of the scene in the bathroom:</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215039/1zrev0b5522p1l09wnekf7bu9smvdkoa.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks for the tips. Luckily we were able to shoot the club scene in a real club during an event, so we didn’t have to cast that many extras. I went with the option of a tube hung next to the sink. Here are some stills of the scene in the bathroom:"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215039/1zrev0b5522p1l09wnekf7bu9smvdkoa.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bathroom-and-club-lighting-questions/#post-215039",
+    "scraped_at": "2026-01-15T15:49:33.431258+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bathroom-and-club-lighting-questions/#post-215039",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d6d3e6e333cd4df14cad9fe60fbbb193eda24c20d5bb3365f74740da4bc079ef",
+    "parser_version": "bbpress-v2"
+  }
+}

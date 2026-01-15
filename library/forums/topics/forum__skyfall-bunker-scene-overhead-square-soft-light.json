@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/skyfall-bunker-scene-overhead-square-soft-light/",
+  "forum_slug": "forum",
+  "topic_slug": "skyfall-bunker-scene-overhead-square-soft-light",
+  "title": "Skyfall bunker scene overhead square soft light",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216600"
+  ],
+  "reply_tree": {
+    "post_id": "216600",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/skyfall-bunker-scene-overhead-square-soft-light/",
+    "scraped_at": "2026-01-15T15:24:06.937237+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/skyfall-bunker-scene-overhead-square-soft-light/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3ba3453aab3e608bf617d50cce7a13bff2679cc26186b78762ac18044f4a0cd5",
+    "parser_version": "bbpress-v2"
+  }
+}

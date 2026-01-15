@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "215687",
+    "forum_slug": "forum",
+    "topic_slug": "unbroken-stunning-night-interior-scene",
+    "parent_post_id": "215662",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "",
+  "content_html": "<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215687/ztqrj337dpfvqkv7zm28a4kqn6hs5zc6.jpg\" width=\"500\"/></p>",
+  "blocks": [],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215687/ztqrj337dpfvqkv7zm28a4kqn6hs5zc6.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/unbroken-stunning-night-interior-scene/#post-215687",
+    "scraped_at": "2026-01-15T15:45:27.115037+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/unbroken-stunning-night-interior-scene/#post-215687",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "80169357b1aa239b87b2b9006227e460b4b1ec85ad951521354a0514df168ece",
+    "parser_version": "bbpress-v2"
+  }
+}

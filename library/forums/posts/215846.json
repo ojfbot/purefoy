@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215846",
+    "forum_slug": "camera",
+    "topic_slug": "cinematography-advice",
+    "parent_post_id": "215720",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "KyleDow",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for taking the time to reply. These answers have proven to be really beneficial, thank you.",
+  "content_html": "<p>Thank you for taking the time to reply. These answers have proven to be really beneficial, thank you.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for taking the time to reply. These answers have proven to be really beneficial, thank you."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cinematography-advice/#post-216112",
+    "scraped_at": "2026-01-15T15:08:29.661841+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cinematography-advice/#post-216112",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "98b4214f6ccc47ba043f5575d370e216e209d87ff6b2e4fc7dc3dd8d454d3c89",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/what-aperture-did-people-tend-to-use-in-movies-in-the-1940s/#post-176495",
+  "forum_slug": "camera",
+  "topic_slug": "what-aperture-did-people-tend-to-use-in-movies-in-the-1940s",
+  "title": "What aperture did people tend to use in movies in the 1940s?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "176430",
+    "176443",
+    "176495"
+  ],
+  "reply_tree": {
+    "post_id": "176430",
+    "post_type": "topic",
+    "author": "umbrella",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "176443",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "176495",
+        "post_type": "reply",
+        "author": "umbrella",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-aperture-did-people-tend-to-use-in-movies-in-the-1940s/#post-176495",
+    "scraped_at": "2026-01-15T15:44:44.528076+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-aperture-did-people-tend-to-use-in-movies-in-the-1940s/#post-176495",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "986fde5867179234fb8e0ef9219fde002b4cc754a812de0e03a931df40d8ea6f",
+    "parser_version": "bbpress-v2"
+  }
+}

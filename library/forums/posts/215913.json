@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "215913",
+    "forum_slug": "still-photography",
+    "topic_slug": "why-aperture-changes-when-the-lens-is-zoomed-in-out",
+    "parent_post_id": "215912",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Why is it designed in such a way?\nCosts.\nBoth manufacturing and retail price.",
+  "content_html": "<blockquote><p>Why is it designed in such a way?</p></blockquote>\n<p>Costs.</p>\n<p>Both manufacturing and retail price.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Why is it designed in such a way?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Why is it designed in such a way?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Costs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both manufacturing and retail price."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Why is it designed in such a way?"
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/why-aperture-changes-when-the-lens-is-zoomed-in-out/#post-215923",
+    "scraped_at": "2026-01-15T12:09:31.229301+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/why-aperture-changes-when-the-lens-is-zoomed-in-out/#post-215923",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "36b85c3350fddb4d7039edb0ea51851289494f194faf47a38338b4e226e98fc4",
+    "parser_version": "bbpress-v2"
+  }
+}

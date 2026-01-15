@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/reflections-book-arrived/#post-220408",
+  "forum_slug": "forum",
+  "topic_slug": "reflections-book-arrived",
+  "title": "Reflections Book Arrived",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220350",
+    "220352",
+    "220374",
+    "220379",
+    "220390",
+    "220408"
+  ],
+  "reply_tree": {
+    "post_id": "220350",
+    "post_type": "topic",
+    "author": "Daniel",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "220352",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220374",
+        "post_type": "reply",
+        "author": "Daniel",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220379",
+        "post_type": "reply",
+        "author": "James",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220390",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220408",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-book-arrived/#post-220408",
+    "scraped_at": "2026-01-15T13:24:03.990009+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-book-arrived/#post-220408",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3d5df2c38cb5225d0356b407b3f8403af6c43b5515e3a0a64434c6987612afb9",
+    "parser_version": "bbpress-v2"
+  }
+}

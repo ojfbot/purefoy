@@ -1,0 +1,32 @@
+{
+  "ids": {
+    "forum_slug": "team-deakins",
+    "forum_url": "https://rogerdeakins.com/forums/forum/team-deakins/"
+  },
+  "title": "Team Deakins",
+  "description": "Discussion forum for Team Deakins podcast topics",
+  "stats": {
+    "topics": 145,
+    "posts": 892
+  },
+  "topic_refs": [
+    {
+      "forum_slug": "team-deakins",
+      "topic_slug": "lighting-natural-light-discussion",
+      "topic_url": "https://rogerdeakins.com/forums/topic/lighting-natural-light-discussion/",
+      "title": "Natural Light Discussion"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://rogerdeakins.com/forums/forum/team-deakins/",
+    "scraped_at": "2026-01-15T03:30:00Z",
+    "http": {
+      "etag": "\"forum123\"",
+      "last_modified": "Tue, 14 Jan 2025 10:00:00 GMT"
+    }
+  },
+  "integrity": {
+    "content_hash": "sha256:forum789...",
+    "parser_version": "bbpress-v1"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "215978",
+    "forum_slug": "forum",
+    "topic_slug": "shashank-redemption-harsh-lighting",
+    "parent_post_id": "215964",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I just asked about this close shot. Brooks feeding pigeons in park.",
+  "content_html": "<p>I just asked about this close shot. Brooks feeding pigeons in park. <img alt=\"\" decoding=\"async\" height=\"184\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215978/s2al041gsk3mlmz6wlhl7s5yhurdcq5d.png\" width=\"319\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I just asked about this close shot. Brooks feeding pigeons in park."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215978/s2al041gsk3mlmz6wlhl7s5yhurdcq5d.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shashank-redemption-harsh-lighting/#post-215979",
+    "scraped_at": "2026-01-15T15:42:56.402670+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shashank-redemption-harsh-lighting/#post-215979",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b93bd690c248a8d508b2209d571bffe4e1f5ef1696a0c2161f9ae5507c09b0a5",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220693",
+    "forum_slug": "team-deakins",
+    "topic_slug": "bleach-bypass",
+    "parent_post_id": "220691",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "ZaKl",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "And does anyone know if it’s only the criterion release that has the full bleach bypassed version of 1984",
+  "content_html": "<p>And does anyone know if it’s only the criterion release that has the full bleach bypassed version of 1984</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "And does anyone know if it’s only the criterion release that has the full bleach bypassed version of 1984"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bleach-bypass/#post-220733",
+    "scraped_at": "2026-01-15T11:51:03.251709+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bleach-bypass/#post-220733",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a67f5d2542bc23d64dbdf1c4e10fa405be341b704956794b434a88695f23a7be",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "215201",
+    "forum_slug": "camera",
+    "topic_slug": "luts",
+    "parent_post_id": "215179",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "When Roger tweaked his LUT in a DI suite, as Joachim Zell who built the LUT describes – a huge amount of work to build the LUT would already have taken place. The tweaking of saturation and contrast at this point would represent small changes to an already complex model that had been previously built.\nIf I remember correctly, ‘True Grit’ was a guideline from Roger for the development of the LUT. I hope he can correct me if there was more to it.",
+  "content_html": "<blockquote><p>When Roger tweaked his LUT in a DI suite, as Joachim Zell who built the LUT describes – a huge amount of work to build the LUT would already have taken place. The tweaking of saturation and contrast at this point would represent small changes to an already complex model that had been previously built.</p></blockquote>\n<p>If I remember correctly, ‘True Grit’ was a guideline from Roger for the development of the LUT. I hope he can correct me if there was more to it.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "When Roger tweaked his LUT in a DI suite, as Joachim Zell who built the LUT describes – a huge amount of work to build the LUT would already have taken place. The tweaking of saturation and contrast at this point would represent small changes to an already complex model that had been previously built."
+    },
+    {
+      "type": "paragraph",
+      "text": "When Roger tweaked his LUT in a DI suite, as Joachim Zell who built the LUT describes – a huge amount of work to build the LUT would already have taken place. The tweaking of saturation and contrast at this point would represent small changes to an already complex model that had been previously built."
+    },
+    {
+      "type": "paragraph",
+      "text": "If I remember correctly, ‘True Grit’ was a guideline from Roger for the development of the LUT. I hope he can correct me if there was more to it."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "When Roger tweaked his LUT in a DI suite, as Joachim Zell who built the LUT describes – a huge amount of work to build the LUT would already have taken place. The tweaking of saturation and contrast at this point would represent small changes to an already complex model that had been previously built."
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/luts/",
+    "scraped_at": "2026-01-15T15:22:39.356660+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/luts/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7131171267c5cab3d67ce7dc55e1a65e134fc5ee0589969ace59361b15641f2d",
+    "parser_version": "bbpress-v2"
+  }
+}

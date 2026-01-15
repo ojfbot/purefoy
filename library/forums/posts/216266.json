@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216266",
+    "forum_slug": "forum",
+    "topic_slug": "br2049-k-rooftop-gels",
+    "parent_post_id": "216006",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This was not the scene I was talking about. The color of the light here is coming entirely from the screen and the playback we shot for the scene.",
+  "content_html": "<p>This was not the scene I was talking about. The color of the light here is coming entirely from the screen and the playback we shot for the scene.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This was not the scene I was talking about. The color of the light here is coming entirely from the screen and the playback we shot for the scene."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/br2049-k-rooftop-gels/#post-216266",
+    "scraped_at": "2026-01-15T15:25:43.371282+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/br2049-k-rooftop-gels/#post-216266",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b09ad5ac5e6d386e153f52943fb41914f8415a24be52f593c24c23a8b5788dab",
+    "parser_version": "bbpress-v2"
+  }
+}

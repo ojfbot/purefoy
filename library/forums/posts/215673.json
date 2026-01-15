@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215673",
+    "forum_slug": "camera",
+    "topic_slug": "directing-effect-of-133-43-ratio",
+    "parent_post_id": "215637",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I have only worked on one film that used 4:3 and that was only for the first scene in ‘A Serious Man’. For that one scene the format seemed perfect and I agree that 4:3 suited ‘The Lighthouse’. But why, other than for very specific purposes, a film will flip formats or go from color to B&W defeats me. It generally makes me aware of the surface of the film. It disconnects me from the story and the characters.",
+  "content_html": "<p>I have only worked on one film that used 4:3 and that was only for the first scene in ‘A Serious Man’. For that one scene the format seemed perfect and I agree that 4:3 suited ‘The Lighthouse’. But why, other than for very specific purposes, a film will flip formats or go from color to B&amp;W defeats me. It generally makes me aware of the surface of the film. It disconnects me from the story and the characters.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I have only worked on one film that used 4:3 and that was only for the first scene in ‘A Serious Man’. For that one scene the format seemed perfect and I agree that 4:3 suited ‘The Lighthouse’. But why, other than for very specific purposes, a film will flip formats or go from color to B&W defeats me. It generally makes me aware of the surface of the film. It disconnects me from the story and the characters."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+    "scraped_at": "2026-01-15T13:56:37.694927+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cc117f19802b528d597c6713c7bf9f4e7b01cd1f4dd3d8704fd363827cc265f3",
+    "parser_version": "bbpress-v2"
+  }
+}

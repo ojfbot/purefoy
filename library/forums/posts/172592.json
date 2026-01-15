@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "172592",
+    "forum_slug": "camera",
+    "topic_slug": "sensor-size-focal-length-depth-of-field",
+    "parent_post_id": "172580",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It’s just numbers, I wouldn’t waste too much time overthinking it. You get a set of lenses for a particular camera / format that range from wide-angle to telephoto and you work with those every day on the set, you don’t spend every day converting focal lengths in your head.\nIf the conversion factor is 1.5X, where you’d use a 35mm in Super-35, you’d probably use a 50mm in Full-Frame (52.5mm is the exact equivalent to a 35mm when going from a 24mm wide sensor to a 36mm wide sensor.). However, the conversion from Open Gate in a regular Alexa to Open Gate in an Alexa LF is more like 1.3X.  So if you like a 32mm on a regular Alexa in Open Gate, you’d use a 40mm on an Alexa LF in Open Gate (41.6mm to be exact if the conversion is 1.3X — I’d have to look up the specs again for both formats to make sure that’s correct.)\nThe difference in depth of field is due to the focal length and again, the amount you have to compensate is the same as the conversion factor, so if the factor is 1.5X then your larger format needs to be stopped down by 1.5-stops to match depth of field to the smaller format.\nIf you shot in Super-16, you’d have a whole different set of focal lengths to deal with.",
+  "content_html": "<p>It’s just numbers, I wouldn’t waste too much time overthinking it. You get a set of lenses for a particular camera / format that range from wide-angle to telephoto and you work with those every day on the set, you don’t spend every day converting focal lengths in your head.</p>\n<p>If the conversion factor is 1.5X, where you’d use a 35mm in Super-35, you’d probably use a 50mm in Full-Frame (52.5mm is the exact equivalent to a 35mm when going from a 24mm wide sensor to a 36mm wide sensor.). However, the conversion from Open Gate in a regular Alexa to Open Gate in an Alexa LF is more like 1.3X.  So if you like a 32mm on a regular Alexa in Open Gate, you’d use a 40mm on an Alexa LF in Open Gate (41.6mm to be exact if the conversion is 1.3X — I’d have to look up the specs again for both formats to make sure that’s correct.)</p>\n<p>The difference in depth of field is due to the focal length and again, the amount you have to compensate is the same as the conversion factor, so if the factor is 1.5X then your larger format needs to be stopped down by 1.5-stops to match depth of field to the smaller format.</p>\n<p>If you shot in Super-16, you’d have a whole different set of focal lengths to deal with.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "It’s just numbers, I wouldn’t waste too much time overthinking it. You get a set of lenses for a particular camera / format that range from wide-angle to telephoto and you work with those every day on the set, you don’t spend every day converting focal lengths in your head."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the conversion factor is 1.5X, where you’d use a 35mm in Super-35, you’d probably use a 50mm in Full-Frame (52.5mm is the exact equivalent to a 35mm when going from a 24mm wide sensor to a 36mm wide sensor.). However, the conversion from Open Gate in a regular Alexa to Open Gate in an Alexa LF is more like 1.3X.  So if you like a 32mm on a regular Alexa in Open Gate, you’d use a 40mm on an Alexa LF in Open Gate (41.6mm to be exact if the conversion is 1.3X — I’d have to look up the specs again for both formats to make sure that’s correct.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The difference in depth of field is due to the focal length and again, the amount you have to compensate is the same as the conversion factor, so if the factor is 1.5X then your larger format needs to be stopped down by 1.5-stops to match depth of field to the smaller format."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you shot in Super-16, you’d have a whole different set of focal lengths to deal with."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sensor-size-focal-length-depth-of-field/#post-173636",
+    "scraped_at": "2026-01-15T15:45:50.467748+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sensor-size-focal-length-depth-of-field/#post-173636",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a4a252d4961f370b3def5a463d23d1bca4b4be096bf954016855d8247dff10fa",
+    "parser_version": "bbpress-v2"
+  }
+}

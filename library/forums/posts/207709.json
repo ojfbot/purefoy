@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "207709",
+    "forum_slug": "film-talk",
+    "topic_slug": "low-no-budget-movies-with-intriguing-cinematography",
+    "parent_post_id": "206257",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Sounds great, too! The Japanese have such a pronounced love for creativity, it’s quite different to Europe. Something that’s considered mind bending here seems to only cause a weary smile in Japan. I believe their manga culture is a major driver of constantly moving cerebral goal posts 🙂",
+  "content_html": "<p>Sounds great, too! The Japanese have such a pronounced love for creativity, it’s quite different to Europe. Something that’s considered mind bending here seems to only cause a weary smile in Japan. I believe their manga culture is a major driver of constantly moving cerebral goal posts 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sounds great, too! The Japanese have such a pronounced love for creativity, it’s quite different to Europe. Something that’s considered mind bending here seems to only cause a weary smile in Japan. I believe their manga culture is a major driver of constantly moving cerebral goal posts 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/low-no-budget-movies-with-intriguing-cinematography/",
+    "scraped_at": "2026-01-15T14:13:32.888857+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/low-no-budget-movies-with-intriguing-cinematography/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dc37b26e530a646a6c92c958d5d0cfb4faa7f713fa24309f1de09b2fd2c72549",
+    "parser_version": "bbpress-v2"
+  }
+}

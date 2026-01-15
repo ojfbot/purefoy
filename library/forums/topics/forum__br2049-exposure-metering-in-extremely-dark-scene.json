@@ -1,0 +1,105 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/br2049-exposure-metering-in-extremely-dark-scene/#post-215986",
+  "forum_slug": "forum",
+  "topic_slug": "br2049-exposure-metering-in-extremely-dark-scene",
+  "title": "BR2049 – Exposure Metering in extremely dark scene",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215966",
+    "215967",
+    "215973",
+    "215977",
+    "215981",
+    "215982",
+    "215983",
+    "215984",
+    "215985",
+    "215986"
+  ],
+  "reply_tree": {
+    "post_id": "215966",
+    "post_type": "topic",
+    "author": "Max A.",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215967",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215973",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215977",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215981",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215982",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215983",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215984",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215985",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215986",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 9,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/br2049-exposure-metering-in-extremely-dark-scene/#post-215986",
+    "scraped_at": "2026-01-15T15:42:50.331421+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/br2049-exposure-metering-in-extremely-dark-scene/#post-215986",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "aad57163b6a89719d588c7310e7ec8f405238126bc7abe530b015e05e01acdc0",
+    "parser_version": "bbpress-v2"
+  }
+}

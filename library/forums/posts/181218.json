@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "post_id": "181218",
+    "forum_slug": "camera",
+    "topic_slug": "photography",
+    "parent_post_id": "178919",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Carlos Sandoval",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello, Roger.\nI am a street photographer (not a very technical person); Iused to think in the old days that equipment meant everything. Not now, clearly.\nI started out with a Pentax k 1000, developing my own B & W film stock in a darkroom, back in the day.\nI was just listening to an episode of your podcast, wich I loved, where you and Jim Plannnette talk about simplifying. That is true in my experience when it comes to the equipment I use, and, of course the one I can afford.\nI am currently using an old digital camera that a friend gave to me, second hand: Panasonic Lumix DMC-LX100, 12 MP.\nWhat do you thing of people working with what they have at hand, and trying to make the best possible with that?\nOf course, experimenting and getting to know every aspect of the camera you are using, to work on the things you are trying to create. Using tachnology as a means to get there.\nThank you, and I wish nothing but the best to you. Cheers from México, sir.",
+  "content_html": "<p>Hello, Roger.</p>\n<p>I am a street photographer (not a very technical person); Iused to think in the old days that equipment meant everything. Not now, clearly.</p>\n<p>I started out with a Pentax k 1000, developing my own B &amp; W film stock in a darkroom, back in the day.</p>\n<p>I was just listening to an episode of your podcast, wich I loved, where you and Jim Plannnette talk about simplifying. That is true in my experience when it comes to the equipment I use, and, of course the one I can afford.</p>\n<p>I am currently using an old digital camera that a friend gave to me, second hand: Panasonic Lumix DMC-LX100, 12 MP.</p>\n<p>What do you thing of people working with what they have at hand, and trying to make the best possible with that?</p>\n<p>Of course, experimenting and getting to know every aspect of the camera you are using, to work on the things you are trying to create. Using tachnology as a means to get there.</p>\n<p>Thank you, and I wish nothing but the best to you. Cheers from México, sir.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello, Roger."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am a street photographer (not a very technical person); Iused to think in the old days that equipment meant everything. Not now, clearly."
+    },
+    {
+      "type": "paragraph",
+      "text": "I started out with a Pentax k 1000, developing my own B & W film stock in a darkroom, back in the day."
+    },
+    {
+      "type": "paragraph",
+      "text": "I was just listening to an episode of your podcast, wich I loved, where you and Jim Plannnette talk about simplifying. That is true in my experience when it comes to the equipment I use, and, of course the one I can afford."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am currently using an old digital camera that a friend gave to me, second hand: Panasonic Lumix DMC-LX100, 12 MP."
+    },
+    {
+      "type": "paragraph",
+      "text": "What do you thing of people working with what they have at hand, and trying to make the best possible with that?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Of course, experimenting and getting to know every aspect of the camera you are using, to work on the things you are trying to create. Using tachnology as a means to get there."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you, and I wish nothing but the best to you. Cheers from México, sir."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/photography/#post-181221",
+    "scraped_at": "2026-01-15T15:44:07.454554+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/photography/#post-181221",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "58aeb10eb12263d3962a55126e7abdecb514d3a73bd416d41ff9d6c9ed98f1e8",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "219484",
+    "forum_slug": "forum",
+    "topic_slug": "filling-diffusion-in-tight-spaces",
+    "parent_post_id": "219358",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Steven.M",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you all for your replies. I truly appreciate it.\nI guess it’s a matter of testing, but as a follow-up question I was wondering if different diffusions fill up in different ways with everything else being equal.\nFor example Magic cloth having such a tight weave allows fewer parallel rays to pass through resulting in those rays bouncing back towards a reflector on an open face and then back again towards the diffusion itself but at a different angle than its original path.\nWhereas muslin with a looser weave, despite being thick will allow more parallel rays through and be more susceptible to hotspots when the frame is not filled?\nIn a nutshell, I guess I’m trying to understand if some diffusions are more efficient at spreading light over their surfaces than others due to their unique properties.\nKind of nerdy question but nonetheless, curious about it.",
+  "content_html": "<p>Thank you all for your replies. I truly appreciate it.</p>\n<p>I guess it’s a matter of testing, but as a follow-up question I was wondering if different diffusions fill up in different ways with everything else being equal.</p>\n<p>For example Magic cloth having such a tight weave allows fewer parallel rays to pass through resulting in those rays bouncing back towards a reflector on an open face and then back again towards the diffusion itself but at a different angle than its original path.</p>\n<p>Whereas muslin with a looser weave, despite being thick will allow more parallel rays through and be more susceptible to hotspots when the frame is not filled?</p>\n<p>In a nutshell, I guess I’m trying to understand if some diffusions are more efficient at spreading light over their surfaces than others due to their unique properties.</p>\n<p>Kind of nerdy question but nonetheless, curious about it.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you all for your replies. I truly appreciate it."
+    },
+    {
+      "type": "paragraph",
+      "text": "I guess it’s a matter of testing, but as a follow-up question I was wondering if different diffusions fill up in different ways with everything else being equal."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example Magic cloth having such a tight weave allows fewer parallel rays to pass through resulting in those rays bouncing back towards a reflector on an open face and then back again towards the diffusion itself but at a different angle than its original path."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whereas muslin with a looser weave, despite being thick will allow more parallel rays through and be more susceptible to hotspots when the frame is not filled?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In a nutshell, I guess I’m trying to understand if some diffusions are more efficient at spreading light over their surfaces than others due to their unique properties."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kind of nerdy question but nonetheless, curious about it."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/filling-diffusion-in-tight-spaces/#post-219488",
+    "scraped_at": "2026-01-15T14:17:04.813156+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/filling-diffusion-in-tight-spaces/#post-219488",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "026f92efea54ebd0906601d67433f37ee3aef7a7cd4c95717e9a0cdaa25a5908",
+    "parser_version": "bbpress-v2"
+  }
+}

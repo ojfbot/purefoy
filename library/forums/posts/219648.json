@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "219648",
+    "forum_slug": "team-deakins",
+    "topic_slug": "dvd-blu-ray-transfers",
+    "parent_post_id": "219592",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That I don’t know for sure. Sorry.",
+  "content_html": "<p>That I don’t know for sure. Sorry.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That I don’t know for sure. Sorry."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dvd-blu-ray-transfers/#post-219648",
+    "scraped_at": "2026-01-15T12:09:32.047777+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dvd-blu-ray-transfers/#post-219648",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f5ac402292a6f681f8872646e4fc294ccc14bfb2d4146810df119463b90f5c36",
+    "parser_version": "bbpress-v2"
+  }
+}

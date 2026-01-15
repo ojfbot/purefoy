@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215413",
+    "forum_slug": "composition",
+    "topic_slug": "perspective-through-cinematography",
+    "parent_post_id": "215404",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Gustavo Perez",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I do like that you note that most do switch between perspectives. I’m still new to all this, so I did an interesting thought experiment (to me, it was, at least). I found that you could use objective framing/ composition with subjective movement within a shot and still get an overall objective perspective of that scene with the bonus of emotionally motivated movement for a hint of empathy.",
+  "content_html": "<p>I do like that you note that most do switch between perspectives. I’m still new to all this, so I did an interesting thought experiment (to me, it was, at least). I found that you could use objective framing/ composition with subjective movement within a shot and still get an overall objective perspective of that scene with the bonus of emotionally motivated movement for a hint of empathy.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I do like that you note that most do switch between perspectives. I’m still new to all this, so I did an interesting thought experiment (to me, it was, at least). I found that you could use objective framing/ composition with subjective movement within a shot and still get an overall objective perspective of that scene with the bonus of emotionally motivated movement for a hint of empathy."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/perspective-through-cinematography/#post-217484",
+    "scraped_at": "2026-01-15T12:25:49.299460+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/perspective-through-cinematography/#post-217484",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "39bb692eb799834a0a9cfd8fa9537d277ee9ac5b524a8c15fe967755622d7281",
+    "parser_version": "bbpress-v2"
+  }
+}

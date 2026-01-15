@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "212384",
+    "forum_slug": "forum",
+    "topic_slug": "a-reflection-of-our-profession",
+    "parent_post_id": "212302",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You develop your own personal language based on your own emotional responses to light and color. I recall interviews with both John Boorman and Ingmar Bergman stating that they found the bright sunshine of California to be “oppressive” (of course they were also probably channeling their feelings towards Hollywood studios). Boorman said he found cold colors like blue to be “relaxing”. So there are limits to ascribing universal values to things like light and color.\nAlso keep in mind that even if your guide is the script, it’s not always necessary to mimic the emotions of a scene visually, what in literature is called “pathetic fallacy.” Sometimes the visuals can be a counterpoint to the emotions of a scene, like when a character gets bad news on a perfect spring day surrounded by nature.",
+  "content_html": "<p>You develop your own personal language based on your own emotional responses to light and color. I recall interviews with both John Boorman and Ingmar Bergman stating that they found the bright sunshine of California to be “oppressive” (of course they were also probably channeling their feelings towards Hollywood studios). Boorman said he found cold colors like blue to be “relaxing”. So there are limits to ascribing universal values to things like light and color.<br/>\nAlso keep in mind that even if your guide is the script, it’s not always necessary to mimic the emotions of a scene visually, what in literature is called “pathetic fallacy.” Sometimes the visuals can be a counterpoint to the emotions of a scene, like when a character gets bad news on a perfect spring day surrounded by nature.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You develop your own personal language based on your own emotional responses to light and color. I recall interviews with both John Boorman and Ingmar Bergman stating that they found the bright sunshine of California to be “oppressive” (of course they were also probably channeling their feelings towards Hollywood studios). Boorman said he found cold colors like blue to be “relaxing”. So there are limits to ascribing universal values to things like light and color.\nAlso keep in mind that even if your guide is the script, it’s not always necessary to mimic the emotions of a scene visually, what in literature is called “pathetic fallacy.” Sometimes the visuals can be a counterpoint to the emotions of a scene, like when a character gets bad news on a perfect spring day surrounded by nature."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-reflection-of-our-profession/#post-214700",
+    "scraped_at": "2026-01-15T15:52:00.454750+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-reflection-of-our-profession/#post-214700",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "67037ecab287356ecff3407ce3741769c3689ebbaf4ec8a1095aac72f0440628",
+    "parser_version": "bbpress-v2"
+  }
+}

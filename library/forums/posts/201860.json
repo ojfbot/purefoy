@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "201860",
+    "forum_slug": "forum",
+    "topic_slug": "attenuation-of-light",
+    "parent_post_id": "198716",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "adrianwolfson",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You can use the CTRL Light bridge reflectors to double the distance of a light that is close to your set which will help even the fall off in the room.",
+  "content_html": "<p>You can use the CTRL Light bridge reflectors to double the distance of a light that is close to your set which will help even the fall off in the room.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You can use the CTRL Light bridge reflectors to double the distance of a light that is close to your set which will help even the fall off in the room."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/attenuation-of-light/#post-201860",
+    "scraped_at": "2026-01-15T15:54:25.126114+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/attenuation-of-light/#post-201860",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "661f0a5c01ac9c89078515e8154a8d9d5cf0e6218a0c4a37cb22fad822f5247e",
+    "parser_version": "bbpress-v2"
+  }
+}

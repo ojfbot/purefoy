@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "183560",
+    "forum_slug": "camera",
+    "topic_slug": "does-lens-focal-length-refer-to-full-frame-sensors-in-common-parlance",
+    "parent_post_id": "169615",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The majority of cinema has been shot on standard 35mm for a century, not Full Frame. So there is no reason for filmmakers to always convert the focal lengths they are using to Full Frame equivalents in terms of field of view when discussing their movie. When we talk about Orson Welles’ use of the 24mm on “Citizen Kane” or the 18.5mm on “Touch of Evil”, we don’t convert those numbers to Full Frame equivalents.",
+  "content_html": "<p>The majority of cinema has been shot on standard 35mm for a century, not Full Frame. So there is no reason for filmmakers to always convert the focal lengths they are using to Full Frame equivalents in terms of field of view when discussing their movie. When we talk about Orson Welles’ use of the 24mm on “Citizen Kane” or the 18.5mm on “Touch of Evil”, we don’t convert those numbers to Full Frame equivalents.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The majority of cinema has been shot on standard 35mm for a century, not Full Frame. So there is no reason for filmmakers to always convert the focal lengths they are using to Full Frame equivalents in terms of field of view when discussing their movie. When we talk about Orson Welles’ use of the 24mm on “Citizen Kane” or the 18.5mm on “Touch of Evil”, we don’t convert those numbers to Full Frame equivalents."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/does-lens-focal-length-refer-to-full-frame-sensors-in-common-parlance/#post-189585",
+    "scraped_at": "2026-01-15T15:43:40.889325+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/does-lens-focal-length-refer-to-full-frame-sensors-in-common-parlance/#post-189585",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "037d04abec41de2a0ba16df0973da3f8504cfc04278b7e6d2cbe71d44022da78",
+    "parser_version": "bbpress-v2"
+  }
+}

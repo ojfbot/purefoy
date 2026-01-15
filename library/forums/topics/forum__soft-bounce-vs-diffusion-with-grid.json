@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/soft-bounce-vs-diffusion-with-grid/#post-217976",
+  "forum_slug": "forum",
+  "topic_slug": "soft-bounce-vs-diffusion-with-grid",
+  "title": "Soft Bounce vs Diffusion with Grid",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217798",
+    "217976"
+  ],
+  "reply_tree": {
+    "post_id": "217798",
+    "post_type": "topic",
+    "author": "christianhawkins",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "217976",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/soft-bounce-vs-diffusion-with-grid/#post-217976",
+    "scraped_at": "2026-01-15T15:19:51.464724+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/soft-bounce-vs-diffusion-with-grid/#post-217976",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a244d3f18d68aed46c186430470054d715711f306e1371ac7a8c7e5095b32f21",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/blade-runner-eyeball/#post-219209",
+  "forum_slug": "forum",
+  "topic_slug": "blade-runner-eyeball",
+  "title": "Blade Runner Eyeball",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "196026",
+    "196635",
+    "219115",
+    "219116",
+    "219118",
+    "219209"
+  ],
+  "reply_tree": {
+    "post_id": "196026",
+    "post_type": "topic",
+    "author": "elliottdeem",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "196635",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219115",
+        "post_type": "reply",
+        "author": "Sumarokov",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219116",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219118",
+        "post_type": "reply",
+        "author": "Sumarokov",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219209",
+        "post_type": "reply",
+        "author": "FriendlyEagle",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/blade-runner-eyeball/#post-219209",
+    "scraped_at": "2026-01-15T14:33:21.777528+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/blade-runner-eyeball/#post-219209",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ad88ec52869ecb116c4d2dda16f2935804792230f90b8d594779279060aae219",
+    "parser_version": "bbpress-v2"
+  }
+}

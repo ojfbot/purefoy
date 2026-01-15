@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "219115",
+    "forum_slug": "forum",
+    "topic_slug": "blade-runner-eyeball",
+    "parent_post_id": "196026",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Sumarokov",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "And here I am, 2 years after the topic began, with my question. In short, what lens did you use? For such a shot, the laowa probe 24mm immediately comes to mind, but the focal length is too wide, and you would have to poke the tube almost into the person’s eye. Then the Leitz Thalia 120mm makro and their Macrolux attachments came to mind, but since it is not possible to do tests for me, maybe you can advise which lens is best for shooting such shots?",
+  "content_html": "<p>And here I am, 2 years after the topic began, with my question. In short, what lens did you use? For such a shot, the laowa probe 24mm immediately comes to mind, but the focal length is too wide, and you would have to poke the tube almost into the person’s eye. Then the Leitz Thalia 120mm makro and their Macrolux attachments came to mind, but since it is not possible to do tests for me, maybe you can advise which lens is best for shooting such shots?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "And here I am, 2 years after the topic began, with my question. In short, what lens did you use? For such a shot, the laowa probe 24mm immediately comes to mind, but the focal length is too wide, and you would have to poke the tube almost into the person’s eye. Then the Leitz Thalia 120mm makro and their Macrolux attachments came to mind, but since it is not possible to do tests for me, maybe you can advise which lens is best for shooting such shots?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/blade-runner-eyeball/#post-219209",
+    "scraped_at": "2026-01-15T14:33:21.762536+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/blade-runner-eyeball/#post-219209",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "13183194a1758637bd26057156b57d9720f9dbdc31c5717afbd98ba7ed6c7658",
+    "parser_version": "bbpress-v2"
+  }
+}

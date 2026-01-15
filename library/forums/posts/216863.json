@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "post_id": "216863",
+    "forum_slug": "camera",
+    "topic_slug": "vintage-lenses-digital-sensors",
+    "parent_post_id": "216862",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There may be a very slight advantage with a lower contrast lens in terms of preserving shadow detail in a high contrast situation, but on the other hand, it’s also harder to fix an image from a low-contrast lens with a lot of flaring in a situation where there is too much lens flare and contrast loss – plus there may be resolution loss too in that situation that is harder to fix.\nSo I tend to agree that a lens with a softer contrast isn’t absolutely necessary if you want to get that look in digital. On the other hand, if the lens gives you the look you want “out of the box” without any adjustments to the LUT, etc. then some cinematographers will prefer that. To me, contrast is a bit down the list of priorities since it can be adjusted in color-correction, as opposed to sharpness, the flare characteristics or the shape of the bokeh – though it all may be tied together. If one wants a softer image from an older lens, it may be that the contrast loss is just something that is part of the equation that the cinematographer accepts as a way of avoiding diffusion filters.\nAnd the problem with post-diffusion is that if the soft look isn’t baked into the original, or at least baked into dailies, it leaves the door open for the studio to change their minds against the will of the director and cinematographer.\nThis reply was modified 11 months, 3 weeks ago by\ndmullenasc\n.",
+  "content_html": "<p>There may be a very slight advantage with a lower contrast lens in terms of preserving shadow detail in a high contrast situation, but on the other hand, it’s also harder to fix an image from a low-contrast lens with a lot of flaring in a situation where there is too much lens flare and contrast loss – plus there may be resolution loss too in that situation that is harder to fix.</p>\n<p>So I tend to agree that a lens with a softer contrast isn’t absolutely necessary if you want to get that look in digital. On the other hand, if the lens gives you the look you want “out of the box” without any adjustments to the LUT, etc. then some cinematographers will prefer that. To me, contrast is a bit down the list of priorities since it can be adjusted in color-correction, as opposed to sharpness, the flare characteristics or the shape of the bokeh – though it all may be tied together. If one wants a softer image from an older lens, it may be that the contrast loss is just something that is part of the equation that the cinematographer accepts as a way of avoiding diffusion filters.</p>\n<p>And the problem with post-diffusion is that if the soft look isn’t baked into the original, or at least baked into dailies, it leaves the door open for the studio to change their minds against the will of the director and cinematographer.</p>\n<ul class=\"bbp-reply-revision-log\" id=\"bbp-reply-revision-log-216863\">\n<li class=\"bbp-reply-revision-log-item\" id=\"bbp-reply-revision-log-216863-item-216864\">\n\t\tThis reply was modified 11 months, 3 weeks ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/dmullenasc/\" title=\"View dmullenasc's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://secure.gravatar.com/avatar/078da0edd0ffdf2bdf53b943207b847f?s=14&amp;d=retro&amp;r=g\" srcset=\"https://secure.gravatar.com/avatar/078da0edd0ffdf2bdf53b943207b847f?s=28&amp;d=retro&amp;r=g 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">dmullenasc</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There may be a very slight advantage with a lower contrast lens in terms of preserving shadow detail in a high contrast situation, but on the other hand, it’s also harder to fix an image from a low-contrast lens with a lot of flaring in a situation where there is too much lens flare and contrast loss – plus there may be resolution loss too in that situation that is harder to fix."
+    },
+    {
+      "type": "paragraph",
+      "text": "So I tend to agree that a lens with a softer contrast isn’t absolutely necessary if you want to get that look in digital. On the other hand, if the lens gives you the look you want “out of the box” without any adjustments to the LUT, etc. then some cinematographers will prefer that. To me, contrast is a bit down the list of priorities since it can be adjusted in color-correction, as opposed to sharpness, the flare characteristics or the shape of the bokeh – though it all may be tied together. If one wants a softer image from an older lens, it may be that the contrast loss is just something that is part of the equation that the cinematographer accepts as a way of avoiding diffusion filters."
+    },
+    {
+      "type": "paragraph",
+      "text": "And the problem with post-diffusion is that if the soft look isn’t baked into the original, or at least baked into dailies, it leaves the door open for the studio to change their minds against the will of the director and cinematographer."
+    },
+    {
+      "type": "list",
+      "text": "This reply was modified 11 months, 3 weeks ago by\ndmullenasc\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/dmullenasc/",
+      "text": "dmullenasc",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://secure.gravatar.com/avatar/078da0edd0ffdf2bdf53b943207b847f?s=14&d=retro&r=g",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/vintage-lenses-digital-sensors/#post-216868",
+    "scraped_at": "2026-01-15T13:23:42.245301+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/vintage-lenses-digital-sensors/#post-216868",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4863b9a86bc4d11170c3b150a6f2307aea6bc1df2307675313e0806bead5ea7b",
+    "parser_version": "bbpress-v2"
+  }
+}

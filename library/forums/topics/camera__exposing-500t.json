@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/exposing-500t/#post-175847",
+  "forum_slug": "camera",
+  "topic_slug": "exposing-500t",
+  "title": "Exposing 500T",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "175803",
+    "175847"
+  ],
+  "reply_tree": {
+    "post_id": "175803",
+    "post_type": "topic",
+    "author": "mdjn",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "175847",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposing-500t/#post-175847",
+    "scraped_at": "2026-01-15T15:45:17.408004+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposing-500t/#post-175847",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cdabb76b7283c2a6faff378b24b8d32b641e9c124d4ee65760177b2019c8f28c",
+    "parser_version": "bbpress-v2"
+  }
+}

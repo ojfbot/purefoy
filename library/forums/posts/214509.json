@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214509",
+    "forum_slug": "forum",
+    "topic_slug": "the-future-of-lighting-control",
+    "parent_post_id": "214503",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "What I did on ‘Empire’ was only an extension of how I always work, choosing practical sources, rigging additional lighting in a concealed way, adding only minimal floor lighting when I have to and always working closely with the art department. What was ‘new’ for me was lighting almost entirely with LED sources.\nIt may be that lighting becomes entirely ‘controlled’ through an LED wall or some other ‘environmental’ source but that is not something that I see myself involved with.",
+  "content_html": "<p>What I did on ‘Empire’ was only an extension of how I always work, choosing practical sources, rigging additional lighting in a concealed way, adding only minimal floor lighting when I have to and always working closely with the art department. What was ‘new’ for me was lighting almost entirely with LED sources.</p>\n<p>It may be that lighting becomes entirely ‘controlled’ through an LED wall or some other ‘environmental’ source but that is not something that I see myself involved with.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "What I did on ‘Empire’ was only an extension of how I always work, choosing practical sources, rigging additional lighting in a concealed way, adding only minimal floor lighting when I have to and always working closely with the art department. What was ‘new’ for me was lighting almost entirely with LED sources."
+    },
+    {
+      "type": "paragraph",
+      "text": "It may be that lighting becomes entirely ‘controlled’ through an LED wall or some other ‘environmental’ source but that is not something that I see myself involved with."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-future-of-lighting-control/#post-214509",
+    "scraped_at": "2026-01-15T15:53:12.721581+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-future-of-lighting-control/#post-214509",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dcc073b58f1bbb2d729dc6bce92a4bc479ab998a6311c1351342af6d91e0718b",
+    "parser_version": "bbpress-v2"
+  }
+}

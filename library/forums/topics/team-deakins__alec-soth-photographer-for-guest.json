@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/alec-soth-photographer-for-guest/",
+  "forum_slug": "team-deakins",
+  "topic_slug": "alec-soth-photographer-for-guest",
+  "title": "Alec Soth (Photographer) for guest",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216195"
+  ],
+  "reply_tree": {
+    "post_id": "216195",
+    "post_type": "topic",
+    "author": "NarekAghazarian",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/alec-soth-photographer-for-guest/",
+    "scraped_at": "2026-01-15T13:06:08.010017+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/alec-soth-photographer-for-guest/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "60ad460185bda30eb466a212f2bd39763dca9dcc459d3020b15be285172dc694",
+    "parser_version": "bbpress-v2"
+  }
+}

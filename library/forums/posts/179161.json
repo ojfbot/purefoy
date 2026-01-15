@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "179161",
+    "forum_slug": "camera",
+    "topic_slug": "empire-of-light-hilary-and-donald-ellis-conversation",
+    "parent_post_id": "178892",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Zamir",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Would you, please explain the lighting here.\nAre the lamps augmented with any ofher source? Also, are you using leds in the practicals here?\nThank you!",
+  "content_html": "<p>Would you, please explain the lighting here.<br/>\nAre the lamps augmented with any ofher source? Also, are you using leds in the practicals here?</p>\n<p>Thank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Would you, please explain the lighting here.\nAre the lamps augmented with any ofher source? Also, are you using leds in the practicals here?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-hilary-and-donald-ellis-conversation/#post-181220",
+    "scraped_at": "2026-01-15T15:44:14.718994+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-hilary-and-donald-ellis-conversation/#post-181220",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f9eeeedf1984abfbff89bab08ebcc0b05228339d9f55c7c6cf6ca9f397af0ba7",
+    "parser_version": "bbpress-v2"
+  }
+}

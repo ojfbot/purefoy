@@ -1,0 +1,81 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/what-are-gag-lights-and-why-use-them/#post-216273",
+  "forum_slug": "forum",
+  "topic_slug": "what-are-gag-lights-and-why-use-them",
+  "title": "What are ‘gag’ lights and why use them?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216250",
+    "216252",
+    "216257",
+    "216259",
+    "216267",
+    "216270",
+    "216273"
+  ],
+  "reply_tree": {
+    "post_id": "216250",
+    "post_type": "topic",
+    "author": "Cisco Clifton",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216252",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216257",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216259",
+        "post_type": "reply",
+        "author": "Cisco Clifton",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216267",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216270",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216273",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 6,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-are-gag-lights-and-why-use-them/#post-216273",
+    "scraped_at": "2026-01-15T15:25:34.801421+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-are-gag-lights-and-why-use-them/#post-216273",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "27c5543fe2b13d59e90dd6683700b733c5d6dc261f5e2ae15858f46ac01f4ddf",
+    "parser_version": "bbpress-v2"
+  }
+}

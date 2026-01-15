@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "post_id": "215540",
+    "forum_slug": "still-photography",
+    "topic_slug": "photos-ive-taken-in-bursa"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Bora Yalcin",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi my name is Bora and i am a 18 year old student who lives in Turkey , İstanbul . In my free times i do photography and enjoy it more than anything in this world. And here are some photos from my last trip.\n(Bursa is a city located in Turkey and known for his winter activities.)",
+  "content_html": "<p>Hi my name is Bora and i am a 18 year old student who lives in Turkey , İstanbul . In my free times i do photography and enjoy it more than anything in this world. And here are some photos from my last trip.</p>\n<p>(Bursa is a city located in Turkey and known for his winter activities.)</p>\n<p> </p>\n<p> </p>\n<p><img alt=\"\" decoding=\"async\" height=\"310\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215540/f0tonovqmnw06m4ofy4hhf2og5mn99gm.jpg\" width=\"466\"/><img alt=\"\" decoding=\"async\" height=\"271\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215540/ugljkibph3oke78h9s22jvd80y2ozumb.jpg\" width=\"462\"/></p>\n<p><img alt=\"\" decoding=\"async\" height=\"306\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215540/s9elznqx26ig5cc3mhtha2r6xx2jfxd7.jpg\" width=\"460\"/><img alt=\"\" decoding=\"async\" height=\"366\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215540/7no1pib6oa3qjvnox1dj66pdb2pqyn2l.jpg\" width=\"459\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi my name is Bora and i am a 18 year old student who lives in Turkey , İstanbul . In my free times i do photography and enjoy it more than anything in this world. And here are some photos from my last trip."
+    },
+    {
+      "type": "paragraph",
+      "text": "(Bursa is a city located in Turkey and known for his winter activities.)"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215540/f0tonovqmnw06m4ofy4hhf2og5mn99gm.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215540/ugljkibph3oke78h9s22jvd80y2ozumb.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215540/s9elznqx26ig5cc3mhtha2r6xx2jfxd7.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215540/7no1pib6oa3qjvnox1dj66pdb2pqyn2l.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/photos-ive-taken-in-bursa/",
+    "scraped_at": "2026-01-15T12:26:23.620173+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/photos-ive-taken-in-bursa/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fc8b98ea28f39fe5724491055f42963dc9bd71cef72460c5c83b4b93f746efc3",
+    "parser_version": "bbpress-v2"
+  }
+}

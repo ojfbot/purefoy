@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "214990",
+    "forum_slug": "camera",
+    "topic_slug": "subjects-appear-in-the-frame",
+    "parent_post_id": "214978",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "An iPhone is a phone but also a camera with a lens.\nSame as an Imax camera. Which is also a camera and a lens.\nLife appears the same on both of them. You can use an iPhone to learn all cinema theory and even to shoot all the movies you like.\nThe actual lens of an IPhone is actually a 4mm lens I think. But the field of view it’s equivalent to 26mm or 28mm found in 35mm film photo cameras.",
+  "content_html": "<p>An iPhone is a phone but also a camera with a lens.</p>\n<p>Same as an Imax camera. Which is also a camera and a lens.</p>\n<p>Life appears the same on both of them. You can use an iPhone to learn all cinema theory and even to shoot all the movies you like.</p>\n<p>The actual lens of an IPhone is actually a 4mm lens I think. But the field of view it’s equivalent to 26mm or 28mm found in 35mm film photo cameras.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "An iPhone is a phone but also a camera with a lens."
+    },
+    {
+      "type": "paragraph",
+      "text": "Same as an Imax camera. Which is also a camera and a lens."
+    },
+    {
+      "type": "paragraph",
+      "text": "Life appears the same on both of them. You can use an iPhone to learn all cinema theory and even to shoot all the movies you like."
+    },
+    {
+      "type": "paragraph",
+      "text": "The actual lens of an IPhone is actually a 4mm lens I think. But the field of view it’s equivalent to 26mm or 28mm found in 35mm film photo cameras."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/subjects-appear-in-the-frame/#post-214997",
+    "scraped_at": "2026-01-15T15:24:09.902318+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/subjects-appear-in-the-frame/#post-214997",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9adc8c2563184bc8d5795a7749fb30e72a58e92e84362091c5797f4980356251",
+    "parser_version": "bbpress-v2"
+  }
+}

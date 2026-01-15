@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "178641",
+    "forum_slug": "composition",
+    "topic_slug": "empire-of-light-camera-work",
+    "parent_post_id": "178611",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yes, I agree. Far too often the camera moves in a film with little regard for story.",
+  "content_html": "<p>Yes, I agree. Far too often the camera moves in a film with little regard for story.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yes, I agree. Far too often the camera moves in a film with little regard for story."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-camera-work/#post-214512",
+    "scraped_at": "2026-01-15T13:16:08.237292+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-camera-work/#post-214512",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cfdf425b63b3f96dc9ad76f221df34559432573832c8da92a4481d00f6091a9a",
+    "parser_version": "bbpress-v2"
+  }
+}

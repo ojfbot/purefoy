@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/blue-hour-lighting-tips/#post-220969",
+  "forum_slug": "forum",
+  "topic_slug": "blue-hour-lighting-tips",
+  "title": "Blue Hour Lighting Tips",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220934",
+    "220949",
+    "220953",
+    "220969"
+  ],
+  "reply_tree": {
+    "post_id": "220934",
+    "post_type": "topic",
+    "author": "ckalcic",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "220949",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220953",
+        "post_type": "reply",
+        "author": "ckalcic",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220969",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/blue-hour-lighting-tips/#post-220969",
+    "scraped_at": "2026-01-15T12:26:16.560676+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-hour-lighting-tips/#post-220969",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0cee60f711f34d537489e1b991dbdb2e0928e641ea1a0309b61935621c8528ab",
+    "parser_version": "bbpress-v2"
+  }
+}

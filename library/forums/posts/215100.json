@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215100",
+    "forum_slug": "forum",
+    "topic_slug": "led-on-film",
+    "parent_post_id": "215089",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Sean Buffini",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thats an interesting question. You could get very scientific but I don’t think it will effect your work. I don’t know enough about film chemistry to know which wave lengths of light are reactive to film, but modern LEDs have pretty decent photometrics so I doubt there would be any meaningful difference when comparing to older technologies.\nIn terms of brightness, some manufacture’s comparisons between their LEDs and traditional HMI’s can be a little misleading. Beam angle and fall off are usually very different. But again, probably not enough of a difference for it to effect your work.",
+  "content_html": "<p>Thats an interesting question. You could get very scientific but I don’t think it will effect your work. I don’t know enough about film chemistry to know which wave lengths of light are reactive to film, but modern LEDs have pretty decent photometrics so I doubt there would be any meaningful difference when comparing to older technologies.</p>\n<p>In terms of brightness, some manufacture’s comparisons between their LEDs and traditional HMI’s can be a little misleading. Beam angle and fall off are usually very different. But again, probably not enough of a difference for it to effect your work.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thats an interesting question. You could get very scientific but I don’t think it will effect your work. I don’t know enough about film chemistry to know which wave lengths of light are reactive to film, but modern LEDs have pretty decent photometrics so I doubt there would be any meaningful difference when comparing to older technologies."
+    },
+    {
+      "type": "paragraph",
+      "text": "In terms of brightness, some manufacture’s comparisons between their LEDs and traditional HMI’s can be a little misleading. Beam angle and fall off are usually very different. But again, probably not enough of a difference for it to effect your work."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/led-on-film/#post-215121",
+    "scraped_at": "2026-01-15T15:49:09.773259+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/led-on-film/#post-215121",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f7155a22681955e55af3f6ac71dd9995b76eee48f355cb2a18306e7abf9ff242",
+    "parser_version": "bbpress-v2"
+  }
+}

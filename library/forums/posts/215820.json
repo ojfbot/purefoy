@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215820",
+    "forum_slug": "composition",
+    "topic_slug": "thoughts-on-a-short-film-i-made-one-minute",
+    "parent_post_id": "215568",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "bardanmcguire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I completely agree with you John. All of the shots in that film except that shot was taken with my Blackmagic Pocket 4k on Blackmagic raw but for that one shot I used my drone which shot on DJI D-Log. I’m not a pro colourist so I just couldn’t for the life of me make it match. It really annoyed me in the end but there just wasn’t anything I could do about. At the end of the day I just had to call it and say it was good enough!\nYou’re right, it does look like a cheap LUT. 😉\nThank you.",
+  "content_html": "<p>I completely agree with you John. All of the shots in that film except that shot was taken with my Blackmagic Pocket 4k on Blackmagic raw but for that one shot I used my drone which shot on DJI D-Log. I’m not a pro colourist so I just couldn’t for the life of me make it match. It really annoyed me in the end but there just wasn’t anything I could do about. At the end of the day I just had to call it and say it was good enough!</p>\n<p>You’re right, it does look like a cheap LUT. 😉</p>\n<p>Thank you.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I completely agree with you John. All of the shots in that film except that shot was taken with my Blackmagic Pocket 4k on Blackmagic raw but for that one shot I used my drone which shot on DJI D-Log. I’m not a pro colourist so I just couldn’t for the life of me make it match. It really annoyed me in the end but there just wasn’t anything I could do about. At the end of the day I just had to call it and say it was good enough!"
+    },
+    {
+      "type": "paragraph",
+      "text": "You’re right, it does look like a cheap LUT. 😉"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-a-short-film-i-made-one-minute/#post-216759",
+    "scraped_at": "2026-01-15T12:26:17.742265+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-a-short-film-i-made-one-minute/#post-216759",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "40ae429c4b93a8b96e00740be1777c4ac7e1065a2d71c68ab55a20f61bb40750",
+    "parser_version": "bbpress-v2"
+  }
+}

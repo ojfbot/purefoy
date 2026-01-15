@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216988",
+    "forum_slug": "forum",
+    "topic_slug": "cove-light-considerations",
+    "parent_post_id": "205389",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I have used an array of LED panels to produce a similar effect to a cove bounce source. Depends on the situation whether it is a preferred approach. It is never quite the same, just as a series of lamps projected through diffusion is different again. The differences may be subtle but light bounced of a white muslin cloth is softer and more evenly spread.\nIf I was shooting a scene and lighting it with a cove bounce source I would set for the wider shot first. I would only move the source in if I felt a need to soften the light on the subject a little more for a closer shot. A softer look on a closer shot seems quite natural to me and is more easily to accept than the reverse.",
+  "content_html": "<p>I have used an array of LED panels to produce a similar effect to a cove bounce source. Depends on the situation whether it is a preferred approach. It is never quite the same, just as a series of lamps projected through diffusion is different again. The differences may be subtle but light bounced of a white muslin cloth is softer and more evenly spread.</p>\n<p>If I was shooting a scene and lighting it with a cove bounce source I would set for the wider shot first. I would only move the source in if I felt a need to soften the light on the subject a little more for a closer shot. A softer look on a closer shot seems quite natural to me and is more easily to accept than the reverse.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I have used an array of LED panels to produce a similar effect to a cove bounce source. Depends on the situation whether it is a preferred approach. It is never quite the same, just as a series of lamps projected through diffusion is different again. The differences may be subtle but light bounced of a white muslin cloth is softer and more evenly spread."
+    },
+    {
+      "type": "paragraph",
+      "text": "If I was shooting a scene and lighting it with a cove bounce source I would set for the wider shot first. I would only move the source in if I felt a need to soften the light on the subject a little more for a closer shot. A softer look on a closer shot seems quite natural to me and is more easily to accept than the reverse."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+    "scraped_at": "2026-01-15T15:18:02.960644+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9f56ae9885d1d3bd099c285759241ecc65c1e460c1b4d00a15648dd2592310b1",
+    "parser_version": "bbpress-v2"
+  }
+}

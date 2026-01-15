@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "175683",
+    "forum_slug": "post",
+    "topic_slug": "the-company-men-amazon-prime-vs-blu-ray-look",
+    "parent_post_id": "173932",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "James",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "We’ve seen this before on several of our movies. For instance, one night we decided to watch Shawshank Redemption and could not watch the version on Amazon. I made many phone calls in the following weeks and happily, they remastered the title. Hopefully, that’s what is showing now on Amazon – but we’re too scared to check! 🙂  It’s really hard when you realize your work is being shown without the timing that you did. There are so many different versions of deliverables that are coming out these days and sometimes they don’t go back to the director or DP for reference. It’s heartbreaking.",
+  "content_html": "<p>We’ve seen this before on several of our movies. For instance, one night we decided to watch Shawshank Redemption and could not watch the version on Amazon. I made many phone calls in the following weeks and happily, they remastered the title. Hopefully, that’s what is showing now on Amazon – but we’re too scared to check! 🙂  It’s really hard when you realize your work is being shown without the timing that you did. There are so many different versions of deliverables that are coming out these days and sometimes they don’t go back to the director or DP for reference. It’s heartbreaking.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "We’ve seen this before on several of our movies. For instance, one night we decided to watch Shawshank Redemption and could not watch the version on Amazon. I made many phone calls in the following weeks and happily, they remastered the title. Hopefully, that’s what is showing now on Amazon – but we’re too scared to check! 🙂  It’s really hard when you realize your work is being shown without the timing that you did. There are so many different versions of deliverables that are coming out these days and sometimes they don’t go back to the director or DP for reference. It’s heartbreaking."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-company-men-amazon-prime-vs-blu-ray-look/#post-175749",
+    "scraped_at": "2026-01-15T13:39:57.614000+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-company-men-amazon-prime-vs-blu-ray-look/#post-175749",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9b0205ebec40c59b5d89d89a86e2dc3cd27f7c7b5e5619968edc59ab6a63aa44",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/short-slow-push-ins-pull-outs-example-films/#post-177385",
+  "forum_slug": "camera",
+  "topic_slug": "short-slow-push-ins-pull-outs-example-films",
+  "title": "Short, slow push ins/pull outs. Example films?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "177107",
+    "177158",
+    "177306",
+    "177317",
+    "177379",
+    "177382",
+    "177385"
+  ],
+  "reply_tree": {
+    "post_id": "177107",
+    "post_type": "topic",
+    "author": "Stip",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "177158",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "177306",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "177317",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "177379",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "177382",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "177385",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 6,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/short-slow-push-ins-pull-outs-example-films/#post-177385",
+    "scraped_at": "2026-01-15T15:44:32.861239+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/short-slow-push-ins-pull-outs-example-films/#post-177385",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "47a0b5785fc86cf32cdc6373b601d5a3a0fae4136751109bd0c3126ed5139d6b",
+    "parser_version": "bbpress-v2"
+  }
+}

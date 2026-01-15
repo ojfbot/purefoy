@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "214997",
+    "forum_slug": "camera",
+    "topic_slug": "subjects-appear-in-the-frame",
+    "parent_post_id": "214978",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If you feel overwhelmed about what focal to use think where should the camera and by definition the audience stand.\nIn my mind, the distance between subject(s) and camera it’s what’s important. And it’s what tells the story. Imagine a 2 people conversation in the middle of the street. It wouldn’t be the same standing 2 feet away of them than 20 feet away.\nOnce you know that, you choose which focal length to use based on what shot size you want. On the example of the 2 people conversation in the middle of the street. If you want a close-up of them and you are standing 20 feet away you will need a very long focal length. If you want the same close up shot size standing 2 feet you will use a wide lens. Shot sizes are the same but what has changed it’s the distance between camera (audience) and subjects. And this is what really affects us as viewers. The distance between camera and subjects, not which lens was used.\nSome lenses are more common than others because they cover standard shot sizes at common distances we usually stand on our daily routines. So they feel natural to us and they feel natural to the audience watching.\nBeing that said lenses have also particular characteristics. Sometimes a meaningless difference between focal lengths as a 28mm and a 30mm lens doesn’t seem much but it can be quite different because the distortion or lack of it a lens has or because a lens is rendering completely different, etc. This also happens to same focal lengths but different lens models.\nAs you start working and employing lenses to create images patterns will emerge in your work. You will favor more some focal lengths than others in an organic way. This is why people tend to stick to same focal lengths for most of their work. Because it’s how they see and relate to the world.",
+  "content_html": "<p>If you feel overwhelmed about what focal to use think where should the camera and by definition the audience stand.</p>\n<p>In my mind, the distance between subject(s) and camera it’s what’s important. And it’s what tells the story. Imagine a 2 people conversation in the middle of the street. It wouldn’t be the same standing 2 feet away of them than 20 feet away.</p>\n<p>Once you know that, you choose which focal length to use based on what shot size you want. On the example of the 2 people conversation in the middle of the street. If you want a close-up of them and you are standing 20 feet away you will need a very long focal length. If you want the same close up shot size standing 2 feet you will use a wide lens. Shot sizes are the same but what has changed it’s the distance between camera (audience) and subjects. And this is what really affects us as viewers. The distance between camera and subjects, not which lens was used.</p>\n<p>Some lenses are more common than others because they cover standard shot sizes at common distances we usually stand on our daily routines. So they feel natural to us and they feel natural to the audience watching.</p>\n<p>Being that said lenses have also particular characteristics. Sometimes a meaningless difference between focal lengths as a 28mm and a 30mm lens doesn’t seem much but it can be quite different because the distortion or lack of it a lens has or because a lens is rendering completely different, etc. This also happens to same focal lengths but different lens models.</p>\n<p>As you start working and employing lenses to create images patterns will emerge in your work. You will favor more some focal lengths than others in an organic way. This is why people tend to stick to same focal lengths for most of their work. Because it’s how they see and relate to the world.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you feel overwhelmed about what focal to use think where should the camera and by definition the audience stand."
+    },
+    {
+      "type": "paragraph",
+      "text": "In my mind, the distance between subject(s) and camera it’s what’s important. And it’s what tells the story. Imagine a 2 people conversation in the middle of the street. It wouldn’t be the same standing 2 feet away of them than 20 feet away."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you know that, you choose which focal length to use based on what shot size you want. On the example of the 2 people conversation in the middle of the street. If you want a close-up of them and you are standing 20 feet away you will need a very long focal length. If you want the same close up shot size standing 2 feet you will use a wide lens. Shot sizes are the same but what has changed it’s the distance between camera (audience) and subjects. And this is what really affects us as viewers. The distance between camera and subjects, not which lens was used."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some lenses are more common than others because they cover standard shot sizes at common distances we usually stand on our daily routines. So they feel natural to us and they feel natural to the audience watching."
+    },
+    {
+      "type": "paragraph",
+      "text": "Being that said lenses have also particular characteristics. Sometimes a meaningless difference between focal lengths as a 28mm and a 30mm lens doesn’t seem much but it can be quite different because the distortion or lack of it a lens has or because a lens is rendering completely different, etc. This also happens to same focal lengths but different lens models."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you start working and employing lenses to create images patterns will emerge in your work. You will favor more some focal lengths than others in an organic way. This is why people tend to stick to same focal lengths for most of their work. Because it’s how they see and relate to the world."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/subjects-appear-in-the-frame/#post-214997",
+    "scraped_at": "2026-01-15T15:24:09.902921+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/subjects-appear-in-the-frame/#post-214997",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cba27db576d0813ff731f2af3c05bd5ff341f8328a44e72b6bfe7ff32ed8d82d",
+    "parser_version": "bbpress-v2"
+  }
+}

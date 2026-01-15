@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "215423",
+    "forum_slug": "set-talk",
+    "topic_slug": "happy-new-year"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I would like to wish you Mr. Deakins, Mrs. James, and all the forum members a happy new year! For me it was a weird year the 2023, I basically didn’t shoot anything of narrative, and to be honest, was a really slow year that more than one time let me think about changing my life and my “job”.\nI will try for the new year to be more open to other genders this “work” because, at the end of the day, there are bills to pay.\nBut the giant passion for learning filmmaking from masters and the priceless privilege to write to Mr. Deakins will remain forever.\nI wish you all a powerful year full of success!\nA sincere hug to everyone.\nMax.\n❤",
+  "content_html": "<p>I would like to wish you Mr. Deakins, Mrs. James, and all the forum members a happy new year! For me it was a weird year the 2023, I basically didn’t shoot anything of narrative, and to be honest, was a really slow year that more than one time let me think about changing my life and my “job”.</p>\n<p>I will try for the new year to be more open to other genders this “work” because, at the end of the day, there are bills to pay.<br/>\nBut the giant passion for learning filmmaking from masters and the priceless privilege to write to Mr. Deakins will remain forever.</p>\n<p>I wish you all a powerful year full of success!</p>\n<p>A sincere hug to everyone.</p>\n<p>Max.<br/>\n❤</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I would like to wish you Mr. Deakins, Mrs. James, and all the forum members a happy new year! For me it was a weird year the 2023, I basically didn’t shoot anything of narrative, and to be honest, was a really slow year that more than one time let me think about changing my life and my “job”."
+    },
+    {
+      "type": "paragraph",
+      "text": "I will try for the new year to be more open to other genders this “work” because, at the end of the day, there are bills to pay.\nBut the giant passion for learning filmmaking from masters and the priceless privilege to write to Mr. Deakins will remain forever."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you all a powerful year full of success!"
+    },
+    {
+      "type": "paragraph",
+      "text": "A sincere hug to everyone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Max.\n❤"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/happy-new-year/#post-215426",
+    "scraped_at": "2026-01-15T13:16:01.393125+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/happy-new-year/#post-215426",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ed14fafffa1ef679f639c31e84851b4e7f33a0e3a2419ea89da3e80107c2de5e",
+    "parser_version": "bbpress-v2"
+  }
+}

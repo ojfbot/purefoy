@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/the-fablemans/#post-178569",
+  "forum_slug": "film-talk",
+  "topic_slug": "the-fablemans",
+  "title": "The Fablemans",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "177976",
+    "178569"
+  ],
+  "reply_tree": {
+    "post_id": "177976",
+    "post_type": "topic",
+    "author": "Icebadger",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "178569",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-fablemans/#post-178569",
+    "scraped_at": "2026-01-15T14:33:30.867189+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-fablemans/#post-178569",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a436692613052aecb5f43ce6f6db0935cfc1feee33d5ad6d5c45d54b08178d9e",
+    "parser_version": "bbpress-v2"
+  }
+}

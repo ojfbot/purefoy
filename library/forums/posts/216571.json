@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "post_id": "216571",
+    "forum_slug": "camera",
+    "topic_slug": "digital-still-images-development",
+    "parent_post_id": "216570",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "In Lightroom, I’d first convert the raw file to color because then you can first control the luminance of a color channel\nbefore\nconversion to b&w, such as darkening the blues to make a sky darker to simulate an orange or red filter before turning it to b&w.\nLightroom also has a number of b&w profiles that do something similar, it’s just that they don’t say what is involved (I think it’s b&w profile #7 that is like using a red filter.)\nHere is a Nikon raw file I opened up in Lightroom with no corrections:\nThis is selecting B&W Profile #7:\nThis reply was modified 1 year, 1 month ago by\ndmullenasc\n.",
+  "content_html": "<p>In Lightroom, I’d first convert the raw file to color because then you can first control the luminance of a color channel <em>before</em> conversion to b&amp;w, such as darkening the blues to make a sky darker to simulate an orange or red filter before turning it to b&amp;w.</p>\n<p>Lightroom also has a number of b&amp;w profiles that do something similar, it’s just that they don’t say what is involved (I think it’s b&amp;w profile #7 that is like using a red filter.)</p>\n<p>Here is a Nikon raw file I opened up in Lightroom with no corrections:</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216571/ywqxfu3d54o2i9sen4n9h9htmj2bb8yo.jpg\"/></p>\n<p>This is selecting B&amp;W Profile #7:</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216571/q132w5h83rxoldug4aanwei5hwjxr3it.jpg\"/></p>\n<ul class=\"bbp-reply-revision-log\" id=\"bbp-reply-revision-log-216571\">\n<li class=\"bbp-reply-revision-log-item\" id=\"bbp-reply-revision-log-216571-item-216572\">\n\t\tThis reply was modified 1 year, 1 month ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/dmullenasc/\" title=\"View dmullenasc's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://secure.gravatar.com/avatar/078da0edd0ffdf2bdf53b943207b847f?s=14&amp;d=retro&amp;r=g\" srcset=\"https://secure.gravatar.com/avatar/078da0edd0ffdf2bdf53b943207b847f?s=28&amp;d=retro&amp;r=g 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">dmullenasc</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In Lightroom, I’d first convert the raw file to color because then you can first control the luminance of a color channel\nbefore\nconversion to b&w, such as darkening the blues to make a sky darker to simulate an orange or red filter before turning it to b&w."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lightroom also has a number of b&w profiles that do something similar, it’s just that they don’t say what is involved (I think it’s b&w profile #7 that is like using a red filter.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is a Nikon raw file I opened up in Lightroom with no corrections:"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is selecting B&W Profile #7:"
+    },
+    {
+      "type": "list",
+      "text": "This reply was modified 1 year, 1 month ago by\ndmullenasc\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/dmullenasc/",
+      "text": "dmullenasc",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216571/ywqxfu3d54o2i9sen4n9h9htmj2bb8yo.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216571/q132w5h83rxoldug4aanwei5hwjxr3it.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://secure.gravatar.com/avatar/078da0edd0ffdf2bdf53b943207b847f?s=14&d=retro&r=g",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/digital-still-images-development/#post-216574",
+    "scraped_at": "2026-01-15T14:13:00.164547+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/digital-still-images-development/#post-216574",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4c605bab7c9af47a460c9c07cc7eaf465be1f964c6158eaa61d2d5669ecae9d9",
+    "parser_version": "bbpress-v2"
+  }
+}

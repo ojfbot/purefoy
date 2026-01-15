@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "post_id": "214768",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 15
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Laurent",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger is the expert and writes about it:\nThe angle of the light to the light to the bounce can alter the size and the shape of the source you create. Whether a lamp is above and rigged to the ceiling or on the floor on a low boy or ‘turtle’ is usually just about space and convenience.\nYou can double the muslin but it doesn’t make so much difference. The light going through it could be a problem though, and bounce around to interfere with the contrast of the shot.\nIf I have a series of lamps bouncing off a wide reflector I may, repeat may, dim the lamps to the sides and also warm them up to create a softer fall off and a warmth reaching into the shadow area. I might do that but it is no means necessary.\nThe distance the bounce source is from the subject controls the ‘softness’ of the light but also the fall off. If you want the wall behind your subject to seem as brightly lit as they are then you have the bounce at some distance away but if you want to isolate a face you then move it close.\nThe curve I might put into an array of small bounce boards or muslins is to ‘funnel the light when I need to. It doesn’t affect the subject as much as it does the background.\nThe height of the bounce is a choice made when looking at the natural source you are adding to or emulating. You might also change the height depending on how the light falls on your subject, whether that is an object or a face.",
+  "content_html": "<p>Roger is the expert and writes about it:<br/>\n<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214768/suo5larz3v2jn3mw0gsikmvcl0g8ctsn.png\"/></p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214768/aa8nwhlf7748n9z0th1tboyxdpd4mp96.jpeg\"/></p>\n<p><em>The angle of the light to the light to the bounce can alter the size and the shape of the source you create. Whether a lamp is above and rigged to the ceiling or on the floor on a low boy or ‘turtle’ is usually just about space and convenience.</em></p>\n<p><em>You can double the muslin but it doesn’t make so much difference. The light going through it could be a problem though, and bounce around to interfere with the contrast of the shot.</em></p>\n<p><em>If I have a series of lamps bouncing off a wide reflector I may, repeat may, dim the lamps to the sides and also warm them up to create a softer fall off and a warmth reaching into the shadow area. I might do that but it is no means necessary.</em></p>\n<p><em>The distance the bounce source is from the subject controls the ‘softness’ of the light but also the fall off. If you want the wall behind your subject to seem as brightly lit as they are then you have the bounce at some distance away but if you want to isolate a face you then move it close.</em></p>\n<p><em>The curve I might put into an array of small bounce boards or muslins is to ‘funnel the light when I need to. It doesn’t affect the subject as much as it does the background.</em></p>\n<p><em>The height of the bounce is a choice made when looking at the natural source you are adding to or emulating. You might also change the height depending on how the light falls on your subject, whether that is an object or a face.</em></p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roger is the expert and writes about it:"
+    },
+    {
+      "type": "paragraph",
+      "text": "The angle of the light to the light to the bounce can alter the size and the shape of the source you create. Whether a lamp is above and rigged to the ceiling or on the floor on a low boy or ‘turtle’ is usually just about space and convenience."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can double the muslin but it doesn’t make so much difference. The light going through it could be a problem though, and bounce around to interfere with the contrast of the shot."
+    },
+    {
+      "type": "paragraph",
+      "text": "If I have a series of lamps bouncing off a wide reflector I may, repeat may, dim the lamps to the sides and also warm them up to create a softer fall off and a warmth reaching into the shadow area. I might do that but it is no means necessary."
+    },
+    {
+      "type": "paragraph",
+      "text": "The distance the bounce source is from the subject controls the ‘softness’ of the light but also the fall off. If you want the wall behind your subject to seem as brightly lit as they are then you have the bounce at some distance away but if you want to isolate a face you then move it close."
+    },
+    {
+      "type": "paragraph",
+      "text": "The curve I might put into an array of small bounce boards or muslins is to ‘funnel the light when I need to. It doesn’t affect the subject as much as it does the background."
+    },
+    {
+      "type": "paragraph",
+      "text": "The height of the bounce is a choice made when looking at the natural source you are adding to or emulating. You might also change the height depending on how the light falls on your subject, whether that is an object or a face."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214768/suo5larz3v2jn3mw0gsikmvcl0g8ctsn.png",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214768/aa8nwhlf7748n9z0th1tboyxdpd4mp96.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+    "scraped_at": "2026-01-15T15:51:24.798269+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "aa95b174cab2103a390758fcccefc09c8b0ef8c2226038338f2e285a83d36aff",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/what-color-chroma-key-to-use-when-actors-are-lit-by-deep-blue-light/#post-215075",
+  "forum_slug": "post",
+  "topic_slug": "what-color-chroma-key-to-use-when-actors-are-lit-by-deep-blue-light",
+  "title": "What color chroma key to use when actors are lit by deep blue light?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214977",
+    "214994",
+    "214995",
+    "215028",
+    "215075"
+  ],
+  "reply_tree": {
+    "post_id": "214977",
+    "post_type": "topic",
+    "author": "umbrella",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214994",
+        "post_type": "reply",
+        "author": "gabj3",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214995",
+        "post_type": "reply",
+        "author": "umbrella",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215028",
+        "post_type": "reply",
+        "author": "gabj3",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215075",
+        "post_type": "reply",
+        "author": "Fedor Dokuchaev – Colorist",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-color-chroma-key-to-use-when-actors-are-lit-by-deep-blue-light/#post-215075",
+    "scraped_at": "2026-01-15T13:15:52.690972+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-color-chroma-key-to-use-when-actors-are-lit-by-deep-blue-light/#post-215075",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9d3c08fa684446b696af8f396e52ad29acb36f74b46e2a5c60d9318f280d02e8",
+    "parser_version": "bbpress-v2"
+  }
+}

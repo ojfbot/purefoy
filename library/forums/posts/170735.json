@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "170735",
+    "forum_slug": "camera",
+    "topic_slug": "inconsistencies-of-film-development",
+    "parent_post_id": "170435",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gcconnelly",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Would that result in an increase in exposure and contrast like a push process? Or is this something different entirely?",
+  "content_html": "<p>Would that result in an increase in exposure and contrast like a push process? Or is this something different entirely?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Would that result in an increase in exposure and contrast like a push process? Or is this something different entirely?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inconsistencies-of-film-development/#post-170757",
+    "scraped_at": "2026-01-15T15:46:11.159907+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inconsistencies-of-film-development/#post-170757",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a1591cdeaebb24c89f9c3b23cfca70b6b80e77244572616d50dd72cba6617f90",
+    "parser_version": "bbpress-v2"
+  }
+}

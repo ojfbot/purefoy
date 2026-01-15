@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "post_id": "216430",
+    "forum_slug": "film-talk",
+    "topic_slug": "dick-pope"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Quadra",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Very sad to hear about the recent passing of your friend and cinematographer Dick Pope.\nHere is a well-observed tribute:\nA Master of Subtle Function: Cinematographer Dick Pope (1947-2024)\nThis topic was modified 1 year, 2 months ago by\nJames\n.",
+  "content_html": "<p>Very sad to hear about the recent passing of your friend and cinematographer Dick Pope.</p>\n<p>Here is a well-observed tribute: <a href=\"https://www.rogerebert.com/mzs/dick-pope-tribute\" rel=\"nofollow\">A Master of Subtle Function: Cinematographer Dick Pope (1947-2024)</a></p>\n<ul class=\"bbp-topic-revision-log\" id=\"bbp-topic-revision-log-216430\">\n<li class=\"bbp-topic-revision-log-item\" id=\"bbp-topic-revision-log-216430-item-216446\">\n\t\tThis topic was modified 1 year, 2 months ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/daggerlily/\" title=\"View James's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/james_avatar-14x14.png\" srcset=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/james_avatar-28x28.png 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">James</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Very sad to hear about the recent passing of your friend and cinematographer Dick Pope."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is a well-observed tribute:\nA Master of Subtle Function: Cinematographer Dick Pope (1947-2024)"
+    },
+    {
+      "type": "list",
+      "text": "This topic was modified 1 year, 2 months ago by\nJames\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerebert.com/mzs/dick-pope-tribute",
+      "text": "A Master of Subtle Function: Cinematographer Dick Pope (1947-2024)",
+      "kind": "external"
+    },
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/daggerlily/",
+      "text": "James",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2022/09/james_avatar-14x14.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dick-pope/#post-216434",
+    "scraped_at": "2026-01-15T12:48:58.523232+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dick-pope/#post-216434",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "de10c5bc7935d1ebc92f7e6c21ae40ab5f4ea94f7b3039b0731452b5a23432d7",
+    "parser_version": "bbpress-v2"
+  }
+}

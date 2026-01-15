@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "215750",
+    "forum_slug": "camera",
+    "topic_slug": "shaky-cams",
+    "parent_post_id": "215744",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "since the camera  got closer to the actor so gently and slowly that the first time i didn’t even notice it\nI love the very slow and subtle push-in.\nThere is a great version of it, albeit more noticeable, in “Good Will Hunting”, where Will has a job interview at the NSA and he starts a long monologue, forecasting a list of consequences if he took the job. The camera slowly pushes in on him and stops at the climax of his forecast,  then pulls back out again when Will summarizes what all this would mean for him personally. It goes uncut for 2 minutes and is powerful, intriguing and serves the story.",
+  "content_html": "<blockquote><p>since the camera  got closer to the actor so gently and slowly that the first time i didn’t even notice it</p></blockquote>\n<p>I love the very slow and subtle push-in.</p>\n<p>There is a great version of it, albeit more noticeable, in “Good Will Hunting”, where Will has a job interview at the NSA and he starts a long monologue, forecasting a list of consequences if he took the job. The camera slowly pushes in on him and stops at the climax of his forecast,  then pulls back out again when Will summarizes what all this would mean for him personally. It goes uncut for 2 minutes and is powerful, intriguing and serves the story.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "since the camera  got closer to the actor so gently and slowly that the first time i didn’t even notice it"
+    },
+    {
+      "type": "paragraph",
+      "text": "since the camera  got closer to the actor so gently and slowly that the first time i didn’t even notice it"
+    },
+    {
+      "type": "paragraph",
+      "text": "I love the very slow and subtle push-in."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a great version of it, albeit more noticeable, in “Good Will Hunting”, where Will has a job interview at the NSA and he starts a long monologue, forecasting a list of consequences if he took the job. The camera slowly pushes in on him and stops at the climax of his forecast,  then pulls back out again when Will summarizes what all this would mean for him personally. It goes uncut for 2 minutes and is powerful, intriguing and serves the story."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "since the camera  got closer to the actor so gently and slowly that the first time i didn’t even notice it"
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shaky-cams/#post-215800",
+    "scraped_at": "2026-01-15T15:20:57.509087+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shaky-cams/#post-215800",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9b984554465c6ed36790b7ddab34dfe3c9537084691de3a251d08a19f3242a60",
+    "parser_version": "bbpress-v2"
+  }
+}

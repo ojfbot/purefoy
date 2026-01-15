@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "217186",
+    "forum_slug": "camera",
+    "topic_slug": "false-color-and-lut-workflow",
+    "parent_post_id": "216887",
+    "parent_type": "topic",
+    "position": 12
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "hagausiumai",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "From what I understand, DPs generally use false color in two ways:\n1. Using it on top of a LUT, it would be to analyze the values of the ‘final’ image. In this case, you should use a false color that corresponds to IRE values or 8/10-bit values, or a custom one that covers the values you’re interested in.\n2. When false color is applied to the log image, it would be to analyze the exposure that the camera is getting, regardless of LUT.\nEL Zone would fall in this second camp, as it’s intended to represent each stop of exposure. The reason it bypasses the LUT is because it is based on the camera specific log curve. That’s why in order to set it up properly, the corresponding log curve needs to be selected.",
+  "content_html": "<p>From what I understand, DPs generally use false color in two ways:</p>\n<p>1. Using it on top of a LUT, it would be to analyze the values of the ‘final’ image. In this case, you should use a false color that corresponds to IRE values or 8/10-bit values, or a custom one that covers the values you’re interested in.</p>\n<p>2. When false color is applied to the log image, it would be to analyze the exposure that the camera is getting, regardless of LUT.</p>\n<p>EL Zone would fall in this second camp, as it’s intended to represent each stop of exposure. The reason it bypasses the LUT is because it is based on the camera specific log curve. That’s why in order to set it up properly, the corresponding log curve needs to be selected.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "From what I understand, DPs generally use false color in two ways:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Using it on top of a LUT, it would be to analyze the values of the ‘final’ image. In this case, you should use a false color that corresponds to IRE values or 8/10-bit values, or a custom one that covers the values you’re interested in."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. When false color is applied to the log image, it would be to analyze the exposure that the camera is getting, regardless of LUT."
+    },
+    {
+      "type": "paragraph",
+      "text": "EL Zone would fall in this second camp, as it’s intended to represent each stop of exposure. The reason it bypasses the LUT is because it is based on the camera specific log curve. That’s why in order to set it up properly, the corresponding log curve needs to be selected."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/",
+    "scraped_at": "2026-01-15T13:16:24.781960+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f31bb27a20e1dcd5c2e6a70cf7d917490c3dba87e21f81756d5bb7ae3f2b9046",
+    "parser_version": "bbpress-v2"
+  }
+}

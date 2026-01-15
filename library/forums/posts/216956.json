@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216956",
+    "forum_slug": "camera",
+    "topic_slug": "false-color-and-lut-workflow",
+    "parent_post_id": "216887",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Matt Stahley",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I understand the benefits of false color. The OP at first stated he was using it for ratios but then later on said he was doing run & gun doc shoots and only needed to see where his skin and highlights were sitting that’s why I suggested zebras as they would just appear over his camera lut and he wouldn’t need to be constantly switching Luts.\nGood idea on the black & white gray  false color but not sure I have the skill or knowledge to create that. Its now something I must research 🙂",
+  "content_html": "<p>I understand the benefits of false color. The OP at first stated he was using it for ratios but then later on said he was doing run &amp; gun doc shoots and only needed to see where his skin and highlights were sitting that’s why I suggested zebras as they would just appear over his camera lut and he wouldn’t need to be constantly switching Luts.</p>\n<p>Good idea on the black &amp; white gray  false color but not sure I have the skill or knowledge to create that. Its now something I must research 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I understand the benefits of false color. The OP at first stated he was using it for ratios but then later on said he was doing run & gun doc shoots and only needed to see where his skin and highlights were sitting that’s why I suggested zebras as they would just appear over his camera lut and he wouldn’t need to be constantly switching Luts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Good idea on the black & white gray  false color but not sure I have the skill or knowledge to create that. Its now something I must research 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/",
+    "scraped_at": "2026-01-15T13:16:24.781479+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f673b93eb7bfbe934f9b842db68460d90ae28d6c402f03869b761b8c791fc638",
+    "parser_version": "bbpress-v2"
+  }
+}

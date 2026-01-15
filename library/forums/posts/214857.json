@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214857",
+    "forum_slug": "camera",
+    "topic_slug": "film-copies-digital-version-of-same-movie",
+    "parent_post_id": "214855",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Color-wise, you have to remember that color with a digital projector is additive, not subtractive as with a film print.",
+  "content_html": "<p>Color-wise, you have to remember that color with a digital projector is additive, not subtractive as with a film print.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Color-wise, you have to remember that color with a digital projector is additive, not subtractive as with a film print."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/film-copies-digital-version-of-same-movie/#post-214858",
+    "scraped_at": "2026-01-15T15:24:40.105995+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/film-copies-digital-version-of-same-movie/#post-214858",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0b53e187a30f9cc60fd252a43201ed5c88d51f7d6aa067cfbbfc473cba86ee24",
+    "parser_version": "bbpress-v2"
+  }
+}

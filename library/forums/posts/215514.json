@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215514",
+    "forum_slug": "post",
+    "topic_slug": "relight-fx-in-post",
+    "parent_post_id": "215503",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "GianniRanzuglia",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you both for your answers! I haven’t thought about the idea of applying the effect to moving shots, thank you both for brining that up.",
+  "content_html": "<p>Thank you both for your answers! I haven’t thought about the idea of applying the effect to moving shots, thank you both for brining that up.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you both for your answers! I haven’t thought about the idea of applying the effect to moving shots, thank you both for brining that up."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/relight-fx-in-post/#post-215514",
+    "scraped_at": "2026-01-15T12:48:57.901440+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/relight-fx-in-post/#post-215514",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "42baee38a1edaea6304eddca90297f5bb91881e2d70bce083e91a4352bf70078",
+    "parser_version": "bbpress-v2"
+  }
+}

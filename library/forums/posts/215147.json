@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215147",
+    "forum_slug": "forum",
+    "topic_slug": "skyfall-scotland-drive-scene",
+    "parent_post_id": "215129",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "We were lucky with that low cloud. I must admit to trying to hurry things alone as I was concerned the light would change. I was not using any solids as we were working quickly and I liked the light as it was. I don’t remember the make up being any different for the exteriors so the effect you are seeing is just the light, which, I think, makes Daniel look very strong and works in the scene.",
+  "content_html": "<p>We were lucky with that low cloud. I must admit to trying to hurry things alone as I was concerned the light would change. I was not using any solids as we were working quickly and I liked the light as it was. I don’t remember the make up being any different for the exteriors so the effect you are seeing is just the light, which, I think, makes Daniel look very strong and works in the scene.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "We were lucky with that low cloud. I must admit to trying to hurry things alone as I was concerned the light would change. I was not using any solids as we were working quickly and I liked the light as it was. I don’t remember the make up being any different for the exteriors so the effect you are seeing is just the light, which, I think, makes Daniel look very strong and works in the scene."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/skyfall-scotland-drive-scene/#post-215159",
+    "scraped_at": "2026-01-15T15:48:50.888783+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/skyfall-scotland-drive-scene/#post-215159",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1c128f70b6f4585acc306446384aedeaf64f8347524d2c4fddfccc6eff7e7482",
+    "parser_version": "bbpress-v2"
+  }
+}

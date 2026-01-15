@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "216689",
+    "forum_slug": "film-talk",
+    "topic_slug": "recent-film-vermiglio"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Master Roger you like Mikhail krichman work mostly. Have you seen his recent work “vermiglio” film. Also have you seen any good film recently except “The seed of the sacred fig”. I watched The seed of the sacred fig. It’s good film.",
+  "content_html": "<p>Master Roger you like Mikhail krichman work mostly. Have you seen his recent work “vermiglio” film. Also have you seen any good film recently except “The seed of the sacred fig”. I watched The seed of the sacred fig. It’s good film.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Master Roger you like Mikhail krichman work mostly. Have you seen his recent work “vermiglio” film. Also have you seen any good film recently except “The seed of the sacred fig”. I watched The seed of the sacred fig. It’s good film."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recent-film-vermiglio/",
+    "scraped_at": "2026-01-15T12:26:18.926667+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recent-film-vermiglio/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3f1d2fb0071bae5e2bcead89550cea59f0d73c729cc1f06ab049b183873b55c7",
+    "parser_version": "bbpress-v2"
+  }
+}

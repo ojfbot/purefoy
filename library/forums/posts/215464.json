@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "215464",
+    "forum_slug": "film-talk",
+    "topic_slug": "jarhead-kid"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Gustavo Perez",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I can’t remember where I heard this, but I heard somewhere that Jarhead was your favorite film you shot. I saw the movie in 08 when I was seven (purchased with a legal form of I.D.), and it became one of the rotations of films I would watch* on weekly road trips my family would take for one reason or another. As a young little shit as the electrics like to call me these days, I loved the film because of its portrayal of a scout snipers experience, not one of the impossible shots and high-octane action, but a different side to the conflict than what I saw on the news.\nI wish I had some insightful reflection or questions about the film, but it’s probably been eight or nine years since I saw it. So, in the place of a banger of a question, we both have some great taste in movies 😉 . I love that from what I remember about the film; there was this deep connection I felt to the struggle of a young man finding his way in life, seeking this divine purpose, this thing you were so good at; it was as if God himself MADE you for that purpose. Obviously, at the time, I saw none of that. These are things I think about these days, but I also thank the film for putting me on to Jake Gyllenhaal. His film Stronger came to me when I was sixteen. I’m not one for public displays of emotion (contrary to how I may present myself with words and some layers of anonymity). Still, I found myself crying as I saw someone on screen who once again put out into the world the internal struggle that I had no facilities to process but allowed me to seek treatment for PTSD.\nI’m not quite sure what I hope for you to gain by reading this, but… thanks for riding in a muddy rickshaw so some kid could begin to ask himself the bigger questions in life.\nP.S. I’m still working through that list of movies you gave me to watch, but I did end up watching Come and See. Kinda sad that the director never made another movie.\n*Saving Private Ryan, Forest Gump, and Jarhead",
+  "content_html": "<p>I can’t remember where I heard this, but I heard somewhere that Jarhead was your favorite film you shot. I saw the movie in 08 when I was seven (purchased with a legal form of I.D.), and it became one of the rotations of films I would watch* on weekly road trips my family would take for one reason or another. As a young little shit as the electrics like to call me these days, I loved the film because of its portrayal of a scout snipers experience, not one of the impossible shots and high-octane action, but a different side to the conflict than what I saw on the news.</p>\n<p>I wish I had some insightful reflection or questions about the film, but it’s probably been eight or nine years since I saw it. So, in the place of a banger of a question, we both have some great taste in movies 😉 . I love that from what I remember about the film; there was this deep connection I felt to the struggle of a young man finding his way in life, seeking this divine purpose, this thing you were so good at; it was as if God himself MADE you for that purpose. Obviously, at the time, I saw none of that. These are things I think about these days, but I also thank the film for putting me on to Jake Gyllenhaal. His film Stronger came to me when I was sixteen. I’m not one for public displays of emotion (contrary to how I may present myself with words and some layers of anonymity). Still, I found myself crying as I saw someone on screen who once again put out into the world the internal struggle that I had no facilities to process but allowed me to seek treatment for PTSD.</p>\n<p>I’m not quite sure what I hope for you to gain by reading this, but… thanks for riding in a muddy rickshaw so some kid could begin to ask himself the bigger questions in life.</p>\n<p>P.S. I’m still working through that list of movies you gave me to watch, but I did end up watching Come and See. Kinda sad that the director never made another movie.</p>\n<p>*Saving Private Ryan, Forest Gump, and Jarhead</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I can’t remember where I heard this, but I heard somewhere that Jarhead was your favorite film you shot. I saw the movie in 08 when I was seven (purchased with a legal form of I.D.), and it became one of the rotations of films I would watch* on weekly road trips my family would take for one reason or another. As a young little shit as the electrics like to call me these days, I loved the film because of its portrayal of a scout snipers experience, not one of the impossible shots and high-octane action, but a different side to the conflict than what I saw on the news."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish I had some insightful reflection or questions about the film, but it’s probably been eight or nine years since I saw it. So, in the place of a banger of a question, we both have some great taste in movies 😉 . I love that from what I remember about the film; there was this deep connection I felt to the struggle of a young man finding his way in life, seeking this divine purpose, this thing you were so good at; it was as if God himself MADE you for that purpose. Obviously, at the time, I saw none of that. These are things I think about these days, but I also thank the film for putting me on to Jake Gyllenhaal. His film Stronger came to me when I was sixteen. I’m not one for public displays of emotion (contrary to how I may present myself with words and some layers of anonymity). Still, I found myself crying as I saw someone on screen who once again put out into the world the internal struggle that I had no facilities to process but allowed me to seek treatment for PTSD."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m not quite sure what I hope for you to gain by reading this, but… thanks for riding in a muddy rickshaw so some kid could begin to ask himself the bigger questions in life."
+    },
+    {
+      "type": "paragraph",
+      "text": "P.S. I’m still working through that list of movies you gave me to watch, but I did end up watching Come and See. Kinda sad that the director never made another movie."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Saving Private Ryan, Forest Gump, and Jarhead"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/jarhead-kid/",
+    "scraped_at": "2026-01-15T13:23:47.681610+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/jarhead-kid/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6169ac3942de5409927a73590e30d4711adf884e638762465f92a18e32bdde90",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214598",
+    "forum_slug": "forum",
+    "topic_slug": "true-grit-courtroom-ceiling-rig",
+    "parent_post_id": "212264",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This photo has already been circulated around the world, don’t worry about copyright.\nPhoto is not from the film production company.",
+  "content_html": "<p>This photo has already been circulated around the world, don’t worry about copyright.</p>\n<p>Photo is not from the film production company.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This photo has already been circulated around the world, don’t worry about copyright."
+    },
+    {
+      "type": "paragraph",
+      "text": "Photo is not from the film production company."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/true-grit-courtroom-ceiling-rig/#post-214602",
+    "scraped_at": "2026-01-15T15:52:27.527077+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/true-grit-courtroom-ceiling-rig/#post-214602",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e2f300ddbf5161c7aff79f7d08aa4994a1d67546d37db6edb177d115cf398293",
+    "parser_version": "bbpress-v2"
+  }
+}

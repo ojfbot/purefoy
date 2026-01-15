@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217508",
+    "forum_slug": "film-talk",
+    "topic_slug": "1980-1990s-film-recs",
+    "parent_post_id": "216192",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "James Parsons",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "To Live and Die in LA",
+  "content_html": "<p>To Live and Die in LA</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "To Live and Die in LA"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/1980-1990s-film-recs/#post-217931",
+    "scraped_at": "2026-01-15T12:09:04.400778+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/1980-1990s-film-recs/#post-217931",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ab8f64adc6359cd39f832a3c4c71823bb9fc932b4d56c24f7209587462c3a828",
+    "parser_version": "bbpress-v2"
+  }
+}

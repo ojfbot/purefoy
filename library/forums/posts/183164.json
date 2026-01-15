@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "183164",
+    "forum_slug": "camera",
+    "topic_slug": "without-limits-focal-length",
+    "parent_post_id": "182886",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I have used long lenses and also a zoom on a few occasions. I am not a fan of keeping a zoom on the camera as a standard lens but I wouldn’t say I am not a fan of long lenses. i don’t see how that follows. It makes sense why Conrad used long lenses for ‘Without Limits’. If a project came along that felt like a ‘long lens’ film and that was the effect the director was after, then I don’t see why I would say no.",
+  "content_html": "<p>I have used long lenses and also a zoom on a few occasions. I am not a fan of keeping a zoom on the camera as a standard lens but I wouldn’t say I am not a fan of long lenses. i don’t see how that follows. It makes sense why Conrad used long lenses for ‘Without Limits’. If a project came along that felt like a ‘long lens’ film and that was the effect the director was after, then I don’t see why I would say no.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I have used long lenses and also a zoom on a few occasions. I am not a fan of keeping a zoom on the camera as a standard lens but I wouldn’t say I am not a fan of long lenses. i don’t see how that follows. It makes sense why Conrad used long lenses for ‘Without Limits’. If a project came along that felt like a ‘long lens’ film and that was the effect the director was after, then I don’t see why I would say no."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/without-limits-focal-length/#post-183564",
+    "scraped_at": "2026-01-15T15:43:58.817682+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/without-limits-focal-length/#post-183564",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a6b92c061bfdbfb9b22d08f733022e8b0c36bb8b2826aa4f11b3528629918cac",
+    "parser_version": "bbpress-v2"
+  }
+}

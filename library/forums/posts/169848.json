@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "169848",
+    "forum_slug": "camera",
+    "topic_slug": "camera-starter-question",
+    "parent_post_id": "169402",
+    "parent_type": "topic",
+    "position": 11
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "StevenBills",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Global shutter with 14+ stops of DR.",
+  "content_html": "<p>Global shutter with 14+ stops of DR.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Global shutter with 14+ stops of DR."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/",
+    "scraped_at": "2026-01-15T13:56:42.505144+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4a75b584505254ec85011a7a4b3e7d0de62f9f49879fc8f3df7d327ed8d62ccd",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/lighting/#post-214673",
+  "forum_slug": "forum",
+  "topic_slug": "lighting",
+  "title": "Lighting",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214663",
+    "214667",
+    "214670",
+    "214673"
+  ],
+  "reply_tree": {
+    "post_id": "214663",
+    "post_type": "topic",
+    "author": "Julius",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214667",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214670",
+        "post_type": "reply",
+        "author": "Julius",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214673",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting/#post-214673",
+    "scraped_at": "2026-01-15T15:52:12.540276+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting/#post-214673",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d5e170b87ed2c488072603ec55903ee85e64bc4929dacfe7b5957d8a2a5eb0cb",
+    "parser_version": "bbpress-v2"
+  }
+}

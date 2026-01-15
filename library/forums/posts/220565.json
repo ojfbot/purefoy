@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220565",
+    "forum_slug": "forum",
+    "topic_slug": "questions-reg-true-grit-greaser-bobs-lighting-breakdown",
+    "parent_post_id": "220562",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m sure you could calculate it. Simply use as a reference a series of household bulbs on a batten strip. Relate the distance between the bulbs to the distance to the subject at which the multiple shadows appear negligible and then scale up. I’m sure you could make the definitive graph in this way but I just make a guess based on my past use of multiples.",
+  "content_html": "<p>I’m sure you could calculate it. Simply use as a reference a series of household bulbs on a batten strip. Relate the distance between the bulbs to the distance to the subject at which the multiple shadows appear negligible and then scale up. I’m sure you could make the definitive graph in this way but I just make a guess based on my past use of multiples.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m sure you could calculate it. Simply use as a reference a series of household bulbs on a batten strip. Relate the distance between the bulbs to the distance to the subject at which the multiple shadows appear negligible and then scale up. I’m sure you could make the definitive graph in this way but I just make a guess based on my past use of multiples."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/questions-reg-true-grit-greaser-bobs-lighting-breakdown/#post-220566",
+    "scraped_at": "2026-01-15T13:23:29.850905+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/questions-reg-true-grit-greaser-bobs-lighting-breakdown/#post-220566",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "53e80d3a7ed4019c6b8b662840b227911426db8a609868f2405ff228ea0c1590",
+    "parser_version": "bbpress-v2"
+  }
+}

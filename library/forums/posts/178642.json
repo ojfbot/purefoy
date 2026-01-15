@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "178642",
+    "forum_slug": "film-talk",
+    "topic_slug": "sky-shots-in-sicario",
+    "parent_post_id": "178126",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "GianniRanzuglia",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks for your time and response Sir!\nI also wanted to ask you about the pacing and framing of the convoy scene in Juarez. The scene is skilfully crafted and timed very well, had it been longer it would have bored the audience or lost its focus on the scene, and had it been shorter it would have lost some build-up and tension.\nHow did you, Denis, and others work in pre-production to time and pace the scene so immaculately?\nAnd also how did you and others figure out the selection of shots for the scene? Especially when they’re coming back to the border, there’s a wide array of shot sizes, point of views, moments and things being said, how did you and the team control all this?\nAgain, thanks for your time!",
+  "content_html": "<p>Thanks for your time and response Sir!</p>\n<p>I also wanted to ask you about the pacing and framing of the convoy scene in Juarez. The scene is skilfully crafted and timed very well, had it been longer it would have bored the audience or lost its focus on the scene, and had it been shorter it would have lost some build-up and tension.</p>\n<p>How did you, Denis, and others work in pre-production to time and pace the scene so immaculately?</p>\n<p>And also how did you and others figure out the selection of shots for the scene? Especially when they’re coming back to the border, there’s a wide array of shot sizes, point of views, moments and things being said, how did you and the team control all this?</p>\n<p>Again, thanks for your time!</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks for your time and response Sir!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I also wanted to ask you about the pacing and framing of the convoy scene in Juarez. The scene is skilfully crafted and timed very well, had it been longer it would have bored the audience or lost its focus on the scene, and had it been shorter it would have lost some build-up and tension."
+    },
+    {
+      "type": "paragraph",
+      "text": "How did you, Denis, and others work in pre-production to time and pace the scene so immaculately?"
+    },
+    {
+      "type": "paragraph",
+      "text": "And also how did you and others figure out the selection of shots for the scene? Especially when they’re coming back to the border, there’s a wide array of shot sizes, point of views, moments and things being said, how did you and the team control all this?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, thanks for your time!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sky-shots-in-sicario/#post-178901",
+    "scraped_at": "2026-01-15T14:33:18.881332+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sky-shots-in-sicario/#post-178901",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "48b4b591a75bf7ab0e237dbe1408952fed5e4387729e1a466379fa3aae1feb5f",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217436",
+    "forum_slug": "post",
+    "topic_slug": "thoughts-on-hdr-remasters",
+    "parent_post_id": "217363",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That’s great to know!",
+  "content_html": "<p>That’s great to know!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That’s great to know!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-hdr-remasters/#post-217436",
+    "scraped_at": "2026-01-15T12:08:51.675903+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-hdr-remasters/#post-217436",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "528604be55013d76ad56c0122d99dd2c4744cca2f6d35edbd014d86ea97ed90b",
+    "parser_version": "bbpress-v2"
+  }
+}

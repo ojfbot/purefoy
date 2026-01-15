@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "post_id": "216576",
+    "forum_slug": "forum",
+    "topic_slug": "white-balance-warm-tungsten",
+    "parent_post_id": "216221",
+    "parent_type": "topic",
+    "position": 19
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "dmullenasc wrote:\n…If the camera had been set to 3200K, then the lighting would read slightly warm. If one wanted even more warmth, one could set the camera higher like to 3400K or 3600K, etc.\nI’ve got a “philosophical” question: does altering a bit the temperature of lights with the WB of the camera may still be considered a way to obtain “in camera” the desired look?\nFor the little project i’m working on i’m trying my best to obtain “in camera” the effect i’m looking for (and i think using this approach is a nice way to learn), but after many tests with colored lights and gels the only simple way i found to obtain the “day for night” effect i desire  is cheating with the WB of the camera. Not the best solution, i know, but the only one that seems to be working in my case.  I’m happy with the result and it just requires a little grading in post to achieve the exact look, but it made me wonder on what  “in camera” means, in practical terms.",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/#post-216495\">dmullenasc wrote:</a></div>\n<p>…If the camera had been set to 3200K, then the lighting would read slightly warm. If one wanted even more warmth, one could set the camera higher like to 3400K or 3600K, etc.</p></blockquote>\n<p>I’ve got a “philosophical” question: does altering a bit the temperature of lights with the WB of the camera may still be considered a way to obtain “in camera” the desired look?</p>\n<p>For the little project i’m working on i’m trying my best to obtain “in camera” the effect i’m looking for (and i think using this approach is a nice way to learn), but after many tests with colored lights and gels the only simple way i found to obtain the “day for night” effect i desire  is cheating with the WB of the camera. Not the best solution, i know, but the only one that seems to be working in my case.  I’m happy with the result and it just requires a little grading in post to achieve the exact look, but it made me wonder on what  “in camera” means, in practical terms.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "dmullenasc wrote:\n…If the camera had been set to 3200K, then the lighting would read slightly warm. If one wanted even more warmth, one could set the camera higher like to 3400K or 3600K, etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "…If the camera had been set to 3200K, then the lighting would read slightly warm. If one wanted even more warmth, one could set the camera higher like to 3400K or 3600K, etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve got a “philosophical” question: does altering a bit the temperature of lights with the WB of the camera may still be considered a way to obtain “in camera” the desired look?"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the little project i’m working on i’m trying my best to obtain “in camera” the effect i’m looking for (and i think using this approach is a nice way to learn), but after many tests with colored lights and gels the only simple way i found to obtain the “day for night” effect i desire  is cheating with the WB of the camera. Not the best solution, i know, but the only one that seems to be working in my case.  I’m happy with the result and it just requires a little grading in post to achieve the exact look, but it made me wonder on what  “in camera” means, in practical terms."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "dmullenasc wrote:\n…If the camera had been set to 3200K, then the lighting would read slightly warm. If one wanted even more warmth, one could set the camera higher like to 3400K or 3600K, etc."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/#post-216495",
+      "text": "dmullenasc wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/page/2/",
+    "scraped_at": "2026-01-15T15:24:01.094207+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "304310bc2e2cbe3121d542f3b02e27934c7a4d61fe002ae3942ca47603ab9224",
+    "parser_version": "bbpress-v2"
+  }
+}

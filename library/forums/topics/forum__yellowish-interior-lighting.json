@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/yellowish-interior-lighting/#post-220505",
+  "forum_slug": "forum",
+  "topic_slug": "yellowish-interior-lighting",
+  "title": "Yellowish interior lighting",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220496",
+    "220504",
+    "220505"
+  ],
+  "reply_tree": {
+    "post_id": "220496",
+    "post_type": "topic",
+    "author": "jonasg",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "220504",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220505",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/yellowish-interior-lighting/#post-220505",
+    "scraped_at": "2026-01-15T13:23:47.643088+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/yellowish-interior-lighting/#post-220505",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "301b222313153d513785c10b6ecb8c3be3a2326807774156da31da35beed5dd7",
+    "parser_version": "bbpress-v2"
+  }
+}

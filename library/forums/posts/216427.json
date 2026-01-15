@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216427",
+    "forum_slug": "forum",
+    "topic_slug": "colored-light",
+    "parent_post_id": "216423",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "caiyichenweg",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you very much for your reply. There is no doubt that these scenes have left a deep impression on us. I’ll watch Roger’s movies again and study them carefully.",
+  "content_html": "<p>Thank you very much for your reply. There is no doubt that these scenes have left a deep impression on us. I’ll watch Roger’s movies again and study them carefully.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you very much for your reply. There is no doubt that these scenes have left a deep impression on us. I’ll watch Roger’s movies again and study them carefully."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/colored-light/#post-216427",
+    "scraped_at": "2026-01-15T15:25:07.229410+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/colored-light/#post-216427",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4b2a0c86cf67834853fe8ea2e8612c5b04c091d38f3e180c863c6dfbc23a7697",
+    "parser_version": "bbpress-v2"
+  }
+}

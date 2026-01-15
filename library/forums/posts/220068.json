@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "220068",
+    "forum_slug": "forum",
+    "topic_slug": "practical-lighting-in-prisoners",
+    "parent_post_id": "219867",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The practical lamps are important as they set the tone of the lighting, but I would usually add a small bounce source to augment what comes naturally. The two images you post, for instance, were lit using a lamp rigged to the ceiling bounced off some muslin stretched against the wall on the side of the frame.\nYou ask if that lighting constrains the talent but we would have done a blocking rehearsal and the actors were comfortable with their positions. Of course, Prisoners was shot in a very deliberate way and that is not always the case. A Beautiful Mind was much more ‘free flowing’ and the lighting had to allow for that kind of flexibility, as did my operating.",
+  "content_html": "<p>The practical lamps are important as they set the tone of the lighting, but I would usually add a small bounce source to augment what comes naturally. The two images you post, for instance, were lit using a lamp rigged to the ceiling bounced off some muslin stretched against the wall on the side of the frame.</p>\n<p>You ask if that lighting constrains the talent but we would have done a blocking rehearsal and the actors were comfortable with their positions. Of course, Prisoners was shot in a very deliberate way and that is not always the case. A Beautiful Mind was much more ‘free flowing’ and the lighting had to allow for that kind of flexibility, as did my operating.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The practical lamps are important as they set the tone of the lighting, but I would usually add a small bounce source to augment what comes naturally. The two images you post, for instance, were lit using a lamp rigged to the ceiling bounced off some muslin stretched against the wall on the side of the frame."
+    },
+    {
+      "type": "paragraph",
+      "text": "You ask if that lighting constrains the talent but we would have done a blocking rehearsal and the actors were comfortable with their positions. Of course, Prisoners was shot in a very deliberate way and that is not always the case. A Beautiful Mind was much more ‘free flowing’ and the lighting had to allow for that kind of flexibility, as did my operating."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-in-prisoners/#post-220068",
+    "scraped_at": "2026-01-15T13:56:47.203921+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-in-prisoners/#post-220068",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "786b5e2f7161096422ef27fb32667aadb0d06104e81abb01f950805b9fa2ecc3",
+    "parser_version": "bbpress-v2"
+  }
+}

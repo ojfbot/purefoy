@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "214740",
+    "forum_slug": "forum",
+    "topic_slug": "high-key-lighting-the-commercial-look",
+    "parent_post_id": "214712",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "halfgrain",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I agree with Andrew, that a few stills of your work vs. the look you’re hoping to achieve would be really beneficial. Tiny spaces create a lot of challenges. If you light from within all the lights have to be very close to the walls or subject and therefore the fall off is pretty quick as well. I think that’s what creates a more sourcy look and potentially harsher shadows. In this setup two things would help in my opinion:\n1) A large top light. Lots of commercials are sets and instead of a real ceiling they have a huge soft source overhead, often stretching out to the entirety of the room. This makes for a very evenly lit room and lots of level everywhere (that’s how the typical high key look defined, I guess)\n2) Use blocking and placing the light to avoid such shadows. Similar to the point above, try to light more from above so the shadows naturally fall on the floor more than walls, also maybe block in a way that there isn’t an empty wall behind the actor?\nA third idea, if you have a window in the room is utilizing the window as the main light source. Since you can place one or more lights further away outside, the falloff in the room will be less and it’ll spread around more evenly.\nHope this helps a bit or at least gives you food for thought.",
+  "content_html": "<p>I agree with Andrew, that a few stills of your work vs. the look you’re hoping to achieve would be really beneficial. Tiny spaces create a lot of challenges. If you light from within all the lights have to be very close to the walls or subject and therefore the fall off is pretty quick as well. I think that’s what creates a more sourcy look and potentially harsher shadows. In this setup two things would help in my opinion:</p>\n<p>1) A large top light. Lots of commercials are sets and instead of a real ceiling they have a huge soft source overhead, often stretching out to the entirety of the room. This makes for a very evenly lit room and lots of level everywhere (that’s how the typical high key look defined, I guess)</p>\n<p>2) Use blocking and placing the light to avoid such shadows. Similar to the point above, try to light more from above so the shadows naturally fall on the floor more than walls, also maybe block in a way that there isn’t an empty wall behind the actor?</p>\n<p>A third idea, if you have a window in the room is utilizing the window as the main light source. Since you can place one or more lights further away outside, the falloff in the room will be less and it’ll spread around more evenly.</p>\n<p>Hope this helps a bit or at least gives you food for thought.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I agree with Andrew, that a few stills of your work vs. the look you’re hoping to achieve would be really beneficial. Tiny spaces create a lot of challenges. If you light from within all the lights have to be very close to the walls or subject and therefore the fall off is pretty quick as well. I think that’s what creates a more sourcy look and potentially harsher shadows. In this setup two things would help in my opinion:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1) A large top light. Lots of commercials are sets and instead of a real ceiling they have a huge soft source overhead, often stretching out to the entirety of the room. This makes for a very evenly lit room and lots of level everywhere (that’s how the typical high key look defined, I guess)"
+    },
+    {
+      "type": "paragraph",
+      "text": "2) Use blocking and placing the light to avoid such shadows. Similar to the point above, try to light more from above so the shadows naturally fall on the floor more than walls, also maybe block in a way that there isn’t an empty wall behind the actor?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A third idea, if you have a window in the room is utilizing the window as the main light source. Since you can place one or more lights further away outside, the falloff in the room will be less and it’ll spread around more evenly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope this helps a bit or at least gives you food for thought."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/high-key-lighting-the-commercial-look/#post-215474",
+    "scraped_at": "2026-01-15T15:47:09.417520+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/high-key-lighting-the-commercial-look/#post-215474",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4eede0c6897f9706d5f651df55f9036215c3d3266bc5fd319e07d356d59631da",
+    "parser_version": "bbpress-v2"
+  }
+}

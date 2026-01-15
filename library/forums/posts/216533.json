@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "216533",
+    "forum_slug": "website-news",
+    "topic_slug": "i-think-i-found-a-solution-to-the-edit-bug-maybe"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I noticed that lately the “edit” option is still visible some days after posting (before it used to disappear) so i don’t know if the bug has been solved in other ways, but anyway it seems i found a sort of turnaround for it.\nIf you un-check the “keep log of edit” option the edit works more or less without problems (at least for me), so i suppose the bug is there.",
+  "content_html": "<p>I noticed that lately the “edit” option is still visible some days after posting (before it used to disappear) so i don’t know if the bug has been solved in other ways, but anyway it seems i found a sort of turnaround for it.</p>\n<p>If you un-check the “keep log of edit” option the edit works more or less without problems (at least for me), so i suppose the bug is there.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I noticed that lately the “edit” option is still visible some days after posting (before it used to disappear) so i don’t know if the bug has been solved in other ways, but anyway it seems i found a sort of turnaround for it."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you un-check the “keep log of edit” option the edit works more or less without problems (at least for me), so i suppose the bug is there."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/i-think-i-found-a-solution-to-the-edit-bug-maybe/#post-216578",
+    "scraped_at": "2026-01-15T11:51:08.935524+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/i-think-i-found-a-solution-to-the-edit-bug-maybe/#post-216578",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7de49026620809ce9bc9c3881711428059c112d78c05adf23917ce922ba9c9df",
+    "parser_version": "bbpress-v2"
+  }
+}

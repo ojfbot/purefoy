@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "199727",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-setup-workflow",
+    "parent_post_id": "198736",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "jeff791107",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for your answer.\nNow I know what I have to do next time.",
+  "content_html": "<p>Thank you for your answer.</p>\n<p>Now I know what I have to do next time.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for your answer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now I know what I have to do next time."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-setup-workflow/#post-199727",
+    "scraped_at": "2026-01-15T15:54:36.696225+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-setup-workflow/#post-199727",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "69e5ca92c6d9f7613e6b957e03f0f3ad2cff029f3ff40d76f76d3d2ae357e38f",
+    "parser_version": "bbpress-v2"
+  }
+}

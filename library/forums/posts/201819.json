@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "201819",
+    "forum_slug": "forum",
+    "topic_slug": "ansel-adams-zone-system",
+    "parent_post_id": "201222",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Gregg",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger,\nJust out of interest, how do you meter when using your Leica for street photography?\nMany thanks\nGregg",
+  "content_html": "<p>Dear Roger,</p>\n<p>Just out of interest, how do you meter when using your Leica for street photography?</p>\n<p>Many thanks</p>\n<p>Gregg</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just out of interest, how do you meter when using your Leica for street photography?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many thanks"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gregg"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ansel-adams-zone-system/#post-204430",
+    "scraped_at": "2026-01-15T15:53:57.787284+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ansel-adams-zone-system/#post-204430",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "87706314ccb9a15d852037f4b9bf72f5bd987da0bbb31b0727e520a7caa3fa85",
+    "parser_version": "bbpress-v2"
+  }
+}

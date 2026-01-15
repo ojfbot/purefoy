@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "201833",
+    "forum_slug": "post",
+    "topic_slug": "shoot-clouding-day-as-blue-hour",
+    "parent_post_id": "201686",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "How do you get contrast image when you shot under the cloudy day. How do you give the exposure for cloudy situation. If you were shot human faces under the full cloudy weather what precautions would you do first of all? People’s use negative fill and some people’s use very soft light.",
+  "content_html": "<p>How do you get contrast image when you shot under the cloudy day. How do you give the exposure for cloudy situation. If you were shot human faces under the full cloudy weather what precautions would you do first of all? People’s use negative fill and some people’s use very soft light.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "How do you get contrast image when you shot under the cloudy day. How do you give the exposure for cloudy situation. If you were shot human faces under the full cloudy weather what precautions would you do first of all? People’s use negative fill and some people’s use very soft light."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shoot-clouding-day-as-blue-hour/#post-210883",
+    "scraped_at": "2026-01-15T13:23:55.075420+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shoot-clouding-day-as-blue-hour/#post-210883",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "93de9bef0d79312cfb7ef04d083b783dbf5d6ea86d979a049d6eaefa0c0c6e2a",
+    "parser_version": "bbpress-v2"
+  }
+}

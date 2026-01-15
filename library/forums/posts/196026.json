@@ -1,0 +1,56 @@
+{
+  "ids": {
+    "post_id": "196026",
+    "forum_slug": "forum",
+    "topic_slug": "blade-runner-eyeball"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "elliottdeem",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi James & Roger,\nI’ve always wondered how you achieved this image. Theres no specular highlight or reflections to speak of in a marco eyeball shot?\nI could speculate on how I think it’s done but it would be best to hear it from the horses mouth. Thanks in advance.\nP.s. First post, Love the site and the podcast.",
+  "content_html": "<p>Hi James &amp; Roger,</p>\n<p>I’ve always wondered how you achieved this image. Theres no specular highlight or reflections to speak of in a marco eyeball shot?</p>\n<p>I could speculate on how I think it’s done but it would be best to hear it from the horses mouth. Thanks in advance.</p>\n<p>P.s. First post, Love the site and the podcast.</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/196026/gafybfjhi5k1ez3pmdtvy3wb5c6f13gc.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi James & Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve always wondered how you achieved this image. Theres no specular highlight or reflections to speak of in a marco eyeball shot?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I could speculate on how I think it’s done but it would be best to hear it from the horses mouth. Thanks in advance."
+    },
+    {
+      "type": "paragraph",
+      "text": "P.s. First post, Love the site and the podcast."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/196026/gafybfjhi5k1ez3pmdtvy3wb5c6f13gc.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/blade-runner-eyeball/#post-219209",
+    "scraped_at": "2026-01-15T14:33:21.761991+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/blade-runner-eyeball/#post-219209",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "00bfff3f54397d7f65e27aa33d941fb2ae772d9dbe21e6a1732be390c5a854c5",
+    "parser_version": "bbpress-v2"
+  }
+}

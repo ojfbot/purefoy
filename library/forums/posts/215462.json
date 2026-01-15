@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215462",
+    "forum_slug": "post",
+    "topic_slug": "semi-transparent-curtain-in-front-of-greenscreen",
+    "parent_post_id": "215437",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If you are on a tight budget then I suggest you borrow a relatives house perhaps one with view and base your production there obviously at an agreed fee. Btw, there are hundreds of backdrops available from China from $15.00 upwards, hundreds of subjects to choose from. Example attached",
+  "content_html": "<p>If you are on a tight budget then I suggest you borrow a relatives house perhaps one with view and base your production there obviously at an agreed fee. Btw, there are hundreds of backdrops available from China from $15.00 upwards, hundreds of subjects to choose from. Example attached</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you are on a tight budget then I suggest you borrow a relatives house perhaps one with view and base your production there obviously at an agreed fee. Btw, there are hundreds of backdrops available from China from $15.00 upwards, hundreds of subjects to choose from. Example attached"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/semi-transparent-curtain-in-front-of-greenscreen/#post-215463",
+    "scraped_at": "2026-01-15T13:05:59.936718+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/semi-transparent-curtain-in-front-of-greenscreen/#post-215463",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fa5c205f2046289149b65b580c6808619870bf12c7d7e1ca56c323f23e10c179",
+    "parser_version": "bbpress-v2"
+  }
+}

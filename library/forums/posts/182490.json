@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "182490",
+    "forum_slug": "film-talk",
+    "topic_slug": "asking-for-living-abroad-advice",
+    "parent_post_id": "181743",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I suppose every story is different, but i’d say that with Internet, video calls and so on it’s easier than in the past to get in touch with family and friends even when far away from them.\nWithout knowing nothing about you and your story i could be wrong of course, but i’ve the impression that it’s the magnitude of the new adventure you are going to live (going to university, living abroad, leaving your world behind for some time, etc) that is somehow scaring you, more than the fact that it’s a different country. You know, that kind of “worried excitement” before a big jump.\nLive it like Bilbo would do : run away without a handkerchief shouting “i’m going to an adventure!” . 🙂",
+  "content_html": "<p>I suppose every story is different, but i’d say that with Internet, video calls and so on it’s easier than in the past to get in touch with family and friends even when far away from them.</p>\n<p>Without knowing nothing about you and your story i could be wrong of course, but i’ve the impression that it’s the magnitude of the new adventure you are going to live (going to university, living abroad, leaving your world behind for some time, etc) that is somehow scaring you, more than the fact that it’s a different country. You know, that kind of “worried excitement” before a big jump.</p>\n<p>Live it like Bilbo would do : run away without a handkerchief shouting “i’m going to an adventure!” . 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I suppose every story is different, but i’d say that with Internet, video calls and so on it’s easier than in the past to get in touch with family and friends even when far away from them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Without knowing nothing about you and your story i could be wrong of course, but i’ve the impression that it’s the magnitude of the new adventure you are going to live (going to university, living abroad, leaving your world behind for some time, etc) that is somehow scaring you, more than the fact that it’s a different country. You know, that kind of “worried excitement” before a big jump."
+    },
+    {
+      "type": "paragraph",
+      "text": "Live it like Bilbo would do : run away without a handkerchief shouting “i’m going to an adventure!” . 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/asking-for-living-abroad-advice/#post-183184",
+    "scraped_at": "2026-01-15T14:33:04.440821+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/asking-for-living-abroad-advice/#post-183184",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cbb7506077fc4f368a65dece0719d5e6b0a4845428bbc2424d3ab66517fd6f19",
+    "parser_version": "bbpress-v2"
+  }
+}

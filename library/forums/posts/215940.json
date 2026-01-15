@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215940",
+    "forum_slug": "forum",
+    "topic_slug": "meter-reading-on-overcast-days",
+    "parent_post_id": "215925",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "simon m",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I was actually more interested in how Roger would take meter readings for this scene. He’s mentioned how he takes a reading from both the highlight side and the shadow side of a scene, and then decides his T-stop from there. I’m just a little confused as the overcast sky acts as a huge bounce, and there really isn’t a shadow side – unless perhaps he takes a shadow side reading pointing the meter at the ground?",
+  "content_html": "<p>I was actually more interested in how Roger would take meter readings for this scene. He’s mentioned how he takes a reading from both the highlight side and the shadow side of a scene, and then decides his T-stop from there. I’m just a little confused as the overcast sky acts as a huge bounce, and there really isn’t a shadow side – unless perhaps he takes a shadow side reading pointing the meter at the ground?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I was actually more interested in how Roger would take meter readings for this scene. He’s mentioned how he takes a reading from both the highlight side and the shadow side of a scene, and then decides his T-stop from there. I’m just a little confused as the overcast sky acts as a huge bounce, and there really isn’t a shadow side – unless perhaps he takes a shadow side reading pointing the meter at the ground?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/#post-215975",
+    "scraped_at": "2026-01-15T15:43:02.748279+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/#post-215975",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5560b5ff6300a490b9258a247a264e4ec83a771d4ed6663a9050a2454b59ceae",
+    "parser_version": "bbpress-v2"
+  }
+}

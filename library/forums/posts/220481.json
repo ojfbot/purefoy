@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220481",
+    "forum_slug": "forum",
+    "topic_slug": "dark",
+    "parent_post_id": "220409",
+    "parent_type": "topic",
+    "position": 11
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Yakov10",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The music for the film is written by Mihály Víg. I want the sound dramaturgy to help the viewer to turn on their imagination as much as possible. Each shadow, coming out of the darkness and going back into it, will have its own sound breathing and handwriting. Echoes, breaths, beats, whispers, cues, ancient music from loudspeakers. A whole world of sounds enveloping the imagination of the audience.",
+  "content_html": "<p>The music for the film is written by Mihály Víg. I want the sound dramaturgy to help the viewer to turn on their imagination as much as possible. Each shadow, coming out of the darkness and going back into it, will have its own sound breathing and handwriting. Echoes, breaths, beats, whispers, cues, ancient music from loudspeakers. A whole world of sounds enveloping the imagination of the audience.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The music for the film is written by Mihály Víg. I want the sound dramaturgy to help the viewer to turn on their imagination as much as possible. Each shadow, coming out of the darkness and going back into it, will have its own sound breathing and handwriting. Echoes, breaths, beats, whispers, cues, ancient music from loudspeakers. A whole world of sounds enveloping the imagination of the audience."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dark/#post-220680",
+    "scraped_at": "2026-01-15T13:16:05.349503+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dark/#post-220680",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "673ab8c87e0d0322e8eb12b6044cd7929bd685c6e499c1b4db488588cd0ef2d1",
+    "parser_version": "bbpress-v2"
+  }
+}

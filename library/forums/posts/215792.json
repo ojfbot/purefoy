@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "215792",
+    "forum_slug": "forum",
+    "topic_slug": "continuity-with-haze",
+    "parent_post_id": "215776",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A plug-in to introduce haze is akin to a plug-in to introduce a filter or any other optical variation. It is inherently possible to do so, but it will never be truly accurate.\nI encourage you to look into Scatter (Video Village). It is accurate in emulating filter diffusion to a point where it’s visually indistinguishable to the corresponding filter.\nThe haze emulation filter (Smoque / Tiffen) within Scatter is not meant to replace haze – of course it cannot – but to even out differences between shots should they occur, and it does a nice job of achieving this.",
+  "content_html": "<blockquote><p>A plug-in to introduce haze is akin to a plug-in to introduce a filter or any other optical variation. It is inherently possible to do so, but it will never be truly accurate.</p></blockquote>\n<p>I encourage you to look into Scatter (Video Village). It is accurate in emulating filter diffusion to a point where it’s visually indistinguishable to the corresponding filter.</p>\n<p>The haze emulation filter (Smoque / Tiffen) within Scatter is not meant to replace haze – of course it cannot – but to even out differences between shots should they occur, and it does a nice job of achieving this.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "A plug-in to introduce haze is akin to a plug-in to introduce a filter or any other optical variation. It is inherently possible to do so, but it will never be truly accurate."
+    },
+    {
+      "type": "paragraph",
+      "text": "A plug-in to introduce haze is akin to a plug-in to introduce a filter or any other optical variation. It is inherently possible to do so, but it will never be truly accurate."
+    },
+    {
+      "type": "paragraph",
+      "text": "I encourage you to look into Scatter (Video Village). It is accurate in emulating filter diffusion to a point where it’s visually indistinguishable to the corresponding filter."
+    },
+    {
+      "type": "paragraph",
+      "text": "The haze emulation filter (Smoque / Tiffen) within Scatter is not meant to replace haze – of course it cannot – but to even out differences between shots should they occur, and it does a nice job of achieving this."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "A plug-in to introduce haze is akin to a plug-in to introduce a filter or any other optical variation. It is inherently possible to do so, but it will never be truly accurate."
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/continuity-with-haze/#post-215798",
+    "scraped_at": "2026-01-15T15:44:26.616470+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/continuity-with-haze/#post-215798",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9af91e1e70157e3ad624591a6e41849ae992e815f971b91bc1134f4f5d2abfa7",
+    "parser_version": "bbpress-v2"
+  }
+}

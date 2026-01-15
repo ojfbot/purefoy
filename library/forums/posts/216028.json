@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "216028",
+    "forum_slug": "forum",
+    "topic_slug": "magic-cloth-how-many-stops",
+    "parent_post_id": "216022",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Tom,\nI have a sheet of notes that I made over time and researching around, unfortunately, I don’t have certain data on the Magic Cloth but as regards the Grid Cloth the reduction of light is around 2 and 1/2 STOPS when it is projected through.\nSo I think we are around that value, but surely someone else will be able to give you more accurate data, or better yet if you can try to do a test with a light meter you will certainly have more certainty.\nI apologize for my bad English.\nHave a nice day.\nMax.",
+  "content_html": "<p>Hello Tom,</p>\n<p>I have a sheet of notes that I made over time and researching around, unfortunately, I don’t have certain data on the Magic Cloth but as regards the Grid Cloth the reduction of light is around 2 and 1/2 STOPS when it is projected through.</p>\n<p>So I think we are around that value, but surely someone else will be able to give you more accurate data, or better yet if you can try to do a test with a light meter you will certainly have more certainty.</p>\n<p>I apologize for my bad English.</p>\n<p>Have a nice day.<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Tom,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have a sheet of notes that I made over time and researching around, unfortunately, I don’t have certain data on the Magic Cloth but as regards the Grid Cloth the reduction of light is around 2 and 1/2 STOPS when it is projected through."
+    },
+    {
+      "type": "paragraph",
+      "text": "So I think we are around that value, but surely someone else will be able to give you more accurate data, or better yet if you can try to do a test with a light meter you will certainly have more certainty."
+    },
+    {
+      "type": "paragraph",
+      "text": "I apologize for my bad English."
+    },
+    {
+      "type": "paragraph",
+      "text": "Have a nice day.\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/magic-cloth-how-many-stops/#post-216028",
+    "scraped_at": "2026-01-15T15:42:23.587727+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/magic-cloth-how-many-stops/#post-216028",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9019f4f5626f4bd675401a29204b7cc7ee4ec2d26e4b64b1f3cc3c6c00ae5762",
+    "parser_version": "bbpress-v2"
+  }
+}

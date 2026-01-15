@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "207194",
+    "forum_slug": "camera",
+    "topic_slug": "artemis-software-use"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger and David how much Artemis very useful for cinematographers. I don’t know much about it. What  I know it’s digital viewfinder. We can predict weather reports. That’s all I know. Someone told me we could upload the location and scene and players photo. Artemis will do shot construction the scene. Is this true? What are the tremendous features Artemis have.",
+  "content_html": "<p>Dear master Roger and David how much Artemis very useful for cinematographers. I don’t know much about it. What  I know it’s digital viewfinder. We can predict weather reports. That’s all I know. Someone told me we could upload the location and scene and players photo. Artemis will do shot construction the scene. Is this true? What are the tremendous features Artemis have.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger and David how much Artemis very useful for cinematographers. I don’t know much about it. What  I know it’s digital viewfinder. We can predict weather reports. That’s all I know. Someone told me we could upload the location and scene and players photo. Artemis will do shot construction the scene. Is this true? What are the tremendous features Artemis have."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/artemis-software-use/#post-215436",
+    "scraped_at": "2026-01-15T15:21:54.413269+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/artemis-software-use/#post-215436",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a538554862b9c5f3000d5af64c503ded583406724a62c542044dbb95ee362f58",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215011",
+    "forum_slug": "camera",
+    "topic_slug": "chasing-a-legacy-a-single-prime",
+    "parent_post_id": "214974",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Interesting comments. I would have said a 32mm but I see the trend is towards wider lenses. Shooting a close up on a 25mm or a 27mm is something I have done in. the past and would do again in the right circumstances but I doubt that often.",
+  "content_html": "<p>Interesting comments. I would have said a 32mm but I see the trend is towards wider lenses. Shooting a close up on a 25mm or a 27mm is something I have done in. the past and would do again in the right circumstances but I doubt that often.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Interesting comments. I would have said a 32mm but I see the trend is towards wider lenses. Shooting a close up on a 25mm or a 27mm is something I have done in. the past and would do again in the right circumstances but I doubt that often."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/chasing-a-legacy-a-single-prime/#post-215018",
+    "scraped_at": "2026-01-15T15:23:54.748903+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/chasing-a-legacy-a-single-prime/#post-215018",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "727ec47c09818a6f5dd271be665197da306ff6ee17ec64b8fe0db83882fda9b8",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "202519",
+    "forum_slug": "camera",
+    "topic_slug": "smoque-1-filter-for-daytime-interiors"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t use filters but have a tight shoot in lots of rather auster rooms on location. I’d usually add a little bit of very fine haze to at least have some atmosphere but there’s no crew/time to do it well and consistent enough, so I stumbled across Tiffen Smoque filters.\nHas anyone experience with them, especially for daylight interiors?\nIt would guarantee consistency but I’m not sure it will behave predictable. I watched all videos online I could find and sometimes it looks surprisingly great, other times it can look really bad, especially when light sources directly hit the filter, so I’d be hesitant to use it for nighttime interiors. From what I’ve seen anything above Smoque 1 is too much anyways.",
+  "content_html": "<p>I don’t use filters but have a tight shoot in lots of rather auster rooms on location. I’d usually add a little bit of very fine haze to at least have some atmosphere but there’s no crew/time to do it well and consistent enough, so I stumbled across Tiffen Smoque filters.</p>\n<p>Has anyone experience with them, especially for daylight interiors?</p>\n<p>It would guarantee consistency but I’m not sure it will behave predictable. I watched all videos online I could find and sometimes it looks surprisingly great, other times it can look really bad, especially when light sources directly hit the filter, so I’d be hesitant to use it for nighttime interiors. From what I’ve seen anything above Smoque 1 is too much anyways.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t use filters but have a tight shoot in lots of rather auster rooms on location. I’d usually add a little bit of very fine haze to at least have some atmosphere but there’s no crew/time to do it well and consistent enough, so I stumbled across Tiffen Smoque filters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Has anyone experience with them, especially for daylight interiors?"
+    },
+    {
+      "type": "paragraph",
+      "text": "It would guarantee consistency but I’m not sure it will behave predictable. I watched all videos online I could find and sometimes it looks surprisingly great, other times it can look really bad, especially when light sources directly hit the filter, so I’d be hesitant to use it for nighttime interiors. From what I’ve seen anything above Smoque 1 is too much anyways."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/smoque-1-filter-for-daytime-interiors/#post-202692",
+    "scraped_at": "2026-01-15T15:42:31.805338+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/smoque-1-filter-for-daytime-interiors/#post-202692",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "84cfcbfe2b750d7e48cdb37d18abdb798ffabc91b92ce4be5aa69f85f566a6b3",
+    "parser_version": "bbpress-v2"
+  }
+}

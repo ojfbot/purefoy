@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "216711",
+    "forum_slug": "forum",
+    "topic_slug": "working-with-limited-lighting",
+    "parent_post_id": "216676",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "ceciliah1738",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello everyone, thank you all for the wonderful feedback. I apologize for the late response, I hadn’t been this sick in a very long time.\nI truly appreciate all the questions and amazing ideas that you’ve brought to surface. I feel like a caveman discovering fire!\nFor the celling lighting, I was mostly worried about the picture looking flat despite our efforts to control it due to our dynamic movements (we should certainly double check on whether it is possible to turn off a single bank of lights because in all honesty, we were scared of the school’s personnel and didn’t think to ask) so Luca, you were right on point with too much lighting in the scene. The camera will be a medium close/ close up tracking and we were scared of losing the possibility of producing contrasting shots with different takes as there will be slight movement changes of both the camera and the players. I can’t upload the video here but we filmed a video of our friend playing at a rec center with the similar celling lighting and did a pan move and the lighting didn’t look the best most of the times but maybe I’m focusing on the wrong thing here…\nThe black and white shots we are shooting are flashbacks that are first presented as a nightmare that a character is having. As a writer, I didn’t want the audience to view it as mere black and white flashbacks but if I want a more dramatic lighting , I should probably make another shot list with a seperate lighting set up or NDs, experienced colorists as suggested, right?\nAgain, all of your insights have been amazing. Thank you Mr. Deakins, Luca, gx42 for all of your time and great points!",
+  "content_html": "<p>Hello everyone, thank you all for the wonderful feedback. I apologize for the late response, I hadn’t been this sick in a very long time.</p>\n<p>I truly appreciate all the questions and amazing ideas that you’ve brought to surface. I feel like a caveman discovering fire!</p>\n<p>For the celling lighting, I was mostly worried about the picture looking flat despite our efforts to control it due to our dynamic movements (we should certainly double check on whether it is possible to turn off a single bank of lights because in all honesty, we were scared of the school’s personnel and didn’t think to ask) so Luca, you were right on point with too much lighting in the scene. The camera will be a medium close/ close up tracking and we were scared of losing the possibility of producing contrasting shots with different takes as there will be slight movement changes of both the camera and the players. I can’t upload the video here but we filmed a video of our friend playing at a rec center with the similar celling lighting and did a pan move and the lighting didn’t look the best most of the times but maybe I’m focusing on the wrong thing here…</p>\n<p>The black and white shots we are shooting are flashbacks that are first presented as a nightmare that a character is having. As a writer, I didn’t want the audience to view it as mere black and white flashbacks but if I want a more dramatic lighting , I should probably make another shot list with a seperate lighting set up or NDs, experienced colorists as suggested, right?</p>\n<p>Again, all of your insights have been amazing. Thank you Mr. Deakins, Luca, gx42 for all of your time and great points!</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello everyone, thank you all for the wonderful feedback. I apologize for the late response, I hadn’t been this sick in a very long time."
+    },
+    {
+      "type": "paragraph",
+      "text": "I truly appreciate all the questions and amazing ideas that you’ve brought to surface. I feel like a caveman discovering fire!"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the celling lighting, I was mostly worried about the picture looking flat despite our efforts to control it due to our dynamic movements (we should certainly double check on whether it is possible to turn off a single bank of lights because in all honesty, we were scared of the school’s personnel and didn’t think to ask) so Luca, you were right on point with too much lighting in the scene. The camera will be a medium close/ close up tracking and we were scared of losing the possibility of producing contrasting shots with different takes as there will be slight movement changes of both the camera and the players. I can’t upload the video here but we filmed a video of our friend playing at a rec center with the similar celling lighting and did a pan move and the lighting didn’t look the best most of the times but maybe I’m focusing on the wrong thing here…"
+    },
+    {
+      "type": "paragraph",
+      "text": "The black and white shots we are shooting are flashbacks that are first presented as a nightmare that a character is having. As a writer, I didn’t want the audience to view it as mere black and white flashbacks but if I want a more dramatic lighting , I should probably make another shot list with a seperate lighting set up or NDs, experienced colorists as suggested, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, all of your insights have been amazing. Thank you Mr. Deakins, Luca, gx42 for all of your time and great points!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/working-with-limited-lighting/#post-216714",
+    "scraped_at": "2026-01-15T15:23:19.315778+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/working-with-limited-lighting/#post-216714",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "69509509296ee187fec36d0a1282156cc3615843e6f3977750d5f99f57c5ecb7",
+    "parser_version": "bbpress-v2"
+  }
+}

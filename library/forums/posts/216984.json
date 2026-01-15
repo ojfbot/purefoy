@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216984",
+    "forum_slug": "forum",
+    "topic_slug": "cove-light-considerations",
+    "parent_post_id": "205389",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "benja",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nI’ve seen a lot of behind-the-scenes footage of your cove lighting on medium shots but I did’t quite understand how you achieve the same effect on wide shots on the same scene. Do you simply put the light further and add bottomers and toppers? And wouldnt that make the foreground look overly illuminated?\nI also have a second question nowadays, with LED lights, would you consider using two LED fixtures in a cove shape without egg crates to achieve the same result?",
+  "content_html": "<p> </p>\n<p>Hi Roger,</p>\n<p>I’ve seen a lot of behind-the-scenes footage of your cove lighting on medium shots but I did’t quite understand how you achieve the same effect on wide shots on the same scene. Do you simply put the light further and add bottomers and toppers? And wouldnt that make the foreground look overly illuminated?</p>\n<p>I also have a second question nowadays, with LED lights, would you consider using two LED fixtures in a cove shape without egg crates to achieve the same result?</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve seen a lot of behind-the-scenes footage of your cove lighting on medium shots but I did’t quite understand how you achieve the same effect on wide shots on the same scene. Do you simply put the light further and add bottomers and toppers? And wouldnt that make the foreground look overly illuminated?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I also have a second question nowadays, with LED lights, would you consider using two LED fixtures in a cove shape without egg crates to achieve the same result?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+    "scraped_at": "2026-01-15T15:18:02.960437+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d2ebaaace4cdc8e660dcea89d73a9094fc49a07b9fb4ed3556d1d2ab851a0dfd",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "215686",
+    "forum_slug": "film-talk",
+    "topic_slug": "kurosawas-high-and-low",
+    "parent_post_id": "215653",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It’s hard to top Kurosawa for ‘scope compositions, especially of groups of people.\nLeone and Spielberg are worth studying for that, 2.35 : 1 framing, as are Lean’s movies.\n“Last Year at Marienbad”, “La Dolce Vita”.\nNicholas Ray and Anthony Mann movies.\nGordon Willis’ compositions in anamorphic movies such as “Klute”, “The Parallax View”, “The Paper Chase”, “Manhattan”, “Comes a Horseman”.\nIn terms of a looser style of widescreen framing, there are some of Altman’s movies worth looking at such as “McCabe and Mrs. Miller” and “The Long Goodbye” (both shot by Zsigmond.)",
+  "content_html": "<p>It’s hard to top Kurosawa for ‘scope compositions, especially of groups of people.</p>\n<p>Leone and Spielberg are worth studying for that, 2.35 : 1 framing, as are Lean’s movies.</p>\n<p>“Last Year at Marienbad”, “La Dolce Vita”.</p>\n<p>Nicholas Ray and Anthony Mann movies.</p>\n<p>Gordon Willis’ compositions in anamorphic movies such as “Klute”, “The Parallax View”, “The Paper Chase”, “Manhattan”, “Comes a Horseman”.</p>\n<p>In terms of a looser style of widescreen framing, there are some of Altman’s movies worth looking at such as “McCabe and Mrs. Miller” and “The Long Goodbye” (both shot by Zsigmond.)</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "It’s hard to top Kurosawa for ‘scope compositions, especially of groups of people."
+    },
+    {
+      "type": "paragraph",
+      "text": "Leone and Spielberg are worth studying for that, 2.35 : 1 framing, as are Lean’s movies."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Last Year at Marienbad”, “La Dolce Vita”."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nicholas Ray and Anthony Mann movies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gordon Willis’ compositions in anamorphic movies such as “Klute”, “The Parallax View”, “The Paper Chase”, “Manhattan”, “Comes a Horseman”."
+    },
+    {
+      "type": "paragraph",
+      "text": "In terms of a looser style of widescreen framing, there are some of Altman’s movies worth looking at such as “McCabe and Mrs. Miller” and “The Long Goodbye” (both shot by Zsigmond.)"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/kurosawas-high-and-low/#post-215755",
+    "scraped_at": "2026-01-15T13:16:10.527750+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/kurosawas-high-and-low/#post-215755",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3856a7583cedb5c8ca86df782bda31183d112b646c63651a437e65f151cd2c75",
+    "parser_version": "bbpress-v2"
+  }
+}

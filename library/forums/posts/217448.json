@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "217448",
+    "forum_slug": "film-talk",
+    "topic_slug": "musashi-a-samurai-epic-by-denis-villeneuve"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Jenko2049",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Mr. Deakins,\nDenis Villeneuve is the perfect director to bring\nMiyamoto Musashi’s legendary story\nto life. His signature\nslow-burn intensity, breathtaking cinematography, and deep philosophical themes\nwould make for an unforgettable Samurai epic.\nWhy now (or soon)?\nMusashi’s story has never been truly brought to Hollywood in a major film.\nEiji Yoshikawa’s novel „Musashi“\nis one of the most celebrated historical books in Japan.\nHollywood is bringing back grand historical epics (\nGladiator 2, Nolan’s „The Odyssey“\n).\nVilleneuve is already a master of\nvisually stunning and deeply philosophical cinema\n(\nDune, Blade Runner 2049\n).\nWould Denis be the right director for this? I think yes!\nWhat do you think, Mr. Deakins?\nAny chance you could pitch that idea to Denis\nor discuss it with the right guests in your podcast?\nP.S. I hope I was able to spark a fire inside of you for that idea!",
+  "content_html": "<p>Dear Mr. Deakins,</p>\n<p>Denis Villeneuve is the perfect director to bring <strong>Miyamoto Musashi’s legendary story</strong> to life. His signature <strong>slow-burn intensity, breathtaking cinematography, and deep philosophical themes</strong> would make for an unforgettable Samurai epic.</p>\n<p><strong>Why now (or soon)?</strong></p>\n<ul>\n<li>Musashi’s story has never been truly brought to Hollywood in a major film.</li>\n<li><strong>Eiji Yoshikawa’s novel „Musashi“</strong> is one of the most celebrated historical books in Japan.</li>\n<li>Hollywood is bringing back grand historical epics (<strong>Gladiator 2, Nolan’s „The Odyssey“</strong>).</li>\n<li>Villeneuve is already a master of <strong>visually stunning and deeply philosophical cinema</strong> (<em>Dune, Blade Runner 2049</em>).</li>\n</ul>\n<p>Would Denis be the right director for this? I think yes! <strong>What do you think, Mr. Deakins?</strong> <strong>Any chance you could pitch that idea to Denis</strong> or discuss it with the right guests in your podcast?</p>\n<p><strong>P.S. I hope I was able to spark a fire inside of you for that idea!</strong></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Mr. Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Denis Villeneuve is the perfect director to bring\nMiyamoto Musashi’s legendary story\nto life. His signature\nslow-burn intensity, breathtaking cinematography, and deep philosophical themes\nwould make for an unforgettable Samurai epic."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why now (or soon)?"
+    },
+    {
+      "type": "list",
+      "text": "Musashi’s story has never been truly brought to Hollywood in a major film.\nEiji Yoshikawa’s novel „Musashi“\nis one of the most celebrated historical books in Japan.\nHollywood is bringing back grand historical epics (\nGladiator 2, Nolan’s „The Odyssey“\n).\nVilleneuve is already a master of\nvisually stunning and deeply philosophical cinema\n(\nDune, Blade Runner 2049\n)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Would Denis be the right director for this? I think yes!\nWhat do you think, Mr. Deakins?\nAny chance you could pitch that idea to Denis\nor discuss it with the right guests in your podcast?"
+    },
+    {
+      "type": "paragraph",
+      "text": "P.S. I hope I was able to spark a fire inside of you for that idea!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/musashi-a-samurai-epic-by-denis-villeneuve/",
+    "scraped_at": "2026-01-15T12:09:07.389759+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/musashi-a-samurai-epic-by-denis-villeneuve/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5376d19924b234bd87ea65acf8fa6e550091a9ba6dced2f861541518e90e883d",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "187431",
+    "forum_slug": "camera",
+    "topic_slug": "arri-trinity-advantages-and-disadvantages",
+    "parent_post_id": "183886",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The Trinity is useful if you want to jib up and down. Otherwise it works in the same way as a Steadicam.",
+  "content_html": "<p>The Trinity is useful if you want to jib up and down. Otherwise it works in the same way as a Steadicam.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The Trinity is useful if you want to jib up and down. Otherwise it works in the same way as a Steadicam."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/arri-trinity-advantages-and-disadvantages/#post-187431",
+    "scraped_at": "2026-01-15T15:43:47.341788+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/arri-trinity-advantages-and-disadvantages/#post-187431",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "28010606e619be34341217787bdc3e92ea828d7b190e4ce0c09b153520a4b497",
+    "parser_version": "bbpress-v2"
+  }
+}

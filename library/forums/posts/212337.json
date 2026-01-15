@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "212337",
+    "forum_slug": "forum",
+    "topic_slug": "a-reflection-of-our-profession",
+    "parent_post_id": "212302",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "These are very personal questions.\nIf there were any recipes why would you follow them?\nAt the end it’s your taste that matters most. So find your own formulas so you have your own vocabulary.\nWatch films, look at paintings, photographs. Go out in nature, travel and see what the sunlight does. What the street lamps do. Etc\nAbsorb as much as you can and never stop doing so. The inspiration is out there and it’s what’s gonna build your own special recipes.\nAt the end light basically can only be measured by its quantity, quality (hard/soft), color and direction. What and how these affect you is what matters.",
+  "content_html": "<p>These are very personal questions.<br/>\nIf there were any recipes why would you follow them?<br/>\nAt the end it’s your taste that matters most. So find your own formulas so you have your own vocabulary.<br/>\nWatch films, look at paintings, photographs. Go out in nature, travel and see what the sunlight does. What the street lamps do. Etc<br/>\nAbsorb as much as you can and never stop doing so. The inspiration is out there and it’s what’s gonna build your own special recipes.<br/>\nAt the end light basically can only be measured by its quantity, quality (hard/soft), color and direction. What and how these affect you is what matters.</p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "These are very personal questions.\nIf there were any recipes why would you follow them?\nAt the end it’s your taste that matters most. So find your own formulas so you have your own vocabulary.\nWatch films, look at paintings, photographs. Go out in nature, travel and see what the sunlight does. What the street lamps do. Etc\nAbsorb as much as you can and never stop doing so. The inspiration is out there and it’s what’s gonna build your own special recipes.\nAt the end light basically can only be measured by its quantity, quality (hard/soft), color and direction. What and how these affect you is what matters."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-reflection-of-our-profession/#post-214700",
+    "scraped_at": "2026-01-15T15:52:00.454487+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-reflection-of-our-profession/#post-214700",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8ca3cdc507a53f008965df4b863d2ce543c648a7413121fae44065a45c8b0bac",
+    "parser_version": "bbpress-v2"
+  }
+}

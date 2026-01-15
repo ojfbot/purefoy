@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "217461",
+    "forum_slug": "team-deakins/team-deakins-podcast",
+    "topic_slug": "lisy-christl-mar-19-2025"
+  },
+  "author": {
+    "display_name": "#217461",
+    "role": "Abraham"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Moderator\nHello everyone,\nYesterday, the newest episode of the Team Deakins Podcast, featuring costume designer Lisy Christl, was released. Lisy worked with director Michael Haneke for a decade, and her work includes recent films such as CONCLAVE and ALL QUIET ON THE WESTERN FRONT.\nAfter listening, feel free to discuss the episode with each other below!",
+  "content_html": "<div class=\"bbp-topic-header\">\n<div class=\"bbp-meta\">\n<span class=\"bbp-topic-post-date\">March 20, 2025 at 10:30 am</span>\n<a class=\"bbp-topic-permalink\" href=\"https://www.rogerdeakins.com/forums/topic/lisy-christl-mar-19-2025/\">#217461</a>\n<span class=\"bbp-admin-links\"></span>\n</div><!-- .bbp-meta -->\n</div> .bbp-topic-header \n<div class=\"loop-item--1 user-id-47801 bbp-parent-forum-169247 even post-217461 topic type-topic status-publish hentry\" id=\"post-217461\">\n<div class=\"bbp-topic-author\">\n<a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/abraham-z/\" title=\"View Abraham's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-80 photo\" decoding=\"async\" height=\"80\" loading=\"lazy\" src=\"https://secure.gravatar.com/avatar/9646f12844cf9dfbbe18029c85577ec0?s=80&amp;d=retro&amp;r=g\" srcset=\"https://secure.gravatar.com/avatar/9646f12844cf9dfbbe18029c85577ec0?s=160&amp;d=retro&amp;r=g 2x\" width=\"80\"/></span><span class=\"bbp-author-name\">Abraham</span></a><div class=\"bbp-author-role\"><div class=\"\">Moderator</div></div>\n<div class=\"tc_display\"><ul></ul></div>\n</div><!-- .bbp-topic-author -->\n<div class=\"bbp-topic-content\">\n<p>Hello everyone,</p>\n<p>Yesterday, the newest episode of the Team Deakins Podcast, featuring costume designer Lisy Christl, was released. Lisy worked with director Michael Haneke for a decade, and her work includes recent films such as CONCLAVE and ALL QUIET ON THE WESTERN FRONT.</p>\n<p>After listening, feel free to discuss the episode with each other below!</p>\n</div><!-- .bbp-topic-content -->\n</div> #post-217461",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello everyone,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yesterday, the newest episode of the Team Deakins Podcast, featuring costume designer Lisy Christl, was released. Lisy worked with director Michael Haneke for a decade, and her work includes recent films such as CONCLAVE and ALL QUIET ON THE WESTERN FRONT."
+    },
+    {
+      "type": "paragraph",
+      "text": "After listening, feel free to discuss the episode with each other below!"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/lisy-christl-mar-19-2025/",
+      "text": "#217461",
+      "kind": "external"
+    },
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/abraham-z/",
+      "text": "Abraham",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://secure.gravatar.com/avatar/9646f12844cf9dfbbe18029c85577ec0?s=80&d=retro&r=g",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lisy-christl-mar-19-2025/",
+    "scraped_at": "2026-01-15T09:42:58.119956+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lisy-christl-mar-19-2025/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1718b742cb75cb6bae1e74f5354912ce773ce5c132b4973ebb1f4bfd2c0e49ce",
+    "parser_version": "bbpress-v1"
+  }
+}

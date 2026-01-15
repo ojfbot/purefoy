@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "177813",
+    "forum_slug": "camera",
+    "topic_slug": "shot-design-in-prep",
+    "parent_post_id": "177736",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dharmawanwilly",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I second Stip’s question. Do you have a predetermined or go-to shot lists of your own that you have probably built for years and act like your “safety net” when the shot is “determined after blocking?” Just to ease the stress of “deliver right here, right now” a little bit?",
+  "content_html": "<p>I second Stip’s question. Do you have a predetermined or go-to shot lists of your own that you have probably built for years and act like your “safety net” when the shot is “determined after blocking?” Just to ease the stress of “deliver right here, right now” a little bit?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I second Stip’s question. Do you have a predetermined or go-to shot lists of your own that you have probably built for years and act like your “safety net” when the shot is “determined after blocking?” Just to ease the stress of “deliver right here, right now” a little bit?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/",
+    "scraped_at": "2026-01-15T15:44:23.530726+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "41936c44554cff2dd2cec9491baf22c478cb8c0eb0752ddf989196bf81ebfa8f",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "169488",
+    "forum_slug": "composition",
+    "topic_slug": "most-used-focal-length-on-jesse-james",
+    "parent_post_id": "169458",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I probably used a 32 and 40mm for most of the film but there were plenty of shots made with wider lenses and with a purpose made set.",
+  "content_html": "<p>I probably used a 32 and 40mm for most of the film but there were plenty of shots made with wider lenses and with a purpose made set.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I probably used a 32 and 40mm for most of the film but there were plenty of shots made with wider lenses and with a purpose made set."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/most-used-focal-length-on-jesse-james/#post-169544",
+    "scraped_at": "2026-01-15T13:39:54.145674+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/most-used-focal-length-on-jesse-james/#post-169544",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "95e3cdaf11e04d64cd37f32d9231c33c9307761d62d7339a2d09b6b090335016",
+    "parser_version": "bbpress-v2"
+  }
+}

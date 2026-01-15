@@ -1,0 +1,51 @@
+{
+  "ids": {
+    "post_id": "216708",
+    "forum_slug": "forum",
+    "topic_slug": "sillouette-with-illuminated-sunglasses",
+    "parent_post_id": "216690",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "At that distance, the only way to come close to focusing just a slash of light on the glasses would be to use a Source 4 Leko with something narrow like a 19 degree lens, then use the leaves to create a slash.\nThough painting a face isn’t politically correct, so to speak, that’s how Gregg Toland solved the problem in “Ball of Fire” of only seeing Barbara Stanwyck’s eyes in a dark room where her face wasn’t supposed to be visible to the other character played by Gary Cooper. So Toland asked the make-up department to paint Stanwyck’s face black in the morning when she arrived — she phoned the set back and said “what in the hell sort of movie are we making?!?” But it worked!",
+  "content_html": "<p>At that distance, the only way to come close to focusing just a slash of light on the glasses would be to use a Source 4 Leko with something narrow like a 19 degree lens, then use the leaves to create a slash.</p>\n<p>Though painting a face isn’t politically correct, so to speak, that’s how Gregg Toland solved the problem in “Ball of Fire” of only seeing Barbara Stanwyck’s eyes in a dark room where her face wasn’t supposed to be visible to the other character played by Gary Cooper. So Toland asked the make-up department to paint Stanwyck’s face black in the morning when she arrived — she phoned the set back and said “what in the hell sort of movie are we making?!?” But it worked!</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216708/hsy0gn3i1csu90aj2x8c99r0xoq462d6.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "At that distance, the only way to come close to focusing just a slash of light on the glasses would be to use a Source 4 Leko with something narrow like a 19 degree lens, then use the leaves to create a slash."
+    },
+    {
+      "type": "paragraph",
+      "text": "Though painting a face isn’t politically correct, so to speak, that’s how Gregg Toland solved the problem in “Ball of Fire” of only seeing Barbara Stanwyck’s eyes in a dark room where her face wasn’t supposed to be visible to the other character played by Gary Cooper. So Toland asked the make-up department to paint Stanwyck’s face black in the morning when she arrived — she phoned the set back and said “what in the hell sort of movie are we making?!?” But it worked!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216708/hsy0gn3i1csu90aj2x8c99r0xoq462d6.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sillouette-with-illuminated-sunglasses/#post-217513",
+    "scraped_at": "2026-01-15T15:20:30.871172+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sillouette-with-illuminated-sunglasses/#post-217513",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7c6cf7c58295c39075043deb3690f292316128af51ab7eff86735556b36dc22b",
+    "parser_version": "bbpress-v2"
+  }
+}

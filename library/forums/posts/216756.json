@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216756",
+    "forum_slug": "composition",
+    "topic_slug": "thoughts-on-a-short-film-i-made-one-minute",
+    "parent_post_id": "215568",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "bardanmcguire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Boulic, first of all thank you.\nI don’t know what you mean by edge blur effect? The only thing I did optically was shoot the film with a Mirror – 1b and a Helios 44-2 with a .71x viltrox speed booster.\nTo draw focus to what I wanted in the film I shot it with the Mirror – 1b with a low aperture. All of the film apart from one shot was shot on that lens.",
+  "content_html": "<p>Hi Boulic, first of all thank you.</p>\n<p>I don’t know what you mean by edge blur effect? The only thing I did optically was shoot the film with a Mirror – 1b and a Helios 44-2 with a .71x viltrox speed booster.</p>\n<p>To draw focus to what I wanted in the film I shot it with the Mirror – 1b with a low aperture. All of the film apart from one shot was shot on that lens.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Boulic, first of all thank you."
+    },
+    {
+      "type": "paragraph",
+      "text": "I don’t know what you mean by edge blur effect? The only thing I did optically was shoot the film with a Mirror – 1b and a Helios 44-2 with a .71x viltrox speed booster."
+    },
+    {
+      "type": "paragraph",
+      "text": "To draw focus to what I wanted in the film I shot it with the Mirror – 1b with a low aperture. All of the film apart from one shot was shot on that lens."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-a-short-film-i-made-one-minute/#post-216759",
+    "scraped_at": "2026-01-15T12:26:17.742654+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-a-short-film-i-made-one-minute/#post-216759",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c9aca5c1b3374b34920af3426409bde01308ec7ab1d7dae3b6dd7e61a3e619ea",
+    "parser_version": "bbpress-v2"
+  }
+}

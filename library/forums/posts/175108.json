@@ -1,0 +1,55 @@
+{
+  "ids": {
+    "post_id": "175108",
+    "forum_slug": "film-talk",
+    "topic_slug": "tarkovsky-film-stalker",
+    "parent_post_id": "173722",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "tknvt",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Last year in Russia was published a book “The Birth of Stalker” by Evgeniy Tsymbal  – he was 2AD on “Stalker” and worked on it from pre-production till last day of shooting and wrote a book about this expirience.\nHere is excerpt from this book, it’s on russian but i hope it may be read with google translate –\nhttps://kinoart.ru/texts/nu-chto-zh-final-u-stalkera-est-fragment-iz-knigi-rozhdenie-stalkera\nMaybe it’s possible to invite Evgeniy as a guest to “Team Deakins”, he has an account on Facebook, it could have been a great conversation.",
+  "content_html": "<p>Last year in Russia was published a book “The Birth of Stalker” by Evgeniy Tsymbal  – he was 2AD on “Stalker” and worked on it from pre-production till last day of shooting and wrote a book about this expirience.</p>\n<p>Here is excerpt from this book, it’s on russian but i hope it may be read with google translate – <a href=\"https://kinoart.ru/texts/nu-chto-zh-final-u-stalkera-est-fragment-iz-knigi-rozhdenie-stalkera\" rel=\"nofollow\">https://kinoart.ru/texts/nu-chto-zh-final-u-stalkera-est-fragment-iz-knigi-rozhdenie-stalkera</a></p>\n<p>Maybe it’s possible to invite Evgeniy as a guest to “Team Deakins”, he has an account on Facebook, it could have been a great conversation.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Last year in Russia was published a book “The Birth of Stalker” by Evgeniy Tsymbal  – he was 2AD on “Stalker” and worked on it from pre-production till last day of shooting and wrote a book about this expirience."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is excerpt from this book, it’s on russian but i hope it may be read with google translate –\nhttps://kinoart.ru/texts/nu-chto-zh-final-u-stalkera-est-fragment-iz-knigi-rozhdenie-stalkera"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe it’s possible to invite Evgeniy as a guest to “Team Deakins”, he has an account on Facebook, it could have been a great conversation."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://kinoart.ru/texts/nu-chto-zh-final-u-stalkera-est-fragment-iz-knigi-rozhdenie-stalkera",
+      "text": "https://kinoart.ru/texts/nu-chto-zh-final-u-stalkera-est-fragment-iz-knigi-rozhdenie-stalkera",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/tarkovsky-film-stalker/#post-175108",
+    "scraped_at": "2026-01-15T14:33:37.208233+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/tarkovsky-film-stalker/#post-175108",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2bebb1275010ad97385173c76f5eb008f5c72c5fd01f39eec89998955085a1e5",
+    "parser_version": "bbpress-v2"
+  }
+}

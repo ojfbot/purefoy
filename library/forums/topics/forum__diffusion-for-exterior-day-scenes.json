@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/diffusion-for-exterior-day-scenes/#post-195984",
+  "forum_slug": "forum",
+  "topic_slug": "diffusion-for-exterior-day-scenes",
+  "title": "Diffusion for exterior day scenes",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "193931",
+    "195083",
+    "195984"
+  ],
+  "reply_tree": {
+    "post_id": "193931",
+    "post_type": "topic",
+    "author": "Joshua Clark",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "195083",
+        "post_type": "reply",
+        "author": "JasonK",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "195984",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/diffusion-for-exterior-day-scenes/#post-195984",
+    "scraped_at": "2026-01-15T15:55:01.386494+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/diffusion-for-exterior-day-scenes/#post-195984",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ae0c3fbff7872f75654bce61bdfb638a15a8d5e511a75db45ae2ce1ee59d88a6",
+    "parser_version": "bbpress-v2"
+  }
+}

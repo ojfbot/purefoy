@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "218354",
+    "forum_slug": "forum",
+    "topic_slug": "large-scale-sun-simulation-through-church-vitraux-feature-film-setup",
+    "parent_post_id": "218286",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Chop13",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you Sir for your feedback.\nI will Go with the Arrimax 18K !",
+  "content_html": "<p>Thank you Sir for your feedback.</p>\n<p>I will Go with the Arrimax 18K !</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you Sir for your feedback."
+    },
+    {
+      "type": "paragraph",
+      "text": "I will Go with the Arrimax 18K !"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/large-scale-sun-simulation-through-church-vitraux-feature-film-setup/#post-219523",
+    "scraped_at": "2026-01-15T14:16:52.723991+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/large-scale-sun-simulation-through-church-vitraux-feature-film-setup/#post-219523",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a2b856be06470d420273169a356684a15722867ab96587f82caff866a28562f6",
+    "parser_version": "bbpress-v2"
+  }
+}

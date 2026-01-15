@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215783",
+    "forum_slug": "forum",
+    "topic_slug": "continuity-with-haze",
+    "parent_post_id": "215776",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I have worked with effects teams that use a densitometer. That is really accurate but I would still adjust the level by eye. The issue being smoke in a backlight looks heavier than in a side light!",
+  "content_html": "<p>I have worked with effects teams that use a densitometer. That is really accurate but I would still adjust the level by eye. The issue being smoke in a backlight looks heavier than in a side light!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I have worked with effects teams that use a densitometer. That is really accurate but I would still adjust the level by eye. The issue being smoke in a backlight looks heavier than in a side light!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/continuity-with-haze/#post-215798",
+    "scraped_at": "2026-01-15T15:44:26.615609+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/continuity-with-haze/#post-215798",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fb81a308797627a318cc1e69e2cb5d7e0226b11c98c228a18ccdccd827f4cf43",
+    "parser_version": "bbpress-v2"
+  }
+}

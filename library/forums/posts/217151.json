@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "217151",
+    "forum_slug": "forum",
+    "topic_slug": "the-human-face",
+    "parent_post_id": "217149",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "When I started out I would usually have a hair and make-up test day that gave me the chance to study an actor’s face. And, yes, I would move a key light around just to see what effect it might have. Bear in mind that John Alton was lighting with more direct sources than I or most contemporary cinematographers use today so having some test time was even more essential for his method of working.\nTo experiment in that way on set, on the day of the shoot, creates all sorts of problems. Even if you were allowed the time by a director, actors tend to arrive on set intent to shoot. A camera rehearsal is sometimes frowned upon. It makes the physical similarities of a stand-in even more important.",
+  "content_html": "<p>When I started out I would usually have a hair and make-up test day that gave me the chance to study an actor’s face. And, yes, I would move a key light around just to see what effect it might have. Bear in mind that John Alton was lighting with more direct sources than I or most contemporary cinematographers use today so having some test time was even more essential for his method of working.</p>\n<p>To experiment in that way on set, on the day of the shoot, creates all sorts of problems. Even if you were allowed the time by a director, actors tend to arrive on set intent to shoot. A camera rehearsal is sometimes frowned upon. It makes the physical similarities of a stand-in even more important.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "When I started out I would usually have a hair and make-up test day that gave me the chance to study an actor’s face. And, yes, I would move a key light around just to see what effect it might have. Bear in mind that John Alton was lighting with more direct sources than I or most contemporary cinematographers use today so having some test time was even more essential for his method of working."
+    },
+    {
+      "type": "paragraph",
+      "text": "To experiment in that way on set, on the day of the shoot, creates all sorts of problems. Even if you were allowed the time by a director, actors tend to arrive on set intent to shoot. A camera rehearsal is sometimes frowned upon. It makes the physical similarities of a stand-in even more important."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-human-face/#post-217197",
+    "scraped_at": "2026-01-15T15:21:36.809748+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-human-face/#post-217197",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4d77a97556a0d5d90856d5e2a477d55b4872059fa88bd87ad9cfc09c6cea411b",
+    "parser_version": "bbpress-v2"
+  }
+}

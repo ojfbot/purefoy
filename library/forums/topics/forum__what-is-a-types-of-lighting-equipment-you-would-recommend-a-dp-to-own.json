@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own/#post-202221",
+  "forum_slug": "forum",
+  "topic_slug": "what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own",
+  "title": "What is a type(s) of lighting equipment you would recommend a dp to own?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "202026",
+    "202045",
+    "202212",
+    "202221"
+  ],
+  "reply_tree": {
+    "post_id": "202026",
+    "post_type": "topic",
+    "author": "Davinki",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "202045",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "202212",
+        "post_type": "reply",
+        "author": "TimoVanLierop",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "202221",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own/#post-202221",
+    "scraped_at": "2026-01-15T15:54:18.969254+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own/#post-202221",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c5ef8396cebdaac4767a3e8e927b3ad96f770aecd31d8d22bc8231c98249c5e4",
+    "parser_version": "bbpress-v2"
+  }
+}

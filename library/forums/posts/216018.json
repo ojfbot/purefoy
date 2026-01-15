@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "216018",
+    "forum_slug": "camera",
+    "topic_slug": "focal-lengths-2",
+    "parent_post_id": "215804",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Leopold",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Steven,\nGreat question! I’d love to hear both your thoughts on this too, James and Roger.\nI love the compression of space on long lenses. Like Jens Fischer shot some scenes in Swedish Änglagård (1992 Colin Nutley). There he saved the long lenses for when a deep family secret was revealed to the main character for example.\n• compressing her both in the flattened perspective of the long lens\n• and closing her in with a super shallow depth of field (nose tip-ear tip),\n• and framing super tight with the long lens for her reaction.\nI like to think of it as the intamacy between the subject and the audience/camera, putting myself into or distancing myself to the topic at hand. Like if a topic is uncomfortable, I will distance myself to it. But I can also approach it closely to soemthing very uncomfortable so that we can not flee what is happening. Like in Sid and Nancy, when everything hits the fan in their room. That was uncomfortable and I love how you didn’t back off from it Roger! And the closed hotel door, and their helplessness to be nothing but themselves, lost.\nTrailer.",
+  "content_html": "<p>Hi Steven,<br/>\nGreat question! I’d love to hear both your thoughts on this too, James and Roger.</p>\n<p>I love the compression of space on long lenses. Like Jens Fischer shot some scenes in Swedish Änglagård (1992 Colin Nutley). There he saved the long lenses for when a deep family secret was revealed to the main character for example.<br/>\n• compressing her both in the flattened perspective of the long lens<br/>\n• and closing her in with a super shallow depth of field (nose tip-ear tip),<br/>\n• and framing super tight with the long lens for her reaction.</p>\n<p>I like to think of it as the intamacy between the subject and the audience/camera, putting myself into or distancing myself to the topic at hand. Like if a topic is uncomfortable, I will distance myself to it. But I can also approach it closely to soemthing very uncomfortable so that we can not flee what is happening. Like in Sid and Nancy, when everything hits the fan in their room. That was uncomfortable and I love how you didn’t back off from it Roger! And the closed hotel door, and their helplessness to be nothing but themselves, lost.</p>\n<p>Trailer.<br/>\n<iframe allow=\"autoplay; fullscreen; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"508\" loading=\"lazy\" src=\"https://geo.dailymotion.com/player.html?video=xgdnyg&amp;\" title=\"Änglagård, english trailer\" width=\"678\"></iframe></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Steven,\nGreat question! I’d love to hear both your thoughts on this too, James and Roger."
+    },
+    {
+      "type": "paragraph",
+      "text": "I love the compression of space on long lenses. Like Jens Fischer shot some scenes in Swedish Änglagård (1992 Colin Nutley). There he saved the long lenses for when a deep family secret was revealed to the main character for example.\n• compressing her both in the flattened perspective of the long lens\n• and closing her in with a super shallow depth of field (nose tip-ear tip),\n• and framing super tight with the long lens for her reaction."
+    },
+    {
+      "type": "paragraph",
+      "text": "I like to think of it as the intamacy between the subject and the audience/camera, putting myself into or distancing myself to the topic at hand. Like if a topic is uncomfortable, I will distance myself to it. But I can also approach it closely to soemthing very uncomfortable so that we can not flee what is happening. Like in Sid and Nancy, when everything hits the fan in their room. That was uncomfortable and I love how you didn’t back off from it Roger! And the closed hotel door, and their helplessness to be nothing but themselves, lost."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trailer."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/focal-lengths-2/#post-216018",
+    "scraped_at": "2026-01-15T15:18:03.567884+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/focal-lengths-2/#post-216018",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f28c0242ac69e3b95c5e49158cbc95a79ce552da61d7db7d92f3e8be45e4e0fd",
+    "parser_version": "bbpress-v2"
+  }
+}

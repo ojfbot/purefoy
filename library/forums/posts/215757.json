@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215757",
+    "forum_slug": "forum",
+    "topic_slug": "looking-for-good-flashlight-recommendations-for-night-shoot",
+    "parent_post_id": "215740",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t know if Surefire still exist. They were my go to but they were not LED.",
+  "content_html": "<p>I don’t know if Surefire still exist. They were my go to but they were not LED.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t know if Surefire still exist. They were my go to but they were not LED."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/looking-for-good-flashlight-recommendations-for-night-shoot/#post-215759",
+    "scraped_at": "2026-01-15T15:44:50.863569+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/looking-for-good-flashlight-recommendations-for-night-shoot/#post-215759",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5499c6fb181dccd73ba4f9d08d78f87d139929a94acb20c4a6f98758c21ebca5",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "post_id": "220507",
+    "forum_slug": "camera",
+    "topic_slug": "barrel-distortion",
+    "parent_post_id": "218663",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Michael Lindsay",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "As usual a great answer from David and a very useful IG post!\nLittle thought experiment?\nIf we shoot a checkerboard wall with a FF/LF Camera and a 18mm rectilinear lens we see the outside squares the same size as the ones in the centre. Now those squares on the outside are much further away so how can they be rendered the same size?  …because the lens essentially has variable magnification as you move away from the center. This is a form of ‘distortion’ no? Of course it is inevitable as we are taking a 3d scene and rendering it on a plane and that image is often projected at very different sizes. Though getting the marketing guys from the lens manufacturers to agree is tricky.\nI realise you probably are asking Roger and James and even though I obv can’t answer for them, I would look at the lens series and FL they have historically used for clues?\nArri Signatures: Modern clean and rectilinear, but a tiny tiny bit relaxed and never overcorrected.\nMaster Primes: Sharp clean Modern rectilinear\nand before S4s:  Modern’ish and attempting to head towards rectilinear, but mostly undercorrected so have a slight curved feel.\nAlso apart from ‘special shots’, they don’t seem to go so very wide where this is a big issue/question\nreagrds\nMichael\nPS David that is a very useful IG post!",
+  "content_html": "<p>As usual a great answer from David and a very useful IG post!</p>\n<p>Little thought experiment?</p>\n<p>If we shoot a checkerboard wall with a FF/LF Camera and a 18mm rectilinear lens we see the outside squares the same size as the ones in the centre. Now those squares on the outside are much further away so how can they be rendered the same size?  …because the lens essentially has variable magnification as you move away from the center. This is a form of ‘distortion’ no? Of course it is inevitable as we are taking a 3d scene and rendering it on a plane and that image is often projected at very different sizes. Though getting the marketing guys from the lens manufacturers to agree is tricky.</p>\n<p>I realise you probably are asking Roger and James and even though I obv can’t answer for them, I would look at the lens series and FL they have historically used for clues?</p>\n<p>Arri Signatures: Modern clean and rectilinear, but a tiny tiny bit relaxed and never overcorrected.</p>\n<p>Master Primes: Sharp clean Modern rectilinear</p>\n<p>and before S4s:  Modern’ish and attempting to head towards rectilinear, but mostly undercorrected so have a slight curved feel.</p>\n<p>Also apart from ‘special shots’, they don’t seem to go so very wide where this is a big issue/question</p>\n<p>reagrds</p>\n<p>Michael</p>\n<p>PS David that is a very useful IG post!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "As usual a great answer from David and a very useful IG post!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Little thought experiment?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If we shoot a checkerboard wall with a FF/LF Camera and a 18mm rectilinear lens we see the outside squares the same size as the ones in the centre. Now those squares on the outside are much further away so how can they be rendered the same size?  …because the lens essentially has variable magnification as you move away from the center. This is a form of ‘distortion’ no? Of course it is inevitable as we are taking a 3d scene and rendering it on a plane and that image is often projected at very different sizes. Though getting the marketing guys from the lens manufacturers to agree is tricky."
+    },
+    {
+      "type": "paragraph",
+      "text": "I realise you probably are asking Roger and James and even though I obv can’t answer for them, I would look at the lens series and FL they have historically used for clues?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Arri Signatures: Modern clean and rectilinear, but a tiny tiny bit relaxed and never overcorrected."
+    },
+    {
+      "type": "paragraph",
+      "text": "Master Primes: Sharp clean Modern rectilinear"
+    },
+    {
+      "type": "paragraph",
+      "text": "and before S4s:  Modern’ish and attempting to head towards rectilinear, but mostly undercorrected so have a slight curved feel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also apart from ‘special shots’, they don’t seem to go so very wide where this is a big issue/question"
+    },
+    {
+      "type": "paragraph",
+      "text": "reagrds"
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael"
+    },
+    {
+      "type": "paragraph",
+      "text": "PS David that is a very useful IG post!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/barrel-distortion/#post-220507",
+    "scraped_at": "2026-01-15T12:09:13.386069+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/barrel-distortion/#post-220507",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d74c37285ebf48487be627074f50c5d8672ce134bfb55c7419f380821793c046",
+    "parser_version": "bbpress-v2"
+  }
+}

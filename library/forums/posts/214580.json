@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "214580",
+    "forum_slug": "film-talk",
+    "topic_slug": "film-student-scholarships"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Shea",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello,\nI hope you are all doing well! I am supposed to go to university next year and was wondering if anyone knows trustworthy scholarships for film students or anyone in general. I am not sure if this is the right place to ask, but i’m sure there were at least a few of you who went to film school! Thank you for your help.\n– Shea",
+  "content_html": "<p>Hello,</p>\n<p>I hope you are all doing well! I am supposed to go to university next year and was wondering if anyone knows trustworthy scholarships for film students or anyone in general. I am not sure if this is the right place to ask, but i’m sure there were at least a few of you who went to film school! Thank you for your help.</p>\n<p>– Shea</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope you are all doing well! I am supposed to go to university next year and was wondering if anyone knows trustworthy scholarships for film students or anyone in general. I am not sure if this is the right place to ask, but i’m sure there were at least a few of you who went to film school! Thank you for your help."
+    },
+    {
+      "type": "paragraph",
+      "text": "– Shea"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/film-student-scholarships/#post-214651",
+    "scraped_at": "2026-01-15T14:16:57.062615+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/film-student-scholarships/#post-214651",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3f456a636d66ede16d1a7b69917edf327f66fd302bb5b14659178f39d0252bb8",
+    "parser_version": "bbpress-v2"
+  }
+}

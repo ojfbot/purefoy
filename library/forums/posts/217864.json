@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "post_id": "217864",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-for-confined-spaces"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Corran Villalobos",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Sir Roger,\nThe scene in Sicario of Emily Blunt in the bathroom following the house invasion stands out to me after every rewatch. Given your success with controlled practicals as your primary light source, I’m left wondering whether or not you used the bathroom fixtures exclusively or incorporated additional units here and there to augment them. How do you go about balancing the two in a suboptimal space ?\nAs always, thank you for your time, wisdom, and unwavering support\nBest,\nCorran\n(reference stills wouldn’t upload. Here’s a link instead)\nhttps://www.pinterest.com/pin/820640363389841142/",
+  "content_html": "<p>Hello Sir Roger,</p>\n<p>The scene in Sicario of Emily Blunt in the bathroom following the house invasion stands out to me after every rewatch. Given your success with controlled practicals as your primary light source, I’m left wondering whether or not you used the bathroom fixtures exclusively or incorporated additional units here and there to augment them. How do you go about balancing the two in a suboptimal space ?</p>\n<p>As always, thank you for your time, wisdom, and unwavering support</p>\n<p>Best,<br/>\nCorran</p>\n<p>(reference stills wouldn’t upload. Here’s a link instead)</p>\n<p><a href=\"https://www.pinterest.com/pin/820640363389841142/\" rel=\"nofollow\">https://www.pinterest.com/pin/820640363389841142/</a></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Sir Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "The scene in Sicario of Emily Blunt in the bathroom following the house invasion stands out to me after every rewatch. Given your success with controlled practicals as your primary light source, I’m left wondering whether or not you used the bathroom fixtures exclusively or incorporated additional units here and there to augment them. How do you go about balancing the two in a suboptimal space ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "As always, thank you for your time, wisdom, and unwavering support"
+    },
+    {
+      "type": "paragraph",
+      "text": "Best,\nCorran"
+    },
+    {
+      "type": "paragraph",
+      "text": "(reference stills wouldn’t upload. Here’s a link instead)"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://www.pinterest.com/pin/820640363389841142/"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.pinterest.com/pin/820640363389841142/",
+      "text": "https://www.pinterest.com/pin/820640363389841142/",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-for-confined-spaces/#post-217870",
+    "scraped_at": "2026-01-15T15:20:03.945097+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-confined-spaces/#post-217870",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d6bce9a3f761ab642bf5c834bd2451cc08e326118f75cdb7cee55293d33b1d6d",
+    "parser_version": "bbpress-v2"
+  }
+}

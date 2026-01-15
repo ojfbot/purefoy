@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "169433",
+    "forum_slug": "camera",
+    "topic_slug": "camera-choice-in-1917",
+    "parent_post_id": "169432",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "In early conversations we considered shooting entirely with a hand-held camera as we had done on the earlier film, ‘Jarhead’. But as we developed our storyboards we could see that there were many occasions the camera wanted to be more solid and more observational. To shoot some scenes hand-held may well have worked but what would those scenes be and why those in particular? We were shooting on a reasonably long lens so any hand-held work would have been very ‘active’, which we felt would break the spell of the single shot.\nI shall be interested in watching the recent ‘All Quiet on the Western Front’ to see their approach.\nThis reply was modified 3 years, 3 months ago by\nRoger Deakins\n.",
+  "content_html": "<p>In early conversations we considered shooting entirely with a hand-held camera as we had done on the earlier film, ‘Jarhead’. But as we developed our storyboards we could see that there were many occasions the camera wanted to be more solid and more observational. To shoot some scenes hand-held may well have worked but what would those scenes be and why those in particular? We were shooting on a reasonably long lens so any hand-held work would have been very ‘active’, which we felt would break the spell of the single shot.<br/>\nI shall be interested in watching the recent ‘All Quiet on the Western Front’ to see their approach.</p>\n<ul class=\"bbp-reply-revision-log\" id=\"bbp-reply-revision-log-169433\">\n<li class=\"bbp-reply-revision-log-item\" id=\"bbp-reply-revision-log-169433-item-169443\">\n\t\tThis reply was modified 3 years, 3 months ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/roger/\" title=\"View Roger Deakins's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png\" srcset=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-28x28.png 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">Roger Deakins</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In early conversations we considered shooting entirely with a hand-held camera as we had done on the earlier film, ‘Jarhead’. But as we developed our storyboards we could see that there were many occasions the camera wanted to be more solid and more observational. To shoot some scenes hand-held may well have worked but what would those scenes be and why those in particular? We were shooting on a reasonably long lens so any hand-held work would have been very ‘active’, which we felt would break the spell of the single shot.\nI shall be interested in watching the recent ‘All Quiet on the Western Front’ to see their approach."
+    },
+    {
+      "type": "list",
+      "text": "This reply was modified 3 years, 3 months ago by\nRoger Deakins\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/roger/",
+      "text": "Roger Deakins",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-choice-in-1917/#post-169444",
+    "scraped_at": "2026-01-15T15:46:50.372109+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-choice-in-1917/#post-169444",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0a495311e194eb9b86db7ac80af85b5ba4df3e79daf082bbde9120a45a726c60",
+    "parser_version": "bbpress-v2"
+  }
+}

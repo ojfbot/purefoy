@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "216208",
+    "forum_slug": "camera",
+    "topic_slug": "look-of-film-in-2024",
+    "parent_post_id": "216197",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "dmullenasc wrote:\nMost people would opt for film grain simulation software (as “The Holdovers” did, using Live Grain and adding some subtle gate weave).\nWhat do you think about the simulation? I understand that it gives a vintage feeling to the images, but I’m curious to know the opinion of experts like you about something that, basically, in a certain way “ruins” scenes that have been carefully studied and prepared to fake the look of past movies. I feel it like adding fake scratch noises on a cd to fake the effect of a vynil. Different times, different techniques, different results. What about you?",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216201\">dmullenasc wrote:</a></div>\n<p>Most people would opt for film grain simulation software (as “The Holdovers” did, using Live Grain and adding some subtle gate weave).</p></blockquote>\n<p>What do you think about the simulation? I understand that it gives a vintage feeling to the images, but I’m curious to know the opinion of experts like you about something that, basically, in a certain way “ruins” scenes that have been carefully studied and prepared to fake the look of past movies. I feel it like adding fake scratch noises on a cd to fake the effect of a vynil. Different times, different techniques, different results. What about you?</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "dmullenasc wrote:\nMost people would opt for film grain simulation software (as “The Holdovers” did, using Live Grain and adding some subtle gate weave)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Most people would opt for film grain simulation software (as “The Holdovers” did, using Live Grain and adding some subtle gate weave)."
+    },
+    {
+      "type": "paragraph",
+      "text": "What do you think about the simulation? I understand that it gives a vintage feeling to the images, but I’m curious to know the opinion of experts like you about something that, basically, in a certain way “ruins” scenes that have been carefully studied and prepared to fake the look of past movies. I feel it like adding fake scratch noises on a cd to fake the effect of a vynil. Different times, different techniques, different results. What about you?"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "dmullenasc wrote:\nMost people would opt for film grain simulation software (as “The Holdovers” did, using Live Grain and adding some subtle gate weave)."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216201",
+      "text": "dmullenasc wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+    "scraped_at": "2026-01-15T14:33:45.474283+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d54d342d3e1f43778f46e48ebfff0d8c3edb07d17ec0fc022eb251d27b8c0e2d",
+    "parser_version": "bbpress-v2"
+  }
+}

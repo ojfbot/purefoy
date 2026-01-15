@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "201423",
+    "forum_slug": "forum",
+    "topic_slug": "ansel-adams-zone-system",
+    "parent_post_id": "201222",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "With digital post, it’s sort of the opposite — we not only have control over the gamma (contrast) of every frame, we have control over portions of the frame.",
+  "content_html": "<p>With digital post, it’s sort of the opposite — we not only have control over the gamma (contrast) of every frame, we have control over portions of the frame.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "With digital post, it’s sort of the opposite — we not only have control over the gamma (contrast) of every frame, we have control over portions of the frame."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ansel-adams-zone-system/#post-204430",
+    "scraped_at": "2026-01-15T15:53:57.785675+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ansel-adams-zone-system/#post-204430",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "89dc9145da841262ff1f0d353c870444c7af3be25227b572aec9a4575bb5a912",
+    "parser_version": "bbpress-v2"
+  }
+}

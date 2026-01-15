@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215670",
+    "forum_slug": "forum",
+    "topic_slug": "decisive-moments",
+    "parent_post_id": "215669",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A film crew works towards creating a moment on set that is similarly “decisive”. Of course, it is different from street photography but, while that moment on a film set might seem repeatable it is not. A single take is the product of so many complicated elements coming together at the same time.",
+  "content_html": "<p>A film crew works towards creating a moment on set that is similarly “decisive”. Of course, it is different from street photography but, while that moment on a film set might seem repeatable it is not. A single take is the product of so many complicated elements coming together at the same time.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A film crew works towards creating a moment on set that is similarly “decisive”. Of course, it is different from street photography but, while that moment on a film set might seem repeatable it is not. A single take is the product of so many complicated elements coming together at the same time."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/decisive-moments/#post-215670",
+    "scraped_at": "2026-01-15T15:45:38.695894+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/decisive-moments/#post-215670",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4ae3d856a8bda3ce51254a4e2ae139b1a637eca45bc2c6690b8ee88e0a504c55",
+    "parser_version": "bbpress-v2"
+  }
+}

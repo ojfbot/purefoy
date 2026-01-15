@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217452",
+    "forum_slug": "team-deakins",
+    "topic_slug": "proposal-turning-the-tables-on-true-grit-with-david-mullen-asc",
+    "parent_post_id": "217435",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’d be willing to do it when all three of us are free to talk.",
+  "content_html": "<p>I’d be willing to do it when all three of us are free to talk.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’d be willing to do it when all three of us are free to talk."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/proposal-turning-the-tables-on-true-grit-with-david-mullen-asc/#post-217453",
+    "scraped_at": "2026-01-15T13:05:50.677846+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/proposal-turning-the-tables-on-true-grit-with-david-mullen-asc/#post-217453",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "84c4f55855c7ee4d82762b3ad1f6513f808a8f6bf2d52511c807dc5b50c3f478",
+    "parser_version": "bbpress-v2"
+  }
+}

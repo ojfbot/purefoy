@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216417",
+    "forum_slug": "camera",
+    "topic_slug": "geared-head-vs-fluid-head",
+    "parent_post_id": "216341",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I learned the hard way that the main advantage of a heavy geared head is that the camera itself doesn’t create enough inertia to affect the move, the mass is centered around the head mostly and when it stops moving because you stopped turning a wheel, it stops perfectly. With a fluid head, due to inertia, the camera wants to keep moving even if you stop panning or tilting, so sometimes you can see this bobble when it stops abruptly at the end of a fast move unless the operator is really good. I recall trying to push into a pitcher of water on a table and then tilt down until I was looking straight down, and the weight of the camera caused the fluid head to want to keep tipping forward after I hit the straight down position, causing me to grab the magazine to stop it.  It’s just Newton at work!",
+  "content_html": "<p>I learned the hard way that the main advantage of a heavy geared head is that the camera itself doesn’t create enough inertia to affect the move, the mass is centered around the head mostly and when it stops moving because you stopped turning a wheel, it stops perfectly. With a fluid head, due to inertia, the camera wants to keep moving even if you stop panning or tilting, so sometimes you can see this bobble when it stops abruptly at the end of a fast move unless the operator is really good. I recall trying to push into a pitcher of water on a table and then tilt down until I was looking straight down, and the weight of the camera caused the fluid head to want to keep tipping forward after I hit the straight down position, causing me to grab the magazine to stop it.  It’s just Newton at work!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I learned the hard way that the main advantage of a heavy geared head is that the camera itself doesn’t create enough inertia to affect the move, the mass is centered around the head mostly and when it stops moving because you stopped turning a wheel, it stops perfectly. With a fluid head, due to inertia, the camera wants to keep moving even if you stop panning or tilting, so sometimes you can see this bobble when it stops abruptly at the end of a fast move unless the operator is really good. I recall trying to push into a pitcher of water on a table and then tilt down until I was looking straight down, and the weight of the camera caused the fluid head to want to keep tipping forward after I hit the straight down position, causing me to grab the magazine to stop it.  It’s just Newton at work!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/geared-head-vs-fluid-head/#post-216617",
+    "scraped_at": "2026-01-15T13:40:00.514137+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/geared-head-vs-fluid-head/#post-216617",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dd2eac960eea16398ae8ac4a20700dbad673689385a3ba8f607922a9bd3e00ad",
+    "parser_version": "bbpress-v2"
+  }
+}

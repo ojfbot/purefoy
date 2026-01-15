@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218636",
+    "forum_slug": "forum",
+    "topic_slug": "how-to-use-bobbinette-to-diffuse-backings",
+    "parent_post_id": "218622",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Sure if you can find a large lavender net, that would be nice but they are somewhat rare and fragile.",
+  "content_html": "<p>Sure if you can find a large lavender net, that would be nice but they are somewhat rare and fragile.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sure if you can find a large lavender net, that would be nice but they are somewhat rare and fragile."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-use-bobbinette-to-diffuse-backings/#post-218650",
+    "scraped_at": "2026-01-15T14:33:52.463349+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-use-bobbinette-to-diffuse-backings/#post-218650",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b77cbe6bfd31a446474107f87b35ad753d8b8ec6e45e125b466e963217fdf4b8",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/difficult-conversations/#post-220077",
+  "forum_slug": "set-talk",
+  "topic_slug": "difficult-conversations",
+  "title": "Difficult conversations",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217287",
+    "218196",
+    "218198",
+    "218203",
+    "218333",
+    "220065",
+    "220077"
+  ],
+  "reply_tree": {
+    "post_id": "217287",
+    "post_type": "topic",
+    "author": "viktorenvall",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "218196",
+        "post_type": "reply",
+        "author": "CineCraft29",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218198",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218203",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218333",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220065",
+        "post_type": "reply",
+        "author": "Mr DM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220077",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 6,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/difficult-conversations/#post-220077",
+    "scraped_at": "2026-01-15T11:50:46.575566+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/difficult-conversations/#post-220077",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "99d691a5d720c2f4092ca17258ff01bdfbfaa19c149c179c2e0306f4c01f153e",
+    "parser_version": "bbpress-v2"
+  }
+}

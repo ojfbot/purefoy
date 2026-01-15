@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "218909",
+    "forum_slug": "camera",
+    "topic_slug": "pre-flashing-negative-effects-on-image-david"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This is probably aimed at David to answer as he already did in a thread on Cinematography. com:\nFor night exteriors on ‘Fight Club’ they pre-flashed the negative at 5% in the lab. I understand it was to get more details in the shadows. But I am curious what this process actually does/did to the film overall. On the above mentioned thread David describes it as:\nA fogged/flashed image has lighter blacks, lower contrast, softer colors. (…) flashing maybe only brings out another half-stop of detail in the shadows at the most, after that, you’re just milking the blacks up.\nI am curious what you/David meant with ‘softer colors’ and also what any other, even tiny, effect pre-flashing in the lab would have on the image? And if these effects are global or if it also introduced some local changes?",
+  "content_html": "<p>This is probably aimed at David to answer as he already did in a thread on Cinematography. com:</p>\n<p>For night exteriors on ‘Fight Club’ they pre-flashed the negative at 5% in the lab. I understand it was to get more details in the shadows. But I am curious what this process actually does/did to the film overall. On the above mentioned thread David describes it as:</p>\n<blockquote><p>A fogged/flashed image has lighter blacks, lower contrast, softer colors. (…) flashing maybe only brings out another half-stop of detail in the shadows at the most, after that, you’re just milking the blacks up.</p></blockquote>\n<p>I am curious what you/David meant with ‘softer colors’ and also what any other, even tiny, effect pre-flashing in the lab would have on the image? And if these effects are global or if it also introduced some local changes?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This is probably aimed at David to answer as he already did in a thread on Cinematography. com:"
+    },
+    {
+      "type": "paragraph",
+      "text": "For night exteriors on ‘Fight Club’ they pre-flashed the negative at 5% in the lab. I understand it was to get more details in the shadows. But I am curious what this process actually does/did to the film overall. On the above mentioned thread David describes it as:"
+    },
+    {
+      "type": "quote",
+      "text": "A fogged/flashed image has lighter blacks, lower contrast, softer colors. (…) flashing maybe only brings out another half-stop of detail in the shadows at the most, after that, you’re just milking the blacks up."
+    },
+    {
+      "type": "paragraph",
+      "text": "A fogged/flashed image has lighter blacks, lower contrast, softer colors. (…) flashing maybe only brings out another half-stop of detail in the shadows at the most, after that, you’re just milking the blacks up."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am curious what you/David meant with ‘softer colors’ and also what any other, even tiny, effect pre-flashing in the lab would have on the image? And if these effects are global or if it also introduced some local changes?"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "A fogged/flashed image has lighter blacks, lower contrast, softer colors. (…) flashing maybe only brings out another half-stop of detail in the shadows at the most, after that, you’re just milking the blacks up."
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/pre-flashing-negative-effects-on-image-david/#post-219162",
+    "scraped_at": "2026-01-15T12:42:19.742678+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/pre-flashing-negative-effects-on-image-david/#post-219162",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2c11624d4649f093303113eab479e5acdb479dd6446cd7c27830635e3ade2784",
+    "parser_version": "bbpress-v2"
+  }
+}

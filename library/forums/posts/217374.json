@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "217374",
+    "forum_slug": "forum",
+    "topic_slug": "johnny-coquillon-and-minimal-lighting"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "arthurkent",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "First off, Roger and James, thanks for creating and maintaining your wonderful podcast. Often in your discussions with filmmakers the topic of minimal lighting comes up. Perhaps in the 70s and 80s, Roger, you crossed paths with the late Johnny Coquillon, a much loved Brit-Canadian lensman whose breakthrough shoot was Straw Dogs. Johnny went on to film Peckinpah’s Pat Garret and Billy the Kid, Cross of Iron and The Osterman Weekend.\nDustin Hoffman could spin quite a yarn about how Johnny effectively pulled Straw Dogs out of the fire. Early in the shoot, as I’m sure you know, Peckinpah demanded a replacement DoP because he was unhappy with the over-lit interiors of the cottage. The production was on the verge of collapsing. Finally Dan Melnick asked Sam for a solution, to which Peckinpah shouted, complete with trademark expletives, “I’ll tell you who can shoot this picture, the guy who shot The Crimson Cult and Witchfinder General!” Small budget horror movies. Melnick got onto Johnny’s agent, Freddy Vale, who told Johnny to fly in right away from Los Angeles to London—where Dustin Hoffman and Sam met him at Heathrow arrivals. Johnny was, he always said, “gobsmacked and terrified” meeting those two. But production got underway immediately, thanks to the new DoP’s genius for pulling images out of barely-lit interiors. Sadly we lost Johnny in 1987, a real loss, especially for the London and Toronto film communities.",
+  "content_html": "<p>First off, Roger and James, thanks for creating and maintaining your wonderful podcast. Often in your discussions with filmmakers the topic of minimal lighting comes up. Perhaps in the 70s and 80s, Roger, you crossed paths with the late Johnny Coquillon, a much loved Brit-Canadian lensman whose breakthrough shoot was Straw Dogs. Johnny went on to film Peckinpah’s Pat Garret and Billy the Kid, Cross of Iron and The Osterman Weekend.</p>\n<p>Dustin Hoffman could spin quite a yarn about how Johnny effectively pulled Straw Dogs out of the fire. Early in the shoot, as I’m sure you know, Peckinpah demanded a replacement DoP because he was unhappy with the over-lit interiors of the cottage. The production was on the verge of collapsing. Finally Dan Melnick asked Sam for a solution, to which Peckinpah shouted, complete with trademark expletives, “I’ll tell you who can shoot this picture, the guy who shot The Crimson Cult and Witchfinder General!” Small budget horror movies. Melnick got onto Johnny’s agent, Freddy Vale, who told Johnny to fly in right away from Los Angeles to London—where Dustin Hoffman and Sam met him at Heathrow arrivals. Johnny was, he always said, “gobsmacked and terrified” meeting those two. But production got underway immediately, thanks to the new DoP’s genius for pulling images out of barely-lit interiors. Sadly we lost Johnny in 1987, a real loss, especially for the London and Toronto film communities.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "First off, Roger and James, thanks for creating and maintaining your wonderful podcast. Often in your discussions with filmmakers the topic of minimal lighting comes up. Perhaps in the 70s and 80s, Roger, you crossed paths with the late Johnny Coquillon, a much loved Brit-Canadian lensman whose breakthrough shoot was Straw Dogs. Johnny went on to film Peckinpah’s Pat Garret and Billy the Kid, Cross of Iron and The Osterman Weekend."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dustin Hoffman could spin quite a yarn about how Johnny effectively pulled Straw Dogs out of the fire. Early in the shoot, as I’m sure you know, Peckinpah demanded a replacement DoP because he was unhappy with the over-lit interiors of the cottage. The production was on the verge of collapsing. Finally Dan Melnick asked Sam for a solution, to which Peckinpah shouted, complete with trademark expletives, “I’ll tell you who can shoot this picture, the guy who shot The Crimson Cult and Witchfinder General!” Small budget horror movies. Melnick got onto Johnny’s agent, Freddy Vale, who told Johnny to fly in right away from Los Angeles to London—where Dustin Hoffman and Sam met him at Heathrow arrivals. Johnny was, he always said, “gobsmacked and terrified” meeting those two. But production got underway immediately, thanks to the new DoP’s genius for pulling images out of barely-lit interiors. Sadly we lost Johnny in 1987, a real loss, especially for the London and Toronto film communities."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/johnny-coquillon-and-minimal-lighting/#post-217797",
+    "scraped_at": "2026-01-15T15:20:18.265837+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/johnny-coquillon-and-minimal-lighting/#post-217797",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "10aa2a5abda56c7e5764c93041bd57b24f011a24d698f0e721b5a14423ae83cd",
+    "parser_version": "bbpress-v2"
+  }
+}

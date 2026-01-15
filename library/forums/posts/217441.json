@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217441",
+    "forum_slug": "team-deakins",
+    "topic_slug": "proposal-turning-the-tables-on-true-grit-with-david-mullen-asc",
+    "parent_post_id": "217435",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Sounds good!",
+  "content_html": "<p>Sounds good!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sounds good!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/proposal-turning-the-tables-on-true-grit-with-david-mullen-asc/#post-217453",
+    "scraped_at": "2026-01-15T13:05:50.677485+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/proposal-turning-the-tables-on-true-grit-with-david-mullen-asc/#post-217453",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "be4c92f4ef4d89e05710ef1f7c7c10a56d82e52d8fc78cb04f07bb4db73f4b40",
+    "parser_version": "bbpress-v2"
+  }
+}

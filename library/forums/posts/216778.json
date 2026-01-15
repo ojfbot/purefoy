@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216778",
+    "forum_slug": "set-talk",
+    "topic_slug": "developing-a-rock-solid-shot-list",
+    "parent_post_id": "216670",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There is a balance between shooting only the shots you feel are right for a scene and allowing some flexibility in the edit. It annoys me when shots are used in the edit simply because they exist. But it also annoys me when a performance seems weak because there is a lack of a close shot or another angle. Sometimes an editor needs alternatives to build a performance.",
+  "content_html": "<p>There is a balance between shooting only the shots you feel are right for a scene and allowing some flexibility in the edit. It annoys me when shots are used in the edit simply because they exist. But it also annoys me when a performance seems weak because there is a lack of a close shot or another angle. Sometimes an editor needs alternatives to build a performance.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There is a balance between shooting only the shots you feel are right for a scene and allowing some flexibility in the edit. It annoys me when shots are used in the edit simply because they exist. But it also annoys me when a performance seems weak because there is a lack of a close shot or another angle. Sometimes an editor needs alternatives to build a performance."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/developing-a-rock-solid-shot-list/#post-217486",
+    "scraped_at": "2026-01-15T12:08:11.155591+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/developing-a-rock-solid-shot-list/#post-217486",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e1090cc6b9cddcdcd2b4d0304c063ee6106233718c42071569b2ea7fc188bdb9",
+    "parser_version": "bbpress-v2"
+  }
+}

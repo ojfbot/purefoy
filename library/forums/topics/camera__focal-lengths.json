@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/focal-lengths/#post-214517",
+  "forum_slug": "camera",
+  "topic_slug": "focal-lengths",
+  "title": "Focal Lengths",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214488",
+    "214492",
+    "214511",
+    "214514",
+    "214517"
+  ],
+  "reply_tree": {
+    "post_id": "214488",
+    "post_type": "topic",
+    "author": "William Knowles",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214492",
+        "post_type": "reply",
+        "author": "Cinematographer Reggie A Brown",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214511",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214514",
+        "post_type": "reply",
+        "author": "Tyler F",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214517",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/focal-lengths/#post-214517",
+    "scraped_at": "2026-01-15T15:26:01.426407+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/focal-lengths/#post-214517",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2090cd9f580b699df5ce3aa3e1fb2e66ba48c78a52ece12c8583e75c9720e8de",
+    "parser_version": "bbpress-v2"
+  }
+}

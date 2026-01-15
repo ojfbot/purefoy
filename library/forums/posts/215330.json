@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215330",
+    "forum_slug": "camera",
+    "topic_slug": "zoom-in-vs-dolly-pushing",
+    "parent_post_id": "215307",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "ThisGuy321",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Granted, it all depends on the motivation and purpose for doing it, but for me, dolly pushes tend to feel more natural than zooms. I think because so much within an image is altered in some way during a zoom as the focal length changes that zooms tend to feel a little more jarring. Maybe this is because it is a natural human instinct to move in closer when we want to see something more clearly. Afterall, unless we’re using a phone camera or something, we don’t stand in one place and zoom in with our naked eye. Also, I find that dolly pushes tend to be a little more forgiving in the shakes and bumps than zooms, but maybe that’s just me.\nHaving said that, there’s also the option of doing neither and just doing a digital zoom in post. haha!\nI’m sorry. I’ll see myself out. Please don’t ban me! lol",
+  "content_html": "<p>Granted, it all depends on the motivation and purpose for doing it, but for me, dolly pushes tend to feel more natural than zooms. I think because so much within an image is altered in some way during a zoom as the focal length changes that zooms tend to feel a little more jarring. Maybe this is because it is a natural human instinct to move in closer when we want to see something more clearly. Afterall, unless we’re using a phone camera or something, we don’t stand in one place and zoom in with our naked eye. Also, I find that dolly pushes tend to be a little more forgiving in the shakes and bumps than zooms, but maybe that’s just me.</p>\n<p>Having said that, there’s also the option of doing neither and just doing a digital zoom in post. haha!<br/>\nI’m sorry. I’ll see myself out. Please don’t ban me! lol</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Granted, it all depends on the motivation and purpose for doing it, but for me, dolly pushes tend to feel more natural than zooms. I think because so much within an image is altered in some way during a zoom as the focal length changes that zooms tend to feel a little more jarring. Maybe this is because it is a natural human instinct to move in closer when we want to see something more clearly. Afterall, unless we’re using a phone camera or something, we don’t stand in one place and zoom in with our naked eye. Also, I find that dolly pushes tend to be a little more forgiving in the shakes and bumps than zooms, but maybe that’s just me."
+    },
+    {
+      "type": "paragraph",
+      "text": "Having said that, there’s also the option of doing neither and just doing a digital zoom in post. haha!\nI’m sorry. I’ll see myself out. Please don’t ban me! lol"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+    "scraped_at": "2026-01-15T15:22:12.537912+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8e701ff0cfc4ebb312d406caf9325014f27d17f2886ab8b721f1b29d0ec27259",
+    "parser_version": "bbpress-v2"
+  }
+}

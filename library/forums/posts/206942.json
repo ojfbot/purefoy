@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "post_id": "206942",
+    "forum_slug": "composition",
+    "topic_slug": "psycho-singles-eye-line-curse-of-color-in-modern-cinema"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "sanghamithran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi , Master Roger\nHope you are doing well.\nI just recently happened to dig up scenes from the film psycho upon mention of it from an audio book about film.\nI had watched the full movie when I was at college and didn’t observe this while first time viewing, completely terrified by the film, but upon re-watch\nWhen I watched one scene it seemed like eye lines are not matching,\nDo you think it is a deliberate choice here or a mistake or maybe i might be overthinking here.\nBy looking at the attached images , could you share your opinion on this.\nAlso what I noticed is this film had amazing cinematography and thought to myself maybe color is the curse of Modern cinematography just being eye candy rather than the pyschic effect black and white cinematography were able to impart on the audience.\nDo you share any similar thought about modern cinematography?\nThank you for your kind attention for us and hope you well 🙏🏻.",
+  "content_html": "<p>Hi , Master Roger</p>\n<p>Hope you are doing well.</p>\n<p>I just recently happened to dig up scenes from the film psycho upon mention of it from an audio book about film.</p>\n<p>I had watched the full movie when I was at college and didn’t observe this while first time viewing, completely terrified by the film, but upon re-watch</p>\n<p>When I watched one scene it seemed like eye lines are not matching,</p>\n<p>Do you think it is a deliberate choice here or a mistake or maybe i might be overthinking here.</p>\n<p>By looking at the attached images , could you share your opinion on this.</p>\n<p>Also what I noticed is this film had amazing cinematography and thought to myself maybe color is the curse of Modern cinematography just being eye candy rather than the pyschic effect black and white cinematography were able to impart on the audience.</p>\n<p>Do you share any similar thought about modern cinematography?</p>\n<p>Thank you for your kind attention for us and hope you well 🙏🏻.</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/206942/9n449okryt67yo4wlrntwf2o7sbkzo6x.jpg\"/><img alt=\"\" decoding=\"async\" height=\"144\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/206942/ns8xrqm2mj7wn13yq0t5datl17kvj2qd.jpg\" width=\"319\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi , Master Roger"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope you are doing well."
+    },
+    {
+      "type": "paragraph",
+      "text": "I just recently happened to dig up scenes from the film psycho upon mention of it from an audio book about film."
+    },
+    {
+      "type": "paragraph",
+      "text": "I had watched the full movie when I was at college and didn’t observe this while first time viewing, completely terrified by the film, but upon re-watch"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I watched one scene it seemed like eye lines are not matching,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you think it is a deliberate choice here or a mistake or maybe i might be overthinking here."
+    },
+    {
+      "type": "paragraph",
+      "text": "By looking at the attached images , could you share your opinion on this."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also what I noticed is this film had amazing cinematography and thought to myself maybe color is the curse of Modern cinematography just being eye candy rather than the pyschic effect black and white cinematography were able to impart on the audience."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you share any similar thought about modern cinematography?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for your kind attention for us and hope you well 🙏🏻."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/206942/9n449okryt67yo4wlrntwf2o7sbkzo6x.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/206942/ns8xrqm2mj7wn13yq0t5datl17kvj2qd.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/psycho-singles-eye-line-curse-of-color-in-modern-cinema/#post-211113",
+    "scraped_at": "2026-01-15T13:23:32.282867+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/psycho-singles-eye-line-curse-of-color-in-modern-cinema/#post-211113",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3e37f7497dedb674e326c57be2194d4e66fd307d9dd207f82ca7c731045a278b",
+    "parser_version": "bbpress-v2"
+  }
+}

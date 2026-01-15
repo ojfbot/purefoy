@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "215639",
+    "forum_slug": "camera",
+    "topic_slug": "exposure",
+    "parent_post_id": "215560",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "adamf",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "@dmullenasc\n– always such great wisdom!",
+  "content_html": "<p><a class=\"bbp-user-mention bbp-user-id-377\" href=\"https://www.rogerdeakins.com/forums/users/dmullenasc/\"> @dmullenasc</a> – always such great wisdom!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "@dmullenasc\n– always such great wisdom!"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/dmullenasc/",
+      "text": "@dmullenasc",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+    "scraped_at": "2026-01-15T15:20:45.306552+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3f76dbfd619635d177cdc5afb2969115aa6c42e477c5dda776164f6be3c6db31",
+    "parser_version": "bbpress-v2"
+  }
+}

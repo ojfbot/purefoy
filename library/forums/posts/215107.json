@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215107",
+    "forum_slug": "forum",
+    "topic_slug": "bounce-light-challenges-on-bladerunner-sappers-farm",
+    "parent_post_id": "215081",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "halfgrain",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That makes a lot of sense. Thank you!",
+  "content_html": "<p>That makes a lot of sense. Thank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That makes a lot of sense. Thank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bounce-light-challenges-on-bladerunner-sappers-farm/#post-215107",
+    "scraped_at": "2026-01-15T15:49:20.814417+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bounce-light-challenges-on-bladerunner-sappers-farm/#post-215107",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "96f9a8743b787f7e6b5312fcd0d56c379bfbf24f0578986d2ba7ae98222ec4e3",
+    "parser_version": "bbpress-v2"
+  }
+}

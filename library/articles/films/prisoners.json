@@ -1,0 +1,20 @@
+{
+  "film_id": "prisoners",
+  "film_slug": "prisoners",
+  "film_title": "Prisoners",
+  "description": "Lighting analysis articles for Prisoners",
+  "article_refs": [
+    {
+      "article_id": "prisoners-1",
+      "article_slug": "prisoners-1",
+      "article_url": "https://www.rogerdeakins.com/prisoners-1/",
+      "title": "Roger Deakins looks at the lighting of scenes in Prisoners",
+      "description": "Roger Deakins looks at the lighting of scenes in the movie Prisoners and discusses his approach, using still frames and lighting diagrams to illustrate.",
+      "published_date": "2020-07-26T16:09:01-07:00"
+    }
+  ],
+  "article_count": 1,
+  "total_images": 24,
+  "scraped_at": "2026-01-15T05:14:17.660820",
+  "source_menu_url": "https://www.rogerdeakins.com"
+}

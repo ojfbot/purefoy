@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214701",
+    "forum_slug": "composition",
+    "topic_slug": "establishing-shots-focal-lengths",
+    "parent_post_id": "214699",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There are no standards or rules for focal lengths for establishing wide shots or master shots. If you are outdoors in open space, you can pick the focal length based on the expansion/compression effect you want on objects and the working distance / subject size you want, and the affect on motion, whether lateral or forward/reverse.\nIndoors, there may be space restrictions that keep you from using longer focal lengths to create a wide shot, if that’s what you wanted to do. Kurosawa, for example, liked longer lenses so would design the set, whether on stage or on location, to have a removable wall to allow him to back up the camera.\nIf you are shooting an interior movie on location, you might want to scout with a lens app to figure out what focal lengths you can use to get wide shots and work from there, maybe that gets incorporated into the style of the film if you have to work in smallish rooms in the 18mm to 35mm range (in Super-35) for most wide to medium shots.",
+  "content_html": "<p>There are no standards or rules for focal lengths for establishing wide shots or master shots. If you are outdoors in open space, you can pick the focal length based on the expansion/compression effect you want on objects and the working distance / subject size you want, and the affect on motion, whether lateral or forward/reverse.</p>\n<p>Indoors, there may be space restrictions that keep you from using longer focal lengths to create a wide shot, if that’s what you wanted to do. Kurosawa, for example, liked longer lenses so would design the set, whether on stage or on location, to have a removable wall to allow him to back up the camera.</p>\n<p>If you are shooting an interior movie on location, you might want to scout with a lens app to figure out what focal lengths you can use to get wide shots and work from there, maybe that gets incorporated into the style of the film if you have to work in smallish rooms in the 18mm to 35mm range (in Super-35) for most wide to medium shots.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There are no standards or rules for focal lengths for establishing wide shots or master shots. If you are outdoors in open space, you can pick the focal length based on the expansion/compression effect you want on objects and the working distance / subject size you want, and the affect on motion, whether lateral or forward/reverse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Indoors, there may be space restrictions that keep you from using longer focal lengths to create a wide shot, if that’s what you wanted to do. Kurosawa, for example, liked longer lenses so would design the set, whether on stage or on location, to have a removable wall to allow him to back up the camera."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are shooting an interior movie on location, you might want to scout with a lens app to figure out what focal lengths you can use to get wide shots and work from there, maybe that gets incorporated into the style of the film if you have to work in smallish rooms in the 18mm to 35mm range (in Super-35) for most wide to medium shots."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/establishing-shots-focal-lengths/#post-214701",
+    "scraped_at": "2026-01-15T13:05:58.283399+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/establishing-shots-focal-lengths/#post-214701",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c7c2b8034a833214e1420b43fecab1d4d22545991e230ce3dc78de5e8c53ff49",
+    "parser_version": "bbpress-v2"
+  }
+}

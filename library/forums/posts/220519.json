@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "220519",
+    "forum_slug": "composition",
+    "topic_slug": "ots-to-close-up-move-closer-or-longer-lens",
+    "parent_post_id": "220511",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Changing a lens versus moving the camera can be more or less fast, there are too many variables to consider but in general, swapping a prime lens to one slightly longer is not hard.\nI’ve been in some situations where the OTS used a longer lens than the CU. For example, if cross-covering where A and B cameras are shooting opposite angles to get both sides of the overs at the same time, it is easier to keep the other camera out of the shot if working on longer lenses from further back. Or maybe you want the foreground shoulder to not get larger in size relative to the person facing the camera so you use a longer lens for that flatter perspective, but in the close-up you want the effect of the lens being physically closer.\nThe other issue is eyelines — if you shoot a close-up with wide-angle lens and want a really tight eyeline, the actor might have to look at the edge of the lens or inside the mattebox rather than the other actor.  In the OTS, they can naturally look at each other. So if you push in for the CU rather than go to a longer lens, you have to consider whether the actor can still see the off-camera actor and if that eyeline is too wide now. I did a movie where the director wanted wider-angle lenses for CUs, like a 28mm or 35mm, but wanted a tight eyeline so the actor had to look at a mark in the lens. It made the scenes more intense… but after four weeks, the main actor complained “for just once on this movie, I’d like to look at the other actor in my close-ups!”",
+  "content_html": "<p>Changing a lens versus moving the camera can be more or less fast, there are too many variables to consider but in general, swapping a prime lens to one slightly longer is not hard.</p>\n<p>I’ve been in some situations where the OTS used a longer lens than the CU. For example, if cross-covering where A and B cameras are shooting opposite angles to get both sides of the overs at the same time, it is easier to keep the other camera out of the shot if working on longer lenses from further back. Or maybe you want the foreground shoulder to not get larger in size relative to the person facing the camera so you use a longer lens for that flatter perspective, but in the close-up you want the effect of the lens being physically closer.</p>\n<p>The other issue is eyelines — if you shoot a close-up with wide-angle lens and want a really tight eyeline, the actor might have to look at the edge of the lens or inside the mattebox rather than the other actor.  In the OTS, they can naturally look at each other. So if you push in for the CU rather than go to a longer lens, you have to consider whether the actor can still see the off-camera actor and if that eyeline is too wide now. I did a movie where the director wanted wider-angle lenses for CUs, like a 28mm or 35mm, but wanted a tight eyeline so the actor had to look at a mark in the lens. It made the scenes more intense… but after four weeks, the main actor complained “for just once on this movie, I’d like to look at the other actor in my close-ups!”</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Changing a lens versus moving the camera can be more or less fast, there are too many variables to consider but in general, swapping a prime lens to one slightly longer is not hard."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve been in some situations where the OTS used a longer lens than the CU. For example, if cross-covering where A and B cameras are shooting opposite angles to get both sides of the overs at the same time, it is easier to keep the other camera out of the shot if working on longer lenses from further back. Or maybe you want the foreground shoulder to not get larger in size relative to the person facing the camera so you use a longer lens for that flatter perspective, but in the close-up you want the effect of the lens being physically closer."
+    },
+    {
+      "type": "paragraph",
+      "text": "The other issue is eyelines — if you shoot a close-up with wide-angle lens and want a really tight eyeline, the actor might have to look at the edge of the lens or inside the mattebox rather than the other actor.  In the OTS, they can naturally look at each other. So if you push in for the CU rather than go to a longer lens, you have to consider whether the actor can still see the off-camera actor and if that eyeline is too wide now. I did a movie where the director wanted wider-angle lenses for CUs, like a 28mm or 35mm, but wanted a tight eyeline so the actor had to look at a mark in the lens. It made the scenes more intense… but after four weeks, the main actor complained “for just once on this movie, I’d like to look at the other actor in my close-ups!”"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ots-to-close-up-move-closer-or-longer-lens/#post-220523",
+    "scraped_at": "2026-01-15T11:50:43.195951+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ots-to-close-up-move-closer-or-longer-lens/#post-220523",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3d8d4f51559737bb0f7ec54ff76b1d45e8fbf42ef1712e3139a21c654cc20139",
+    "parser_version": "bbpress-v2"
+  }
+}

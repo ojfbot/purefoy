@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/fixture-to-set-distance-purely-from-a-falloff-consideration/#post-216922",
+  "forum_slug": "forum",
+  "topic_slug": "fixture-to-set-distance-purely-from-a-falloff-consideration",
+  "title": "Fixture to set distance purely from a falloff consideration",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216893",
+    "216896",
+    "216899",
+    "216903",
+    "216905",
+    "216922"
+  ],
+  "reply_tree": {
+    "post_id": "216893",
+    "post_type": "topic",
+    "author": "Wekblad",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216896",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216899",
+        "post_type": "reply",
+        "author": "Wekblad",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216903",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216905",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216922",
+        "post_type": "reply",
+        "author": "Wekblad",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/fixture-to-set-distance-purely-from-a-falloff-consideration/#post-216922",
+    "scraped_at": "2026-01-15T15:22:30.993586+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/fixture-to-set-distance-purely-from-a-falloff-consideration/#post-216922",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2a75267c71fe419fdd34318c980858cdf53ee03096d6c28e858bae457a208403",
+    "parser_version": "bbpress-v2"
+  }
+}

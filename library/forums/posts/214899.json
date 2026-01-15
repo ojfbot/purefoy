@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214899",
+    "forum_slug": "post",
+    "topic_slug": "bladerunner-2049-vfx-cg-real-miniature-specialeffects",
+    "parent_post_id": "214885",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "sanghamithran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Great Master Roger,\nI’m currently working as a virtual lighting and camera artist in a pre/post production facility, So the seamless movement from Live action to CG amazed me in bladerunner like no other, can you pls share your process in some length on lighting and shooting full CG scenes and compositing scenes that goes for CG background in your films, Rango is one of your finest work and I can’t see it any different than your CG work.\nBut here when I work on shots on films, most cinematographers don’t come much to the house to have control over their CG images and I find it a little depressing as I’ve learned from your Forum and everywhere you had given talks and interviews and Much similar like DP master Greig Fraser on maintaining and protecting the Dop’s work through any method of creating it for the film. wanting to do DP work on my own films is my ultimate aim also, I always hope for Dp’s to come in and do the CG lighting with the technical support of CG artists so it pretty much stays one vision. I try my best to match their live action work with references of live footage.\nMaster Roger can you share your way of working lighting and framing and everything as you do as a live action cinematographer, how that translates to any other form of imagery.\nAlways learning from you Master Roger.\nThank you for your time.",
+  "content_html": "<p>Great Master Roger,</p>\n<ol>\n<li>I’m currently working as a virtual lighting and camera artist in a pre/post production facility, So the seamless movement from Live action to CG amazed me in bladerunner like no other, can you pls share your process in some length on lighting and shooting full CG scenes and compositing scenes that goes for CG background in your films, Rango is one of your finest work and I can’t see it any different than your CG work.</li>\n<li>But here when I work on shots on films, most cinematographers don’t come much to the house to have control over their CG images and I find it a little depressing as I’ve learned from your Forum and everywhere you had given talks and interviews and Much similar like DP master Greig Fraser on maintaining and protecting the Dop’s work through any method of creating it for the film. wanting to do DP work on my own films is my ultimate aim also, I always hope for Dp’s to come in and do the CG lighting with the technical support of CG artists so it pretty much stays one vision. I try my best to match their live action work with references of live footage.</li>\n<li>Master Roger can you share your way of working lighting and framing and everything as you do as a live action cinematographer, how that translates to any other form of imagery.</li>\n<li>Always learning from you Master Roger.</li>\n<li>Thank you for your time.</li>\n</ol>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Great Master Roger,"
+    },
+    {
+      "type": "list",
+      "text": "I’m currently working as a virtual lighting and camera artist in a pre/post production facility, So the seamless movement from Live action to CG amazed me in bladerunner like no other, can you pls share your process in some length on lighting and shooting full CG scenes and compositing scenes that goes for CG background in your films, Rango is one of your finest work and I can’t see it any different than your CG work.\nBut here when I work on shots on films, most cinematographers don’t come much to the house to have control over their CG images and I find it a little depressing as I’ve learned from your Forum and everywhere you had given talks and interviews and Much similar like DP master Greig Fraser on maintaining and protecting the Dop’s work through any method of creating it for the film. wanting to do DP work on my own films is my ultimate aim also, I always hope for Dp’s to come in and do the CG lighting with the technical support of CG artists so it pretty much stays one vision. I try my best to match their live action work with references of live footage.\nMaster Roger can you share your way of working lighting and framing and everything as you do as a live action cinematographer, how that translates to any other form of imagery.\nAlways learning from you Master Roger.\nThank you for your time."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bladerunner-2049-vfx-cg-real-miniature-specialeffects/#post-214900",
+    "scraped_at": "2026-01-15T13:15:59.994423+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bladerunner-2049-vfx-cg-real-miniature-specialeffects/#post-214900",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "43466da836fcfb23de2f42d1f072420cc2c3aef3a99d866b1a82b2ba9a3562b6",
+    "parser_version": "bbpress-v2"
+  }
+}

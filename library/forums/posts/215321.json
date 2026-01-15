@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215321",
+    "forum_slug": "camera",
+    "topic_slug": "zoom-in-vs-dolly-pushing",
+    "parent_post_id": "215307",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Without entering to stylistic and fashions trends, to me the difference between a dolly push in or a zoom in is on the dolly you take the audience and bring it closer to the character you are pushing in and with the zoom in you are isolating the character from his surroundings.\nBut push ins have been used for isolate characters too and zoom ins to give us closeness to the character we zoom in.\nThere is no proper or a single way to tell something. That’s what is great about what we do!",
+  "content_html": "<p>Without entering to stylistic and fashions trends, to me the difference between a dolly push in or a zoom in is on the dolly you take the audience and bring it closer to the character you are pushing in and with the zoom in you are isolating the character from his surroundings.<br/>\nBut push ins have been used for isolate characters too and zoom ins to give us closeness to the character we zoom in.<br/>\nThere is no proper or a single way to tell something. That’s what is great about what we do!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Without entering to stylistic and fashions trends, to me the difference between a dolly push in or a zoom in is on the dolly you take the audience and bring it closer to the character you are pushing in and with the zoom in you are isolating the character from his surroundings.\nBut push ins have been used for isolate characters too and zoom ins to give us closeness to the character we zoom in.\nThere is no proper or a single way to tell something. That’s what is great about what we do!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+    "scraped_at": "2026-01-15T15:22:12.537463+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8e47be261ff13e6ff907e8572ac05f35458e79e5c61923699197a89ed577da3d",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "216423",
+    "forum_slug": "forum",
+    "topic_slug": "colored-light"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "caiyichenweg",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello, Roger, and all the friends in the forum! I’d like to hear your views on colored light. In my impression, it seems that colored light seldom appears in Roger’s films, except for the science – fiction colored light in “Blade Runner”. When I was watching an interview with Storaro, he emphasized the importance of color for a film, such as his “Wonder Wheel” in recent years and the well – known “The Last Emperor”. There are also works of other cinematographers, like “deserto rosso”. However, it seems that Mr. Deakins seldom mentions the element of color. You also seem to like black – and – white tones very much. I know that in many cases, improper use of color can be a distraction for the viewers. In your films, are there any colors and colored lights that you deliberately set, or is it that in most of your films, the color elements are the responsibility of the art department and the director? Or do you hope that the colors can be closer to life and more natural? I’m really eager to hear Roger’s and everyone’s views on color.",
+  "content_html": "<p>Hello, Roger, and all the friends in the forum! I’d like to hear your views on colored light. In my impression, it seems that colored light seldom appears in Roger’s films, except for the science – fiction colored light in “Blade Runner”. When I was watching an interview with Storaro, he emphasized the importance of color for a film, such as his “Wonder Wheel” in recent years and the well – known “The Last Emperor”. There are also works of other cinematographers, like “deserto rosso”. However, it seems that Mr. Deakins seldom mentions the element of color. You also seem to like black – and – white tones very much. I know that in many cases, improper use of color can be a distraction for the viewers. In your films, are there any colors and colored lights that you deliberately set, or is it that in most of your films, the color elements are the responsibility of the art department and the director? Or do you hope that the colors can be closer to life and more natural? I’m really eager to hear Roger’s and everyone’s views on color.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello, Roger, and all the friends in the forum! I’d like to hear your views on colored light. In my impression, it seems that colored light seldom appears in Roger’s films, except for the science – fiction colored light in “Blade Runner”. When I was watching an interview with Storaro, he emphasized the importance of color for a film, such as his “Wonder Wheel” in recent years and the well – known “The Last Emperor”. There are also works of other cinematographers, like “deserto rosso”. However, it seems that Mr. Deakins seldom mentions the element of color. You also seem to like black – and – white tones very much. I know that in many cases, improper use of color can be a distraction for the viewers. In your films, are there any colors and colored lights that you deliberately set, or is it that in most of your films, the color elements are the responsibility of the art department and the director? Or do you hope that the colors can be closer to life and more natural? I’m really eager to hear Roger’s and everyone’s views on color."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/colored-light/#post-216427",
+    "scraped_at": "2026-01-15T15:25:07.228623+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/colored-light/#post-216427",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e39a1530703ab08ecc26e069f62de66cf3ae72b8339dfe6173f0f6237b8a2505",
+    "parser_version": "bbpress-v2"
+  }
+}

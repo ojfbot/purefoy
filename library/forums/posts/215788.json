@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215788",
+    "forum_slug": "camera",
+    "topic_slug": "bw-photography",
+    "parent_post_id": "215786",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I do prefer my still photos in B&W. Sometimes I use a color camera and sometimes a monochrome camera. I wouldn’t say I am looking at the light differently either way. Something just seems worthy of a photograph or it doesn’t.\nSo many great photographers. Some seem more interested in the light and composition than making a comment on society, others are all about the subject. Bill Brandt took images that varied wildly from one to another.\nThe photographers that inspire me are usually those that reveal something of themselves. You see their personality in their images.",
+  "content_html": "<p>I do prefer my still photos in B&amp;W. Sometimes I use a color camera and sometimes a monochrome camera. I wouldn’t say I am looking at the light differently either way. Something just seems worthy of a photograph or it doesn’t.</p>\n<p>So many great photographers. Some seem more interested in the light and composition than making a comment on society, others are all about the subject. Bill Brandt took images that varied wildly from one to another.</p>\n<p>The photographers that inspire me are usually those that reveal something of themselves. You see their personality in their images.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I do prefer my still photos in B&W. Sometimes I use a color camera and sometimes a monochrome camera. I wouldn’t say I am looking at the light differently either way. Something just seems worthy of a photograph or it doesn’t."
+    },
+    {
+      "type": "paragraph",
+      "text": "So many great photographers. Some seem more interested in the light and composition than making a comment on society, others are all about the subject. Bill Brandt took images that varied wildly from one to another."
+    },
+    {
+      "type": "paragraph",
+      "text": "The photographers that inspire me are usually those that reveal something of themselves. You see their personality in their images."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bw-photography/#post-215788",
+    "scraped_at": "2026-01-15T15:21:09.467199+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bw-photography/#post-215788",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b8865c7c7bc491dfd6f88feea708c36cd0724fd6464ab625f30d72aa3549766c",
+    "parser_version": "bbpress-v2"
+  }
+}

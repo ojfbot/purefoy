@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215975",
+    "forum_slug": "forum",
+    "topic_slug": "meter-reading-on-overcast-days",
+    "parent_post_id": "215925",
+    "parent_type": "topic",
+    "position": 11
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I like that the Gossen shows you the range of your exposure in a simple analogue readout. I have a digital Gossen but can’t get used to it.\nBTW. Yes I was pulling stop on many occasions during shooting 1917. On many, many occasions.",
+  "content_html": "<p>I like that the Gossen shows you the range of your exposure in a simple analogue readout. I have a digital Gossen but can’t get used to it.</p>\n<p>BTW. Yes I was pulling stop on many occasions during shooting 1917. On many, many occasions.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I like that the Gossen shows you the range of your exposure in a simple analogue readout. I have a digital Gossen but can’t get used to it."
+    },
+    {
+      "type": "paragraph",
+      "text": "BTW. Yes I was pulling stop on many occasions during shooting 1917. On many, many occasions."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/#post-215975",
+    "scraped_at": "2026-01-15T15:43:02.750330+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/#post-215975",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "85432bb845a03f88674f73ac1523bea3835f7f1256b691f325b51135a7f7534b",
+    "parser_version": "bbpress-v2"
+  }
+}

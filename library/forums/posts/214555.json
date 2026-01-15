@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214555",
+    "forum_slug": "film-talk",
+    "topic_slug": "sicario",
+    "parent_post_id": "214551",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Ganesh vengatesh where did you study film language. You love ‘sicario’ film and also you are point out the mistakes like child. You don’t know what you are talking about. The film language is very impressive. Editing also very good. First you have to learn film language. Don’t ask silly questions. You are wasting your time and precious maestro Roger times also.",
+  "content_html": "<p>Ganesh vengatesh where did you study film language. You love ‘sicario’ film and also you are point out the mistakes like child. You don’t know what you are talking about. The film language is very impressive. Editing also very good. First you have to learn film language. Don’t ask silly questions. You are wasting your time and precious maestro Roger times also.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Ganesh vengatesh where did you study film language. You love ‘sicario’ film and also you are point out the mistakes like child. You don’t know what you are talking about. The film language is very impressive. Editing also very good. First you have to learn film language. Don’t ask silly questions. You are wasting your time and precious maestro Roger times also."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario/#post-214745",
+    "scraped_at": "2026-01-15T14:13:29.619287+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario/#post-214745",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "040be3401e1985cb5aaa58f22c9d42bb1d1371fc80098b267d44c30bed11cff8",
+    "parser_version": "bbpress-v2"
+  }
+}

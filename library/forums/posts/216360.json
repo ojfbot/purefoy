@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216360",
+    "forum_slug": "camera",
+    "topic_slug": "geared-head-vs-fluid-head",
+    "parent_post_id": "216341",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Hongqi",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Got it, it makes sense to use a geared head for specific camera moves.\nBut how is a fluid head beneficial when it comes to operating the camera when shooting exterior scenes, and specifically with only longer lenses?\nThank you!",
+  "content_html": "<p>Got it, it makes sense to use a geared head for specific camera moves.</p>\n<p>But how is a fluid head beneficial when it comes to operating the camera when shooting exterior scenes, and specifically with only longer lenses?</p>\n<p>Thank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Got it, it makes sense to use a geared head for specific camera moves."
+    },
+    {
+      "type": "paragraph",
+      "text": "But how is a fluid head beneficial when it comes to operating the camera when shooting exterior scenes, and specifically with only longer lenses?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/geared-head-vs-fluid-head/#post-216617",
+    "scraped_at": "2026-01-15T13:40:00.513619+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/geared-head-vs-fluid-head/#post-216617",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "835f4a0c9ed89451ba56d512822628118b35c7d9b56245f5f75cbe888c8c7724",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "post_id": "217447",
+    "forum_slug": "forum",
+    "topic_slug": "combining-point-sources"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "RoberttorresDP",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Roger and forum members!\nI was wondering if anyone knows the effect of clustering 1200Ds, or similar sources, to create one large point source light without multiple shadows.\nWe are shooting on the second floor of an old barn, that has slats where light can punch through, ideally we want rays of light shining through as the sun and haze illuminating the rays as a backlight to the talent.\nIdeally I would put a 12k or 18k tungsten fresnel outside of the space on a condor.  However due to budget constraints I don’t believe this would be possible.  The main problem is that we are shooting on the second floor of a barn, so without a condor any light would have to go on top of a matthews mambo combo at 24 feet, which would have to be a much smaller light than a 12k, physically.  Unfortunately a long john stand will be slightly too short and would end up too head-on.\nThus, I was thinking a lighter light such as a 1200D would work on the mambo stand.  However, that light would not be bright enough.  So, I was thinking of clustering 3 or 4 of them together to create one large point source, but I am worried about having multiple shadows in the barn.\nDo you think clustering these lights would lead to multiple shadows, or is there maybe a different solution here?\nBest,\nRobert",
+  "content_html": "<p>Hello Roger and forum members!</p>\n<p>I was wondering if anyone knows the effect of clustering 1200Ds, or similar sources, to create one large point source light without multiple shadows.</p>\n<p>We are shooting on the second floor of an old barn, that has slats where light can punch through, ideally we want rays of light shining through as the sun and haze illuminating the rays as a backlight to the talent.</p>\n<p>Ideally I would put a 12k or 18k tungsten fresnel outside of the space on a condor.  However due to budget constraints I don’t believe this would be possible.  The main problem is that we are shooting on the second floor of a barn, so without a condor any light would have to go on top of a matthews mambo combo at 24 feet, which would have to be a much smaller light than a 12k, physically.  Unfortunately a long john stand will be slightly too short and would end up too head-on.</p>\n<p>Thus, I was thinking a lighter light such as a 1200D would work on the mambo stand.  However, that light would not be bright enough.  So, I was thinking of clustering 3 or 4 of them together to create one large point source, but I am worried about having multiple shadows in the barn.</p>\n<p>Do you think clustering these lights would lead to multiple shadows, or is there maybe a different solution here?</p>\n<p>Best,</p>\n<p>Robert</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Roger and forum members!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was wondering if anyone knows the effect of clustering 1200Ds, or similar sources, to create one large point source light without multiple shadows."
+    },
+    {
+      "type": "paragraph",
+      "text": "We are shooting on the second floor of an old barn, that has slats where light can punch through, ideally we want rays of light shining through as the sun and haze illuminating the rays as a backlight to the talent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ideally I would put a 12k or 18k tungsten fresnel outside of the space on a condor.  However due to budget constraints I don’t believe this would be possible.  The main problem is that we are shooting on the second floor of a barn, so without a condor any light would have to go on top of a matthews mambo combo at 24 feet, which would have to be a much smaller light than a 12k, physically.  Unfortunately a long john stand will be slightly too short and would end up too head-on."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thus, I was thinking a lighter light such as a 1200D would work on the mambo stand.  However, that light would not be bright enough.  So, I was thinking of clustering 3 or 4 of them together to create one large point source, but I am worried about having multiple shadows in the barn."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you think clustering these lights would lead to multiple shadows, or is there maybe a different solution here?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Best,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/combining-point-sources/#post-217481",
+    "scraped_at": "2026-01-15T15:20:39.668138+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/combining-point-sources/#post-217481",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7891fff59a6ac675a33bad5fff10c37160c1190707d293251ebb20a6e31ee2b8",
+    "parser_version": "bbpress-v2"
+  }
+}

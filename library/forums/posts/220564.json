@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "220564",
+    "forum_slug": "forum",
+    "topic_slug": "questions-reg-true-grit-greaser-bobs-lighting-breakdown",
+    "parent_post_id": "220562",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Wolfgang Illmayr",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for the explanation, that really clears it up for me.\nAlso, if you change the lighting when you move in closer, it’s obviously possible to clean up the shadows — I hadn’t thought of that. Maybe one more question: is it really possible to calculate how to set up the lamps to minimize the shadow issue (perhaps based on the spread and fall-off of the lamps?), or is this something you usually figure out through experience?",
+  "content_html": "<p>Thank you for the explanation, that really clears it up for me.</p>\n<p>Also, if you change the lighting when you move in closer, it’s obviously possible to clean up the shadows — I hadn’t thought of that. Maybe one more question: is it really possible to calculate how to set up the lamps to minimize the shadow issue (perhaps based on the spread and fall-off of the lamps?), or is this something you usually figure out through experience?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for the explanation, that really clears it up for me."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, if you change the lighting when you move in closer, it’s obviously possible to clean up the shadows — I hadn’t thought of that. Maybe one more question: is it really possible to calculate how to set up the lamps to minimize the shadow issue (perhaps based on the spread and fall-off of the lamps?), or is this something you usually figure out through experience?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/questions-reg-true-grit-greaser-bobs-lighting-breakdown/#post-220566",
+    "scraped_at": "2026-01-15T13:23:29.850721+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/questions-reg-true-grit-greaser-bobs-lighting-breakdown/#post-220566",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b37af9e939c070805db29b39e7c47bdc185e849291c8309a8d8b09df02259d0a",
+    "parser_version": "bbpress-v2"
+  }
+}

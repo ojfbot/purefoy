@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "219209",
+    "forum_slug": "forum",
+    "topic_slug": "blade-runner-eyeball",
+    "parent_post_id": "196026",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "FriendlyEagle",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "do y’all think there would be a market for a lens hood that had lighting and the 45degree glass built in (outside of numismatic photography)?\nhttps://www.youtube.com/@FriendlyEagle7",
+  "content_html": "<p>do y’all think there would be a market for a lens hood that had lighting and the 45degree glass built in (outside of numismatic photography)?</p>\n<div class=\"bbp-signature\"><p>https://www.youtube.com/@FriendlyEagle7</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "do y’all think there would be a market for a lens hood that had lighting and the 45degree glass built in (outside of numismatic photography)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://www.youtube.com/@FriendlyEagle7"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.youtube.com/@FriendlyEagle7",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/blade-runner-eyeball/#post-219209",
+    "scraped_at": "2026-01-15T14:33:21.763155+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/blade-runner-eyeball/#post-219209",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8c055e88ed98919a7f263c9bd367d46190e1621bf7dc820da8da6fe5e27eebde",
+    "parser_version": "bbpress-v2"
+  }
+}

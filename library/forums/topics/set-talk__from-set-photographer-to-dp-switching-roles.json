@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/from-set-photographer-to-dp-switching-roles/",
+  "forum_slug": "set-talk",
+  "topic_slug": "from-set-photographer-to-dp-switching-roles",
+  "title": "From Set photographer to DP ? (switching roles)",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215811"
+  ],
+  "reply_tree": {
+    "post_id": "215811",
+    "post_type": "topic",
+    "author": "NicolasLabra",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/from-set-photographer-to-dp-switching-roles/",
+    "scraped_at": "2026-01-15T12:49:03.244250+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/from-set-photographer-to-dp-switching-roles/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c3a6e2a9552478738d921e636ce659ac90695e5f795824eb1facda03fe8703a3",
+    "parser_version": "bbpress-v2"
+  }
+}

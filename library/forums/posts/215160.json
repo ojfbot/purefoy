@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215160",
+    "forum_slug": "forum",
+    "topic_slug": "contrast-ratio",
+    "parent_post_id": "215132",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks to you all for your replies, you all gave me interesting things to reflect upon! I see the risk of giving more importance to the math than to the image. Perhaps it seems an interesting aspect to me because i have no experience and i think that at the beginnings (no matter in which field)  “magic formulas” seems a very useful tool to look for. And besides that i’m a science and maths teacher and so i really love formulas, ah ah.\nFrom your comments it seems to me that (in my particular case) contrast ratio could be the starting point to set the scene and not the final step, since i think it could give me an approximate idea of how to begin to light the scene.\nAbout the second part (keeping the ratio or adapting to the scenes) i am trying to study movies i like to see what choices they made. What i hope to achieve is to avoid both a boring homogeneity of the images and a messy variety of them and find the right balance. Which at the moment looks like a very complicated achievement to obtain, ah ah!",
+  "content_html": "<p>Thanks to you all for your replies, you all gave me interesting things to reflect upon! I see the risk of giving more importance to the math than to the image. Perhaps it seems an interesting aspect to me because i have no experience and i think that at the beginnings (no matter in which field)  “magic formulas” seems a very useful tool to look for. And besides that i’m a science and maths teacher and so i really love formulas, ah ah.<br/>\nFrom your comments it seems to me that (in my particular case) contrast ratio could be the starting point to set the scene and not the final step, since i think it could give me an approximate idea of how to begin to light the scene.</p>\n<p>About the second part (keeping the ratio or adapting to the scenes) i am trying to study movies i like to see what choices they made. What i hope to achieve is to avoid both a boring homogeneity of the images and a messy variety of them and find the right balance. Which at the moment looks like a very complicated achievement to obtain, ah ah!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks to you all for your replies, you all gave me interesting things to reflect upon! I see the risk of giving more importance to the math than to the image. Perhaps it seems an interesting aspect to me because i have no experience and i think that at the beginnings (no matter in which field)  “magic formulas” seems a very useful tool to look for. And besides that i’m a science and maths teacher and so i really love formulas, ah ah.\nFrom your comments it seems to me that (in my particular case) contrast ratio could be the starting point to set the scene and not the final step, since i think it could give me an approximate idea of how to begin to light the scene."
+    },
+    {
+      "type": "paragraph",
+      "text": "About the second part (keeping the ratio or adapting to the scenes) i am trying to study movies i like to see what choices they made. What i hope to achieve is to avoid both a boring homogeneity of the images and a messy variety of them and find the right balance. Which at the moment looks like a very complicated achievement to obtain, ah ah!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio/#post-215259",
+    "scraped_at": "2026-01-15T15:48:00.002931+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio/#post-215259",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7c4c547b9786c503abe563da8291336edfcb5c1a8e8df1b49d5df85abd732371",
+    "parser_version": "bbpress-v2"
+  }
+}

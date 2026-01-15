@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214661",
+    "forum_slug": "still-photography",
+    "topic_slug": "huge-thanks-to-roger",
+    "parent_post_id": "214585",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Now you can start prepping for your next project.\nTeam up with others who share your passion.  Wish you lots of luck.",
+  "content_html": "<p>Now you can start prepping for your next project.</p>\n<p>Team up with others who share your passion.  Wish you lots of luck.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Now you can start prepping for your next project."
+    },
+    {
+      "type": "paragraph",
+      "text": "Team up with others who share your passion.  Wish you lots of luck."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/huge-thanks-to-roger/#post-214661",
+    "scraped_at": "2026-01-15T12:48:56.559501+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/huge-thanks-to-roger/#post-214661",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fa1c1ba9c51172004876fa79d4f91eebca60899f63e87afe839799970fd5762e",
+    "parser_version": "bbpress-v2"
+  }
+}

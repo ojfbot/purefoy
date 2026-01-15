@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "197605",
+    "forum_slug": "film-talk",
+    "topic_slug": "tar"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "lucyxiao623",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Master Roger,\nI hope you’re doing well. I was wondering if you have seen Todd Field’s TÁR shot by Florian Hoffmeister. I was really blown away by it and there are quite a few impressive shots (especially the Julliard scene) to say the least. Curious about what you thought about the movie (cinematography and/or overall)! Thank you so much!",
+  "content_html": "<p>Hi Master Roger,</p>\n<p>I hope you’re doing well. I was wondering if you have seen Todd Field’s TÁR shot by Florian Hoffmeister. I was really blown away by it and there are quite a few impressive shots (especially the Julliard scene) to say the least. Curious about what you thought about the movie (cinematography and/or overall)! Thank you so much!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Master Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope you’re doing well. I was wondering if you have seen Todd Field’s TÁR shot by Florian Hoffmeister. I was really blown away by it and there are quite a few impressive shots (especially the Julliard scene) to say the least. Curious about what you thought about the movie (cinematography and/or overall)! Thank you so much!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/tar/",
+    "scraped_at": "2026-01-15T14:17:08.950830+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/tar/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ffdc29a821e79128c1e04d3d71a0bc1c9751bced366e804b94052d1b6c5eb0b6",
+    "parser_version": "bbpress-v2"
+  }
+}

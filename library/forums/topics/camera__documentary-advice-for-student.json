@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/documentary-advice-for-student/#post-215184",
+  "forum_slug": "camera",
+  "topic_slug": "documentary-advice-for-student",
+  "title": "Documentary Advice for Student",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215167",
+    "215168",
+    "215180",
+    "215181",
+    "215184"
+  ],
+  "reply_tree": {
+    "post_id": "215167",
+    "post_type": "topic",
+    "author": "Tom. G",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215168",
+        "post_type": "reply",
+        "author": "orsini1138",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215180",
+        "post_type": "reply",
+        "author": "Tom. G",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215181",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215184",
+        "post_type": "reply",
+        "author": "Tom. G",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/documentary-advice-for-student/#post-215184",
+    "scraped_at": "2026-01-15T15:23:00.585644+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/documentary-advice-for-student/#post-215184",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8b45a0f2e5a40afe1c87675e90cbdfacc1cbcc1f6139066827bfe3c609b6e54e",
+    "parser_version": "bbpress-v2"
+  }
+}

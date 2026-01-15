@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "post_id": "215522",
+    "forum_slug": "forum",
+    "topic_slug": "faking-a-dusk-look-during-daytime"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "aidanbrook",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey guys !\nJust looking for some advice on an upcoming student film I’m shooting. It’s an 8 page script, that all takes place outside a community hall during dusk. It’s a single conversation, all in real time. We have the budget for a 2-3 day shoot, and the director is very adamant on shooting during dusk/close to blue hour, however the producer made it clear that’s unrealistic, due to lack of time.\nSo, it’s my job to try and fake the look during the day. How do DoPs usually deal with shooting a long EXT. sequence like this, that doesn’t involve scheduling for the 1hr of accurate light everyday?  Luckily, where we’re shooting in the UK it’s often overcast, providing a nice, soft source which is what we want. I’m just worried about the colour being convincing, as I don’t want to leave it to the colourist. I was just wondering if anyone had any advice for dealing with this situation? I’m not sure whether it’d be best achieved through white balancing the camera, using filters, or just grading it.\nI’ll attach some stills of what we’re hoping to achieve.\nThanks in advance ! I’d appreciate any advice, including any issues you think we might run into.\n1",
+  "content_html": "<p>Hey guys !</p>\n<p>Just looking for some advice on an upcoming student film I’m shooting. It’s an 8 page script, that all takes place outside a community hall during dusk. It’s a single conversation, all in real time. We have the budget for a 2-3 day shoot, and the director is very adamant on shooting during dusk/close to blue hour, however the producer made it clear that’s unrealistic, due to lack of time.</p>\n<p>So, it’s my job to try and fake the look during the day. How do DoPs usually deal with shooting a long EXT. sequence like this, that doesn’t involve scheduling for the 1hr of accurate light everyday?  Luckily, where we’re shooting in the UK it’s often overcast, providing a nice, soft source which is what we want. I’m just worried about the colour being convincing, as I don’t want to leave it to the colourist. I was just wondering if anyone had any advice for dealing with this situation? I’m not sure whether it’d be best achieved through white balancing the camera, using filters, or just grading it.</p>\n<p>I’ll attach some stills of what we’re hoping to achieve.</p>\n<p>Thanks in advance ! I’d appreciate any advice, including any issues you think we might run into.</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://shotdeck.com/browse/recordviewajax/image/9VYRMV3H/viewtype/full-size/show/1\"/></p>\n<p>1<img alt=\"\" decoding=\"async\" src=\"https://shotdeck.com/browse/recordviewajax/image/ZKSNK1NM/viewtype/full-size/show/1\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey guys !"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just looking for some advice on an upcoming student film I’m shooting. It’s an 8 page script, that all takes place outside a community hall during dusk. It’s a single conversation, all in real time. We have the budget for a 2-3 day shoot, and the director is very adamant on shooting during dusk/close to blue hour, however the producer made it clear that’s unrealistic, due to lack of time."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, it’s my job to try and fake the look during the day. How do DoPs usually deal with shooting a long EXT. sequence like this, that doesn’t involve scheduling for the 1hr of accurate light everyday?  Luckily, where we’re shooting in the UK it’s often overcast, providing a nice, soft source which is what we want. I’m just worried about the colour being convincing, as I don’t want to leave it to the colourist. I was just wondering if anyone had any advice for dealing with this situation? I’m not sure whether it’d be best achieved through white balancing the camera, using filters, or just grading it."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ll attach some stills of what we’re hoping to achieve."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks in advance ! I’d appreciate any advice, including any issues you think we might run into."
+    },
+    {
+      "type": "paragraph",
+      "text": "1"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://shotdeck.com/browse/recordviewajax/image/9VYRMV3H/viewtype/full-size/show/1",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://shotdeck.com/browse/recordviewajax/image/ZKSNK1NM/viewtype/full-size/show/1",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/faking-a-dusk-look-during-daytime/#post-215536",
+    "scraped_at": "2026-01-15T15:46:35.578473+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/faking-a-dusk-look-during-daytime/#post-215536",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8991f351732c5f79fc98569fa918bb73634297c658055ca768e3be9aaf66045a",
+    "parser_version": "bbpress-v2"
+  }
+}

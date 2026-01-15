@@ -1,0 +1,90 @@
+{
+  "article_id": "bladerunner-ks-apt-int",
+  "film_slug": "bladerunner-ks-apt",
+  "article_slug": "bladerunner-ks-apt-int",
+  "title": "ROGER DEAKINS - Looking at lighting - Bladerunner 2049 - Int K's Apt",
+  "author": "James",
+  "published_date": "2018-04-29T08:18:06-07:00",
+  "modified_date": "2018-04-29T08:18:06-07:00",
+  "description": "Looking at Lighting - Roger Deakins examines the lighting schemes for the interior of K's apartment in the film \"Bladerunner 2049\". He illustrates this with original lighting plans and images. Further questions will be answered in the forum area of the website. This is a \"members only\" page - log onto the site to view.",
+  "featured_image": "https://www.rogerdeakins.com/wp-content/uploads/2018/04/OverKtoJoi.jpg",
+  "content_length": 4021,
+  "images_count": 6,
+  "links_count": 67,
+  "tags": [],
+  "categories": [],
+  "images": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2018/04/OverKtoJoi.jpg",
+      "alt": "Over K onto Joi",
+      "caption": "Bladerunner 2049 \u2013 Alcon Entertainment",
+      "width": 600,
+      "height": 240,
+      "srcset": "https://www.rogerdeakins.com/wp-content/uploads/2018/04/OverKtoJoi.jpg 600w, https://www.rogerdeakins.com/wp-content/uploads/2018/04/OverKtoJoi-300x120.jpg 300w"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2018/04/Joi-KApt.jpg",
+      "alt": "Joi in K's Apt",
+      "caption": "Joi in K\u2019s Apt",
+      "width": 600,
+      "height": 248,
+      "srcset": "https://www.rogerdeakins.com/wp-content/uploads/2018/04/Joi-KApt.jpg 600w, https://www.rogerdeakins.com/wp-content/uploads/2018/04/Joi-KApt-300x124.jpg 300w"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2018/04/KByWindow.jpg",
+      "alt": "View to the outside buildings",
+      "caption": "View to the outside buildings",
+      "width": 600,
+      "height": 253,
+      "srcset": "https://www.rogerdeakins.com/wp-content/uploads/2018/04/KByWindow.jpg 600w, https://www.rogerdeakins.com/wp-content/uploads/2018/04/KByWindow-300x127.jpg 300w"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2018/04/K-Apt.-DAY-section-2-LP.jpg",
+      "alt": "Day lighting plan",
+      "caption": "Day lighting plan",
+      "width": 600,
+      "height": 295,
+      "srcset": "https://www.rogerdeakins.com/wp-content/uploads/2018/04/K-Apt.-DAY-section-2-LP.jpg 600w, https://www.rogerdeakins.com/wp-content/uploads/2018/04/K-Apt.-DAY-section-2-LP-300x148.jpg 300w"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2018/04/K-Apt.-NIGHT-section-LP.jpg",
+      "alt": "K's Apt - Night - section lighting plan",
+      "caption": "K\u2019s Apt \u2013 Night \u2013 section lighting plan",
+      "width": 600,
+      "height": 322,
+      "srcset": "https://www.rogerdeakins.com/wp-content/uploads/2018/04/K-Apt.-NIGHT-section-LP.jpg 600w, https://www.rogerdeakins.com/wp-content/uploads/2018/04/K-Apt.-NIGHT-section-LP-300x161.jpg 300w"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/lighting/",
+      "text": "True Grit - Courtroom",
+      "title": null,
+      "is_internal": true
+    },
+    {
+      "href": "https://www.rogerdeakins.com/looking-at-lighting-january/",
+      "text": "True Grit - Greaser Bob's",
+      "title": null,
+      "is_internal": true
+    },
+    {
+      "href": "https://www.rogerdeakins.com/unbroken-ship-and-restaurant/",
+      "text": "Unbroken - Ship and Restaurant",
+      "title": null,
+      "is_internal": true
+    },
+    {
+      "href": "https://www.rogerdeakins.com/looking-at-lighting-omari/",
+      "text": "Unbroken - Omari Night",
+      "title": null,
+      "is_internal": true
+    },
+    {
+      "href": "https://www.rogerdeakins.com/looking-at-lighting-unbroken-plane/",
+      "text": "Unbroken - Plane",
+      "title": null,
+      "is_internal": true
+    }
+  ]
+}

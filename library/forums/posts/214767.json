@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214767",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 14
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Davinki",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello, what would you say is a good rule of thumb is for assembling a cove light setup in regards to the number of lights, the intensity of those lights, and the size of the fabric?",
+  "content_html": "<p>Hello, what would you say is a good rule of thumb is for assembling a cove light setup in regards to the number of lights, the intensity of those lights, and the size of the fabric?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello, what would you say is a good rule of thumb is for assembling a cove light setup in regards to the number of lights, the intensity of those lights, and the size of the fabric?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+    "scraped_at": "2026-01-15T15:51:24.797739+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ce0eb8ba07a8b655ed2d5311f943fb88980c542e971e8057f38123123278c189",
+    "parser_version": "bbpress-v2"
+  }
+}

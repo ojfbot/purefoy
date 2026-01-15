@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214802",
+    "forum_slug": "forum",
+    "topic_slug": "james-scares-me-when-she-talks-about-sloppy-exposure",
+    "parent_post_id": "214799",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A tip would be to shoot and then edit it yourself.\nOne thing you’ll learn about for example is (in-) consistency between shots of a scene. How much of it is still fine for post (minor exposure shifts to glue a scene together are common), how much is too much and where the devil is hidden (e.g. color temperature or tint changes).\nIt’s a good idea to always try to get it as close as possible in-camera, but it’s hard to do perfectly and there is a certain wiggle room, and to know that wiggle room can give you more confidence on set.",
+  "content_html": "<p>A tip would be to shoot and then edit it yourself.</p>\n<p>One thing you’ll learn about for example is (in-) consistency between shots of a scene. How much of it is still fine for post (minor exposure shifts to glue a scene together are common), how much is too much and where the devil is hidden (e.g. color temperature or tint changes).</p>\n<p>It’s a good idea to always try to get it as close as possible in-camera, but it’s hard to do perfectly and there is a certain wiggle room, and to know that wiggle room can give you more confidence on set.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A tip would be to shoot and then edit it yourself."
+    },
+    {
+      "type": "paragraph",
+      "text": "One thing you’ll learn about for example is (in-) consistency between shots of a scene. How much of it is still fine for post (minor exposure shifts to glue a scene together are common), how much is too much and where the devil is hidden (e.g. color temperature or tint changes)."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s a good idea to always try to get it as close as possible in-camera, but it’s hard to do perfectly and there is a certain wiggle room, and to know that wiggle room can give you more confidence on set."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/james-scares-me-when-she-talks-about-sloppy-exposure/#post-214832",
+    "scraped_at": "2026-01-15T15:51:06.347869+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/james-scares-me-when-she-talks-about-sloppy-exposure/#post-214832",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c9a076cf46de3dc5c30f938ab959b80da1be0b29efc7f11a79453d86c4435444",
+    "parser_version": "bbpress-v2"
+  }
+}

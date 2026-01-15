@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "215656",
+    "forum_slug": "camera",
+    "topic_slug": "exposure",
+    "parent_post_id": "215560",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "For example in this shot where would be the right point to read the light meter? I suppose the goal of the shot was to preserve the details in the shadows to make the actor still visible without overexposing everything else, so my guessing is that i should read it by the actor and dim the light in the background in a way that what is under the key light is not completely overexposed…is it correct (or at least not too far from the solution, ah ah!)",
+  "content_html": "<p>For example in this shot where would be the right point to read the light meter? I suppose the goal of the shot was to preserve the details in the shadows to make the actor still visible without overexposing everything else, so my guessing is that i should read it by the actor and dim the light in the background in a way that what is under the key light is not completely overexposed…is it correct (or at least not too far from the solution, ah ah!)</p>\n<p><img alt=\"no country\" decoding=\"async\" height=\"217\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215656/nst4p7v7wfa8h6wwqlydxuwaeeufe8bc.jpg\" width=\"386\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "For example in this shot where would be the right point to read the light meter? I suppose the goal of the shot was to preserve the details in the shadows to make the actor still visible without overexposing everything else, so my guessing is that i should read it by the actor and dim the light in the background in a way that what is under the key light is not completely overexposed…is it correct (or at least not too far from the solution, ah ah!)"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215656/nst4p7v7wfa8h6wwqlydxuwaeeufe8bc.jpg",
+      "alt": "no country",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+    "scraped_at": "2026-01-15T15:20:45.307236+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5a7650cdb6aa5985476e7a3c6e895254491feaa3b2c8ade7105b87f553affec1",
+    "parser_version": "bbpress-v2"
+  }
+}

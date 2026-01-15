@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220473",
+    "forum_slug": "post",
+    "topic_slug": "about-show-luts-and-daily-timing",
+    "parent_post_id": "220470",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Not sure what the difference is between a “show” LUT versus a “look” LUT unless a look LUT refers to things in post like a Vision 2383 print LUT as a base for correction so you don’t work outside of the color gamut that print stock can create.",
+  "content_html": "<p>Not sure what the difference is between a “show” LUT versus a “look” LUT unless a look LUT refers to things in post like a Vision 2383 print LUT as a base for correction so you don’t work outside of the color gamut that print stock can create.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Not sure what the difference is between a “show” LUT versus a “look” LUT unless a look LUT refers to things in post like a Vision 2383 print LUT as a base for correction so you don’t work outside of the color gamut that print stock can create."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-show-luts-and-daily-timing/#post-220503",
+    "scraped_at": "2026-01-15T13:23:44.325168+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-show-luts-and-daily-timing/#post-220503",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e7ef3adb8ce9eed9db5917e0666ef1ade7b59de3cba934578319789fbbb8cb91",
+    "parser_version": "bbpress-v2"
+  }
+}

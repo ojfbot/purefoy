@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214514",
+    "forum_slug": "camera",
+    "topic_slug": "focal-lengths",
+    "parent_post_id": "214488",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Tyler F",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I imagine with is spekaing for S35 format",
+  "content_html": "<p>I imagine with is spekaing for S35 format</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I imagine with is spekaing for S35 format"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/focal-lengths/#post-214517",
+    "scraped_at": "2026-01-15T15:26:01.413497+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/focal-lengths/#post-214517",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4cc9b1e20f72bef4fc6a5df6fa4b30cd9d9dc2f7da80d712c19d002d3ac6783b",
+    "parser_version": "bbpress-v2"
+  }
+}

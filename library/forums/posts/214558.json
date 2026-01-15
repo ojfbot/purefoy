@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214558",
+    "forum_slug": "film-talk",
+    "topic_slug": "sicario",
+    "parent_post_id": "214551",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Keep it respectful.",
+  "content_html": "<p>Keep it respectful.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Keep it respectful."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario/#post-214745",
+    "scraped_at": "2026-01-15T14:13:29.619886+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario/#post-214745",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "129a2868bafff68ac45fb3676ab8a5d0ecbcbe6806dd427d18f3f27f9cc2ee08",
+    "parser_version": "bbpress-v2"
+  }
+}

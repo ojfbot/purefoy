@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215031",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-cafe-scenes",
+    "parent_post_id": "215019",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The solids were outside the window. The LED was bounced to the side of the shot and not directly overhead, which would not have reached so far into the face.",
+  "content_html": "<p>The solids were outside the window. The LED was bounced to the side of the shot and not directly overhead, which would not have reached so far into the face.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The solids were outside the window. The LED was bounced to the side of the shot and not directly overhead, which would not have reached so far into the face."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-cafe-scenes/#post-215032",
+    "scraped_at": "2026-01-15T15:49:39.362042+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-cafe-scenes/#post-215032",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "956dd5b159e5c888abfd9a053559d2ea260c3ff627506c8cc0bdf21b1b795138",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "ids": {
+    "post_id": "214790",
+    "forum_slug": "forum",
+    "topic_slug": "sicario-hitman-scene"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "GianniRanzuglia",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nI hope all’s well at your end. There’s a great scene in Sicario where Kate discovers she’s about to have sex with her hitman, and proceeds to fight him, but almost gets killed in the process before Alejandro intervenes.\nIn the scene, there’s a wide shot, and we can see there’s an overhead light over a table, a lamp by the sofa (on the right), and a cooler kitchen light (on the left). Was this entire scene lit through practical lights, or were there artificial lights out of frame to help enhance the scene or closeups? I’ve attached an image for reference 👍\nThanks for your time!",
+  "content_html": "<p>Hi Roger,</p>\n<p>I hope all’s well at your end. There’s a great scene in Sicario where Kate discovers she’s about to have sex with her hitman, and proceeds to fight him, but almost gets killed in the process before Alejandro intervenes.</p>\n<p>In the scene, there’s a wide shot, and we can see there’s an overhead light over a table, a lamp by the sofa (on the right), and a cooler kitchen light (on the left). Was this entire scene lit through practical lights, or were there artificial lights out of frame to help enhance the scene or closeups? I’ve attached an image for reference 👍</p>\n<p>Thanks for your time!</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214790/uz2juitcnyfy3lfnhy5ihe35bev945ui.png\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope all’s well at your end. There’s a great scene in Sicario where Kate discovers she’s about to have sex with her hitman, and proceeds to fight him, but almost gets killed in the process before Alejandro intervenes."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the scene, there’s a wide shot, and we can see there’s an overhead light over a table, a lamp by the sofa (on the right), and a cooler kitchen light (on the left). Was this entire scene lit through practical lights, or were there artificial lights out of frame to help enhance the scene or closeups? I’ve attached an image for reference 👍"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks for your time!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214790/uz2juitcnyfy3lfnhy5ihe35bev945ui.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario-hitman-scene/#post-214796",
+    "scraped_at": "2026-01-15T15:51:36.634121+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-hitman-scene/#post-214796",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "488dd381b18afb4f8145443840a30d47c8d0d46057884d1e77070a07f7a3d452",
+    "parser_version": "bbpress-v2"
+  }
+}

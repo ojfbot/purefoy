@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220477",
+    "forum_slug": "team-deakins",
+    "topic_slug": "reflections-shipped-anywhere",
+    "parent_post_id": "220445",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dharmawanwilly",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Do you possibly have any information on distributor around Southeast Asia? Or the only option going forward is still Amazon?",
+  "content_html": "<p>Do you possibly have any information on distributor around Southeast Asia? Or the only option going forward is still Amazon?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Do you possibly have any information on distributor around Southeast Asia? Or the only option going forward is still Amazon?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-shipped-anywhere/#post-220697",
+    "scraped_at": "2026-01-15T11:51:14.414238+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-shipped-anywhere/#post-220697",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4a69ee26640369432c940b15f7bb30e849025e218c23a1b5c52cf01f490e7fe1",
+    "parser_version": "bbpress-v2"
+  }
+}

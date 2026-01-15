@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "214481",
+    "forum_slug": "forum",
+    "topic_slug": "necessary-for-light-meter"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "jeff791107",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I would like to ask, is there still a need to use a light meter when shooting with a digital camera? There are many tools available now to measure exposure, such as false color, which uses the colors displayed on a monitor to determine exposure, and it seems more accurate than using a light meter. Using a light meter on a shoot feels unnecessary to me, just a matter of ceremony. But I don’t know if I’m oversimplifying things and if there are still situations where a light meter is necessary.\nAlso, I have another question about using a light meter. If I only have an incident light meter and I want to shoot flames or light bulbs that emit light themselves, how do I control the exposure? I can measure the exposure of the environment around the flame, but how do I measure the exposure of the flame itself and control the brightness deference between the flame and the environment as I desire? I’m very curious about how cinematographer dealt with this situation before reflective light meters were available.",
+  "content_html": "<p>I would like to ask, is there still a need to use a light meter when shooting with a digital camera? There are many tools available now to measure exposure, such as false color, which uses the colors displayed on a monitor to determine exposure, and it seems more accurate than using a light meter. Using a light meter on a shoot feels unnecessary to me, just a matter of ceremony. But I don’t know if I’m oversimplifying things and if there are still situations where a light meter is necessary.</p>\n<p>Also, I have another question about using a light meter. If I only have an incident light meter and I want to shoot flames or light bulbs that emit light themselves, how do I control the exposure? I can measure the exposure of the environment around the flame, but how do I measure the exposure of the flame itself and control the brightness deference between the flame and the environment as I desire? I’m very curious about how cinematographer dealt with this situation before reflective light meters were available.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I would like to ask, is there still a need to use a light meter when shooting with a digital camera? There are many tools available now to measure exposure, such as false color, which uses the colors displayed on a monitor to determine exposure, and it seems more accurate than using a light meter. Using a light meter on a shoot feels unnecessary to me, just a matter of ceremony. But I don’t know if I’m oversimplifying things and if there are still situations where a light meter is necessary."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, I have another question about using a light meter. If I only have an incident light meter and I want to shoot flames or light bulbs that emit light themselves, how do I control the exposure? I can measure the exposure of the environment around the flame, but how do I measure the exposure of the flame itself and control the brightness deference between the flame and the environment as I desire? I’m very curious about how cinematographer dealt with this situation before reflective light meters were available."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/necessary-for-light-meter/#post-214531",
+    "scraped_at": "2026-01-15T15:52:57.633669+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/necessary-for-light-meter/#post-214531",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "57d62b453ef27ce573da88df8ec311f4b2220a1442aa5bfc299093a9ed75a5d6",
+    "parser_version": "bbpress-v2"
+  }
+}

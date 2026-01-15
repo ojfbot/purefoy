@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/unbleached-muslin-gram-weight-for-light-bouncing/",
+  "forum_slug": "forum",
+  "topic_slug": "unbleached-muslin-gram-weight-for-light-bouncing",
+  "title": "Unbleached Muslin Gram Weight for Light Bouncing",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220356"
+  ],
+  "reply_tree": {
+    "post_id": "220356",
+    "post_type": "topic",
+    "author": "cristvega",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/unbleached-muslin-gram-weight-for-light-bouncing/",
+    "scraped_at": "2026-01-15T13:39:49.965559+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/unbleached-muslin-gram-weight-for-light-bouncing/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e0d75701fdcb736fb348f1ccb8174150c743ef088d772ce582d56a96cd1e04cc",
+    "parser_version": "bbpress-v2"
+  }
+}

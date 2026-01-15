@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/when-to-bring-in-light-for-close-ups-true-grit/",
+  "forum_slug": "forum",
+  "topic_slug": "when-to-bring-in-light-for-close-ups-true-grit",
+  "title": "When to bring in light for Close-Ups – True Grit",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216325"
+  ],
+  "reply_tree": {
+    "post_id": "216325",
+    "post_type": "topic",
+    "author": "andrewdko",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/when-to-bring-in-light-for-close-ups-true-grit/",
+    "scraped_at": "2026-01-15T15:25:22.385748+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/when-to-bring-in-light-for-close-ups-true-grit/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "599048cbfbfe2fffda9d8c056b9ab3b63e3239ed48890e76e45c77c29a5049dc",
+    "parser_version": "bbpress-v2"
+  }
+}

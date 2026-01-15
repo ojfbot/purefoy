@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "214635",
+    "forum_slug": "camera",
+    "topic_slug": "eyes-wide-shut-moving-mirror",
+    "parent_post_id": "214623",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "",
+  "content_html": "<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214635/h7ekys0netz7voxcfphxpp4nhhwbtrtw.jpeg\"/></p>",
+  "blocks": [],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214635/h7ekys0netz7voxcfphxpp4nhhwbtrtw.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/eyes-wide-shut-moving-mirror/",
+    "scraped_at": "2026-01-15T12:08:50.201193+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/eyes-wide-shut-moving-mirror/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "46b5d1940845f8090948709ad66d6499802084405dd7c1b2edcba970b1aa05ae",
+    "parser_version": "bbpress-v2"
+  }
+}

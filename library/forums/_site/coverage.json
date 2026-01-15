@@ -1,0 +1,183 @@
+{
+  "timestamp": "2026-01-15T10:36:21.349778",
+  "total_forums": 8,
+  "forums_covered": 8,
+  "total_topics": 420,
+  "topics_scraped": 231,
+  "total_posts": 886,
+  "forums": {
+    "forum": {
+      "forum_slug": "forum",
+      "forum_name": "Lighting",
+      "total_topics_available": 100,
+      "topics_scraped": 51,
+      "posts_scraped": 212,
+      "last_scraped": "2026-01-15T10:34:39.095058+00:00",
+      "first_scraped": "2026-01-15T10:30:27.972318+00:00"
+    },
+    "post": {
+      "forum_slug": "post",
+      "forum_name": "Post & The DI",
+      "total_topics_available": 70,
+      "topics_scraped": 37,
+      "posts_scraped": 156,
+      "last_scraped": "2026-01-15T10:30:24.154740+00:00",
+      "first_scraped": "2026-01-15T10:31:59.216672+00:00"
+    },
+    "composition": {
+      "forum_slug": "composition",
+      "forum_name": "Composition",
+      "total_topics_available": 30,
+      "topics_scraped": 16,
+      "posts_scraped": 85,
+      "last_scraped": "2026-01-15T10:30:22.473928+00:00",
+      "first_scraped": "2026-01-15T10:29:46.440449+00:00"
+    },
+    "team-deakins": {
+      "forum_slug": "team-deakins",
+      "forum_name": "Team Deakins",
+      "total_topics_available": 65,
+      "topics_scraped": 39,
+      "posts_scraped": 129,
+      "last_scraped": "2026-01-15T10:32:10.380658+00:00",
+      "first_scraped": "2026-01-15T10:32:52.269408+00:00"
+    },
+    "still-photography": {
+      "forum_slug": "still-photography",
+      "forum_name": "Still Photography",
+      "total_topics_available": 25,
+      "topics_scraped": 15,
+      "posts_scraped": 40,
+      "last_scraped": "2026-01-15T10:30:37.569618+00:00",
+      "first_scraped": "2026-01-15T10:29:58.397858+00:00"
+    },
+    "camera": {
+      "forum_slug": "camera",
+      "forum_name": "Camera",
+      "total_topics_available": 40,
+      "topics_scraped": 21,
+      "posts_scraped": 121,
+      "last_scraped": "2026-01-15T10:31:22.994684+00:00",
+      "first_scraped": "2026-01-15T10:31:36.776057+00:00"
+    },
+    "film-talk": {
+      "forum_slug": "film-talk",
+      "forum_name": "Film Talk",
+      "total_topics_available": 60,
+      "topics_scraped": 35,
+      "posts_scraped": 92,
+      "last_scraped": "2026-01-15T10:30:57.493076+00:00",
+      "first_scraped": "2026-01-15T10:30:27.138064+00:00"
+    },
+    "set-talk": {
+      "forum_slug": "set-talk",
+      "forum_name": "Set Talk",
+      "total_topics_available": 30,
+      "topics_scraped": 17,
+      "posts_scraped": 51,
+      "last_scraped": "2026-01-15T10:29:27.394509+00:00",
+      "first_scraped": "2026-01-15T10:30:22.244997+00:00"
+    }
+  },
+  "queries": {
+    "lighting_techniques": {
+      "query_name": "Lighting Techniques & Setups",
+      "target_forums": [
+        "forum",
+        "film-talk"
+      ],
+      "keywords": [
+        "lighting",
+        "setup",
+        "lamp",
+        "practical",
+        "key light",
+        "fill"
+      ],
+      "posts_matching": 299,
+      "coverage_complete": true,
+      "notes": "\u2713 299 relevant posts found"
+    },
+    "camera_equipment": {
+      "query_name": "Camera & Lens Choices",
+      "target_forums": [
+        "forum",
+        "camera"
+      ],
+      "keywords": [
+        "camera",
+        "lens",
+        "ARRI",
+        "focal length",
+        "anamorphic"
+      ],
+      "posts_matching": 220,
+      "coverage_complete": true,
+      "notes": "\u2713 220 relevant posts found"
+    },
+    "color_grading": {
+      "query_name": "Color Grading & DI",
+      "target_forums": [
+        "post",
+        "forum"
+      ],
+      "keywords": [
+        "color",
+        "grade",
+        "LUT",
+        "DI",
+        "timing"
+      ],
+      "posts_matching": 234,
+      "coverage_complete": true,
+      "notes": "\u2713 234 relevant posts found"
+    },
+    "roger_insights": {
+      "query_name": "Roger Deakins' Direct Advice",
+      "target_forums": [
+        "team-deakins",
+        "forum",
+        "film-talk",
+        "post"
+      ],
+      "keywords": [
+        "Roger Deakins"
+      ],
+      "posts_matching": 86,
+      "coverage_complete": true,
+      "notes": "\u2713 86 relevant posts found"
+    },
+    "film_recommendations": {
+      "query_name": "Film Study Recommendations",
+      "target_forums": [
+        "film-talk",
+        "team-deakins"
+      ],
+      "keywords": [
+        "film",
+        "watch",
+        "recommend",
+        "favorite"
+      ],
+      "posts_matching": 310,
+      "coverage_complete": true,
+      "notes": "\u2713 310 relevant posts found"
+    },
+    "post_production": {
+      "query_name": "Post Production Workflows",
+      "target_forums": [
+        "post"
+      ],
+      "keywords": [
+        "post",
+        "workflow",
+        "DI",
+        "grade",
+        "transfer"
+      ],
+      "posts_matching": 267,
+      "coverage_complete": true,
+      "notes": "\u2713 267 relevant posts found"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "post_id": "215562",
+    "forum_slug": "camera",
+    "topic_slug": "exposure",
+    "parent_post_id": "215560",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "“Expose to the right” of a histogram is a still photography concept, similar to Ansel Adam’s old adage “expose for the shadows and print for the highlights”. It has very limited use in cinematography because generally the goal is to not expose every shot as if it were unique and stand-alone, but to expose a\nsequence\nof shots for a scene so that they fall within the same range of correction (in the old days, so the shots in a scene use printer light values that are similar.) In moviemaking, you have the issue of continuity and consistency of coverage across a sequence (if not the entire movie) which is less relevant in a single still photo.\nLet’s say you had a wide master shot of a room where one person is supposed to be standing in a dim area (3-stops under) whereas another person is standing under a light of moderate brightness (normal exposure) while a third person opens a curtain and is hit with sunlight that is a number of stops over.\nIn coverage of singles, the person who gets hit by the very hot light is naturally “exposed” to the right side of the histogram.  The person under the lamp of normal brightness might have to be overexposed by three stops (depending on tones) to get close to the right. The person in the darkness who is 3-stops under in the wide shot would have to be exposed maybe 6-stops brighter to get close to the right side of the histogram!\nSo first issue is how this looks on the set — who is going to “fix” these radically different exposures to look as they should for the scene? A DIT maybe, otherwise the director is going to wonder why this moody scene is all over the map in terms of exposure in the coverage. And will these corrections be applied to dailies?\nSecond issue is that the shots that have to be darkened a lot more to get back to the correct look will have less noise than the shots that didn’t need any adjustment.  In other words, the person who already was nearly at the clip point by being in the bright light might have the noise of ISO 800, let’s say.  But the person who was darkened by a number of stops in post to look correctly dark now has the noise of a low ISO setting.\nSo for consistency of noise across coverage, you should pick an ISO that works for the whole scene and then expose each set-up for the creative look you want.  If you are having noise problems with the dark areas of a particular shot, then your base ISO is too high.  Some people might choose to rate an Alexa at ISO 400, for example, instead of ISO 800, just to have a lower base noise level.\nNow there is some flexibility here, you can choose to “play it safe” and when you start covering the person in very dim light, you may opt to give them a bit more exposure “just in case” — but I’m talking about a small adjustment, not many f-stops of overexposure to get the subject to the right side of the histogram.  You also may choose to use a slightly lower ISO in scenes where noise might be a factor, like when shooting green screens.  Or when shooting subjects and sets that are very dark in tonal value.",
+  "content_html": "<p>“Expose to the right” of a histogram is a still photography concept, similar to Ansel Adam’s old adage “expose for the shadows and print for the highlights”. It has very limited use in cinematography because generally the goal is to not expose every shot as if it were unique and stand-alone, but to expose a <em>sequence</em> of shots for a scene so that they fall within the same range of correction (in the old days, so the shots in a scene use printer light values that are similar.) In moviemaking, you have the issue of continuity and consistency of coverage across a sequence (if not the entire movie) which is less relevant in a single still photo.</p>\n<p>Let’s say you had a wide master shot of a room where one person is supposed to be standing in a dim area (3-stops under) whereas another person is standing under a light of moderate brightness (normal exposure) while a third person opens a curtain and is hit with sunlight that is a number of stops over.</p>\n<p>In coverage of singles, the person who gets hit by the very hot light is naturally “exposed” to the right side of the histogram.  The person under the lamp of normal brightness might have to be overexposed by three stops (depending on tones) to get close to the right. The person in the darkness who is 3-stops under in the wide shot would have to be exposed maybe 6-stops brighter to get close to the right side of the histogram!</p>\n<p>So first issue is how this looks on the set — who is going to “fix” these radically different exposures to look as they should for the scene? A DIT maybe, otherwise the director is going to wonder why this moody scene is all over the map in terms of exposure in the coverage. And will these corrections be applied to dailies?</p>\n<p>Second issue is that the shots that have to be darkened a lot more to get back to the correct look will have less noise than the shots that didn’t need any adjustment.  In other words, the person who already was nearly at the clip point by being in the bright light might have the noise of ISO 800, let’s say.  But the person who was darkened by a number of stops in post to look correctly dark now has the noise of a low ISO setting.</p>\n<p>So for consistency of noise across coverage, you should pick an ISO that works for the whole scene and then expose each set-up for the creative look you want.  If you are having noise problems with the dark areas of a particular shot, then your base ISO is too high.  Some people might choose to rate an Alexa at ISO 400, for example, instead of ISO 800, just to have a lower base noise level.</p>\n<p>Now there is some flexibility here, you can choose to “play it safe” and when you start covering the person in very dim light, you may opt to give them a bit more exposure “just in case” — but I’m talking about a small adjustment, not many f-stops of overexposure to get the subject to the right side of the histogram.  You also may choose to use a slightly lower ISO in scenes where noise might be a factor, like when shooting green screens.  Or when shooting subjects and sets that are very dark in tonal value.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "“Expose to the right” of a histogram is a still photography concept, similar to Ansel Adam’s old adage “expose for the shadows and print for the highlights”. It has very limited use in cinematography because generally the goal is to not expose every shot as if it were unique and stand-alone, but to expose a\nsequence\nof shots for a scene so that they fall within the same range of correction (in the old days, so the shots in a scene use printer light values that are similar.) In moviemaking, you have the issue of continuity and consistency of coverage across a sequence (if not the entire movie) which is less relevant in a single still photo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s say you had a wide master shot of a room where one person is supposed to be standing in a dim area (3-stops under) whereas another person is standing under a light of moderate brightness (normal exposure) while a third person opens a curtain and is hit with sunlight that is a number of stops over."
+    },
+    {
+      "type": "paragraph",
+      "text": "In coverage of singles, the person who gets hit by the very hot light is naturally “exposed” to the right side of the histogram.  The person under the lamp of normal brightness might have to be overexposed by three stops (depending on tones) to get close to the right. The person in the darkness who is 3-stops under in the wide shot would have to be exposed maybe 6-stops brighter to get close to the right side of the histogram!"
+    },
+    {
+      "type": "paragraph",
+      "text": "So first issue is how this looks on the set — who is going to “fix” these radically different exposures to look as they should for the scene? A DIT maybe, otherwise the director is going to wonder why this moody scene is all over the map in terms of exposure in the coverage. And will these corrections be applied to dailies?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Second issue is that the shots that have to be darkened a lot more to get back to the correct look will have less noise than the shots that didn’t need any adjustment.  In other words, the person who already was nearly at the clip point by being in the bright light might have the noise of ISO 800, let’s say.  But the person who was darkened by a number of stops in post to look correctly dark now has the noise of a low ISO setting."
+    },
+    {
+      "type": "paragraph",
+      "text": "So for consistency of noise across coverage, you should pick an ISO that works for the whole scene and then expose each set-up for the creative look you want.  If you are having noise problems with the dark areas of a particular shot, then your base ISO is too high.  Some people might choose to rate an Alexa at ISO 400, for example, instead of ISO 800, just to have a lower base noise level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now there is some flexibility here, you can choose to “play it safe” and when you start covering the person in very dim light, you may opt to give them a bit more exposure “just in case” — but I’m talking about a small adjustment, not many f-stops of overexposure to get the subject to the right side of the histogram.  You also may choose to use a slightly lower ISO in scenes where noise might be a factor, like when shooting green screens.  Or when shooting subjects and sets that are very dark in tonal value."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+    "scraped_at": "2026-01-15T15:20:45.306195+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "390ef6794f2a87b4f8b7d41b1566461d7fc0c9b235257342c7bd6d86c864106e",
+    "parser_version": "bbpress-v2"
+  }
+}

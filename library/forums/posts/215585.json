@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215585",
+    "forum_slug": "film-talk",
+    "topic_slug": "the-influence-of-neo-western-and-noir-on-the-3-movies",
+    "parent_post_id": "215559",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think all three are influenced by each and every film I have seen, every painting and every day I have gotten out of bed at dawn to go fishing!",
+  "content_html": "<p>I think all three are influenced by each and every film I have seen, every painting and every day I have gotten out of bed at dawn to go fishing!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think all three are influenced by each and every film I have seen, every painting and every day I have gotten out of bed at dawn to go fishing!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-influence-of-neo-western-and-noir-on-the-3-movies/#post-215597",
+    "scraped_at": "2026-01-15T13:16:27.568785+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-influence-of-neo-western-and-noir-on-the-3-movies/#post-215597",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "33b13dd69995c294e64bea3da0572960b7ffe6fd3647bf24fe797242d9b5e3e4",
+    "parser_version": "bbpress-v2"
+  }
+}

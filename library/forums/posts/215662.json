@@ -1,0 +1,56 @@
+{
+  "ids": {
+    "post_id": "215662",
+    "forum_slug": "forum",
+    "topic_slug": "unbroken-stunning-night-interior-scene"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mr. Deakins, first of all, I hope you and Mrs. James are well and I hope you are having a nice Sunday.\nI would like to ask you, if it is possible, how do you light this scene and location from ‘Unbroken” and your choice about the hanging practical lights.\nI absolutely love that pool of light at the center of the Frame, did you use a ring light for this scene? I also see that light reaches the wall at the far right wall of the frame, it comes from the same source of the central pool of light.\nAs always I want to thank you for your time and availability, but above all, for your art.\nI wish you a peaceful Sunday,\nMax",
+  "content_html": "<p>Hello Mr. Deakins, first of all, I hope you and Mrs. James are well and I hope you are having a nice Sunday.<br/>\nI would like to ask you, if it is possible, how do you light this scene and location from ‘Unbroken” and your choice about the hanging practical lights.</p>\n<p>I absolutely love that pool of light at the center of the Frame, did you use a ring light for this scene? I also see that light reaches the wall at the far right wall of the frame, it comes from the same source of the central pool of light.</p>\n<p>As always I want to thank you for your time and availability, but above all, for your art.</p>\n<p>I wish you a peaceful Sunday,<br/>\nMax</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215662/vdko0fipen0subd60jjjvkaw9x2uprnf.jpg\" width=\"600\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mr. Deakins, first of all, I hope you and Mrs. James are well and I hope you are having a nice Sunday.\nI would like to ask you, if it is possible, how do you light this scene and location from ‘Unbroken” and your choice about the hanging practical lights."
+    },
+    {
+      "type": "paragraph",
+      "text": "I absolutely love that pool of light at the center of the Frame, did you use a ring light for this scene? I also see that light reaches the wall at the far right wall of the frame, it comes from the same source of the central pool of light."
+    },
+    {
+      "type": "paragraph",
+      "text": "As always I want to thank you for your time and availability, but above all, for your art."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful Sunday,\nMax"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215662/vdko0fipen0subd60jjjvkaw9x2uprnf.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/unbroken-stunning-night-interior-scene/#post-215687",
+    "scraped_at": "2026-01-15T15:45:27.113620+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/unbroken-stunning-night-interior-scene/#post-215687",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ed8a6804a068674d10957a0e9811f34ab26b35e164f17f5c070de19a2b1b0ab6",
+    "parser_version": "bbpress-v2"
+  }
+}

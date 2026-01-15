@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "215191",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-diagrams-for-conversation-scene"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "tommygreenbeans",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey Sir Roger! First off its nice to know the greatest DPs doesn’t gatekeep his secrets to his trade with this forum! One of the reasons ur the GOAT!\nFor context, one of my favorite subgenres has been the confessional film. Those kinds of films like The Breakfast Club, My Dinner with Andre and such where the entire story is about an extended conversation between 2 or more parties filled with confessions, stories, and anecdotes!\nIve never made a film despite wanting to make one for years, but i finally had an idea for a short film that would work in the confessional format that would maybe consist of a conversation between a murderer and the victims family member (kinda like Act of Killing or Look of Silence!)\nAnd one of the things Im working on is the look of the film and one idea I had was to light it like a scene from PTA’s film The Master shot by Barry Idoine, where Joaquin Phoenkx is being processed by Phillip Seymour Hoffman on the yacht.\nAnd I was wondering if u had any insight into how they may have lit that scene and could maybe hook me up with some lighting diagrams!\nAnd lastly I wanna ask if u had any other examples/reccs for how to subjectively light a good conversation scene!\nAny help is appreciated! Ur one of my biggest inspirations to me and I hope ur doing well Sir Deakins! Godspeed!",
+  "content_html": "<p>Hey Sir Roger! First off its nice to know the greatest DPs doesn’t gatekeep his secrets to his trade with this forum! One of the reasons ur the GOAT!</p>\n<p>For context, one of my favorite subgenres has been the confessional film. Those kinds of films like The Breakfast Club, My Dinner with Andre and such where the entire story is about an extended conversation between 2 or more parties filled with confessions, stories, and anecdotes!</p>\n<p>Ive never made a film despite wanting to make one for years, but i finally had an idea for a short film that would work in the confessional format that would maybe consist of a conversation between a murderer and the victims family member (kinda like Act of Killing or Look of Silence!)</p>\n<p>And one of the things Im working on is the look of the film and one idea I had was to light it like a scene from PTA’s film The Master shot by Barry Idoine, where Joaquin Phoenkx is being processed by Phillip Seymour Hoffman on the yacht.</p>\n<p>And I was wondering if u had any insight into how they may have lit that scene and could maybe hook me up with some lighting diagrams!</p>\n<p>And lastly I wanna ask if u had any other examples/reccs for how to subjectively light a good conversation scene!</p>\n<p>Any help is appreciated! Ur one of my biggest inspirations to me and I hope ur doing well Sir Deakins! Godspeed!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey Sir Roger! First off its nice to know the greatest DPs doesn’t gatekeep his secrets to his trade with this forum! One of the reasons ur the GOAT!"
+    },
+    {
+      "type": "paragraph",
+      "text": "For context, one of my favorite subgenres has been the confessional film. Those kinds of films like The Breakfast Club, My Dinner with Andre and such where the entire story is about an extended conversation between 2 or more parties filled with confessions, stories, and anecdotes!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ive never made a film despite wanting to make one for years, but i finally had an idea for a short film that would work in the confessional format that would maybe consist of a conversation between a murderer and the victims family member (kinda like Act of Killing or Look of Silence!)"
+    },
+    {
+      "type": "paragraph",
+      "text": "And one of the things Im working on is the look of the film and one idea I had was to light it like a scene from PTA’s film The Master shot by Barry Idoine, where Joaquin Phoenkx is being processed by Phillip Seymour Hoffman on the yacht."
+    },
+    {
+      "type": "paragraph",
+      "text": "And I was wondering if u had any insight into how they may have lit that scene and could maybe hook me up with some lighting diagrams!"
+    },
+    {
+      "type": "paragraph",
+      "text": "And lastly I wanna ask if u had any other examples/reccs for how to subjectively light a good conversation scene!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Any help is appreciated! Ur one of my biggest inspirations to me and I hope ur doing well Sir Deakins! Godspeed!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-diagrams-for-conversation-scene/#post-215206",
+    "scraped_at": "2026-01-15T15:48:25.491865+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-diagrams-for-conversation-scene/#post-215206",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3d91f7cc3e4bea9fe6fc2106e1633135702748aef49c544ebfad774b4a7448ae",
+    "parser_version": "bbpress-v2"
+  }
+}

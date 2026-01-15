@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "169402",
+    "forum_slug": "camera",
+    "topic_slug": "camera-starter-question"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "James",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Just to start up the forum, the question will be: What is your “dream feature” that you would like to added to the camera you normally use and why.",
+  "content_html": "<p>Just to start up the forum, the question will be: What is your “dream feature” that you would like to added to the camera you normally use and why.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Just to start up the forum, the question will be: What is your “dream feature” that you would like to added to the camera you normally use and why."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/page/2/",
+    "scraped_at": "2026-01-15T13:56:45.966338+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c1186bc74987b34d454426e42e9fa709460d124fc1f4bd00723cb95d3a3e7a68",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "post_id": "220905",
+    "forum_slug": "forum",
+    "topic_slug": "how-much-of-the-look-is-just-you",
+    "parent_post_id": "220867",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "drewvalenti",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi! In my experience…\nThe look is a combination of ALL factors. The specific lights, grip fabrics, sunlight (if present), lenses, camera sensor / film stock, what the script says, what the director wants, the DP’s subjective preferences, color grading, post production, how much time there is on the day to work, (and on the delivery end…) projection, the screen you watch on, the light in the room while you watch etc. Many factors.\nRe: The Sicario question, can you get the exact same look with a DSLR and aputures? In my opinion no. Can you get something pretty good with those tools? Yes. Maybe you can get a similar look to a Day INT from Sicario. There are trade offs with every piece of gear you choose.\n“How close do you think you could get” is subjective so I can’t really answer that.\nIf you are early on your journey, know that you can definitely make powerful images with very basic tools. Most professionals will tell you it’s less about WHAT equipment they’re using and more about HOW they’re using it. There are obviously exceptions to that rule, but for the most part if you’re trying to shoot indie narrative projects, you can get creative with what you have and make great stuff.\nIf you get the chance to be on bigger film sets and watch how they use bigger more expensive gear, you might find that they’re using everything the same way just at a larger scale.\nHope that helps\nDrew\nLocal 728 Gaffer",
+  "content_html": "<p>Hi! In my experience…</p>\n<p>The look is a combination of ALL factors. The specific lights, grip fabrics, sunlight (if present), lenses, camera sensor / film stock, what the script says, what the director wants, the DP’s subjective preferences, color grading, post production, how much time there is on the day to work, (and on the delivery end…) projection, the screen you watch on, the light in the room while you watch etc. Many factors.</p>\n<p>Re: The Sicario question, can you get the exact same look with a DSLR and aputures? In my opinion no. Can you get something pretty good with those tools? Yes. Maybe you can get a similar look to a Day INT from Sicario. There are trade offs with every piece of gear you choose.</p>\n<p>“How close do you think you could get” is subjective so I can’t really answer that.</p>\n<p>If you are early on your journey, know that you can definitely make powerful images with very basic tools. Most professionals will tell you it’s less about WHAT equipment they’re using and more about HOW they’re using it. There are obviously exceptions to that rule, but for the most part if you’re trying to shoot indie narrative projects, you can get creative with what you have and make great stuff.</p>\n<p>If you get the chance to be on bigger film sets and watch how they use bigger more expensive gear, you might find that they’re using everything the same way just at a larger scale.</p>\n<p>Hope that helps</p>\n<p>Drew<br/>\nLocal 728 Gaffer</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi! In my experience…"
+    },
+    {
+      "type": "paragraph",
+      "text": "The look is a combination of ALL factors. The specific lights, grip fabrics, sunlight (if present), lenses, camera sensor / film stock, what the script says, what the director wants, the DP’s subjective preferences, color grading, post production, how much time there is on the day to work, (and on the delivery end…) projection, the screen you watch on, the light in the room while you watch etc. Many factors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Re: The Sicario question, can you get the exact same look with a DSLR and aputures? In my opinion no. Can you get something pretty good with those tools? Yes. Maybe you can get a similar look to a Day INT from Sicario. There are trade offs with every piece of gear you choose."
+    },
+    {
+      "type": "paragraph",
+      "text": "“How close do you think you could get” is subjective so I can’t really answer that."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are early on your journey, know that you can definitely make powerful images with very basic tools. Most professionals will tell you it’s less about WHAT equipment they’re using and more about HOW they’re using it. There are obviously exceptions to that rule, but for the most part if you’re trying to shoot indie narrative projects, you can get creative with what you have and make great stuff."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you get the chance to be on bigger film sets and watch how they use bigger more expensive gear, you might find that they’re using everything the same way just at a larger scale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope that helps"
+    },
+    {
+      "type": "paragraph",
+      "text": "Drew\nLocal 728 Gaffer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-much-of-the-look-is-just-you/#post-220918",
+    "scraped_at": "2026-01-15T12:48:47.797899+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-much-of-the-look-is-just-you/#post-220918",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "45e2db539d4c8cb097122bb3a3f3903d6ce8232f9832c815b3cdbd2d2fb68199",
+    "parser_version": "bbpress-v2"
+  }
+}

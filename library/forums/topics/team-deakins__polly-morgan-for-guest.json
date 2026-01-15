@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/polly-morgan-for-guest/",
+  "forum_slug": "team-deakins",
+  "topic_slug": "polly-morgan-for-guest",
+  "title": "Polly Morgan, for guest?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216784"
+  ],
+  "reply_tree": {
+    "post_id": "216784",
+    "post_type": "topic",
+    "author": "mskb",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/polly-morgan-for-guest/",
+    "scraped_at": "2026-01-15T13:06:02.536292+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/polly-morgan-for-guest/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4f6511bf879be476607f97c24cb772589de9ba46364e1658b55918f99bff5555",
+    "parser_version": "bbpress-v2"
+  }
+}

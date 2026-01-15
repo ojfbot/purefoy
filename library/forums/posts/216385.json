@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216385",
+    "forum_slug": "composition",
+    "topic_slug": "composition-and-symmetry",
+    "parent_post_id": "216380",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "domudell",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yeah I feel being flat or on a 45 degree diagonal to a room feels very “graphic novel” in my mind’s eye. Or even Kubrickian, which I love in a lot of instances. To me it’s a much “tighter” composition.\nSidenote: I recently bought DVDs of Northfork, Jackpot and Twin Falls Idaho. Jackpot is an underrated indie and Jon Gries is so great in it. Northfork is so delightfully strange and visually impressive. You designed a great look for that one.",
+  "content_html": "<p>Yeah I feel being flat or on a 45 degree diagonal to a room feels very “graphic novel” in my mind’s eye. Or even Kubrickian, which I love in a lot of instances. To me it’s a much “tighter” composition.</p>\n<p>Sidenote: I recently bought DVDs of Northfork, Jackpot and Twin Falls Idaho. Jackpot is an underrated indie and Jon Gries is so great in it. Northfork is so delightfully strange and visually impressive. You designed a great look for that one.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yeah I feel being flat or on a 45 degree diagonal to a room feels very “graphic novel” in my mind’s eye. Or even Kubrickian, which I love in a lot of instances. To me it’s a much “tighter” composition."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sidenote: I recently bought DVDs of Northfork, Jackpot and Twin Falls Idaho. Jackpot is an underrated indie and Jon Gries is so great in it. Northfork is so delightfully strange and visually impressive. You designed a great look for that one."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/composition-and-symmetry/#post-217506",
+    "scraped_at": "2026-01-15T12:09:26.085700+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/composition-and-symmetry/#post-217506",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "eea1d7b1c10b8de56738c23be6210da01780b2d1535e5018a61b6ea367451b80",
+    "parser_version": "bbpress-v2"
+  }
+}

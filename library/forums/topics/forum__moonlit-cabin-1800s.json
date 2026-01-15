@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/moonlit-cabin-1800s/",
+  "forum_slug": "forum",
+  "topic_slug": "moonlit-cabin-1800s",
+  "title": "Moonlit cabin. 1800s.",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220824"
+  ],
+  "reply_tree": {
+    "post_id": "220824",
+    "post_type": "topic",
+    "author": "gjmine09",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/moonlit-cabin-1800s/",
+    "scraped_at": "2026-01-15T12:48:59.268427+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/moonlit-cabin-1800s/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e2d485c77eb10a29ea0f302cf5324b51d2a1944d072ed28d3e2d152aa282699e",
+    "parser_version": "bbpress-v2"
+  }
+}

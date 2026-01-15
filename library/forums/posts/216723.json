@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216723",
+    "forum_slug": "composition",
+    "topic_slug": "inspiration-sources",
+    "parent_post_id": "216503",
+    "parent_type": "topic",
+    "position": 14
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Some expressions are conceptual, the banana taped to the wall or Oldenburg’s sculpture of everyday objects. Some things are spiritual, like the ponds in Stalker. And I’m not talking about god here, although you could take it that way if you want.",
+  "content_html": "<p>Some expressions are conceptual, the banana taped to the wall or Oldenburg’s sculpture of everyday objects. Some things are spiritual, like the ponds in Stalker. And I’m not talking about god here, although you could take it that way if you want.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Some expressions are conceptual, the banana taped to the wall or Oldenburg’s sculpture of everyday objects. Some things are spiritual, like the ponds in Stalker. And I’m not talking about god here, although you could take it that way if you want."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/",
+    "scraped_at": "2026-01-15T12:26:03.385101+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4af8ffad34924fc10bdc0cb44768114fa7e7351c55786c760721d47a2867b62f",
+    "parser_version": "bbpress-v2"
+  }
+}

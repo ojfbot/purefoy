@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "176563",
+    "forum_slug": "camera",
+    "topic_slug": "how-to-bring-emotional-weight",
+    "parent_post_id": "176539",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There’s no formula for this. You can’t say that, for example, “25mm at 3’ has more emotional weight than 50mm at 6’.”\nYou have to watch movies (or look at art & photography) and see what moves you. I think Gordon Willis’ 1970s work often has emotional weight though often shot in wider frames due partially to the somber light and how the framing works with that — but really, ultimately the weight of the scene comes from the content.",
+  "content_html": "<p>There’s no formula for this. You can’t say that, for example, “25mm at 3’ has more emotional weight than 50mm at 6’.”</p>\n<p>You have to watch movies (or look at art &amp; photography) and see what moves you. I think Gordon Willis’ 1970s work often has emotional weight though often shot in wider frames due partially to the somber light and how the framing works with that — but really, ultimately the weight of the scene comes from the content.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There’s no formula for this. You can’t say that, for example, “25mm at 3’ has more emotional weight than 50mm at 6’.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "You have to watch movies (or look at art & photography) and see what moves you. I think Gordon Willis’ 1970s work often has emotional weight though often shot in wider frames due partially to the somber light and how the framing works with that — but really, ultimately the weight of the scene comes from the content."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-bring-emotional-weight/#post-176637",
+    "scraped_at": "2026-01-15T15:44:38.577489+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-bring-emotional-weight/#post-176637",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "29987542c0d56c248abe9e7d0bc0b57a39c6eb4f4241e4575981cd11da0f69ba",
+    "parser_version": "bbpress-v2"
+  }
+}

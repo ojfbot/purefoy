@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218175",
+    "forum_slug": "film-talk",
+    "topic_slug": "come-and-see",
+    "parent_post_id": "218173",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "My humble opinion is that director’s ideas and desire to tell a given story are relevant, not actor’s aderence in real life to the role (but i agree that it’s  a delusion when you discover that an actor you admired in a role Is not a nice person). The message of the movie and the role of cinema will always be the same, while actors are just people faking something as a job, not heralds and champions of the truth. I wouldn’t mix the actor and the role (but of course Is a nice feeling when the actor Is in real life the Hero that he plays on the screen). Just my opinion, of course!",
+  "content_html": "<p>My humble opinion is that director’s ideas and desire to tell a given story are relevant, not actor’s aderence in real life to the role (but i agree that it’s  a delusion when you discover that an actor you admired in a role Is not a nice person). The message of the movie and the role of cinema will always be the same, while actors are just people faking something as a job, not heralds and champions of the truth. I wouldn’t mix the actor and the role (but of course Is a nice feeling when the actor Is in real life the Hero that he plays on the screen). Just my opinion, of course!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "My humble opinion is that director’s ideas and desire to tell a given story are relevant, not actor’s aderence in real life to the role (but i agree that it’s  a delusion when you discover that an actor you admired in a role Is not a nice person). The message of the movie and the role of cinema will always be the same, while actors are just people faking something as a job, not heralds and champions of the truth. I wouldn’t mix the actor and the role (but of course Is a nice feeling when the actor Is in real life the Hero that he plays on the screen). Just my opinion, of course!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/come-and-see/#post-220074",
+    "scraped_at": "2026-01-15T11:51:11.240537+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/come-and-see/#post-220074",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "30dc4051c9beeb9e117780199f07827446aa56cf3daa3da155adccc2342431c8",
+    "parser_version": "bbpress-v2"
+  }
+}

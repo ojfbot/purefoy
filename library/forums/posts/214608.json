@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214608",
+    "forum_slug": "team-deakins",
+    "topic_slug": "now-youtube-video-6-17",
+    "parent_post_id": "214606",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Fantastic. Public Q&A’s are always very interesting, thanks James!",
+  "content_html": "<p>Fantastic. Public Q&amp;A’s are always very interesting, thanks James!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Fantastic. Public Q&A’s are always very interesting, thanks James!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/now-youtube-video-6-17/#post-214615",
+    "scraped_at": "2026-01-15T13:56:36.934689+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/now-youtube-video-6-17/#post-214615",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ab0f81e7b14f6d309c7f7f4499f5fa1c5bfc24164bfd3c063a4c7837e0e1ad2c",
+    "parser_version": "bbpress-v2"
+  }
+}

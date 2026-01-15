@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "216260",
+    "forum_slug": "camera",
+    "topic_slug": "diffusion-filters"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi all and thank you to Roger and team for this community forum, excited to have found it. I am prepping for a music video and am interested in having a discussion on diffusion filters.\nThe script is a mix of night time interiors and daytime exteriors. Dark living room scene with TV on and practical lamps in frame. Exteriors are urban streets and beach dunes at different times of day.\nI am considering using a set of vintage lenses I own, but am curious about some tech on diffusion filters if I go with modern lenses. What adjustments should be made as you move from say a 24mm to an 85mm for consistency in the same scene?\nDo filters behave differently on an indoor practical bulb vs outdoor highlights (like on water or reflected off a building)?\nI also heard of filters that create the illusion of atmosphere/haze in a room which could be interesting on the interior. If anyone has experience with these i’d be interested to know more!\nAlso, any recs on which filters you’ve used/ prefer would be interesting to know as there are tons of options, and my personal experience is limited with lens diffusion.\nThank you and hope this wasn’t too long winded!",
+  "content_html": "<p>Hi all and thank you to Roger and team for this community forum, excited to have found it. I am prepping for a music video and am interested in having a discussion on diffusion filters.</p>\n<p>The script is a mix of night time interiors and daytime exteriors. Dark living room scene with TV on and practical lamps in frame. Exteriors are urban streets and beach dunes at different times of day.</p>\n<p>I am considering using a set of vintage lenses I own, but am curious about some tech on diffusion filters if I go with modern lenses. What adjustments should be made as you move from say a 24mm to an 85mm for consistency in the same scene?</p>\n<p>Do filters behave differently on an indoor practical bulb vs outdoor highlights (like on water or reflected off a building)?</p>\n<p>I also heard of filters that create the illusion of atmosphere/haze in a room which could be interesting on the interior. If anyone has experience with these i’d be interested to know more!</p>\n<p>Also, any recs on which filters you’ve used/ prefer would be interesting to know as there are tons of options, and my personal experience is limited with lens diffusion.</p>\n<p>Thank you and hope this wasn’t too long winded!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi all and thank you to Roger and team for this community forum, excited to have found it. I am prepping for a music video and am interested in having a discussion on diffusion filters."
+    },
+    {
+      "type": "paragraph",
+      "text": "The script is a mix of night time interiors and daytime exteriors. Dark living room scene with TV on and practical lamps in frame. Exteriors are urban streets and beach dunes at different times of day."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am considering using a set of vintage lenses I own, but am curious about some tech on diffusion filters if I go with modern lenses. What adjustments should be made as you move from say a 24mm to an 85mm for consistency in the same scene?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do filters behave differently on an indoor practical bulb vs outdoor highlights (like on water or reflected off a building)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I also heard of filters that create the illusion of atmosphere/haze in a room which could be interesting on the interior. If anyone has experience with these i’d be interested to know more!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, any recs on which filters you’ve used/ prefer would be interesting to know as there are tons of options, and my personal experience is limited with lens diffusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you and hope this wasn’t too long winded!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/diffusion-filters/#post-216342",
+    "scraped_at": "2026-01-15T14:17:00.323543+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/diffusion-filters/#post-216342",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "37b2d9847a7a2a64f6644451444cbee510f3b61ec29f3b94c08a2e43e971e0e9",
+    "parser_version": "bbpress-v2"
+  }
+}

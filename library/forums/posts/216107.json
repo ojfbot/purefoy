@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216107",
+    "forum_slug": "camera",
+    "topic_slug": "cinematography-advice",
+    "parent_post_id": "215720",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "WATT TV",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey, Mr. Deakins. My name is Timothy Owen Weeks and I live in Kuna, Idaho. I’m a Kuna High School Class of 2024 graduate and I have an internship at the Idaho Film Society. After my hay season is complete, I want to start work on a feature film and shoot it on celluloid, but can’t afford new film stocks or cameras and have only an expired film stock and have an old Bell & Howell Super 8 camera. Do you have any advice for me?",
+  "content_html": "<p>Hey, Mr. Deakins. My name is Timothy Owen Weeks and I live in Kuna, Idaho. I’m a Kuna High School Class of 2024 graduate and I have an internship at the Idaho Film Society. After my hay season is complete, I want to start work on a feature film and shoot it on celluloid, but can’t afford new film stocks or cameras and have only an expired film stock and have an old Bell &amp; Howell Super 8 camera. Do you have any advice for me?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey, Mr. Deakins. My name is Timothy Owen Weeks and I live in Kuna, Idaho. I’m a Kuna High School Class of 2024 graduate and I have an internship at the Idaho Film Society. After my hay season is complete, I want to start work on a feature film and shoot it on celluloid, but can’t afford new film stocks or cameras and have only an expired film stock and have an old Bell & Howell Super 8 camera. Do you have any advice for me?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cinematography-advice/#post-216112",
+    "scraped_at": "2026-01-15T15:08:29.662042+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cinematography-advice/#post-216112",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c8da9be838b757c1b1ddea01fbfbf8a9cd8bced3bf0bef40e3cf98d56386f173",
+    "parser_version": "bbpress-v2"
+  }
+}

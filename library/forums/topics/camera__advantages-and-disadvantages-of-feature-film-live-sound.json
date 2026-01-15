@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/advantages-and-disadvantages-of-feature-film-live-sound/#post-215227",
+  "forum_slug": "camera",
+  "topic_slug": "advantages-and-disadvantages-of-feature-film-live-sound",
+  "title": "Advantages and disadvantages of feature film live sound",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215198",
+    "215226",
+    "215227"
+  ],
+  "reply_tree": {
+    "post_id": "215198",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215226",
+        "post_type": "reply",
+        "author": "The Byre",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215227",
+        "post_type": "reply",
+        "author": "The Byre",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/advantages-and-disadvantages-of-feature-film-live-sound/#post-215227",
+    "scraped_at": "2026-01-15T15:22:48.294302+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/advantages-and-disadvantages-of-feature-film-live-sound/#post-215227",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6a2ed04de7fa20b2996b0d12f6b6e4862bb520fce4613d71fdc44177e7b60c0f",
+    "parser_version": "bbpress-v2"
+  }
+}

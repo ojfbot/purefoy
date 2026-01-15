@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/considering-editing/#post-214864",
+  "forum_slug": "film-talk",
+  "topic_slug": "considering-editing",
+  "title": "considering editing",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214861",
+    "214862",
+    "214863",
+    "214864"
+  ],
+  "reply_tree": {
+    "post_id": "214861",
+    "post_type": "topic",
+    "author": "Ganesh Venkatesh",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214862",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214863",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214864",
+        "post_type": "reply",
+        "author": "The Byre",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/considering-editing/#post-214864",
+    "scraped_at": "2026-01-15T13:56:46.395579+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/considering-editing/#post-214864",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2c9727d242cffa8e4f317429f69456bcabce80a0a07e1034febb587b0f457a47",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214834",
+    "forum_slug": "film-talk",
+    "topic_slug": "thoughts-on-books-by-blain-brown",
+    "parent_post_id": "214833",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I can’t say anything about Blain Brown, just that books about cinematography (or filmmaking in general) never worked for me personally. They could be inspiring and great theory, but very seldom anything actually translated onto set later.\nI think I learned more by listening to Team Deakins than from any book, e.g. it made me realize how differently people can go about the same task. Which made me more confident in my own choices or actions when they didn’t correspond to what I believed to be conventional.\nThis is not to discourage you from getting books, people are different and what didn’t work for me might work very well for you!",
+  "content_html": "<p>I can’t say anything about Blain Brown, just that books about cinematography (or filmmaking in general) never worked for me personally. They could be inspiring and great theory, but very seldom anything actually translated onto set later.</p>\n<p>I think I learned more by listening to Team Deakins than from any book, e.g. it made me realize how differently people can go about the same task. Which made me more confident in my own choices or actions when they didn’t correspond to what I believed to be conventional.</p>\n<p>This is not to discourage you from getting books, people are different and what didn’t work for me might work very well for you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I can’t say anything about Blain Brown, just that books about cinematography (or filmmaking in general) never worked for me personally. They could be inspiring and great theory, but very seldom anything actually translated onto set later."
+    },
+    {
+      "type": "paragraph",
+      "text": "I think I learned more by listening to Team Deakins than from any book, e.g. it made me realize how differently people can go about the same task. Which made me more confident in my own choices or actions when they didn’t correspond to what I believed to be conventional."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is not to discourage you from getting books, people are different and what didn’t work for me might work very well for you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-books-by-blain-brown/#post-214886",
+    "scraped_at": "2026-01-15T13:56:41.575449+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-books-by-blain-brown/#post-214886",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "60d7d1f08550f902abfbbf52c65d9696188ec65f47c5e2a2acb269ee337ad218",
+    "parser_version": "bbpress-v2"
+  }
+}

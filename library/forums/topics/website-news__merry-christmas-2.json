@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/merry-christmas-2/#post-216700",
+  "forum_slug": "website-news",
+  "topic_slug": "merry-christmas-2",
+  "title": "Merry Christmas!",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216699",
+    "216700"
+  ],
+  "reply_tree": {
+    "post_id": "216699",
+    "post_type": "topic",
+    "author": "LucaM",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216700",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/merry-christmas-2/#post-216700",
+    "scraped_at": "2026-01-15T11:50:58.717612+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/merry-christmas-2/#post-216700",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f9a4bf0b6bedb81323ad766fcb113694d8696a85dea1c9b86cb4abe0461f63d6",
+    "parser_version": "bbpress-v2"
+  }
+}

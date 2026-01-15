@@ -1,0 +1,22 @@
+{
+  "sources": [
+    {
+      "type": "podcast20_transcript",
+      "url": "https://example.com/transcript.txt",
+      "format": "text/plain",
+      "priority": 1,
+      "status": "available"
+    },
+    {
+      "type": "tapesearch",
+      "url": "https://tapesearch.com/...",
+      "format": "html",
+      "priority": 2,
+      "status": "partial",
+      "notes": "May require authentication or be paywalled"
+    }
+  ],
+  "selected_source": "podcast20_transcript",
+  "fetched_at": "2026-01-15T04:30:00Z",
+  "fetch_status": "success"
+}

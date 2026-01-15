@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "217119",
+    "forum_slug": "forum",
+    "topic_slug": "guiding-principals"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "dilljib",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nAcross your films if I had to describe your images, I would consistently use the word “full”. You appear to use the entire capacity of the sensor from darks to lights, and fill out every crevice it has to offer. No one else seems capable of creating images quite like this. This of course comes from your years of expertise and wonderful taste, but I wonder if you could go into detail about your approach in two specific areas: general light level and show LUT. I find that at certain times in ones journey they internally decide what is right and what is wrong regarding certain techniques and these become the pillars of their decision making and ultimately produce their unique aesthetics.\n1. After reviewing many of your in depth summaries (Look at Lighting), it does seem that you like to work with a general light level that is higher than what would be there naturally – but of course shaping it to look appropriate for the subject matter. I’m curious if [that’s true and, if so] you adhere to a general principal around this, and what that might be?\n2. What are your guiding principals for developing a show LUT? What are you looking for in contrast, darks, lights, saturation? I would find it incredibly fascinating to see an image of yours with your show LUT (and no further grading) next to the same image with a standard LogC to REC709 LUT.\nThank you",
+  "content_html": "<p>Hi Roger,</p>\n<p>Across your films if I had to describe your images, I would consistently use the word “full”. You appear to use the entire capacity of the sensor from darks to lights, and fill out every crevice it has to offer. No one else seems capable of creating images quite like this. This of course comes from your years of expertise and wonderful taste, but I wonder if you could go into detail about your approach in two specific areas: general light level and show LUT. I find that at certain times in ones journey they internally decide what is right and what is wrong regarding certain techniques and these become the pillars of their decision making and ultimately produce their unique aesthetics.</p>\n<p>1. After reviewing many of your in depth summaries (Look at Lighting), it does seem that you like to work with a general light level that is higher than what would be there naturally – but of course shaping it to look appropriate for the subject matter. I’m curious if [that’s true and, if so] you adhere to a general principal around this, and what that might be?</p>\n<p>2. What are your guiding principals for developing a show LUT? What are you looking for in contrast, darks, lights, saturation? I would find it incredibly fascinating to see an image of yours with your show LUT (and no further grading) next to the same image with a standard LogC to REC709 LUT.</p>\n<p>Thank you</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Across your films if I had to describe your images, I would consistently use the word “full”. You appear to use the entire capacity of the sensor from darks to lights, and fill out every crevice it has to offer. No one else seems capable of creating images quite like this. This of course comes from your years of expertise and wonderful taste, but I wonder if you could go into detail about your approach in two specific areas: general light level and show LUT. I find that at certain times in ones journey they internally decide what is right and what is wrong regarding certain techniques and these become the pillars of their decision making and ultimately produce their unique aesthetics."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. After reviewing many of your in depth summaries (Look at Lighting), it does seem that you like to work with a general light level that is higher than what would be there naturally – but of course shaping it to look appropriate for the subject matter. I’m curious if [that’s true and, if so] you adhere to a general principal around this, and what that might be?"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. What are your guiding principals for developing a show LUT? What are you looking for in contrast, darks, lights, saturation? I would find it incredibly fascinating to see an image of yours with your show LUT (and no further grading) next to the same image with a standard LogC to REC709 LUT."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/guiding-principals/#post-217164",
+    "scraped_at": "2026-01-15T15:21:49.391992+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/guiding-principals/#post-217164",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9a242455ca9b706d16b22b24191092496c10165e305186525906764e5801e2bf",
+    "parser_version": "bbpress-v2"
+  }
+}

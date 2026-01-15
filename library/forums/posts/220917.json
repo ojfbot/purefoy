@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220917",
+    "forum_slug": "forum",
+    "topic_slug": "how-much-of-the-look-is-just-you",
+    "parent_post_id": "220867",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Having all the best, or the same identical equipment wont get you similar results. It’s the intention, prep and experience that get those visuals and emotions to come through. With a team effort. If you gave me the same exact car an F1 driver uses, I wouldn’t even know how to use it let alone race it well. And the same, if you gave me the same equipment package (and crew) Roger had in a given scene, I would not get the same result. Even the most experienced DPs would not get the same result. Everyone’s perspective will just be different. Then this goes back to experience and vision on the flip side of things. Roger has shown examples of only using bounce and negative to make a shot work, and it looked great. It’s not the gear stopping us from getting a good and/or stylized look. Though I too would love access to some 20ks and a big crew for a shoot haha! I wrote this because it was a good reminder to myself as well",
+  "content_html": "<p>Having all the best, or the same identical equipment wont get you similar results. It’s the intention, prep and experience that get those visuals and emotions to come through. With a team effort. If you gave me the same exact car an F1 driver uses, I wouldn’t even know how to use it let alone race it well. And the same, if you gave me the same equipment package (and crew) Roger had in a given scene, I would not get the same result. Even the most experienced DPs would not get the same result. Everyone’s perspective will just be different. Then this goes back to experience and vision on the flip side of things. Roger has shown examples of only using bounce and negative to make a shot work, and it looked great. It’s not the gear stopping us from getting a good and/or stylized look. Though I too would love access to some 20ks and a big crew for a shoot haha! I wrote this because it was a good reminder to myself as well</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Having all the best, or the same identical equipment wont get you similar results. It’s the intention, prep and experience that get those visuals and emotions to come through. With a team effort. If you gave me the same exact car an F1 driver uses, I wouldn’t even know how to use it let alone race it well. And the same, if you gave me the same equipment package (and crew) Roger had in a given scene, I would not get the same result. Even the most experienced DPs would not get the same result. Everyone’s perspective will just be different. Then this goes back to experience and vision on the flip side of things. Roger has shown examples of only using bounce and negative to make a shot work, and it looked great. It’s not the gear stopping us from getting a good and/or stylized look. Though I too would love access to some 20ks and a big crew for a shoot haha! I wrote this because it was a good reminder to myself as well"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-much-of-the-look-is-just-you/#post-220918",
+    "scraped_at": "2026-01-15T12:48:47.799180+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-much-of-the-look-is-just-you/#post-220918",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "995d0cb5e2362477919ae5ccc7dc6d61f7d8eb5ad31ad142e917b490dedece12",
+    "parser_version": "bbpress-v2"
+  }
+}

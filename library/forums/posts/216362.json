@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "216362",
+    "forum_slug": "still-photography",
+    "topic_slug": "some-stills-from-today"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "TWSILK",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Been super busy which is good, still using cinematic mindset with my still work.  I was working a soccer game for the local newspaper and as I left the marching band was practicng with harsh light, and they were stirring up dust,  so much fun, the light and shadows, the patches of light caused some of the deeper shadows and the brass instruments broke through and were clear and reflected the clean light behind them.\nThese are all with the r3 mirrorless, I still don’t like mirrorless, I like to look through a glass view finder  and most of the time still use slrs.  I’ll post some of them below.  I was thinking of some of Roger’s work and Alfred Steiglitz.",
+  "content_html": "<p>Been super busy which is good, still using cinematic mindset with my still work.  I was working a soccer game for the local newspaper and as I left the marching band was practicng with harsh light, and they were stirring up dust,  so much fun, the light and shadows, the patches of light caused some of the deeper shadows and the brass instruments broke through and were clear and reflected the clean light behind them.</p>\n<p>These are all with the r3 mirrorless, I still don’t like mirrorless, I like to look through a glass view finder  and most of the time still use slrs.  I’ll post some of them below.  I was thinking of some of Roger’s work and Alfred Steiglitz.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Been super busy which is good, still using cinematic mindset with my still work.  I was working a soccer game for the local newspaper and as I left the marching band was practicng with harsh light, and they were stirring up dust,  so much fun, the light and shadows, the patches of light caused some of the deeper shadows and the brass instruments broke through and were clear and reflected the clean light behind them."
+    },
+    {
+      "type": "paragraph",
+      "text": "These are all with the r3 mirrorless, I still don’t like mirrorless, I like to look through a glass view finder  and most of the time still use slrs.  I’ll post some of them below.  I was thinking of some of Roger’s work and Alfred Steiglitz."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/some-stills-from-today/#post-216376",
+    "scraped_at": "2026-01-15T12:07:56.474716+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/some-stills-from-today/#post-216376",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0c6ff46d3fb8c6a6f8fab1be7dd838b378305ed1dabe46c7f2d6c8711939a183",
+    "parser_version": "bbpress-v2"
+  }
+}

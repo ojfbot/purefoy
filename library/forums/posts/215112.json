@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215112",
+    "forum_slug": "forum",
+    "topic_slug": "led-on-film",
+    "parent_post_id": "215089",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This year several companies brought out spotlight LEDs with power around 3500 Watt, which is roughly equivalent to 4K HMI or 12K Tungsten fresnel.\nSo still quite far from large HMI units.",
+  "content_html": "<p>This year several companies brought out spotlight LEDs with power around 3500 Watt, which is roughly equivalent to 4K HMI or 12K Tungsten fresnel.</p>\n<p>So still quite far from large HMI units.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This year several companies brought out spotlight LEDs with power around 3500 Watt, which is roughly equivalent to 4K HMI or 12K Tungsten fresnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "So still quite far from large HMI units."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/led-on-film/#post-215121",
+    "scraped_at": "2026-01-15T15:49:09.774166+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/led-on-film/#post-215121",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fd32abbceaffb3ad9f4195b1f68826b02d34974a8df7520a1eb6d499bd58acda",
+    "parser_version": "bbpress-v2"
+  }
+}

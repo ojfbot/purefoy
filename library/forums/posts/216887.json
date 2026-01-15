@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "216887",
+    "forum_slug": "camera",
+    "topic_slug": "false-color-and-lut-workflow"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I am wondering the best pipeline for exposure readings on set, when shooting in Log (or raw) and using false. I like to use false color, and specifically El Zone, to read my contrast ratios in the frame and set highlights. However, El zone turns the monitoring LUT off and reads levels off the Log image. This would seemingly throw off contrast ratios later in the grade, once converted to rec709 and contrast is added. Is this a problem? What am I missing here?\nWhat is a good monitoring workflow when using false color and viewing Luts? Do you use a different false color tool that reads levels with the Lut applied?\nI also completely see the benefits to using a meter as well, for those who prefer working that way. I am trying to adopt a workflow without a meter the moment. Thank you!",
+  "content_html": "<p>I am wondering the best pipeline for exposure readings on set, when shooting in Log (or raw) and using false. I like to use false color, and specifically El Zone, to read my contrast ratios in the frame and set highlights. However, El zone turns the monitoring LUT off and reads levels off the Log image. This would seemingly throw off contrast ratios later in the grade, once converted to rec709 and contrast is added. Is this a problem? What am I missing here?</p>\n<p>What is a good monitoring workflow when using false color and viewing Luts? Do you use a different false color tool that reads levels with the Lut applied?</p>\n<p>I also completely see the benefits to using a meter as well, for those who prefer working that way. I am trying to adopt a workflow without a meter the moment. Thank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I am wondering the best pipeline for exposure readings on set, when shooting in Log (or raw) and using false. I like to use false color, and specifically El Zone, to read my contrast ratios in the frame and set highlights. However, El zone turns the monitoring LUT off and reads levels off the Log image. This would seemingly throw off contrast ratios later in the grade, once converted to rec709 and contrast is added. Is this a problem? What am I missing here?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What is a good monitoring workflow when using false color and viewing Luts? Do you use a different false color tool that reads levels with the Lut applied?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I also completely see the benefits to using a meter as well, for those who prefer working that way. I am trying to adopt a workflow without a meter the moment. Thank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/page/2/",
+    "scraped_at": "2026-01-15T13:16:28.939047+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7ceaee876a0634187db865f748709ca15ecd932d843f4aadab59a9a459f7d828",
+    "parser_version": "bbpress-v2"
+  }
+}

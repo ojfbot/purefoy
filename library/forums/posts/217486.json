@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "217486",
+    "forum_slug": "set-talk",
+    "topic_slug": "developing-a-rock-solid-shot-list",
+    "parent_post_id": "216670",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "James Parsons",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This doesn’t solve every mistake I make, but I find it solves at least one problem on almost every project… shoot a little something before the director calls action, and definitely after they call cut.\nIf you’re on an actor before the scene starts, you often get a beat of “focus” or “intention” or even “anxiety,” and if you’re on them for a few beats after you can get to see them release tension, or shift focus, or physically adjust position or look or even just twitch a small muscle in an undefined way. Invariably, a director/editor (who you alert to look out for those moments) can Kuleshov effect a clip to create a emotionally appropo  cut away for a flubbed line or a focus bump or a transition in or out of a story beat.\nIf I’m not on a face, I do the same thing on hands, props, set dressing, background actors, pan around on a location or set, pop off a few frames on clouds or the skyline, etc…. Especially on indie projects there’s never enough b-roll, and there’s definitely never a pickup day to go out and shoot inserts and establishing shots, so I just try to get as much of that as possible informally as I go.",
+  "content_html": "<p>This doesn’t solve every mistake I make, but I find it solves at least one problem on almost every project… shoot a little something before the director calls action, and definitely after they call cut.</p>\n<p>If you’re on an actor before the scene starts, you often get a beat of “focus” or “intention” or even “anxiety,” and if you’re on them for a few beats after you can get to see them release tension, or shift focus, or physically adjust position or look or even just twitch a small muscle in an undefined way. Invariably, a director/editor (who you alert to look out for those moments) can Kuleshov effect a clip to create a emotionally appropo  cut away for a flubbed line or a focus bump or a transition in or out of a story beat.</p>\n<p>If I’m not on a face, I do the same thing on hands, props, set dressing, background actors, pan around on a location or set, pop off a few frames on clouds or the skyline, etc…. Especially on indie projects there’s never enough b-roll, and there’s definitely never a pickup day to go out and shoot inserts and establishing shots, so I just try to get as much of that as possible informally as I go.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This doesn’t solve every mistake I make, but I find it solves at least one problem on almost every project… shoot a little something before the director calls action, and definitely after they call cut."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you’re on an actor before the scene starts, you often get a beat of “focus” or “intention” or even “anxiety,” and if you’re on them for a few beats after you can get to see them release tension, or shift focus, or physically adjust position or look or even just twitch a small muscle in an undefined way. Invariably, a director/editor (who you alert to look out for those moments) can Kuleshov effect a clip to create a emotionally appropo  cut away for a flubbed line or a focus bump or a transition in or out of a story beat."
+    },
+    {
+      "type": "paragraph",
+      "text": "If I’m not on a face, I do the same thing on hands, props, set dressing, background actors, pan around on a location or set, pop off a few frames on clouds or the skyline, etc…. Especially on indie projects there’s never enough b-roll, and there’s definitely never a pickup day to go out and shoot inserts and establishing shots, so I just try to get as much of that as possible informally as I go."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/developing-a-rock-solid-shot-list/#post-217486",
+    "scraped_at": "2026-01-15T12:08:11.156082+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/developing-a-rock-solid-shot-list/#post-217486",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3cdc766ddddaa485dcab16e993cb21e8e9e0711ac6acd5b6e34f3c2b2ca9acf1",
+    "parser_version": "bbpress-v2"
+  }
+}

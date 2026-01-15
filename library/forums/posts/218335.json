@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218335",
+    "forum_slug": "forum",
+    "topic_slug": "happy-birthday-to-the-legendary",
+    "parent_post_id": "218300",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Kami",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for your contribution to cinema and fostering a great community. hbd!",
+  "content_html": "<p>Thank you for your contribution to cinema and fostering a great community. hbd!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for your contribution to cinema and fostering a great community. hbd!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-to-the-legendary/#post-218340",
+    "scraped_at": "2026-01-15T15:08:21.640172+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-to-the-legendary/#post-218340",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a64d49abe2961ecff13eb2ffa83ca5e575e1288a315e53610451b18bbc796659",
+    "parser_version": "bbpress-v2"
+  }
+}

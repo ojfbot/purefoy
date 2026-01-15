@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/smoque-1-filter-for-daytime-interiors/#post-202692",
+  "forum_slug": "camera",
+  "topic_slug": "smoque-1-filter-for-daytime-interiors",
+  "title": "Smoque 1 filter for (daytime) interiors?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "202519",
+    "202659",
+    "202692"
+  ],
+  "reply_tree": {
+    "post_id": "202519",
+    "post_type": "topic",
+    "author": "Stip",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "202659",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "202692",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/smoque-1-filter-for-daytime-interiors/#post-202692",
+    "scraped_at": "2026-01-15T15:42:31.817895+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/smoque-1-filter-for-daytime-interiors/#post-202692",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5453df834b05aa4bb00790b81d92c3179657141608553637b2e1dbb1f1fa6587",
+    "parser_version": "bbpress-v2"
+  }
+}

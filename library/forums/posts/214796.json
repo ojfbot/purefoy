@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214796",
+    "forum_slug": "forum",
+    "topic_slug": "sicario-hitman-scene",
+    "parent_post_id": "214790",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "GianniRanzuglia",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Haha yeah you’re right, on a close inspection it doesn’t look the lamp would be able to cast so much light on the ceiling, but it never bothered me while watching the film.\nThanks for the answer!",
+  "content_html": "<p>Haha yeah you’re right, on a close inspection it doesn’t look the lamp would be able to cast so much light on the ceiling, but it never bothered me while watching the film.</p>\n<p>Thanks for the answer!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Haha yeah you’re right, on a close inspection it doesn’t look the lamp would be able to cast so much light on the ceiling, but it never bothered me while watching the film."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks for the answer!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario-hitman-scene/#post-214796",
+    "scraped_at": "2026-01-15T15:51:36.635148+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-hitman-scene/#post-214796",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cec8ffd7ad43fa36e61a6eddea4bab7bf79546144fc335dfb16569444067a170",
+    "parser_version": "bbpress-v2"
+  }
+}

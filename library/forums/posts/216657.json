@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216657",
+    "forum_slug": "camera",
+    "topic_slug": "film-emulation-luts-deakins-lut-and-dior-lens-filter",
+    "parent_post_id": "216639",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Matt Stahley",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "My wife and I have made a few extremely low budget features and know the amount of work that goers into it just being two people that basically did it all so congrats on that. Seeing you struggle with the filter knowing that those mics have clips on them I had to laugh 🙂",
+  "content_html": "<p>My wife and I have made a few extremely low budget features and know the amount of work that goers into it just being two people that basically did it all so congrats on that. Seeing you struggle with the filter knowing that those mics have clips on them I had to laugh 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "My wife and I have made a few extremely low budget features and know the amount of work that goers into it just being two people that basically did it all so congrats on that. Seeing you struggle with the filter knowing that those mics have clips on them I had to laugh 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/film-emulation-luts-deakins-lut-and-dior-lens-filter/#post-216657",
+    "scraped_at": "2026-01-15T13:39:54.171835+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/film-emulation-luts-deakins-lut-and-dior-lens-filter/#post-216657",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "df391e5f2a0383dc3d6e8f6c60012a4272b12da0301cce9ed309ee330d1266b1",
+    "parser_version": "bbpress-v2"
+  }
+}

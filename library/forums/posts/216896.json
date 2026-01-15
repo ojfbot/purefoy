@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216896",
+    "forum_slug": "forum",
+    "topic_slug": "fixture-to-set-distance-purely-from-a-falloff-consideration",
+    "parent_post_id": "216893",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think the question is too abstract — I mean, I’d place the hard light a city block away to get a sharp pattern like sunlight from it, with the correct fall-off, but that’s hardly practical and the intensity would be useless.\nYou basically will try and get the hard light as far back as is practical or possible while still maintaining the intensity you want. You also have to factor in whether you are using multiple hard lights for a row of windows and if you need to separate the beams.",
+  "content_html": "<p>I think the question is too abstract — I mean, I’d place the hard light a city block away to get a sharp pattern like sunlight from it, with the correct fall-off, but that’s hardly practical and the intensity would be useless.</p>\n<p>You basically will try and get the hard light as far back as is practical or possible while still maintaining the intensity you want. You also have to factor in whether you are using multiple hard lights for a row of windows and if you need to separate the beams.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think the question is too abstract — I mean, I’d place the hard light a city block away to get a sharp pattern like sunlight from it, with the correct fall-off, but that’s hardly practical and the intensity would be useless."
+    },
+    {
+      "type": "paragraph",
+      "text": "You basically will try and get the hard light as far back as is practical or possible while still maintaining the intensity you want. You also have to factor in whether you are using multiple hard lights for a row of windows and if you need to separate the beams."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/fixture-to-set-distance-purely-from-a-falloff-consideration/#post-216922",
+    "scraped_at": "2026-01-15T15:22:30.979915+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/fixture-to-set-distance-purely-from-a-falloff-consideration/#post-216922",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f1a019254f598b9ce37b80a339c12c0efb53272c3f7518216a72650198231680",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214484",
+    "forum_slug": "forum",
+    "topic_slug": "necessary-for-light-meter",
+    "parent_post_id": "214481",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "<p style=”text-align: left;”>I rely exclusively on my light meters to light and expose. Why?\nEven I’m not that old I started on film so that’s how I learned to look and expose. Also the productions I work can’t have good calibrated monitors all the time and I refused to buy my own monitors, or sometimes it’s not practical to have monitors at all. So the only way for me to keep a perfect consistency on lighting and exposure is to trust my own light meters that I carry with me all the time. They don’t take much space neither.\nWith today’s tools it’s not mandatory to use them. It’s just another tool. But for example when you are lighting and camera is not still ready not having a lightmeter is a bit of a pain in my opinion.\nI find easier to use a light meter for exposure once I calibrate it against the camera/s and look we will use for each project. Don’t get me wrong, monitors, even not calibrated, are very useful, and I’m guilty to vary exposure after I look at one but here experience also plays a big role. But to me the ultimate tool to know exactly what’s happening are my lightmeters.</p>",
+  "content_html": "<p>&lt;p style=”text-align: left;”&gt;I rely exclusively on my light meters to light and expose. Why?<br/>\nEven I’m not that old I started on film so that’s how I learned to look and expose. Also the productions I work can’t have good calibrated monitors all the time and I refused to buy my own monitors, or sometimes it’s not practical to have monitors at all. So the only way for me to keep a perfect consistency on lighting and exposure is to trust my own light meters that I carry with me all the time. They don’t take much space neither.<br/>\nWith today’s tools it’s not mandatory to use them. It’s just another tool. But for example when you are lighting and camera is not still ready not having a lightmeter is a bit of a pain in my opinion.<br/>\nI find easier to use a light meter for exposure once I calibrate it against the camera/s and look we will use for each project. Don’t get me wrong, monitors, even not calibrated, are very useful, and I’m guilty to vary exposure after I look at one but here experience also plays a big role. But to me the ultimate tool to know exactly what’s happening are my lightmeters.&lt;/p&gt;</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "<p style=”text-align: left;”>I rely exclusively on my light meters to light and expose. Why?\nEven I’m not that old I started on film so that’s how I learned to look and expose. Also the productions I work can’t have good calibrated monitors all the time and I refused to buy my own monitors, or sometimes it’s not practical to have monitors at all. So the only way for me to keep a perfect consistency on lighting and exposure is to trust my own light meters that I carry with me all the time. They don’t take much space neither.\nWith today’s tools it’s not mandatory to use them. It’s just another tool. But for example when you are lighting and camera is not still ready not having a lightmeter is a bit of a pain in my opinion.\nI find easier to use a light meter for exposure once I calibrate it against the camera/s and look we will use for each project. Don’t get me wrong, monitors, even not calibrated, are very useful, and I’m guilty to vary exposure after I look at one but here experience also plays a big role. But to me the ultimate tool to know exactly what’s happening are my lightmeters.</p>"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/necessary-for-light-meter/#post-214531",
+    "scraped_at": "2026-01-15T15:52:57.635329+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/necessary-for-light-meter/#post-214531",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3c7b8e99595aed14eaec4624c51c1a5ea2a483211c06b4fc4572b731ae2ca7e2",
+    "parser_version": "bbpress-v2"
+  }
+}

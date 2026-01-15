@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "219219",
+    "forum_slug": "team-deakins",
+    "topic_slug": "starting-out-in-cinematography-at-46-advice-welcome",
+    "parent_post_id": "219164",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Gregg",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "As long as you have a 2nd stream of income, go for it.",
+  "content_html": "<p>As long as you have a 2nd stream of income, go for it.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "As long as you have a 2nd stream of income, go for it."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/starting-out-in-cinematography-at-46-advice-welcome/#post-219345",
+    "scraped_at": "2026-01-15T12:26:25.612398+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/starting-out-in-cinematography-at-46-advice-welcome/#post-219345",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e341e3d83dae62db2e3cebfb5c47e38ae520fcd60fad31b2dfc6d2d92c2aae65",
+    "parser_version": "bbpress-v2"
+  }
+}

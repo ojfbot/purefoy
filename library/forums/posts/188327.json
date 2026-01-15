@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "post_id": "188327",
+    "forum_slug": "post",
+    "topic_slug": "printer-lights-and-digital",
+    "parent_post_id": "187460",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Tyler F",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "@Roger\n— Ah I’m starting to see where there was confusion in my thinking. Printer lights and timing are completely separate from each other? I was assuming they were a part of the same process.\nSo if one shoots on 16mm (or any film for that matter) and scans to digital, then there is no real need for printer lights as that’s meant for projection?\n@Quijotesco — Yes I’ve done something similar using Resolves false color to figure out ratios between background and talent or to see where the overall exposure lies within a frame. You’re correct though in saying that the final image is what you’re basing it off of, so if it was decided in post to take down the background 1 or more stops… you’re left up to imagination.\n@David\n— That’s the most true statement if I’ve ever heard it haha. At the end of the day it’s not so much technicallities as it’s about the story and how we feel about it.",
+  "content_html": "<p><a class=\"bbp-user-mention bbp-user-id-12\" href=\"https://www.rogerdeakins.com/forums/users/roger/\"> @Roger</a> — Ah I’m starting to see where there was confusion in my thinking. Printer lights and timing are completely separate from each other? I was assuming they were a part of the same process.</p>\n<p>So if one shoots on 16mm (or any film for that matter) and scans to digital, then there is no real need for printer lights as that’s meant for projection?</p>\n<p> </p>\n<p>@Quijotesco — Yes I’ve done something similar using Resolves false color to figure out ratios between background and talent or to see where the overall exposure lies within a frame. You’re correct though in saying that the final image is what you’re basing it off of, so if it was decided in post to take down the background 1 or more stops… you’re left up to imagination.</p>\n<p> </p>\n<p><a class=\"bbp-user-mention bbp-user-id-754\" href=\"https://www.rogerdeakins.com/forums/users/david/\"><br/>\n@David</a> — That’s the most true statement if I’ve ever heard it haha. At the end of the day it’s not so much technicallities as it’s about the story and how we feel about it.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "@Roger\n— Ah I’m starting to see where there was confusion in my thinking. Printer lights and timing are completely separate from each other? I was assuming they were a part of the same process."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if one shoots on 16mm (or any film for that matter) and scans to digital, then there is no real need for printer lights as that’s meant for projection?"
+    },
+    {
+      "type": "paragraph",
+      "text": "@Quijotesco — Yes I’ve done something similar using Resolves false color to figure out ratios between background and talent or to see where the overall exposure lies within a frame. You’re correct though in saying that the final image is what you’re basing it off of, so if it was decided in post to take down the background 1 or more stops… you’re left up to imagination."
+    },
+    {
+      "type": "paragraph",
+      "text": "@David\n— That’s the most true statement if I’ve ever heard it haha. At the end of the day it’s not so much technicallities as it’s about the story and how we feel about it."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/roger/",
+      "text": "@Roger",
+      "kind": "external"
+    },
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/david/",
+      "text": "@David",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/printer-lights-and-digital/#post-189193",
+    "scraped_at": "2026-01-15T13:39:52.307319+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/printer-lights-and-digital/#post-189193",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "514c38ba348525cb6f2f73122d09763530475e3a5f61490e650cb680a3415cdb",
+    "parser_version": "bbpress-v2"
+  }
+}

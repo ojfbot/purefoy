@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "215688",
+    "forum_slug": "forum",
+    "topic_slug": "about-crls-cine-reflect-lighting-system"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "zzxinsk",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "To: Mr. Deakins,\nFirst of all, it’s an honor to ask my question here, thank you for making this space and opportunity.\nI’ve been using CRLS in my work for about a year so I have a question:\nUsually we film in very small spaces and my set up consists of the light on the flour directed on CRLS (with high reflection coefficient, like mirror) which is placed high and directed on the object. From my opinion using CRLS gives more natural light (doubling the distance) when I want to simulate sun light or street light. Does a direct light without using CRLS from the distance (that I usually simulate with using CRLS) look more natural? Or does using CRLS help to get this more natural look? Is there any differences between using direct light and reflected light from CRLS?\nThank you for your answer in advance!\nFrom: Zhong ZhaoXiao",
+  "content_html": "<p>To: Mr. Deakins,</p>\n<p>First of all, it’s an honor to ask my question here, thank you for making this space and opportunity.</p>\n<p>I’ve been using CRLS in my work for about a year so I have a question:</p>\n<p>Usually we film in very small spaces and my set up consists of the light on the flour directed on CRLS (with high reflection coefficient, like mirror) which is placed high and directed on the object. From my opinion using CRLS gives more natural light (doubling the distance) when I want to simulate sun light or street light. Does a direct light without using CRLS from the distance (that I usually simulate with using CRLS) look more natural? Or does using CRLS help to get this more natural look? Is there any differences between using direct light and reflected light from CRLS?</p>\n<p>Thank you for your answer in advance!</p>\n<p>From: Zhong ZhaoXiao</p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "To: Mr. Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "First of all, it’s an honor to ask my question here, thank you for making this space and opportunity."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve been using CRLS in my work for about a year so I have a question:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Usually we film in very small spaces and my set up consists of the light on the flour directed on CRLS (with high reflection coefficient, like mirror) which is placed high and directed on the object. From my opinion using CRLS gives more natural light (doubling the distance) when I want to simulate sun light or street light. Does a direct light without using CRLS from the distance (that I usually simulate with using CRLS) look more natural? Or does using CRLS help to get this more natural look? Is there any differences between using direct light and reflected light from CRLS?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for your answer in advance!"
+    },
+    {
+      "type": "paragraph",
+      "text": "From: Zhong ZhaoXiao"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-crls-cine-reflect-lighting-system/",
+    "scraped_at": "2026-01-15T15:45:20.631829+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-crls-cine-reflect-lighting-system/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "07a9f4a96ebb425a3b4ac65ae49b15820db44e233f09bf1fa15d0f0152b12d22",
+    "parser_version": "bbpress-v2"
+  }
+}

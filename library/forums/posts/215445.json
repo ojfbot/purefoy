@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215445",
+    "forum_slug": "camera",
+    "topic_slug": "in-camera-lens-corrections",
+    "parent_post_id": "215347",
+    "parent_type": "topic",
+    "position": 11
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "JakeWest",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "What’s your opinion on using lens corrections?",
+  "content_html": "<p>What’s your opinion on using lens corrections?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "What’s your opinion on using lens corrections?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/in-camera-lens-corrections/#post-216194",
+    "scraped_at": "2026-01-15T14:33:52.633756+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/in-camera-lens-corrections/#post-216194",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b76e11e31db8b998310fa4b4037e77cbf5badd62c9d68f38956bf841dd27f0a9",
+    "parser_version": "bbpress-v2"
+  }
+}

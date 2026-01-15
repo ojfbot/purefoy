@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "post_id": "220562",
+    "forum_slug": "forum",
+    "topic_slug": "questions-reg-true-grit-greaser-bobs-lighting-breakdown"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Wolfgang Illmayr",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger, and all,\nI have some questions regarding your lighting breakdown of the Greaser Bob’s scene from True Grit. I put my guesses into the questions, but I am not really sure, if those are correct.\nWhen you are using multiple Fresnels to create a moon light source, how do you avoid multiple shadows/multiple outlines of the shadows? Do you add any diffusion to merge the lamps or do the lamps merge into one single, softer source just by themselves once you reach a certain distance?\nIn the last of the lamp breakdowns you denoted different filtration (?) like “double”, “single”, “clean”, etc. Does this refer to scrims or color gels? Is it to make the light seem more natural or to adjust the light to the landscape or distances?\nAnd, finally, when you go in for the closer shots, like the one of Mattie, do you still work with the sources for the wide shot (maybe with a diffusion frame closer) or do you bring in new lights (I am assuming you used the 4K on the ground denoted in the last diagram for that)?\nI am still learning how to approach lighting setups, and cannot really test the bigger ones myself, therefore it would be very helpful for me to understand these strategies better.\nThank you very much, also for all the great resources you and James are providing,\nWolfgang",
+  "content_html": "<p>Hi Roger, and all,</p>\n<p>I have some questions regarding your lighting breakdown of the Greaser Bob’s scene from True Grit. I put my guesses into the questions, but I am not really sure, if those are correct.</p>\n<p>When you are using multiple Fresnels to create a moon light source, how do you avoid multiple shadows/multiple outlines of the shadows? Do you add any diffusion to merge the lamps or do the lamps merge into one single, softer source just by themselves once you reach a certain distance?</p>\n<p>In the last of the lamp breakdowns you denoted different filtration (?) like “double”, “single”, “clean”, etc. Does this refer to scrims or color gels? Is it to make the light seem more natural or to adjust the light to the landscape or distances?</p>\n<p>And, finally, when you go in for the closer shots, like the one of Mattie, do you still work with the sources for the wide shot (maybe with a diffusion frame closer) or do you bring in new lights (I am assuming you used the 4K on the ground denoted in the last diagram for that)?</p>\n<p>I am still learning how to approach lighting setups, and cannot really test the bigger ones myself, therefore it would be very helpful for me to understand these strategies better.</p>\n<p>Thank you very much, also for all the great resources you and James are providing,</p>\n<p>Wolfgang</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger, and all,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have some questions regarding your lighting breakdown of the Greaser Bob’s scene from True Grit. I put my guesses into the questions, but I am not really sure, if those are correct."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you are using multiple Fresnels to create a moon light source, how do you avoid multiple shadows/multiple outlines of the shadows? Do you add any diffusion to merge the lamps or do the lamps merge into one single, softer source just by themselves once you reach a certain distance?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the last of the lamp breakdowns you denoted different filtration (?) like “double”, “single”, “clean”, etc. Does this refer to scrims or color gels? Is it to make the light seem more natural or to adjust the light to the landscape or distances?"
+    },
+    {
+      "type": "paragraph",
+      "text": "And, finally, when you go in for the closer shots, like the one of Mattie, do you still work with the sources for the wide shot (maybe with a diffusion frame closer) or do you bring in new lights (I am assuming you used the 4K on the ground denoted in the last diagram for that)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am still learning how to approach lighting setups, and cannot really test the bigger ones myself, therefore it would be very helpful for me to understand these strategies better."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you very much, also for all the great resources you and James are providing,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wolfgang"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/questions-reg-true-grit-greaser-bobs-lighting-breakdown/#post-220566",
+    "scraped_at": "2026-01-15T13:23:29.849896+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/questions-reg-true-grit-greaser-bobs-lighting-breakdown/#post-220566",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6eac632cbe8c389a722409aafe4b81b8d72760d268ba3b059ef5ccadd33c66c2",
+    "parser_version": "bbpress-v2"
+  }
+}

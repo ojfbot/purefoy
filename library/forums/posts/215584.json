@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215584",
+    "forum_slug": "post",
+    "topic_slug": "amazon-prime-deliverables",
+    "parent_post_id": "215581",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There are usually a whole range of deliverables, HDR included. I have always worked with an experienced post facility that has set every monitor to its optimum setting so I could not advise how the OLED is translating your material.",
+  "content_html": "<p>There are usually a whole range of deliverables, HDR included. I have always worked with an experienced post facility that has set every monitor to its optimum setting so I could not advise how the OLED is translating your material.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There are usually a whole range of deliverables, HDR included. I have always worked with an experienced post facility that has set every monitor to its optimum setting so I could not advise how the OLED is translating your material."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/amazon-prime-deliverables/#post-215584",
+    "scraped_at": "2026-01-15T12:42:29.544137+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/amazon-prime-deliverables/#post-215584",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fe3d81bd987e6ca770f6a0744c6fdae0b1a3796f67f0ea41cc0bf8a7ba5f2c94",
+    "parser_version": "bbpress-v2"
+  }
+}

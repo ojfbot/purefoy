@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "218023",
+    "forum_slug": "forum",
+    "topic_slug": "matching-2-shots-in-different-locations",
+    "parent_post_id": "217905",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks to everybody for your tips!\nTo clarify, as Roger guessed i’m perhaps overthinking about that, since while the two walls are in two different rooms, they actually are rotated of 90° and they belong to the same building, so it shouldn’t be a great issue to match the two shots and make them look two sides of the same room (summin up, in one room i have a library i’d like to use as a background but i can’t use its window, while in the other room i have a nice window but no library…) .  I’m a bit sorry i won’t be free to move the camera from a side to the other but as long as i can use natural light i’m happy. And i think a static camera could be useful to create a bit of tension, given it’s an horror story.\nThanks for the tip about the audio, Stip! i was not thinking about that, but you are right, audio will help in creating the matching!\nAnd now let’s go and find that shot in Hail Caesar, ah ah!",
+  "content_html": "<p>Thanks to everybody for your tips!</p>\n<p>To clarify, as Roger guessed i’m perhaps overthinking about that, since while the two walls are in two different rooms, they actually are rotated of 90° and they belong to the same building, so it shouldn’t be a great issue to match the two shots and make them look two sides of the same room (summin up, in one room i have a library i’d like to use as a background but i can’t use its window, while in the other room i have a nice window but no library…) .  I’m a bit sorry i won’t be free to move the camera from a side to the other but as long as i can use natural light i’m happy. And i think a static camera could be useful to create a bit of tension, given it’s an horror story.</p>\n<p>Thanks for the tip about the audio, Stip! i was not thinking about that, but you are right, audio will help in creating the matching!</p>\n<p>And now let’s go and find that shot in Hail Caesar, ah ah!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks to everybody for your tips!"
+    },
+    {
+      "type": "paragraph",
+      "text": "To clarify, as Roger guessed i’m perhaps overthinking about that, since while the two walls are in two different rooms, they actually are rotated of 90° and they belong to the same building, so it shouldn’t be a great issue to match the two shots and make them look two sides of the same room (summin up, in one room i have a library i’d like to use as a background but i can’t use its window, while in the other room i have a nice window but no library…) .  I’m a bit sorry i won’t be free to move the camera from a side to the other but as long as i can use natural light i’m happy. And i think a static camera could be useful to create a bit of tension, given it’s an horror story."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks for the tip about the audio, Stip! i was not thinking about that, but you are right, audio will help in creating the matching!"
+    },
+    {
+      "type": "paragraph",
+      "text": "And now let’s go and find that shot in Hail Caesar, ah ah!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/matching-2-shots-in-different-locations/#post-218126",
+    "scraped_at": "2026-01-15T15:18:14.886352+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/matching-2-shots-in-different-locations/#post-218126",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "128333de653e127ac34454f7578530b3b0b6bfc1958f37b1403f7b2dfe180419",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "170675",
+    "forum_slug": "film-talk",
+    "topic_slug": "the-battle-of-algiers"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Rizzy",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Wow.\nI have just finished watching this film and I was hooked from the first shot. I thought of this forum because I remember hearing Roger Deakins mention it in one of the podcast episodes and I’ve been meaning to watch it since then.\nI doubt there is much to say about it that hasn’t already been said but a few things that stood out to me:\nI was immediately struck by the realism of it, and I found the orchestration of the whole movie remarkable throughout. It reminded me of David Lean, or Lawrence of Arabia in that way, where you just think how did he get all those people to do that? Only with Lean it is because he has such a huge canvas, and with BOA it was smaller, like a documentary, but it all felt so much bigger outside of the frame.\nI’d like to look into how it was shot. I wondered how the street scenes were done and if there would have been any lighting gear or if it was hand held. I don’t know enough to be able to tell by watching.\nI found the pacing very refreshing. It seemed to me to be a movie that didn’t linger or embellish, and maybe unsentimental. I think there is a trend in more recent movies to draw out the drama a bit more, and this seemed to get to the point and then move on. Maybe that is more my perception than an absolute truth, just from what I have seen though. I should add, I don’t mean that as a criticism, I very much enjoy movies that do dig in more. Perhaps, in part, it comes down to the tools that are available and what they make possible. I don’t know, but I feel like I could spend the rest of my life thinking about differences in pacing and different degrees of how much character to show.\nInterested in hearing from others on Battle of Algiers.",
+  "content_html": "<p>Wow.</p>\n<p>I have just finished watching this film and I was hooked from the first shot. I thought of this forum because I remember hearing Roger Deakins mention it in one of the podcast episodes and I’ve been meaning to watch it since then.</p>\n<p>I doubt there is much to say about it that hasn’t already been said but a few things that stood out to me:</p>\n<p>I was immediately struck by the realism of it, and I found the orchestration of the whole movie remarkable throughout. It reminded me of David Lean, or Lawrence of Arabia in that way, where you just think how did he get all those people to do that? Only with Lean it is because he has such a huge canvas, and with BOA it was smaller, like a documentary, but it all felt so much bigger outside of the frame.</p>\n<p>I’d like to look into how it was shot. I wondered how the street scenes were done and if there would have been any lighting gear or if it was hand held. I don’t know enough to be able to tell by watching.</p>\n<p>I found the pacing very refreshing. It seemed to me to be a movie that didn’t linger or embellish, and maybe unsentimental. I think there is a trend in more recent movies to draw out the drama a bit more, and this seemed to get to the point and then move on. Maybe that is more my perception than an absolute truth, just from what I have seen though. I should add, I don’t mean that as a criticism, I very much enjoy movies that do dig in more. Perhaps, in part, it comes down to the tools that are available and what they make possible. I don’t know, but I feel like I could spend the rest of my life thinking about differences in pacing and different degrees of how much character to show.</p>\n<p>Interested in hearing from others on Battle of Algiers.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Wow."
+    },
+    {
+      "type": "paragraph",
+      "text": "I have just finished watching this film and I was hooked from the first shot. I thought of this forum because I remember hearing Roger Deakins mention it in one of the podcast episodes and I’ve been meaning to watch it since then."
+    },
+    {
+      "type": "paragraph",
+      "text": "I doubt there is much to say about it that hasn’t already been said but a few things that stood out to me:"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was immediately struck by the realism of it, and I found the orchestration of the whole movie remarkable throughout. It reminded me of David Lean, or Lawrence of Arabia in that way, where you just think how did he get all those people to do that? Only with Lean it is because he has such a huge canvas, and with BOA it was smaller, like a documentary, but it all felt so much bigger outside of the frame."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’d like to look into how it was shot. I wondered how the street scenes were done and if there would have been any lighting gear or if it was hand held. I don’t know enough to be able to tell by watching."
+    },
+    {
+      "type": "paragraph",
+      "text": "I found the pacing very refreshing. It seemed to me to be a movie that didn’t linger or embellish, and maybe unsentimental. I think there is a trend in more recent movies to draw out the drama a bit more, and this seemed to get to the point and then move on. Maybe that is more my perception than an absolute truth, just from what I have seen though. I should add, I don’t mean that as a criticism, I very much enjoy movies that do dig in more. Perhaps, in part, it comes down to the tools that are available and what they make possible. I don’t know, but I feel like I could spend the rest of my life thinking about differences in pacing and different degrees of how much character to show."
+    },
+    {
+      "type": "paragraph",
+      "text": "Interested in hearing from others on Battle of Algiers."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-battle-of-algiers/",
+    "scraped_at": "2026-01-15T14:50:27.554516+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-battle-of-algiers/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b84a7be5bffcb1e9564bb0037c8dcd218b08824d848a870e6fbe35091dfb7399",
+    "parser_version": "bbpress-v2"
+  }
+}

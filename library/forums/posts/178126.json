@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "178126",
+    "forum_slug": "film-talk",
+    "topic_slug": "sky-shots-in-sicario"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "GianniRanzuglia",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nI recently rewatched Sicario and I’m reaching out to ask about the sky shots.\nIn various moments from the film, the sky shots are prominent to the point where I perceive them as characters in the film. It’s hard to think of the scene, the acting, the score and the emotion without the presence of the sky.\nI wanted to ask, how did you and Denis treat the sky shots in pre-production?\nThanks for your time!",
+  "content_html": "<p>Hi Roger,</p>\n<p>I recently rewatched Sicario and I’m reaching out to ask about the sky shots.</p>\n<p>In various moments from the film, the sky shots are prominent to the point where I perceive them as characters in the film. It’s hard to think of the scene, the acting, the score and the emotion without the presence of the sky.</p>\n<p>I wanted to ask, how did you and Denis treat the sky shots in pre-production?</p>\n<p>Thanks for your time!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I recently rewatched Sicario and I’m reaching out to ask about the sky shots."
+    },
+    {
+      "type": "paragraph",
+      "text": "In various moments from the film, the sky shots are prominent to the point where I perceive them as characters in the film. It’s hard to think of the scene, the acting, the score and the emotion without the presence of the sky."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wanted to ask, how did you and Denis treat the sky shots in pre-production?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks for your time!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sky-shots-in-sicario/#post-178901",
+    "scraped_at": "2026-01-15T14:33:18.880613+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sky-shots-in-sicario/#post-178901",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "59f71c3c82062f886e7aea354c676c2b77a2d966a8776882fcab396e597ef874",
+    "parser_version": "bbpress-v2"
+  }
+}

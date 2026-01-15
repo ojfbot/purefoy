@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "220587",
+    "forum_slug": "forum",
+    "topic_slug": "practical-oil-lamps-and-flashlights",
+    "parent_post_id": "220579",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The key fob was just what is was whereas the oil lamp was rigged with a small quartz bulb. I could film by the light of the key fob but, for Jesse Jesse and shooting on film, I needed more light than what the real oil lamp would have given me.\nFor color temperature the oil lamp was rigged with a high wattage bulb than I strictly needed so that it could be dimmed down and appear as the color of a flame.\nYou choose the practical source bearing in mind how its light will play in the scene. In neither of the situations you refer to would it have been possible to add additional light, whether to dummy the practical or as a totally separate source, without changing the feel of the scene. Inside the hole there was, by definition, no other source. And a moonlight for the train sequence? A very different scene.",
+  "content_html": "<p>The key fob was just what is was whereas the oil lamp was rigged with a small quartz bulb. I could film by the light of the key fob but, for Jesse Jesse and shooting on film, I needed more light than what the real oil lamp would have given me.</p>\n<p>For color temperature the oil lamp was rigged with a high wattage bulb than I strictly needed so that it could be dimmed down and appear as the color of a flame.</p>\n<p>You choose the practical source bearing in mind how its light will play in the scene. In neither of the situations you refer to would it have been possible to add additional light, whether to dummy the practical or as a totally separate source, without changing the feel of the scene. Inside the hole there was, by definition, no other source. And a moonlight for the train sequence? A very different scene.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The key fob was just what is was whereas the oil lamp was rigged with a small quartz bulb. I could film by the light of the key fob but, for Jesse Jesse and shooting on film, I needed more light than what the real oil lamp would have given me."
+    },
+    {
+      "type": "paragraph",
+      "text": "For color temperature the oil lamp was rigged with a high wattage bulb than I strictly needed so that it could be dimmed down and appear as the color of a flame."
+    },
+    {
+      "type": "paragraph",
+      "text": "You choose the practical source bearing in mind how its light will play in the scene. In neither of the situations you refer to would it have been possible to add additional light, whether to dummy the practical or as a totally separate source, without changing the feel of the scene. Inside the hole there was, by definition, no other source. And a moonlight for the train sequence? A very different scene."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/practical-oil-lamps-and-flashlights/#post-220587",
+    "scraped_at": "2026-01-15T13:16:13.655579+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/practical-oil-lamps-and-flashlights/#post-220587",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a879ece84a20d147c16536b46494661323f286f238d30ea8a463b67dbfdb4761",
+    "parser_version": "bbpress-v2"
+  }
+}

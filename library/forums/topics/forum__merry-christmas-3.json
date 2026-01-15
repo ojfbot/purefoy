@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/merry-christmas-3/#post-220872",
+  "forum_slug": "forum",
+  "topic_slug": "merry-christmas-3",
+  "title": "Merry Christmas",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220835",
+    "220842",
+    "220863",
+    "220872"
+  ],
+  "reply_tree": {
+    "post_id": "220835",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "220842",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220863",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220872",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/merry-christmas-3/#post-220872",
+    "scraped_at": "2026-01-15T12:48:55.548583+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/merry-christmas-3/#post-220872",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7199bc88f1d4ae4f81f2a15e9127b9a0380a649e17ae9aa240b820157187963e",
+    "parser_version": "bbpress-v2"
+  }
+}

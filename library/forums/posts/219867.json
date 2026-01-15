@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "219867",
+    "forum_slug": "forum",
+    "topic_slug": "practical-lighting-in-prisoners"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Corran Villalobos",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mr. Deakins,\nA third watch of Prisoners brought me to reexamine your lighting breakdowns for the interior locations. You mentioned that carefully selected practicals did much of the heavy lifting lighting the Dover interior, particularly during Thanksgiving. I’d suspect this is the case for the Jones’ house as well. When shooting on location and in tight spaces like bedrooms depicted in the stills below, did you rely heavily on controlled household practicals in this scene? If additional sources are in play, how do you hide them in a way that doesn’t constrain the camera or talent in the space?\nThank you always for your time and unwavering support!",
+  "content_html": "<p>Hello Mr. Deakins,</p>\n<p>A third watch of Prisoners brought me to reexamine your lighting breakdowns for the interior locations. You mentioned that carefully selected practicals did much of the heavy lifting lighting the Dover interior, particularly during Thanksgiving. I’d suspect this is the case for the Jones’ house as well. When shooting on location and in tight spaces like bedrooms depicted in the stills below, did you rely heavily on controlled household practicals in this scene? If additional sources are in play, how do you hide them in a way that doesn’t constrain the camera or talent in the space?</p>\n<p>Thank you always for your time and unwavering support!</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/219867/es8umhbdzjmsk6idv9o3inzk5k8kj0j8.jpg\"/><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/219867/utanj056hn24expegasv04prr5dkogke.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mr. Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "A third watch of Prisoners brought me to reexamine your lighting breakdowns for the interior locations. You mentioned that carefully selected practicals did much of the heavy lifting lighting the Dover interior, particularly during Thanksgiving. I’d suspect this is the case for the Jones’ house as well. When shooting on location and in tight spaces like bedrooms depicted in the stills below, did you rely heavily on controlled household practicals in this scene? If additional sources are in play, how do you hide them in a way that doesn’t constrain the camera or talent in the space?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you always for your time and unwavering support!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/219867/es8umhbdzjmsk6idv9o3inzk5k8kj0j8.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/219867/utanj056hn24expegasv04prr5dkogke.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-in-prisoners/#post-220068",
+    "scraped_at": "2026-01-15T13:56:47.203596+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-in-prisoners/#post-220068",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4f9f59dfd13edee5ede53244cd1591e6a523484aaa8eda8e1e1262f41684a327",
+    "parser_version": "bbpress-v2"
+  }
+}

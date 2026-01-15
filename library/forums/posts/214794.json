@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "214794",
+    "forum_slug": "forum",
+    "topic_slug": "sicario-hitman-scene",
+    "parent_post_id": "214790",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Ridgway",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I feel like the practical is doing a lot of the work there directly behind them. I feel like an additional source would look more artificial?",
+  "content_html": "<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214794/wt9dm5g5u50vklvshesbkywt53d7mqka.jpg\"/></p>\n<p>I feel like the practical is doing a lot of the work there directly behind them. I feel like an additional source would look more artificial?</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I feel like the practical is doing a lot of the work there directly behind them. I feel like an additional source would look more artificial?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214794/wt9dm5g5u50vklvshesbkywt53d7mqka.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario-hitman-scene/#post-214796",
+    "scraped_at": "2026-01-15T15:51:36.634927+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-hitman-scene/#post-214796",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bd745383ad3c35605b19f90b868731da7f7f079ca129e9045686b5b911e5491e",
+    "parser_version": "bbpress-v2"
+  }
+}

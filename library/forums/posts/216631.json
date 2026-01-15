@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216631",
+    "forum_slug": "forum",
+    "topic_slug": "white-balance-warm-tungsten",
+    "parent_post_id": "216221",
+    "parent_type": "topic",
+    "position": 23
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The main difference between doing it with color temperature camera settings versus gels on lights is that when you do it to the camera setting, it’s an overall shift — with gels on lights, or dimmers on tungsten lights, you can just warm up the lights you want to look warm. (Of course, you could do it by changing the color temperature setting on the camera except now you’d have to add blue gel to the lights you wanted to look less warm… it all depends on which approach is the most practical.)",
+  "content_html": "<p>The main difference between doing it with color temperature camera settings versus gels on lights is that when you do it to the camera setting, it’s an overall shift — with gels on lights, or dimmers on tungsten lights, you can just warm up the lights you want to look warm. (Of course, you could do it by changing the color temperature setting on the camera except now you’d have to add blue gel to the lights you wanted to look less warm… it all depends on which approach is the most practical.)</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The main difference between doing it with color temperature camera settings versus gels on lights is that when you do it to the camera setting, it’s an overall shift — with gels on lights, or dimmers on tungsten lights, you can just warm up the lights you want to look warm. (Of course, you could do it by changing the color temperature setting on the camera except now you’d have to add blue gel to the lights you wanted to look less warm… it all depends on which approach is the most practical.)"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/page/2/",
+    "scraped_at": "2026-01-15T15:24:01.095223+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5da58dcef83860a313b2226046b0ffa1a3e57dfb82f998d77e348044adac1716",
+    "parser_version": "bbpress-v2"
+  }
+}

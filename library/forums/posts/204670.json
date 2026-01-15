@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "204670",
+    "forum_slug": "camera",
+    "topic_slug": "uncompressed-hd-vs-arriraw",
+    "parent_post_id": "204439",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "<p style=”text-align: left;”>I could be wrong, of course!</p>",
+  "content_html": "<p>&lt;p style=”text-align: left;”&gt;I could be wrong, of course!&lt;/p&gt;</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "<p style=”text-align: left;”>I could be wrong, of course!</p>"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/uncompressed-hd-vs-arriraw/#post-204779",
+    "scraped_at": "2026-01-15T15:42:13.545689+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/uncompressed-hd-vs-arriraw/#post-204779",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "77ab39bceb6465d77dca8ee2e131c4f0adb2733797fa2a4bf40b4b300b279b89",
+    "parser_version": "bbpress-v2"
+  }
+}

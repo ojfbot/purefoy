@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "207123",
+    "forum_slug": "composition",
+    "topic_slug": "psycho-singles-eye-line-curse-of-color-in-modern-cinema",
+    "parent_post_id": "206942",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "She has the more direct eyeline because she is the main character, later in the movie he will have the more direct eyeline.",
+  "content_html": "<p>She has the more direct eyeline because she is the main character, later in the movie he will have the more direct eyeline.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "She has the more direct eyeline because she is the main character, later in the movie he will have the more direct eyeline."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/psycho-singles-eye-line-curse-of-color-in-modern-cinema/#post-211113",
+    "scraped_at": "2026-01-15T13:23:32.283854+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/psycho-singles-eye-line-curse-of-color-in-modern-cinema/#post-211113",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "019c5232c59d57eee4c64898fa7719a11c1d885de98acee8f5a66fe58b422714",
+    "parser_version": "bbpress-v2"
+  }
+}

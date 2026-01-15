@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "214951",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-relaxation-room",
+    "parent_post_id": "214947",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "",
+  "content_html": "<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214951/gb9kqrmxgkna46vsywb0tutqfkak8x1y.jpg\" width=\"400\"/><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214951/r61p62fofsw1r80srk8muglte6wh35pg.jpg\" width=\"400\"/></p>",
+  "blocks": [],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214951/gb9kqrmxgkna46vsywb0tutqfkak8x1y.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214951/r61p62fofsw1r80srk8muglte6wh35pg.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-relaxation-room/#post-214958",
+    "scraped_at": "2026-01-15T15:50:15.374057+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-relaxation-room/#post-214958",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6bd9501f0d9c841ebf8a270e161b217be8d4ba491e9f2ae82073c64e9744d272",
+    "parser_version": "bbpress-v2"
+  }
+}

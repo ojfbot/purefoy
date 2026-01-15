@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214930",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-stephens-house",
+    "parent_post_id": "214923",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mike, just tried to clear the “cache” but nothing. Maybe I’m doing something wrong, I’m just hitting the image button and uploading pics but when I hit the “reply” button my reply doesn’t appear.\nmaybe it needs to be verified by a moderator? When you post pics with the new version of the forum was the reply “immediate” or did you have to wait?\nThank you,\nMax.",
+  "content_html": "<p>Hello Mike, just tried to clear the “cache” but nothing. Maybe I’m doing something wrong, I’m just hitting the image button and uploading pics but when I hit the “reply” button my reply doesn’t appear.</p>\n<p>maybe it needs to be verified by a moderator? When you post pics with the new version of the forum was the reply “immediate” or did you have to wait?</p>\n<p>Thank you,<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mike, just tried to clear the “cache” but nothing. Maybe I’m doing something wrong, I’m just hitting the image button and uploading pics but when I hit the “reply” button my reply doesn’t appear."
+    },
+    {
+      "type": "paragraph",
+      "text": "maybe it needs to be verified by a moderator? When you post pics with the new version of the forum was the reply “immediate” or did you have to wait?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you,\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-stephens-house/#post-214933",
+    "scraped_at": "2026-01-15T15:50:30.363226+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-stephens-house/#post-214933",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "14f968667d686afb1311be6afbfc505e829ccb0e2a92bc91e607953dc8c81850",
+    "parser_version": "bbpress-v2"
+  }
+}

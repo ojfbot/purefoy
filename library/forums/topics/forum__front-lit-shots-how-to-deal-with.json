@@ -1,0 +1,81 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/front-lit-shots-how-to-deal-with/#post-216102",
+  "forum_slug": "forum",
+  "topic_slug": "front-lit-shots-how-to-deal-with",
+  "title": "Front lit shots – how to deal with",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216072",
+    "216073",
+    "216074",
+    "216076",
+    "216077",
+    "216081",
+    "216102"
+  ],
+  "reply_tree": {
+    "post_id": "216072",
+    "post_type": "topic",
+    "author": "Max A.",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216073",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216074",
+        "post_type": "reply",
+        "author": "BHGoddard",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216076",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216077",
+        "post_type": "reply",
+        "author": "BHGoddard",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216081",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216102",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 6,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/front-lit-shots-how-to-deal-with/#post-216102",
+    "scraped_at": "2026-01-15T15:41:59.954097+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/front-lit-shots-how-to-deal-with/#post-216102",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "50c6524eef7b616f00a58fdf1cb4667d6043630dab4f3ed1efcbbfa55308f01d",
+    "parser_version": "bbpress-v2"
+  }
+}

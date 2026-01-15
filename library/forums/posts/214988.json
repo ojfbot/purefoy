@@ -1,0 +1,60 @@
+{
+  "ids": {
+    "post_id": "214988",
+    "forum_slug": "forum",
+    "topic_slug": "feedback-on-lighting-and-composition"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "HexNutty",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger, James and everyone else!\nI’m a long time lurker and have appreciated this forum since the beginning of its existence.\nI recently put together a demo reel from several short films and would love to see what I could improve upon within my lighting and compositions. Any and all criticism welcome as I’m here to grow along everyone else.\nThank you!\nhttps://youtu.be/mgv4WxWjjww",
+  "content_html": "<p>Hi Roger, James and everyone else!</p>\n<p>I’m a long time lurker and have appreciated this forum since the beginning of its existence.</p>\n<p>I recently put together a demo reel from several short films and would love to see what I could improve upon within my lighting and compositions. Any and all criticism welcome as I’m here to grow along everyone else.</p>\n<p>Thank you!</p>\n<p><a href=\"https://youtu.be/mgv4WxWjjww\" rel=\"nofollow\">https://youtu.be/mgv4WxWjjww</a></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger, James and everyone else!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m a long time lurker and have appreciated this forum since the beginning of its existence."
+    },
+    {
+      "type": "paragraph",
+      "text": "I recently put together a demo reel from several short films and would love to see what I could improve upon within my lighting and compositions. Any and all criticism welcome as I’m here to grow along everyone else."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you!"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://youtu.be/mgv4WxWjjww"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://youtu.be/mgv4WxWjjww",
+      "text": "https://youtu.be/mgv4WxWjjww",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/feedback-on-lighting-and-composition/#post-214991",
+    "scraped_at": "2026-01-15T15:49:51.223505+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/feedback-on-lighting-and-composition/#post-214991",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8d61d151f394e13514e8f27b87f6bb0ec8b889563eca31d9aed67fa81405ab71",
+    "parser_version": "bbpress-v2"
+  }
+}

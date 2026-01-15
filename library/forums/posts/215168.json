@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215168",
+    "forum_slug": "camera",
+    "topic_slug": "documentary-advice-for-student",
+    "parent_post_id": "215167",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "orsini1138",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "In my experience, being present and aware of more than just the camera is important. Listening to the subject and being emotionally in tune with what’s being discussed always resulted in me shooting for the emotion rather than trying to play catch-up, as it sometimes felt.\nAlso, I’m not a fan of the term “b roll” (if it’s gonna be up on the screen and the same size as the “a roll” then it’s just as important!) but getting good coverage is huge if you haven’t shot documentary before. Schedules are always differing but if you can get your coverage AFTER any interviews, I find that’s best- you know what’s valuable and relevant after hearing the subject speak.\nSorry if these are too basic, I’m not sure what your experience with doc-style shooting is.",
+  "content_html": "<p>In my experience, being present and aware of more than just the camera is important. Listening to the subject and being emotionally in tune with what’s being discussed always resulted in me shooting for the emotion rather than trying to play catch-up, as it sometimes felt.</p>\n<p>Also, I’m not a fan of the term “b roll” (if it’s gonna be up on the screen and the same size as the “a roll” then it’s just as important!) but getting good coverage is huge if you haven’t shot documentary before. Schedules are always differing but if you can get your coverage AFTER any interviews, I find that’s best- you know what’s valuable and relevant after hearing the subject speak.</p>\n<p> </p>\n<p>Sorry if these are too basic, I’m not sure what your experience with doc-style shooting is.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In my experience, being present and aware of more than just the camera is important. Listening to the subject and being emotionally in tune with what’s being discussed always resulted in me shooting for the emotion rather than trying to play catch-up, as it sometimes felt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, I’m not a fan of the term “b roll” (if it’s gonna be up on the screen and the same size as the “a roll” then it’s just as important!) but getting good coverage is huge if you haven’t shot documentary before. Schedules are always differing but if you can get your coverage AFTER any interviews, I find that’s best- you know what’s valuable and relevant after hearing the subject speak."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sorry if these are too basic, I’m not sure what your experience with doc-style shooting is."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/documentary-advice-for-student/#post-215184",
+    "scraped_at": "2026-01-15T15:23:00.571808+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/documentary-advice-for-student/#post-215184",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fc3a88148c38b17b31c91eb3f9ef94d6219aafc7760b687cbbc86de4322838ba",
+    "parser_version": "bbpress-v2"
+  }
+}

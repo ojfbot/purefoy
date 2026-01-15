@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "174655",
+    "forum_slug": "camera",
+    "topic_slug": "lens-usage-in-the-assassination-of-jesse-james"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Tapuz",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mr.Deakins,\nOne of my friends told me he really likes your cinematography in\nThe Assassination of Jesse James\n. He said he liked the style of the image very much, especially those that were shot in the wheat field, which in his words “has a surreal feeling”. And he thinks the bokeh of lens chosen to shoot the movie is spectacular.\nSo we were actually wondering: What lenses were used in the making of the film? Did you do any modifications to the lenses? If so, what kind of modifications?\nThanks a lot for answering! This forum is absolutely fantastic.\nWish you a peaceful day!",
+  "content_html": "<p>Hello Mr.Deakins,</p>\n<p>One of my friends told me he really likes your cinematography in <em>The Assassination of Jesse James</em>. He said he liked the style of the image very much, especially those that were shot in the wheat field, which in his words “has a surreal feeling”. And he thinks the bokeh of lens chosen to shoot the movie is spectacular.</p>\n<p>So we were actually wondering: What lenses were used in the making of the film? Did you do any modifications to the lenses? If so, what kind of modifications?</p>\n<p>Thanks a lot for answering! This forum is absolutely fantastic.</p>\n<p>Wish you a peaceful day!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mr.Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of my friends told me he really likes your cinematography in\nThe Assassination of Jesse James\n. He said he liked the style of the image very much, especially those that were shot in the wheat field, which in his words “has a surreal feeling”. And he thinks the bokeh of lens chosen to shoot the movie is spectacular."
+    },
+    {
+      "type": "paragraph",
+      "text": "So we were actually wondering: What lenses were used in the making of the film? Did you do any modifications to the lenses? If so, what kind of modifications?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks a lot for answering! This forum is absolutely fantastic."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wish you a peaceful day!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lens-usage-in-the-assassination-of-jesse-james/#post-174719",
+    "scraped_at": "2026-01-15T15:45:32.540627+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lens-usage-in-the-assassination-of-jesse-james/#post-174719",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7eaacfa55a89ab0878d5ee7ea590beebd72bfa2b78c8fd7faed0a058ab11d146",
+    "parser_version": "bbpress-v2"
+  }
+}

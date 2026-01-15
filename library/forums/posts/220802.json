@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "post_id": "220802",
+    "forum_slug": "forum",
+    "topic_slug": "contrast-ratio-2",
+    "parent_post_id": "220650",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You’re talking about two separate things. Whether you get the key-to-fill ratio the way you want it by increasing the key versus lowering the fill is a separate issue from the overall exposure.\nIf you want to use more light in order to work at a lower ISO to reduce noise, or effectively do something similar by darkening an overexposed shot, that is up to you. If you are recording raw, then ISO is just metadata anyway but as you use more light and process it darker to compensate, you are exchanging overexposure headroom for better shadow detail with less noise.\nAt some point, especially if you aren’t recording raw, you have to factor in that as you overexpose skin tones on a digital camera, you may get some artifacts on some cameras if you go too far that will look odd once corrected down to normal. Highlights can pick up a color shift or clip unnaturally.\nThis reply was modified 3 weeks, 4 days ago by\ndmullenasc\n.",
+  "content_html": "<p>You’re talking about two separate things. Whether you get the key-to-fill ratio the way you want it by increasing the key versus lowering the fill is a separate issue from the overall exposure.</p>\n<p>If you want to use more light in order to work at a lower ISO to reduce noise, or effectively do something similar by darkening an overexposed shot, that is up to you. If you are recording raw, then ISO is just metadata anyway but as you use more light and process it darker to compensate, you are exchanging overexposure headroom for better shadow detail with less noise.</p>\n<p>At some point, especially if you aren’t recording raw, you have to factor in that as you overexpose skin tones on a digital camera, you may get some artifacts on some cameras if you go too far that will look odd once corrected down to normal. Highlights can pick up a color shift or clip unnaturally.</p>\n<ul class=\"bbp-reply-revision-log\" id=\"bbp-reply-revision-log-220802\">\n<li class=\"bbp-reply-revision-log-item\" id=\"bbp-reply-revision-log-220802-item-220803\">\n\t\tThis reply was modified 3 weeks, 4 days ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/dmullenasc/\" title=\"View dmullenasc's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://secure.gravatar.com/avatar/078da0edd0ffdf2bdf53b943207b847f?s=14&amp;d=retro&amp;r=g\" srcset=\"https://secure.gravatar.com/avatar/078da0edd0ffdf2bdf53b943207b847f?s=28&amp;d=retro&amp;r=g 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">dmullenasc</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You’re talking about two separate things. Whether you get the key-to-fill ratio the way you want it by increasing the key versus lowering the fill is a separate issue from the overall exposure."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to use more light in order to work at a lower ISO to reduce noise, or effectively do something similar by darkening an overexposed shot, that is up to you. If you are recording raw, then ISO is just metadata anyway but as you use more light and process it darker to compensate, you are exchanging overexposure headroom for better shadow detail with less noise."
+    },
+    {
+      "type": "paragraph",
+      "text": "At some point, especially if you aren’t recording raw, you have to factor in that as you overexpose skin tones on a digital camera, you may get some artifacts on some cameras if you go too far that will look odd once corrected down to normal. Highlights can pick up a color shift or clip unnaturally."
+    },
+    {
+      "type": "list",
+      "text": "This reply was modified 3 weeks, 4 days ago by\ndmullenasc\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/dmullenasc/",
+      "text": "dmullenasc",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://secure.gravatar.com/avatar/078da0edd0ffdf2bdf53b943207b847f?s=14&d=retro&r=g",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio-2/#post-220820",
+    "scraped_at": "2026-01-15T13:05:57.499084+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio-2/#post-220820",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "830d778dc8cf15a01b1a68a5a068cdf2754934c2825dcf60d38de93c245d4e09",
+    "parser_version": "bbpress-v2"
+  }
+}

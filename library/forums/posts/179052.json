@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "179052",
+    "forum_slug": "camera",
+    "topic_slug": "photography",
+    "parent_post_id": "178919",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I mostly shoot with a Leica M9 these days with a 35mm lens attached, but I also have a Leica Q.",
+  "content_html": "<p>I mostly shoot with a Leica M9 these days with a 35mm lens attached, but I also have a Leica Q. </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I mostly shoot with a Leica M9 these days with a 35mm lens attached, but I also have a Leica Q."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/photography/#post-181221",
+    "scraped_at": "2026-01-15T15:44:07.453619+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/photography/#post-181221",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8bd6ef9fa467bc8b09215d6e30b78bc3f2dd235ce65df790e250993af88d6a46",
+    "parser_version": "bbpress-v2"
+  }
+}

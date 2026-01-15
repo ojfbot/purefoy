@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/shot-list-for-group-scene-burn-after-reading/#post-219532",
+  "forum_slug": "composition",
+  "topic_slug": "shot-list-for-group-scene-burn-after-reading",
+  "title": "Shot list for group scene (Burn After Reading)",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "219526",
+    "219529",
+    "219531",
+    "219532"
+  ],
+  "reply_tree": {
+    "post_id": "219526",
+    "post_type": "topic",
+    "author": "tuckertota",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "219529",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219531",
+        "post_type": "reply",
+        "author": "tuckertota",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219532",
+        "post_type": "reply",
+        "author": "Tyler F",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shot-list-for-group-scene-burn-after-reading/#post-219532",
+    "scraped_at": "2026-01-15T12:07:55.411561+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shot-list-for-group-scene-burn-after-reading/#post-219532",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d002f650c844d59f27d12c714db0c0f56c46653237e1d2138555c1332c4828fe",
+    "parser_version": "bbpress-v2"
+  }
+}

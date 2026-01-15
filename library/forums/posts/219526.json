@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "post_id": "219526",
+    "forum_slug": "composition",
+    "topic_slug": "shot-list-for-group-scene-burn-after-reading"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "tuckertota",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m preparing for a shoot that has a scene of six people talking around a table. These scenes seem deceptively simple since they’re almost entirely dialogue, but there’s so many angles and eye-lines you need to account for. I’m curious how\na scene like this one from Burn After Reading\nwas prepared and shot. I know the Coens don’t get full coverage of every scene, but I wonder in a case like this if it’s best to get as many angles as possible and assemble it in the edit.",
+  "content_html": "<p>I’m preparing for a shoot that has a scene of six people talking around a table. These scenes seem deceptively simple since they’re almost entirely dialogue, but there’s so many angles and eye-lines you need to account for. I’m curious how <a href=\"https://www.youtube.com/watch?v=8Ufi7Z8OokA\" rel=\"nofollow\">a scene like this one from Burn After Reading</a> was prepared and shot. I know the Coens don’t get full coverage of every scene, but I wonder in a case like this if it’s best to get as many angles as possible and assemble it in the edit.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m preparing for a shoot that has a scene of six people talking around a table. These scenes seem deceptively simple since they’re almost entirely dialogue, but there’s so many angles and eye-lines you need to account for. I’m curious how\na scene like this one from Burn After Reading\nwas prepared and shot. I know the Coens don’t get full coverage of every scene, but I wonder in a case like this if it’s best to get as many angles as possible and assemble it in the edit."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.youtube.com/watch?v=8Ufi7Z8OokA",
+      "text": "a scene like this one from Burn After Reading",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shot-list-for-group-scene-burn-after-reading/#post-219532",
+    "scraped_at": "2026-01-15T12:07:55.396627+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shot-list-for-group-scene-burn-after-reading/#post-219532",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a3d6f3c6329d77f5c6a43c813c7bc9e58d2d60abaf1e1b92b2176a9d08070b2c",
+    "parser_version": "bbpress-v2"
+  }
+}

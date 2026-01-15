@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "216478",
+    "forum_slug": "camera",
+    "topic_slug": "cooke-s7ff"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Juanlage",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Good morning from Spain,\nMy intention is to shoot a special for RTVE that we produce every year. In previous years, we filmed it over 2 days, which allowed me the flexibility to choose high-end lenses, such as the Cooke S4 and Tribet 7. This year, however, we will be filming over 11 days. I’m almost certain that I’ll be asked to find more economical alternatives. The complete set of Cooke S7 FF lenses, except for the 40mm, will cost €4380 for an 11-day rental, which I believe is a good deal. Nonetheless, production always seeks to cut costs. If I can’t withstand the pressure, I would like to have a more affordable alternative that closely matches the technical performance and look of the Cooke S7 FF lenses.\nThank you and best regards,",
+  "content_html": "<p>Good morning from Spain,</p>\n<p>My intention is to shoot a special for RTVE that we produce every year. In previous years, we filmed it over 2 days, which allowed me the flexibility to choose high-end lenses, such as the Cooke S4 and Tribet 7. This year, however, we will be filming over 11 days. I’m almost certain that I’ll be asked to find more economical alternatives. The complete set of Cooke S7 FF lenses, except for the 40mm, will cost €4380 for an 11-day rental, which I believe is a good deal. Nonetheless, production always seeks to cut costs. If I can’t withstand the pressure, I would like to have a more affordable alternative that closely matches the technical performance and look of the Cooke S7 FF lenses.</p>\n<p>Thank you and best regards,</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Good morning from Spain,"
+    },
+    {
+      "type": "paragraph",
+      "text": "My intention is to shoot a special for RTVE that we produce every year. In previous years, we filmed it over 2 days, which allowed me the flexibility to choose high-end lenses, such as the Cooke S4 and Tribet 7. This year, however, we will be filming over 11 days. I’m almost certain that I’ll be asked to find more economical alternatives. The complete set of Cooke S7 FF lenses, except for the 40mm, will cost €4380 for an 11-day rental, which I believe is a good deal. Nonetheless, production always seeks to cut costs. If I can’t withstand the pressure, I would like to have a more affordable alternative that closely matches the technical performance and look of the Cooke S7 FF lenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you and best regards,"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cooke-s7ff/",
+    "scraped_at": "2026-01-15T14:13:08.707493+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cooke-s7ff/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4f5296c8d742ad3873061b953f0a5fd3a1582136de3b0fb5d47e4401b36cb66f",
+    "parser_version": "bbpress-v2"
+  }
+}

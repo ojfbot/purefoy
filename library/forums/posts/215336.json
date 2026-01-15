@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215336",
+    "forum_slug": "camera",
+    "topic_slug": "zoom-in-vs-dolly-pushing",
+    "parent_post_id": "215307",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Our minds can “zoom” in on some detail, like spotting a face in a crowd from a distance — flying in on a drone across a stadium to a face in a crowd wouldn’t really make sense for a POV of someone who can’t move in that direction.",
+  "content_html": "<p>Our minds can “zoom” in on some detail, like spotting a face in a crowd from a distance — flying in on a drone across a stadium to a face in a crowd wouldn’t really make sense for a POV of someone who can’t move in that direction.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Our minds can “zoom” in on some detail, like spotting a face in a crowd from a distance — flying in on a drone across a stadium to a face in a crowd wouldn’t really make sense for a POV of someone who can’t move in that direction."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+    "scraped_at": "2026-01-15T15:22:12.538289+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "107b0d216f509543e7c4aadbf7b444188eaf3e24ae96583b0137851e055f3c26",
+    "parser_version": "bbpress-v2"
+  }
+}

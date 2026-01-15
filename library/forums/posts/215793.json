@@ -1,0 +1,55 @@
+{
+  "ids": {
+    "post_id": "215793",
+    "forum_slug": "camera",
+    "topic_slug": "shaky-cams",
+    "parent_post_id": "215744",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "mskb",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you\n@ThisGuy321\n.\nAll, this month’s issue of American Cinematographer seems to be talking about camera movements. I am searching if there is anything on Shaky cams. So far no luck. 🙂\nCheers!",
+  "content_html": "<p>Thank you <a class=\"bbp-user-mention bbp-user-id-62733\" href=\"https://www.rogerdeakins.com/forums/users/thisguy321/\"> @ThisGuy321</a>.</p>\n<p>All, this month’s issue of American Cinematographer seems to be talking about camera movements. I am searching if there is anything on Shaky cams. So far no luck. 🙂</p>\n<p>Cheers!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you\n@ThisGuy321\n."
+    },
+    {
+      "type": "paragraph",
+      "text": "All, this month’s issue of American Cinematographer seems to be talking about camera movements. I am searching if there is anything on Shaky cams. So far no luck. 🙂"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cheers!"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/thisguy321/",
+      "text": "@ThisGuy321",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shaky-cams/#post-215800",
+    "scraped_at": "2026-01-15T15:20:57.509967+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shaky-cams/#post-215800",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c096e2ddcfc0f6510d7843ab73a0ec057c0436a7c3286884443cfb68112fbca5",
+    "parser_version": "bbpress-v2"
+  }
+}

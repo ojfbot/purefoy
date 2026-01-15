@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "216651",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-setup-for-high-rise-buildings-during-the-day"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "caiyichenweg",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello, Mr. Roger and all friends in the forum. Please forgive my poor English. I’m very glad that my topic has received active responses from all of you! You’ve been inspiring me all the time! Thanks again to all the friends on the forum!\nI’d like to ask a question that everyone may encounter at the beginning of their careers. That is, in low-budget short films, we usually shoot on location. In my two recent projects, we shot inside high-rise buildings on location. So it might not be possible to set up lighting from outside the window into the room, which is a very headache problem. The solution I can think of is to use software to measure the position of the sun and arrange the shooting time reasonably. However, in many cases, due to the obstruction of trees and houses and the orientation of the houses, it may be useless even if we make use of the sun. What would you do in this situation? I found that at this time, we have to rely on the table lamps provided by the art department for lighting. But logically, the table lamps shouldn’t be turned on when shooting during the day. Maybe such an idea will be vetoed by the director. But this is the only way I can think of to make the picture not monotonous and boring. I’d like to ask how you would set up the lighting in this situation.\nI’m also very eager to hear the views of Roger and David！",
+  "content_html": "<p>Hello, Mr. Roger and all friends in the forum. Please forgive my poor English. I’m very glad that my topic has received active responses from all of you! You’ve been inspiring me all the time! Thanks again to all the friends on the forum!</p>\n<p>I’d like to ask a question that everyone may encounter at the beginning of their careers. That is, in low-budget short films, we usually shoot on location. In my two recent projects, we shot inside high-rise buildings on location. So it might not be possible to set up lighting from outside the window into the room, which is a very headache problem. The solution I can think of is to use software to measure the position of the sun and arrange the shooting time reasonably. However, in many cases, due to the obstruction of trees and houses and the orientation of the houses, it may be useless even if we make use of the sun. What would you do in this situation? I found that at this time, we have to rely on the table lamps provided by the art department for lighting. But logically, the table lamps shouldn’t be turned on when shooting during the day. Maybe such an idea will be vetoed by the director. But this is the only way I can think of to make the picture not monotonous and boring. I’d like to ask how you would set up the lighting in this situation.</p>\n<p>I’m also very eager to hear the views of Roger and David！</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello, Mr. Roger and all friends in the forum. Please forgive my poor English. I’m very glad that my topic has received active responses from all of you! You’ve been inspiring me all the time! Thanks again to all the friends on the forum!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’d like to ask a question that everyone may encounter at the beginning of their careers. That is, in low-budget short films, we usually shoot on location. In my two recent projects, we shot inside high-rise buildings on location. So it might not be possible to set up lighting from outside the window into the room, which is a very headache problem. The solution I can think of is to use software to measure the position of the sun and arrange the shooting time reasonably. However, in many cases, due to the obstruction of trees and houses and the orientation of the houses, it may be useless even if we make use of the sun. What would you do in this situation? I found that at this time, we have to rely on the table lamps provided by the art department for lighting. But logically, the table lamps shouldn’t be turned on when shooting during the day. Maybe such an idea will be vetoed by the director. But this is the only way I can think of to make the picture not monotonous and boring. I’d like to ask how you would set up the lighting in this situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m also very eager to hear the views of Roger and David！"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-setup-for-high-rise-buildings-during-the-day/#post-216654",
+    "scraped_at": "2026-01-15T15:23:46.136218+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-setup-for-high-rise-buildings-during-the-day/#post-216654",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bf96f48b13b7cd53f031a8e2d5c85e90894c9b5abe540ab990d37ab38d6d438d",
+    "parser_version": "bbpress-v2"
+  }
+}

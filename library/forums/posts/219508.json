@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "219508",
+    "forum_slug": "post",
+    "topic_slug": "a-coherent-look-among-different-scenes"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "For my little short i’m trying to calibrate the grading on some shots i feel create the feeling i’m looking for. As a starting point i’m referencing to two scenes from 1917, one from Prisoners and one from Intersellar. I know they are very different movies but somehow they have  composition and light scheme similar to my shots. Even with my lack of experience this technique gave me the right starting point and put me on the right path to create acceptably decent shots. Now i’d like to give the short a coherent look, but i don’t know which could be the best way. Giving all the scenes a bit of the same hue? A similar level of contrast? Or can i rely on  my camera movements and shots editing to create coherence? Thanks in Advance!\nEDIT: to clarify, i used the same focal length and aperture for the entire short, using my lens as a prime one (even if it’s a very cheap zoom one) since i planned the shots with the idea of a coherent look as starting point. Roger’s words on 1917 really helped me! 🙂",
+  "content_html": "<p>For my little short i’m trying to calibrate the grading on some shots i feel create the feeling i’m looking for. As a starting point i’m referencing to two scenes from 1917, one from Prisoners and one from Intersellar. I know they are very different movies but somehow they have  composition and light scheme similar to my shots. Even with my lack of experience this technique gave me the right starting point and put me on the right path to create acceptably decent shots. Now i’d like to give the short a coherent look, but i don’t know which could be the best way. Giving all the scenes a bit of the same hue? A similar level of contrast? Or can i rely on  my camera movements and shots editing to create coherence? Thanks in Advance!</p>\n<p>EDIT: to clarify, i used the same focal length and aperture for the entire short, using my lens as a prime one (even if it’s a very cheap zoom one) since i planned the shots with the idea of a coherent look as starting point. Roger’s words on 1917 really helped me! 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "For my little short i’m trying to calibrate the grading on some shots i feel create the feeling i’m looking for. As a starting point i’m referencing to two scenes from 1917, one from Prisoners and one from Intersellar. I know they are very different movies but somehow they have  composition and light scheme similar to my shots. Even with my lack of experience this technique gave me the right starting point and put me on the right path to create acceptably decent shots. Now i’d like to give the short a coherent look, but i don’t know which could be the best way. Giving all the scenes a bit of the same hue? A similar level of contrast? Or can i rely on  my camera movements and shots editing to create coherence? Thanks in Advance!"
+    },
+    {
+      "type": "paragraph",
+      "text": "EDIT: to clarify, i used the same focal length and aperture for the entire short, using my lens as a prime one (even if it’s a very cheap zoom one) since i planned the shots with the idea of a coherent look as starting point. Roger’s words on 1917 really helped me! 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-coherent-look-among-different-scenes/#post-219538",
+    "scraped_at": "2026-01-15T11:51:06.665534+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-coherent-look-among-different-scenes/#post-219538",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a865078d20f52d592dcb016e644821cd867c374a86453d6a183a7df097bc9e61",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "ids": {
+    "post_id": "205100",
+    "forum_slug": "camera",
+    "topic_slug": "is-there-such-a-thing-as-correct-exposure",
+    "parent_post_id": "204770",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Carl wrote:\nHi everyone! I’ve been wrapping my head around how dynamic range works in actuality, and after performing many tests, this prompted a question: Should ‘correct’ exposure be more influenced by the desired mood, as informed by the director’s vision for their story, rather than specific technical parameters? A lot of talk on this topic online seems to revolve around ‘exposing to the right,’ maximising information capture for post, how to expose ‘correctly,’ and other such technical things. I would ask, does it even matter? If I light a dark scene towards the lower end of the IRE spectrum, within my camera’s dynamic range, and it gives us the look we want, who cares about shifting it around in post then? Any thoughts on this would be much appreciated. Regards, Carl\nMaybe it’s me but I feel you disregard the technical knowledge as only useful to typical exposure values.\nImplying there is no need of technical knowledge to shoot something moodier.\nThose rules of setting skin at XX IRE value for a perfect exposure are just rules to help people nailing exposures that work in many scenarios but the key is to know how to nail exposure on any scenario.\nOur work as DPs on a set is to have the technical knowledge of where to put skin tone for a desirable effect every single time.\nIf the director wants a certain mood, feeling or atmosphere our job is to know how to expose and light for that. And maybe nowadays you can look a monitor and rack iris up&down until you get there. But in the long run is worth it to know exactly what you are doing because you want and need consistency.\nIf you study films and certain DPs you will start to see patterns on how they expose. They are super consistent and there is nothing as no technical approach to their work.\nWhat David is saying about not perfecting the exact exposure we want on camera also apply when we are working at the extremes of the exposure scale. If you choose to expose a scene really dark and you know you will be in big part playing down there on the scale it’s better to finish the look in post than do everything on camera as the final result will be cleaner, and because it’s a extreme exposure directors and producers maybe think it’s too dark, because, I don’t know why but they always think it’s too dark! So you split the difference and play safe. That will bring its own problems as, it has been said, on low budgets the DP work on the grading stage it’s usually none. So if you have left some final tweaks for the grading good luck if they follow your advice when you are not sitting with them.\nIt’s really hard to give any advice on this because each team and each production is completely different each other. So you have to start playing by ear and manage this as best as you can. But usually during meetings you can feel how much involvement you will be allowed and how much your voice will be listen.\nAt the end of the day it’s a team game so compromises will be made. You have to just live with it.",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/is-there-such-a-thing-as-correct-exposure/\">Carl wrote:</a></div>\n<p>Hi everyone! I’ve been wrapping my head around how dynamic range works in actuality, and after performing many tests, this prompted a question: Should ‘correct’ exposure be more influenced by the desired mood, as informed by the director’s vision for their story, rather than specific technical parameters? A lot of talk on this topic online seems to revolve around ‘exposing to the right,’ maximising information capture for post, how to expose ‘correctly,’ and other such technical things. I would ask, does it even matter? If I light a dark scene towards the lower end of the IRE spectrum, within my camera’s dynamic range, and it gives us the look we want, who cares about shifting it around in post then? Any thoughts on this would be much appreciated. Regards, Carl</p></blockquote>\n<p>Maybe it’s me but I feel you disregard the technical knowledge as only useful to typical exposure values.</p>\n<p>Implying there is no need of technical knowledge to shoot something moodier.</p>\n<p>Those rules of setting skin at XX IRE value for a perfect exposure are just rules to help people nailing exposures that work in many scenarios but the key is to know how to nail exposure on any scenario.</p>\n<p>Our work as DPs on a set is to have the technical knowledge of where to put skin tone for a desirable effect every single time.</p>\n<p>If the director wants a certain mood, feeling or atmosphere our job is to know how to expose and light for that. And maybe nowadays you can look a monitor and rack iris up&amp;down until you get there. But in the long run is worth it to know exactly what you are doing because you want and need consistency.</p>\n<p>If you study films and certain DPs you will start to see patterns on how they expose. They are super consistent and there is nothing as no technical approach to their work.</p>\n<p>What David is saying about not perfecting the exact exposure we want on camera also apply when we are working at the extremes of the exposure scale. If you choose to expose a scene really dark and you know you will be in big part playing down there on the scale it’s better to finish the look in post than do everything on camera as the final result will be cleaner, and because it’s a extreme exposure directors and producers maybe think it’s too dark, because, I don’t know why but they always think it’s too dark! So you split the difference and play safe. That will bring its own problems as, it has been said, on low budgets the DP work on the grading stage it’s usually none. So if you have left some final tweaks for the grading good luck if they follow your advice when you are not sitting with them.</p>\n<p>It’s really hard to give any advice on this because each team and each production is completely different each other. So you have to start playing by ear and manage this as best as you can. But usually during meetings you can feel how much involvement you will be allowed and how much your voice will be listen.</p>\n<p>At the end of the day it’s a team game so compromises will be made. You have to just live with it.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Carl wrote:\nHi everyone! I’ve been wrapping my head around how dynamic range works in actuality, and after performing many tests, this prompted a question: Should ‘correct’ exposure be more influenced by the desired mood, as informed by the director’s vision for their story, rather than specific technical parameters? A lot of talk on this topic online seems to revolve around ‘exposing to the right,’ maximising information capture for post, how to expose ‘correctly,’ and other such technical things. I would ask, does it even matter? If I light a dark scene towards the lower end of the IRE spectrum, within my camera’s dynamic range, and it gives us the look we want, who cares about shifting it around in post then? Any thoughts on this would be much appreciated. Regards, Carl"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hi everyone! I’ve been wrapping my head around how dynamic range works in actuality, and after performing many tests, this prompted a question: Should ‘correct’ exposure be more influenced by the desired mood, as informed by the director’s vision for their story, rather than specific technical parameters? A lot of talk on this topic online seems to revolve around ‘exposing to the right,’ maximising information capture for post, how to expose ‘correctly,’ and other such technical things. I would ask, does it even matter? If I light a dark scene towards the lower end of the IRE spectrum, within my camera’s dynamic range, and it gives us the look we want, who cares about shifting it around in post then? Any thoughts on this would be much appreciated. Regards, Carl"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe it’s me but I feel you disregard the technical knowledge as only useful to typical exposure values."
+    },
+    {
+      "type": "paragraph",
+      "text": "Implying there is no need of technical knowledge to shoot something moodier."
+    },
+    {
+      "type": "paragraph",
+      "text": "Those rules of setting skin at XX IRE value for a perfect exposure are just rules to help people nailing exposures that work in many scenarios but the key is to know how to nail exposure on any scenario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Our work as DPs on a set is to have the technical knowledge of where to put skin tone for a desirable effect every single time."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the director wants a certain mood, feeling or atmosphere our job is to know how to expose and light for that. And maybe nowadays you can look a monitor and rack iris up&down until you get there. But in the long run is worth it to know exactly what you are doing because you want and need consistency."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you study films and certain DPs you will start to see patterns on how they expose. They are super consistent and there is nothing as no technical approach to their work."
+    },
+    {
+      "type": "paragraph",
+      "text": "What David is saying about not perfecting the exact exposure we want on camera also apply when we are working at the extremes of the exposure scale. If you choose to expose a scene really dark and you know you will be in big part playing down there on the scale it’s better to finish the look in post than do everything on camera as the final result will be cleaner, and because it’s a extreme exposure directors and producers maybe think it’s too dark, because, I don’t know why but they always think it’s too dark! So you split the difference and play safe. That will bring its own problems as, it has been said, on low budgets the DP work on the grading stage it’s usually none. So if you have left some final tweaks for the grading good luck if they follow your advice when you are not sitting with them."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s really hard to give any advice on this because each team and each production is completely different each other. So you have to start playing by ear and manage this as best as you can. But usually during meetings you can feel how much involvement you will be allowed and how much your voice will be listen."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the end of the day it’s a team game so compromises will be made. You have to just live with it."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Carl wrote:\nHi everyone! I’ve been wrapping my head around how dynamic range works in actuality, and after performing many tests, this prompted a question: Should ‘correct’ exposure be more influenced by the desired mood, as informed by the director’s vision for their story, rather than specific technical parameters? A lot of talk on this topic online seems to revolve around ‘exposing to the right,’ maximising information capture for post, how to expose ‘correctly,’ and other such technical things. I would ask, does it even matter? If I light a dark scene towards the lower end of the IRE spectrum, within my camera’s dynamic range, and it gives us the look we want, who cares about shifting it around in post then? Any thoughts on this would be much appreciated. Regards, Carl"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/is-there-such-a-thing-as-correct-exposure/",
+      "text": "Carl wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/is-there-such-a-thing-as-correct-exposure/#post-205617",
+    "scraped_at": "2026-01-15T15:42:07.798386+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/is-there-such-a-thing-as-correct-exposure/#post-205617",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2fe779b593a29fe283ad72b5e3b887eca8f0e47b1ab0186c53ff420b9e133365",
+    "parser_version": "bbpress-v2"
+  }
+}

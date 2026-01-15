@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215002",
+    "forum_slug": "camera",
+    "topic_slug": "projector-poor-mans-process",
+    "parent_post_id": "215001",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Elliot Be",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I will be shooting the footage at the time of day specific to the film so I will capture the driving footage at 56k (or a bit cool it a bit to make it warmer for the morning).\nAnd I am guessing I should fine the ISO across the camera to get best exposure.",
+  "content_html": "<p>I will be shooting the footage at the time of day specific to the film so I will capture the driving footage at 56k (or a bit cool it a bit to make it warmer for the morning).</p>\n<p>And I am guessing I should fine the ISO across the camera to get best exposure.</p>\n<p> </p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I will be shooting the footage at the time of day specific to the film so I will capture the driving footage at 56k (or a bit cool it a bit to make it warmer for the morning)."
+    },
+    {
+      "type": "paragraph",
+      "text": "And I am guessing I should fine the ISO across the camera to get best exposure."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/projector-poor-mans-process/#post-215009",
+    "scraped_at": "2026-01-15T15:24:03.655105+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/projector-poor-mans-process/#post-215009",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b963dd3cfb8ba7d3979a2f3b3c43a70a5647f0ed146231c4d073cb8d20d0c012",
+    "parser_version": "bbpress-v2"
+  }
+}

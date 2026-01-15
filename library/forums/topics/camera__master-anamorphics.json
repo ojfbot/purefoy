@@ -1,0 +1,89 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-178888",
+  "forum_slug": "camera",
+  "topic_slug": "master-anamorphics",
+  "title": "Master anamorphics",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "169631",
+    "169701",
+    "172622",
+    "176654",
+    "176655",
+    "178637",
+    "178846",
+    "178888"
+  ],
+  "reply_tree": {
+    "post_id": "169631",
+    "post_type": "topic",
+    "author": "Davinki",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "169701",
+        "post_type": "reply",
+        "author": "Kemalettin",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "172622",
+        "post_type": "reply",
+        "author": "Davinki",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "176654",
+        "post_type": "reply",
+        "author": "Davinki",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "176655",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "178637",
+        "post_type": "reply",
+        "author": "Davinki",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "178846",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "178888",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 7,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-178888",
+    "scraped_at": "2026-01-15T15:44:20.060066+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-178888",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4524e3f1ee208606cb61ae642ea2605147dfa6f918503aeb497b283c989ce258",
+    "parser_version": "bbpress-v2"
+  }
+}

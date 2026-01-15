@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214517",
+    "forum_slug": "camera",
+    "topic_slug": "focal-lengths",
+    "parent_post_id": "214488",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yes, I was referencing a super 35mm format. On ‘1917’, which we shot on the LF, a 40mm was about the only focal length we used and it was on the camera quite often on ‘Empire of Light’ as well.",
+  "content_html": "<p>Yes, I was referencing a super 35mm format. On ‘1917’, which we shot on the LF, a 40mm was about the only focal length we used and it was on the camera quite often on ‘Empire of Light’ as well.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yes, I was referencing a super 35mm format. On ‘1917’, which we shot on the LF, a 40mm was about the only focal length we used and it was on the camera quite often on ‘Empire of Light’ as well."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/focal-lengths/#post-214517",
+    "scraped_at": "2026-01-15T15:26:01.413683+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/focal-lengths/#post-214517",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5110613f4e7def17a2f0c85812f533844036a07286850d2187541c3b02b1cd15",
+    "parser_version": "bbpress-v2"
+  }
+}

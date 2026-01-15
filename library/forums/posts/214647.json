@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214647",
+    "forum_slug": "post",
+    "topic_slug": "exposing-a-heavy-negative-on-film",
+    "parent_post_id": "214629",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger, when you were still using an optical process for Super 35 would you expose it any differently versus regular 35, or go through a different post-process like double-printing the dupe or using silver-retention? Did your approach to stocks and exposure change at all when you started using a DI?",
+  "content_html": "<p>Roger, when you were still using an optical process for Super 35 would you expose it any differently versus regular 35, or go through a different post-process like double-printing the dupe or using silver-retention? Did your approach to stocks and exposure change at all when you started using a DI?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roger, when you were still using an optical process for Super 35 would you expose it any differently versus regular 35, or go through a different post-process like double-printing the dupe or using silver-retention? Did your approach to stocks and exposure change at all when you started using a DI?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposing-a-heavy-negative-on-film/#post-214647",
+    "scraped_at": "2026-01-15T13:16:18.344768+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposing-a-heavy-negative-on-film/#post-214647",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e6472d979550c095052b5fa1af92a88552e05668e22705d25c2236fe15ee6d15",
+    "parser_version": "bbpress-v2"
+  }
+}

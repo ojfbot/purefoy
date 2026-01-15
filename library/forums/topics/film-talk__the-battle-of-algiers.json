@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/the-battle-of-algiers/",
+  "forum_slug": "film-talk",
+  "topic_slug": "the-battle-of-algiers",
+  "title": "The Battle of Algiers",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "170675"
+  ],
+  "reply_tree": {
+    "post_id": "170675",
+    "post_type": "topic",
+    "author": "Rizzy",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-battle-of-algiers/",
+    "scraped_at": "2026-01-15T14:50:27.566242+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-battle-of-algiers/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bf890c3d2e1981dcce12313e119fa0b2b760e58cf2385846dab1018c5227a289",
+    "parser_version": "bbpress-v2"
+  }
+}

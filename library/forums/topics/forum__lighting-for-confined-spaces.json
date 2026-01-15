@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/lighting-for-confined-spaces/#post-217870",
+  "forum_slug": "forum",
+  "topic_slug": "lighting-for-confined-spaces",
+  "title": "Lighting for Confined Spaces",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217864",
+    "217870"
+  ],
+  "reply_tree": {
+    "post_id": "217864",
+    "post_type": "topic",
+    "author": "Corran Villalobos",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "217870",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-for-confined-spaces/#post-217870",
+    "scraped_at": "2026-01-15T15:20:03.957480+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-confined-spaces/#post-217870",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bac27a1458d18be2e93d39293319e1a35174e30878b0e8dd516974189d34013c",
+    "parser_version": "bbpress-v2"
+  }
+}

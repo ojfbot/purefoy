@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/shooting-on-phone/#post-215801",
+  "forum_slug": "camera",
+  "topic_slug": "shooting-on-phone",
+  "title": "Shooting on phone",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215566",
+    "215801"
+  ],
+  "reply_tree": {
+    "post_id": "215566",
+    "post_type": "topic",
+    "author": "7eycorpio",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215801",
+        "post_type": "reply",
+        "author": "IgorVe",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-on-phone/#post-215801",
+    "scraped_at": "2026-01-15T15:20:50.944861+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-on-phone/#post-215801",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "febe00c9767c88559a09a32eb703a4d7b4f338b5d59d26bec9684d0444ff6845",
+    "parser_version": "bbpress-v2"
+  }
+}

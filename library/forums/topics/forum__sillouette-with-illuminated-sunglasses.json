@@ -1,0 +1,105 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/sillouette-with-illuminated-sunglasses/#post-217513",
+  "forum_slug": "forum",
+  "topic_slug": "sillouette-with-illuminated-sunglasses",
+  "title": "Sillouette with illuminated sunglasses",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216690",
+    "216694",
+    "216707",
+    "216708",
+    "216716",
+    "216718",
+    "216886",
+    "216892",
+    "216909",
+    "217513"
+  ],
+  "reply_tree": {
+    "post_id": "216690",
+    "post_type": "topic",
+    "author": "ThatGreasyFootball",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216694",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216707",
+        "post_type": "reply",
+        "author": "ThatGreasyFootball",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216708",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216716",
+        "post_type": "reply",
+        "author": "ThatGreasyFootball",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216718",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216886",
+        "post_type": "reply",
+        "author": "ThatGreasyFootball",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216892",
+        "post_type": "reply",
+        "author": "neeraj.jain",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216909",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217513",
+        "post_type": "reply",
+        "author": "ThatGreasyFootball",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 9,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sillouette-with-illuminated-sunglasses/#post-217513",
+    "scraped_at": "2026-01-15T15:20:30.888343+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sillouette-with-illuminated-sunglasses/#post-217513",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c9bdd25f83b98125c2f821a87fe04fbf72a42f720ada7e27dce5cfdead6e0c68",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "216685",
+    "forum_slug": "forum",
+    "topic_slug": "working-with-limited-lighting",
+    "parent_post_id": "216676",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "(again, sorry for posting it twice but the previous post got cancelled)\nAs always, my lack of experience makes my opinion of limited help, but if i understood you’ve got too much light and there’s no way to turn part of them off, is it correct?\nAs Roger and gx42 wrote, i was wondering too what kind of scene are you going to shoot, or better what kind of effect you want your scene create on the audience.\nIf the problem is that the light of the gym is too even and can’t create a dramatic effect or make the talents stand out , besides the negative fill (but i guess it’s not easy to use them in such a great space, and i suppose you’ll need to consider also the bounce from the field on the walls too, not only the lights from above) you could use an ND filter to make everything darker, adding some other lights just on the talents to make them stand out. The ND filter should avoid to overexpose them and you’ll obtain a wider  contrast between them and the background and more control on what you are actually lighting. It won’t look very naturalistic but, again, it depends on what kind of story you are telling and in what kind of shot.\nPerhaps it’s a stupid idea but in theory it should work, at least i think so (i’m not experienced enought to judge how well it could work, i leave the judgment to Roger, David and the others).  You could do a test and see what happens. I’d limit the ND to one stop or two, or it will look a theatre stage more than a basketball field.\nAnother possibility could be the secondary color correction in post production of the areas you want to be darker, but you’ll need somebody  good with masking and rotoscoping if the shot is very dynamic.",
+  "content_html": "<p><em>(again, sorry for posting it twice but the previous post got cancelled)</em></p>\n<p> </p>\n<p>As always, my lack of experience makes my opinion of limited help, but if i understood you’ve got too much light and there’s no way to turn part of them off, is it correct?</p>\n<p>As Roger and gx42 wrote, i was wondering too what kind of scene are you going to shoot, or better what kind of effect you want your scene create on the audience.</p>\n<p>If the problem is that the light of the gym is too even and can’t create a dramatic effect or make the talents stand out , besides the negative fill (but i guess it’s not easy to use them in such a great space, and i suppose you’ll need to consider also the bounce from the field on the walls too, not only the lights from above) you could use an ND filter to make everything darker, adding some other lights just on the talents to make them stand out. The ND filter should avoid to overexpose them and you’ll obtain a wider  contrast between them and the background and more control on what you are actually lighting. It won’t look very naturalistic but, again, it depends on what kind of story you are telling and in what kind of shot.</p>\n<p>Perhaps it’s a stupid idea but in theory it should work, at least i think so (i’m not experienced enought to judge how well it could work, i leave the judgment to Roger, David and the others).  You could do a test and see what happens. I’d limit the ND to one stop or two, or it will look a theatre stage more than a basketball field.</p>\n<p>Another possibility could be the secondary color correction in post production of the areas you want to be darker, but you’ll need somebody  good with masking and rotoscoping if the shot is very dynamic.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "(again, sorry for posting it twice but the previous post got cancelled)"
+    },
+    {
+      "type": "paragraph",
+      "text": "As always, my lack of experience makes my opinion of limited help, but if i understood you’ve got too much light and there’s no way to turn part of them off, is it correct?"
+    },
+    {
+      "type": "paragraph",
+      "text": "As Roger and gx42 wrote, i was wondering too what kind of scene are you going to shoot, or better what kind of effect you want your scene create on the audience."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the problem is that the light of the gym is too even and can’t create a dramatic effect or make the talents stand out , besides the negative fill (but i guess it’s not easy to use them in such a great space, and i suppose you’ll need to consider also the bounce from the field on the walls too, not only the lights from above) you could use an ND filter to make everything darker, adding some other lights just on the talents to make them stand out. The ND filter should avoid to overexpose them and you’ll obtain a wider  contrast between them and the background and more control on what you are actually lighting. It won’t look very naturalistic but, again, it depends on what kind of story you are telling and in what kind of shot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Perhaps it’s a stupid idea but in theory it should work, at least i think so (i’m not experienced enought to judge how well it could work, i leave the judgment to Roger, David and the others).  You could do a test and see what happens. I’d limit the ND to one stop or two, or it will look a theatre stage more than a basketball field."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another possibility could be the secondary color correction in post production of the areas you want to be darker, but you’ll need somebody  good with masking and rotoscoping if the shot is very dynamic."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/working-with-limited-lighting/#post-216714",
+    "scraped_at": "2026-01-15T15:23:19.315231+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/working-with-limited-lighting/#post-216714",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b48e712db06b00838fd7a61a076e0407962232835bb281661f7644b7f350db67",
+    "parser_version": "bbpress-v2"
+  }
+}

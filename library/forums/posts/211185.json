@@ -1,0 +1,56 @@
+{
+  "ids": {
+    "post_id": "211185",
+    "forum_slug": "website-news",
+    "topic_slug": "night-interior-ballroom-lighting"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "LukeJ",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger (and others),\nHere’s a tough one. I am looking for possible approaches and ideas to this tricky lighting situation. I am shooting a 1800’s period film in the ballroom pictured below. The room will be blacked out for night and filled with 50+ extras. Since it is a historic building, nothing can be rigged to the roof and candles are prohibited. The only practical source of light I have are the chandeliers on the roof which basically flatten the whole room and cannot be dimmed, they’re either on or off. I have looked into using LED candles as practicals around the room, which 1: look horrible and 2: I would need 100’s to generate any source of usable practical light. Any moonlight or ambience through the windows is not possible since the building is on the 30th floor…..\nMy first instinct is to dress the tables with a period appropriate practical source such as a lantern or something similar and cheat the inside with a bulb.\nAny input or suggestions would be much appreciated! (please keep budget in mind when suggesting things, it is a shot film….enough said..)",
+  "content_html": "<p>Hi Roger (and others),</p>\n<p>Here’s a tough one. I am looking for possible approaches and ideas to this tricky lighting situation. I am shooting a 1800’s period film in the ballroom pictured below. The room will be blacked out for night and filled with 50+ extras. Since it is a historic building, nothing can be rigged to the roof and candles are prohibited. The only practical source of light I have are the chandeliers on the roof which basically flatten the whole room and cannot be dimmed, they’re either on or off. I have looked into using LED candles as practicals around the room, which 1: look horrible and 2: I would need 100’s to generate any source of usable practical light. Any moonlight or ambience through the windows is not possible since the building is on the 30th floor…..</p>\n<p>My first instinct is to dress the tables with a period appropriate practical source such as a lantern or something similar and cheat the inside with a bulb.</p>\n<p>Any input or suggestions would be much appreciated! (please keep budget in mind when suggesting things, it is a shot film….enough said..)</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/211185/rws39qjv88ynuvpqcep0ywhwnr55joo2.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger (and others),"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here’s a tough one. I am looking for possible approaches and ideas to this tricky lighting situation. I am shooting a 1800’s period film in the ballroom pictured below. The room will be blacked out for night and filled with 50+ extras. Since it is a historic building, nothing can be rigged to the roof and candles are prohibited. The only practical source of light I have are the chandeliers on the roof which basically flatten the whole room and cannot be dimmed, they’re either on or off. I have looked into using LED candles as practicals around the room, which 1: look horrible and 2: I would need 100’s to generate any source of usable practical light. Any moonlight or ambience through the windows is not possible since the building is on the 30th floor….."
+    },
+    {
+      "type": "paragraph",
+      "text": "My first instinct is to dress the tables with a period appropriate practical source such as a lantern or something similar and cheat the inside with a bulb."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any input or suggestions would be much appreciated! (please keep budget in mind when suggesting things, it is a shot film….enough said..)"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/211185/rws39qjv88ynuvpqcep0ywhwnr55joo2.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/night-interior-ballroom-lighting/#post-216480",
+    "scraped_at": "2026-01-15T12:07:59.797968+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/night-interior-ballroom-lighting/#post-216480",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "764ce9bacf95ea095bc87db9f530c62460e90eeed98bb39de7c01e9d7ec44e78",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/movies-to-watch-if-wanting-to-improve-at-stills/",
+  "forum_slug": "composition",
+  "topic_slug": "movies-to-watch-if-wanting-to-improve-at-stills",
+  "title": "Movies to watch if wanting to improve at stills",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "221099"
+  ],
+  "reply_tree": {
+    "post_id": "221099",
+    "post_type": "topic",
+    "author": "kryshot",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/movies-to-watch-if-wanting-to-improve-at-stills/",
+    "scraped_at": "2026-01-15T13:23:35.613219+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/movies-to-watch-if-wanting-to-improve-at-stills/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8ee9ae560c2ddbd422875d8704f573b099e3377924159077c04386e20fbb2e41",
+    "parser_version": "bbpress-v2"
+  }
+}

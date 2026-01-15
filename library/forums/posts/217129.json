@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "217129",
+    "forum_slug": "forum",
+    "topic_slug": "lotr-trilogy-lighting-analysis"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Filip Nerold",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello all!\nI am very curious about your opinions and thoughs on lighting in LOTR trilogy. I have made this video-essay, where I am focusing on conceptual lighting techniques and how it tells information, pushing narrative and impact audience. I would like to have a discussion about this, if you are interested! You can watch here:\nThank you and looking forward to your thoughts!",
+  "content_html": "<p>Hello all!</p>\n<p>I am very curious about your opinions and thoughs on lighting in LOTR trilogy. I have made this video-essay, where I am focusing on conceptual lighting techniques and how it tells information, pushing narrative and impact audience. I would like to have a discussion about this, if you are interested! You can watch here:</p>\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"381\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/Lbfi1pYT7sE?feature=oembed\" title=\"LOTR Cinematography: Lighting Techniques Explained\" width=\"678\"></iframe></p>\n<p> </p>\n<p>Thank you and looking forward to your thoughts!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello all!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am very curious about your opinions and thoughs on lighting in LOTR trilogy. I have made this video-essay, where I am focusing on conceptual lighting techniques and how it tells information, pushing narrative and impact audience. I would like to have a discussion about this, if you are interested! You can watch here:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you and looking forward to your thoughts!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lotr-trilogy-lighting-analysis/",
+    "scraped_at": "2026-01-15T15:21:57.538410+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lotr-trilogy-lighting-analysis/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3836d4e8b267ac808aa6505bccbeb9e4c87d26cc20f73022536de288e2376122",
+    "parser_version": "bbpress-v2"
+  }
+}

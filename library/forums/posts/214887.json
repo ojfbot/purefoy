@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "214887",
+    "forum_slug": "forum",
+    "topic_slug": "bathroom-lighting-question"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "thomasvangool",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nI have a question in regard to lighting a bathroom. It’s perhaps smaller than what you worked with in Prisoners (I have attached photos below). It is a party scene with lots of different colours and textures. The protagonist (who is happy) walks into the bathroom to check on her boyfriend (who is sitting in the shower, upset). Immediately, I think of lighting the hallway very playfully and the bathroom, more of a sombre blue – maybe, to convey the metaphor that the character is drowning.  I also don’t want to veer too far away from the vibrancy of the scene. How would you create this effect and light this bathroom? Additionally, I’m exploring the idea of utilising the shower water to create visually captivating patterns or interesting reflections. Do you have anything that you would be able to share?\nThanks, I really appreciate your time",
+  "content_html": "<p>Hi Roger,</p>\n<p>I have a question in regard to lighting a bathroom. It’s perhaps smaller than what you worked with in Prisoners (I have attached photos below). It is a party scene with lots of different colours and textures. The protagonist (who is happy) walks into the bathroom to check on her boyfriend (who is sitting in the shower, upset). Immediately, I think of lighting the hallway very playfully and the bathroom, more of a sombre blue – maybe, to convey the metaphor that the character is drowning.  I also don’t want to veer too far away from the vibrancy of the scene. How would you create this effect and light this bathroom? Additionally, I’m exploring the idea of utilising the shower water to create visually captivating patterns or interesting reflections. Do you have anything that you would be able to share?</p>\n<p>Thanks, I really appreciate your time<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214887/bnip4685vssshjvzxkc529z7q685v5r4.jpg\"/></p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214887/ef9g49gqxih5metbfcf2wolf52divaxs.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have a question in regard to lighting a bathroom. It’s perhaps smaller than what you worked with in Prisoners (I have attached photos below). It is a party scene with lots of different colours and textures. The protagonist (who is happy) walks into the bathroom to check on her boyfriend (who is sitting in the shower, upset). Immediately, I think of lighting the hallway very playfully and the bathroom, more of a sombre blue – maybe, to convey the metaphor that the character is drowning.  I also don’t want to veer too far away from the vibrancy of the scene. How would you create this effect and light this bathroom? Additionally, I’m exploring the idea of utilising the shower water to create visually captivating patterns or interesting reflections. Do you have anything that you would be able to share?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks, I really appreciate your time"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214887/bnip4685vssshjvzxkc529z7q685v5r4.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214887/ef9g49gqxih5metbfcf2wolf52divaxs.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bathroom-lighting-question/#post-214911",
+    "scraped_at": "2026-01-15T15:50:36.856961+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bathroom-lighting-question/#post-214911",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3256749b654d463b1becdd6bcfbba09a1b1bbeb2b31552b010bfef6c1627501e",
+    "parser_version": "bbpress-v2"
+  }
+}

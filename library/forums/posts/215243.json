@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215243",
+    "forum_slug": "website-news",
+    "topic_slug": "dallas-film-commission-episode",
+    "parent_post_id": "215231",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Baudelaire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think it has a lot to do with the bar being set so very high for this podcast. Every guest usually is pretty much a world leader in their field.",
+  "content_html": "<p>I think it has a lot to do with the bar being set so very high for this podcast. Every guest usually is pretty much a world leader in their field.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think it has a lot to do with the bar being set so very high for this podcast. Every guest usually is pretty much a world leader in their field."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dallas-film-commission-episode/#post-215243",
+    "scraped_at": "2026-01-15T12:26:28.064024+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dallas-film-commission-episode/#post-215243",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "705bf8fdf532a3c8826345d88f4e1e0ab484a6f3a6c3005715b275a62e51ecce",
+    "parser_version": "bbpress-v2"
+  }
+}

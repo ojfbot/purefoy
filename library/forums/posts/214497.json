@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214497",
+    "forum_slug": "camera",
+    "topic_slug": "camera-recommendations-for-music-videos",
+    "parent_post_id": "214487",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "The Byre",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Panasonic FZ1000.  Cheap and has a good Leica zoom lens that goes from 29 to 400 without ghosting or flares.  If I do not want to schlepp a box of lenses and stands and recorder, etc., etc., I have two of these and they are my “grab-n-go!” cameras.  They only do Rec709, so no log, but we are talking about a really cheap camera here – ideal for YT videos and with a UHD/4000 image that is more than good enough!",
+  "content_html": "<p>Panasonic FZ1000.  Cheap and has a good Leica zoom lens that goes from 29 to 400 without ghosting or flares.  If I do not want to schlepp a box of lenses and stands and recorder, etc., etc., I have two of these and they are my “grab-n-go!” cameras.  They only do Rec709, so no log, but we are talking about a really cheap camera here – ideal for YT videos and with a UHD/4000 image that is more than good enough!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Panasonic FZ1000.  Cheap and has a good Leica zoom lens that goes from 29 to 400 without ghosting or flares.  If I do not want to schlepp a box of lenses and stands and recorder, etc., etc., I have two of these and they are my “grab-n-go!” cameras.  They only do Rec709, so no log, but we are talking about a really cheap camera here – ideal for YT videos and with a UHD/4000 image that is more than good enough!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-recommendations-for-music-videos/#post-214502",
+    "scraped_at": "2026-01-15T15:26:07.249021+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-recommendations-for-music-videos/#post-214502",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "59fd18869aa5fb0f8247944e632962ff82247cdf403159d8b94a738b263394e4",
+    "parser_version": "bbpress-v2"
+  }
+}

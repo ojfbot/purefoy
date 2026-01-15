@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "218550",
+    "forum_slug": "forum",
+    "topic_slug": "white-balance-with-multiple-light-sources"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "TBunker11",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’ve recently been struggling with how to approach white balance when working with multiple light sources on set. I’m unsure whether to base it on something specific, like skin tones or a key light, or to just keep it constant—say, at 5600K—and build my lighting around that.\nMy main goal is for the viewer to experience the lighting as it is, not have a warm light appear neutral just because the camera’s white balance is compensating for it. When you’re working with a mix of color temperatures, do you usually white balance to match the dominant source, or do you prefer to keep it fixed and let the lighting speak for itself?",
+  "content_html": "<p>I’ve recently been struggling with how to approach white balance when working with multiple light sources on set. I’m unsure whether to base it on something specific, like skin tones or a key light, or to just keep it constant—say, at 5600K—and build my lighting around that.</p>\n<p>My main goal is for the viewer to experience the lighting as it is, not have a warm light appear neutral just because the camera’s white balance is compensating for it. When you’re working with a mix of color temperatures, do you usually white balance to match the dominant source, or do you prefer to keep it fixed and let the lighting speak for itself?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’ve recently been struggling with how to approach white balance when working with multiple light sources on set. I’m unsure whether to base it on something specific, like skin tones or a key light, or to just keep it constant—say, at 5600K—and build my lighting around that."
+    },
+    {
+      "type": "paragraph",
+      "text": "My main goal is for the viewer to experience the lighting as it is, not have a warm light appear neutral just because the camera’s white balance is compensating for it. When you’re working with a mix of color temperatures, do you usually white balance to match the dominant source, or do you prefer to keep it fixed and let the lighting speak for itself?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/white-balance-with-multiple-light-sources/#post-218611",
+    "scraped_at": "2026-01-15T14:50:55.317305+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-with-multiple-light-sources/#post-218611",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "472242a3bb1a03e3e91e5065d9d81613f4975f9c3265c2ec9e77a846f44b7c67",
+    "parser_version": "bbpress-v2"
+  }
+}

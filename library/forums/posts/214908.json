@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214908",
+    "forum_slug": "forum",
+    "topic_slug": "differentiating-morning-afternoon-evening-lighting",
+    "parent_post_id": "214907",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That I can’t answer without knowing the script and the scene. Mine is not a ‘one plan fits all’ approach. It could be a rainy day or a sunny day, the blinds might be closed or the room could be flooded with sunlight.",
+  "content_html": "<p>That I can’t answer without knowing the script and the scene. Mine is not a ‘one plan fits all’ approach. It could be a rainy day or a sunny day, the blinds might be closed or the room could be flooded with sunlight.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That I can’t answer without knowing the script and the scene. Mine is not a ‘one plan fits all’ approach. It could be a rainy day or a sunny day, the blinds might be closed or the room could be flooded with sunlight."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/differentiating-morning-afternoon-evening-lighting/#post-214908",
+    "scraped_at": "2026-01-15T15:50:42.336483+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/differentiating-morning-afternoon-evening-lighting/#post-214908",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d13d04d76ae1e05e1fa7f9eacc0e8da771071666eea47abf73f4525cbc4a2046",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218121",
+    "forum_slug": "film-talk",
+    "topic_slug": "andrei-tarkovsky-film",
+    "parent_post_id": "217198",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "We watched Solaris again the other night. The film just gets better and better. Contemporary films seem to get worse and worse but, even with that in mind, Solaris is a masterpiece. But you could say that for almost all of Tarkovsky’s films.",
+  "content_html": "<p>We watched Solaris again the other night. The film just gets better and better. Contemporary films seem to get worse and worse but, even with that in mind, Solaris is a masterpiece. But you could say that for almost all of Tarkovsky’s films.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "We watched Solaris again the other night. The film just gets better and better. Contemporary films seem to get worse and worse but, even with that in mind, Solaris is a masterpiece. But you could say that for almost all of Tarkovsky’s films."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/andrei-tarkovsky-film/#post-218165",
+    "scraped_at": "2026-01-15T12:08:58.664870+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/andrei-tarkovsky-film/#post-218165",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f0096f7586cf8cb38cc4d70234890a22cce6cff089e10979f5e4744f657f6b32",
+    "parser_version": "bbpress-v2"
+  }
+}

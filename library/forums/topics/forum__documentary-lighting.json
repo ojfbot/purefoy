@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/documentary-lighting/#post-215721",
+  "forum_slug": "forum",
+  "topic_slug": "documentary-lighting",
+  "title": "Documentary Lighting",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215713",
+    "215714",
+    "215721"
+  ],
+  "reply_tree": {
+    "post_id": "215713",
+    "post_type": "topic",
+    "author": "Fakhriemir07",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215714",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215721",
+        "post_type": "reply",
+        "author": "neeraj.jain",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/documentary-lighting/#post-215721",
+    "scraped_at": "2026-01-15T15:45:15.452904+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/documentary-lighting/#post-215721",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7cd1e4ededebb435bc1932576816f0ec0e7cd2e729aee95007825b0463a25326",
+    "parser_version": "bbpress-v2"
+  }
+}

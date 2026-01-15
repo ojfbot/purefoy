@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "216419",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-rooftop"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Thom Yorke",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nafter reading the “Looking at lighting” section, and watching Empire of Light again, I noticed that in the Night Ext Rooftop scene, before the fireworks, there is a distinct separation between the shadow side of the characters, and the night sky, because the atmosphere is not completely black.\nDid you know in advance that this would be the case, and how would you know you can rely on it being like that on the shooting day? Or would you just let the shadow side of the characters merge with the night sky?\nTypically you would see a (practical/motivated) light source providing backlight to separate characters from the expected black night sky, so it stands out that this is not the case here.",
+  "content_html": "<p>Hi Roger,</p>\n<p>after reading the “Looking at lighting” section, and watching Empire of Light again, I noticed that in the Night Ext Rooftop scene, before the fireworks, there is a distinct separation between the shadow side of the characters, and the night sky, because the atmosphere is not completely black.</p>\n<p>Did you know in advance that this would be the case, and how would you know you can rely on it being like that on the shooting day? Or would you just let the shadow side of the characters merge with the night sky?</p>\n<p>Typically you would see a (practical/motivated) light source providing backlight to separate characters from the expected black night sky, so it stands out that this is not the case here.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "after reading the “Looking at lighting” section, and watching Empire of Light again, I noticed that in the Night Ext Rooftop scene, before the fireworks, there is a distinct separation between the shadow side of the characters, and the night sky, because the atmosphere is not completely black."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you know in advance that this would be the case, and how would you know you can rely on it being like that on the shooting day? Or would you just let the shadow side of the characters merge with the night sky?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Typically you would see a (practical/motivated) light source providing backlight to separate characters from the expected black night sky, so it stands out that this is not the case here."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-rooftop/#post-216421",
+    "scraped_at": "2026-01-15T15:25:13.442264+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-rooftop/#post-216421",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "27366b4c42781fb0927b1ba1f1c317e8de25c0ca0d302fac83c16afcc7004352",
+    "parser_version": "bbpress-v2"
+  }
+}

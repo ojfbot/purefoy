@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "214957",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-relaxation-room",
+    "parent_post_id": "214947",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you very much for your reply Mr Deakins! It’s always fantastic to read from you.\nIt’s also very interesting to know and discover your thoughts behind a lighting choice. Although your thought was that the area could appear more like a “work space”, I think this kind of “contrast” with the lobby makes that area appear more “intimate” and something like “behind the scenes” of the main act.\nIn terms of lighting fixtures, do you project light above the “white glasses” of the diffusers above the ceiling or those are real fixtures (maybe led asteras etc.), the light seems to me controlled and just a bit “directional” but maintaining the soft texture. Maybe a real ceiling fixture could spill light more around the room and less toward the floor hitting the walls (and maybe if the ceiling is low the light fall-off would be stronger)?\nOutside the windows, which kind of light did you use to bounce the white wall? Did you however still want to “emulate” the daylight?\nI apologize for all these further questions, just my curiosity that pushes me to learn from you.\nAs always I want to thank you for your availability and for your kindness.\nYour words are a big resource for all of us.\nHave a peaceful day,\nMax.",
+  "content_html": "<p>Thank you very much for your reply Mr Deakins! It’s always fantastic to read from you.<br/>\nIt’s also very interesting to know and discover your thoughts behind a lighting choice. Although your thought was that the area could appear more like a “work space”, I think this kind of “contrast” with the lobby makes that area appear more “intimate” and something like “behind the scenes” of the main act.</p>\n<p>In terms of lighting fixtures, do you project light above the “white glasses” of the diffusers above the ceiling or those are real fixtures (maybe led asteras etc.), the light seems to me controlled and just a bit “directional” but maintaining the soft texture. Maybe a real ceiling fixture could spill light more around the room and less toward the floor hitting the walls (and maybe if the ceiling is low the light fall-off would be stronger)?</p>\n<p>Outside the windows, which kind of light did you use to bounce the white wall? Did you however still want to “emulate” the daylight?</p>\n<p>I apologize for all these further questions, just my curiosity that pushes me to learn from you.</p>\n<p>As always I want to thank you for your availability and for your kindness.<br/>\nYour words are a big resource for all of us.</p>\n<p>Have a peaceful day,<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you very much for your reply Mr Deakins! It’s always fantastic to read from you.\nIt’s also very interesting to know and discover your thoughts behind a lighting choice. Although your thought was that the area could appear more like a “work space”, I think this kind of “contrast” with the lobby makes that area appear more “intimate” and something like “behind the scenes” of the main act."
+    },
+    {
+      "type": "paragraph",
+      "text": "In terms of lighting fixtures, do you project light above the “white glasses” of the diffusers above the ceiling or those are real fixtures (maybe led asteras etc.), the light seems to me controlled and just a bit “directional” but maintaining the soft texture. Maybe a real ceiling fixture could spill light more around the room and less toward the floor hitting the walls (and maybe if the ceiling is low the light fall-off would be stronger)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Outside the windows, which kind of light did you use to bounce the white wall? Did you however still want to “emulate” the daylight?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I apologize for all these further questions, just my curiosity that pushes me to learn from you."
+    },
+    {
+      "type": "paragraph",
+      "text": "As always I want to thank you for your availability and for your kindness.\nYour words are a big resource for all of us."
+    },
+    {
+      "type": "paragraph",
+      "text": "Have a peaceful day,\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-relaxation-room/#post-214958",
+    "scraped_at": "2026-01-15T15:50:15.375109+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-relaxation-room/#post-214958",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8ccf9bedd309edc1d5d9dcfd2482604e40c7ac74be92acaf7ccaf88958896db9",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215233",
+    "forum_slug": "forum",
+    "topic_slug": "moon-light-for-exterior",
+    "parent_post_id": "215213",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There are photometric charts that you can study to find what light will give you the required foot candles and width of beam at any given distance. I would start by looking at the chart for an 18K HMI. To shoot at 2.8 and 800 ISO you need something like 12.5 foot candles depending on whether that is a back light or a front light.",
+  "content_html": "<p>There are photometric charts that you can study to find what light will give you the required foot candles and width of beam at any given distance. I would start by looking at the chart for an 18K HMI. To shoot at 2.8 and 800 ISO you need something like 12.5 foot candles depending on whether that is a back light or a front light.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There are photometric charts that you can study to find what light will give you the required foot candles and width of beam at any given distance. I would start by looking at the chart for an 18K HMI. To shoot at 2.8 and 800 ISO you need something like 12.5 foot candles depending on whether that is a back light or a front light."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/moon-light-for-exterior/",
+    "scraped_at": "2026-01-15T15:48:03.216316+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/moon-light-for-exterior/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2ecea57b65905c5321abfc2df910797fc5faa61dbab2152aba007f9492d4cc29",
+    "parser_version": "bbpress-v2"
+  }
+}

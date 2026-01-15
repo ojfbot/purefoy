@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214572",
+    "forum_slug": "forum",
+    "topic_slug": "how-to-set-exposure-for-an-explosion",
+    "parent_post_id": "214568",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It’s from a TV series I did called “Get Shorty”, Season 1.",
+  "content_html": "<p>It’s from a TV series I did called “Get Shorty”, Season 1.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "It’s from a TV series I did called “Get Shorty”, Season 1."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-set-exposure-for-an-explosion/#post-214696",
+    "scraped_at": "2026-01-15T15:52:06.698447+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-set-exposure-for-an-explosion/#post-214696",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d095a56719fb677fd6ac62f9ffa033f82c58aa584a6057343de80993e98b67cc",
+    "parser_version": "bbpress-v2"
+  }
+}

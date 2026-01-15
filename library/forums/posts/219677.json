@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "219677",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-a-rainy-night-scene",
+    "parent_post_id": "219649",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I am sure you are aware how light behaves differently in the rain. You might find that your street lights, when used as a backlight, may be enough and you might find yourself turning off lights that are behind camera. Take a look at Road to Perdition. I know the film had very strong stylized backlighting for the rain sequences but the concept is the same. Wide shots in silhouette against the light and that same light acting as a side light for closer coverage of the characters.",
+  "content_html": "<p>I am sure you are aware how light behaves differently in the rain. You might find that your street lights, when used as a backlight, may be enough and you might find yourself turning off lights that are behind camera. Take a look at Road to Perdition. I know the film had very strong stylized backlighting for the rain sequences but the concept is the same. Wide shots in silhouette against the light and that same light acting as a side light for closer coverage of the characters.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I am sure you are aware how light behaves differently in the rain. You might find that your street lights, when used as a backlight, may be enough and you might find yourself turning off lights that are behind camera. Take a look at Road to Perdition. I know the film had very strong stylized backlighting for the rain sequences but the concept is the same. Wide shots in silhouette against the light and that same light acting as a side light for closer coverage of the characters."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-a-rainy-night-scene/#post-219677",
+    "scraped_at": "2026-01-15T14:16:34.533266+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-a-rainy-night-scene/#post-219677",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c0967dc2dd062ca6e2c149e25d78977a16285e131db4d3569b961754474417b9",
+    "parser_version": "bbpress-v2"
+  }
+}

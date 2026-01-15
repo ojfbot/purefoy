@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214512",
+    "forum_slug": "composition",
+    "topic_slug": "empire-of-light-camera-work",
+    "parent_post_id": "178611",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You might want to watch the films of Robert Bresson or Luchino Visconti! There are plenty of films with a similarly controlled camera style but less in contemporary mainstream cinema.",
+  "content_html": "<p>You might want to watch the films of Robert Bresson or Luchino Visconti! There are plenty of films with a similarly controlled camera style but less in contemporary mainstream cinema.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You might want to watch the films of Robert Bresson or Luchino Visconti! There are plenty of films with a similarly controlled camera style but less in contemporary mainstream cinema."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-camera-work/#post-214512",
+    "scraped_at": "2026-01-15T13:16:08.237671+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-camera-work/#post-214512",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ab9f9b4f247c888fc727cb13e38dcc7f31f0a1160e7db07b5473fc10e25a70fd",
+    "parser_version": "bbpress-v2"
+  }
+}

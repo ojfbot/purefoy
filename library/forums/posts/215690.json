@@ -1,0 +1,51 @@
+{
+  "ids": {
+    "post_id": "215690",
+    "forum_slug": "camera",
+    "topic_slug": "directing-effect-of-133-43-ratio",
+    "parent_post_id": "215637",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "BenHolt98",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Although not 4:3, it reminded me of these ‘memory’ or ‘vignette’ scenes from Jarhead, which although are a different ratio to the 2.35, fit in to the film perfectly.\nI always wondered, Roger, did you use super 16 for these scenes? Or some other ‘inferior’ format or process, as the image looks a lot more grainy or even ‘degraded’ than the rest of the film?",
+  "content_html": "<p>Although not 4:3, it reminded me of these ‘memory’ or ‘vignette’ scenes from Jarhead, which although are a different ratio to the 2.35, fit in to the film perfectly.</p>\n<p>I always wondered, Roger, did you use super 16 for these scenes? Or some other ‘inferior’ format or process, as the image looks a lot more grainy or even ‘degraded’ than the rest of the film?</p>\n<p><img alt=\"Jarhead1\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215690/2ydnt2jh3u8k9fs9qpr4tbf0gn0j3nyp.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Although not 4:3, it reminded me of these ‘memory’ or ‘vignette’ scenes from Jarhead, which although are a different ratio to the 2.35, fit in to the film perfectly."
+    },
+    {
+      "type": "paragraph",
+      "text": "I always wondered, Roger, did you use super 16 for these scenes? Or some other ‘inferior’ format or process, as the image looks a lot more grainy or even ‘degraded’ than the rest of the film?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215690/2ydnt2jh3u8k9fs9qpr4tbf0gn0j3nyp.jpg",
+      "alt": "Jarhead1",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+    "scraped_at": "2026-01-15T13:56:37.695452+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b7c22410c949795dbad5a316dafb52d0ac95d830fd92c695a8fff11b9d780570",
+    "parser_version": "bbpress-v2"
+  }
+}

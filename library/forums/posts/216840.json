@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216840",
+    "forum_slug": "composition",
+    "topic_slug": "inspiration-sources",
+    "parent_post_id": "216503",
+    "parent_type": "topic",
+    "position": 15
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m a bit skeptical about conceptual art since it’s basically up the artist to decide what is art and what is no,  at a point that everything (a blank frame included) with a title on it becomes “art”.  In a famous italian comedy sketch Alberto Sordi’s wife seated on a chair to rest a little in a modern art museum and turists begun taking pictures of her since they couldn’t tell her from the actual conceptual work. It sums up my consideration for it, but i guess it’s my own limit, i understand that it’s a form of art that many people actually understand and appreciate. To me it’s “art” when it somehow comunicates with the audience (something that Tarkovsky’s movies, whatever they actually mean, really do – i can\nfeel\nthey are art), not just because it has a title and a critic decides that it’s art.\nBy the way, i’m reading “Sculpting in time” by Tarkovsky and it seems he had to deal with three groups of people in his career: the ones that didn’t understand the movies and  didn’t like them because of that, the ones that liked the movies but still  tried to understand the meaning (and unfortunately  i belong to this category) and the ones (the most appreciated by him, no surprise) were the ones that simply let the movies inspire and suggest emotions, without looking for a meaning in every image.",
+  "content_html": "<p>I’m a bit skeptical about conceptual art since it’s basically up the artist to decide what is art and what is no,  at a point that everything (a blank frame included) with a title on it becomes “art”.  In a famous italian comedy sketch Alberto Sordi’s wife seated on a chair to rest a little in a modern art museum and turists begun taking pictures of her since they couldn’t tell her from the actual conceptual work. It sums up my consideration for it, but i guess it’s my own limit, i understand that it’s a form of art that many people actually understand and appreciate. To me it’s “art” when it somehow comunicates with the audience (something that Tarkovsky’s movies, whatever they actually mean, really do – i can <em>feel</em> they are art), not just because it has a title and a critic decides that it’s art.</p>\n<p>By the way, i’m reading “Sculpting in time” by Tarkovsky and it seems he had to deal with three groups of people in his career: the ones that didn’t understand the movies and  didn’t like them because of that, the ones that liked the movies but still  tried to understand the meaning (and unfortunately  i belong to this category) and the ones (the most appreciated by him, no surprise) were the ones that simply let the movies inspire and suggest emotions, without looking for a meaning in every image.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m a bit skeptical about conceptual art since it’s basically up the artist to decide what is art and what is no,  at a point that everything (a blank frame included) with a title on it becomes “art”.  In a famous italian comedy sketch Alberto Sordi’s wife seated on a chair to rest a little in a modern art museum and turists begun taking pictures of her since they couldn’t tell her from the actual conceptual work. It sums up my consideration for it, but i guess it’s my own limit, i understand that it’s a form of art that many people actually understand and appreciate. To me it’s “art” when it somehow comunicates with the audience (something that Tarkovsky’s movies, whatever they actually mean, really do – i can\nfeel\nthey are art), not just because it has a title and a critic decides that it’s art."
+    },
+    {
+      "type": "paragraph",
+      "text": "By the way, i’m reading “Sculpting in time” by Tarkovsky and it seems he had to deal with three groups of people in his career: the ones that didn’t understand the movies and  didn’t like them because of that, the ones that liked the movies but still  tried to understand the meaning (and unfortunately  i belong to this category) and the ones (the most appreciated by him, no surprise) were the ones that simply let the movies inspire and suggest emotions, without looking for a meaning in every image."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/",
+    "scraped_at": "2026-01-15T12:26:03.385338+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cff3283380c368270148d756f20c99947bbd7253e7adbc8c1a4d0ebf3ba5c003",
+    "parser_version": "bbpress-v2"
+  }
+}

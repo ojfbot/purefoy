@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215069",
+    "forum_slug": "forum",
+    "topic_slug": "outdoor-scenes-with-heavy-fog",
+    "parent_post_id": "215052",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m glad that I did remember to ask Aleksey on our podcast, even if I had forgotten I had! It really was the best I have seen.\nYes, we used smoke on the ‘BR 2049’ shot on a studio backlot.",
+  "content_html": "<p>I’m glad that I did remember to ask Aleksey on our podcast, even if I had forgotten I had! It really was the best I have seen.</p>\n<p>Yes, we used smoke on the ‘BR 2049’ shot on a studio backlot.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m glad that I did remember to ask Aleksey on our podcast, even if I had forgotten I had! It really was the best I have seen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes, we used smoke on the ‘BR 2049’ shot on a studio backlot."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/outdoor-scenes-with-heavy-fog/#post-215073",
+    "scraped_at": "2026-01-15T15:49:27.554377+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/outdoor-scenes-with-heavy-fog/#post-215073",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "af93baa7251bff6748fd72d498e6c348e6f527301d1dc064538d7e41f737e825",
+    "parser_version": "bbpress-v2"
+  }
+}

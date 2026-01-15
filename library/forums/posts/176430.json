@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "176430",
+    "forum_slug": "camera",
+    "topic_slug": "what-aperture-did-people-tend-to-use-in-movies-in-the-1940s"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "umbrella",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I know you needed a TON of light in these films that were shot on slower film stocks, does that mean most movies would be shot wide open? Thinking of films such as Casablanca.",
+  "content_html": "<p>I know you needed a TON of light in these films that were shot on slower film stocks, does that mean most movies would be shot wide open? Thinking of films such as Casablanca.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I know you needed a TON of light in these films that were shot on slower film stocks, does that mean most movies would be shot wide open? Thinking of films such as Casablanca."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-aperture-did-people-tend-to-use-in-movies-in-the-1940s/#post-176495",
+    "scraped_at": "2026-01-15T15:44:44.514062+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-aperture-did-people-tend-to-use-in-movies-in-the-1940s/#post-176495",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "852d74f3a794c6e0d312db0b667b6c8963f9af4e9f0d31959a3be021f9927b02",
+    "parser_version": "bbpress-v2"
+  }
+}

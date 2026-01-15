@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215422",
+    "forum_slug": "forum",
+    "topic_slug": "desert-chase-at-dawn-scene-in-no-country-for-old-men",
+    "parent_post_id": "215246",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The dawn chase was filmed at dawn and dusk depending on the individual set up.",
+  "content_html": "<p>The dawn chase was filmed at dawn and dusk depending on the individual set up.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The dawn chase was filmed at dawn and dusk depending on the individual set up."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/desert-chase-at-dawn-scene-in-no-country-for-old-men/#post-215883",
+    "scraped_at": "2026-01-15T15:43:44.761471+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/desert-chase-at-dawn-scene-in-no-country-for-old-men/#post-215883",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "239efd74bdbcf359ff3f645b4604b5209acac5c5a52d9ef7bf0357422d91a354",
+    "parser_version": "bbpress-v2"
+  }
+}

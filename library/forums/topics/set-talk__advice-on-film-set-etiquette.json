@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/advice-on-film-set-etiquette/#post-214839",
+  "forum_slug": "set-talk",
+  "topic_slug": "advice-on-film-set-etiquette",
+  "title": "Advice on film set etiquette",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214817",
+    "214819",
+    "214820",
+    "214824",
+    "214839"
+  ],
+  "reply_tree": {
+    "post_id": "214817",
+    "post_type": "topic",
+    "author": "Shea",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214819",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214820",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214824",
+        "post_type": "reply",
+        "author": "harsanger",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214839",
+        "post_type": "reply",
+        "author": "Rick Cook",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/advice-on-film-set-etiquette/#post-214839",
+    "scraped_at": "2026-01-15T13:23:37.504919+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/advice-on-film-set-etiquette/#post-214839",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d0f35af02f63040e8a1639e8a475efbf814aa95498017ebb0d21067eed3a5843",
+    "parser_version": "bbpress-v2"
+  }
+}

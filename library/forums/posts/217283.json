@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "217283",
+    "forum_slug": "set-talk",
+    "topic_slug": "first-meeting-with-director"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "viktorenvall",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "How do you know when its the wrong project for you in your first meeting with a director?\nWhat are you looking for in that meeting? When do you know it’s a match?\nThank you 🙂",
+  "content_html": "<p>How do you know when its the wrong project for you in your first meeting with a director?</p>\n<p>What are you looking for in that meeting? When do you know it’s a match?</p>\n<p>Thank you 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "How do you know when its the wrong project for you in your first meeting with a director?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What are you looking for in that meeting? When do you know it’s a match?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/first-meeting-with-director/#post-220081",
+    "scraped_at": "2026-01-15T13:39:51.041318+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/first-meeting-with-director/#post-220081",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9c64ac2d0f8c88ec710916100e776343d7e8f5c62cf490abc70a6f18569601c1",
+    "parser_version": "bbpress-v2"
+  }
+}

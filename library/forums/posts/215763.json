@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215763",
+    "forum_slug": "forum",
+    "topic_slug": "oldschool-hollywood-lighting-50s-60s",
+    "parent_post_id": "215736",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The film is definitely stunning! I’m certainly not denying that. Technology and tastes change, which is a pity because there is a place from different ‘looks’, On Lawrence, it was the style to see into the shadows.",
+  "content_html": "<p>The film is definitely stunning! I’m certainly not denying that. Technology and tastes change, which is a pity because there is a place from different ‘looks’, On Lawrence, it was the style to see into the shadows.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The film is definitely stunning! I’m certainly not denying that. Technology and tastes change, which is a pity because there is a place from different ‘looks’, On Lawrence, it was the style to see into the shadows."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/oldschool-hollywood-lighting-50s-60s/#post-215763",
+    "scraped_at": "2026-01-15T15:44:38.733278+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/oldschool-hollywood-lighting-50s-60s/#post-215763",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "730879abc94deb979cc91def69df39aa6affd4c6e5e2049fd1bc59af1f0e1f66",
+    "parser_version": "bbpress-v2"
+  }
+}

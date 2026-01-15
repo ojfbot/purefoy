@@ -1,0 +1,40 @@
+{
+  "ids": {
+    "forum_slug": "team-deakins",
+    "topic_slug": "lighting-natural-light-discussion",
+    "topic_url": "https://rogerdeakins.com/forums/topic/lighting-natural-light-discussion/"
+  },
+  "title": "Natural Light Discussion",
+  "author": {
+    "display_name": "John Doe",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "created_raw": "January 10, 2023",
+    "created_iso": "2023-01-10",
+    "last_activity_raw": "January 18, 2023",
+    "last_activity_iso": "2023-01-18"
+  },
+  "stats": {
+    "replies": 12,
+    "voices": 5,
+    "views": 450
+  },
+  "post_ids": [
+    "175700",
+    "175710",
+    "175763"
+  ],
+  "provenance": {
+    "source_url": "https://rogerdeakins.com/forums/topic/lighting-natural-light-discussion/",
+    "scraped_at": "2026-01-15T03:45:00Z",
+    "http": {
+      "etag": "\"xyz789\"",
+      "last_modified": "Tue, 14 Jan 2025 12:00:00 GMT"
+    }
+  },
+  "integrity": {
+    "content_hash": "sha256:def456...",
+    "parser_version": "bbpress-v1"
+  }
+}

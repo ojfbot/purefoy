@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "169522",
+    "forum_slug": "film-talk",
+    "topic_slug": "andrew-dominik-blonde",
+    "parent_post_id": "169465",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I forgot to write something. There are some point of view shots in this movie. particularly while she’s having abortions. There is vagina pov. I’m still not sure if this is meant to represent the point of view anything. I don’t think it’s necessary shots.\nI would like to see Rogerdeakins version ‘Blodne’. But it’s not possible!. I am sure your version will be very unique and good. If you were shot on blonde i am pretty sure there is no more pov unwanted  shots. You have to watch’Blonde’",
+  "content_html": "<p>I forgot to write something. There are some point of view shots in this movie. particularly while she’s having abortions. There is vagina pov. I’m still not sure if this is meant to represent the point of view anything. I don’t think it’s necessary shots.</p>\n<p>I would like to see Rogerdeakins version ‘Blodne’. But it’s not possible!. I am sure your version will be very unique and good. If you were shot on blonde i am pretty sure there is no more pov unwanted  shots. You have to watch’Blonde’</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I forgot to write something. There are some point of view shots in this movie. particularly while she’s having abortions. There is vagina pov. I’m still not sure if this is meant to represent the point of view anything. I don’t think it’s necessary shots."
+    },
+    {
+      "type": "paragraph",
+      "text": "I would like to see Rogerdeakins version ‘Blodne’. But it’s not possible!. I am sure your version will be very unique and good. If you were shot on blonde i am pretty sure there is no more pov unwanted  shots. You have to watch’Blonde’"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/andrew-dominik-blonde/#post-169522",
+    "scraped_at": "2026-01-15T14:50:40.288403+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/andrew-dominik-blonde/#post-169522",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8550c5faa1745a733742e5816b41641d93f5cfbd8cd2ee7124530066732a9b8d",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "215360",
+    "forum_slug": "film-talk",
+    "topic_slug": "working-with-different-directors"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "RichardsStudiosOfficial",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Roger, I am researching the importance of having a good relationship as a DOP with your director for an essay for my film degree and wanted to ask you a question about your experiences. Could you talk a little about what it is like to work with so many different directors and understanding their differing visions, and as a cinematographer, would you prefer to work with the same people over and over again or with someone new?",
+  "content_html": "<p>Hello Roger, I am researching the importance of having a good relationship as a DOP with your director for an essay for my film degree and wanted to ask you a question about your experiences. Could you talk a little about what it is like to work with so many different directors and understanding their differing visions, and as a cinematographer, would you prefer to work with the same people over and over again or with someone new?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Roger, I am researching the importance of having a good relationship as a DOP with your director for an essay for my film degree and wanted to ask you a question about your experiences. Could you talk a little about what it is like to work with so many different directors and understanding their differing visions, and as a cinematographer, would you prefer to work with the same people over and over again or with someone new?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/working-with-different-directors/#post-215371",
+    "scraped_at": "2026-01-15T13:24:00.518717+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/working-with-different-directors/#post-215371",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bf2359e5e54d122d0b13ae026f37d6cf0eaceb20351be4fd235e6f00f20bfed9",
+    "parser_version": "bbpress-v2"
+  }
+}

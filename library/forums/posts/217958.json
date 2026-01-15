@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "217958",
+    "forum_slug": "team-deakins",
+    "topic_slug": "reflections-new-book",
+    "parent_post_id": "217941",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "magyandras",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hopefully a book tour to accompany it in the future, and a stop in Toronto, Canada. 🙂\n(One can hope)",
+  "content_html": "<p>Hopefully a book tour to accompany it in the future, and a stop in Toronto, Canada. 🙂</p>\n<p>(One can hope)</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hopefully a book tour to accompany it in the future, and a stop in Toronto, Canada. 🙂"
+    },
+    {
+      "type": "paragraph",
+      "text": "(One can hope)"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/",
+    "scraped_at": "2026-01-15T11:32:34.538948+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "040f248b2d0e7633d754ca2170aa0074d9f561fb4830c443c513325283c740d9",
+    "parser_version": "bbpress-v2"
+  }
+}

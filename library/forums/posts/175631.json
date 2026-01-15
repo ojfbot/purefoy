@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "175631",
+    "forum_slug": "website-news",
+    "topic_slug": "recovering-the-old-forums-need-help",
+    "parent_post_id": "174482",
+    "parent_type": "topic",
+    "position": 15
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "simoncarlkoeber",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Reading this thread makes me very sad.\nI want to thank you, James especially and Roger, for your unbelievable work. Everyone who ever worked on podcasts or a forum knows how much work it is.\nAs a fan of both the podcast and the forum (and someone who for most of the time was just a quiet listener and reader) I deeply admire the 10 years of work you put into giving other people an insight into your wonderful work and into education. For me, you both (!) are a huge inspiration and a big reason I am now on the best way to start a career in cinematography. As I can only speak for myself, but you both not only helped me on understanding the art but on how to find a voice and how to work in a team. That someone can do great artistic work AND be a descent and wonderful human being.\nI hope that some of those comments do not keep you from this forum or from making your podcast. I am sure there is a great amount of people who silent readers and listeners like me who deeply appreciate your work.\nAnd I just wish you that you will find a way to recover the old forums so that 10 years of your work aren’t gone. Maybe people who offered their help can do sth for you? As for the others, the old forum was a great source of knowledge who I came often to to learn.\nBut I will also not stop to ask questions, some of which pbb already have been in the old forum. 😉 Like this maybe we can build a new knowledge base together.\nHope you are doing well, wish you all the best!\nSimon",
+  "content_html": "<p>Reading this thread makes me very sad.</p>\n<p>I want to thank you, James especially and Roger, for your unbelievable work. Everyone who ever worked on podcasts or a forum knows how much work it is.<br/>\nAs a fan of both the podcast and the forum (and someone who for most of the time was just a quiet listener and reader) I deeply admire the 10 years of work you put into giving other people an insight into your wonderful work and into education. For me, you both (!) are a huge inspiration and a big reason I am now on the best way to start a career in cinematography. As I can only speak for myself, but you both not only helped me on understanding the art but on how to find a voice and how to work in a team. That someone can do great artistic work AND be a descent and wonderful human being.</p>\n<p>I hope that some of those comments do not keep you from this forum or from making your podcast. I am sure there is a great amount of people who silent readers and listeners like me who deeply appreciate your work.</p>\n<p>And I just wish you that you will find a way to recover the old forums so that 10 years of your work aren’t gone. Maybe people who offered their help can do sth for you? As for the others, the old forum was a great source of knowledge who I came often to to learn.<br/>\nBut I will also not stop to ask questions, some of which pbb already have been in the old forum. 😉 Like this maybe we can build a new knowledge base together.</p>\n<p>Hope you are doing well, wish you all the best!<br/>\nSimon</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Reading this thread makes me very sad."
+    },
+    {
+      "type": "paragraph",
+      "text": "I want to thank you, James especially and Roger, for your unbelievable work. Everyone who ever worked on podcasts or a forum knows how much work it is.\nAs a fan of both the podcast and the forum (and someone who for most of the time was just a quiet listener and reader) I deeply admire the 10 years of work you put into giving other people an insight into your wonderful work and into education. For me, you both (!) are a huge inspiration and a big reason I am now on the best way to start a career in cinematography. As I can only speak for myself, but you both not only helped me on understanding the art but on how to find a voice and how to work in a team. That someone can do great artistic work AND be a descent and wonderful human being."
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope that some of those comments do not keep you from this forum or from making your podcast. I am sure there is a great amount of people who silent readers and listeners like me who deeply appreciate your work."
+    },
+    {
+      "type": "paragraph",
+      "text": "And I just wish you that you will find a way to recover the old forums so that 10 years of your work aren’t gone. Maybe people who offered their help can do sth for you? As for the others, the old forum was a great source of knowledge who I came often to to learn.\nBut I will also not stop to ask questions, some of which pbb already have been in the old forum. 😉 Like this maybe we can build a new knowledge base together."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope you are doing well, wish you all the best!\nSimon"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/",
+    "scraped_at": "2026-01-15T12:42:24.679687+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "16fc9da83680942fb690b21943d16c7b688a95e6c6e5c946994354d4bd7f2fb6",
+    "parser_version": "bbpress-v2"
+  }
+}

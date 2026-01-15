@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "215697",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-notes"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "AkshayYd",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Greetings,\nI’m a fellow student of cinema and great a admirer of Sir Roger Deakins. This community has given me great significant insights as to how things can work and it opened my perspective on Lighting. I have been making notes from here since 2020 and now when the old forum data is lost, I think this might help a few. Please keep that in mind that these notes were made just for myself so I never put much detailing and context. These notes are amalgamation of Roger’s answers. Again, thank you so much Sir Roger and James for sharing your knowledge with the world.\nhttps://drive.google.com/file/d/1HIn9g_KMuQNwz2vW2abMwTeqSTMbPPED/view?usp=sharing",
+  "content_html": "<p>Greetings,</p>\n<p>I’m a fellow student of cinema and great a admirer of Sir Roger Deakins. This community has given me great significant insights as to how things can work and it opened my perspective on Lighting. I have been making notes from here since 2020 and now when the old forum data is lost, I think this might help a few. Please keep that in mind that these notes were made just for myself so I never put much detailing and context. These notes are amalgamation of Roger’s answers. Again, thank you so much Sir Roger and James for sharing your knowledge with the world.<a href=\"https://drive.google.com/file/d/1HIn9g_KMuQNwz2vW2abMwTeqSTMbPPED/view?usp=sharing\" rel=\"nofollow\"></a></p>\n<p><a href=\"https://drive.google.com/file/d/1HIn9g_KMuQNwz2vW2abMwTeqSTMbPPED/view?usp=sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1HIn9g_KMuQNwz2vW2abMwTeqSTMbPPED/view?usp=sharing</a></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Greetings,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m a fellow student of cinema and great a admirer of Sir Roger Deakins. This community has given me great significant insights as to how things can work and it opened my perspective on Lighting. I have been making notes from here since 2020 and now when the old forum data is lost, I think this might help a few. Please keep that in mind that these notes were made just for myself so I never put much detailing and context. These notes are amalgamation of Roger’s answers. Again, thank you so much Sir Roger and James for sharing your knowledge with the world."
+    },
+    {
+      "type": "paragraph",
+      "text": "https://drive.google.com/file/d/1HIn9g_KMuQNwz2vW2abMwTeqSTMbPPED/view?usp=sharing"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://drive.google.com/file/d/1HIn9g_KMuQNwz2vW2abMwTeqSTMbPPED/view?usp=sharing",
+      "text": "",
+      "kind": "external"
+    },
+    {
+      "href": "https://drive.google.com/file/d/1HIn9g_KMuQNwz2vW2abMwTeqSTMbPPED/view?usp=sharing",
+      "text": "https://drive.google.com/file/d/1HIn9g_KMuQNwz2vW2abMwTeqSTMbPPED/view?usp=sharing",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-notes/#post-220270",
+    "scraped_at": "2026-01-15T13:56:35.789296+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-notes/#post-220270",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d244ad5c2007121b74d153d2ab0510d9baa0d10b0376db2605e365a36ff3b54f",
+    "parser_version": "bbpress-v2"
+  }
+}

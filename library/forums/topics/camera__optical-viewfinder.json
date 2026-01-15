@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/optical-viewfinder/#post-215178",
+  "forum_slug": "camera",
+  "topic_slug": "optical-viewfinder",
+  "title": "Optical viewfinder",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215171",
+    "215174",
+    "215176",
+    "215178"
+  ],
+  "reply_tree": {
+    "post_id": "215171",
+    "post_type": "topic",
+    "author": "gazoo_global",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215174",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215176",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215178",
+        "post_type": "reply",
+        "author": "gazoo_global",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/optical-viewfinder/#post-215178",
+    "scraped_at": "2026-01-15T15:23:07.034685+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/optical-viewfinder/#post-215178",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b0fc7aab0e740a77e62bcc9c488d1f627d2c84a1e028a9f69b3acd0ac4ca7faa",
+    "parser_version": "bbpress-v2"
+  }
+}

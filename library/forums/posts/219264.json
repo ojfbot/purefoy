@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "219264",
+    "forum_slug": "forum",
+    "topic_slug": "a-serious-man-larrys-office",
+    "parent_post_id": "219222",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Broad question. Given we were shooting on location – facing west and not on the ground floor – there were many issues with the changing daylight. I mainly controlled the light using reflectors outside the windows, to both bounce light off and to cut any direct sunlight. It also helped that the Coen brothers had storyboarded the scenes and I could judge, within reason, which angles to shoot at a particular time of day.",
+  "content_html": "<p>Broad question. Given we were shooting on location – facing west and not on the ground floor – there were many issues with the changing daylight. I mainly controlled the light using reflectors outside the windows, to both bounce light off and to cut any direct sunlight. It also helped that the Coen brothers had storyboarded the scenes and I could judge, within reason, which angles to shoot at a particular time of day.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Broad question. Given we were shooting on location – facing west and not on the ground floor – there were many issues with the changing daylight. I mainly controlled the light using reflectors outside the windows, to both bounce light off and to cut any direct sunlight. It also helped that the Coen brothers had storyboarded the scenes and I could judge, within reason, which angles to shoot at a particular time of day."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-serious-man-larrys-office/#post-219495",
+    "scraped_at": "2026-01-15T14:16:58.803816+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-serious-man-larrys-office/#post-219495",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b645b732e968db81455251b278bd7671924f057735dd05554d5abe233b14c5f4",
+    "parser_version": "bbpress-v2"
+  }
+}

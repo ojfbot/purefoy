@@ -1,0 +1,105 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215102",
+  "forum_slug": "camera",
+  "topic_slug": "on-cleaner-anamorphics",
+  "title": "On cleaner anamorphics",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215088",
+    "215092",
+    "215093",
+    "215094",
+    "215095",
+    "215096",
+    "215097",
+    "215098",
+    "215099",
+    "215102"
+  ],
+  "reply_tree": {
+    "post_id": "215088",
+    "post_type": "topic",
+    "author": "Davinki",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215092",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215093",
+        "post_type": "reply",
+        "author": "Frank",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215094",
+        "post_type": "reply",
+        "author": "Davinki",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215095",
+        "post_type": "reply",
+        "author": "Frank",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215096",
+        "post_type": "reply",
+        "author": "Davinki",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215097",
+        "post_type": "reply",
+        "author": "Davinki",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215098",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215099",
+        "post_type": "reply",
+        "author": "Frank",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215102",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 9,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215102",
+    "scraped_at": "2026-01-15T15:23:21.481324+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215102",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fc360ad4d8f9f3dd9860ff478b5e528d2a7db0de0d07bae547b4242a9b1d616f",
+    "parser_version": "bbpress-v2"
+  }
+}

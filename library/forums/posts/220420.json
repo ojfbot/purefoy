@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220420",
+    "forum_slug": "forum",
+    "topic_slug": "dark",
+    "parent_post_id": "220409",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Yakov10",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yes, I remember this movie well. I know what you mean. The complexity of my idea also lies in the fact that the darkness should turn into the hero of the film, which provokes and reveals different reactions of the main character, and with him the viewer. But, of course, we will test and try.",
+  "content_html": "<p>Yes, I remember this movie well. I know what you mean. The complexity of my idea also lies in the fact that the darkness should turn into the hero of the film, which provokes and reveals different reactions of the main character, and with him the viewer. But, of course, we will test and try.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yes, I remember this movie well. I know what you mean. The complexity of my idea also lies in the fact that the darkness should turn into the hero of the film, which provokes and reveals different reactions of the main character, and with him the viewer. But, of course, we will test and try."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dark/#post-220680",
+    "scraped_at": "2026-01-15T13:16:05.349003+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dark/#post-220680",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b5ab8b6a47e26cd934a6f1e1b6d22f54d82078cb68642c817eea70699bd36b9e",
+    "parser_version": "bbpress-v2"
+  }
+}

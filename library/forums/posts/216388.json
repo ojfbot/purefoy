@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "post_id": "216388",
+    "forum_slug": "camera",
+    "topic_slug": "on-set-monitor-callibration-vs-viewing-environment"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Thom Yorke",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger and fellow forum enthousiasts.\nI am interested in your insights on using a -callibrated- monitor on set, in the cases where you don’t have the comfort of having a blacked-out viewing environment, or DIT room, but have to rely on a monitor that is placed on the set itself.\nDoes everyone keep their monitor at 100 Nits, or is there a good way to adjust the display brightness to the viewing conditions? What are the cons and pro’s?\nOff course color perception is affected by the environment as well. Would there be a future for self adjusting systems like the ones found on iPads? Heaven or hell?\nI am certainly aware of the importance of callibration, but I have trouble trusting my eyes when looking at the same monitor in different conditions.\nLooking forward to hear different approaches,\nthank you very much,\nThom",
+  "content_html": "<p>Hi Roger and fellow forum enthousiasts.</p>\n<p>I am interested in your insights on using a -callibrated- monitor on set, in the cases where you don’t have the comfort of having a blacked-out viewing environment, or DIT room, but have to rely on a monitor that is placed on the set itself.</p>\n<p>Does everyone keep their monitor at 100 Nits, or is there a good way to adjust the display brightness to the viewing conditions? What are the cons and pro’s?</p>\n<p>Off course color perception is affected by the environment as well. Would there be a future for self adjusting systems like the ones found on iPads? Heaven or hell?</p>\n<p>I am certainly aware of the importance of callibration, but I have trouble trusting my eyes when looking at the same monitor in different conditions.</p>\n<p>Looking forward to hear different approaches,</p>\n<p>thank you very much,</p>\n<p> </p>\n<p>Thom</p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger and fellow forum enthousiasts."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am interested in your insights on using a -callibrated- monitor on set, in the cases where you don’t have the comfort of having a blacked-out viewing environment, or DIT room, but have to rely on a monitor that is placed on the set itself."
+    },
+    {
+      "type": "paragraph",
+      "text": "Does everyone keep their monitor at 100 Nits, or is there a good way to adjust the display brightness to the viewing conditions? What are the cons and pro’s?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Off course color perception is affected by the environment as well. Would there be a future for self adjusting systems like the ones found on iPads? Heaven or hell?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am certainly aware of the importance of callibration, but I have trouble trusting my eyes when looking at the same monitor in different conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Looking forward to hear different approaches,"
+    },
+    {
+      "type": "paragraph",
+      "text": "thank you very much,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thom"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/on-set-monitor-callibration-vs-viewing-environment/#post-216418",
+    "scraped_at": "2026-01-15T14:13:20.614899+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/on-set-monitor-callibration-vs-viewing-environment/#post-216418",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ab25105d208b259cf970321cb760c0b3a0280258c276c7cb4f2e10979198b490",
+    "parser_version": "bbpress-v2"
+  }
+}

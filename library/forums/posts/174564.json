@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "174564",
+    "forum_slug": "website-news",
+    "topic_slug": "recovering-the-old-forums-need-help",
+    "parent_post_id": "174482",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I agree, I just “offered” my cent some weeks ago with the internet archive link but recovering the forum would be fantastic.\nIt is a giant source of information and sharing.\nI really hope that there will be a solution maybe with the help of skilled people over this wonderful platform.\nHappy new year to all of you!\nMax.",
+  "content_html": "<p>I agree, I just “offered” my cent some weeks ago with the internet archive link but recovering the forum would be fantastic.<br/>\nIt is a giant source of information and sharing.<br/>\nI really hope that there will be a solution maybe with the help of skilled people over this wonderful platform.</p>\n<p>Happy new year to all of you!<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I agree, I just “offered” my cent some weeks ago with the internet archive link but recovering the forum would be fantastic.\nIt is a giant source of information and sharing.\nI really hope that there will be a solution maybe with the help of skilled people over this wonderful platform."
+    },
+    {
+      "type": "paragraph",
+      "text": "Happy new year to all of you!\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/",
+    "scraped_at": "2026-01-15T12:42:24.677086+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c5030190b9b63d2574a11d34c3074fc1bb09693f512ce2d99c3067348c7517b5",
+    "parser_version": "bbpress-v2"
+  }
+}

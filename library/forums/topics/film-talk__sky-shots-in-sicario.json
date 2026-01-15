@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/sky-shots-in-sicario/#post-178901",
+  "forum_slug": "film-talk",
+  "topic_slug": "sky-shots-in-sicario",
+  "title": "Sky Shots in Sicario",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "178126",
+    "178568",
+    "178642",
+    "178777",
+    "178811",
+    "178901"
+  ],
+  "reply_tree": {
+    "post_id": "178126",
+    "post_type": "topic",
+    "author": "GianniRanzuglia",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "178568",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "178642",
+        "post_type": "reply",
+        "author": "GianniRanzuglia",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "178777",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "178811",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "178901",
+        "post_type": "reply",
+        "author": "GianniRanzuglia",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sky-shots-in-sicario/#post-178901",
+    "scraped_at": "2026-01-15T14:33:18.895567+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sky-shots-in-sicario/#post-178901",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "46557fb8137d831ab529e83212fead962e8e37fbc48ca02228cbc73bfdb38524",
+    "parser_version": "bbpress-v2"
+  }
+}

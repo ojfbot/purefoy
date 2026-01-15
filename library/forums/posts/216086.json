@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "216086",
+    "forum_slug": "still-photography",
+    "topic_slug": "photography-optics"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Martyn T. Cain",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi,\nI don’t know if Roger will see this or if anyone will be able to answer my question. I’ve seen in interviews that Roger doesn’t like cinema lenses with vignettes or any built-in “character”, instead opting for a more sharp clinical output and if needing any effects dealing with that at the time like the Jesse James effect with the glass in front of the lens.\nMy question is, when it comes to stills photography, is this the same opinion? Or does Roger opt for lenses that have a bit more “Character” added to the image? ( like the infamous Fujifilm 35mm 1.4 lens). I’ve read that Roger uses a 35mm Lecia lens and camera but I’m curious if he looks for clinical photography lenses like the cinema lenses he often chooses. Any information would be great!\nKind regards,\nMartyn.",
+  "content_html": "<p>Hi,</p>\n<p>I don’t know if Roger will see this or if anyone will be able to answer my question. I’ve seen in interviews that Roger doesn’t like cinema lenses with vignettes or any built-in “character”, instead opting for a more sharp clinical output and if needing any effects dealing with that at the time like the Jesse James effect with the glass in front of the lens.</p>\n<p>My question is, when it comes to stills photography, is this the same opinion? Or does Roger opt for lenses that have a bit more “Character” added to the image? ( like the infamous Fujifilm 35mm 1.4 lens). I’ve read that Roger uses a 35mm Lecia lens and camera but I’m curious if he looks for clinical photography lenses like the cinema lenses he often chooses. Any information would be great!</p>\n<p> </p>\n<p>Kind regards,</p>\n<p>Martyn.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I don’t know if Roger will see this or if anyone will be able to answer my question. I’ve seen in interviews that Roger doesn’t like cinema lenses with vignettes or any built-in “character”, instead opting for a more sharp clinical output and if needing any effects dealing with that at the time like the Jesse James effect with the glass in front of the lens."
+    },
+    {
+      "type": "paragraph",
+      "text": "My question is, when it comes to stills photography, is this the same opinion? Or does Roger opt for lenses that have a bit more “Character” added to the image? ( like the infamous Fujifilm 35mm 1.4 lens). I’ve read that Roger uses a 35mm Lecia lens and camera but I’m curious if he looks for clinical photography lenses like the cinema lenses he often chooses. Any information would be great!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kind regards,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Martyn."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/photography-optics/#post-216126",
+    "scraped_at": "2026-01-15T12:08:06.467932+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/photography-optics/#post-216126",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "260e6a926633c4b80f0f7e6b5c1420656b6502e2b575fe5a32da1b7bc9411e36",
+    "parser_version": "bbpress-v2"
+  }
+}

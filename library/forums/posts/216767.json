@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216767",
+    "forum_slug": "forum",
+    "topic_slug": "the-marvelous-mrs-maisel-stage-lights",
+    "parent_post_id": "216760",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "caiyichenweg",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you very much for your sharing!!!",
+  "content_html": "<p>Thank you very much for your sharing!!!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you very much for your sharing!!!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-marvelous-mrs-maisel-stage-lights/#post-216767",
+    "scraped_at": "2026-01-15T15:22:58.011144+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-marvelous-mrs-maisel-stage-lights/#post-216767",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9d42a19cf17e9df40577502755827b05da4537f1a7381184b6e7c7d40ead9214",
+    "parser_version": "bbpress-v2"
+  }
+}

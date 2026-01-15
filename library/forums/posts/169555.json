@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "169555",
+    "forum_slug": "camera",
+    "topic_slug": "camera-starter-question",
+    "parent_post_id": "169402",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A C-LUT function (Cinematographer Lookup Table), where you can load your favorite DP and the camera automatically mimics their framing, lighting and camera movement.",
+  "content_html": "<p>A C-LUT function (Cinematographer Lookup Table), where you can load your favorite DP and the camera automatically mimics their framing, lighting and camera movement.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A C-LUT function (Cinematographer Lookup Table), where you can load your favorite DP and the camera automatically mimics their framing, lighting and camera movement."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/",
+    "scraped_at": "2026-01-15T13:56:42.504460+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "480eca09ecfe00cdbe88b99761e4cb82236d31d9c70dfbc9968ab19ff4a938a7",
+    "parser_version": "bbpress-v2"
+  }
+}

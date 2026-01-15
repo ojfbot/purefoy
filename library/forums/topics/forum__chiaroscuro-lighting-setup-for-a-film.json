@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/chiaroscuro-lighting-setup-for-a-film/#post-216876",
+  "forum_slug": "forum",
+  "topic_slug": "chiaroscuro-lighting-setup-for-a-film",
+  "title": "Chiaroscuro lighting setup for a film",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216874",
+    "216875",
+    "216876"
+  ],
+  "reply_tree": {
+    "post_id": "216874",
+    "post_type": "topic",
+    "author": "ThatGreasyFootball",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216875",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216876",
+        "post_type": "reply",
+        "author": "ThatGreasyFootball",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/chiaroscuro-lighting-setup-for-a-film/#post-216876",
+    "scraped_at": "2026-01-15T15:22:36.642420+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/chiaroscuro-lighting-setup-for-a-film/#post-216876",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "96c373733a2a34d6307c0b252f08311514efa4aba522525ad7a305c6a10c57ba",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "215695",
+    "forum_slug": "camera",
+    "topic_slug": "directing-effect-of-133-43-ratio",
+    "parent_post_id": "215637",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I took this vertical photo of mine and cropped it to a horizontal aspect ratio, so the widescreen version has the same horizontal space as the vertical photo. So in this case you can’t say that the widescreen frame has more space in it:",
+  "content_html": "<p>I took this vertical photo of mine and cropped it to a horizontal aspect ratio, so the widescreen version has the same horizontal space as the vertical photo. So in this case you can’t say that the widescreen frame has more space in it:<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215695/qvzb38vczixu71dug9twvlpcmy6atrfr.jpeg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I took this vertical photo of mine and cropped it to a horizontal aspect ratio, so the widescreen version has the same horizontal space as the vertical photo. So in this case you can’t say that the widescreen frame has more space in it:"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215695/qvzb38vczixu71dug9twvlpcmy6atrfr.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+    "scraped_at": "2026-01-15T13:56:37.696087+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b2708866b2b7313e52681f8947612bf7e310c794bc7fb25ad4913a8205d14c05",
+    "parser_version": "bbpress-v2"
+  }
+}

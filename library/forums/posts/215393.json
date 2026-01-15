@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "post_id": "215393",
+    "forum_slug": "still-photography",
+    "topic_slug": "derek-parfit"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Benjamin",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger, wondering if you have explored much of the philosopher, Derek Parfit’s photography, and if you might be an admirer of his work? He tended to travel to the same cities again and again, photographing the same buildings for years. Quite an investment of time for what was essentially a “hobby”.\nAlso, just curious if anyone happens to know what stills camera Parfit shot with (or have any other thoughts on his photography).\n(Here’s a link to some of his work:\nhttps://express.adobe.com/page/Tz8IkRg1fCA8Y/\n)",
+  "content_html": "<p>Roger, wondering if you have explored much of the philosopher, Derek Parfit’s photography, and if you might be an admirer of his work? He tended to travel to the same cities again and again, photographing the same buildings for years. Quite an investment of time for what was essentially a “hobby”.</p>\n<p>Also, just curious if anyone happens to know what stills camera Parfit shot with (or have any other thoughts on his photography).</p>\n<p>(Here’s a link to some of his work: <a href=\"https://express.adobe.com/page/Tz8IkRg1fCA8Y/\" rel=\"nofollow\">https://express.adobe.com/page/Tz8IkRg1fCA8Y/</a>)</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roger, wondering if you have explored much of the philosopher, Derek Parfit’s photography, and if you might be an admirer of his work? He tended to travel to the same cities again and again, photographing the same buildings for years. Quite an investment of time for what was essentially a “hobby”."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, just curious if anyone happens to know what stills camera Parfit shot with (or have any other thoughts on his photography)."
+    },
+    {
+      "type": "paragraph",
+      "text": "(Here’s a link to some of his work:\nhttps://express.adobe.com/page/Tz8IkRg1fCA8Y/\n)"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://express.adobe.com/page/Tz8IkRg1fCA8Y/",
+      "text": "https://express.adobe.com/page/Tz8IkRg1fCA8Y/",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/derek-parfit/#post-215398",
+    "scraped_at": "2026-01-15T12:26:33.360562+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/derek-parfit/#post-215398",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2cc649128be4ef1ba4ba7196017bc8edaff3ee95283a78db252451438e4ba63d",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217420",
+    "forum_slug": "forum",
+    "topic_slug": "revolutionary-road-window-shot",
+    "parent_post_id": "217375",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Ah! That’s a question. I never did use a cherrypicker to fake the sunlight on Rev Road so this must have been the real thing.",
+  "content_html": "<p>Ah! That’s a question. I never did use a cherrypicker to fake the sunlight on Rev Road so this must have been the real thing.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Ah! That’s a question. I never did use a cherrypicker to fake the sunlight on Rev Road so this must have been the real thing."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-window-shot/#post-217445",
+    "scraped_at": "2026-01-15T15:20:45.546159+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-window-shot/#post-217445",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b362ce000332829a1509e1f8f8804c0e23fc3d01bf77c7a2db734cc5b785ee28",
+    "parser_version": "bbpress-v2"
+  }
+}

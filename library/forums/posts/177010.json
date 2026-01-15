@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "177010",
+    "forum_slug": "set-talk",
+    "topic_slug": "working-process-with-sam-mendes"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "simoncarlkoeber",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger,\nI hope you and James are doing well. I have a question in my mind for some time now concerning your approach to framing shots and shotlisting in your work with Sam Mendes. I know that with Denis and the Coen brothers, you do a lot of storyboarding and planning in advance. I remember that in your podcast you said that your approach with Sam Mendes is different from those, more spontaneous, and that you like both approaches a lot.\nAnd I was wondering: How exactly does your working process with Sam look like? How much of your shots do you plan in advance? Do you do shotlisting or storyboarding with him? Or is it more like he is working and blocking with the actors on the day and then you come in and that is the first time you decide how to frame a shot? So a more “documentary” like approach? Ofc I am more talking about a “classical” approach here, I know that your approach on 1917 was way different and just needed a lot of planning.\nThe reason I am asking this is that I am trying to “prepare” for different working approaches with directors and especially the more spontaneous type of director. Because usually, I am a big prep person. So I am trying to figure out how a working process with a director like this could look like.",
+  "content_html": "<p>Dear Roger,</p>\n<p>I hope you and James are doing well. I have a question in my mind for some time now concerning your approach to framing shots and shotlisting in your work with Sam Mendes. I know that with Denis and the Coen brothers, you do a lot of storyboarding and planning in advance. I remember that in your podcast you said that your approach with Sam Mendes is different from those, more spontaneous, and that you like both approaches a lot.<br/>\nAnd I was wondering: How exactly does your working process with Sam look like? How much of your shots do you plan in advance? Do you do shotlisting or storyboarding with him? Or is it more like he is working and blocking with the actors on the day and then you come in and that is the first time you decide how to frame a shot? So a more “documentary” like approach? Ofc I am more talking about a “classical” approach here, I know that your approach on 1917 was way different and just needed a lot of planning.</p>\n<p>The reason I am asking this is that I am trying to “prepare” for different working approaches with directors and especially the more spontaneous type of director. Because usually, I am a big prep person. So I am trying to figure out how a working process with a director like this could look like.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope you and James are doing well. I have a question in my mind for some time now concerning your approach to framing shots and shotlisting in your work with Sam Mendes. I know that with Denis and the Coen brothers, you do a lot of storyboarding and planning in advance. I remember that in your podcast you said that your approach with Sam Mendes is different from those, more spontaneous, and that you like both approaches a lot.\nAnd I was wondering: How exactly does your working process with Sam look like? How much of your shots do you plan in advance? Do you do shotlisting or storyboarding with him? Or is it more like he is working and blocking with the actors on the day and then you come in and that is the first time you decide how to frame a shot? So a more “documentary” like approach? Ofc I am more talking about a “classical” approach here, I know that your approach on 1917 was way different and just needed a lot of planning."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reason I am asking this is that I am trying to “prepare” for different working approaches with directors and especially the more spontaneous type of director. Because usually, I am a big prep person. So I am trying to figure out how a working process with a director like this could look like."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/working-process-with-sam-mendes/",
+    "scraped_at": "2026-01-15T13:40:00.475166+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/working-process-with-sam-mendes/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cde940dbb5840dab1ef559980d6cb0e2c8f0ef727db289ca1b3a2b7991add45f",
+    "parser_version": "bbpress-v2"
+  }
+}

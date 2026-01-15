@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "214817",
+    "forum_slug": "set-talk",
+    "topic_slug": "advice-on-film-set-etiquette"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Shea",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello,\nI hope you are all doing well! In two days I will be interning on a film set for the first time ever and was wondering if there are pieces of advice any of you wish you knew on your first day.\nThank you!\nShea",
+  "content_html": "<p>Hello,</p>\n<p>I hope you are all doing well! In two days I will be interning on a film set for the first time ever and was wondering if there are pieces of advice any of you wish you knew on your first day.</p>\n<p>Thank you!</p>\n<p>Shea</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope you are all doing well! In two days I will be interning on a film set for the first time ever and was wondering if there are pieces of advice any of you wish you knew on your first day."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shea"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/advice-on-film-set-etiquette/#post-214839",
+    "scraped_at": "2026-01-15T13:23:37.490183+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/advice-on-film-set-etiquette/#post-214839",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "10c641449ab5f5672ed99b837b9553df8f96fb37e63c8ed65488525137eee381",
+    "parser_version": "bbpress-v2"
+  }
+}

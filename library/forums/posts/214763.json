@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "214763",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Laurent",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Interesting! Thank you!\nI think besides bouncing, the large tungsten ring light is also a really nice light source. It also works really fine as a direct light source (dimmed), as the guys show in the video. I copied it and it makes a nice soft atmosphere 😉\nThe 2nd image also shows how daylight and tungsten lighting can complement each other.",
+  "content_html": "<p>Interesting! Thank you!<br/>\nI think besides bouncing, the large tungsten ring light is also a really nice light source. It also works really fine as a direct light source (dimmed), as the guys show in the video. I copied it and it makes a nice soft atmosphere 😉<br/>\nThe 2nd image also shows how daylight and tungsten lighting can complement each other.</p>\n<p><img alt=\"ring light\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214763/vs52j5iefxqpdppw1qdzz2k6g7nbuz4g.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Interesting! Thank you!\nI think besides bouncing, the large tungsten ring light is also a really nice light source. It also works really fine as a direct light source (dimmed), as the guys show in the video. I copied it and it makes a nice soft atmosphere 😉\nThe 2nd image also shows how daylight and tungsten lighting can complement each other."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214763/vs52j5iefxqpdppw1qdzz2k6g7nbuz4g.jpg",
+      "alt": "ring light",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+    "scraped_at": "2026-01-15T15:51:24.796384+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a3f786202e7e3acdff1466c20189744b54e4269d89c50b85109f4a0305d74af6",
+    "parser_version": "bbpress-v2"
+  }
+}

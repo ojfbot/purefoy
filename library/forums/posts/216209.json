@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216209",
+    "forum_slug": "camera",
+    "topic_slug": "look-of-film-in-2024",
+    "parent_post_id": "216197",
+    "parent_type": "topic",
+    "position": 11
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I thought “The Holdovers” looked great and was appropriate for the story.",
+  "content_html": "<p>I thought “The Holdovers” looked great and was appropriate for the story.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I thought “The Holdovers” looked great and was appropriate for the story."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+    "scraped_at": "2026-01-15T14:33:45.474468+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c86d297f0541a7a13a029a490fd4483c2077380db1f6eb33627a28f0dd6b9842",
+    "parser_version": "bbpress-v2"
+  }
+}

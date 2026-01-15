@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "216420",
+    "forum_slug": "forum",
+    "topic_slug": "in-which-situation-to-use-brush-silk-gel"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Valou",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger, hi everyone!\nFirst of all, thanks to team Deakins for creating this amazing forum!\nI’m trying to better understand the potential of the brushed silk gel that Roger sometimes uses.\nHe used a brushed silk on the HMI that lights the landscape in the ‘basin at night’ sequence in\nNo Country For Old Men\n. Was it to focus the horizontal rays to cover a larger area of the landscape while also diffusing the light?\nI also noticed Roger used it in the ‘kitchen’ scene in\nSicario\n, on the existing ceiling fixture to light Kate. Why did he choose a brushed silk gel rather than a white diffusion, for example?\nIf anyone can help me with this, or if Roger could share his insights, I’d be really grateful !\nValentin.",
+  "content_html": "<p>Hi Roger, hi everyone!</p>\n<p>First of all, thanks to team Deakins for creating this amazing forum!</p>\n<p>I’m trying to better understand the potential of the brushed silk gel that Roger sometimes uses.</p>\n<p>He used a brushed silk on the HMI that lights the landscape in the ‘basin at night’ sequence in <em>No Country For Old Men</em>. Was it to focus the horizontal rays to cover a larger area of the landscape while also diffusing the light?</p>\n<p>I also noticed Roger used it in the ‘kitchen’ scene in<em> Sicario</em>, on the existing ceiling fixture to light Kate. Why did he choose a brushed silk gel rather than a white diffusion, for example?</p>\n<p>If anyone can help me with this, or if Roger could share his insights, I’d be really grateful !</p>\n<p>Valentin.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger, hi everyone!"
+    },
+    {
+      "type": "paragraph",
+      "text": "First of all, thanks to team Deakins for creating this amazing forum!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m trying to better understand the potential of the brushed silk gel that Roger sometimes uses."
+    },
+    {
+      "type": "paragraph",
+      "text": "He used a brushed silk on the HMI that lights the landscape in the ‘basin at night’ sequence in\nNo Country For Old Men\n. Was it to focus the horizontal rays to cover a larger area of the landscape while also diffusing the light?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I also noticed Roger used it in the ‘kitchen’ scene in\nSicario\n, on the existing ceiling fixture to light Kate. Why did he choose a brushed silk gel rather than a white diffusion, for example?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If anyone can help me with this, or if Roger could share his insights, I’d be really grateful !"
+    },
+    {
+      "type": "paragraph",
+      "text": "Valentin."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/in-which-situation-to-use-brush-silk-gel/#post-216439",
+    "scraped_at": "2026-01-15T15:24:55.668076+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/in-which-situation-to-use-brush-silk-gel/#post-216439",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6d7ac9ba85371aef29059d0f5dbd48ea867f31b587637057902ccf60ebb15819",
+    "parser_version": "bbpress-v2"
+  }
+}

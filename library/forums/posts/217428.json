@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "217428",
+    "forum_slug": "camera",
+    "topic_slug": "360-degree-swing-body-cam-rig"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger have you ever crossed 360 degree swing body cam. Here by I have attached small video links. It was shot on custom made rig. How to achieve this kind of moving shots with body cam.",
+  "content_html": "<p>Dear master Roger have you ever crossed 360 degree swing body cam. Here by I have attached small video links. It was shot on custom made rig. How to achieve this kind of moving shots with body cam.</p>\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"381\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/Pa9jf3mKmoA?feature=oembed\" title=\"Rotating body cam 360\" width=\"678\"></iframe></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger have you ever crossed 360 degree swing body cam. Here by I have attached small video links. It was shot on custom made rig. How to achieve this kind of moving shots with body cam."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/360-degree-swing-body-cam-rig/#post-220644",
+    "scraped_at": "2026-01-15T12:09:03.992306+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/360-degree-swing-body-cam-rig/#post-220644",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6c66b7e449c58081f0794655988023779d31d66751f60de67007f799fce8f1a4",
+    "parser_version": "bbpress-v2"
+  }
+}

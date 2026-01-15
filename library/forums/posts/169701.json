@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "169701",
+    "forum_slug": "camera",
+    "topic_slug": "master-anamorphics",
+    "parent_post_id": "169631",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Kemalettin",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Also, i wanna add this question i just didn’t want to open a new thread.\nHave you ever used Panavision glass spherical or anamorphic?",
+  "content_html": "<p>Also, i wanna add this question i just didn’t want to open a new thread.<br/>\nHave you ever used Panavision glass spherical or anamorphic?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Also, i wanna add this question i just didn’t want to open a new thread.\nHave you ever used Panavision glass spherical or anamorphic?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-178888",
+    "scraped_at": "2026-01-15T15:44:20.043992+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-178888",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d6865477e584e10457bd81bd027c0cdc1ee229a1eb1578a94118e27c2393cd07",
+    "parser_version": "bbpress-v2"
+  }
+}

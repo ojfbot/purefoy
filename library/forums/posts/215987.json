@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "215987",
+    "forum_slug": "team-deakins",
+    "topic_slug": "are-there-any-more-east-coast-usa-book-signing-events-planned-before-2024-ends"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Daniel",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If not then what about the rest of the USA?\nThank you.",
+  "content_html": "<p>If not then what about the rest of the USA?</p>\n<p>Thank you.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If not then what about the rest of the USA?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/are-there-any-more-east-coast-usa-book-signing-events-planned-before-2024-ends/#post-216020",
+    "scraped_at": "2026-01-15T13:39:52.466980+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/are-there-any-more-east-coast-usa-book-signing-events-planned-before-2024-ends/#post-216020",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c0c5668f29a75253e80327c3bcc470f66762502b9cd680d66af0d396e33bbb19",
+    "parser_version": "bbpress-v2"
+  }
+}

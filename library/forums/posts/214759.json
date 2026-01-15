@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "214759",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Laurent",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you so much for your detailed and helpful replies!\nYou write:\nI always control color temperature on set and definitely NOT in post processing. How do you deal with color temperature? Maybe it’s a matter of observing how the color of natural lighting changes throughout the day, or how it varies from one artificial lighting source to another.\nBut how do you deal with it when the daylight comes from outside and you use table lamps with tungsten lighting inside? Do you work with color gel filters, etc.? Or what do you recommend to prevent an unbeautiful color cast from coming?\n(The topic of mixed lighting fills entire tutorials. But there are 1000’s of opinions about it, so I’d really be interested in your expertise).\nThank you so much!",
+  "content_html": "<p>Thank you so much for your detailed and helpful replies!</p>\n<p>You write:<br/>\n<em>I always control color temperature on set and definitely NOT in post processing. How do you deal with color temperature? Maybe it’s a matter of observing how the color of natural lighting changes throughout the day, or how it varies from one artificial lighting source to another.</em></p>\n<p>But how do you deal with it when the daylight comes from outside and you use table lamps with tungsten lighting inside? Do you work with color gel filters, etc.? Or what do you recommend to prevent an unbeautiful color cast from coming?</p>\n<p>(The topic of mixed lighting fills entire tutorials. But there are 1000’s of opinions about it, so I’d really be interested in your expertise).</p>\n<p>Thank you so much!</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you so much for your detailed and helpful replies!"
+    },
+    {
+      "type": "paragraph",
+      "text": "You write:\nI always control color temperature on set and definitely NOT in post processing. How do you deal with color temperature? Maybe it’s a matter of observing how the color of natural lighting changes throughout the day, or how it varies from one artificial lighting source to another."
+    },
+    {
+      "type": "paragraph",
+      "text": "But how do you deal with it when the daylight comes from outside and you use table lamps with tungsten lighting inside? Do you work with color gel filters, etc.? Or what do you recommend to prevent an unbeautiful color cast from coming?"
+    },
+    {
+      "type": "paragraph",
+      "text": "(The topic of mixed lighting fills entire tutorials. But there are 1000’s of opinions about it, so I’d really be interested in your expertise)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you so much!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+    "scraped_at": "2026-01-15T15:51:24.795614+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "baa9df9b2e78d444b2ae0bb2b98cdf2d3f60424d4a8424d09c1ca1cbc08f1773",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "174920",
+    "forum_slug": "film-talk",
+    "topic_slug": "all-quiet-on-the-western-front"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "sanghamithran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi master Roger ,\nhope you are doing good,\nHave you seen all quiet on the western front (2022),if so can you share your take on the film,\nthanks.",
+  "content_html": "<p>Hi master Roger ,</p>\n<p>hope you are doing good,</p>\n<p>Have you seen all quiet on the western front (2022),if so can you share your take on the film,</p>\n<p>thanks.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi master Roger ,"
+    },
+    {
+      "type": "paragraph",
+      "text": "hope you are doing good,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Have you seen all quiet on the western front (2022),if so can you share your take on the film,"
+    },
+    {
+      "type": "paragraph",
+      "text": "thanks."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/all-quiet-on-the-western-front/#post-178896",
+    "scraped_at": "2026-01-15T14:33:25.365138+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/all-quiet-on-the-western-front/#post-178896",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c4113d953aee1259fd001bfa3f04d997756e694edbb4997f534083fdf3e8474e",
+    "parser_version": "bbpress-v2"
+  }
+}

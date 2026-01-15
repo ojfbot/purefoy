@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214652",
+    "forum_slug": "website-news",
+    "topic_slug": "how-to-make-a-small-and-confined-space-appear-more-spacious",
+    "parent_post_id": "214627",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Sol",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you sir! That’s helpful and open my mind, you must be experienced.\nI did considered some longer focal lengths to create the depth of frame, but not as considered as you are.And the idea “suggest a larger space” have inspire me a lot.\nAnyways, really appreciate for your suggestions！",
+  "content_html": "<p>Thank you sir! That’s helpful and open my mind, you must be experienced.</p>\n<p>I did considered some longer focal lengths to create the depth of frame, but not as considered as you are.And the idea “suggest a larger space” have inspire me a lot.</p>\n<p>Anyways, really appreciate for your suggestions！</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you sir! That’s helpful and open my mind, you must be experienced."
+    },
+    {
+      "type": "paragraph",
+      "text": "I did considered some longer focal lengths to create the depth of frame, but not as considered as you are.And the idea “suggest a larger space” have inspire me a lot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Anyways, really appreciate for your suggestions！"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-make-a-small-and-confined-space-appear-more-spacious/#post-214652",
+    "scraped_at": "2026-01-15T12:48:20.205948+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-make-a-small-and-confined-space-appear-more-spacious/#post-214652",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "48e999a3355f27a9388c59d006e191caea51406aa3250066a26d158c2f6a7b40",
+    "parser_version": "bbpress-v2"
+  }
+}

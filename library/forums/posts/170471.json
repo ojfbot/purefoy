@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "170471",
+    "forum_slug": "set-talk",
+    "topic_slug": "the-bare-minimum-for-making-a-whorthwhile-film",
+    "parent_post_id": "170298",
+    "parent_type": "topic",
+    "position": 14
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "bscofano88",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey Mike,\nThanks for taking the time to watch the film and also for writing such a candid feedback.\nI read the forum almost daily and the community has taught me a lot, even if you guys are not aware of it. 🙂\nLooking forward to sharing more films in the future here and to seeing films from other fellow members too.",
+  "content_html": "<p>Hey Mike,</p>\n<p>Thanks for taking the time to watch the film and also for writing such a candid feedback.</p>\n<p>I read the forum almost daily and the community has taught me a lot, even if you guys are not aware of it. 🙂</p>\n<p>Looking forward to sharing more films in the future here and to seeing films from other fellow members too.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey Mike,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks for taking the time to watch the film and also for writing such a candid feedback."
+    },
+    {
+      "type": "paragraph",
+      "text": "I read the forum almost daily and the community has taught me a lot, even if you guys are not aware of it. 🙂"
+    },
+    {
+      "type": "paragraph",
+      "text": "Looking forward to sharing more films in the future here and to seeing films from other fellow members too."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-bare-minimum-for-making-a-whorthwhile-film/#post-170471",
+    "scraped_at": "2026-01-15T13:56:40.723317+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-bare-minimum-for-making-a-whorthwhile-film/#post-170471",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fad7eb5052db19180f168f51bcdb044a153b425847e0fcfbee3695a109692d18",
+    "parser_version": "bbpress-v2"
+  }
+}

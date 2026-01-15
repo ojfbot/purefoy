@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214778",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 18
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Laurent",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That sounds logical, of course, sorry!\nBut you write in an earlier post that you tolerate color differences in the image, like Roger.\nBut how do you deal with color casts (skin tone bluish, orange, etc.)?\nSurely you will be trying to prevent that in some way…\nSimply by using a white balance?\nOr is it more consistent (window example) to work with ½ CTO right away?\nThank you!",
+  "content_html": "<p>That sounds logical, of course, sorry!<br/>\nBut you write in an earlier post that you tolerate color differences in the image, like Roger.<br/>\nBut how do you deal with color casts (skin tone bluish, orange, etc.)?<br/>\nSurely you will be trying to prevent that in some way…<br/>\nSimply by using a white balance?<br/>\nOr is it more consistent (window example) to work with ½ CTO right away?<br/>\nThank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That sounds logical, of course, sorry!\nBut you write in an earlier post that you tolerate color differences in the image, like Roger.\nBut how do you deal with color casts (skin tone bluish, orange, etc.)?\nSurely you will be trying to prevent that in some way…\nSimply by using a white balance?\nOr is it more consistent (window example) to work with ½ CTO right away?\nThank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+    "scraped_at": "2026-01-15T15:51:27.814160+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cf422146096e6834b4c315c1e46b2d27638214b23c6be146f81c429150443887",
+    "parser_version": "bbpress-v2"
+  }
+}

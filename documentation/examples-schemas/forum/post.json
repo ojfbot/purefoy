@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "post_id": "175763",
+    "forum_slug": "team-deakins",
+    "topic_slug": "lighting-natural-light-discussion",
+    "reply_permalink": "https://rogerdeakins.com/forums/topic/lighting-natural-light-discussion/#post-175763"
+  },
+  "author": {
+    "display_name": "Roger A. Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "raw": "January 18, 2023 at 3:32 pm #175763",
+    "parsed_iso": "2023-01-18T15:32:00",
+    "parse_confidence": "medium"
+  },
+  "content_text": "Plain text content of the post extracted from HTML...",
+  "content_html": "<p>Original HTML content if available...</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "First paragraph of content..."
+    },
+    {
+      "type": "quote",
+      "text": "A quoted section from another post..."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Quoted text from another user...",
+      "attributed_to": "John Doe"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://example.com/article",
+      "text": "Link text",
+      "kind": "external"
+    },
+    {
+      "href": "/forums/topic/another-topic",
+      "text": "Related discussion",
+      "kind": "internal"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://example.com/image.jpg",
+      "alt": "Description of image",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://rogerdeakins.com/forums/topic/lighting-natural-light-discussion/",
+    "scraped_at": "2026-01-15T03:45:00.123456+00:00",
+    "http": {
+      "url": "https://rogerdeakins.com/forums/topic/lighting-natural-light-discussion/",
+      "status": 200,
+      "etag": "\"abc123def456\"",
+      "last_modified": "Tue, 14 Jan 2025 12:00:00 GMT"
+    }
+  },
+  "integrity": {
+    "content_hash": "sha256:abc123...",
+    "parser_version": "bbpress-v1"
+  }
+}

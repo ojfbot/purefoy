@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215536",
+    "forum_slug": "forum",
+    "topic_slug": "faking-a-dusk-look-during-daytime",
+    "parent_post_id": "215522",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Rob-Webster",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A good place to start would be to go to the location at Dusk and shoot a few reference stills.\nFigure out if you need to shoot towards the horizon where the sun is setting and how you can design the blocking to work in your favour.\nStart by avoiding the things that are impossible to recreate",
+  "content_html": "<p>A good place to start would be to go to the location at Dusk and shoot a few reference stills.</p>\n<p> </p>\n<p>Figure out if you need to shoot towards the horizon where the sun is setting and how you can design the blocking to work in your favour.</p>\n<p> </p>\n<p>Start by avoiding the things that are impossible to recreate</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A good place to start would be to go to the location at Dusk and shoot a few reference stills."
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure out if you need to shoot towards the horizon where the sun is setting and how you can design the blocking to work in your favour."
+    },
+    {
+      "type": "paragraph",
+      "text": "Start by avoiding the things that are impossible to recreate"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/faking-a-dusk-look-during-daytime/#post-215536",
+    "scraped_at": "2026-01-15T15:46:35.580057+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/faking-a-dusk-look-during-daytime/#post-215536",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e9965f1745f242d2a5a4f7547b8c360c75e2097863955ec12f86ac5043183e0a",
+    "parser_version": "bbpress-v2"
+  }
+}

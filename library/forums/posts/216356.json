@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216356",
+    "forum_slug": "camera",
+    "topic_slug": "geared-head-vs-fluid-head",
+    "parent_post_id": "216341",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I find the gear head is a great tool when working on a set with very specific camera moves. I prefer a fluid head when I am shooting on an exterior location and, specifically, on longer lenses.",
+  "content_html": "<p>I find the gear head is a great tool when working on a set with very specific camera moves. I prefer a fluid head when I am shooting on an exterior location and, specifically, on longer lenses.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I find the gear head is a great tool when working on a set with very specific camera moves. I prefer a fluid head when I am shooting on an exterior location and, specifically, on longer lenses."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/geared-head-vs-fluid-head/#post-216617",
+    "scraped_at": "2026-01-15T13:40:00.513366+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/geared-head-vs-fluid-head/#post-216617",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6b167cdf3ce3a05534004dd4f2ada4729bcebb3f4c7abe9102693fe4e85f1f1d",
+    "parser_version": "bbpress-v2"
+  }
+}

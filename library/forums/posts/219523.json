@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "219523",
+    "forum_slug": "forum",
+    "topic_slug": "large-scale-sun-simulation-through-church-vitraux-feature-film-setup",
+    "parent_post_id": "218286",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "backrooms",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "hi",
+  "content_html": "<p>hi</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "hi"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/large-scale-sun-simulation-through-church-vitraux-feature-film-setup/#post-219523",
+    "scraped_at": "2026-01-15T14:16:52.724178+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/large-scale-sun-simulation-through-church-vitraux-feature-film-setup/#post-219523",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5924f53fa39c7070a95a5b0b6a6dd77be795bec63a81b41112ca6377f3ed2a82",
+    "parser_version": "bbpress-v2"
+  }
+}

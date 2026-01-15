@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "216542",
+    "forum_slug": "forum",
+    "topic_slug": "motivated-daylight-with-led-fixtures",
+    "parent_post_id": "216504",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "They may have been 2×1 Geminis. I know production would not sanction SkyPanels as they were too expensive. There would have been 8 lamps. Two horizontal rows of 4.\nThis reply was modified 1 year, 1 month ago by\nRoger Deakins\n.",
+  "content_html": "<p>They may have been 2×1 Geminis. I know production would not sanction SkyPanels as they were too expensive. There would have been 8 lamps. Two horizontal rows of 4.</p>\n<ul class=\"bbp-reply-revision-log\" id=\"bbp-reply-revision-log-216542\">\n<li class=\"bbp-reply-revision-log-item\" id=\"bbp-reply-revision-log-216542-item-216543\">\n\t\tThis reply was modified 1 year, 1 month ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/roger/\" title=\"View Roger Deakins's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png\" srcset=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-28x28.png 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">Roger Deakins</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "They may have been 2×1 Geminis. I know production would not sanction SkyPanels as they were too expensive. There would have been 8 lamps. Two horizontal rows of 4."
+    },
+    {
+      "type": "list",
+      "text": "This reply was modified 1 year, 1 month ago by\nRoger Deakins\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/roger/",
+      "text": "Roger Deakins",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/motivated-daylight-with-led-fixtures/#post-216542",
+    "scraped_at": "2026-01-15T15:24:16.160631+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/motivated-daylight-with-led-fixtures/#post-216542",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3945a578f7b02c1a552ef9b7515f304cd2029268a225766d3d6cef0e0b51ca66",
+    "parser_version": "bbpress-v2"
+  }
+}

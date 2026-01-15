@@ -1,0 +1,48 @@
+{
+  "ids": {
+    "post_id": "216969",
+    "forum_slug": "forum",
+    "topic_slug": "aerocrane-on-tracks-or"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "simon m",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Roger,\nRecently I watched a Q and A with Ethan Coen, and he was mentioning how in amazing it was to watch you operate the camera with your dolly grip Bruce. Do you still use the crane/dolly setup regularly, or do you find yourself using other devices to move the camera?\nI’d love to know if you were to film this scene from ‘True Grit’ today, what your preferred rig would be?\nThanks so much.",
+  "content_html": "<p>Hello Roger,</p>\n<p>Recently I watched a Q and A with Ethan Coen, and he was mentioning how in amazing it was to watch you operate the camera with your dolly grip Bruce. Do you still use the crane/dolly setup regularly, or do you find yourself using other devices to move the camera?<br/>\nI’d love to know if you were to film this scene from ‘True Grit’ today, what your preferred rig would be?<br/>\nThanks so much.<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216969/f4cgtbgettlj8r3mtiongy5e32k206am.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recently I watched a Q and A with Ethan Coen, and he was mentioning how in amazing it was to watch you operate the camera with your dolly grip Bruce. Do you still use the crane/dolly setup regularly, or do you find yourself using other devices to move the camera?\nI’d love to know if you were to film this scene from ‘True Grit’ today, what your preferred rig would be?\nThanks so much."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216969/f4cgtbgettlj8r3mtiongy5e32k206am.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/aerocrane-on-tracks-or/",
+    "scraped_at": "2026-01-15T15:22:18.745820+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/aerocrane-on-tracks-or/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4bf9ccba782095dc76186e2814e95db53425bba82f3cbeafd387b89064761a11",
+    "parser_version": "bbpress-v2"
+  }
+}

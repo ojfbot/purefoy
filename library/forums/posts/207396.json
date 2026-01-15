@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "207396",
+    "forum_slug": "camera",
+    "topic_slug": "artemis-software-use",
+    "parent_post_id": "207194",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I use it as a lens finder. The problem with normal lens finders is that you line up the shot and then hand it to the director or camera operator to see but you don’t know if they are really framing it the same way. We use the iPhone Artemis on scouts or in prep to figure out the lens choice but on the set we use the Artemis Pro which allows use to mount our actual lens onto an iPad. This way we can line up the shot with the director watching and record the blocking rehearsal. We can store video or still frames; if done earlier with stand-ins, these can be used for a storyboard.",
+  "content_html": "<p>I use it as a lens finder. The problem with normal lens finders is that you line up the shot and then hand it to the director or camera operator to see but you don’t know if they are really framing it the same way. We use the iPhone Artemis on scouts or in prep to figure out the lens choice but on the set we use the Artemis Pro which allows use to mount our actual lens onto an iPad. This way we can line up the shot with the director watching and record the blocking rehearsal. We can store video or still frames; if done earlier with stand-ins, these can be used for a storyboard.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I use it as a lens finder. The problem with normal lens finders is that you line up the shot and then hand it to the director or camera operator to see but you don’t know if they are really framing it the same way. We use the iPhone Artemis on scouts or in prep to figure out the lens choice but on the set we use the Artemis Pro which allows use to mount our actual lens onto an iPad. This way we can line up the shot with the director watching and record the blocking rehearsal. We can store video or still frames; if done earlier with stand-ins, these can be used for a storyboard."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/artemis-software-use/#post-215436",
+    "scraped_at": "2026-01-15T15:21:54.413704+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/artemis-software-use/#post-215436",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "be2e9fef2e84e9dea5dbfbb0009f7ba515c1c1da1d451a8b32acf69fcd8b7cca",
+    "parser_version": "bbpress-v2"
+  }
+}

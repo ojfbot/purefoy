@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215230",
+    "forum_slug": "camera",
+    "topic_slug": "tips-for-steady-handheld-shots",
+    "parent_post_id": "215217",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I will have to disagree a bit and say that today the least elaborate and yet best method for following actors outside of a steadicam is a gimbal. It yields great results especially when combined with post production image stabilization – shoot a little wider as intended as the post stabilizer will crop into the footage a few percentages. You will still have to “ninja walk”.",
+  "content_html": "<p>I will have to disagree a bit and say that today the least elaborate and yet best method for following actors outside of a steadicam is a gimbal. It yields great results especially when combined with post production image stabilization – shoot a little wider as intended as the post stabilizer will crop into the footage a few percentages. You will still have to “ninja walk”.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I will have to disagree a bit and say that today the least elaborate and yet best method for following actors outside of a steadicam is a gimbal. It yields great results especially when combined with post production image stabilization – shoot a little wider as intended as the post stabilizer will crop into the footage a few percentages. You will still have to “ninja walk”."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/tips-for-steady-handheld-shots/#post-215254",
+    "scraped_at": "2026-01-15T15:22:36.369981+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/tips-for-steady-handheld-shots/#post-215254",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4723c7d939f78869e594ec7a83ec52f8969c75b54eb4054ef9704943577ad25b",
+    "parser_version": "bbpress-v2"
+  }
+}

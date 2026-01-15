@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/questions-reg-true-grit-greaser-bobs-lighting-breakdown/#post-220566",
+  "forum_slug": "forum",
+  "topic_slug": "questions-reg-true-grit-greaser-bobs-lighting-breakdown",
+  "title": "Questions reg. True Grit/Greaser Bob’s lighting breakdown",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220562",
+    "220563",
+    "220564",
+    "220565",
+    "220566"
+  ],
+  "reply_tree": {
+    "post_id": "220562",
+    "post_type": "topic",
+    "author": "Wolfgang Illmayr",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "220563",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220564",
+        "post_type": "reply",
+        "author": "Wolfgang Illmayr",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220565",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220566",
+        "post_type": "reply",
+        "author": "Wolfgang Illmayr",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/questions-reg-true-grit-greaser-bobs-lighting-breakdown/#post-220566",
+    "scraped_at": "2026-01-15T13:23:29.865283+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/questions-reg-true-grit-greaser-bobs-lighting-breakdown/#post-220566",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1a53ea79a9bd9ec74a29d866726e7e5c347c398c1a3d69ae24fb1270f12a6889",
+    "parser_version": "bbpress-v2"
+  }
+}

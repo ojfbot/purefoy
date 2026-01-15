@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "post_id": "219689",
+    "forum_slug": "post",
+    "topic_slug": "29-31-29-printer-points-why-green-at-31"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "dharmawanwilly",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Sir Roger Deakins,\nIn a post regarding printer light as shown in picture, you mentioned that your regular timing light was approximately 29 – 31 – 29. Assuming the order is R – G – B, the green seems to be timed at a higher point.\nI suppose a higher green point means the resulting print would have more magenta, but why is that? Were there any greens in the negative stock you usually use (I guess would be 200T or 500T?) that needs to be “canceled” by introducing magenta? Or was it the print, or something else entirely?",
+  "content_html": "<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/219689/y6jugy1tffid4z83t4tlkwsk56r70eor.jpg\"/></p>\n<p> </p>\n<p>Dear Sir Roger Deakins,</p>\n<p> </p>\n<p>In a post regarding printer light as shown in picture, you mentioned that your regular timing light was approximately 29 – 31 – 29. Assuming the order is R – G – B, the green seems to be timed at a higher point.</p>\n<p> </p>\n<p>I suppose a higher green point means the resulting print would have more magenta, but why is that? Were there any greens in the negative stock you usually use (I guess would be 200T or 500T?) that needs to be “canceled” by introducing magenta? Or was it the print, or something else entirely?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Sir Roger Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "In a post regarding printer light as shown in picture, you mentioned that your regular timing light was approximately 29 – 31 – 29. Assuming the order is R – G – B, the green seems to be timed at a higher point."
+    },
+    {
+      "type": "paragraph",
+      "text": "I suppose a higher green point means the resulting print would have more magenta, but why is that? Were there any greens in the negative stock you usually use (I guess would be 200T or 500T?) that needs to be “canceled” by introducing magenta? Or was it the print, or something else entirely?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/219689/y6jugy1tffid4z83t4tlkwsk56r70eor.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/29-31-29-printer-points-why-green-at-31/#post-219729",
+    "scraped_at": "2026-01-15T11:50:48.504554+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/29-31-29-printer-points-why-green-at-31/#post-219729",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ef16108d362e7047af50f3e9417cd0e85ddd64e65e196d7e574e81b7c32e423a",
+    "parser_version": "bbpress-v2"
+  }
+}

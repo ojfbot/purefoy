@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "216525",
+    "forum_slug": "forum",
+    "topic_slug": "natural-lighting-continuity-when-a-subject-leave-the-main-light",
+    "parent_post_id": "216512",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "*, unfortunately, I can’t edit the post, I wanted to mean ‘sweat’ and not ‘swear’.\nThank you for your reply Mr. Mullen, it’s interesting this kind of tip. Of course, a big framing change can help to “cheat” the light. As I said, my “fear” is always to add something that “destroys” the original mood of the scene (as a light that can wash a wall that before was dimly lit), and of course often (this happened to me in my little experience) the “set” is more “impatient” when you are moving things inside a scene shot by shot. Is like the AD or Producer wants just to move the camera and “let’s start rolling”..\nIn my “vision” (if I can really talk about a vision, as I consider myself a Mr. nobody), I often search for “natural” effects in lighting (obviously the story is decisive in choosing the style of the image) so I try to think about “build” an atmosphere in which characters can stay and move, but often happen that when I move the camera the light is “off” so I have to adjust things, and doing it in the “natural” way that I was looking for often seems tricky to me.\nSorry for boring you with my long message 😅. I apologize for my bad English.\nI wish you a peaceful day,\nMax.",
+  "content_html": "<p>*, unfortunately, I can’t edit the post, I wanted to mean ‘sweat’ and not ‘swear’.</p>\n<p>Thank you for your reply Mr. Mullen, it’s interesting this kind of tip. Of course, a big framing change can help to “cheat” the light. As I said, my “fear” is always to add something that “destroys” the original mood of the scene (as a light that can wash a wall that before was dimly lit), and of course often (this happened to me in my little experience) the “set” is more “impatient” when you are moving things inside a scene shot by shot. Is like the AD or Producer wants just to move the camera and “let’s start rolling”..</p>\n<p>In my “vision” (if I can really talk about a vision, as I consider myself a Mr. nobody), I often search for “natural” effects in lighting (obviously the story is decisive in choosing the style of the image) so I try to think about “build” an atmosphere in which characters can stay and move, but often happen that when I move the camera the light is “off” so I have to adjust things, and doing it in the “natural” way that I was looking for often seems tricky to me.</p>\n<p>Sorry for boring you with my long message 😅. I apologize for my bad English.</p>\n<p>I wish you a peaceful day,<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "*, unfortunately, I can’t edit the post, I wanted to mean ‘sweat’ and not ‘swear’."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for your reply Mr. Mullen, it’s interesting this kind of tip. Of course, a big framing change can help to “cheat” the light. As I said, my “fear” is always to add something that “destroys” the original mood of the scene (as a light that can wash a wall that before was dimly lit), and of course often (this happened to me in my little experience) the “set” is more “impatient” when you are moving things inside a scene shot by shot. Is like the AD or Producer wants just to move the camera and “let’s start rolling”.."
+    },
+    {
+      "type": "paragraph",
+      "text": "In my “vision” (if I can really talk about a vision, as I consider myself a Mr. nobody), I often search for “natural” effects in lighting (obviously the story is decisive in choosing the style of the image) so I try to think about “build” an atmosphere in which characters can stay and move, but often happen that when I move the camera the light is “off” so I have to adjust things, and doing it in the “natural” way that I was looking for often seems tricky to me."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sorry for boring you with my long message 😅. I apologize for my bad English."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful day,\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/natural-lighting-continuity-when-a-subject-leave-the-main-light/#post-216525",
+    "scraped_at": "2026-01-15T15:24:28.439885+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/natural-lighting-continuity-when-a-subject-leave-the-main-light/#post-216525",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bf7764851f1c0641e2d1ea20071d9cb5501f3b1bfda52defad3248243f44a56e",
+    "parser_version": "bbpress-v2"
+  }
+}

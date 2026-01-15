@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "218056",
+    "forum_slug": "set-talk",
+    "topic_slug": "finding-work-in-cinematography",
+    "parent_post_id": "218047",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "David Kennedy North",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Morning Madhav,\nI am also going through a similar process now. Expanding your network is absolutely key, spend some time focusing mainly on that. Your craft is your artistic practice, so keep up a consistent routine with creation and adopt a lifestyle that at a moments notice, you are ready. Best things that I have started doing is attending some BSC events, screenings, talks and webinars. Aside from that getting some face to face time with people at either film festivals or expo’s will really help you out. You will meet crew and people there and conversations can start quite fluidly if you are following your curiosity rather than approaching it with an agenda in mind. Its a long game and nothing is instant. Hope that provides some insight.",
+  "content_html": "<p>Morning Madhav,</p>\n<p>I am also going through a similar process now. Expanding your network is absolutely key, spend some time focusing mainly on that. Your craft is your artistic practice, so keep up a consistent routine with creation and adopt a lifestyle that at a moments notice, you are ready. Best things that I have started doing is attending some BSC events, screenings, talks and webinars. Aside from that getting some face to face time with people at either film festivals or expo’s will really help you out. You will meet crew and people there and conversations can start quite fluidly if you are following your curiosity rather than approaching it with an agenda in mind. Its a long game and nothing is instant. Hope that provides some insight.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Morning Madhav,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am also going through a similar process now. Expanding your network is absolutely key, spend some time focusing mainly on that. Your craft is your artistic practice, so keep up a consistent routine with creation and adopt a lifestyle that at a moments notice, you are ready. Best things that I have started doing is attending some BSC events, screenings, talks and webinars. Aside from that getting some face to face time with people at either film festivals or expo’s will really help you out. You will meet crew and people there and conversations can start quite fluidly if you are following your curiosity rather than approaching it with an agenda in mind. Its a long game and nothing is instant. Hope that provides some insight."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/finding-work-in-cinematography/#post-218056",
+    "scraped_at": "2026-01-15T11:51:12.858006+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/finding-work-in-cinematography/#post-218056",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2c3582dae9f04884f3387228ecc70fd264a0c392b9ce4ea41c54fa6a6b9857e3",
+    "parser_version": "bbpress-v2"
+  }
+}

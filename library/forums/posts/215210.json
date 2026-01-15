@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215210",
+    "forum_slug": "forum",
+    "topic_slug": "poorman-process-for-night-bus-interior",
+    "parent_post_id": "215199",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If you really need interactive, rather than the interior lights of the bus, I would use LEDs and create some sort of chase.",
+  "content_html": "<p>If you really need interactive, rather than the interior lights of the bus, I would use LEDs and create some sort of chase.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you really need interactive, rather than the interior lights of the bus, I would use LEDs and create some sort of chase."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/poorman-process-for-night-bus-interior/#post-215215",
+    "scraped_at": "2026-01-15T15:48:12.695010+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/poorman-process-for-night-bus-interior/#post-215215",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "efedcd3945df7433c439b5be1fa3e5d6518eee080f208dddf1ead0de19bce48c",
+    "parser_version": "bbpress-v2"
+  }
+}

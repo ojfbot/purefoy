@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "214874",
+    "forum_slug": "camera",
+    "topic_slug": "purpose-of-film-copies-release"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "jeff791107",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear all the masters,\nSome movies are shot on film, then the film negatives are scanned for DI process. During screening, they are shown by digital projection and film print copies. I’ve personally seen both film print and digital screening of the movie [DUNKIRK]. The film print had fewer details in the shadow and some scenes (soldier falling into the sea) had color inconsistencies between consecutive shots. The version of the film print I saw was from the first show on the first day at Universal Studios in Los Angeles. Despite digital projection looking very good, many digitally remastered versions of old films have demonstrated better color depth than the original copies. So, what is the purpose of film copies releasing in theater?",
+  "content_html": "<p>Dear all the masters,</p>\n<p>Some movies are shot on film, then the film negatives are scanned for DI process. During screening, they are shown by digital projection and film print copies. I’ve personally seen both film print and digital screening of the movie [DUNKIRK]. The film print had fewer details in the shadow and some scenes (soldier falling into the sea) had color inconsistencies between consecutive shots. The version of the film print I saw was from the first show on the first day at Universal Studios in Los Angeles. Despite digital projection looking very good, many digitally remastered versions of old films have demonstrated better color depth than the original copies. So, what is the purpose of film copies releasing in theater?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear all the masters,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some movies are shot on film, then the film negatives are scanned for DI process. During screening, they are shown by digital projection and film print copies. I’ve personally seen both film print and digital screening of the movie [DUNKIRK]. The film print had fewer details in the shadow and some scenes (soldier falling into the sea) had color inconsistencies between consecutive shots. The version of the film print I saw was from the first show on the first day at Universal Studios in Los Angeles. Despite digital projection looking very good, many digitally remastered versions of old films have demonstrated better color depth than the original copies. So, what is the purpose of film copies releasing in theater?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/purpose-of-film-copies-release/#post-214938",
+    "scraped_at": "2026-01-15T15:24:28.027825+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/purpose-of-film-copies-release/#post-214938",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5f8db65d402b546b9813aa4b40a6511ec9a0de956d87894e18960ca2e501a387",
+    "parser_version": "bbpress-v2"
+  }
+}

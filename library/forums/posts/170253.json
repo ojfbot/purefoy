@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "170253",
+    "forum_slug": "post",
+    "topic_slug": "changing-the-cinematographers-exposure-values-in-post",
+    "parent_post_id": "170152",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "No, the colorist shouldn’t alter the color and exposure to neutral as a starting point, they should start with what the cinematographer created. If the scene had an 18% grey card in the shot under light that was intended to be of normal exposure and neutral color in the scene, sure… but that never happens!\nNow I’m talking about the coloring the final cut. Sure, a test with a grey card or scale in it where the cinematographer says “time to grey card or scale”, especially when the test is comparing multiple types of cameras, etc. then yes.\nIn the days of film, I’d shoot a grey card or scale at the head of a scene and tell the dailies colorist to time for the card so that they would know what the neutral starting point was to judge my footage — otherwise if my footage was deliberately orange or blue, etc. they might correct it back to neutral without any reference frame.  But generally that approach isn’t done with digital since we have some sort of LUT as a starting point for dailies and monitoring.",
+  "content_html": "<p>No, the colorist shouldn’t alter the color and exposure to neutral as a starting point, they should start with what the cinematographer created. If the scene had an 18% grey card in the shot under light that was intended to be of normal exposure and neutral color in the scene, sure… but that never happens!</p>\n<p>Now I’m talking about the coloring the final cut. Sure, a test with a grey card or scale in it where the cinematographer says “time to grey card or scale”, especially when the test is comparing multiple types of cameras, etc. then yes.</p>\n<p>In the days of film, I’d shoot a grey card or scale at the head of a scene and tell the dailies colorist to time for the card so that they would know what the neutral starting point was to judge my footage — otherwise if my footage was deliberately orange or blue, etc. they might correct it back to neutral without any reference frame.  But generally that approach isn’t done with digital since we have some sort of LUT as a starting point for dailies and monitoring.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "No, the colorist shouldn’t alter the color and exposure to neutral as a starting point, they should start with what the cinematographer created. If the scene had an 18% grey card in the shot under light that was intended to be of normal exposure and neutral color in the scene, sure… but that never happens!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now I’m talking about the coloring the final cut. Sure, a test with a grey card or scale in it where the cinematographer says “time to grey card or scale”, especially when the test is comparing multiple types of cameras, etc. then yes."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the days of film, I’d shoot a grey card or scale at the head of a scene and tell the dailies colorist to time for the card so that they would know what the neutral starting point was to judge my footage — otherwise if my footage was deliberately orange or blue, etc. they might correct it back to neutral without any reference frame.  But generally that approach isn’t done with digital since we have some sort of LUT as a starting point for dailies and monitoring."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/changing-the-cinematographers-exposure-values-in-post/#post-214706",
+    "scraped_at": "2026-01-15T13:16:10.627868+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/changing-the-cinematographers-exposure-values-in-post/#post-214706",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5c6a95c009d47d813cd9f78010ef00886169bf64e6c92cf1049b5d629c4ff8b5",
+    "parser_version": "bbpress-v2"
+  }
+}

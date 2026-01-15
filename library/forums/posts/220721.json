@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "post_id": "220721",
+    "forum_slug": "forum",
+    "topic_slug": "baking-in-look-vs-post-production",
+    "parent_post_id": "220661",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "dmullenasc wrote:\nHedging your bets like that isn’t the most effective way to learn and grow as an artist because you never risk failure.\nI find this point quite interesting. Errors and failures are opportunities to grow, but sometimes recovering from failures may be difficult or even impossible. One should find a “safe” way to make errors, i think.\nCongratulations for the ASC award, by the way!  🙂",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/baking-in-look-vs-post-production/#post-220720\">dmullenasc wrote:</a></div>\n</blockquote>\n<p>Hedging your bets like that isn’t the most effective way to learn and grow as an artist because you never risk failure.</p>\n<blockquote class=\"d4pbbc-quote\"></blockquote>\n<p>I find this point quite interesting. Errors and failures are opportunities to grow, but sometimes recovering from failures may be difficult or even impossible. One should find a “safe” way to make errors, i think.</p>\n<p>Congratulations for the ASC award, by the way!  🙂</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "dmullenasc wrote:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hedging your bets like that isn’t the most effective way to learn and grow as an artist because you never risk failure."
+    },
+    {
+      "type": "paragraph",
+      "text": "I find this point quite interesting. Errors and failures are opportunities to grow, but sometimes recovering from failures may be difficult or even impossible. One should find a “safe” way to make errors, i think."
+    },
+    {
+      "type": "paragraph",
+      "text": "Congratulations for the ASC award, by the way!  🙂"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "dmullenasc wrote:"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/baking-in-look-vs-post-production/#post-220720",
+      "text": "dmullenasc wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/baking-in-look-vs-post-production/#post-220722",
+    "scraped_at": "2026-01-15T13:15:56.121021+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/baking-in-look-vs-post-production/#post-220722",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "249a26c3676fc6da662b30c2b316df57bdddd80f6c2c815b28cc73066653b0ec",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/necessary-for-light-meter/#post-214531",
+  "forum_slug": "forum",
+  "topic_slug": "necessary-for-light-meter",
+  "title": "Necessary for Light Meter?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214481",
+    "214482",
+    "214483",
+    "214484",
+    "214485",
+    "214531"
+  ],
+  "reply_tree": {
+    "post_id": "214481",
+    "post_type": "topic",
+    "author": "jeff791107",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214482",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214483",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214484",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214485",
+        "post_type": "reply",
+        "author": "andrewtrost",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214531",
+        "post_type": "reply",
+        "author": "Rob-Webster",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/necessary-for-light-meter/#post-214531",
+    "scraped_at": "2026-01-15T15:52:57.649680+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/necessary-for-light-meter/#post-214531",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1d52a94d69e9629b62236e38d7e5549ed21de30b9269cac125d5c0fb41e736b5",
+    "parser_version": "bbpress-v2"
+  }
+}

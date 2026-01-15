@@ -1,0 +1,60 @@
+{
+  "ids": {
+    "post_id": "172882",
+    "forum_slug": "team-deakins",
+    "topic_slug": "live-youtube-conversation"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "James",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "On Monday, December 12th, Team Deakins is going live on our YouTube channel. We’re speaking with BVK, the German Society of Cinematographers. It should be fun. This is a direct link:\nhttps://youtu.be/5ebuTFYFWA8\nThe conversation starts at:\n11 AM LA time\n8 PM Central Europe Time\n7 PM UK Time",
+  "content_html": "<p>On Monday, December 12th, Team Deakins is going live on our YouTube channel. We’re speaking with BVK, the German Society of Cinematographers. It should be fun. This is a direct link: <a href=\"https://youtu.be/5ebuTFYFWA8\" rel=\"nofollow\">https://youtu.be/5ebuTFYFWA8</a></p>\n<p>The conversation starts at:</p>\n<p>11 AM LA time</p>\n<p>8 PM Central Europe Time</p>\n<p>7 PM UK Time</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "On Monday, December 12th, Team Deakins is going live on our YouTube channel. We’re speaking with BVK, the German Society of Cinematographers. It should be fun. This is a direct link:\nhttps://youtu.be/5ebuTFYFWA8"
+    },
+    {
+      "type": "paragraph",
+      "text": "The conversation starts at:"
+    },
+    {
+      "type": "paragraph",
+      "text": "11 AM LA time"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 PM Central Europe Time"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 PM UK Time"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://youtu.be/5ebuTFYFWA8",
+      "text": "https://youtu.be/5ebuTFYFWA8",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/live-youtube-conversation/#post-173126",
+    "scraped_at": "2026-01-15T14:12:58.164814+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/live-youtube-conversation/#post-173126",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "38fa0666754f83f539175fc3635af3e30170aad8ecbfc72b8ebed5ac939e136c",
+    "parser_version": "bbpress-v2"
+  }
+}

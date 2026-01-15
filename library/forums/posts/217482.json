@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "217482",
+    "forum_slug": "composition",
+    "topic_slug": "composition-and-symmetry",
+    "parent_post_id": "216380",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "James Parsons",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m part way through an indie project where I’ve set a bit of a compositional rulebook for myself. I’m center punching subjects as much as humanly possible, being extra careful to be at right angles to whatever the dominant elements in the background are, finding symmetries wherever I can. Trying to put a little formal distance on the story, maybe make it a bit presentational. Then there’s a handful of shots and a couple of specific scenes where I’m breaking those strictures, and hopefully it’s gonna be seamless for the audience, but they’ll feel the shift maybe before they can name it.\nI think the frame you share above is typical of Mr. Deakins, perfectly in control and precise without being the least bit regimented. The horizon is perfectly level, of course, and he’s almost but not quite centered up in the squared off room. There’s no mathematical formula to the offset angle, like shifting all the way over to be 45* to the room. Instead it’s near enough to squared off that it still conveys the strictness and formality of the interrogation. Far enough to feel the empty space and isolation of the prisoner, no help is coming, and to be overwhelmed by the queasy oppressive yellow.\nIf the prisoner is perfectly centered by bringing the camera left, then the interrogators are pushed too far to the edge of the frame, no longer drawing attention and demonstrating command of the room. If the camera goes right, then the interrogators end don’t have enough space to maneuver without overlapping with the prisoner, muddying the separation between the opposing forces before they’re ready to engage. I take Mr. Deakins at his word that (assuming my interpretations are reasonable) that he probably isn’t consciously debating any of those effects either to himself or aloud. The camera just feels right in one spot and wrong everywhere else.",
+  "content_html": "<p>I’m part way through an indie project where I’ve set a bit of a compositional rulebook for myself. I’m center punching subjects as much as humanly possible, being extra careful to be at right angles to whatever the dominant elements in the background are, finding symmetries wherever I can. Trying to put a little formal distance on the story, maybe make it a bit presentational. Then there’s a handful of shots and a couple of specific scenes where I’m breaking those strictures, and hopefully it’s gonna be seamless for the audience, but they’ll feel the shift maybe before they can name it.</p>\n<p>I think the frame you share above is typical of Mr. Deakins, perfectly in control and precise without being the least bit regimented. The horizon is perfectly level, of course, and he’s almost but not quite centered up in the squared off room. There’s no mathematical formula to the offset angle, like shifting all the way over to be 45* to the room. Instead it’s near enough to squared off that it still conveys the strictness and formality of the interrogation. Far enough to feel the empty space and isolation of the prisoner, no help is coming, and to be overwhelmed by the queasy oppressive yellow.</p>\n<p>If the prisoner is perfectly centered by bringing the camera left, then the interrogators are pushed too far to the edge of the frame, no longer drawing attention and demonstrating command of the room. If the camera goes right, then the interrogators end don’t have enough space to maneuver without overlapping with the prisoner, muddying the separation between the opposing forces before they’re ready to engage. I take Mr. Deakins at his word that (assuming my interpretations are reasonable) that he probably isn’t consciously debating any of those effects either to himself or aloud. The camera just feels right in one spot and wrong everywhere else.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m part way through an indie project where I’ve set a bit of a compositional rulebook for myself. I’m center punching subjects as much as humanly possible, being extra careful to be at right angles to whatever the dominant elements in the background are, finding symmetries wherever I can. Trying to put a little formal distance on the story, maybe make it a bit presentational. Then there’s a handful of shots and a couple of specific scenes where I’m breaking those strictures, and hopefully it’s gonna be seamless for the audience, but they’ll feel the shift maybe before they can name it."
+    },
+    {
+      "type": "paragraph",
+      "text": "I think the frame you share above is typical of Mr. Deakins, perfectly in control and precise without being the least bit regimented. The horizon is perfectly level, of course, and he’s almost but not quite centered up in the squared off room. There’s no mathematical formula to the offset angle, like shifting all the way over to be 45* to the room. Instead it’s near enough to squared off that it still conveys the strictness and formality of the interrogation. Far enough to feel the empty space and isolation of the prisoner, no help is coming, and to be overwhelmed by the queasy oppressive yellow."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the prisoner is perfectly centered by bringing the camera left, then the interrogators are pushed too far to the edge of the frame, no longer drawing attention and demonstrating command of the room. If the camera goes right, then the interrogators end don’t have enough space to maneuver without overlapping with the prisoner, muddying the separation between the opposing forces before they’re ready to engage. I take Mr. Deakins at his word that (assuming my interpretations are reasonable) that he probably isn’t consciously debating any of those effects either to himself or aloud. The camera just feels right in one spot and wrong everywhere else."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/composition-and-symmetry/#post-217506",
+    "scraped_at": "2026-01-15T12:09:26.086519+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/composition-and-symmetry/#post-217506",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c8fbd5066ef0e76b19bed6d53047760d6ecaa818ab85f6b82aeb76b2ada43691",
+    "parser_version": "bbpress-v2"
+  }
+}

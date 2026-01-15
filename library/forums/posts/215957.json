@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "post_id": "215957",
+    "forum_slug": "camera",
+    "topic_slug": "akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train",
+    "parent_post_id": "215916",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello everyone,\nIf I can join in this topic I would share what I’ve learned as a self-taught “student”.\nSpeed perception in the frame is a factor that could be altered by the focal length we choose. In this case (assuming that it is not manipulated) the movement is along the axis of the depth (Z). So when you use a telephoto you “slow” the perception of movement along this axis, this is due to the narrow field of view and the magnification of the lens that put the camera so far from the action; this distance, together with the compression of the perspective makes the elements close to each other when in the reality are not.\nSo, suppose you have the camera 10mt from the subject with a wide angle (let’s say a full shot) and the subject walks toward you for 5mt the subject the subject has traveled 50% of the distance between you and him. In that case, this is translated into an evident change of frame size and the relative dimension of the subject.\nIf instead, you have a camera at 100mt far from the subject and a long telephoto lens (to frame the same full shot) and the subject walks toward you for 5mt, now he walks for much less of the distance between you and him and the frame size will be basically the same, this effect will make your subject more “slow” in his walking toward you.\nIn my opinion, this phenomenon happens in this video, I believe it is not artificial because the people walking on the platform of the train stop do not seem slowed down to me (during the telephoto shot).\nBut perhaps the best thing to do is try and see the result ourselves 😊.\nI apologize for my bad English. I hope what I wrote makes logical sense\nI wish you all a great day,\nMax.",
+  "content_html": "<p>Hello everyone,</p>\n<p>If I can join in this topic I would share what I’ve learned as a self-taught “student”.</p>\n<p>Speed perception in the frame is a factor that could be altered by the focal length we choose. In this case (assuming that it is not manipulated) the movement is along the axis of the depth (Z). So when you use a telephoto you “slow” the perception of movement along this axis, this is due to the narrow field of view and the magnification of the lens that put the camera so far from the action; this distance, together with the compression of the perspective makes the elements close to each other when in the reality are not.<br/>\nSo, suppose you have the camera 10mt from the subject with a wide angle (let’s say a full shot) and the subject walks toward you for 5mt the subject the subject has traveled 50% of the distance between you and him. In that case, this is translated into an evident change of frame size and the relative dimension of the subject.<br/>\nIf instead, you have a camera at 100mt far from the subject and a long telephoto lens (to frame the same full shot) and the subject walks toward you for 5mt, now he walks for much less of the distance between you and him and the frame size will be basically the same, this effect will make your subject more “slow” in his walking toward you.</p>\n<p>In my opinion, this phenomenon happens in this video, I believe it is not artificial because the people walking on the platform of the train stop do not seem slowed down to me (during the telephoto shot).</p>\n<p>But perhaps the best thing to do is try and see the result ourselves 😊.</p>\n<p>I apologize for my bad English. I hope what I wrote makes logical sense</p>\n<p>I wish you all a great day,</p>\n<p>Max.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello everyone,"
+    },
+    {
+      "type": "paragraph",
+      "text": "If I can join in this topic I would share what I’ve learned as a self-taught “student”."
+    },
+    {
+      "type": "paragraph",
+      "text": "Speed perception in the frame is a factor that could be altered by the focal length we choose. In this case (assuming that it is not manipulated) the movement is along the axis of the depth (Z). So when you use a telephoto you “slow” the perception of movement along this axis, this is due to the narrow field of view and the magnification of the lens that put the camera so far from the action; this distance, together with the compression of the perspective makes the elements close to each other when in the reality are not.\nSo, suppose you have the camera 10mt from the subject with a wide angle (let’s say a full shot) and the subject walks toward you for 5mt the subject the subject has traveled 50% of the distance between you and him. In that case, this is translated into an evident change of frame size and the relative dimension of the subject.\nIf instead, you have a camera at 100mt far from the subject and a long telephoto lens (to frame the same full shot) and the subject walks toward you for 5mt, now he walks for much less of the distance between you and him and the frame size will be basically the same, this effect will make your subject more “slow” in his walking toward you."
+    },
+    {
+      "type": "paragraph",
+      "text": "In my opinion, this phenomenon happens in this video, I believe it is not artificial because the people walking on the platform of the train stop do not seem slowed down to me (during the telephoto shot)."
+    },
+    {
+      "type": "paragraph",
+      "text": "But perhaps the best thing to do is try and see the result ourselves 😊."
+    },
+    {
+      "type": "paragraph",
+      "text": "I apologize for my bad English. I hope what I wrote makes logical sense"
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you all a great day,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Max."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train/#post-215976",
+    "scraped_at": "2026-01-15T15:20:09.295500+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train/#post-215976",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "85589c47f875dfab5bde934aa97222bfb0adcc2243ae7801194080e75464fb0f",
+    "parser_version": "bbpress-v2"
+  }
+}

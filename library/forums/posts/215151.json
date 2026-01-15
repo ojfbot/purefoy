@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215151",
+    "forum_slug": "forum",
+    "topic_slug": "contrast-ratio",
+    "parent_post_id": "215132",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Rob-Webster",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I would also like to add, if i may, that calculating contrast ratios or using a more instinctive approach (as Roger described) is a totally personal thing. You have to find the right approach for how you see things.\nI suspect that if you treat contrast ratio dogmatically and try to light every shot at a 4:1 ratio (for example), you will A) Spend forever looking at numbers and not considering the image, and (B) End up with a very boring looking film.\nContrast ratio, in my mind, is more like a guide, its an area to aim that rather than a strict mathematical decision",
+  "content_html": "<p>I would also like to add, if i may, that calculating contrast ratios or using a more instinctive approach (as Roger described) is a totally personal thing. You have to find the right approach for how you see things.</p>\n<p> </p>\n<p>I suspect that if you treat contrast ratio dogmatically and try to light every shot at a 4:1 ratio (for example), you will A) Spend forever looking at numbers and not considering the image, and (B) End up with a very boring looking film.</p>\n<p>Contrast ratio, in my mind, is more like a guide, its an area to aim that rather than a strict mathematical decision</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I would also like to add, if i may, that calculating contrast ratios or using a more instinctive approach (as Roger described) is a totally personal thing. You have to find the right approach for how you see things."
+    },
+    {
+      "type": "paragraph",
+      "text": "I suspect that if you treat contrast ratio dogmatically and try to light every shot at a 4:1 ratio (for example), you will A) Spend forever looking at numbers and not considering the image, and (B) End up with a very boring looking film."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contrast ratio, in my mind, is more like a guide, its an area to aim that rather than a strict mathematical decision"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio/#post-215259",
+    "scraped_at": "2026-01-15T15:48:00.001726+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio/#post-215259",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4854b94e4654f04fc4b4d73bc82a4ff115ab229cebb01cce42038e095f2e41ad",
+    "parser_version": "bbpress-v2"
+  }
+}

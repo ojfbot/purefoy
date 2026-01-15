@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216434",
+    "forum_slug": "film-talk",
+    "topic_slug": "dick-pope",
+    "parent_post_id": "216430",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "What great work he has done. “Secrets and Lies” is also one of my absolute favorite films.",
+  "content_html": "<p>What great work he has done. “Secrets and Lies” is also one of my absolute favorite films.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "What great work he has done. “Secrets and Lies” is also one of my absolute favorite films."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dick-pope/#post-216434",
+    "scraped_at": "2026-01-15T12:48:58.523546+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dick-pope/#post-216434",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d2fe566adbb10b8c35705a95ea3abef30b7dbcd28c4bca4fb45b329cb9e1b629",
+    "parser_version": "bbpress-v2"
+  }
+}

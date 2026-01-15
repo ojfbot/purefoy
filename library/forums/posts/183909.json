@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "183909",
+    "forum_slug": "camera",
+    "topic_slug": "does-lens-focal-length-refer-to-full-frame-sensors-in-common-parlance",
+    "parent_post_id": "169615",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "To add another layer of interest I would suggest you stop thinking about focal lengths and Lenses, in my opinion it doesn’t help to understand how images are created. Here is an idea: Think more about distances, the distance camera to subject, the distance subject to background, the distance between subjects.",
+  "content_html": "<p>To add another layer of interest I would suggest you stop thinking about focal lengths and Lenses, in my opinion it doesn’t help to understand how images are created. Here is an idea: Think more about distances, the distance camera to subject, the distance subject to background, the distance between subjects.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "To add another layer of interest I would suggest you stop thinking about focal lengths and Lenses, in my opinion it doesn’t help to understand how images are created. Here is an idea: Think more about distances, the distance camera to subject, the distance subject to background, the distance between subjects."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/does-lens-focal-length-refer-to-full-frame-sensors-in-common-parlance/#post-189585",
+    "scraped_at": "2026-01-15T15:43:40.889498+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/does-lens-focal-length-refer-to-full-frame-sensors-in-common-parlance/#post-189585",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e742fa8e98c08eb0ebf8a86cb79de914e11e6dc1a5c92a518bf18b95e86a00ba",
+    "parser_version": "bbpress-v2"
+  }
+}

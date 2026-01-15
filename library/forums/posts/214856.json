@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214856",
+    "forum_slug": "camera",
+    "topic_slug": "film-copies-digital-version-of-same-movie",
+    "parent_post_id": "214855",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The 4K restoration likely did a scan of the negative (often a 6K scan on an Arriscanner immediately downsampled to 4K). A film scan would naturally be in Cineon log gamma, or it would be in ACES, 16-bit linear. Either way, all resolution and dynamic range available would be captured.\nRaw refers to an image from a Bayer-filtered camera sensor before conversion to RGB. A film scanner just makes separate passes for RGB.\n20 years ago, a new print of an old color movie probably came from a dupe negative made from a color interpositive (or b&w separations) made from the negative.",
+  "content_html": "<p>The 4K restoration likely did a scan of the negative (often a 6K scan on an Arriscanner immediately downsampled to 4K). A film scan would naturally be in Cineon log gamma, or it would be in ACES, 16-bit linear. Either way, all resolution and dynamic range available would be captured.</p>\n<p>Raw refers to an image from a Bayer-filtered camera sensor before conversion to RGB. A film scanner just makes separate passes for RGB.</p>\n<p>20 years ago, a new print of an old color movie probably came from a dupe negative made from a color interpositive (or b&amp;w separations) made from the negative.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The 4K restoration likely did a scan of the negative (often a 6K scan on an Arriscanner immediately downsampled to 4K). A film scan would naturally be in Cineon log gamma, or it would be in ACES, 16-bit linear. Either way, all resolution and dynamic range available would be captured."
+    },
+    {
+      "type": "paragraph",
+      "text": "Raw refers to an image from a Bayer-filtered camera sensor before conversion to RGB. A film scanner just makes separate passes for RGB."
+    },
+    {
+      "type": "paragraph",
+      "text": "20 years ago, a new print of an old color movie probably came from a dupe negative made from a color interpositive (or b&w separations) made from the negative."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/film-copies-digital-version-of-same-movie/#post-214858",
+    "scraped_at": "2026-01-15T15:24:40.105810+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/film-copies-digital-version-of-same-movie/#post-214858",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "627fcdb5a067212064247d7020a8aa62eb786f1f7415bc4244ce77b6d1d41e42",
+    "parser_version": "bbpress-v2"
+  }
+}

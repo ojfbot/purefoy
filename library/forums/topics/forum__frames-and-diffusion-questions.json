@@ -1,0 +1,89 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/frames-and-diffusion-questions/#post-216860",
+  "forum_slug": "forum",
+  "topic_slug": "frames-and-diffusion-questions",
+  "title": "Frames and Diffusion Questions",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216826",
+    "216833",
+    "216835",
+    "216839",
+    "216849",
+    "216855",
+    "216856",
+    "216860"
+  ],
+  "reply_tree": {
+    "post_id": "216826",
+    "post_type": "topic",
+    "author": "gx42",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216833",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216835",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216839",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216849",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216855",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216856",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216860",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 7,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/frames-and-diffusion-questions/#post-216860",
+    "scraped_at": "2026-01-15T15:22:48.917072+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/frames-and-diffusion-questions/#post-216860",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "acfb3db0cbf85cccaaadc8474d2346ccb6ff0abc0592b5269bea269b81d2c085",
+    "parser_version": "bbpress-v2"
+  }
+}

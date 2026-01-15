@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "175435",
+    "forum_slug": "camera",
+    "topic_slug": "balancing-monitors",
+    "parent_post_id": "175337",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "ACs and operators usually crank-up the camera’s onboard monitor to help with framing and focusing so I never use those as a judge of the image. The best monitor on set is at the DIT cart, the second best is on set with the director, on a stand to be mobile. Both are large monitors. After that, it is hit or miss in terms of the quality at different stations but today a lot of crew people have an image streamed to iPads. If the director really needs to be mobile they will use one of those.",
+  "content_html": "<p>ACs and operators usually crank-up the camera’s onboard monitor to help with framing and focusing so I never use those as a judge of the image. The best monitor on set is at the DIT cart, the second best is on set with the director, on a stand to be mobile. Both are large monitors. After that, it is hit or miss in terms of the quality at different stations but today a lot of crew people have an image streamed to iPads. If the director really needs to be mobile they will use one of those.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "ACs and operators usually crank-up the camera’s onboard monitor to help with framing and focusing so I never use those as a judge of the image. The best monitor on set is at the DIT cart, the second best is on set with the director, on a stand to be mobile. Both are large monitors. After that, it is hit or miss in terms of the quality at different stations but today a lot of crew people have an image streamed to iPads. If the director really needs to be mobile they will use one of those."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/balancing-monitors/#post-189796",
+    "scraped_at": "2026-01-15T15:43:34.851272+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/balancing-monitors/#post-189796",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8dc4d0a72c8be2d6b343321d536fff0052e314436343654a37352e8ba5cb9d84",
+    "parser_version": "bbpress-v2"
+  }
+}

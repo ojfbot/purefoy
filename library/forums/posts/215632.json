@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "215632",
+    "forum_slug": "forum",
+    "topic_slug": "are-you-always-thinking-about-shape-when-you-create-images"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Leo Gianfagna",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey everyone,\nThis question is aimed mostly for Roger but others are welcome to give their thoughts!\nQ: I’m wondering how often you think about shape and depth when you light and compose. I assume these would be secondary to whatever the story and feeling of the script is, but do you go out of your way to make subjects look less flat and give shape to your images?\nAs a young cinematographer, I end up breaking my back trying to get depth and a good contrast ratio on every shot in a scene/film. I’m wondering if you do the same thing, or if it isn’t as important to you.\nThanks for your time!\nLeo",
+  "content_html": "<p>Hey everyone,</p>\n<p>This question is aimed mostly for Roger but others are welcome to give their thoughts!</p>\n<p>Q: I’m wondering how often you think about shape and depth when you light and compose. I assume these would be secondary to whatever the story and feeling of the script is, but do you go out of your way to make subjects look less flat and give shape to your images?</p>\n<p>As a young cinematographer, I end up breaking my back trying to get depth and a good contrast ratio on every shot in a scene/film. I’m wondering if you do the same thing, or if it isn’t as important to you.</p>\n<p>Thanks for your time!</p>\n<p>Leo</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey everyone,"
+    },
+    {
+      "type": "paragraph",
+      "text": "This question is aimed mostly for Roger but others are welcome to give their thoughts!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q: I’m wondering how often you think about shape and depth when you light and compose. I assume these would be secondary to whatever the story and feeling of the script is, but do you go out of your way to make subjects look less flat and give shape to your images?"
+    },
+    {
+      "type": "paragraph",
+      "text": "As a young cinematographer, I end up breaking my back trying to get depth and a good contrast ratio on every shot in a scene/film. I’m wondering if you do the same thing, or if it isn’t as important to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks for your time!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Leo"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/are-you-always-thinking-about-shape-when-you-create-images/#post-215640",
+    "scraped_at": "2026-01-15T15:46:03.044626+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/are-you-always-thinking-about-shape-when-you-create-images/#post-215640",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6fac16d0b3a78b3b468d2cbbd2763917fdd9e6cf6ad649eafc30e255155397ff",
+    "parser_version": "bbpress-v2"
+  }
+}

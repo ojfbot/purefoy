@@ -1,0 +1,90 @@
+{
+  "article_id": "skyfall-1",
+  "film_slug": "skyfall",
+  "article_slug": "skyfall-1",
+  "title": "Roger Deakins - Looking at Lighting - Skyfall PreCredit *& MI6",
+  "author": "James",
+  "published_date": "2020-06-23T16:58:16-07:00",
+  "modified_date": "2020-06-23T16:58:16-07:00",
+  "description": "Roger Deakins looks at the lighting in SKYFALL of the pre-credit sequences and the MI6 scenes - Whitehall, Barracks, M's Office and the Bunker.",
+  "featured_image": "https://www.rogerdeakins.com/wp-content/uploads/2020/06/2-opening-close-shot.jpg",
+  "content_length": 13316,
+  "images_count": 30,
+  "links_count": 67,
+  "tags": [],
+  "categories": [],
+  "images": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2020/06/2-opening-close-shot.jpg",
+      "alt": "CU of Bond",
+      "caption": "Skyfall \u2013 MGM",
+      "width": 600,
+      "height": 251,
+      "srcset": "https://www.rogerdeakins.com/wp-content/uploads/2020/06/2-opening-close-shot.jpg 600w, https://www.rogerdeakins.com/wp-content/uploads/2020/06/2-opening-close-shot-300x126.jpg 300w"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2020/06/1-opening-shot.jpg",
+      "alt": "Soft shot of Bond",
+      "caption": "The approach of Bond",
+      "width": 600,
+      "height": 253,
+      "srcset": "https://www.rogerdeakins.com/wp-content/uploads/2020/06/1-opening-shot.jpg 600w, https://www.rogerdeakins.com/wp-content/uploads/2020/06/1-opening-shot-300x127.jpg 300w"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2020/06/2-opening-close-shot.jpg",
+      "alt": "CU of Bond",
+      "caption": "CU of Bond",
+      "width": 600,
+      "height": 251,
+      "srcset": "https://www.rogerdeakins.com/wp-content/uploads/2020/06/2-opening-close-shot.jpg 600w, https://www.rogerdeakins.com/wp-content/uploads/2020/06/2-opening-close-shot-300x126.jpg 300w"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2020/06/3-the-dead-agent.jpg",
+      "alt": "Bond & the dead agent",
+      "caption": "Bond & the dead agent",
+      "width": 600,
+      "height": 253,
+      "srcset": "https://www.rogerdeakins.com/wp-content/uploads/2020/06/3-the-dead-agent.jpg 600w, https://www.rogerdeakins.com/wp-content/uploads/2020/06/3-the-dead-agent-300x127.jpg 300w"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2020/06/4-the-dead-agent.jpg",
+      "alt": "Silhouette of Bond in hotel room",
+      "caption": "Silhouette of Bond in hotel room",
+      "width": 600,
+      "height": 258,
+      "srcset": "https://www.rogerdeakins.com/wp-content/uploads/2020/06/4-the-dead-agent.jpg 600w, https://www.rogerdeakins.com/wp-content/uploads/2020/06/4-the-dead-agent-300x129.jpg 300w"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/lighting/",
+      "text": "True Grit - Courtroom",
+      "title": null,
+      "is_internal": true
+    },
+    {
+      "href": "https://www.rogerdeakins.com/looking-at-lighting-january/",
+      "text": "True Grit - Greaser Bob's",
+      "title": null,
+      "is_internal": true
+    },
+    {
+      "href": "https://www.rogerdeakins.com/unbroken-ship-and-restaurant/",
+      "text": "Unbroken - Ship and Restaurant",
+      "title": null,
+      "is_internal": true
+    },
+    {
+      "href": "https://www.rogerdeakins.com/looking-at-lighting-omari/",
+      "text": "Unbroken - Omari Night",
+      "title": null,
+      "is_internal": true
+    },
+    {
+      "href": "https://www.rogerdeakins.com/looking-at-lighting-unbroken-plane/",
+      "text": "Unbroken - Plane",
+      "title": null,
+      "is_internal": true
+    }
+  ]
+}

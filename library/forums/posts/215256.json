@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215256",
+    "forum_slug": "forum",
+    "topic_slug": "desert-chase-at-dawn-scene-in-no-country-for-old-men",
+    "parent_post_id": "215246",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "MNMike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There’s a whole description and breakdown on your question in the looking at light section- NCFOM. It’s pretty thorough and should answer all you questions for the scene. Cheers.",
+  "content_html": "<p>There’s a whole description and breakdown on your question in the looking at light section- NCFOM. It’s pretty thorough and should answer all you questions for the scene. Cheers.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There’s a whole description and breakdown on your question in the looking at light section- NCFOM. It’s pretty thorough and should answer all you questions for the scene. Cheers."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/desert-chase-at-dawn-scene-in-no-country-for-old-men/#post-215883",
+    "scraped_at": "2026-01-15T15:43:44.759967+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/desert-chase-at-dawn-scene-in-no-country-for-old-men/#post-215883",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4bae5c91bdd7eaa3aed4472c598ba379f0ee4cb6f768a72e03b3b380a4b7d333",
+    "parser_version": "bbpress-v2"
+  }
+}

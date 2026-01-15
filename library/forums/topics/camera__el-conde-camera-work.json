@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/el-conde-camera-work/#post-215211",
+  "forum_slug": "camera",
+  "topic_slug": "el-conde-camera-work",
+  "title": "El Conde camera work",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215114",
+    "215149",
+    "215208",
+    "215211"
+  ],
+  "reply_tree": {
+    "post_id": "215114",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215149",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215208",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215211",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/el-conde-camera-work/#post-215211",
+    "scraped_at": "2026-01-15T15:22:54.953392+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/el-conde-camera-work/#post-215211",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9e242f7499b827a16353a79b7bdbe54a774ae9d263aab422ae40b9b08538a7d9",
+    "parser_version": "bbpress-v2"
+  }
+}

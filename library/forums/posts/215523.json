@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "215523",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-advice-on-reducing-high-key-light-source"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "talha_ashraf11",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m planning on making a short film soon and having no lighting team or budget, I was going to use my house to film everything. One scene requires the drawing room where I hope to use the ceiling lights as my main source. However, due to how harsh they can be, I want to try and get it to illuminate a softer color. I was wondering how I could do that.",
+  "content_html": "<p>I’m planning on making a short film soon and having no lighting team or budget, I was going to use my house to film everything. One scene requires the drawing room where I hope to use the ceiling lights as my main source. However, due to how harsh they can be, I want to try and get it to illuminate a softer color. I was wondering how I could do that.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m planning on making a short film soon and having no lighting team or budget, I was going to use my house to film everything. One scene requires the drawing room where I hope to use the ceiling lights as my main source. However, due to how harsh they can be, I want to try and get it to illuminate a softer color. I was wondering how I could do that."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-advice-on-reducing-high-key-light-source/#post-215572",
+    "scraped_at": "2026-01-15T15:46:29.986805+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-advice-on-reducing-high-key-light-source/#post-215572",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3e4df71c9b0979e0f566be7952c6988efb7aa8d8bc7b67032f28dd01bfa0e9ad",
+    "parser_version": "bbpress-v2"
+  }
+}

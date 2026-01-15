@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "post_id": "200142",
+    "forum_slug": "forum",
+    "topic_slug": "attenuation-of-light",
+    "parent_post_id": "198716",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Your balancing values, if you want to calculate how larger sources fall-off see here.\nGabriel Devereux | SOFT-LIGHT CALCULATOR\nIf it’s a small source 4pi distance ** 2 is about right.\nYour sensor can resolve a linear range of light.\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>Your balancing values, if you want to calculate how larger sources fall-off see here.</p>\n<blockquote class=\"wp-embedded-content\" data-secret=\"LWLxSo4ifg\"><p><a href=\"https://gabrieldevereux.com/calculator/\" rel=\"nofollow\">Gabriel Devereux | SOFT-LIGHT CALCULATOR</a></p></blockquote>\n<p><iframe class=\"wp-embedded-content\" data-secret=\"LWLxSo4ifg\" frameborder=\"0\" height=\"338\" loading=\"lazy\" marginheight=\"0\" marginwidth=\"0\" sandbox=\"allow-scripts\" scrolling=\"no\" security=\"restricted\" src=\"https://gabrieldevereux.com/calculator/embed/#?secret=0bTGfoB5pp#?secret=LWLxSo4ifg\" style=\"position: absolute; clip: rect(1px, 1px, 1px, 1px);\" title=\"“Gabriel Devereux | SOFT-LIGHT CALCULATOR” — Gabriel Devereux\" width=\"600\"></iframe></p>\n<p>If it’s a small source 4pi distance ** 2 is about right.<br/>\nYour sensor can resolve a linear range of light.</p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Your balancing values, if you want to calculate how larger sources fall-off see here."
+    },
+    {
+      "type": "quote",
+      "text": "Gabriel Devereux | SOFT-LIGHT CALCULATOR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gabriel Devereux | SOFT-LIGHT CALCULATOR"
+    },
+    {
+      "type": "paragraph",
+      "text": "If it’s a small source 4pi distance ** 2 is about right.\nYour sensor can resolve a linear range of light."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Gabriel Devereux | SOFT-LIGHT CALCULATOR"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gabrieldevereux.com/calculator/",
+      "text": "Gabriel Devereux | SOFT-LIGHT CALCULATOR",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/attenuation-of-light/#post-201860",
+    "scraped_at": "2026-01-15T15:54:25.125433+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/attenuation-of-light/#post-201860",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4820331beaf539aae15c75ee87c78af7d82b0e12250563a7f97742ca6712c2c1",
+    "parser_version": "bbpress-v2"
+  }
+}

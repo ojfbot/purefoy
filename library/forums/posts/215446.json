@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "215446",
+    "forum_slug": "film-talk",
+    "topic_slug": "films-that-light-and-compose-faces-very-well"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "bardanmcguire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger!\nA few months ago I asked you a question on how I could learn cinematography. You gave me what I thought was a great piece of advice which was to watch as many films as I can, study the works of as many painters and photographers and just shoot as much as I can. I’ve been doing all of those things as much as I can since I finished college in October and I can say that I’ve improved more over the past few months than I had over three years of film school so thank you for that.\nYou also said in the message that it was once suggested to you that if you could light the human face that you could light anything. I’ve just been thinking over the past few weeks if you could recommend to me a few films to watch where you think that faces are lit and composed very well. I know that’s not what you meant by your answer but I thought I’d just ask anyways just to see what you thought.",
+  "content_html": "<p>Hi Roger!</p>\n<p>A few months ago I asked you a question on how I could learn cinematography. You gave me what I thought was a great piece of advice which was to watch as many films as I can, study the works of as many painters and photographers and just shoot as much as I can. I’ve been doing all of those things as much as I can since I finished college in October and I can say that I’ve improved more over the past few months than I had over three years of film school so thank you for that.</p>\n<p>You also said in the message that it was once suggested to you that if you could light the human face that you could light anything. I’ve just been thinking over the past few weeks if you could recommend to me a few films to watch where you think that faces are lit and composed very well. I know that’s not what you meant by your answer but I thought I’d just ask anyways just to see what you thought.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger!"
+    },
+    {
+      "type": "paragraph",
+      "text": "A few months ago I asked you a question on how I could learn cinematography. You gave me what I thought was a great piece of advice which was to watch as many films as I can, study the works of as many painters and photographers and just shoot as much as I can. I’ve been doing all of those things as much as I can since I finished college in October and I can say that I’ve improved more over the past few months than I had over three years of film school so thank you for that."
+    },
+    {
+      "type": "paragraph",
+      "text": "You also said in the message that it was once suggested to you that if you could light the human face that you could light anything. I’ve just been thinking over the past few weeks if you could recommend to me a few films to watch where you think that faces are lit and composed very well. I know that’s not what you meant by your answer but I thought I’d just ask anyways just to see what you thought."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/films-that-light-and-compose-faces-very-well/#post-215592",
+    "scraped_at": "2026-01-15T13:23:37.872277+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/films-that-light-and-compose-faces-very-well/#post-215592",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8c62e70b0e1c09edb06d082d1913e5f17f4f6fa280583ccd421fdc310464a5c9",
+    "parser_version": "bbpress-v2"
+  }
+}

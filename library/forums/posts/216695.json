@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216695",
+    "forum_slug": "camera",
+    "topic_slug": "deep-stop-with-artificial-sunlight",
+    "parent_post_id": "216683",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "When faking sunlight, the goal is generally to be\nconvincing\n… the trouble is that typically in a real day exterior with sunshine, you wouldn’t be shooting at f/2.0, let’s say, you’re more likely to be stopped down to f/4.0 or deeper. So super shallow-focus is sort of a giveaway that the daylight scene is artificially lit.\nWhen Sven Nykvist filmed “Cannery Row” (1982), which had indoor sets that were supposed to be outdoors in daylight, he knew this would be a problem so he tried to shoot his real day exteriors at a wide aperture and his interior day “exteriors” at a stop deeper than wide-open so they had a similar feeling.",
+  "content_html": "<p>When faking sunlight, the goal is generally to be <em>convincing</em>… the trouble is that typically in a real day exterior with sunshine, you wouldn’t be shooting at f/2.0, let’s say, you’re more likely to be stopped down to f/4.0 or deeper. So super shallow-focus is sort of a giveaway that the daylight scene is artificially lit.</p>\n<p>When Sven Nykvist filmed “Cannery Row” (1982), which had indoor sets that were supposed to be outdoors in daylight, he knew this would be a problem so he tried to shoot his real day exteriors at a wide aperture and his interior day “exteriors” at a stop deeper than wide-open so they had a similar feeling.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "When faking sunlight, the goal is generally to be\nconvincing\n… the trouble is that typically in a real day exterior with sunshine, you wouldn’t be shooting at f/2.0, let’s say, you’re more likely to be stopped down to f/4.0 or deeper. So super shallow-focus is sort of a giveaway that the daylight scene is artificially lit."
+    },
+    {
+      "type": "paragraph",
+      "text": "When Sven Nykvist filmed “Cannery Row” (1982), which had indoor sets that were supposed to be outdoors in daylight, he knew this would be a problem so he tried to shoot his real day exteriors at a wide aperture and his interior day “exteriors” at a stop deeper than wide-open so they had a similar feeling."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/deep-stop-with-artificial-sunlight/#post-216695",
+    "scraped_at": "2026-01-15T13:24:05.311334+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/deep-stop-with-artificial-sunlight/#post-216695",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3d0759e54d8f323cf78cd2541e6a0503d654c90a2bbbf27b249647b2979b6794",
+    "parser_version": "bbpress-v2"
+  }
+}

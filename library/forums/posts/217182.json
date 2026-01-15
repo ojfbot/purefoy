@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "217182",
+    "forum_slug": "forum",
+    "topic_slug": "the-human-face",
+    "parent_post_id": "217149",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Soft lighting was not uncommon in the Silent Era, between natural sunlight being used through cloth on outdoor stages to later when the Cooper-Hewitt lamps were being used. But first Cooper-Hewitts disappeared when sound came along (they were noisy) and to get enough exposure, multiple tungsten lamps were used which had larger bulbs in them (Mazda globes) so a push was made to make tungsten more “precise” in fresnel fixtures, less of a floodlit look was desired. And as film stocks got faster (about 32 ASA for Pan-X in the 1930s until 64 ASA Plus-X came along in 1938), one could do more careful projected lighting effects along with achieving more depth of field. So the classic studio style lighting evolved in the 1930s by choice, not because they didn’t know how to do soft lighting. And it worked well with b&w where you are trying to create depth and separation.\nBut soft lighting started to appear again in the 1960s on color films when the stock was 50 ASA. But it wasn’t easy to light larger spaces with soft light as opposed to just some close-ups. David Watkin famously lit the set for “Marat/Sade” with one big soft light window — which had 26 10Ks behind a frame of muslin. The African landscape set in “2001” was lit with hundreds of 1K globes. Even today if you ask for a couple hundred of space lights, tungsten or LED, to light a large set for overcast daylight, you will be fighting with the production manager to spend that much money.",
+  "content_html": "<p>Soft lighting was not uncommon in the Silent Era, between natural sunlight being used through cloth on outdoor stages to later when the Cooper-Hewitt lamps were being used. But first Cooper-Hewitts disappeared when sound came along (they were noisy) and to get enough exposure, multiple tungsten lamps were used which had larger bulbs in them (Mazda globes) so a push was made to make tungsten more “precise” in fresnel fixtures, less of a floodlit look was desired. And as film stocks got faster (about 32 ASA for Pan-X in the 1930s until 64 ASA Plus-X came along in 1938), one could do more careful projected lighting effects along with achieving more depth of field. So the classic studio style lighting evolved in the 1930s by choice, not because they didn’t know how to do soft lighting. And it worked well with b&amp;w where you are trying to create depth and separation.</p>\n<p>But soft lighting started to appear again in the 1960s on color films when the stock was 50 ASA. But it wasn’t easy to light larger spaces with soft light as opposed to just some close-ups. David Watkin famously lit the set for “Marat/Sade” with one big soft light window — which had 26 10Ks behind a frame of muslin. The African landscape set in “2001” was lit with hundreds of 1K globes. Even today if you ask for a couple hundred of space lights, tungsten or LED, to light a large set for overcast daylight, you will be fighting with the production manager to spend that much money.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Soft lighting was not uncommon in the Silent Era, between natural sunlight being used through cloth on outdoor stages to later when the Cooper-Hewitt lamps were being used. But first Cooper-Hewitts disappeared when sound came along (they were noisy) and to get enough exposure, multiple tungsten lamps were used which had larger bulbs in them (Mazda globes) so a push was made to make tungsten more “precise” in fresnel fixtures, less of a floodlit look was desired. And as film stocks got faster (about 32 ASA for Pan-X in the 1930s until 64 ASA Plus-X came along in 1938), one could do more careful projected lighting effects along with achieving more depth of field. So the classic studio style lighting evolved in the 1930s by choice, not because they didn’t know how to do soft lighting. And it worked well with b&w where you are trying to create depth and separation."
+    },
+    {
+      "type": "paragraph",
+      "text": "But soft lighting started to appear again in the 1960s on color films when the stock was 50 ASA. But it wasn’t easy to light larger spaces with soft light as opposed to just some close-ups. David Watkin famously lit the set for “Marat/Sade” with one big soft light window — which had 26 10Ks behind a frame of muslin. The African landscape set in “2001” was lit with hundreds of 1K globes. Even today if you ask for a couple hundred of space lights, tungsten or LED, to light a large set for overcast daylight, you will be fighting with the production manager to spend that much money."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-human-face/#post-217197",
+    "scraped_at": "2026-01-15T15:21:36.810478+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-human-face/#post-217197",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "960e8941be51e5f90cd614c6282b4bd58679b2a9f54e8ae30152cd727f0d4cd9",
+    "parser_version": "bbpress-v2"
+  }
+}

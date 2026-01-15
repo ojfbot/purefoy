@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "216452",
+    "forum_slug": "forum",
+    "topic_slug": "the-soft-light-control-in-empire-of-light",
+    "parent_post_id": "216450",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "caiyichenweg",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "",
+  "content_html": "<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216452/sikm3dzetxrnaznjwz2oa07urv8bg0dd.jpeg\"/></p>",
+  "blocks": [],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216452/sikm3dzetxrnaznjwz2oa07urv8bg0dd.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-soft-light-control-in-empire-of-light/#post-216458",
+    "scraped_at": "2026-01-15T15:24:49.218989+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-soft-light-control-in-empire-of-light/#post-216458",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8902aead92f7124fff8d63f991344d31d4d4dd7a0ee5d9a9c8585a4c57224d5d",
+    "parser_version": "bbpress-v2"
+  }
+}

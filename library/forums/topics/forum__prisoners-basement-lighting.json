@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/prisoners-basement-lighting/#post-215203",
+  "forum_slug": "forum",
+  "topic_slug": "prisoners-basement-lighting",
+  "title": "Prisoners basement lighting",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215202",
+    "215203"
+  ],
+  "reply_tree": {
+    "post_id": "215202",
+    "post_type": "topic",
+    "author": "JasonMorebees",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215203",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/prisoners-basement-lighting/#post-215203",
+    "scraped_at": "2026-01-15T15:48:32.979607+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/prisoners-basement-lighting/#post-215203",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3599837c36e5745cbd05ef7836531a403dcc5596efb15cf49fad44cc10a3c02e",
+    "parser_version": "bbpress-v2"
+  }
+}

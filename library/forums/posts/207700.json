@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "207700",
+    "forum_slug": "film-talk",
+    "topic_slug": "low-no-budget-movies-with-intriguing-cinematography",
+    "parent_post_id": "206257",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Huge Kore-eda fan here. I’m a bit down for his last one as I didn’t like it much tho!\nI don’t know the budgets his movies manage but I wouldn’t consider them low budget.\nAs we are all on Japanese mode I would recommend “One Cut Of The Dead” (2017). Super low budget film. It’s a zombie film so bear that in mind. But the script it’s so good. It’s shot with small ENG cameras so the cinematography is crazy handheld. But it’s a masterpiece for how they pull it out. Recently they even did a remake of it in France. With big actors and a lot more budget , haven’t watch it yet but the low budget style sometimes plays in favor of the story.",
+  "content_html": "<p>Huge Kore-eda fan here. I’m a bit down for his last one as I didn’t like it much tho!</p>\n<p>I don’t know the budgets his movies manage but I wouldn’t consider them low budget.</p>\n<p>As we are all on Japanese mode I would recommend “One Cut Of The Dead” (2017). Super low budget film. It’s a zombie film so bear that in mind. But the script it’s so good. It’s shot with small ENG cameras so the cinematography is crazy handheld. But it’s a masterpiece for how they pull it out. Recently they even did a remake of it in France. With big actors and a lot more budget , haven’t watch it yet but the low budget style sometimes plays in favor of the story.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Huge Kore-eda fan here. I’m a bit down for his last one as I didn’t like it much tho!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I don’t know the budgets his movies manage but I wouldn’t consider them low budget."
+    },
+    {
+      "type": "paragraph",
+      "text": "As we are all on Japanese mode I would recommend “One Cut Of The Dead” (2017). Super low budget film. It’s a zombie film so bear that in mind. But the script it’s so good. It’s shot with small ENG cameras so the cinematography is crazy handheld. But it’s a masterpiece for how they pull it out. Recently they even did a remake of it in France. With big actors and a lot more budget , haven’t watch it yet but the low budget style sometimes plays in favor of the story."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/low-no-budget-movies-with-intriguing-cinematography/",
+    "scraped_at": "2026-01-15T14:13:32.888673+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/low-no-budget-movies-with-intriguing-cinematography/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ef98964e4584876a66d5309806636e97bd08366b573b4d0a8a4a42f72156dd34",
+    "parser_version": "bbpress-v2"
+  }
+}

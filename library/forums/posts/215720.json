@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "215720",
+    "forum_slug": "camera",
+    "topic_slug": "cinematography-advice"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "KyleDow",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Roger Deakins, I hope you are well. My name is Kyle, and I am currently studying film at college. At the moment I am currently working on my final project. In this final project I want to develop my cinematography skills. Due to this I wanted to ask you two questions to help with my research if that is okey.\n1 – What is your thought process when coming up with the cinematography for all your films? For example, what do you take into account when lighting and composing a scene,\n2 – How do you decide, which lens you want to use and how important do you think lens choice is?\n3 – What helps to inspire you?\nI understand there are quite a few questions here and that you are probably busy so if you can’t answer all of them that is completely fine.\nMany thanks,\nKyle",
+  "content_html": "<p>Hello Roger Deakins, I hope you are well. My name is Kyle, and I am currently studying film at college. At the moment I am currently working on my final project. In this final project I want to develop my cinematography skills. Due to this I wanted to ask you two questions to help with my research if that is okey. </p>\n<p>1 – What is your thought process when coming up with the cinematography for all your films? For example, what do you take into account when lighting and composing a scene, </p>\n<p>2 – How do you decide, which lens you want to use and how important do you think lens choice is?</p>\n<p>3 – What helps to inspire you?</p>\n<p> I understand there are quite a few questions here and that you are probably busy so if you can’t answer all of them that is completely fine. </p>\n<p>Many thanks,<br/>\nKyle</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Roger Deakins, I hope you are well. My name is Kyle, and I am currently studying film at college. At the moment I am currently working on my final project. In this final project I want to develop my cinematography skills. Due to this I wanted to ask you two questions to help with my research if that is okey."
+    },
+    {
+      "type": "paragraph",
+      "text": "1 – What is your thought process when coming up with the cinematography for all your films? For example, what do you take into account when lighting and composing a scene,"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 – How do you decide, which lens you want to use and how important do you think lens choice is?"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 – What helps to inspire you?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I understand there are quite a few questions here and that you are probably busy so if you can’t answer all of them that is completely fine."
+    },
+    {
+      "type": "paragraph",
+      "text": "Many thanks,\nKyle"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cinematography-advice/#post-216112",
+    "scraped_at": "2026-01-15T15:08:29.661203+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cinematography-advice/#post-216112",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7f299f924cbe68d4a673543574c5b865a8580ecc38f3c02170e7c45b8488da3b",
+    "parser_version": "bbpress-v2"
+  }
+}

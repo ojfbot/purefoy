@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "207522",
+    "forum_slug": "set-talk",
+    "topic_slug": "creating-a-shot-from-inside-a-rabbit-hole"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Jakob Webb",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m shooting a film where the character is inside a “rabbit hole” and I wanted to get some inspiration for it. Does anyone have any ideas on how I could achieve a shot like this on a budget and have it look realistic.\nAlso does anyone know any shots from movies / music videos where they do this? and if you have behind the scenes knowledge on how they did it please let me know I’d love to hear it!",
+  "content_html": "<p>I’m shooting a film where the character is inside a “rabbit hole” and I wanted to get some inspiration for it. Does anyone have any ideas on how I could achieve a shot like this on a budget and have it look realistic.</p>\n<p>Also does anyone know any shots from movies / music videos where they do this? and if you have behind the scenes knowledge on how they did it please let me know I’d love to hear it!</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m shooting a film where the character is inside a “rabbit hole” and I wanted to get some inspiration for it. Does anyone have any ideas on how I could achieve a shot like this on a budget and have it look realistic."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also does anyone know any shots from movies / music videos where they do this? and if you have behind the scenes knowledge on how they did it please let me know I’d love to hear it!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/creating-a-shot-from-inside-a-rabbit-hole/#post-208627",
+    "scraped_at": "2026-01-15T13:23:53.600912+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-a-shot-from-inside-a-rabbit-hole/#post-208627",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2613c9cd59ca6495a8f76fb3967f323bad4c1130c751c5cd47b1d7fbb174f4d5",
+    "parser_version": "bbpress-v2"
+  }
+}

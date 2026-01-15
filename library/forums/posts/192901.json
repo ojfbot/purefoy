@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "192901",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-practical-bare-bulb",
+    "parent_post_id": "190614",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "M Ryan",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yes of course! Thanks Stefan 🙂 👍",
+  "content_html": "<p>Yes of course! Thanks Stefan 🙂 👍</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yes of course! Thanks Stefan 🙂 👍"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-practical-bare-bulb/",
+    "scraped_at": "2026-01-15T15:55:03.848723+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-practical-bare-bulb/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6ba16b3f0fdf59183c8a0fd9d1963a273e58589638b1a8ac5c5b1000cd6285a0",
+    "parser_version": "bbpress-v2"
+  }
+}

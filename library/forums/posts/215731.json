@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "post_id": "215731",
+    "forum_slug": "forum",
+    "topic_slug": "the-look-of-hail-cesar",
+    "parent_post_id": "215700",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Max,\nI find the tools in Resolve very limiting or too imprecise for these kind of tweaks and almost only use DCTLs (“DaVinci Colorspace Transform Language”) now.\nYou might want to look into it, I find it much easier to get pleasing (and mathematically “correct”) colors than with Resolves’ own tools.\n“Film Density” and “Tetra” from Paul Dore (in the “DCTL” folder on his Github page) are two all-time classics and free.\nThere are also great free DCTLs from IridescentColor .com, one that’s also called “Tetra”, “Saturator” and “Split/Tone”. He also has videos on them and affordable commercial DCTLs.\nMore expensive but fantastic DCTL programmers are Mononodes and Kaur Hendrikson.\nI recommend trying the free ones, they are already great!",
+  "content_html": "<p>Max,</p>\n<p>I find the tools in Resolve very limiting or too imprecise for these kind of tweaks and almost only use DCTLs (“DaVinci Colorspace Transform Language”) now.</p>\n<p>You might want to look into it, I find it much easier to get pleasing (and mathematically “correct”) colors than with Resolves’ own tools.</p>\n<p>“Film Density” and “Tetra” from Paul Dore (in the “DCTL” folder on his Github page) are two all-time classics and free.</p>\n<p>There are also great free DCTLs from IridescentColor .com, one that’s also called “Tetra”, “Saturator” and “Split/Tone”. He also has videos on them and affordable commercial DCTLs.</p>\n<p>More expensive but fantastic DCTL programmers are Mononodes and Kaur Hendrikson.</p>\n<p>I recommend trying the free ones, they are already great!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Max,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I find the tools in Resolve very limiting or too imprecise for these kind of tweaks and almost only use DCTLs (“DaVinci Colorspace Transform Language”) now."
+    },
+    {
+      "type": "paragraph",
+      "text": "You might want to look into it, I find it much easier to get pleasing (and mathematically “correct”) colors than with Resolves’ own tools."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Film Density” and “Tetra” from Paul Dore (in the “DCTL” folder on his Github page) are two all-time classics and free."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are also great free DCTLs from IridescentColor .com, one that’s also called “Tetra”, “Saturator” and “Split/Tone”. He also has videos on them and affordable commercial DCTLs."
+    },
+    {
+      "type": "paragraph",
+      "text": "More expensive but fantastic DCTL programmers are Mononodes and Kaur Hendrikson."
+    },
+    {
+      "type": "paragraph",
+      "text": "I recommend trying the free ones, they are already great!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-look-of-hail-cesar/#post-215885",
+    "scraped_at": "2026-01-15T15:43:38.597013+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-look-of-hail-cesar/#post-215885",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2008e55e0702d721cd3ac59cee24a04092270ad3977564a7059074eb942a931f",
+    "parser_version": "bbpress-v2"
+  }
+}

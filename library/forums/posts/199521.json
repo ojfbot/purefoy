@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "199521",
+    "forum_slug": "camera",
+    "topic_slug": "alexa-mini-lf",
+    "parent_post_id": "196072",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Gregg",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The Leica M8 is wonderful for b&w!  I had one and there was an issue with the sensor. Leica offered an upgrade to the M9, but that too suffers from a sensor that oxidates.  Unfortunately I discovered this after they stopped replacing the sensor so my m9 is pretty useless. Their offer for a discount to upgrade is really really disappointing!! I hope your Leica’s last longer than mine.",
+  "content_html": "<p>The Leica M8 is wonderful for b&amp;w!  I had one and there was an issue with the sensor. Leica offered an upgrade to the M9, but that too suffers from a sensor that oxidates.  Unfortunately I discovered this after they stopped replacing the sensor so my m9 is pretty useless. Their offer for a discount to upgrade is really really disappointing!! I hope your Leica’s last longer than mine.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The Leica M8 is wonderful for b&w!  I had one and there was an issue with the sensor. Leica offered an upgrade to the M9, but that too suffers from a sensor that oxidates.  Unfortunately I discovered this after they stopped replacing the sensor so my m9 is pretty useless. Their offer for a discount to upgrade is really really disappointing!! I hope your Leica’s last longer than mine."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/alexa-mini-lf/#post-199631",
+    "scraped_at": "2026-01-15T15:42:49.603214+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/alexa-mini-lf/#post-199631",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9627b6c503854d33fed19d00fbb280bbc2ce695e29aa51f7f82955837ca80519",
+    "parser_version": "bbpress-v2"
+  }
+}

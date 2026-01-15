@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "post_id": "216481",
+    "forum_slug": "forum",
+    "topic_slug": "decisionmaking-of-overhead-lightingrigs"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Julius",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger,\nI’m very curious about how you decide wich kind of overhead light you are going for.\nFor example in the situation of Skyfall, in the casino scene when bond fights on this “bridge” you chose a 8′ ringlight to create a soft wash of light.\nIn the Hail Caesar, for the bar dancing scene you chose many individual fresnel lamps ganged up next to each other to create a soft top light.\nOf course im aware that a fresnel lense gives you other possibilities of focusing or defocusing the light, but when it comes to the softness of the source is it something that you decide by the gut, or concidering the budget or is it a technical approach or did you just wanted to try a different technique?\nIm really curious of your thoughts\nBest wishes from Germany\nJulius",
+  "content_html": "<p>Dear Roger,</p>\n<p>I’m very curious about how you decide wich kind of overhead light you are going for.</p>\n<p>For example in the situation of Skyfall, in the casino scene when bond fights on this “bridge” you chose a 8′ ringlight to create a soft wash of light.</p>\n<p>In the Hail Caesar, for the bar dancing scene you chose many individual fresnel lamps ganged up next to each other to create a soft top light.</p>\n<p> </p>\n<p>Of course im aware that a fresnel lense gives you other possibilities of focusing or defocusing the light, but when it comes to the softness of the source is it something that you decide by the gut, or concidering the budget or is it a technical approach or did you just wanted to try a different technique?</p>\n<p> </p>\n<p>Im really curious of your thoughts</p>\n<p> </p>\n<p>Best wishes from Germany</p>\n<p> </p>\n<div class=\"bbp-signature\"><p>Julius</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m very curious about how you decide wich kind of overhead light you are going for."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example in the situation of Skyfall, in the casino scene when bond fights on this “bridge” you chose a 8′ ringlight to create a soft wash of light."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the Hail Caesar, for the bar dancing scene you chose many individual fresnel lamps ganged up next to each other to create a soft top light."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of course im aware that a fresnel lense gives you other possibilities of focusing or defocusing the light, but when it comes to the softness of the source is it something that you decide by the gut, or concidering the budget or is it a technical approach or did you just wanted to try a different technique?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im really curious of your thoughts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Best wishes from Germany"
+    },
+    {
+      "type": "paragraph",
+      "text": "Julius"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/decisionmaking-of-overhead-lightingrigs/#post-216485",
+    "scraped_at": "2026-01-15T15:24:34.162847+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/decisionmaking-of-overhead-lightingrigs/#post-216485",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3b3e039df2771b41d408c4c4e2d8ef427c84a45ff93d7bce60baeffc60189f3a",
+    "parser_version": "bbpress-v2"
+  }
+}

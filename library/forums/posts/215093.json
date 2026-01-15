@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215093",
+    "forum_slug": "camera",
+    "topic_slug": "on-cleaner-anamorphics",
+    "parent_post_id": "215088",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A good comparison for the Master Anamorphics vs. older anamorphic lenses is Robert Yeoman’s work with Wes Anderson. The 2.39 scenes in The French Dispatch and Asteroid City are Master Anamorphics. Older films they did together like The Darjeeling Limited, The Life Aquatic, The Royal Tenenbaums, and Rushmore are Panavision. The 2.39 scenes in The Grand Budapest Hotel are Technovision. All of these movies were shot on film and everything from The Life Aquatic onward was a digital intermediate.\nIt’s not quite as clean a comparison but you could also look at the recent Star Trek movies. Star Trek 2009 and Star Trek Into Darkness were shot on film with Panavision lenses by Dan Mindel, and then Star Trek Beyond was shot on digital with the Master Anamorphics by Stephen Windon.",
+  "content_html": "<p>A good comparison for the Master Anamorphics vs. older anamorphic lenses is Robert Yeoman’s work with Wes Anderson. The 2.39 scenes in The French Dispatch and Asteroid City are Master Anamorphics. Older films they did together like The Darjeeling Limited, The Life Aquatic, The Royal Tenenbaums, and Rushmore are Panavision. The 2.39 scenes in The Grand Budapest Hotel are Technovision. All of these movies were shot on film and everything from The Life Aquatic onward was a digital intermediate.</p>\n<p>It’s not quite as clean a comparison but you could also look at the recent Star Trek movies. Star Trek 2009 and Star Trek Into Darkness were shot on film with Panavision lenses by Dan Mindel, and then Star Trek Beyond was shot on digital with the Master Anamorphics by Stephen Windon.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A good comparison for the Master Anamorphics vs. older anamorphic lenses is Robert Yeoman’s work with Wes Anderson. The 2.39 scenes in The French Dispatch and Asteroid City are Master Anamorphics. Older films they did together like The Darjeeling Limited, The Life Aquatic, The Royal Tenenbaums, and Rushmore are Panavision. The 2.39 scenes in The Grand Budapest Hotel are Technovision. All of these movies were shot on film and everything from The Life Aquatic onward was a digital intermediate."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s not quite as clean a comparison but you could also look at the recent Star Trek movies. Star Trek 2009 and Star Trek Into Darkness were shot on film with Panavision lenses by Dan Mindel, and then Star Trek Beyond was shot on digital with the Master Anamorphics by Stephen Windon."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215102",
+    "scraped_at": "2026-01-15T15:23:21.464163+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215102",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "028dfb20a093a056e010c30d3283d0fe302b36764551c6bb7e18937f66e26151",
+    "parser_version": "bbpress-v2"
+  }
+}

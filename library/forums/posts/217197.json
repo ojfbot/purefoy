@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "217197",
+    "forum_slug": "forum",
+    "topic_slug": "the-human-face",
+    "parent_post_id": "217149",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "lukas_hyrman",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think it’s this experience of fighting at the margins to achieve something special that’s so interesting.  To me one of the most fun parts of the job/game is when the margins of error are small, when your resources are limited and you can only ‘just’ make a vision happen (but you can!).  The constraints of time and money push any production into this territory, no matter how fast the film speed, or efficient the lights are, how big a project.  Your story of lighting the basin in NCFOM is a good case in point.\nI think people like me are fascinated by the history because you all worked with such slimmer margins, that you had to hone all your skills of calculation and knowledge of the tools that much more.  (It is nice we don’t have to worry about melting an actor’s face off anymore)\nThat transition into using soft-light more generally seems like a concrete example of you guys doing the math each movie, and finding successively along the way that hey, we can now ‘just barely’ do this awesome thing, let’s do it.\nThank you again for sharing your thoughts",
+  "content_html": "<p>I think it’s this experience of fighting at the margins to achieve something special that’s so interesting.  To me one of the most fun parts of the job/game is when the margins of error are small, when your resources are limited and you can only ‘just’ make a vision happen (but you can!).  The constraints of time and money push any production into this territory, no matter how fast the film speed, or efficient the lights are, how big a project.  Your story of lighting the basin in NCFOM is a good case in point.</p>\n<p>I think people like me are fascinated by the history because you all worked with such slimmer margins, that you had to hone all your skills of calculation and knowledge of the tools that much more.  (It is nice we don’t have to worry about melting an actor’s face off anymore)<br/>\nThat transition into using soft-light more generally seems like a concrete example of you guys doing the math each movie, and finding successively along the way that hey, we can now ‘just barely’ do this awesome thing, let’s do it.</p>\n<p>Thank you again for sharing your thoughts</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think it’s this experience of fighting at the margins to achieve something special that’s so interesting.  To me one of the most fun parts of the job/game is when the margins of error are small, when your resources are limited and you can only ‘just’ make a vision happen (but you can!).  The constraints of time and money push any production into this territory, no matter how fast the film speed, or efficient the lights are, how big a project.  Your story of lighting the basin in NCFOM is a good case in point."
+    },
+    {
+      "type": "paragraph",
+      "text": "I think people like me are fascinated by the history because you all worked with such slimmer margins, that you had to hone all your skills of calculation and knowledge of the tools that much more.  (It is nice we don’t have to worry about melting an actor’s face off anymore)\nThat transition into using soft-light more generally seems like a concrete example of you guys doing the math each movie, and finding successively along the way that hey, we can now ‘just barely’ do this awesome thing, let’s do it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you again for sharing your thoughts"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-human-face/#post-217197",
+    "scraped_at": "2026-01-15T15:21:36.810929+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-human-face/#post-217197",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1e5e9fb81bf46a8d99564ef43ad1cca24b8d7f7837eeee2ea8d7ae57e8ed9d1a",
+    "parser_version": "bbpress-v2"
+  }
+}

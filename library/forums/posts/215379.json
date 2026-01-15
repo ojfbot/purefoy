@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215379",
+    "forum_slug": "camera",
+    "topic_slug": "in-camera-lens-corrections",
+    "parent_post_id": "215347",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "About the Chinese lenses. I agree, I did try few of them and even I have a full set of Meikes s35 and waiting for an anamorphic set to arrive that I recently bought.\nIMO Problem with them is not optics, I’m sure in a very short time glass quality will be there as it is already scratching top contenders. But manufacturing and quality control is still bad or basic. They have their place and I enjoy using them but a mass produced lens will never reach a certain level and a skilled optics technician will always set up a lens better than a machine. I may be wrong. We will see.",
+  "content_html": "<p>About the Chinese lenses. I agree, I did try few of them and even I have a full set of Meikes s35 and waiting for an anamorphic set to arrive that I recently bought.<br/>\nIMO Problem with them is not optics, I’m sure in a very short time glass quality will be there as it is already scratching top contenders. But manufacturing and quality control is still bad or basic. They have their place and I enjoy using them but a mass produced lens will never reach a certain level and a skilled optics technician will always set up a lens better than a machine. I may be wrong. We will see.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "About the Chinese lenses. I agree, I did try few of them and even I have a full set of Meikes s35 and waiting for an anamorphic set to arrive that I recently bought.\nIMO Problem with them is not optics, I’m sure in a very short time glass quality will be there as it is already scratching top contenders. But manufacturing and quality control is still bad or basic. They have their place and I enjoy using them but a mass produced lens will never reach a certain level and a skilled optics technician will always set up a lens better than a machine. I may be wrong. We will see."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/in-camera-lens-corrections/#post-216194",
+    "scraped_at": "2026-01-15T14:33:52.633591+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/in-camera-lens-corrections/#post-216194",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "35599c5ec007cd4672de46979d1f76d0428097731512716dbf328bc5da2f1516",
+    "parser_version": "bbpress-v2"
+  }
+}

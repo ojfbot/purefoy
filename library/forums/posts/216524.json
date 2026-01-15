@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "216524",
+    "forum_slug": "forum",
+    "topic_slug": "natural-lighting-continuity-when-a-subject-leave-the-main-light",
+    "parent_post_id": "216512",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you very much for your reply Mr. Deakins! It’s always fantastic for me read your words.\nIt’s interesting (and also a bit funny) how calm you are when you write “\nI probably raised the level of the overhead rig as it was important to see the character’s reaction at this moment\n“- I probably would swear to understand how I can bring a bit more light to the subject in a short amount of time and probably take the wrong decision to add a light from the ground and “destroy” the lighting world that is in the scene (starting also to fighting with cast shadow on the back wall).\nYour words really calm me down very much, as when a master gives you the “tips” to think better. I will try to bring with me this kind of “calm” when I’m in “trouble” as if you Mr. Deakins are standing by me and we talk each other to facing the tricky situation 😁 this can sound weird I know but I think that often is a matter of staying calm and thinking well, as the set often starts to become frenetic and unfortunately losing mental clarity is very easy (at least for me). Especially when so many people start talking about the shot.\nLuca, the short is not available yet because is in the editing process. Maybe when is ready I can give you the link to watch it. Maybe I can share the link in private cause I don’t want to appear as a “spammer” 😅.\nI often suffer from impostor syndrome, so I can’t share calmly when I do something, it seems like I want to show off, but actually, I accept criticism if it’s constructive much more than any compliment (to which I don’t really know how to respond). I warn you, however, that, as always, I am not fully satisfied with my work – I have often understood it to be a question of “reaction” as well as “preparation” and I am not always able to make the correct decision. After calmly at home I think I would have I could have done differently but… it’s too late then.",
+  "content_html": "<p>Thank you very much for your reply Mr. Deakins! It’s always fantastic for me read your words.</p>\n<p>It’s interesting (and also a bit funny) how calm you are when you write “<em>I probably raised the level of the overhead rig as it was important to see the character’s reaction at this moment</em>“- I probably would swear to understand how I can bring a bit more light to the subject in a short amount of time and probably take the wrong decision to add a light from the ground and “destroy” the lighting world that is in the scene (starting also to fighting with cast shadow on the back wall).</p>\n<p>Your words really calm me down very much, as when a master gives you the “tips” to think better. I will try to bring with me this kind of “calm” when I’m in “trouble” as if you Mr. Deakins are standing by me and we talk each other to facing the tricky situation 😁 this can sound weird I know but I think that often is a matter of staying calm and thinking well, as the set often starts to become frenetic and unfortunately losing mental clarity is very easy (at least for me). Especially when so many people start talking about the shot.</p>\n<p> </p>\n<p>Luca, the short is not available yet because is in the editing process. Maybe when is ready I can give you the link to watch it. Maybe I can share the link in private cause I don’t want to appear as a “spammer” 😅.<br/>\nI often suffer from impostor syndrome, so I can’t share calmly when I do something, it seems like I want to show off, but actually, I accept criticism if it’s constructive much more than any compliment (to which I don’t really know how to respond). I warn you, however, that, as always, I am not fully satisfied with my work – I have often understood it to be a question of “reaction” as well as “preparation” and I am not always able to make the correct decision. After calmly at home I think I would have I could have done differently but… it’s too late then.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you very much for your reply Mr. Deakins! It’s always fantastic for me read your words."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s interesting (and also a bit funny) how calm you are when you write “\nI probably raised the level of the overhead rig as it was important to see the character’s reaction at this moment\n“- I probably would swear to understand how I can bring a bit more light to the subject in a short amount of time and probably take the wrong decision to add a light from the ground and “destroy” the lighting world that is in the scene (starting also to fighting with cast shadow on the back wall)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your words really calm me down very much, as when a master gives you the “tips” to think better. I will try to bring with me this kind of “calm” when I’m in “trouble” as if you Mr. Deakins are standing by me and we talk each other to facing the tricky situation 😁 this can sound weird I know but I think that often is a matter of staying calm and thinking well, as the set often starts to become frenetic and unfortunately losing mental clarity is very easy (at least for me). Especially when so many people start talking about the shot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Luca, the short is not available yet because is in the editing process. Maybe when is ready I can give you the link to watch it. Maybe I can share the link in private cause I don’t want to appear as a “spammer” 😅.\nI often suffer from impostor syndrome, so I can’t share calmly when I do something, it seems like I want to show off, but actually, I accept criticism if it’s constructive much more than any compliment (to which I don’t really know how to respond). I warn you, however, that, as always, I am not fully satisfied with my work – I have often understood it to be a question of “reaction” as well as “preparation” and I am not always able to make the correct decision. After calmly at home I think I would have I could have done differently but… it’s too late then."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/natural-lighting-continuity-when-a-subject-leave-the-main-light/#post-216525",
+    "scraped_at": "2026-01-15T15:24:28.439429+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/natural-lighting-continuity-when-a-subject-leave-the-main-light/#post-216525",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1298293d49253cb04f2b49d98d13245720dc29dcadadfd79d3568f177132f73c",
+    "parser_version": "bbpress-v2"
+  }
+}

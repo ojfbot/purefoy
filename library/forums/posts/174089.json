@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "174089",
+    "forum_slug": "film-talk",
+    "topic_slug": "martin-scorsese"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Tyler F",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "<p style=”text-align: left;”>Roger,</p>\nI recall you mentioning ‘Kundun’ as one of your most memorable experiences in filmmaking. Perhaps both the people and story made that such a pleasant experience for you? I’m curious of how you much enjoyed working with Martin. Is there anything in particular to his process that differs from the other directors you’ve worked with? Lastly, would you have liked to work more with Scorsese considering the types of films he has done?\nThanks!",
+  "content_html": "<p>&lt;p style=”text-align: left;”&gt;Roger,&lt;/p&gt;<br/>\nI recall you mentioning ‘Kundun’ as one of your most memorable experiences in filmmaking. Perhaps both the people and story made that such a pleasant experience for you? I’m curious of how you much enjoyed working with Martin. Is there anything in particular to his process that differs from the other directors you’ve worked with? Lastly, would you have liked to work more with Scorsese considering the types of films he has done?</p>\n<p> </p>\n<p>Thanks!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "<p style=”text-align: left;”>Roger,</p>\nI recall you mentioning ‘Kundun’ as one of your most memorable experiences in filmmaking. Perhaps both the people and story made that such a pleasant experience for you? I’m curious of how you much enjoyed working with Martin. Is there anything in particular to his process that differs from the other directors you’ve worked with? Lastly, would you have liked to work more with Scorsese considering the types of films he has done?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/martin-scorsese/",
+    "scraped_at": "2026-01-15T14:33:40.172398+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/martin-scorsese/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e695289c62818f5c9741c3a0b4cd23b0af1ddfc54ac10943d3539ce1485a23dd",
+    "parser_version": "bbpress-v2"
+  }
+}

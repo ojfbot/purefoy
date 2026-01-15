@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216464",
+    "forum_slug": "post",
+    "topic_slug": "hazeltine-density-decision-method",
+    "parent_post_id": "216391",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It was a long time ago I last looked at a Hazeltine. I remember looking at the screen to judge the timing and I also remember a Synex strip. I might be spelling the word incorrectly (or have the wrong word entirely) but it was a ‘wedge’ of frames along a short strip of print film, each frame exposed to a different timing light.",
+  "content_html": "<p>It was a long time ago I last looked at a Hazeltine. I remember looking at the screen to judge the timing and I also remember a Synex strip. I might be spelling the word incorrectly (or have the wrong word entirely) but it was a ‘wedge’ of frames along a short strip of print film, each frame exposed to a different timing light.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "It was a long time ago I last looked at a Hazeltine. I remember looking at the screen to judge the timing and I also remember a Synex strip. I might be spelling the word incorrectly (or have the wrong word entirely) but it was a ‘wedge’ of frames along a short strip of print film, each frame exposed to a different timing light."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/hazeltine-density-decision-method/#post-216464",
+    "scraped_at": "2026-01-15T12:09:22.116558+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/hazeltine-density-decision-method/#post-216464",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0dbee045f2e05045d05c7114396a1ea668a8467e6a5d1345bb3c523357f05948",
+    "parser_version": "bbpress-v2"
+  }
+}

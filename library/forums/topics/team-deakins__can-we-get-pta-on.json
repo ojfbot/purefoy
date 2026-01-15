@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/can-we-get-pta-on/",
+  "forum_slug": "team-deakins",
+  "topic_slug": "can-we-get-pta-on",
+  "title": "Can we get PTA on?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "218166"
+  ],
+  "reply_tree": {
+    "post_id": "218166",
+    "post_type": "topic",
+    "author": "thomasvangool",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/can-we-get-pta-on/",
+    "scraped_at": "2026-01-15T12:48:46.571784+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/can-we-get-pta-on/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "03e98ca74246685f0a57cc345b56b33cc79fb75e19987213d73e9df622e3e3ed",
+    "parser_version": "bbpress-v2"
+  }
+}

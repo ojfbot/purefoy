@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "220449",
+    "forum_slug": "team-deakins",
+    "topic_slug": "reflections-new-book",
+    "parent_post_id": "217941",
+    "parent_type": "topic",
+    "position": 19
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "They are not and it’s a very nice thing. Only problem could be, for many readers, that since they must be shipped from US the shipping cost is quite high (to Italy it equals the cost of the book). So for many people it could be an alternative to order a regular (not signed) book directly available in their countries. And maybe wait for a local signing event! 😉  Also considering that the ASC, from what i understand, has a limited stock of signed books, which is perfectly normal.\nAs for me i asked the signed one to my wife as Christmas present, ah ah!",
+  "content_html": "<p>They are not and it’s a very nice thing. Only problem could be, for many readers, that since they must be shipped from US the shipping cost is quite high (to Italy it equals the cost of the book). So for many people it could be an alternative to order a regular (not signed) book directly available in their countries. And maybe wait for a local signing event! 😉  Also considering that the ASC, from what i understand, has a limited stock of signed books, which is perfectly normal.</p>\n<p>As for me i asked the signed one to my wife as Christmas present, ah ah!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "They are not and it’s a very nice thing. Only problem could be, for many readers, that since they must be shipped from US the shipping cost is quite high (to Italy it equals the cost of the book). So for many people it could be an alternative to order a regular (not signed) book directly available in their countries. And maybe wait for a local signing event! 😉  Also considering that the ASC, from what i understand, has a limited stock of signed books, which is perfectly normal."
+    },
+    {
+      "type": "paragraph",
+      "text": "As for me i asked the signed one to my wife as Christmas present, ah ah!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/2/",
+    "scraped_at": "2026-01-15T11:50:40.145072+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4337ea27a70e40f2c976214b9b24c3cf8d387294cfa6ad0d0ecdf44741db991f",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215888",
+    "forum_slug": "website-news",
+    "topic_slug": "happy-birthday-roger-2",
+    "parent_post_id": "215886",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Happy Birthday Mr. Deakins! I wish you all the best this world can give you! ❤\nYour talent and wisdom are pure gold for us.\nThank you for your infinite patience in answering my long questions 😁.\nI wish you a wonderful day.\nMax.",
+  "content_html": "<p>Happy Birthday Mr. Deakins! I wish you all the best this world can give you! ❤<br/>\nYour talent and wisdom are pure gold for us.<br/>\nThank you for your infinite patience in answering my long questions 😁.</p>\n<p>I wish you a wonderful day.<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Happy Birthday Mr. Deakins! I wish you all the best this world can give you! ❤\nYour talent and wisdom are pure gold for us.\nThank you for your infinite patience in answering my long questions 😁."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a wonderful day.\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-roger-2/#post-215890",
+    "scraped_at": "2026-01-15T12:09:20.684141+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-roger-2/#post-215890",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "448cdb11f7e00e7b64973706991e360031142c881f5d37656bece19a1f8721a7",
+    "parser_version": "bbpress-v2"
+  }
+}

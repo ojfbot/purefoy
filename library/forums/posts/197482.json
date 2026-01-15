@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "197482",
+    "forum_slug": "camera",
+    "topic_slug": "shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter",
+    "parent_post_id": "197364",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "So you’re suggesting shooting daylight under 3200k and correcting it in your NLE?\nWhite balance is gain in your B and G channels (dependent on filtration). In a typical Bayer CFA-type signal process, you amplify both red and blue channels dependent on the white balance; if you’re shooting at 3200k, a higher factor of gain is applied to the blue channel and so on and so forth.\nNote, this doesn’t happen in the analogue domain but after demosaicing, when shooting non-RAW type codecs like ProRes or DNx.\nAdjusting white balance in post is applying another level of gain to your R and B channels. I guess if you like the look, sure, but it’s an unnecessary level of gain and would lead to chromatic noise in some instances.\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>So you’re suggesting shooting daylight under 3200k and correcting it in your NLE?</p>\n<p>White balance is gain in your B and G channels (dependent on filtration). In a typical Bayer CFA-type signal process, you amplify both red and blue channels dependent on the white balance; if you’re shooting at 3200k, a higher factor of gain is applied to the blue channel and so on and so forth.</p>\n<p>Note, this doesn’t happen in the analogue domain but after demosaicing, when shooting non-RAW type codecs like ProRes or DNx.</p>\n<p>Adjusting white balance in post is applying another level of gain to your R and B channels. I guess if you like the look, sure, but it’s an unnecessary level of gain and would lead to chromatic noise in some instances.</p>\n<p> </p>\n<p> </p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "So you’re suggesting shooting daylight under 3200k and correcting it in your NLE?"
+    },
+    {
+      "type": "paragraph",
+      "text": "White balance is gain in your B and G channels (dependent on filtration). In a typical Bayer CFA-type signal process, you amplify both red and blue channels dependent on the white balance; if you’re shooting at 3200k, a higher factor of gain is applied to the blue channel and so on and so forth."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note, this doesn’t happen in the analogue domain but after demosaicing, when shooting non-RAW type codecs like ProRes or DNx."
+    },
+    {
+      "type": "paragraph",
+      "text": "Adjusting white balance in post is applying another level of gain to your R and B channels. I guess if you like the look, sure, but it’s an unnecessary level of gain and would lead to chromatic noise in some instances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter/#post-204122",
+    "scraped_at": "2026-01-15T15:42:19.933432+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter/#post-204122",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fc8d30260ba60f7eb8757019a557b21d783ccf7c9eb4465c81d2f7bf0e345ab6",
+    "parser_version": "bbpress-v2"
+  }
+}

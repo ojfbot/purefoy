@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214932",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-stephens-house",
+    "parent_post_id": "214923",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Max A,\nPosting pictures was immediate for me, sometimes there was a hesitation but most times it was immediate.  Can be very frustrating when it doesn’t go right.",
+  "content_html": "<p>Max A,</p>\n<p>Posting pictures was immediate for me, sometimes there was a hesitation but most times it was immediate.  Can be very frustrating when it doesn’t go right. </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Max A,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Posting pictures was immediate for me, sometimes there was a hesitation but most times it was immediate.  Can be very frustrating when it doesn’t go right."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-stephens-house/#post-214933",
+    "scraped_at": "2026-01-15T15:50:30.363660+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-stephens-house/#post-214933",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "85aa725a93247fc87119176059967d9de9ed05e98f1d7c14e1de474210297aec",
+    "parser_version": "bbpress-v2"
+  }
+}

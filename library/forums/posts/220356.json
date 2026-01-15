@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "220356",
+    "forum_slug": "forum",
+    "topic_slug": "unbleached-muslin-gram-weight-for-light-bouncing"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "cristvega",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi,\nI would like to know the weight of unbleached muslin that is commonly used to bounce light off it.\nIs lightweight muslin (around 100–130 gsm) or mediumweight muslin (130–200 gsm) usually used?\nOr are they both practically the same in terms of the light bounce they produce?\nThank you!",
+  "content_html": "<p>Hi,</p>\n<p>I would like to know the weight of unbleached muslin that is commonly used to bounce light off it.</p>\n<p>Is lightweight muslin (around 100–130 gsm) or mediumweight muslin (130–200 gsm) usually used?</p>\n<p>Or are they both practically the same in terms of the light bounce they produce?</p>\n<p>Thank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I would like to know the weight of unbleached muslin that is commonly used to bounce light off it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Is lightweight muslin (around 100–130 gsm) or mediumweight muslin (130–200 gsm) usually used?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Or are they both practically the same in terms of the light bounce they produce?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/unbleached-muslin-gram-weight-for-light-bouncing/",
+    "scraped_at": "2026-01-15T13:39:49.953400+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/unbleached-muslin-gram-weight-for-light-bouncing/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "43056e52f68a5bdbd37d9278a712809254e4be75cb7d3566f519ad02e5424076",
+    "parser_version": "bbpress-v2"
+  }
+}

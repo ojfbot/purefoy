@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/aerocrane-on-tracks-or/",
+  "forum_slug": "forum",
+  "topic_slug": "aerocrane-on-tracks-or",
+  "title": "Aerocrane on tracks or…",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216969"
+  ],
+  "reply_tree": {
+    "post_id": "216969",
+    "post_type": "topic",
+    "author": "simon m",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/aerocrane-on-tracks-or/",
+    "scraped_at": "2026-01-15T15:22:18.757519+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/aerocrane-on-tracks-or/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ac68d284acb90abc2c0d2ef13bd1ec387dadf67e2a4e22cc399e1784950be780",
+    "parser_version": "bbpress-v2"
+  }
+}

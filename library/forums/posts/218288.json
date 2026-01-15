@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "218288",
+    "forum_slug": "forum",
+    "topic_slug": "fargo-bluray-vs-4k-which-is-the-correct-exposure",
+    "parent_post_id": "218275",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Stills from 4K blu-rays can be misleading since if it is an HDR version, you can only simulate how they might look when viewing on an SDR monitor.\nDVDBeaver.com reviews of 4K discs always have this warning:\n“It is likely that the monitor you are seeing this review is not an HDR-compatible display (High Dynamic Range) or Dolby Vision, where each pixel can be assigned with a wider and notably granular range of color and light. Our capture software if simulating the HDR (in a uniform manner) for standard monitors. This should make it easier for us to review more 4K UHD titles in the future and give you a decent idea of its attributes on your system. So our captures may not support the exact same colors (coolness of skin tones, brighter or darker hues etc.) as the 4K system at your home.”",
+  "content_html": "<p>Stills from 4K blu-rays can be misleading since if it is an HDR version, you can only simulate how they might look when viewing on an SDR monitor.</p>\n<p>DVDBeaver.com reviews of 4K discs always have this warning:</p>\n<p>“It is likely that the monitor you are seeing this review is not an HDR-compatible display (High Dynamic Range) or Dolby Vision, where each pixel can be assigned with a wider and notably granular range of color and light. Our capture software if simulating the HDR (in a uniform manner) for standard monitors. This should make it easier for us to review more 4K UHD titles in the future and give you a decent idea of its attributes on your system. So our captures may not support the exact same colors (coolness of skin tones, brighter or darker hues etc.) as the 4K system at your home.”</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Stills from 4K blu-rays can be misleading since if it is an HDR version, you can only simulate how they might look when viewing on an SDR monitor."
+    },
+    {
+      "type": "paragraph",
+      "text": "DVDBeaver.com reviews of 4K discs always have this warning:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“It is likely that the monitor you are seeing this review is not an HDR-compatible display (High Dynamic Range) or Dolby Vision, where each pixel can be assigned with a wider and notably granular range of color and light. Our capture software if simulating the HDR (in a uniform manner) for standard monitors. This should make it easier for us to review more 4K UHD titles in the future and give you a decent idea of its attributes on your system. So our captures may not support the exact same colors (coolness of skin tones, brighter or darker hues etc.) as the 4K system at your home.”"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/fargo-bluray-vs-4k-which-is-the-correct-exposure/#post-218329",
+    "scraped_at": "2026-01-15T15:08:32.523460+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/fargo-bluray-vs-4k-which-is-the-correct-exposure/#post-218329",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1d862dfd7c974d2c53a6e9cf9b893cd11ca765049c34fdbb9ccfdadafc6d425a",
+    "parser_version": "bbpress-v2"
+  }
+}

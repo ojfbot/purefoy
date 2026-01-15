@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215456",
+    "forum_slug": "post",
+    "topic_slug": "semi-transparent-curtain-in-front-of-greenscreen",
+    "parent_post_id": "215437",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I worked for BBC Drama that’s studio and location work. It was common practice to project an image behind windows etc, otherwise a backdrop was either made or hired to suit the stage. Nowadays large printers can produce any backdrop, provide a plate or photo and they will print out for you, any size no problem. Try making your own backdrop and experiment with your lighting person to light to taste.",
+  "content_html": "<p>I worked for BBC Drama that’s studio and location work. It was common practice to project an image behind windows etc, otherwise a backdrop was either made or hired to suit the stage. Nowadays large printers can produce any backdrop, provide a plate or photo and they will print out for you, any size no problem. Try making your own backdrop and experiment with your lighting person to light to taste.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I worked for BBC Drama that’s studio and location work. It was common practice to project an image behind windows etc, otherwise a backdrop was either made or hired to suit the stage. Nowadays large printers can produce any backdrop, provide a plate or photo and they will print out for you, any size no problem. Try making your own backdrop and experiment with your lighting person to light to taste."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/semi-transparent-curtain-in-front-of-greenscreen/#post-215463",
+    "scraped_at": "2026-01-15T13:05:59.935855+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/semi-transparent-curtain-in-front-of-greenscreen/#post-215463",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4442f1e7f8988168f908c7c265cca991ddf143444548133f892562a4cf84e2d0",
+    "parser_version": "bbpress-v2"
+  }
+}

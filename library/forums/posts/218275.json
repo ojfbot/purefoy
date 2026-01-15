@@ -1,0 +1,60 @@
+{
+  "ids": {
+    "post_id": "218275",
+    "forum_slug": "forum",
+    "topic_slug": "fargo-bluray-vs-4k-which-is-the-correct-exposure"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "sanghamithran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Master Roger,\nI’d come across this different exposure stills online of fargo marked as bluray vs 4k which have a normal and brighter exposure correspondigly.\nhttps://drive.google.com/drive/folders/1u0GkOHwARHBxhixnXMDu6RBZAGE8TeFv?usp=sharing\ncould you please check the images in this link and let me know, which one is the correct exposure you intended.\nThank you.",
+  "content_html": "<p>Hi Master Roger,</p>\n<p>I’d come across this different exposure stills online of fargo marked as bluray vs 4k which have a normal and brighter exposure correspondigly.</p>\n<p><a href=\"https://drive.google.com/drive/folders/1u0GkOHwARHBxhixnXMDu6RBZAGE8TeFv?usp=sharing\" rel=\"nofollow\">https://drive.google.com/drive/folders/1u0GkOHwARHBxhixnXMDu6RBZAGE8TeFv?usp=sharing</a></p>\n<p>could you please check the images in this link and let me know, which one is the correct exposure you intended.</p>\n<p>Thank you.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Master Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’d come across this different exposure stills online of fargo marked as bluray vs 4k which have a normal and brighter exposure correspondigly."
+    },
+    {
+      "type": "paragraph",
+      "text": "https://drive.google.com/drive/folders/1u0GkOHwARHBxhixnXMDu6RBZAGE8TeFv?usp=sharing"
+    },
+    {
+      "type": "paragraph",
+      "text": "could you please check the images in this link and let me know, which one is the correct exposure you intended."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://drive.google.com/drive/folders/1u0GkOHwARHBxhixnXMDu6RBZAGE8TeFv?usp=sharing",
+      "text": "https://drive.google.com/drive/folders/1u0GkOHwARHBxhixnXMDu6RBZAGE8TeFv?usp=sharing",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/fargo-bluray-vs-4k-which-is-the-correct-exposure/#post-218329",
+    "scraped_at": "2026-01-15T15:08:32.523074+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/fargo-bluray-vs-4k-which-is-the-correct-exposure/#post-218329",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dc6adf8f6815a34e5e64063b5edd5e97cecd3613406a5d8683a3bbf38c0dbbc4",
+    "parser_version": "bbpress-v2"
+  }
+}

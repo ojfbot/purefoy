@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216519",
+    "forum_slug": "forum",
+    "topic_slug": "white-balance-warm-tungsten",
+    "parent_post_id": "216221",
+    "parent_type": "topic",
+    "position": 12
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "simon m",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "haha… that’s funny.\nFor the scene mentioned above in the hotel, and the scenes inside the ‘Regal Hotel’ did you film on location or in a studio? Could you say why that choice was made? I’m guessing adequate space for equipment and time management, but not sure.\nThank you!",
+  "content_html": "<p>haha… that’s funny.<br/>\nFor the scene mentioned above in the hotel, and the scenes inside the ‘Regal Hotel’ did you film on location or in a studio? Could you say why that choice was made? I’m guessing adequate space for equipment and time management, but not sure.<br/>\nThank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "haha… that’s funny.\nFor the scene mentioned above in the hotel, and the scenes inside the ‘Regal Hotel’ did you film on location or in a studio? Could you say why that choice was made? I’m guessing adequate space for equipment and time management, but not sure.\nThank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/",
+    "scraped_at": "2026-01-15T15:23:58.133991+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bb526f5b17a97728762b6d13eb983cb0e06a96fa2aeb1e27e4ba18bddfbfebbd",
+    "parser_version": "bbpress-v2"
+  }
+}

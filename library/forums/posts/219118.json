@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "219118",
+    "forum_slug": "forum",
+    "topic_slug": "blade-runner-eyeball",
+    "parent_post_id": "196026",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Sumarokov",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you, David, for your answer! I somehow didn’t think about the problem of light at short focal lengths, but now I will definitely choose long focal lengths.",
+  "content_html": "<p>Thank you, David, for your answer! I somehow didn’t think about the problem of light at short focal lengths, but now I will definitely choose long focal lengths.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you, David, for your answer! I somehow didn’t think about the problem of light at short focal lengths, but now I will definitely choose long focal lengths."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/blade-runner-eyeball/#post-219209",
+    "scraped_at": "2026-01-15T14:33:21.762922+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/blade-runner-eyeball/#post-219209",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5437a8ab13defaa766f525a7ca5142ff751f2c68e97a6144ebf5e4e6d5f91ccc",
+    "parser_version": "bbpress-v2"
+  }
+}

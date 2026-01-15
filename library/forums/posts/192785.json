@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "192785",
+    "forum_slug": "set-talk",
+    "topic_slug": "deaf-people-on-a-film-set",
+    "parent_post_id": "190760",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "M Ryan",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Fred, not Roger 🙂 just want to say it’s great to see you here – have you gone or thought about going to a film school? Do you make your own short films? Keep going – I worked with 2 people in a similar situation to yours in film schools and there was alot of support and encouragement from the industry here (Australia). It’s never too late!\nMichael",
+  "content_html": "<p>Hi Fred, not Roger 🙂 just want to say it’s great to see you here – have you gone or thought about going to a film school? Do you make your own short films? Keep going – I worked with 2 people in a similar situation to yours in film schools and there was alot of support and encouragement from the industry here (Australia). It’s never too late!</p>\n<p>Michael</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Fred, not Roger 🙂 just want to say it’s great to see you here – have you gone or thought about going to a film school? Do you make your own short films? Keep going – I worked with 2 people in a similar situation to yours in film schools and there was alot of support and encouragement from the industry here (Australia). It’s never too late!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/deaf-people-on-a-film-set/#post-192785",
+    "scraped_at": "2026-01-15T13:24:02.144131+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/deaf-people-on-a-film-set/#post-192785",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "71f77bcf001165e9623c09b272730400b6d377f29323985995f4bcc7eda24d02",
+    "parser_version": "bbpress-v2"
+  }
+}

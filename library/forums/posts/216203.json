@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "216203",
+    "forum_slug": "camera",
+    "topic_slug": "look-of-film-in-2024",
+    "parent_post_id": "216197",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "BHGoddard",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "As David mentioned, and I can only confirm with the first Dune film, they only used a 1 ASA internegative stock which could’ve only added a very subtle look/feel to the image, and I can understand why that would make one wonder if it was worth it.\nThat’s why I mentioned The Batman, because it seemed Greig Fraser leaned in more heavily to the process by actually creating a print from the negative generated, and if I’m not mistaken did a bleach-bypass on the print, which I can imagine is much more worthwhile for the cost.\nI’m sure you can get pretty close with print emulation LUTS and Live Grain, but where I’m intrigued by the film-out process is the renewed relevance of pushing/pulling and film development/printing techniques that are logarithmic in nature, which require a lot more hoops to jump through to try and replicate in software that is often-times linear in nature – I’m definitely generalizing at this point since grading software has become pretty nifty but I think in broad terms that is usually the discrepancy between the “look” of film vs. digital workflows that Ryan might be getting at.\nIf not, sorry for hijacking this thread!",
+  "content_html": "<p>As David mentioned, and I can only confirm with the first Dune film, they only used a 1 ASA internegative stock which could’ve only added a very subtle look/feel to the image, and I can understand why that would make one wonder if it was worth it.</p>\n<p>That’s why I mentioned The Batman, because it seemed Greig Fraser leaned in more heavily to the process by actually creating a print from the negative generated, and if I’m not mistaken did a bleach-bypass on the print, which I can imagine is much more worthwhile for the cost.</p>\n<p>I’m sure you can get pretty close with print emulation LUTS and Live Grain, but where I’m intrigued by the film-out process is the renewed relevance of pushing/pulling and film development/printing techniques that are logarithmic in nature, which require a lot more hoops to jump through to try and replicate in software that is often-times linear in nature – I’m definitely generalizing at this point since grading software has become pretty nifty but I think in broad terms that is usually the discrepancy between the “look” of film vs. digital workflows that Ryan might be getting at.</p>\n<p>If not, sorry for hijacking this thread!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "As David mentioned, and I can only confirm with the first Dune film, they only used a 1 ASA internegative stock which could’ve only added a very subtle look/feel to the image, and I can understand why that would make one wonder if it was worth it."
+    },
+    {
+      "type": "paragraph",
+      "text": "That’s why I mentioned The Batman, because it seemed Greig Fraser leaned in more heavily to the process by actually creating a print from the negative generated, and if I’m not mistaken did a bleach-bypass on the print, which I can imagine is much more worthwhile for the cost."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m sure you can get pretty close with print emulation LUTS and Live Grain, but where I’m intrigued by the film-out process is the renewed relevance of pushing/pulling and film development/printing techniques that are logarithmic in nature, which require a lot more hoops to jump through to try and replicate in software that is often-times linear in nature – I’m definitely generalizing at this point since grading software has become pretty nifty but I think in broad terms that is usually the discrepancy between the “look” of film vs. digital workflows that Ryan might be getting at."
+    },
+    {
+      "type": "paragraph",
+      "text": "If not, sorry for hijacking this thread!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+    "scraped_at": "2026-01-15T14:33:45.472641+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6c7162d04bf6dd1a0c1f40e15e2c126ffe4431498ae6a934291b44bcc2a9b7e7",
+    "parser_version": "bbpress-v2"
+  }
+}

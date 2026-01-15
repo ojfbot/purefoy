@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/last-thing-you-learned-about-teamwork/#post-220079",
+  "forum_slug": "set-talk",
+  "topic_slug": "last-thing-you-learned-about-teamwork",
+  "title": "Last thing you learned about teamwork",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217284",
+    "220079"
+  ],
+  "reply_tree": {
+    "post_id": "217284",
+    "post_type": "topic",
+    "author": "viktorenvall",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "220079",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/last-thing-you-learned-about-teamwork/#post-220079",
+    "scraped_at": "2026-01-15T11:50:38.426801+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/last-thing-you-learned-about-teamwork/#post-220079",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7bbd5efef9e86929950d42a05309c4045e6b30bc80657c8713a2fc1c335b57e2",
+    "parser_version": "bbpress-v2"
+  }
+}

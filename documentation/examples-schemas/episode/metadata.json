@@ -1,0 +1,38 @@
+{
+  "title": "SEASON 2 - EPISODE 176 - Guest Name - Topic Discussion",
+  "guid": "example-guid-12345",
+  "pubDate_raw": "Tue, 14 Jan 2026 08:00:00 +0000",
+  "pubDate_iso": "2026-01-14",
+  "itunes": {
+    "season": 2,
+    "episode": 176,
+    "episodeType": "full",
+    "duration_s": 5400,
+    "duration_display": "1:30:00",
+    "summary": "Episode summary text extracted from iTunes metadata...",
+    "keywords": ["cinematography", "lighting", "production design"],
+    "explicit": false
+  },
+  "rss_description": "Episode description from RSS feed...",
+  "rss_content_encoded": "Full episode notes with HTML formatting...",
+  "audio": {
+    "url": "https://example.com/audio.mp3",
+    "mime": "audio/mpeg",
+    "size_bytes": 123456789,
+    "bitrate_kbps": 128,
+    "sample_rate_hz": 44100,
+    "channels": 2,
+    "duration_s": 5400,
+    "format": "MP3"
+  },
+  "provenance": {
+    "rss_url": "https://rss.libsyn.com/shows/265448/destinations/2018942.xml",
+    "scraped_at": "2026-01-15T04:30:00.123456+00:00",
+    "script_version": "ingest-v2",
+    "source": "libsyn"
+  },
+  "integrity": {
+    "audio_sha256": "abc123...",
+    "metadata_version": "1.0"
+  }
+}

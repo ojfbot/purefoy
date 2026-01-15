@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "217930",
+    "forum_slug": "forum",
+    "topic_slug": "matching-2-shots-in-different-locations",
+    "parent_post_id": "217905",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If I may chime in, it feels like we would need more context to really weigh in on this. A few thoughts though in case it helps anyways. You mention they are both facing north, so if you are trying to use two locations to cut this dialogue scene then that wont have lighting continuity. If they are supposed to be facing each other talking, then one would face north and the other south,etc (but again maybe I need more context).\nYou could also consider only shooting into one corner of the room that has all the elements you want, with a 2 shot of both characters to establish they are together. Maybe don’t even go into close ups and keep the 2 shot. Or punch in really tight on each close-up, like just the eyes while they speak. That could be stylized.\nYou could also make it so that they are having a conversation on the phone. Then you can have 2 locations and not fight them to feel like the same room. Also a natural light shoot, indoors with no window sounds like a tough task!\nJust throwing some ideas to think about, without having context of your story",
+  "content_html": "<p>If I may chime in, it feels like we would need more context to really weigh in on this. A few thoughts though in case it helps anyways. You mention they are both facing north, so if you are trying to use two locations to cut this dialogue scene then that wont have lighting continuity. If they are supposed to be facing each other talking, then one would face north and the other south,etc (but again maybe I need more context).</p>\n<p>You could also consider only shooting into one corner of the room that has all the elements you want, with a 2 shot of both characters to establish they are together. Maybe don’t even go into close ups and keep the 2 shot. Or punch in really tight on each close-up, like just the eyes while they speak. That could be stylized.</p>\n<p>You could also make it so that they are having a conversation on the phone. Then you can have 2 locations and not fight them to feel like the same room. Also a natural light shoot, indoors with no window sounds like a tough task!</p>\n<p>Just throwing some ideas to think about, without having context of your story</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If I may chime in, it feels like we would need more context to really weigh in on this. A few thoughts though in case it helps anyways. You mention they are both facing north, so if you are trying to use two locations to cut this dialogue scene then that wont have lighting continuity. If they are supposed to be facing each other talking, then one would face north and the other south,etc (but again maybe I need more context)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You could also consider only shooting into one corner of the room that has all the elements you want, with a 2 shot of both characters to establish they are together. Maybe don’t even go into close ups and keep the 2 shot. Or punch in really tight on each close-up, like just the eyes while they speak. That could be stylized."
+    },
+    {
+      "type": "paragraph",
+      "text": "You could also make it so that they are having a conversation on the phone. Then you can have 2 locations and not fight them to feel like the same room. Also a natural light shoot, indoors with no window sounds like a tough task!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just throwing some ideas to think about, without having context of your story"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/matching-2-shots-in-different-locations/#post-218126",
+    "scraped_at": "2026-01-15T15:18:14.885249+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/matching-2-shots-in-different-locations/#post-218126",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7a8cc7951855a712a2a39c099457e01379dff85b3967d29011555df53a4be6b1",
+    "parser_version": "bbpress-v2"
+  }
+}

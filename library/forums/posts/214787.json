@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214787",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 27
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Laurent",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you!\nDo you have a special preference for soft lighting for the actors? HDR doesn’t make it any easier. Do you have any favorite foils or camera filters that you prefer to work with?",
+  "content_html": "<p>Thank you!<br/>\nDo you have a special preference for soft lighting for the actors? HDR doesn’t make it any easier. Do you have any favorite foils or camera filters that you prefer to work with?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you!\nDo you have a special preference for soft lighting for the actors? HDR doesn’t make it any easier. Do you have any favorite foils or camera filters that you prefer to work with?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+    "scraped_at": "2026-01-15T15:51:27.816097+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "77f7a328a1c2c91818490fe3f96fb5a39b49ca50019e7baa6b216b882c13f5de",
+    "parser_version": "bbpress-v2"
+  }
+}

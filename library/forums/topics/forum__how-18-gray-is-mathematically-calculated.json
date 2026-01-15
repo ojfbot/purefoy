@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/how-18-gray-is-mathematically-calculated/#post-216134",
+  "forum_slug": "forum",
+  "topic_slug": "how-18-gray-is-mathematically-calculated",
+  "title": "how 18% gray is mathematically calculated?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216127",
+    "216133",
+    "216134"
+  ],
+  "reply_tree": {
+    "post_id": "216127",
+    "post_type": "topic",
+    "author": "r.k.Logeshwaran",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216133",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216134",
+        "post_type": "reply",
+        "author": "gabj3",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-18-gray-is-mathematically-calculated/#post-216134",
+    "scraped_at": "2026-01-15T15:26:10.535467+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-18-gray-is-mathematically-calculated/#post-216134",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "13662af4e9f379377a09ece1947520b7ac7d025b5a998482c300f54200866b82",
+    "parser_version": "bbpress-v2"
+  }
+}

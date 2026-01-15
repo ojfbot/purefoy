@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "215260",
+    "forum_slug": "forum",
+    "topic_slug": "light-strenght"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "BlacksheepPictures",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I just don’t get this simple thing,\nplease help!\nI work by eye and do not use a lightmeter. Let’s say i have a Keylight and a Backlight LED Tube which can be go up to 100%, how do i know how bright i shout turn it? using my eyes?",
+  "content_html": "<p>I just don’t get this simple thing, <strong>please help!</strong> I work by eye and do not use a lightmeter. Let’s say i have a Keylight and a Backlight LED Tube which can be go up to 100%, how do i know how bright i shout turn it? using my eyes?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I just don’t get this simple thing,\nplease help!\nI work by eye and do not use a lightmeter. Let’s say i have a Keylight and a Backlight LED Tube which can be go up to 100%, how do i know how bright i shout turn it? using my eyes?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/light-strenght/#post-215320",
+    "scraped_at": "2026-01-15T15:47:39.491925+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/light-strenght/#post-215320",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5228d03e5b0a954a31d0e10d23d1730a83669b54177d58aa39f56d30e0b85826",
+    "parser_version": "bbpress-v2"
+  }
+}

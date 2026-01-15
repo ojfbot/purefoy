@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "post_id": "216588",
+    "forum_slug": "camera",
+    "topic_slug": "directing-effect-of-133-43-ratio",
+    "parent_post_id": "215637",
+    "parent_type": "topic",
+    "position": 15
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Joshualawhorn",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Wow! I never thought you’d reply. It’s truly an honor Sir Deakins.\nSam Peckinpah and Sergio Leone are the pinnacle of storytelling and I can’t justify my statement as it relates to them or any other director of a higher stature than myself.\nYou are absolutely right. I don’t think Lawrence of Arabia would have been as spectacular in 1:37.\nI should have been more specific in my initial statement. I’m a big fan of the silent era and early Akira Kurosawa (all Kurosawa really). His blocking is second to none. Having said that he (as well as many others) have great blocking in 1:85 or 2:39 as well.\nThe story dictates the aspect ratio.\nAt this point in my professional life, I just really prefer the limited screen space 1:37 gives you. I love the claustrophobia of it.\nThank you for your response and your time.",
+  "content_html": "<p>Wow! I never thought you’d reply. It’s truly an honor Sir Deakins.</p>\n<p>Sam Peckinpah and Sergio Leone are the pinnacle of storytelling and I can’t justify my statement as it relates to them or any other director of a higher stature than myself.</p>\n<p>You are absolutely right. I don’t think Lawrence of Arabia would have been as spectacular in 1:37.</p>\n<p>I should have been more specific in my initial statement. I’m a big fan of the silent era and early Akira Kurosawa (all Kurosawa really). His blocking is second to none. Having said that he (as well as many others) have great blocking in 1:85 or 2:39 as well.</p>\n<p>The story dictates the aspect ratio.</p>\n<p>At this point in my professional life, I just really prefer the limited screen space 1:37 gives you. I love the claustrophobia of it.</p>\n<p>Thank you for your response and your time.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Wow! I never thought you’d reply. It’s truly an honor Sir Deakins."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sam Peckinpah and Sergio Leone are the pinnacle of storytelling and I can’t justify my statement as it relates to them or any other director of a higher stature than myself."
+    },
+    {
+      "type": "paragraph",
+      "text": "You are absolutely right. I don’t think Lawrence of Arabia would have been as spectacular in 1:37."
+    },
+    {
+      "type": "paragraph",
+      "text": "I should have been more specific in my initial statement. I’m a big fan of the silent era and early Akira Kurosawa (all Kurosawa really). His blocking is second to none. Having said that he (as well as many others) have great blocking in 1:85 or 2:39 as well."
+    },
+    {
+      "type": "paragraph",
+      "text": "The story dictates the aspect ratio."
+    },
+    {
+      "type": "paragraph",
+      "text": "At this point in my professional life, I just really prefer the limited screen space 1:37 gives you. I love the claustrophobia of it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for your response and your time."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+    "scraped_at": "2026-01-15T13:56:37.697948+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c4aeddaa1c2553cbe00d595c1da9a51ece788206b375ad4b0c62f56ad11f6265",
+    "parser_version": "bbpress-v2"
+  }
+}

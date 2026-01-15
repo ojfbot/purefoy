@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215722",
+    "forum_slug": "forum",
+    "topic_slug": "brightness-decisions",
+    "parent_post_id": "215712",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Valou",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello !\nPerhaps you’re already aware, but I’d recommend checking out the ‘Photometrics’ app by Arri and ‘Sidus Link’ by Aputure. These applications can be incredibly helpful as they provide detailed information on lux levels and power output for their respective lights, based on varying distances.\nHope that can help you 🙂",
+  "content_html": "<p>Hello !</p>\n<p>Perhaps you’re already aware, but I’d recommend checking out the ‘Photometrics’ app by Arri and ‘Sidus Link’ by Aputure. These applications can be incredibly helpful as they provide detailed information on lux levels and power output for their respective lights, based on varying distances.</p>\n<p>Hope that can help you 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello !"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perhaps you’re already aware, but I’d recommend checking out the ‘Photometrics’ app by Arri and ‘Sidus Link’ by Aputure. These applications can be incredibly helpful as they provide detailed information on lux levels and power output for their respective lights, based on varying distances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope that can help you 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/brightness-decisions/#post-215728",
+    "scraped_at": "2026-01-15T15:45:03.257484+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/brightness-decisions/#post-215728",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c641b5524759bae6d94f6ac3d608292d869c1903367e5feb3ab5758521a9dcc5",
+    "parser_version": "bbpress-v2"
+  }
+}

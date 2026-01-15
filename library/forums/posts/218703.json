@@ -1,0 +1,51 @@
+{
+  "ids": {
+    "post_id": "218703",
+    "forum_slug": "camera",
+    "topic_slug": "barrel-distortion",
+    "parent_post_id": "218663",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think you answered your own question — are there people on the edge of frame or architecture? If architecture, then barrel distortion will be more distracting than rectilinear correction. If people, the opposite may be true.\nI made a post on Instagram about this yesterday because I couldn’t put images here, about the two types of extreme wide-angle lenses used on “2001”, a 28mm Cooke (14mm equivalent in Super-35) which was rectilinear and a 14mm-ish Fairchild-Curtis 160º (7mm equivalent in Super-35) which was very barrel distorted.",
+  "content_html": "<p>I think you answered your own question — are there people on the edge of frame or architecture? If architecture, then barrel distortion will be more distracting than rectilinear correction. If people, the opposite may be true.</p>\n<p>I made a post on Instagram about this yesterday because I couldn’t put images here, about the two types of extreme wide-angle lenses used on “2001”, a 28mm Cooke (14mm equivalent in Super-35) which was rectilinear and a 14mm-ish Fairchild-Curtis 160º (7mm equivalent in Super-35) which was very barrel distorted.</p>\n<p><img alt=\"\" class=\"\" decoding=\"async\" src=\"\tThere has been a critical error on this website.Learn more about troubleshooting WordPress.\t\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think you answered your own question — are there people on the edge of frame or architecture? If architecture, then barrel distortion will be more distracting than rectilinear correction. If people, the opposite may be true."
+    },
+    {
+      "type": "paragraph",
+      "text": "I made a post on Instagram about this yesterday because I couldn’t put images here, about the two types of extreme wide-angle lenses used on “2001”, a 28mm Cooke (14mm equivalent in Super-35) which was rectilinear and a 14mm-ish Fairchild-Curtis 160º (7mm equivalent in Super-35) which was very barrel distorted."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://rogerdeakins.com/There has been a critical error on this website.Learn more about troubleshooting WordPress.",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/barrel-distortion/#post-220507",
+    "scraped_at": "2026-01-15T12:09:13.385444+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/barrel-distortion/#post-220507",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "10ed6a55d167bfe4c33ccfd0ed855201adcf51050a5cff4e5d693e5235613048",
+    "parser_version": "bbpress-v2"
+  }
+}

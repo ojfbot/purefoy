@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215008",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-dusk-dialogue",
+    "parent_post_id": "214963",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger,\nRef the firework scene. Did the fireworks have a shorter fuse to explode above the cinema. Also how did you meter this scene.  Assume there was no CG involved and everything was in cameras. Also how many takes did you do to get right.\nAlso the scene with Ron eating chips and miss Coleman stepping in to save the day, how many takes did that take. As always thankyou.\nAl",
+  "content_html": "<p>Roger,</p>\n<p>Ref the firework scene. Did the fireworks have a shorter fuse to explode above the cinema. Also how did you meter this scene.  Assume there was no CG involved and everything was in cameras. Also how many takes did you do to get right.</p>\n<p>Also the scene with Ron eating chips and miss Coleman stepping in to save the day, how many takes did that take. As always thankyou.<br/>\nAl</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ref the firework scene. Did the fireworks have a shorter fuse to explode above the cinema. Also how did you meter this scene.  Assume there was no CG involved and everything was in cameras. Also how many takes did you do to get right."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also the scene with Ron eating chips and miss Coleman stepping in to save the day, how many takes did that take. As always thankyou.\nAl"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-dusk-dialogue/#post-215015",
+    "scraped_at": "2026-01-15T15:49:45.578364+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-dusk-dialogue/#post-215015",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a0dbee1d60a4ac9c107714c782719a086fdd06d9163887512ad6cab2906644f1",
+    "parser_version": "bbpress-v2"
+  }
+}

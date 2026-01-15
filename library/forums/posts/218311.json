@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "218311",
+    "forum_slug": "camera",
+    "topic_slug": "how-do-i-start-learning-cinematography-with-just-a-phone",
+    "parent_post_id": "218302",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Did you consider still photography then (unless you have experience with It yet). Even if cinema and photography have of course different approaches and different goals, some of the concepts (exposure, framing, depth of field, etc etc) are more or less the same. Roger published first a still photography book and then an (upcoming) cinematography book, after all.\nAnother approach to exercise could be to shot just environments and objects like establishing shots or details of an imaginary scene. A shot of a wood for an horror or a comedy are different. A detail of a diary could be a plot twist in a thriller or a melancholic moment in a romantic movie.",
+  "content_html": "<p>Did you consider still photography then (unless you have experience with It yet). Even if cinema and photography have of course different approaches and different goals, some of the concepts (exposure, framing, depth of field, etc etc) are more or less the same. Roger published first a still photography book and then an (upcoming) cinematography book, after all.</p>\n<p>Another approach to exercise could be to shot just environments and objects like establishing shots or details of an imaginary scene. A shot of a wood for an horror or a comedy are different. A detail of a diary could be a plot twist in a thriller or a melancholic moment in a romantic movie.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Did you consider still photography then (unless you have experience with It yet). Even if cinema and photography have of course different approaches and different goals, some of the concepts (exposure, framing, depth of field, etc etc) are more or less the same. Roger published first a still photography book and then an (upcoming) cinematography book, after all."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another approach to exercise could be to shot just environments and objects like establishing shots or details of an imaginary scene. A shot of a wood for an horror or a comedy are different. A detail of a diary could be a plot twist in a thriller or a melancholic moment in a romantic movie."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-do-i-start-learning-cinematography-with-just-a-phone/#post-218401",
+    "scraped_at": "2026-01-15T12:48:50.978499+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-do-i-start-learning-cinematography-with-just-a-phone/#post-218401",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "80aa97491f59ce9dc9d1d13dc8494a3c8fd4f2e59eba292d7517340599f43026",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "post_id": "215172",
+    "forum_slug": "forum",
+    "topic_slug": "br2049-green-tint-outside"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mr. Deakins and all the cinematographers over this fantastic forum.\nFirst of all, I hope you Mr. Deakins, and Mrs. James are doing well.\nI would like to ask you, if it is possible, a question about the slightly green shift/tint in the highlights of BR2049.\nRecently, a YouTube channel (that is also a website with tools and resources for filmmaking) “Studio Binder”, made a post with some BTS of BR2049 pairing with the “final screen scene”, In three of them (I attach screenshots below) my curiosity goes for the slightly green tint that the final image has compared with the BTS footage (I love the final “organic” tint that the scenes have that gives a “dirty” mood in my opinion to the “world” where the story take place).\nSince the action area of the examples is outside with cloudy and natural light, I suppose that the final “look” and color rendition is a result of your choice in the DI or, in any case, a result of the look nuances baked in the LUT for the movie.\nSo I would like to ask you, why you preferred that color shift and what was your thoughts behind the color manipulation.\nFinally, my consideration which is worth little or nothing, is that the organic feel that the final image has is outstanding. The dynamic range, the colors, the beauty and the tonality in the highlights ( I can continue for a long.. LOL 😂)\nAs always I want to thank you for your availability and for your time Mr. Deakins and apologize for my bad English.\nYou and your forum changed my life, really.\nI wish you a peaceful day,\nMax.",
+  "content_html": "<p>Hello Mr. Deakins and all the cinematographers over this fantastic forum.<br/>\nFirst of all, I hope you Mr. Deakins, and Mrs. James are doing well.</p>\n<p>I would like to ask you, if it is possible, a question about the slightly green shift/tint in the highlights of BR2049.<br/>\nRecently, a YouTube channel (that is also a website with tools and resources for filmmaking) “Studio Binder”, made a post with some BTS of BR2049 pairing with the “final screen scene”, In three of them (I attach screenshots below) my curiosity goes for the slightly green tint that the final image has compared with the BTS footage (I love the final “organic” tint that the scenes have that gives a “dirty” mood in my opinion to the “world” where the story take place).<br/>\nSince the action area of the examples is outside with cloudy and natural light, I suppose that the final “look” and color rendition is a result of your choice in the DI or, in any case, a result of the look nuances baked in the LUT for the movie.</p>\n<p>So I would like to ask you, why you preferred that color shift and what was your thoughts behind the color manipulation.</p>\n<p>Finally, my consideration which is worth little or nothing, is that the organic feel that the final image has is outstanding. The dynamic range, the colors, the beauty and the tonality in the highlights ( I can continue for a long.. LOL 😂)</p>\n<p>As always I want to thank you for your availability and for your time Mr. Deakins and apologize for my bad English.<br/>\nYou and your forum changed my life, really.</p>\n<p>I wish you a peaceful day,<br/>\nMax.</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215172/w9hiqn4woj9cmfb68e5uh3ue3fetukq5.jpg\" width=\"600\"/></p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215172/lfx53w1kgnew368nwai1240swi2x40f4.jpg\" width=\"600\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mr. Deakins and all the cinematographers over this fantastic forum.\nFirst of all, I hope you Mr. Deakins, and Mrs. James are doing well."
+    },
+    {
+      "type": "paragraph",
+      "text": "I would like to ask you, if it is possible, a question about the slightly green shift/tint in the highlights of BR2049.\nRecently, a YouTube channel (that is also a website with tools and resources for filmmaking) “Studio Binder”, made a post with some BTS of BR2049 pairing with the “final screen scene”, In three of them (I attach screenshots below) my curiosity goes for the slightly green tint that the final image has compared with the BTS footage (I love the final “organic” tint that the scenes have that gives a “dirty” mood in my opinion to the “world” where the story take place).\nSince the action area of the examples is outside with cloudy and natural light, I suppose that the final “look” and color rendition is a result of your choice in the DI or, in any case, a result of the look nuances baked in the LUT for the movie."
+    },
+    {
+      "type": "paragraph",
+      "text": "So I would like to ask you, why you preferred that color shift and what was your thoughts behind the color manipulation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, my consideration which is worth little or nothing, is that the organic feel that the final image has is outstanding. The dynamic range, the colors, the beauty and the tonality in the highlights ( I can continue for a long.. LOL 😂)"
+    },
+    {
+      "type": "paragraph",
+      "text": "As always I want to thank you for your availability and for your time Mr. Deakins and apologize for my bad English.\nYou and your forum changed my life, really."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful day,\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215172/w9hiqn4woj9cmfb68e5uh3ue3fetukq5.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215172/lfx53w1kgnew368nwai1240swi2x40f4.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/br2049-green-tint-outside/#post-215207",
+    "scraped_at": "2026-01-15T15:48:17.813416+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/br2049-green-tint-outside/#post-215207",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "93124b833ef89ff27c6b8a2372f967fbeb851c7cfb4165439e68e6ffc6195a27",
+    "parser_version": "bbpress-v2"
+  }
+}

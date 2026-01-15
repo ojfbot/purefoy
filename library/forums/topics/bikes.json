@@ -1,0 +1,40 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/bikes/",
+  "topic_slug": "bikes",
+  "title": "Bikes",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220914",
+    "220926"
+  ],
+  "reply_tree": {
+    "post_id": "220914",
+    "post_type": "topic",
+    "author": "Connor",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "220926",
+        "post_type": "reply",
+        "author": "drewvalenti",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bikes/",
+    "scraped_at": "2026-01-15T11:13:35.913760+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bikes/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5ca2d8c71673e1955e9c671c676a0732aa3fda2824bbe357561349881904b0e4",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/unmotivated-camera-movements/#post-214734",
+  "forum_slug": "camera",
+  "topic_slug": "unmotivated-camera-movements",
+  "title": "Unmotivated camera movements",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214710",
+    "214734"
+  ],
+  "reply_tree": {
+    "post_id": "214710",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214734",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/unmotivated-camera-movements/#post-214734",
+    "scraped_at": "2026-01-15T15:25:34.284509+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/unmotivated-camera-movements/#post-214734",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e340657b77d1f336781cb811835543e9f06a9f116e363e61138e3140cf25044f",
+    "parser_version": "bbpress-v2"
+  }
+}

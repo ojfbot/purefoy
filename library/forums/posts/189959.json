@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "189959",
+    "forum_slug": "camera",
+    "topic_slug": "ncfom-hotel-scene",
+    "parent_post_id": "189948",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "At that point in the conversation the scene becomes about the two characters and the phone. I think the wide over towards Anton portrays the pressure on Carson.",
+  "content_html": "<p>At that point in the conversation the scene becomes about the two characters and the phone. I think the wide over towards Anton portrays the pressure on Carson.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "At that point in the conversation the scene becomes about the two characters and the phone. I think the wide over towards Anton portrays the pressure on Carson."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ncfom-hotel-scene/#post-189959",
+    "scraped_at": "2026-01-15T15:43:13.684118+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ncfom-hotel-scene/#post-189959",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4c4b04c1bc514c3ae32833f23753ee09ee0c0166d07ccb79e403eb8732ae65ef",
+    "parser_version": "bbpress-v2"
+  }
+}

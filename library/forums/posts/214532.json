@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214532",
+    "forum_slug": "camera",
+    "topic_slug": "full-frame-digital",
+    "parent_post_id": "214515",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I didn’t mention wider lenses have less aberration. It’s the contrary actually.\nAnd this has nothing to do with sensor or film sizes. (Sort of).\nIt’s quite complex issue and I don’t know much of it, so someone maybe can jump in. The mm of a lens is the actual distance between lens focal point to the sensor right? So the shorter this distance the more complex and big design a lens needs to be related to its sensor/film coverage.\nUsually if you take any lens series from any manufacturer out there the telephoto lenses are the higher quality ones (in terms of resolving power, aberrations free, vignetting…). Because it’s easier to create a perfect 85mm than a 27mm. But if all you use/rent are master primes or signature this don’t matter much tbh.\nBut again. I’m not advocating for perfection or anything. Actually I tend to not use many telephoto lenses myself.\nRegarding noise. It depends greatly which cameras are you comparing and what formats, what ISOs are you using. But in general terms to me, bigger sensors have less noise even if you need higher ISOs.",
+  "content_html": "<p>I didn’t mention wider lenses have less aberration. It’s the contrary actually.<br/>\nAnd this has nothing to do with sensor or film sizes. (Sort of).</p>\n<p>It’s quite complex issue and I don’t know much of it, so someone maybe can jump in. The mm of a lens is the actual distance between lens focal point to the sensor right? So the shorter this distance the more complex and big design a lens needs to be related to its sensor/film coverage.<br/>\nUsually if you take any lens series from any manufacturer out there the telephoto lenses are the higher quality ones (in terms of resolving power, aberrations free, vignetting…). Because it’s easier to create a perfect 85mm than a 27mm. But if all you use/rent are master primes or signature this don’t matter much tbh.<br/>\nBut again. I’m not advocating for perfection or anything. Actually I tend to not use many telephoto lenses myself.<br/>\nRegarding noise. It depends greatly which cameras are you comparing and what formats, what ISOs are you using. But in general terms to me, bigger sensors have less noise even if you need higher ISOs.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I didn’t mention wider lenses have less aberration. It’s the contrary actually.\nAnd this has nothing to do with sensor or film sizes. (Sort of)."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s quite complex issue and I don’t know much of it, so someone maybe can jump in. The mm of a lens is the actual distance between lens focal point to the sensor right? So the shorter this distance the more complex and big design a lens needs to be related to its sensor/film coverage.\nUsually if you take any lens series from any manufacturer out there the telephoto lenses are the higher quality ones (in terms of resolving power, aberrations free, vignetting…). Because it’s easier to create a perfect 85mm than a 27mm. But if all you use/rent are master primes or signature this don’t matter much tbh.\nBut again. I’m not advocating for perfection or anything. Actually I tend to not use many telephoto lenses myself.\nRegarding noise. It depends greatly which cameras are you comparing and what formats, what ISOs are you using. But in general terms to me, bigger sensors have less noise even if you need higher ISOs."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/full-frame-digital/#post-214545",
+    "scraped_at": "2026-01-15T15:25:49.128007+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/full-frame-digital/#post-214545",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4d3d3a731c7cad2bbf44189efd72f9270732c95bc48cb20b7df4ee7db48387d2",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "post_id": "215808",
+    "forum_slug": "camera",
+    "topic_slug": "roger-interview-in-barcelona"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger and James how are you. I just watched your wonderful short interview in Instagram. I was trying to get full interview link but I couldn’t. Where to find your Amazing interview full link. Here I have attached that link.\nhttps://www.instagram.com/reel/C6HPq2squ5B/?igsh=M3B5d251bWY1ejgy",
+  "content_html": "<p>Dear master Roger and James how are you. I just watched your wonderful short interview in Instagram. I was trying to get full interview link but I couldn’t. Where to find your Amazing interview full link. Here I have attached that link.      <a href=\"https://www.instagram.com/reel/C6HPq2squ5B/?igsh=M3B5d251bWY1ejgy\" rel=\"nofollow\">https://www.instagram.com/reel/C6HPq2squ5B/?igsh=M3B5d251bWY1ejgy</a></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger and James how are you. I just watched your wonderful short interview in Instagram. I was trying to get full interview link but I couldn’t. Where to find your Amazing interview full link. Here I have attached that link.\nhttps://www.instagram.com/reel/C6HPq2squ5B/?igsh=M3B5d251bWY1ejgy"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.instagram.com/reel/C6HPq2squ5B/?igsh=M3B5d251bWY1ejgy",
+      "text": "https://www.instagram.com/reel/C6HPq2squ5B/?igsh=M3B5d251bWY1ejgy",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/roger-interview-in-barcelona/#post-215809",
+    "scraped_at": "2026-01-15T15:20:39.155205+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/roger-interview-in-barcelona/#post-215809",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b0049c495998965f41f68a466859e10ae8986d92459217313f928d852ce0d184",
+    "parser_version": "bbpress-v2"
+  }
+}

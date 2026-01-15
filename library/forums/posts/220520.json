@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "220520",
+    "forum_slug": "forum",
+    "topic_slug": "colour-and-skin-tone-question",
+    "parent_post_id": "220369",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Most of them have magnets on the back, you could try and attach a thin metal to them to slide behind the mirror and see if it holds. These tubes can be quite lightweight, especially the cheaper ones.\nOnce the light is on it might not look much different to a regular fluorescent tube light, depending on the model’s design and light intensity probably.",
+  "content_html": "<p>Most of them have magnets on the back, you could try and attach a thin metal to them to slide behind the mirror and see if it holds. These tubes can be quite lightweight, especially the cheaper ones.</p>\n<p>Once the light is on it might not look much different to a regular fluorescent tube light, depending on the model’s design and light intensity probably.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Most of them have magnets on the back, you could try and attach a thin metal to them to slide behind the mirror and see if it holds. These tubes can be quite lightweight, especially the cheaper ones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once the light is on it might not look much different to a regular fluorescent tube light, depending on the model’s design and light intensity probably."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/colour-and-skin-tone-question/#post-220527",
+    "scraped_at": "2026-01-15T13:23:40.797213+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/colour-and-skin-tone-question/#post-220527",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4bbf0864216f4ef6fb09a55638c0430c44cace4f6a40d33de2e238ed84d4e2ef",
+    "parser_version": "bbpress-v2"
+  }
+}

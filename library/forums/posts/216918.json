@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "post_id": "216918",
+    "forum_slug": "forum",
+    "topic_slug": "light-density"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Dmitriy.Nedria",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Sir Roger,\nI wanted to start a discussion here about light density, following your conversation with Greig Fraser regarding LED screens. You’ve mentioned something about light density before, and I’d love to hear your thoughts on this topic.\nPersonally, I’ve never been a huge fan of LED screens. I’ve always found it difficult to get satisfying results with them, especially for daytime scenes. For night scenes, it might work in some cases. It also feels like the industry is pushing LED screen technology simply because so much money has already been invested in it.\nRecently, I came across behind-the-scenes images from Disclaimer, the series shot by Emmanuel Lubezki. There was a driving sequence with Cate Blanchett in a double-decker bus in London, and I was convinced it was shot practically—it looked so real. But after seeing the BTS, it seems Chivo used a poor man process instead of LED screens, which is quite different from what most DPs are doing today.\nThis approach feels both old-school and new-school at the same time. While LEDs allow you to cue lights, move them around, and change colors dynamically, the reflections in windows can be added in post. Given that producers increasingly want to save money by shooting on stage rather than practically, I’d love to hear your thoughts on this.\nHow do you see the role of poor man process techniques in modern filmmaking, particularly for driving sequences?\nThank you very much!\nhttps://www.instagram.com/p/DE4tpywCHZQ/?hl=en&img_index=1",
+  "content_html": "<p>Hi Sir Roger,</p>\n<p> </p>\n<p>I wanted to start a discussion here about light density, following your conversation with Greig Fraser regarding LED screens. You’ve mentioned something about light density before, and I’d love to hear your thoughts on this topic.</p>\n<p>Personally, I’ve never been a huge fan of LED screens. I’ve always found it difficult to get satisfying results with them, especially for daytime scenes. For night scenes, it might work in some cases. It also feels like the industry is pushing LED screen technology simply because so much money has already been invested in it.</p>\n<p>Recently, I came across behind-the-scenes images from Disclaimer, the series shot by Emmanuel Lubezki. There was a driving sequence with Cate Blanchett in a double-decker bus in London, and I was convinced it was shot practically—it looked so real. But after seeing the BTS, it seems Chivo used a poor man process instead of LED screens, which is quite different from what most DPs are doing today.</p>\n<p>This approach feels both old-school and new-school at the same time. While LEDs allow you to cue lights, move them around, and change colors dynamically, the reflections in windows can be added in post. Given that producers increasingly want to save money by shooting on stage rather than practically, I’d love to hear your thoughts on this.</p>\n<p>How do you see the role of poor man process techniques in modern filmmaking, particularly for driving sequences?</p>\n<p> </p>\n<p>Thank you very much!</p>\n<p><a href=\"https://www.instagram.com/p/DE4tpywCHZQ/?hl=en&amp;img_index=1\" rel=\"nofollow\">https://www.instagram.com/p/DE4tpywCHZQ/?hl=en&amp;img_index=1</a></p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Sir Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I wanted to start a discussion here about light density, following your conversation with Greig Fraser regarding LED screens. You’ve mentioned something about light density before, and I’d love to hear your thoughts on this topic."
+    },
+    {
+      "type": "paragraph",
+      "text": "Personally, I’ve never been a huge fan of LED screens. I’ve always found it difficult to get satisfying results with them, especially for daytime scenes. For night scenes, it might work in some cases. It also feels like the industry is pushing LED screen technology simply because so much money has already been invested in it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recently, I came across behind-the-scenes images from Disclaimer, the series shot by Emmanuel Lubezki. There was a driving sequence with Cate Blanchett in a double-decker bus in London, and I was convinced it was shot practically—it looked so real. But after seeing the BTS, it seems Chivo used a poor man process instead of LED screens, which is quite different from what most DPs are doing today."
+    },
+    {
+      "type": "paragraph",
+      "text": "This approach feels both old-school and new-school at the same time. While LEDs allow you to cue lights, move them around, and change colors dynamically, the reflections in windows can be added in post. Given that producers increasingly want to save money by shooting on stage rather than practically, I’d love to hear your thoughts on this."
+    },
+    {
+      "type": "paragraph",
+      "text": "How do you see the role of poor man process techniques in modern filmmaking, particularly for driving sequences?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you very much!"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://www.instagram.com/p/DE4tpywCHZQ/?hl=en&img_index=1"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.instagram.com/p/DE4tpywCHZQ/?hl=en&img_index=1",
+      "text": "https://www.instagram.com/p/DE4tpywCHZQ/?hl=en&img_index=1",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/light-density/#post-216962",
+    "scraped_at": "2026-01-15T15:22:24.871009+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/light-density/#post-216962",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "193672f71f4f899ebe24716fdfb114be3d15c7c4692ac2a5ba9664040c018ddb",
+    "parser_version": "bbpress-v2"
+  }
+}

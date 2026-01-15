@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "214568",
+    "forum_slug": "forum",
+    "topic_slug": "how-to-set-exposure-for-an-explosion"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "nirbhay.kuppu",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey everyone. I have a bit of a basic question. In a situation where there is an explosion in frame how does one set exposure? The moment is so fleeting and I’m guessing the intensity of light will vary with the explosive payload so how do I test and set the exposure for the scene?\nDo the vetrans here on the forum find that they end up working at a specific F stop and  maybe a higher ASA to give yourself some extra latitude in the highlights?\nLooking forward to hearing your responses, thank you.\nNirbhay",
+  "content_html": "<p>Hey everyone. I have a bit of a basic question. In a situation where there is an explosion in frame how does one set exposure? The moment is so fleeting and I’m guessing the intensity of light will vary with the explosive payload so how do I test and set the exposure for the scene?</p>\n<p>Do the vetrans here on the forum find that they end up working at a specific F stop and  maybe a higher ASA to give yourself some extra latitude in the highlights?</p>\n<p>Looking forward to hearing your responses, thank you.</p>\n<p>Nirbhay</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey everyone. I have a bit of a basic question. In a situation where there is an explosion in frame how does one set exposure? The moment is so fleeting and I’m guessing the intensity of light will vary with the explosive payload so how do I test and set the exposure for the scene?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do the vetrans here on the forum find that they end up working at a specific F stop and  maybe a higher ASA to give yourself some extra latitude in the highlights?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Looking forward to hearing your responses, thank you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nirbhay"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-set-exposure-for-an-explosion/#post-214696",
+    "scraped_at": "2026-01-15T15:52:06.697250+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-set-exposure-for-an-explosion/#post-214696",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e55c4452849d1bc10da3b82bf5f9a74e132aef99418b143726b2340e449af91c",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "176362",
+    "forum_slug": "camera",
+    "topic_slug": "arri-sharpness-detail",
+    "parent_post_id": "176357",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I can’t say I ever change the settings on the Alexa Mini or the LF. Personally, I don’t see why you would. Would it not be better to adjust the image in the DI if you feel the need. You could then adjust sharpness and also add grain.",
+  "content_html": "<p>I can’t say I ever change the settings on the Alexa Mini or the LF. Personally, I don’t see why you would. Would it not be better to adjust the image in the DI if you feel the need. You could then adjust sharpness and also add grain.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I can’t say I ever change the settings on the Alexa Mini or the LF. Personally, I don’t see why you would. Would it not be better to adjust the image in the DI if you feel the need. You could then adjust sharpness and also add grain."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/arri-sharpness-detail/#post-176406",
+    "scraped_at": "2026-01-15T15:44:52.864823+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/arri-sharpness-detail/#post-176406",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "78b127378b9bcfcb0cf95a1de4d4bec7c8c82e4f5355c9bc8b13ab1333ec9283",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215794",
+    "forum_slug": "camera",
+    "topic_slug": "shaky-cams",
+    "parent_post_id": "215744",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "mskb",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "They do talk about “handheld” and here is a relevant paragraph, and of course, the usual example of Bourne series.\n“Though it’s generally advised that too much handheld can\ninduce nausea in some viewers, there are examples of hand-\nheld-heavy productions that have been quite successful. Paul\nGreengrass’ The Bourne Ultimatum (AC Sept. ‘07) was shot by\nOliver Wood with a great deal of handheld — sometimes aggres-\nsively so — and this gives the action thriller a documentary-like\nimmediacy. Indeed, the Bourne films are known for this look.”  : – AC, April 2024.",
+  "content_html": "<p>They do talk about “handheld” and here is a relevant paragraph, and of course, the usual example of Bourne series.</p>\n<p>“Though it’s generally advised that too much handheld can<br/>\ninduce nausea in some viewers, there are examples of hand-<br/>\nheld-heavy productions that have been quite successful. Paul<br/>\nGreengrass’ The Bourne Ultimatum (AC Sept. ‘07) was shot by<br/>\nOliver Wood with a great deal of handheld — sometimes aggres-<br/>\nsively so — and this gives the action thriller a documentary-like<br/>\nimmediacy. Indeed, the Bourne films are known for this look.”  : – AC, April 2024.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "They do talk about “handheld” and here is a relevant paragraph, and of course, the usual example of Bourne series."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Though it’s generally advised that too much handheld can\ninduce nausea in some viewers, there are examples of hand-\nheld-heavy productions that have been quite successful. Paul\nGreengrass’ The Bourne Ultimatum (AC Sept. ‘07) was shot by\nOliver Wood with a great deal of handheld — sometimes aggres-\nsively so — and this gives the action thriller a documentary-like\nimmediacy. Indeed, the Bourne films are known for this look.”  : – AC, April 2024."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shaky-cams/#post-215800",
+    "scraped_at": "2026-01-15T15:20:57.510292+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shaky-cams/#post-215800",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "64e11c90e2493a888d6737a754c4df4ba5464d95de7668267d7ddd021bc018c4",
+    "parser_version": "bbpress-v2"
+  }
+}

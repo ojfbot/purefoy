@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "170188",
+    "forum_slug": "post",
+    "topic_slug": "changing-the-cinematographers-exposure-values-in-post",
+    "parent_post_id": "170152",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "giodashorts",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think that beginning a grade by making sure all exposure values match the camera manufacturer’s 18% middle gray specs is completely unnecessary—there’s no sense in doing that, in my view. A cinematographer will have made deliberate exposure choices on set; such as choosing to overexpose, or underexpose everything (or certain scenes).\nThere may even be some mistakes, or exposures that a cinematographer would want to fix in the DI: these should be discussed on that basis, with the colorist and the cinematographer. If adjusting the exposure in the DI is done correctly—by adjusting gain in linear gamma (as it does in RAW); it will match what can be adjusted with T-Stop; this is what it would alter—how that then effects the technical and aesthetic decisions, is something that should be considered, I think. If exposure is adjusted using gain in LOG (or on a Rec.709 transform) or in the Offset, it will affect the image in a different way.\nAt the end of the day, the exposure should be adjusted in accordance to the taste of the cinematographer and the colorist, based on the context of the shot, and the overall film (or piece). I am no where near as experienced as you or everyone else here, but that’s what I would say about this!",
+  "content_html": "<p>I think that beginning a grade by making sure all exposure values match the camera manufacturer’s 18% middle gray specs is completely unnecessary—there’s no sense in doing that, in my view. A cinematographer will have made deliberate exposure choices on set; such as choosing to overexpose, or underexpose everything (or certain scenes).</p>\n<p>There may even be some mistakes, or exposures that a cinematographer would want to fix in the DI: these should be discussed on that basis, with the colorist and the cinematographer. If adjusting the exposure in the DI is done correctly—by adjusting gain in linear gamma (as it does in RAW); it will match what can be adjusted with T-Stop; this is what it would alter—how that then effects the technical and aesthetic decisions, is something that should be considered, I think. If exposure is adjusted using gain in LOG (or on a Rec.709 transform) or in the Offset, it will affect the image in a different way.</p>\n<p>At the end of the day, the exposure should be adjusted in accordance to the taste of the cinematographer and the colorist, based on the context of the shot, and the overall film (or piece). I am no where near as experienced as you or everyone else here, but that’s what I would say about this!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think that beginning a grade by making sure all exposure values match the camera manufacturer’s 18% middle gray specs is completely unnecessary—there’s no sense in doing that, in my view. A cinematographer will have made deliberate exposure choices on set; such as choosing to overexpose, or underexpose everything (or certain scenes)."
+    },
+    {
+      "type": "paragraph",
+      "text": "There may even be some mistakes, or exposures that a cinematographer would want to fix in the DI: these should be discussed on that basis, with the colorist and the cinematographer. If adjusting the exposure in the DI is done correctly—by adjusting gain in linear gamma (as it does in RAW); it will match what can be adjusted with T-Stop; this is what it would alter—how that then effects the technical and aesthetic decisions, is something that should be considered, I think. If exposure is adjusted using gain in LOG (or on a Rec.709 transform) or in the Offset, it will affect the image in a different way."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the end of the day, the exposure should be adjusted in accordance to the taste of the cinematographer and the colorist, based on the context of the shot, and the overall film (or piece). I am no where near as experienced as you or everyone else here, but that’s what I would say about this!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/changing-the-cinematographers-exposure-values-in-post/#post-214706",
+    "scraped_at": "2026-01-15T13:16:10.625980+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/changing-the-cinematographers-exposure-values-in-post/#post-214706",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "26bc7b54d06713648e02420b6ad74caa05ded2c49ec6cf7419953085004d01f3",
+    "parser_version": "bbpress-v2"
+  }
+}

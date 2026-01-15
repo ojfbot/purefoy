@@ -1,0 +1,100 @@
+{
+  "ids": {
+    "post_id": "218286",
+    "forum_slug": "forum",
+    "topic_slug": "large-scale-sun-simulation-through-church-vitraux-feature-film-setup"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Chop13",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello everyone,\nI’m prepping a feature and facing a rather tricky lighting setup in a very unforgiving location.\nWe’re shooting about a quarter of the film inside a church that we’re transforming into an art gallery. The key character – the artist – walks from one painting to another throughout the sequence, so we need a consistent yet cinematic ambient design.\nWe’ll be shooting with two ARRI Mini LF cameras and a set of Leica R lenses.\nHere’s what we have in terms of lighting gear:\n12 × 4K HMI\n3 × 9K HMI\n1 × 12K HMI\n1 × 18K HMI\nWe also have access to a 100m telescopic crane.\nThe idea is to create a sunlight simulation through the central stained-glass window using a grid rig on the crane: 6 × 4K, 2 × 9K, and 1 × 18K aimed through that main window.\nInside, we’re integrating Astera Titan tubes (hidden in the art installation walls) for large paintings and Helios tubes for smaller pieces. We’ll also use Kino Celebs, Diva-Lites, and Lightmates for gentle fill and sculpting.\nNow, the issue: the stained glass is quite dense, which might reduce the impact of our exterior rig.\nThe goal is to design one big lighting setup, with the option to erase rigs or mounts in post, as we’ll keep the camera mostly floating around the space.\nAny suggestions on how to handle the density of the glass?\nAnd if you’ve tackled similar “artificial sun through stained glass” setups, I’d love to hear about your approach (especially with haze, light loss, or pre-diffusion).\nLink to the scouting and model\nThanks in advance for your feedback!\nHamza",
+  "content_html": "<p>Hello everyone,</p>\n<p>I’m prepping a feature and facing a rather tricky lighting setup in a very unforgiving location.</p>\n<p>We’re shooting about a quarter of the film inside a church that we’re transforming into an art gallery. The key character – the artist – walks from one painting to another throughout the sequence, so we need a consistent yet cinematic ambient design.</p>\n<p>We’ll be shooting with two ARRI Mini LF cameras and a set of Leica R lenses.</p>\n<p>Here’s what we have in terms of lighting gear:</p>\n<p>12 × 4K HMI<br/>\n3 × 9K HMI<br/>\n1 × 12K HMI<br/>\n1 × 18K HMI</p>\n<p>We also have access to a 100m telescopic crane.<br/>\nThe idea is to create a sunlight simulation through the central stained-glass window using a grid rig on the crane: 6 × 4K, 2 × 9K, and 1 × 18K aimed through that main window.</p>\n<p>Inside, we’re integrating Astera Titan tubes (hidden in the art installation walls) for large paintings and Helios tubes for smaller pieces. We’ll also use Kino Celebs, Diva-Lites, and Lightmates for gentle fill and sculpting.</p>\n<p>Now, the issue: the stained glass is quite dense, which might reduce the impact of our exterior rig.</p>\n<p>The goal is to design one big lighting setup, with the option to erase rigs or mounts in post, as we’ll keep the camera mostly floating around the space.</p>\n<p>Any suggestions on how to handle the density of the glass?</p>\n<p>And if you’ve tackled similar “artificial sun through stained glass” setups, I’d love to hear about your approach (especially with haze, light loss, or pre-diffusion).</p>\n<p><a href=\"https://www.canva.com/design/DAGoScG3ehU/Pywu14LWRHkb42rHKda_0w/view?utm_content=DAGoScG3ehU&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h2f2ae81680\" rel=\"nofollow\">Link to the scouting and model</a></p>\n<p>Thanks in advance for your feedback!</p>\n<p>Hamza</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello everyone,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m prepping a feature and facing a rather tricky lighting setup in a very unforgiving location."
+    },
+    {
+      "type": "paragraph",
+      "text": "We’re shooting about a quarter of the film inside a church that we’re transforming into an art gallery. The key character – the artist – walks from one painting to another throughout the sequence, so we need a consistent yet cinematic ambient design."
+    },
+    {
+      "type": "paragraph",
+      "text": "We’ll be shooting with two ARRI Mini LF cameras and a set of Leica R lenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here’s what we have in terms of lighting gear:"
+    },
+    {
+      "type": "paragraph",
+      "text": "12 × 4K HMI\n3 × 9K HMI\n1 × 12K HMI\n1 × 18K HMI"
+    },
+    {
+      "type": "paragraph",
+      "text": "We also have access to a 100m telescopic crane.\nThe idea is to create a sunlight simulation through the central stained-glass window using a grid rig on the crane: 6 × 4K, 2 × 9K, and 1 × 18K aimed through that main window."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inside, we’re integrating Astera Titan tubes (hidden in the art installation walls) for large paintings and Helios tubes for smaller pieces. We’ll also use Kino Celebs, Diva-Lites, and Lightmates for gentle fill and sculpting."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, the issue: the stained glass is quite dense, which might reduce the impact of our exterior rig."
+    },
+    {
+      "type": "paragraph",
+      "text": "The goal is to design one big lighting setup, with the option to erase rigs or mounts in post, as we’ll keep the camera mostly floating around the space."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any suggestions on how to handle the density of the glass?"
+    },
+    {
+      "type": "paragraph",
+      "text": "And if you’ve tackled similar “artificial sun through stained glass” setups, I’d love to hear about your approach (especially with haze, light loss, or pre-diffusion)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Link to the scouting and model"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks in advance for your feedback!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hamza"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.canva.com/design/DAGoScG3ehU/Pywu14LWRHkb42rHKda_0w/view?utm_content=DAGoScG3ehU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2f2ae81680",
+      "text": "Link to the scouting and model",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/large-scale-sun-simulation-through-church-vitraux-feature-film-setup/#post-219523",
+    "scraped_at": "2026-01-15T14:16:52.723209+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/large-scale-sun-simulation-through-church-vitraux-feature-film-setup/#post-219523",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "088037b01cebbc1e3561723b1fa01a94890d84f6d2728699f00e20dfad9c6621",
+    "parser_version": "bbpress-v2"
+  }
+}

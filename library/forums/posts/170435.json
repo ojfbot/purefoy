@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "170435",
+    "forum_slug": "camera",
+    "topic_slug": "inconsistencies-of-film-development"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "gcconnelly",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger!\nHope you are doing well. I recently listened to your podcast episode with Matthew Libatique and was very interested by your discussions about exposure and how inconsistent film developing is these days. Matthew told a story about visiting a developing lab and seeing that they were basing the film bath speed on the film before his film. You guys both used the term “running hot” and “hot develop.” I was wondering if you could elaborate on what this means.",
+  "content_html": "<p>Hi Roger!</p>\n<p>Hope you are doing well. I recently listened to your podcast episode with Matthew Libatique and was very interested by your discussions about exposure and how inconsistent film developing is these days. Matthew told a story about visiting a developing lab and seeing that they were basing the film bath speed on the film before his film. You guys both used the term “running hot” and “hot develop.” I was wondering if you could elaborate on what this means.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope you are doing well. I recently listened to your podcast episode with Matthew Libatique and was very interested by your discussions about exposure and how inconsistent film developing is these days. Matthew told a story about visiting a developing lab and seeing that they were basing the film bath speed on the film before his film. You guys both used the term “running hot” and “hot develop.” I was wondering if you could elaborate on what this means."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inconsistencies-of-film-development/#post-170757",
+    "scraped_at": "2026-01-15T15:46:11.159374+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inconsistencies-of-film-development/#post-170757",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f30bdbd2b4e54296780857de6afd15fe1a2480f31af23cc507c0d44ab73e294f",
+    "parser_version": "bbpress-v2"
+  }
+}

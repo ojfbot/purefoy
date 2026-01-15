@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/framing-for-melancholy-mood/",
+  "forum_slug": "camera",
+  "topic_slug": "framing-for-melancholy-mood",
+  "title": "Framing for melancholy mood",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214739"
+  ],
+  "reply_tree": {
+    "post_id": "214739",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/framing-for-melancholy-mood/",
+    "scraped_at": "2026-01-15T15:25:21.890608+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/framing-for-melancholy-mood/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6e92da6d7be9f3a1c3d13fb5311f73440bd2a81c1830e837501ae3a10b4765d4",
+    "parser_version": "bbpress-v2"
+  }
+}

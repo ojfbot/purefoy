@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "post_id": "215414",
+    "forum_slug": "forum",
+    "topic_slug": "split-tone-look-how-much-to-get-in-camera"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "sea_moth",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "hey everyone!\nI got into a discussion with a DIT about a low budget short I’m working on.\nI’m working to create a very stylised split tone look. It’s a night interior, with neon/forest green coming from outside & warm light inside. I’m putting down some references:\nMy initial thought was to put an RGB light outside the window or a daylight lamp with gel.  My DIT friend suggested that an alternative would be to use just pure daylight from outside & create a LUT that offsets it to green & continue with that in the grade.\nMy gut is telling me to try to get as much of the colour as possible in camera (or at least a good way there) but is there a benefit in getting the green hue through post only? What are some of your tricks to approaching a split tone look? How far would you take the green/warm contrast in camera and how much would you leave to the grade?\nWhat sort of adjustments would be in your LUT for this kind of split look?\nthanks, hope everyone had a nice xmas! x",
+  "content_html": "<p>hey everyone!</p>\n<p>I got into a discussion with a DIT about a low budget short I’m working on.</p>\n<p>I’m working to create a very stylised split tone look. It’s a night interior, with neon/forest green coming from outside &amp; warm light inside. I’m putting down some references:</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215414/6wyyydzzgl2h6a34puazr4i7vfj6s1yc.png\"/><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215414/zko83a7rdhmp5vhgdieawdjbu05yv9nr.png\"/></p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215414/3rywrzig7arrdq7iu0qp2yfvympghv0c.png\"/></p>\n<p>My initial thought was to put an RGB light outside the window or a daylight lamp with gel.  My DIT friend suggested that an alternative would be to use just pure daylight from outside &amp; create a LUT that offsets it to green &amp; continue with that in the grade.</p>\n<p>My gut is telling me to try to get as much of the colour as possible in camera (or at least a good way there) but is there a benefit in getting the green hue through post only? What are some of your tricks to approaching a split tone look? How far would you take the green/warm contrast in camera and how much would you leave to the grade?<br/>\nWhat sort of adjustments would be in your LUT for this kind of split look?</p>\n<p>thanks, hope everyone had a nice xmas! x</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "hey everyone!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I got into a discussion with a DIT about a low budget short I’m working on."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m working to create a very stylised split tone look. It’s a night interior, with neon/forest green coming from outside & warm light inside. I’m putting down some references:"
+    },
+    {
+      "type": "paragraph",
+      "text": "My initial thought was to put an RGB light outside the window or a daylight lamp with gel.  My DIT friend suggested that an alternative would be to use just pure daylight from outside & create a LUT that offsets it to green & continue with that in the grade."
+    },
+    {
+      "type": "paragraph",
+      "text": "My gut is telling me to try to get as much of the colour as possible in camera (or at least a good way there) but is there a benefit in getting the green hue through post only? What are some of your tricks to approaching a split tone look? How far would you take the green/warm contrast in camera and how much would you leave to the grade?\nWhat sort of adjustments would be in your LUT for this kind of split look?"
+    },
+    {
+      "type": "paragraph",
+      "text": "thanks, hope everyone had a nice xmas! x"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215414/6wyyydzzgl2h6a34puazr4i7vfj6s1yc.png",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215414/zko83a7rdhmp5vhgdieawdjbu05yv9nr.png",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215414/3rywrzig7arrdq7iu0qp2yfvympghv0c.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/split-tone-look-how-much-to-get-in-camera/#post-215434",
+    "scraped_at": "2026-01-15T15:47:20.614695+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/split-tone-look-how-much-to-get-in-camera/#post-215434",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "18747ab1b3b12edda2aa3dd444f280e8758429efb0eef4e33633002bb44ce8e5",
+    "parser_version": "bbpress-v2"
+  }
+}

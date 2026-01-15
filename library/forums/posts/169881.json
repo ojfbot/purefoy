@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "169881",
+    "forum_slug": "camera",
+    "topic_slug": "choosing-film-stock-based-on-contrast-curve-and-spectral-sensitivity",
+    "parent_post_id": "169879",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "samdavidzhang",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Oh also forgot to include, spectral-sensitivity charts: what are the most practical applications of interpreting this information? Is it solely limited to blue/green screen work? I understand different color responses favoring blue could affect lighting a blue screen for a shoot, but why would it lead me to favor one stock over the other in a  regular shoot?",
+  "content_html": "<p>Oh also forgot to include, spectral-sensitivity charts: what are the most practical applications of interpreting this information? Is it solely limited to blue/green screen work? I understand different color responses favoring blue could affect lighting a blue screen for a shoot, but why would it lead me to favor one stock over the other in a  regular shoot?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Oh also forgot to include, spectral-sensitivity charts: what are the most practical applications of interpreting this information? Is it solely limited to blue/green screen work? I understand different color responses favoring blue could affect lighting a blue screen for a shoot, but why would it lead me to favor one stock over the other in a  regular shoot?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/choosing-film-stock-based-on-contrast-curve-and-spectral-sensitivity/#post-169892",
+    "scraped_at": "2026-01-15T15:46:38.750966+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/choosing-film-stock-based-on-contrast-curve-and-spectral-sensitivity/#post-169892",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "120b4b4fd59b72ee1d3b388a667c08c3ce9b45cabc9de66ca31dad0935af4b14",
+    "parser_version": "bbpress-v2"
+  }
+}

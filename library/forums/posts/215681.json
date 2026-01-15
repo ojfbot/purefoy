@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "215681",
+    "forum_slug": "set-talk",
+    "topic_slug": "working-with-a-more-experienced-cinematographer"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Silver",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello dear Roger,\nThank you for keeping this great platform alive and strong.\nI am working on my first short film and I have huge admiration for the work of a cinematographer who happens to live in the same small city as me.\nMy question is, what key elements should a young director emphasis when pitching his project to a more experienced and very talented cinematographer to be on board, despite not having a budget?\nThank you very much!",
+  "content_html": "<p>Hello dear Roger,</p>\n<p>Thank you for keeping this great platform alive and strong.</p>\n<p>I am working on my first short film and I have huge admiration for the work of a cinematographer who happens to live in the same small city as me.</p>\n<p>My question is, what key elements should a young director emphasis when pitching his project to a more experienced and very talented cinematographer to be on board, despite not having a budget?</p>\n<p>Thank you very much!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello dear Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for keeping this great platform alive and strong."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am working on my first short film and I have huge admiration for the work of a cinematographer who happens to live in the same small city as me."
+    },
+    {
+      "type": "paragraph",
+      "text": "My question is, what key elements should a young director emphasis when pitching his project to a more experienced and very talented cinematographer to be on board, despite not having a budget?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you very much!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/working-with-a-more-experienced-cinematographer/#post-215730",
+    "scraped_at": "2026-01-15T13:06:00.784340+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/working-with-a-more-experienced-cinematographer/#post-215730",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4f3bcbf412859116f4804de01a1e31c66d85dd24de3879e1b11daa350f483878",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/decisionmaking-of-overhead-lightingrigs/#post-216485",
+  "forum_slug": "forum",
+  "topic_slug": "decisionmaking-of-overhead-lightingrigs",
+  "title": "Decisionmaking of overhead lightingrigs",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216481",
+    "216485"
+  ],
+  "reply_tree": {
+    "post_id": "216481",
+    "post_type": "topic",
+    "author": "Julius",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216485",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/decisionmaking-of-overhead-lightingrigs/#post-216485",
+    "scraped_at": "2026-01-15T15:24:34.175456+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/decisionmaking-of-overhead-lightingrigs/#post-216485",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8ad036a0d97c358940cf5293729d6df7f24b63e3936e1ee44e1fbdd56454bfa3",
+    "parser_version": "bbpress-v2"
+  }
+}

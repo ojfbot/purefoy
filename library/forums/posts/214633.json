@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "214633",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Laurent",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi,\nI apologize in advance if I try to ask the 1000 question on a topic as a new member 😉\nCove Lightning\nSometimes the lights are on the floor, sometimes the lighting comes from the top: Does this have a big impact on bouncing? Or is it just a space thing?\nWill the unbleached muslin be doubled? So that no lighting can shine through?\nI don’t quite understand yet: will the first lighting be set brighter? And the 2nd less? And the 3rd even more dimmed? Or do all 3 have the same brightness?\nIf RD uses tungsten lighting in the room and daylight shines through the window, does he use a CTO window film (100, 50, 25%?). Or does he “just” put a gel filter on the camera lens? Or deliberately using mixed light?\nThanks if someone takes the trouble to help a greenhorn …. Thank you so much!!!",
+  "content_html": "<p>Hi,</p>\n<p>I apologize in advance if I try to ask the 1000 question on a topic as a new member 😉</p>\n<p>Cove Lightning<br/>\nSometimes the lights are on the floor, sometimes the lighting comes from the top: Does this have a big impact on bouncing? Or is it just a space thing?</p>\n<p>Will the unbleached muslin be doubled? So that no lighting can shine through?</p>\n<p>I don’t quite understand yet: will the first lighting be set brighter? And the 2nd less? And the 3rd even more dimmed? Or do all 3 have the same brightness?</p>\n<p>If RD uses tungsten lighting in the room and daylight shines through the window, does he use a CTO window film (100, 50, 25%?). Or does he “just” put a gel filter on the camera lens? Or deliberately using mixed light?</p>\n<p>Thanks if someone takes the trouble to help a greenhorn …. Thank you so much!!!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I apologize in advance if I try to ask the 1000 question on a topic as a new member 😉"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cove Lightning\nSometimes the lights are on the floor, sometimes the lighting comes from the top: Does this have a big impact on bouncing? Or is it just a space thing?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Will the unbleached muslin be doubled? So that no lighting can shine through?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I don’t quite understand yet: will the first lighting be set brighter? And the 2nd less? And the 3rd even more dimmed? Or do all 3 have the same brightness?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If RD uses tungsten lighting in the room and daylight shines through the window, does he use a CTO window film (100, 50, 25%?). Or does he “just” put a gel filter on the camera lens? Or deliberately using mixed light?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks if someone takes the trouble to help a greenhorn …. Thank you so much!!!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/3/",
+    "scraped_at": "2026-01-15T15:51:30.619204+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/3/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1b4cb3b6bfae160afca6d3188d4d4ccce925e51558116cdf622ebbada7217dab",
+    "parser_version": "bbpress-v2"
+  }
+}

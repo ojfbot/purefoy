@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216193",
+    "forum_slug": "camera",
+    "topic_slug": "in-camera-lens-corrections",
+    "parent_post_id": "215347",
+    "parent_type": "topic",
+    "position": 12
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Caner",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Any chance you happen to know where to find any super speeds for sale in the UK for a similar price? 🙏",
+  "content_html": "<p>Any chance you happen to know where to find any super speeds for sale in the UK for a similar price? 🙏</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Any chance you happen to know where to find any super speeds for sale in the UK for a similar price? 🙏"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/in-camera-lens-corrections/#post-216194",
+    "scraped_at": "2026-01-15T14:33:52.633922+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/in-camera-lens-corrections/#post-216194",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2ee2db026645059de431ca2d90597c7a813b7302970ee0990ec408e350e46a3f",
+    "parser_version": "bbpress-v2"
+  }
+}

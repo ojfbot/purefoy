@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "217993",
+    "forum_slug": "team-deakins",
+    "topic_slug": "reflections-new-book",
+    "parent_post_id": "217941",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "viper_714",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello! I was wondering if there are any plans to bring a Reflections: On Cinematography book talk and signing event to New York City. I would be absolutely thrilled to attend—it would be such an honor to meet you and hear more about the work in person!\nBest regards!",
+  "content_html": "<p>Hello! I was wondering if there are any plans to bring a Reflections: On Cinematography book talk and signing event to New York City. I would be absolutely thrilled to attend—it would be such an honor to meet you and hear more about the work in person!</p>\n<p>Best regards!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello! I was wondering if there are any plans to bring a Reflections: On Cinematography book talk and signing event to New York City. I would be absolutely thrilled to attend—it would be such an honor to meet you and hear more about the work in person!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Best regards!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/",
+    "scraped_at": "2026-01-15T11:32:34.540118+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "476dc76f1b5255fa7529351b48c3f4bdd6ae13520776df1665b1d9b09c4f5bef",
+    "parser_version": "bbpress-v2"
+  }
+}

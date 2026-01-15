@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214842",
+    "forum_slug": "camera",
+    "topic_slug": "the-assassination-of-jesse-james-opening-scene-in-woods",
+    "parent_post_id": "214772",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Right! Robert Ford is the main character!",
+  "content_html": "<p>Right! Robert Ford is the main character!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Right! Robert Ford is the main character!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-assassination-of-jesse-james-opening-scene-in-woods/#post-214842",
+    "scraped_at": "2026-01-15T15:24:55.055883+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-assassination-of-jesse-james-opening-scene-in-woods/#post-214842",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "66c3bd46684bff15d09fc64b7f423e3f6678da99ee74625f2e31dcf7fa2a377c",
+    "parser_version": "bbpress-v2"
+  }
+}

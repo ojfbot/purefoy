@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-rio-de-janeiro/#post-169829",
+  "forum_slug": "film-talk",
+  "topic_slug": "empire-of-light-rio-de-janeiro",
+  "title": "Empire of Light @ Rio de Janeiro",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "169561",
+    "169563",
+    "169744",
+    "169822",
+    "169829"
+  ],
+  "reply_tree": {
+    "post_id": "169561",
+    "post_type": "topic",
+    "author": "bscofano88",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "169563",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "169744",
+        "post_type": "reply",
+        "author": "bscofano88",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "169822",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "169829",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-rio-de-janeiro/#post-169829",
+    "scraped_at": "2026-01-15T14:50:33.854359+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-rio-de-janeiro/#post-169829",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9f23b050b386f8bb9540b86bb310fbaeba46462a20d2bc6f7cb7913c5a241359",
+    "parser_version": "bbpress-v2"
+  }
+}

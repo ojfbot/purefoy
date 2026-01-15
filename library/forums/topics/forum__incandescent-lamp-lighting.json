@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/incandescent-lamp-lighting/",
+  "forum_slug": "forum",
+  "topic_slug": "incandescent-lamp-lighting",
+  "title": "Incandescent lamp lighting",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217510"
+  ],
+  "reply_tree": {
+    "post_id": "217510",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/incandescent-lamp-lighting/",
+    "scraped_at": "2026-01-15T15:20:34.500543+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/incandescent-lamp-lighting/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8e7a923c14db74f8353e503d748d8a89e5e3ea0e4498768a0fffdd1ac16eaaa1",
+    "parser_version": "bbpress-v2"
+  }
+}

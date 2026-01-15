@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "202954",
+    "forum_slug": "camera",
+    "topic_slug": "exposed-for-film",
+    "parent_post_id": "202780",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Before burning any film I would really try to learn how a lightmeter works, what exposure is and how expose for the desirable effect. Because at the end of the day you expose the same film or digital. So you can start practicing exposure with any digital camera.\nIt’s a very broad and intricate issue to explain it here in a post. So the DP that told you that was actually giving you a valid shortcut in case you don’t want to go to the long and hard way of learning all is needed to know how to expose.",
+  "content_html": "<p>Before burning any film I would really try to learn how a lightmeter works, what exposure is and how expose for the desirable effect. Because at the end of the day you expose the same film or digital. So you can start practicing exposure with any digital camera.<br/>\nIt’s a very broad and intricate issue to explain it here in a post. So the DP that told you that was actually giving you a valid shortcut in case you don’t want to go to the long and hard way of learning all is needed to know how to expose.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Before burning any film I would really try to learn how a lightmeter works, what exposure is and how expose for the desirable effect. Because at the end of the day you expose the same film or digital. So you can start practicing exposure with any digital camera.\nIt’s a very broad and intricate issue to explain it here in a post. So the DP that told you that was actually giving you a valid shortcut in case you don’t want to go to the long and hard way of learning all is needed to know how to expose."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposed-for-film/#post-203076",
+    "scraped_at": "2026-01-15T15:42:25.212082+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposed-for-film/#post-203076",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b7fb490e191104800bee1914c3dd66b7ac4b1e55655fce589ecc0215acf91d6d",
+    "parser_version": "bbpress-v2"
+  }
+}

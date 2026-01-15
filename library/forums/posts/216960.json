@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216960",
+    "forum_slug": "forum",
+    "topic_slug": "1917-low-key-milk-lady-scene",
+    "parent_post_id": "216949",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There was no fill light. The scene was lit with an array of double ended 500 watt globes that were rigged inside the boiler. The opening was designed to be the size and shape it appears so the light from the ‘fire’ would stretch across the scene. The globes were dimmed down to give the warmth you see in the shot and a slight random flicker change was added as if from flames. The globes were replaced with the fire you see in the shot as a post effect.",
+  "content_html": "<p>There was no fill light. The scene was lit with an array of double ended 500 watt globes that were rigged inside the boiler. The opening was designed to be the size and shape it appears so the light from the ‘fire’ would stretch across the scene. The globes were dimmed down to give the warmth you see in the shot and a slight random flicker change was added as if from flames. The globes were replaced with the fire you see in the shot as a post effect.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There was no fill light. The scene was lit with an array of double ended 500 watt globes that were rigged inside the boiler. The opening was designed to be the size and shape it appears so the light from the ‘fire’ would stretch across the scene. The globes were dimmed down to give the warmth you see in the shot and a slight random flicker change was added as if from flames. The globes were replaced with the fire you see in the shot as a post effect."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/1917-low-key-milk-lady-scene/#post-216977",
+    "scraped_at": "2026-01-15T15:22:15.720753+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/1917-low-key-milk-lady-scene/#post-216977",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d10bf8b380d9557c6258aebf340c83707bb683aec58965a71e1db17bb025a18e",
+    "parser_version": "bbpress-v2"
+  }
+}

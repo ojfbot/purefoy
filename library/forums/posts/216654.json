@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216654",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-setup-for-high-rise-buildings-during-the-day",
+    "parent_post_id": "216651",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Always a difficult problem to solve, especially so when shooting on film. I have used small lighting rigs set above a window or bouncing off the ceiling near a window but it is never satisfying to do that kind of lighting. However, if the production will not spend the money on a set there is little else you can do.",
+  "content_html": "<p>Always a difficult problem to solve, especially so when shooting on film. I have used small lighting rigs set above a window or bouncing off the ceiling near a window but it is never satisfying to do that kind of lighting. However, if the production will not spend the money on a set there is little else you can do.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Always a difficult problem to solve, especially so when shooting on film. I have used small lighting rigs set above a window or bouncing off the ceiling near a window but it is never satisfying to do that kind of lighting. However, if the production will not spend the money on a set there is little else you can do."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-setup-for-high-rise-buildings-during-the-day/#post-216654",
+    "scraped_at": "2026-01-15T15:23:46.136632+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-setup-for-high-rise-buildings-during-the-day/#post-216654",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f8bec8c7fd7c8d496d93624d1dc617b65645fb49bef58ee77350f09bd3cbe2bc",
+    "parser_version": "bbpress-v2"
+  }
+}

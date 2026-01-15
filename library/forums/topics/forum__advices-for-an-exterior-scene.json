@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/advices-for-an-exterior-scene/#post-215516",
+  "forum_slug": "forum",
+  "topic_slug": "advices-for-an-exterior-scene",
+  "title": "Advices for an exterior scene",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215492",
+    "215494",
+    "215495",
+    "215496",
+    "215516"
+  ],
+  "reply_tree": {
+    "post_id": "215492",
+    "post_type": "topic",
+    "author": "LucaM",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215494",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215495",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215496",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215516",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/advices-for-an-exterior-scene/#post-215516",
+    "scraped_at": "2026-01-15T15:46:42.253730+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/advices-for-an-exterior-scene/#post-215516",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f528d7e2ea1a3a3d0d08ac49de28f14901a823e96a18992400622179349423c7",
+    "parser_version": "bbpress-v2"
+  }
+}

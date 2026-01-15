@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/questions-to-ask-to-prepare/",
+  "forum_slug": "forum",
+  "topic_slug": "questions-to-ask-to-prepare",
+  "title": "Questions to ask to prepare",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214884"
+  ],
+  "reply_tree": {
+    "post_id": "214884",
+    "post_type": "topic",
+    "author": "Gooddog4",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/questions-to-ask-to-prepare/",
+    "scraped_at": "2026-01-15T15:50:51.320211+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/questions-to-ask-to-prepare/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a34a6de23c50d8f4a866d9302d4dedd08befb22955f5f888a1aea76fa469365e",
+    "parser_version": "bbpress-v2"
+  }
+}

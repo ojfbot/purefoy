@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216624",
+    "forum_slug": "composition",
+    "topic_slug": "inspiration-sources",
+    "parent_post_id": "216503",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "bardanmcguire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "By the way kayill, I don’t mean to put down modern art in any way. Its just not what I like to enjoy.",
+  "content_html": "<p>By the way kayill, I don’t mean to put down modern art in any way. Its just not what I like to enjoy.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "By the way kayill, I don’t mean to put down modern art in any way. Its just not what I like to enjoy."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/",
+    "scraped_at": "2026-01-15T12:26:03.382958+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b14e63259e98d7f45923d93c54f8d1b9c6462ff8dfa81aa6856f231126f7caa9",
+    "parser_version": "bbpress-v2"
+  }
+}

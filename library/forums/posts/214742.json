@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214742",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-daytime-interior",
+    "parent_post_id": "214727",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "jomosadler",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Oh wow. I’ll try that\nout. Thank you so much! Love all your work and the podcast!",
+  "content_html": "<p>Oh wow. I’ll try that</p>\n<p>out. Thank you so much! Love all your work and the podcast!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Oh wow. I’ll try that"
+    },
+    {
+      "type": "paragraph",
+      "text": "out. Thank you so much! Love all your work and the podcast!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-daytime-interior/#post-214830",
+    "scraped_at": "2026-01-15T15:51:18.624779+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-daytime-interior/#post-214830",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "289c7aac7f9ced71ee28be3b119c2d7afe2f58a671069d11ea6f3f1184e39d87",
+    "parser_version": "bbpress-v2"
+  }
+}

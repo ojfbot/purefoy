@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215051",
+    "forum_slug": "camera",
+    "topic_slug": "what-information-should-a-look-book-be-included",
+    "parent_post_id": "215049",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Not every film begins with a look book. Some of them are created by a director in advance of the film. being given a green light, some by the production designer and some, less often in my experience, by the cinematographer. I will gather references if that is the way a director likes to prepare for a shoot but I don’t do it for my own sake. What I do are sketches of possible shots and staging as well as detailed diagrams for lighting. I find that the style of the film’s cinematography, camera movement and so forth, comes from discussions that happen during location scouting, when a director and I get time to talk through a script, or not until the actors go through a blocking rehearsal on the day of the shoot.",
+  "content_html": "<p>Not every film begins with a look book. Some of them are created by a director in advance of the film. being given a green light, some by the production designer and some, less often in my experience, by the cinematographer. I will gather references if that is the way a director likes to prepare for a shoot but I don’t do it for my own sake. What I do are sketches of possible shots and staging as well as detailed diagrams for lighting. I find that the style of the film’s cinematography, camera movement and so forth, comes from discussions that happen during location scouting, when a director and I get time to talk through a script, or not until the actors go through a blocking rehearsal on the day of the shoot.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Not every film begins with a look book. Some of them are created by a director in advance of the film. being given a green light, some by the production designer and some, less often in my experience, by the cinematographer. I will gather references if that is the way a director likes to prepare for a shoot but I don’t do it for my own sake. What I do are sketches of possible shots and staging as well as detailed diagrams for lighting. I find that the style of the film’s cinematography, camera movement and so forth, comes from discussions that happen during location scouting, when a director and I get time to talk through a script, or not until the actors go through a blocking rehearsal on the day of the shoot."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-information-should-a-look-book-be-included/#post-215054",
+    "scraped_at": "2026-01-15T15:23:39.496158+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-information-should-a-look-book-be-included/#post-215054",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9dc3ea77ada96f8b8370620742aebb40d4cbf64f9cb46624c69c38eafedfc8a0",
+    "parser_version": "bbpress-v2"
+  }
+}

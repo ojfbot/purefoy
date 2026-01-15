@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "215996",
+    "forum_slug": "camera",
+    "topic_slug": "alexa-35-vs-mini-lf",
+    "parent_post_id": "169876",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Just finished watching the new Beverly Hills Cop\nI haven’t dared to watch it yet, mostly because Netflix films usually are like clones from each other. They all look the same, sound the same and seem to be based on generic”success” strategies.\nThere are only very rare exceptions that don’t disappoint me, and I’ll certainly watch the Beverly Hills Cop revival at some point, but this is the typical type of film where Netflix would use colorful images and loud noises to distract from any storytelling shortcomings.\nWriting all this, I really don’t know why I still pay them 🙂",
+  "content_html": "<blockquote><p>Just finished watching the new Beverly Hills Cop</p></blockquote>\n<p>I haven’t dared to watch it yet, mostly because Netflix films usually are like clones from each other. They all look the same, sound the same and seem to be based on generic”success” strategies.</p>\n<p>There are only very rare exceptions that don’t disappoint me, and I’ll certainly watch the Beverly Hills Cop revival at some point, but this is the typical type of film where Netflix would use colorful images and loud noises to distract from any storytelling shortcomings.</p>\n<p>Writing all this, I really don’t know why I still pay them 🙂</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Just finished watching the new Beverly Hills Cop"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just finished watching the new Beverly Hills Cop"
+    },
+    {
+      "type": "paragraph",
+      "text": "I haven’t dared to watch it yet, mostly because Netflix films usually are like clones from each other. They all look the same, sound the same and seem to be based on generic”success” strategies."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are only very rare exceptions that don’t disappoint me, and I’ll certainly watch the Beverly Hills Cop revival at some point, but this is the typical type of film where Netflix would use colorful images and loud noises to distract from any storytelling shortcomings."
+    },
+    {
+      "type": "paragraph",
+      "text": "Writing all this, I really don’t know why I still pay them 🙂"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Just finished watching the new Beverly Hills Cop"
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/alexa-35-vs-mini-lf/#post-215996",
+    "scraped_at": "2026-01-15T15:20:04.364033+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/alexa-35-vs-mini-lf/#post-215996",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "28ea78fba9d3edd1ca4aa88ba0a258c50c75a9f186254b16218df3f5676f9da9",
+    "parser_version": "bbpress-v2"
+  }
+}

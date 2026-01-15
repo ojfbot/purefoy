@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215369",
+    "forum_slug": "camera",
+    "topic_slug": "multi-camera-coverage-disadvantages",
+    "parent_post_id": "215282",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "What about you talked in podcast about focal length consistency for viewers. For instances one shot use 32mm, and one shot use 75mm or zoom lenses!",
+  "content_html": "<p>What about you talked in podcast about focal length consistency for viewers. For instances one shot use 32mm, and one shot use 75mm or zoom lenses!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "What about you talked in podcast about focal length consistency for viewers. For instances one shot use 32mm, and one shot use 75mm or zoom lenses!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/multi-camera-coverage-disadvantages/#post-215369",
+    "scraped_at": "2026-01-15T15:22:06.405329+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/multi-camera-coverage-disadvantages/#post-215369",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f326ab2ecc960adb373a74165fb7c0be1683df57bd0ccd7ceeee842d9e36d7fa",
+    "parser_version": "bbpress-v2"
+  }
+}

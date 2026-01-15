@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214691",
+    "forum_slug": "forum",
+    "topic_slug": "very-minimal-lighting",
+    "parent_post_id": "211337",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "halfgrain",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "great work! Is the film free to watch somewhere online?",
+  "content_html": "<p>great work! Is the film free to watch somewhere online?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "great work! Is the film free to watch somewhere online?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/very-minimal-lighting/#post-220353",
+    "scraped_at": "2026-01-15T13:39:55.370006+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/very-minimal-lighting/#post-220353",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "568a39a15fd06459ef2afe5a0ecfa9219cfaac095df535d83357b045050dabbb",
+    "parser_version": "bbpress-v2"
+  }
+}

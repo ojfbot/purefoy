@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "215050",
+    "forum_slug": "team-deakins",
+    "topic_slug": "wim-wenders"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "MNMike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger and James,\nhave you considered having Wim Wenders on the podcast? It would be interesting to hear about his collaborations with Robby Muller.\nalso, thanks Roger for adding the EOL lighting section. That took a lot of time to write, I imagine. It was fun to read. Cheers.",
+  "content_html": "<p>Hi Roger and James,</p>\n<p>have you considered having Wim Wenders on the podcast? It would be interesting to hear about his collaborations with Robby Muller.</p>\n<p>also, thanks Roger for adding the EOL lighting section. That took a lot of time to write, I imagine. It was fun to read. Cheers.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger and James,"
+    },
+    {
+      "type": "paragraph",
+      "text": "have you considered having Wim Wenders on the podcast? It would be interesting to hear about his collaborations with Robby Muller."
+    },
+    {
+      "type": "paragraph",
+      "text": "also, thanks Roger for adding the EOL lighting section. That took a lot of time to write, I imagine. It was fun to read. Cheers."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/wim-wenders/#post-215077",
+    "scraped_at": "2026-01-15T13:24:03.879011+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/wim-wenders/#post-215077",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "18ba8da8381c17bc6ab86a7febdd9419a1d3c1cf1e7e4a607160dc11a0abfd30",
+    "parser_version": "bbpress-v2"
+  }
+}

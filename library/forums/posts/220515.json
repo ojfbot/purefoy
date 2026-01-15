@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "220515",
+    "forum_slug": "composition",
+    "topic_slug": "ots-to-close-up-move-closer-or-longer-lens",
+    "parent_post_id": "220511",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger, David and the others can answer better than me but I the impression i have had reading the forum and many interviews is that there’s not right or wrong answer, you have to choose based on what works better for the narrative point of view, not only aesthetic. I think Roger moves the camera instead of changing the lens (or, in theory, using the zoom) to put the audience where the action is and to create a more intimate relationship (if i am quoting him correctly) with the actors: it’s different to sneak from awar away with a longer lens (or zooming in) and to stay in front of an actor for a close up. Besides that i think that keeping the same lens create a more homogeneus look for your scenes: a different lenght changes also depth of field, angle of view, distortion, proportions of the face, etc etc, so it can offer you the way to create a different effect and a different relationship between the character and the landscape,  but if It’s what you are looking for.\nBy the way, isn’t it a bit unpractical to change the lens for a close up in a dialogue? If it’s a OTS shoot you’ll be close to the other actor, so it seems more practical to simply move the camera, unless there’s something that forces you to do that.",
+  "content_html": "<p>Roger, David and the others can answer better than me but I the impression i have had reading the forum and many interviews is that there’s not right or wrong answer, you have to choose based on what works better for the narrative point of view, not only aesthetic. I think Roger moves the camera instead of changing the lens (or, in theory, using the zoom) to put the audience where the action is and to create a more intimate relationship (if i am quoting him correctly) with the actors: it’s different to sneak from awar away with a longer lens (or zooming in) and to stay in front of an actor for a close up. Besides that i think that keeping the same lens create a more homogeneus look for your scenes: a different lenght changes also depth of field, angle of view, distortion, proportions of the face, etc etc, so it can offer you the way to create a different effect and a different relationship between the character and the landscape,  but if It’s what you are looking for.</p>\n<p>By the way, isn’t it a bit unpractical to change the lens for a close up in a dialogue? If it’s a OTS shoot you’ll be close to the other actor, so it seems more practical to simply move the camera, unless there’s something that forces you to do that.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roger, David and the others can answer better than me but I the impression i have had reading the forum and many interviews is that there’s not right or wrong answer, you have to choose based on what works better for the narrative point of view, not only aesthetic. I think Roger moves the camera instead of changing the lens (or, in theory, using the zoom) to put the audience where the action is and to create a more intimate relationship (if i am quoting him correctly) with the actors: it’s different to sneak from awar away with a longer lens (or zooming in) and to stay in front of an actor for a close up. Besides that i think that keeping the same lens create a more homogeneus look for your scenes: a different lenght changes also depth of field, angle of view, distortion, proportions of the face, etc etc, so it can offer you the way to create a different effect and a different relationship between the character and the landscape,  but if It’s what you are looking for."
+    },
+    {
+      "type": "paragraph",
+      "text": "By the way, isn’t it a bit unpractical to change the lens for a close up in a dialogue? If it’s a OTS shoot you’ll be close to the other actor, so it seems more practical to simply move the camera, unless there’s something that forces you to do that."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ots-to-close-up-move-closer-or-longer-lens/#post-220523",
+    "scraped_at": "2026-01-15T11:50:43.195480+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ots-to-close-up-move-closer-or-longer-lens/#post-220523",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cb4ea360b5352c30fc2dda7e0a378cb2e6c662cf4993a51666a98353220bf680",
+    "parser_version": "bbpress-v2"
+  }
+}

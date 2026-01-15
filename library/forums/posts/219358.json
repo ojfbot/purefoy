@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "219358",
+    "forum_slug": "forum",
+    "topic_slug": "filling-diffusion-in-tight-spaces"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Steven.M",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "When filling a diffusion material in a confined space without much room to move a light back far enough to fill a frame completely, would a soft source such as a Litemat fill the frame more fully than a open face/COB light with reflector at the exact same distance to the diffusion, resulting in a softer light?\nI’m asking because I have an upcoming shoot in a very confined space and would like to create a soft light on the subject (not concerned about spill at this point). I have 4x and 6x diffusions but only hard sources. If starting with a soft source is going to significantly soften the light then I will look into renting one.",
+  "content_html": "<p>When filling a diffusion material in a confined space without much room to move a light back far enough to fill a frame completely, would a soft source such as a Litemat fill the frame more fully than a open face/COB light with reflector at the exact same distance to the diffusion, resulting in a softer light?</p>\n<p>I’m asking because I have an upcoming shoot in a very confined space and would like to create a soft light on the subject (not concerned about spill at this point). I have 4x and 6x diffusions but only hard sources. If starting with a soft source is going to significantly soften the light then I will look into renting one.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "When filling a diffusion material in a confined space without much room to move a light back far enough to fill a frame completely, would a soft source such as a Litemat fill the frame more fully than a open face/COB light with reflector at the exact same distance to the diffusion, resulting in a softer light?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m asking because I have an upcoming shoot in a very confined space and would like to create a soft light on the subject (not concerned about spill at this point). I have 4x and 6x diffusions but only hard sources. If starting with a soft source is going to significantly soften the light then I will look into renting one."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/filling-diffusion-in-tight-spaces/#post-219488",
+    "scraped_at": "2026-01-15T14:17:04.812221+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/filling-diffusion-in-tight-spaces/#post-219488",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3eb7be5616eacc620e9ffeb2e22ee20265d63b52c7b110b6374521e128760c09",
+    "parser_version": "bbpress-v2"
+  }
+}

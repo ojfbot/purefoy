@@ -1,0 +1,60 @@
+{
+  "ids": {
+    "post_id": "190614",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-practical-bare-bulb"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Ilambb_",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nYesterday I watched Empire of Light and I absolutely loved your work. I would describe it as harmonious and subtle.\nI wanted to ask you about this specific shot. How did you manage to put a bare bulb in the middle of the frame without flaring the lens? And also, what type of bulb is it? The double bulb technique you used in 1917 wouldn’t be possible here, so that’s why I’m interested in your approach this time.\nThank you,\nInaki Lambrechts",
+  "content_html": "<p>Hi Roger,</p>\n<p>Yesterday I watched Empire of Light and I absolutely loved your work. I would describe it as harmonious and subtle.</p>\n<p>I wanted to ask you about this specific shot. How did you manage to put a bare bulb in the middle of the frame without flaring the lens? And also, what type of bulb is it? The double bulb technique you used in 1917 wouldn’t be possible here, so that’s why I’m interested in your approach this time.</p>\n<p>Thank you,</p>\n<p>Inaki Lambrechts</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/190614/hq18jn7zvyr0v6j7vsazmz2qi7m89fg4.png\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yesterday I watched Empire of Light and I absolutely loved your work. I would describe it as harmonious and subtle."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wanted to ask you about this specific shot. How did you manage to put a bare bulb in the middle of the frame without flaring the lens? And also, what type of bulb is it? The double bulb technique you used in 1917 wouldn’t be possible here, so that’s why I’m interested in your approach this time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inaki Lambrechts"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/190614/hq18jn7zvyr0v6j7vsazmz2qi7m89fg4.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-practical-bare-bulb/",
+    "scraped_at": "2026-01-15T15:55:03.847621+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-practical-bare-bulb/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e0fe036c81538767faff858b01695e593b0d2bb5988f6d1143f4d3ba5d35ce6c",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "214985",
+    "forum_slug": "camera",
+    "topic_slug": "subjects-appear-in-the-frame",
+    "parent_post_id": "214978",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "",
+  "content_html": "<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214985/xfnsplrgg345ftwkqz2d2x727x49ry1a.jpg\"/></p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214985/4o9o5dedz07bnh3y4e9bdve9tng4otc1.jpg\"/></p>",
+  "blocks": [],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214985/xfnsplrgg345ftwkqz2d2x727x49ry1a.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214985/4o9o5dedz07bnh3y4e9bdve9tng4otc1.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/subjects-appear-in-the-frame/#post-214997",
+    "scraped_at": "2026-01-15T15:24:09.901079+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/subjects-appear-in-the-frame/#post-214997",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9a950282ab19b1b594468a58a5e6120cf9ed06361300cc1a06b8bbe32845074b",
+    "parser_version": "bbpress-v2"
+  }
+}

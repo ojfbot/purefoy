@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "217963",
+    "forum_slug": "camera",
+    "topic_slug": "exposing-film-for-bleach-bypass",
+    "parent_post_id": "217889",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Skipping the bleach step leaves silver where there is color dye density, so if done to the negative, the highlights get denser (hotter) and if done to a print, the shadows get denser (darker).\nSo it is not unusual to underexpose by a stop when doing it to the negative to avoid too much overexposure in the highlights. Black level is a digital setting in digital color-correction. The only issue is how much shadow detail you want if you set black to zero.",
+  "content_html": "<p>Skipping the bleach step leaves silver where there is color dye density, so if done to the negative, the highlights get denser (hotter) and if done to a print, the shadows get denser (darker).</p>\n<p>So it is not unusual to underexpose by a stop when doing it to the negative to avoid too much overexposure in the highlights. Black level is a digital setting in digital color-correction. The only issue is how much shadow detail you want if you set black to zero.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Skipping the bleach step leaves silver where there is color dye density, so if done to the negative, the highlights get denser (hotter) and if done to a print, the shadows get denser (darker)."
+    },
+    {
+      "type": "paragraph",
+      "text": "So it is not unusual to underexpose by a stop when doing it to the negative to avoid too much overexposure in the highlights. Black level is a digital setting in digital color-correction. The only issue is how much shadow detail you want if you set black to zero."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposing-film-for-bleach-bypass/#post-218005",
+    "scraped_at": "2026-01-15T13:06:00.266847+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposing-film-for-bleach-bypass/#post-218005",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d2da097b81014a983dc17d78c3915b8368dca033da09e000bdb3722c53dfe913",
+    "parser_version": "bbpress-v2"
+  }
+}

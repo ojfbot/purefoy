@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-in-prisoners/#post-220068",
+  "forum_slug": "forum",
+  "topic_slug": "practical-lighting-in-prisoners",
+  "title": "Practical Lighting in Prisoners",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "219867",
+    "220068"
+  ],
+  "reply_tree": {
+    "post_id": "219867",
+    "post_type": "topic",
+    "author": "Corran Villalobos",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "220068",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-in-prisoners/#post-220068",
+    "scraped_at": "2026-01-15T13:56:47.215805+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-in-prisoners/#post-220068",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fb9a946f0b8c3290224f2b00894cd7d8f0e6939163575e100c5d05749d13caa3",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "ids": {
+    "post_id": "176125",
+    "forum_slug": "camera",
+    "topic_slug": "cooke-7i-vs-arri-sp",
+    "parent_post_id": "175339",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Nice to see a ‘Ronford Baker’ on set.  They would love a copy of this.\nBBC have now replaced theirs with ‘Miller’.",
+  "content_html": "<p>Nice to see a ‘Ronford Baker’ on set.  They would love a copy of this.</p>\n<p>BBC have now replaced theirs with ‘Miller’.  <img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/176125/nj4npygs8upzokypjetcdtsqgh9ijek9.jpeg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Nice to see a ‘Ronford Baker’ on set.  They would love a copy of this."
+    },
+    {
+      "type": "paragraph",
+      "text": "BBC have now replaced theirs with ‘Miller’."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/176125/nj4npygs8upzokypjetcdtsqgh9ijek9.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cooke-7i-vs-arri-sp/#post-176152",
+    "scraped_at": "2026-01-15T15:45:05.537853+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cooke-7i-vs-arri-sp/#post-176152",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4ccf7494516c15afcb79a1b17aea57fef368e2bd7c3243260a250ecbba34f5a3",
+    "parser_version": "bbpress-v2"
+  }
+}

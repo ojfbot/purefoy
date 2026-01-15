@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "220576",
+    "forum_slug": "forum",
+    "topic_slug": "exposure-skin-tone",
+    "parent_post_id": "220501",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "carloscfrias",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi! Maybe it’s a little late but I’d like to add that, when working on digital cameras and scene-referred color spaces (log, linear RAW…), we must differenciate between\nrecording\nthe color information and\nvisualizing\nit.\nWith any profesional digital camera, you can retain the color information up until the end of its dynamic range (that’s why ISO changes the dynamic range, you can record all the information if you are careful not to clip anything and then use the ISO to set it on the level you want).\nThen, as Roger described, perceptually the color gets less saturated as it gets closer to white, but this happens on the display stage of the pipeline. This will also depend on the LUT you are using to visualize the image: more contrast will result in the skin getting closer to white when overexposed a bit and different choices in color response may desaturate colors in certain regions for aesthetic reasons.\nBecause every log curve sets the luminance on different IRE levels and because it ultimately depends on the dynamic range of the sensor used, there’s no IRE reference level for this on the recorded state. Since every display transform will render the luminance on different IRE levels and will have different color response, there’s no IRE reference level for this on the display state.\nHope this helps!",
+  "content_html": "<p>Hi! Maybe it’s a little late but I’d like to add that, when working on digital cameras and scene-referred color spaces (log, linear RAW…), we must differenciate between <strong>recording </strong>the color information and <strong>visualizing </strong>it.</p>\n<p>With any profesional digital camera, you can retain the color information up until the end of its dynamic range (that’s why ISO changes the dynamic range, you can record all the information if you are careful not to clip anything and then use the ISO to set it on the level you want).</p>\n<p>Then, as Roger described, perceptually the color gets less saturated as it gets closer to white, but this happens on the display stage of the pipeline. This will also depend on the LUT you are using to visualize the image: more contrast will result in the skin getting closer to white when overexposed a bit and different choices in color response may desaturate colors in certain regions for aesthetic reasons.</p>\n<p>Because every log curve sets the luminance on different IRE levels and because it ultimately depends on the dynamic range of the sensor used, there’s no IRE reference level for this on the recorded state. Since every display transform will render the luminance on different IRE levels and will have different color response, there’s no IRE reference level for this on the display state.</p>\n<p>Hope this helps!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi! Maybe it’s a little late but I’d like to add that, when working on digital cameras and scene-referred color spaces (log, linear RAW…), we must differenciate between\nrecording\nthe color information and\nvisualizing\nit."
+    },
+    {
+      "type": "paragraph",
+      "text": "With any profesional digital camera, you can retain the color information up until the end of its dynamic range (that’s why ISO changes the dynamic range, you can record all the information if you are careful not to clip anything and then use the ISO to set it on the level you want)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then, as Roger described, perceptually the color gets less saturated as it gets closer to white, but this happens on the display stage of the pipeline. This will also depend on the LUT you are using to visualize the image: more contrast will result in the skin getting closer to white when overexposed a bit and different choices in color response may desaturate colors in certain regions for aesthetic reasons."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because every log curve sets the luminance on different IRE levels and because it ultimately depends on the dynamic range of the sensor used, there’s no IRE reference level for this on the recorded state. Since every display transform will render the luminance on different IRE levels and will have different color response, there’s no IRE reference level for this on the display state."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope this helps!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposure-skin-tone/#post-220576",
+    "scraped_at": "2026-01-15T13:16:22.484969+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposure-skin-tone/#post-220576",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1a6d372d5f83bff99997ae945ff1756729b5df9e2e56848172df54397e39c60c",
+    "parser_version": "bbpress-v2"
+  }
+}

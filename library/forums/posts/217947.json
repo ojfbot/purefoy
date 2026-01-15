@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217947",
+    "forum_slug": "team-deakins",
+    "topic_slug": "reflections-new-book",
+    "parent_post_id": "217941",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t often buy these kind of books but can’t wait for this.",
+  "content_html": "<p>I don’t often buy these kind of books but can’t wait for this.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t often buy these kind of books but can’t wait for this."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/",
+    "scraped_at": "2026-01-15T11:32:34.538554+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cc895fe786ef64f59415987b9da8210354b1def4a135691fc2e0532ac489c536",
+    "parser_version": "bbpress-v2"
+  }
+}

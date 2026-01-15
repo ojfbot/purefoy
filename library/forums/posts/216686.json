@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216686",
+    "forum_slug": "forum",
+    "topic_slug": "skyfall-ms-apartment-prop-lighting",
+    "parent_post_id": "216661",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You could grab a screenshot of the scene in which the lamps are clearly visible,  make an image research with Google Lens,  or similar tools, of only the lamp part (the entire screenshot will probably link you to pages talking about the movie, you need Google to focus on just the detail of the lamp). Perhaps you’ll need to scroll a bit within the results but usually you find what you are looking for, sooner or later.",
+  "content_html": "<p>You could grab a screenshot of the scene in which the lamps are clearly visible,  make an image research with Google Lens,  or similar tools, of only the lamp part (the entire screenshot will probably link you to pages talking about the movie, you need Google to focus on just the detail of the lamp). Perhaps you’ll need to scroll a bit within the results but usually you find what you are looking for, sooner or later.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You could grab a screenshot of the scene in which the lamps are clearly visible,  make an image research with Google Lens,  or similar tools, of only the lamp part (the entire screenshot will probably link you to pages talking about the movie, you need Google to focus on just the detail of the lamp). Perhaps you’ll need to scroll a bit within the results but usually you find what you are looking for, sooner or later."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/skyfall-ms-apartment-prop-lighting/#post-216686",
+    "scraped_at": "2026-01-15T15:23:33.953284+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/skyfall-ms-apartment-prop-lighting/#post-216686",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "584b525b4decce3b3992f409350b04613610a1aebb3fac10947f29bc1ec1d019",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "202221",
+    "forum_slug": "forum",
+    "topic_slug": "what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own",
+    "parent_post_id": "202026",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There are also affordable but great alternatives to the Astera Titans (Godox, Nanlite ect). You might also consider flex-LEDs (e.g. Falcon Eyes) as they are lightweight, larger/soft sources and great for travel or mounting at ceilings ect and come in Bi-color and/or full RGB.\nA word in general, Chinese / Korean brands (e.g. Aputure, Nanlite, Godox, Falcon Eyes) have come a long way the past 10 years, the LED light emitter quality is already there and built quality finally also catches up with “western” quality, but at much lower prices, so if your budget is low it might not be a bad idea to look there.",
+  "content_html": "<p>There are also affordable but great alternatives to the Astera Titans (Godox, Nanlite ect). You might also consider flex-LEDs (e.g. Falcon Eyes) as they are lightweight, larger/soft sources and great for travel or mounting at ceilings ect and come in Bi-color and/or full RGB.</p>\n<p>A word in general, Chinese / Korean brands (e.g. Aputure, Nanlite, Godox, Falcon Eyes) have come a long way the past 10 years, the LED light emitter quality is already there and built quality finally also catches up with “western” quality, but at much lower prices, so if your budget is low it might not be a bad idea to look there.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There are also affordable but great alternatives to the Astera Titans (Godox, Nanlite ect). You might also consider flex-LEDs (e.g. Falcon Eyes) as they are lightweight, larger/soft sources and great for travel or mounting at ceilings ect and come in Bi-color and/or full RGB."
+    },
+    {
+      "type": "paragraph",
+      "text": "A word in general, Chinese / Korean brands (e.g. Aputure, Nanlite, Godox, Falcon Eyes) have come a long way the past 10 years, the LED light emitter quality is already there and built quality finally also catches up with “western” quality, but at much lower prices, so if your budget is low it might not be a bad idea to look there."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own/#post-202221",
+    "scraped_at": "2026-01-15T15:54:18.956143+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own/#post-202221",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3173869a53509d1a09c46f2fa9c835f8f1818d3f3dac7e38fb6772dda45b6199",
+    "parser_version": "bbpress-v2"
+  }
+}

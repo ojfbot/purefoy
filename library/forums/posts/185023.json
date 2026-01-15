@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "185023",
+    "forum_slug": "website-news",
+    "topic_slug": "recovering-the-old-forums-need-help",
+    "parent_post_id": "174482",
+    "parent_type": "topic",
+    "position": 26
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Mr. Frank bear in mind english is not my mother tongue. May be my language would be not grammatical. But I never disrespect to Roger and James. I learnt lot. I posted more than 300 questions in this forum. I don’t recollect all questions. It’s all important to me. Not important you. I don’t know where I could find those answers again. So only i requesting continuously regarding old forum recovery related questions. Thanks for misunderstood me. Roger and James please take my apology if i disappointed you. Thanks for your great sharing knowledge.",
+  "content_html": "<p>Mr. Frank bear in mind english is not my mother tongue. May be my language would be not grammatical. But I never disrespect to Roger and James. I learnt lot. I posted more than 300 questions in this forum. I don’t recollect all questions. It’s all important to me. Not important you. I don’t know where I could find those answers again. So only i requesting continuously regarding old forum recovery related questions. Thanks for misunderstood me. Roger and James please take my apology if i disappointed you. Thanks for your great sharing knowledge.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Mr. Frank bear in mind english is not my mother tongue. May be my language would be not grammatical. But I never disrespect to Roger and James. I learnt lot. I posted more than 300 questions in this forum. I don’t recollect all questions. It’s all important to me. Not important you. I don’t know where I could find those answers again. So only i requesting continuously regarding old forum recovery related questions. Thanks for misunderstood me. Roger and James please take my apology if i disappointed you. Thanks for your great sharing knowledge."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/page/2/",
+    "scraped_at": "2026-01-15T12:42:29.518988+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5f6f9044057bcc60e39a5ff0d54c2dcbc889c8161d17ae064e2a3d171ccc26fa",
+    "parser_version": "bbpress-v2"
+  }
+}

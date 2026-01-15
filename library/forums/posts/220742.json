@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "post_id": "220742",
+    "forum_slug": "forum",
+    "topic_slug": "calculating-light",
+    "parent_post_id": "220737",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "At 24/25 fps at ISO 100:\n100 fc = f/2.8\n200 fc = f/4\n400 fc = f/5.6\n800 fc = f/8\nSo with ISO 800:\n100 fc = f/8\n200 fc = f/11\n400 fc = f/16\nYou lose 5-stops going from 25 fps to 800 fps, so to shoot at f/2.8, you need to light for f/16 so that once you lose 5-stops by going from 25 fps to 800 fps, you’re down to f/2.8.",
+  "content_html": "<p>At 24/25 fps at ISO 100:</p>\n<p>100 fc = f/2.8</p>\n<p>200 fc = f/4</p>\n<p>400 fc = f/5.6</p>\n<p>800 fc = f/8</p>\n<p>So with ISO 800:</p>\n<p>100 fc = f/8</p>\n<p>200 fc = f/11</p>\n<p>400 fc = f/16</p>\n<p>You lose 5-stops going from 25 fps to 800 fps, so to shoot at f/2.8, you need to light for f/16 so that once you lose 5-stops by going from 25 fps to 800 fps, you’re down to f/2.8.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "At 24/25 fps at ISO 100:"
+    },
+    {
+      "type": "paragraph",
+      "text": "100 fc = f/2.8"
+    },
+    {
+      "type": "paragraph",
+      "text": "200 fc = f/4"
+    },
+    {
+      "type": "paragraph",
+      "text": "400 fc = f/5.6"
+    },
+    {
+      "type": "paragraph",
+      "text": "800 fc = f/8"
+    },
+    {
+      "type": "paragraph",
+      "text": "So with ISO 800:"
+    },
+    {
+      "type": "paragraph",
+      "text": "100 fc = f/8"
+    },
+    {
+      "type": "paragraph",
+      "text": "200 fc = f/11"
+    },
+    {
+      "type": "paragraph",
+      "text": "400 fc = f/16"
+    },
+    {
+      "type": "paragraph",
+      "text": "You lose 5-stops going from 25 fps to 800 fps, so to shoot at f/2.8, you need to light for f/16 so that once you lose 5-stops by going from 25 fps to 800 fps, you’re down to f/2.8."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/calculating-light/#post-220742",
+    "scraped_at": "2026-01-15T13:06:05.505970+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/calculating-light/#post-220742",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ce14fec31fa4adee7127cac16d1e86450b30e0cd7115338b2607f88bbc0b2487",
+    "parser_version": "bbpress-v2"
+  }
+}

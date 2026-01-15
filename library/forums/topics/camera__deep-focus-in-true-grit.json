@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/deep-focus-in-true-grit/#post-216965",
+  "forum_slug": "camera",
+  "topic_slug": "deep-focus-in-true-grit",
+  "title": "Deep Focus in True Grit",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216958",
+    "216959",
+    "216963",
+    "216965"
+  ],
+  "reply_tree": {
+    "post_id": "216958",
+    "post_type": "topic",
+    "author": "gx42",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216959",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216963",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216965",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/deep-focus-in-true-grit/#post-216965",
+    "scraped_at": "2026-01-15T13:23:36.555929+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/deep-focus-in-true-grit/#post-216965",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "256b4627e63cb6644b0fc9f9ec6e0b84fcbfe2166746372077f985a2cabdbd5b",
+    "parser_version": "bbpress-v2"
+  }
+}

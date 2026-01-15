@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215612",
+    "forum_slug": "composition",
+    "topic_slug": "intentional-visual-design-when-composing-shots",
+    "parent_post_id": "215589",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Jason Ward",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for those recommendations Mr. Mullen, I’ll definitely look into that book and I really appreciate the help as well! That’s exactly the type of thing I wanted to know more about",
+  "content_html": "<p>Thank you for those recommendations Mr. Mullen, I’ll definitely look into that book and I really appreciate the help as well! That’s exactly the type of thing I wanted to know more about</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for those recommendations Mr. Mullen, I’ll definitely look into that book and I really appreciate the help as well! That’s exactly the type of thing I wanted to know more about"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/intentional-visual-design-when-composing-shots/#post-215612",
+    "scraped_at": "2026-01-15T12:48:52.738804+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/intentional-visual-design-when-composing-shots/#post-215612",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "203354001d94cad5bd558bd837eea45dc8b4fcc774aa30679c85104ddd00e676",
+    "parser_version": "bbpress-v2"
+  }
+}

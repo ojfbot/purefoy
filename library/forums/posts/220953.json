@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "220953",
+    "forum_slug": "forum",
+    "topic_slug": "blue-hour-lighting-tips",
+    "parent_post_id": "220934",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "ckalcic",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for the advice and response! I’ve storyboarded the whole film and the final scene is the one I’m more worried about because of the amount of shots (12 shots) as well as the importance of the scene and the change from blue hour, to dawn, to sunrise. Every other scene only has 3-4 shots that NEED to be blue hour so I can make those work. I know that will all be timing so I’m hoping with the 40 or so minute summer blue hour timeframe I should be able to get through them over the 3 days.\nI keep referring to the chase scene in No Country for Old Men when it switches from night to dawn as Llewelyn is being chased by the truck and dog, I assume it was shot over a few days and not continuous in real time. I know I won’t be able to do it across multiple days, maybe a pickup shot or two but I’ve always loved that scene and would love to hear about how it was lit and how you timed out each section to seamlessly transition from night to sunrise.\nThanks again!",
+  "content_html": "<p>Thank you for the advice and response! I’ve storyboarded the whole film and the final scene is the one I’m more worried about because of the amount of shots (12 shots) as well as the importance of the scene and the change from blue hour, to dawn, to sunrise. Every other scene only has 3-4 shots that NEED to be blue hour so I can make those work. I know that will all be timing so I’m hoping with the 40 or so minute summer blue hour timeframe I should be able to get through them over the 3 days.</p>\n<p>I keep referring to the chase scene in No Country for Old Men when it switches from night to dawn as Llewelyn is being chased by the truck and dog, I assume it was shot over a few days and not continuous in real time. I know I won’t be able to do it across multiple days, maybe a pickup shot or two but I’ve always loved that scene and would love to hear about how it was lit and how you timed out each section to seamlessly transition from night to sunrise.</p>\n<p>Thanks again!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for the advice and response! I’ve storyboarded the whole film and the final scene is the one I’m more worried about because of the amount of shots (12 shots) as well as the importance of the scene and the change from blue hour, to dawn, to sunrise. Every other scene only has 3-4 shots that NEED to be blue hour so I can make those work. I know that will all be timing so I’m hoping with the 40 or so minute summer blue hour timeframe I should be able to get through them over the 3 days."
+    },
+    {
+      "type": "paragraph",
+      "text": "I keep referring to the chase scene in No Country for Old Men when it switches from night to dawn as Llewelyn is being chased by the truck and dog, I assume it was shot over a few days and not continuous in real time. I know I won’t be able to do it across multiple days, maybe a pickup shot or two but I’ve always loved that scene and would love to hear about how it was lit and how you timed out each section to seamlessly transition from night to sunrise."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks again!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/blue-hour-lighting-tips/#post-220969",
+    "scraped_at": "2026-01-15T12:26:16.546903+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-hour-lighting-tips/#post-220969",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5bc32a3d8b59b2aaef520896b1389d2f53e6bd47aa8668d7993a379869cac140",
+    "parser_version": "bbpress-v2"
+  }
+}

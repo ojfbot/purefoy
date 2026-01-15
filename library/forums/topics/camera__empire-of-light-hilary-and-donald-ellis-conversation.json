@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-hilary-and-donald-ellis-conversation/#post-181220",
+  "forum_slug": "camera",
+  "topic_slug": "empire-of-light-hilary-and-donald-ellis-conversation",
+  "title": "Empire of light Hilary and Donald Ellis conversation",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "178892",
+    "178894",
+    "178895",
+    "178899",
+    "179161",
+    "181220"
+  ],
+  "reply_tree": {
+    "post_id": "178892",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "178894",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "178895",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "178899",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "179161",
+        "post_type": "reply",
+        "author": "Zamir",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "181220",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-hilary-and-donald-ellis-conversation/#post-181220",
+    "scraped_at": "2026-01-15T15:44:14.732093+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-hilary-and-donald-ellis-conversation/#post-181220",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6d3a69644a73e289f0378f1046c27f4e396acbafd1c0914b385c704be7a53213",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "post_id": "219537",
+    "forum_slug": "post",
+    "topic_slug": "a-coherent-look-among-different-scenes",
+    "parent_post_id": "219508",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I understand that it’s a tempting shortcut\nI think you misunderstand the term “show LUT”. Roger literally shoots under one and any big movie you have watched did so too. This does not even mean that you use a LUT in post, but exporting the intended look as a LUT is the only way to get it into a camera/monitor.\n“Show LUT” means a look creation. If Roger would shoot his movies with the standard Arri transformation and there would not be any look applied, his movies would feel very different.\nYes, you can’t just slap any LUT on your footage and expect it to magically turn it into something it is not – if you carefully read what I wrote, the essence is that the look needs to be created\nbefore\nshooting.\nUsually experienced colorists do it but I mentioned some transformations above that provide a great starting point for everyone.\nThis is the way the industry works, you can work differently but it’s the safest way to continuity under a pre-crafted idea for a look, which is what you were asking for.",
+  "content_html": "<blockquote><p>I understand that it’s a tempting shortcut</p></blockquote>\n<p>I think you misunderstand the term “show LUT”. Roger literally shoots under one and any big movie you have watched did so too. This does not even mean that you use a LUT in post, but exporting the intended look as a LUT is the only way to get it into a camera/monitor.</p>\n<p>“Show LUT” means a look creation. If Roger would shoot his movies with the standard Arri transformation and there would not be any look applied, his movies would feel very different.</p>\n<p>Yes, you can’t just slap any LUT on your footage and expect it to magically turn it into something it is not – if you carefully read what I wrote, the essence is that the look needs to be created <em>before</em> shooting.</p>\n<p>Usually experienced colorists do it but I mentioned some transformations above that provide a great starting point for everyone.</p>\n<p>This is the way the industry works, you can work differently but it’s the safest way to continuity under a pre-crafted idea for a look, which is what you were asking for.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "I understand that it’s a tempting shortcut"
+    },
+    {
+      "type": "paragraph",
+      "text": "I understand that it’s a tempting shortcut"
+    },
+    {
+      "type": "paragraph",
+      "text": "I think you misunderstand the term “show LUT”. Roger literally shoots under one and any big movie you have watched did so too. This does not even mean that you use a LUT in post, but exporting the intended look as a LUT is the only way to get it into a camera/monitor."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Show LUT” means a look creation. If Roger would shoot his movies with the standard Arri transformation and there would not be any look applied, his movies would feel very different."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes, you can’t just slap any LUT on your footage and expect it to magically turn it into something it is not – if you carefully read what I wrote, the essence is that the look needs to be created\nbefore\nshooting."
+    },
+    {
+      "type": "paragraph",
+      "text": "Usually experienced colorists do it but I mentioned some transformations above that provide a great starting point for everyone."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the way the industry works, you can work differently but it’s the safest way to continuity under a pre-crafted idea for a look, which is what you were asking for."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "I understand that it’s a tempting shortcut"
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-coherent-look-among-different-scenes/#post-219538",
+    "scraped_at": "2026-01-15T11:51:06.667354+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-coherent-look-among-different-scenes/#post-219538",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dca2b2023c9257dc1928c97fd62b225eb31d75ef11f0160d58774502ae17d1be",
+    "parser_version": "bbpress-v2"
+  }
+}

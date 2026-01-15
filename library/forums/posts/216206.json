@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216206",
+    "forum_slug": "camera",
+    "topic_slug": "look-of-film-in-2024",
+    "parent_post_id": "216197",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You were asking about the look of movies on home video pre-D.I. when color-timed interpositives printed from cut negative were used in telecines, not post-D.I. when uncut negative camera rolls were scanned for the D.I.\nBut the 90s were also the era of EXR Kodak stocks before Vision became the norm.",
+  "content_html": "<p>You were asking about the look of movies on home video pre-D.I. when color-timed interpositives printed from cut negative were used in telecines, not post-D.I. when uncut negative camera rolls were scanned for the D.I.</p>\n<p>But the 90s were also the era of EXR Kodak stocks before Vision became the norm.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You were asking about the look of movies on home video pre-D.I. when color-timed interpositives printed from cut negative were used in telecines, not post-D.I. when uncut negative camera rolls were scanned for the D.I."
+    },
+    {
+      "type": "paragraph",
+      "text": "But the 90s were also the era of EXR Kodak stocks before Vision became the norm."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+    "scraped_at": "2026-01-15T14:33:45.473684+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a0b486c8c4b595da59e71d4cc092ed1e4275f32ead5f1982bdc1c4a27955ced6",
+    "parser_version": "bbpress-v2"
+  }
+}

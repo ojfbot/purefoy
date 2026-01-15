@@ -1,0 +1,81 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/proposal-turning-the-tables-on-true-grit-with-david-mullen-asc/#post-217453",
+  "forum_slug": "team-deakins",
+  "topic_slug": "proposal-turning-the-tables-on-true-grit-with-david-mullen-asc",
+  "title": "Proposal: Turning the tables on True Grit with David Mullen ASC?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217435",
+    "217437",
+    "217438",
+    "217441",
+    "217446",
+    "217452",
+    "217453"
+  ],
+  "reply_tree": {
+    "post_id": "217435",
+    "post_type": "topic",
+    "author": "mskb",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "217437",
+        "post_type": "reply",
+        "author": "derekpoore",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217438",
+        "post_type": "reply",
+        "author": "mskb",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217441",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217446",
+        "post_type": "reply",
+        "author": "MNMike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217452",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217453",
+        "post_type": "reply",
+        "author": "mskb",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 6,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/proposal-turning-the-tables-on-true-grit-with-david-mullen-asc/#post-217453",
+    "scraped_at": "2026-01-15T13:05:50.692831+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/proposal-turning-the-tables-on-true-grit-with-david-mullen-asc/#post-217453",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "17dab82b606887ee9aef5962ab49c20424a71b20b90639b0752c71875425821c",
+    "parser_version": "bbpress-v2"
+  }
+}

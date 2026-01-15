@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "220888",
+    "forum_slug": "film-talk",
+    "topic_slug": "which-version-do-you-usually-choose-original-or-restored"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Perhaps it’s a bit odd question, but i’m curious about which version of a movie you usually prefer (if different versions are available, of course) , the original “vintage” movie with all the technical limitations of the time or a new digitally restored version?\nIf i remember correctly i read that Roger was involved in  the digital restoration of some of his movies (1984 perhaps? i apologize but i don’t remember exactly which ones) , so i could infer that you see it as a positive thing. And the devices on which we see movies changed and improved of course.\nBut sometimes if feel like the movie lost something with the restoration, that vintage flawed feel that perhaps was part of its charm.\nBefore i attract Roger’s wrath, i’m not asking about digital vs film cinema, ah ah!\nWhile I appreciate different editing versions (like a “Director’s cut” for example : in that case i prefer the final version approved and created by the director and not the studio), a digitally restored old movie that was shot on film sometimes seems very nice, very perfect but also very cold and lifeless when digitally restored, polished, re-scanned, etc etc.\nI am not talking about Roger’s movies, i just watched  the restored version of an old b/w movie and it looked very polished but a bit fake. Or a more recent movie i love that was restored , re-exposed, re-colored and…it’s a different movie. Somehow i prefer the old bugged version. It’s the one i was used to and it’s the one i absolutely loved and admired.\nIs it a common feeling or am i the strange one as usual?",
+  "content_html": "<p>Perhaps it’s a bit odd question, but i’m curious about which version of a movie you usually prefer (if different versions are available, of course) , the original “vintage” movie with all the technical limitations of the time or a new digitally restored version?</p>\n<p>If i remember correctly i read that Roger was involved in  the digital restoration of some of his movies (1984 perhaps? i apologize but i don’t remember exactly which ones) , so i could infer that you see it as a positive thing. And the devices on which we see movies changed and improved of course.</p>\n<p>But sometimes if feel like the movie lost something with the restoration, that vintage flawed feel that perhaps was part of its charm. <em>Before i attract Roger’s wrath, i’m not asking about digital vs film cinema, ah ah!</em> While I appreciate different editing versions (like a “Director’s cut” for example : in that case i prefer the final version approved and created by the director and not the studio), a digitally restored old movie that was shot on film sometimes seems very nice, very perfect but also very cold and lifeless when digitally restored, polished, re-scanned, etc etc.</p>\n<p>I am not talking about Roger’s movies, i just watched  the restored version of an old b/w movie and it looked very polished but a bit fake. Or a more recent movie i love that was restored , re-exposed, re-colored and…it’s a different movie. Somehow i prefer the old bugged version. It’s the one i was used to and it’s the one i absolutely loved and admired.</p>\n<p>Is it a common feeling or am i the strange one as usual?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Perhaps it’s a bit odd question, but i’m curious about which version of a movie you usually prefer (if different versions are available, of course) , the original “vintage” movie with all the technical limitations of the time or a new digitally restored version?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If i remember correctly i read that Roger was involved in  the digital restoration of some of his movies (1984 perhaps? i apologize but i don’t remember exactly which ones) , so i could infer that you see it as a positive thing. And the devices on which we see movies changed and improved of course."
+    },
+    {
+      "type": "paragraph",
+      "text": "But sometimes if feel like the movie lost something with the restoration, that vintage flawed feel that perhaps was part of its charm.\nBefore i attract Roger’s wrath, i’m not asking about digital vs film cinema, ah ah!\nWhile I appreciate different editing versions (like a “Director’s cut” for example : in that case i prefer the final version approved and created by the director and not the studio), a digitally restored old movie that was shot on film sometimes seems very nice, very perfect but also very cold and lifeless when digitally restored, polished, re-scanned, etc etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am not talking about Roger’s movies, i just watched  the restored version of an old b/w movie and it looked very polished but a bit fake. Or a more recent movie i love that was restored , re-exposed, re-colored and…it’s a different movie. Somehow i prefer the old bugged version. It’s the one i was used to and it’s the one i absolutely loved and admired."
+    },
+    {
+      "type": "paragraph",
+      "text": "Is it a common feeling or am i the strange one as usual?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/which-version-do-you-usually-choose-original-or-restored/",
+    "scraped_at": "2026-01-15T14:33:52.773892+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/which-version-do-you-usually-choose-original-or-restored/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "da293725336a7ac9771ae0d94322350cc6ddfff1058cd10d50e04a5f8c321577",
+    "parser_version": "bbpress-v2"
+  }
+}

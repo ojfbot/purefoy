@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/what-app-do-you-guys-use-now-that-dark-sky-doesnt-exist/",
+  "forum_slug": "forum",
+  "topic_slug": "what-app-do-you-guys-use-now-that-dark-sky-doesnt-exist",
+  "title": "What app do you guys use now that Dark Sky doesn’t exist?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "211116"
+  ],
+  "reply_tree": {
+    "post_id": "211116",
+    "post_type": "topic",
+    "author": "umbrella",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-app-do-you-guys-use-now-that-dark-sky-doesnt-exist/",
+    "scraped_at": "2026-01-15T15:53:33.625048+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-app-do-you-guys-use-now-that-dark-sky-doesnt-exist/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e4aa92a5f10dc2e1f6a893517261f2d33bcedbea95f221223dc9e13306564a97",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/pull-push-processing/#post-218094",
+  "forum_slug": "camera",
+  "topic_slug": "pull-push-processing",
+  "title": "Pull/Push Processing",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "218083",
+    "218094"
+  ],
+  "reply_tree": {
+    "post_id": "218083",
+    "post_type": "topic",
+    "author": "elliottdeem",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "218094",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/pull-push-processing/#post-218094",
+    "scraped_at": "2026-01-15T12:49:02.834769+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/pull-push-processing/#post-218094",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "de8b904a185440852ae8a9cfc7355f7ab05c805e47dc12129683f474fdd1c398",
+    "parser_version": "bbpress-v2"
+  }
+}

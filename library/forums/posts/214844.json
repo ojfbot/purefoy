@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214844",
+    "forum_slug": "film-talk",
+    "topic_slug": "thoughts-on-books-by-blain-brown",
+    "parent_post_id": "214833",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’ve only read Blain Brown’s book on digital imaging and that was several years ago but I remember thinking at the time that it was an excellent primer. To Stip’s point, Brown’s books aren’t really prescriptive, he’s not teaching you ‘his’ way of doing things, the concepts are much more elementary and aimed at the beginner.",
+  "content_html": "<p>I’ve only read Blain Brown’s book on digital imaging and that was several years ago but I remember thinking at the time that it was an excellent primer. To Stip’s point, Brown’s books aren’t really prescriptive, he’s not teaching you ‘his’ way of doing things, the concepts are much more elementary and aimed at the beginner.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’ve only read Blain Brown’s book on digital imaging and that was several years ago but I remember thinking at the time that it was an excellent primer. To Stip’s point, Brown’s books aren’t really prescriptive, he’s not teaching you ‘his’ way of doing things, the concepts are much more elementary and aimed at the beginner."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-books-by-blain-brown/#post-214886",
+    "scraped_at": "2026-01-15T13:56:41.575857+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-books-by-blain-brown/#post-214886",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e845f7334e0041792943c567927074fef10656916e2fa6613cb82d165090cc06",
+    "parser_version": "bbpress-v2"
+  }
+}

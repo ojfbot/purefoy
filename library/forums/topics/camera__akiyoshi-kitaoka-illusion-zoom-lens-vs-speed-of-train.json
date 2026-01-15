@@ -1,0 +1,97 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train/#post-215976",
+  "forum_slug": "camera",
+  "topic_slug": "akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train",
+  "title": "akiyoshi kitaoka illusion (zoom lens vs speed of train)",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215916",
+    "215945",
+    "215953",
+    "215955",
+    "215957",
+    "215960",
+    "215962",
+    "215963",
+    "215976"
+  ],
+  "reply_tree": {
+    "post_id": "215916",
+    "post_type": "topic",
+    "author": "r.k.Logeshwaran",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215945",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215953",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215955",
+        "post_type": "reply",
+        "author": "Valou",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215957",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215960",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215962",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215963",
+        "post_type": "reply",
+        "author": "r.k.Logeshwaran",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215976",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 8,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train/#post-215976",
+    "scraped_at": "2026-01-15T15:20:09.311898+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train/#post-215976",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5352aebbf23d4780caa9439221c1c757175f6f5368dc0b85409e1b6b69b5fb12",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "214762",
+    "forum_slug": "camera",
+    "topic_slug": "whats-the-deal-with-50mm",
+    "parent_post_id": "214750",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Right! Interesting! Perhaps it was simply that the 50mm was easier to make. But for the movies wasn’t it also about projection? The viewer in the premium seat and their field of view being in sync with the camera on the set. I thought I read somewhere.\nThis reply was modified 2 years, 5 months ago by\nRoger Deakins\n.",
+  "content_html": "<p>Right! Interesting! Perhaps it was simply that the 50mm was easier to make. But for the movies wasn’t it also about projection? The viewer in the premium seat and their field of view being in sync with the camera on the set. I thought I read somewhere.</p>\n<ul class=\"bbp-reply-revision-log\" id=\"bbp-reply-revision-log-214762\">\n<li class=\"bbp-reply-revision-log-item\" id=\"bbp-reply-revision-log-214762-item-214771\">\n\t\tThis reply was modified 2 years, 5 months ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/roger/\" title=\"View Roger Deakins's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png\" srcset=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-28x28.png 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">Roger Deakins</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Right! Interesting! Perhaps it was simply that the 50mm was easier to make. But for the movies wasn’t it also about projection? The viewer in the premium seat and their field of view being in sync with the camera on the set. I thought I read somewhere."
+    },
+    {
+      "type": "list",
+      "text": "This reply was modified 2 years, 5 months ago by\nRoger Deakins\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/roger/",
+      "text": "Roger Deakins",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/whats-the-deal-with-50mm/#post-214774",
+    "scraped_at": "2026-01-15T15:25:13.285612+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/whats-the-deal-with-50mm/#post-214774",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a1fd185c124d26a794dcdc2968b397ba69a06b138726fa8e3816de3ab834d0f1",
+    "parser_version": "bbpress-v2"
+  }
+}

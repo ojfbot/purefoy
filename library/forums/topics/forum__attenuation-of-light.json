@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/attenuation-of-light/#post-201860",
+  "forum_slug": "forum",
+  "topic_slug": "attenuation-of-light",
+  "title": "Attenuation of light",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "198716",
+    "199365",
+    "199724",
+    "200142",
+    "200604",
+    "201860"
+  ],
+  "reply_tree": {
+    "post_id": "198716",
+    "post_type": "topic",
+    "author": "jeff791107",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "199365",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "199724",
+        "post_type": "reply",
+        "author": "jeff791107",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "200142",
+        "post_type": "reply",
+        "author": "gabj3",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "200604",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "201860",
+        "post_type": "reply",
+        "author": "adrianwolfson",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/attenuation-of-light/#post-201860",
+    "scraped_at": "2026-01-15T15:54:25.141066+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/attenuation-of-light/#post-201860",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "723095c779ddf1de525f6caf7c2773fa0480e5ce2b7582148fe5f3509f85ff7f",
+    "parser_version": "bbpress-v2"
+  }
+}

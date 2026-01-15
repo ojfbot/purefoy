@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "220052",
+    "forum_slug": "camera",
+    "topic_slug": "hybrid-process"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Vasu",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Master Roger & David & Everyone in the forum.\nRecently i was re visiting the hybrid process of DP Greig Fraser on the films Batman & Dune 1. I read that they posted the color corrected digital files on inter postive stocks vision3 5254 and took prints out from them. What i didn’t understand is that did they post it on negative and developed into a postive like the way they shoot in film or is it different from that. it would be great if you share details in brief about this process\nThank You",
+  "content_html": "<p>Hi Master Roger &amp; David &amp; Everyone in the forum.</p>\n<p>Recently i was re visiting the hybrid process of DP Greig Fraser on the films Batman &amp; Dune 1. I read that they posted the color corrected digital files on inter postive stocks vision3 5254 and took prints out from them. What i didn’t understand is that did they post it on negative and developed into a postive like the way they shoot in film or is it different from that. it would be great if you share details in brief about this process</p>\n<p>Thank You</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Master Roger & David & Everyone in the forum."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recently i was re visiting the hybrid process of DP Greig Fraser on the films Batman & Dune 1. I read that they posted the color corrected digital files on inter postive stocks vision3 5254 and took prints out from them. What i didn’t understand is that did they post it on negative and developed into a postive like the way they shoot in film or is it different from that. it would be great if you share details in brief about this process"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank You"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/hybrid-process/#post-220086",
+    "scraped_at": "2026-01-15T12:26:18.460756+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/hybrid-process/#post-220086",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2bdffdc5155bb9654708eca672061e7fe631d593f7b771643dc34751d7e0aa0a",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "170446",
+    "forum_slug": "camera",
+    "topic_slug": "differences-between-the-arri-xt-studio-and-other-cameras"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Tapuz",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Mr.Deakins\nI read some articles online saying that you shot ‘Skyfall’ of the 007 franchise with an ARRI ALEXA XT Studio, which has an optical viewfinder and a mechanical shutter. I have always been curious about the experience of using analog structures like these on a digital camera, and whether they have an impact on the image coming out of the camera when compared to normal digital cameras. Does the identical optical structure bring a different image? (e.g. different looks of motion blur or sth.) Is there a particular reason why you chose to use the Studio? What does it feel like when using a machine that combined optical structures with a digital sensor?",
+  "content_html": "<p>Hi Mr.Deakins</p>\n<p>I read some articles online saying that you shot ‘Skyfall’ of the 007 franchise with an ARRI ALEXA XT Studio, which has an optical viewfinder and a mechanical shutter. I have always been curious about the experience of using analog structures like these on a digital camera, and whether they have an impact on the image coming out of the camera when compared to normal digital cameras. Does the identical optical structure bring a different image? (e.g. different looks of motion blur or sth.) Is there a particular reason why you chose to use the Studio? What does it feel like when using a machine that combined optical structures with a digital sensor?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Mr.Deakins"
+    },
+    {
+      "type": "paragraph",
+      "text": "I read some articles online saying that you shot ‘Skyfall’ of the 007 franchise with an ARRI ALEXA XT Studio, which has an optical viewfinder and a mechanical shutter. I have always been curious about the experience of using analog structures like these on a digital camera, and whether they have an impact on the image coming out of the camera when compared to normal digital cameras. Does the identical optical structure bring a different image? (e.g. different looks of motion blur or sth.) Is there a particular reason why you chose to use the Studio? What does it feel like when using a machine that combined optical structures with a digital sensor?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/differences-between-the-arri-xt-studio-and-other-cameras/#post-170457",
+    "scraped_at": "2026-01-15T15:46:20.090554+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/differences-between-the-arri-xt-studio-and-other-cameras/#post-170457",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "46286419513404cd9738e1b2867f47f91254a094b6da535e136c2dcbceb72223",
+    "parser_version": "bbpress-v2"
+  }
+}

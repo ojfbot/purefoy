@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/creating-consistent-lighting-philosophy/",
+  "forum_slug": "forum",
+  "topic_slug": "creating-consistent-lighting-philosophy",
+  "title": "Creating consistent lighting philosophy",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214619"
+  ],
+  "reply_tree": {
+    "post_id": "214619",
+    "post_type": "topic",
+    "author": "Gustavo Perez",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/creating-consistent-lighting-philosophy/",
+    "scraped_at": "2026-01-15T15:52:15.446378+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-consistent-lighting-philosophy/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "580c36829c4e05cb1328fc8ee006e59c6029def2bbdc0bd6e3ca484de2722613",
+    "parser_version": "bbpress-v2"
+  }
+}

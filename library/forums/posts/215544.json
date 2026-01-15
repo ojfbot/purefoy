@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "post_id": "215544",
+    "forum_slug": "forum",
+    "topic_slug": "about-low-key-lighting",
+    "parent_post_id": "215519",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Max,\nI am bad at explaining. First, what I described is only valid when shooting raw, not when shooting compresses codecs like Prores!\nLet’s say your camera shoots raw and has a base ISO of 800. And let’s say the camera has 10 stops of dynamic range. And that at the base ISO 800, dynamic range is evenly distributed at 5 stops below and 5 stops above middle grey.\nIf you now lower the ISO to 400, the image on your monitor gets darker, right? That’s all that happens when shooting raw and changing ISO – the preview image gets brighter or darker (except the camera has dual ISO). Changing ISO from 800 to 400 darkens the monitor image by 1 stop.\nIf you now expose and light according to that monitor image, you let 1 stop more of light hit your sensor compared to ISO 800. You now have 6 stops of dynamic range below and 4 stops above middle grey, so more in the shadows.\nAgain, this only works when shooting raw. By changing ISO, basically all you do is change the preview image and thus your behavior in lighting and exposure.\nMaybe an easier example: You light a low key scene at ISO 400 and T2. Now you change ISO to 800. The image gets 1 stop too bright. To compensate, you close down the aperture to T2.8. Now exposure looks the same as at ISO 400 T2, but 1 stop less of light hits the sensor and the shadows get noisier.\nSometimes Visual Effects want a very clean image and then it makes sense to try and get a low key scene as clean as possible.",
+  "content_html": "<p>Max,</p>\n<p>I am bad at explaining. First, what I described is only valid when shooting raw, not when shooting compresses codecs like Prores!</p>\n<p>Let’s say your camera shoots raw and has a base ISO of 800. And let’s say the camera has 10 stops of dynamic range. And that at the base ISO 800, dynamic range is evenly distributed at 5 stops below and 5 stops above middle grey.</p>\n<p>If you now lower the ISO to 400, the image on your monitor gets darker, right? That’s all that happens when shooting raw and changing ISO – the preview image gets brighter or darker (except the camera has dual ISO). Changing ISO from 800 to 400 darkens the monitor image by 1 stop.</p>\n<p>If you now expose and light according to that monitor image, you let 1 stop more of light hit your sensor compared to ISO 800. You now have 6 stops of dynamic range below and 4 stops above middle grey, so more in the shadows.</p>\n<p>Again, this only works when shooting raw. By changing ISO, basically all you do is change the preview image and thus your behavior in lighting and exposure.</p>\n<p>Maybe an easier example: You light a low key scene at ISO 400 and T2. Now you change ISO to 800. The image gets 1 stop too bright. To compensate, you close down the aperture to T2.8. Now exposure looks the same as at ISO 400 T2, but 1 stop less of light hits the sensor and the shadows get noisier.</p>\n<p>Sometimes Visual Effects want a very clean image and then it makes sense to try and get a low key scene as clean as possible.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Max,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am bad at explaining. First, what I described is only valid when shooting raw, not when shooting compresses codecs like Prores!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s say your camera shoots raw and has a base ISO of 800. And let’s say the camera has 10 stops of dynamic range. And that at the base ISO 800, dynamic range is evenly distributed at 5 stops below and 5 stops above middle grey."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you now lower the ISO to 400, the image on your monitor gets darker, right? That’s all that happens when shooting raw and changing ISO – the preview image gets brighter or darker (except the camera has dual ISO). Changing ISO from 800 to 400 darkens the monitor image by 1 stop."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you now expose and light according to that monitor image, you let 1 stop more of light hit your sensor compared to ISO 800. You now have 6 stops of dynamic range below and 4 stops above middle grey, so more in the shadows."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, this only works when shooting raw. By changing ISO, basically all you do is change the preview image and thus your behavior in lighting and exposure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe an easier example: You light a low key scene at ISO 400 and T2. Now you change ISO to 800. The image gets 1 stop too bright. To compensate, you close down the aperture to T2.8. Now exposure looks the same as at ISO 400 T2, but 1 stop less of light hits the sensor and the shadows get noisier."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes Visual Effects want a very clean image and then it makes sense to try and get a low key scene as clean as possible."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+    "scraped_at": "2026-01-15T15:46:20.707584+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a91461fe478d513f030fd557a6d1385a4ac4adb75f2ae17057a5a3182985ef6e",
+    "parser_version": "bbpress-v2"
+  }
+}

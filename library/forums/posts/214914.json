@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "214914",
+    "forum_slug": "forum",
+    "topic_slug": "phantom-thread-cafe-scene",
+    "parent_post_id": "214912",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Phanton of Thread location photos.",
+  "content_html": "<p><em>Phanton of Thread location photos.<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214914/s9s91dfimhs6jtq50416ie57mca33ep7.jpeg\"/></em></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Phanton of Thread location photos."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214914/s9s91dfimhs6jtq50416ie57mca33ep7.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/phantom-thread-cafe-scene/#post-214960",
+    "scraped_at": "2026-01-15T15:50:06.663544+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/phantom-thread-cafe-scene/#post-214960",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "90b4f5866206882f83f6267156778ded3ee9cc136a22191c18b551d1ee84568c",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "post_id": "215865",
+    "forum_slug": "camera",
+    "topic_slug": "high-iso-for-shooting-daylight-exterior",
+    "parent_post_id": "215856",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m sorry, Stip, but you’re incorrect. Spatial compression does not influence the distribution of camera latitude.\nThe ideology behind this is a camera is a radiometrically linear device. You quantize (convert to digital)  the signal linearly; once in this digital domain, the change of ISO by half or double is similar to a 2* or 1/2 operation of that linear quantized signal.\n(In post, the manufacturer’s SDK typically linearises the logarithmic container in your NLE when dealing with RAW files to adjust ISO.)\nThus, raising your ISO is essentially ‘under-exposing’ the image. If you under-expose an image without this ISO adjustment (staying at native), it will look darker, with retained highlights. When you amplify this signal in the digital domain (over-expose with ISO), the image will look correct, with retained highlights.\nIt’s important to note that heavy amplification of finite digital values causes aggressive noise patterns. This is due to the finite values; if you have values of 2, 3, 4, and 5 as your linear quantised native signal and amplify them by a factor of 6 (ISO), your discrete steps become 12, 18, 24, and 30. Large value gaps are easily noticeable by our photopic vision because we perceive light logarithmically (each stop of linear light with the same amount of value).\nAs a final exciting thought, your photopic vision perceives light logarithmically in a linear realm; our brain does a linear to logarithmic transform, and a camera does a linear to logarithmic transform; this is why the logarithmic container looks incorrect to us, as we’re playing a logarithmic distribution of luminance before the linear to logarithmic conversion in our mind!\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>I’m sorry, Stip, but you’re incorrect. Spatial compression does not influence the distribution of camera latitude.</p>\n<p>The ideology behind this is a camera is a radiometrically linear device. You quantize (convert to digital)  the signal linearly; once in this digital domain, the change of ISO by half or double is similar to a 2* or 1/2 operation of that linear quantized signal.</p>\n<p>(In post, the manufacturer’s SDK typically linearises the logarithmic container in your NLE when dealing with RAW files to adjust ISO.)</p>\n<p>Thus, raising your ISO is essentially ‘under-exposing’ the image. If you under-expose an image without this ISO adjustment (staying at native), it will look darker, with retained highlights. When you amplify this signal in the digital domain (over-expose with ISO), the image will look correct, with retained highlights.</p>\n<p>It’s important to note that heavy amplification of finite digital values causes aggressive noise patterns. This is due to the finite values; if you have values of 2, 3, 4, and 5 as your linear quantised native signal and amplify them by a factor of 6 (ISO), your discrete steps become 12, 18, 24, and 30. Large value gaps are easily noticeable by our photopic vision because we perceive light logarithmically (each stop of linear light with the same amount of value).</p>\n<p>As a final exciting thought, your photopic vision perceives light logarithmically in a linear realm; our brain does a linear to logarithmic transform, and a camera does a linear to logarithmic transform; this is why the logarithmic container looks incorrect to us, as we’re playing a logarithmic distribution of luminance before the linear to logarithmic conversion in our mind!</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m sorry, Stip, but you’re incorrect. Spatial compression does not influence the distribution of camera latitude."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ideology behind this is a camera is a radiometrically linear device. You quantize (convert to digital)  the signal linearly; once in this digital domain, the change of ISO by half or double is similar to a 2* or 1/2 operation of that linear quantized signal."
+    },
+    {
+      "type": "paragraph",
+      "text": "(In post, the manufacturer’s SDK typically linearises the logarithmic container in your NLE when dealing with RAW files to adjust ISO.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thus, raising your ISO is essentially ‘under-exposing’ the image. If you under-expose an image without this ISO adjustment (staying at native), it will look darker, with retained highlights. When you amplify this signal in the digital domain (over-expose with ISO), the image will look correct, with retained highlights."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s important to note that heavy amplification of finite digital values causes aggressive noise patterns. This is due to the finite values; if you have values of 2, 3, 4, and 5 as your linear quantised native signal and amplify them by a factor of 6 (ISO), your discrete steps become 12, 18, 24, and 30. Large value gaps are easily noticeable by our photopic vision because we perceive light logarithmically (each stop of linear light with the same amount of value)."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a final exciting thought, your photopic vision perceives light logarithmically in a linear realm; our brain does a linear to logarithmic transform, and a camera does a linear to logarithmic transform; this is why the logarithmic container looks incorrect to us, as we’re playing a logarithmic distribution of luminance before the linear to logarithmic conversion in our mind!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/high-iso-for-shooting-daylight-exterior/",
+    "scraped_at": "2026-01-15T15:20:21.251705+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/high-iso-for-shooting-daylight-exterior/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4936ca00eb650c1976870c29f643bc2377e6957e877b809a454e3ca90a2de257",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/establishing-shots-focal-lengths/#post-214701",
+  "forum_slug": "composition",
+  "topic_slug": "establishing-shots-focal-lengths",
+  "title": "establishing shots focal lengths",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214699",
+    "214701"
+  ],
+  "reply_tree": {
+    "post_id": "214699",
+    "post_type": "topic",
+    "author": "djamel",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214701",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/establishing-shots-focal-lengths/#post-214701",
+    "scraped_at": "2026-01-15T13:05:58.296187+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/establishing-shots-focal-lengths/#post-214701",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1c45c65cec5989850036c28d096df326724a8e00ef8b713c43d2c0bbcff23a3e",
+    "parser_version": "bbpress-v2"
+  }
+}

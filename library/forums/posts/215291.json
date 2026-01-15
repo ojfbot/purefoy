@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215291",
+    "forum_slug": "camera",
+    "topic_slug": "lens-focal-lengths",
+    "parent_post_id": "215287",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Only Roger knows what he was thinking about, of course, but for example the Alexa Mini LF (the one from 1917) is full frame (I’m not an expert, i’ve just looked for It and i may be wrong).\nAnyway, I was watching the very same video the other day! 🙂 I suppose you listened to the podcast episode about lensens (the video Is taken from that i think) and what i learned is that it’s pointless (for me) to know what gear he uses, it’s the way of thinking that i can try (just try) to use. Wide lenses to put an important character in context, longer lenses for less important characters, prime lenses to be forced to take decisions and somehow to create “intimacy” with the actors and make the audience feeling to “be in the scene”, not “watching a movie”, etc. In this way is not that relevant, i think, the size of the sensor and the equivalence.",
+  "content_html": "<p>Only Roger knows what he was thinking about, of course, but for example the Alexa Mini LF (the one from 1917) is full frame (I’m not an expert, i’ve just looked for It and i may be wrong).</p>\n<p>Anyway, I was watching the very same video the other day! 🙂 I suppose you listened to the podcast episode about lensens (the video Is taken from that i think) and what i learned is that it’s pointless (for me) to know what gear he uses, it’s the way of thinking that i can try (just try) to use. Wide lenses to put an important character in context, longer lenses for less important characters, prime lenses to be forced to take decisions and somehow to create “intimacy” with the actors and make the audience feeling to “be in the scene”, not “watching a movie”, etc. In this way is not that relevant, i think, the size of the sensor and the equivalence.</p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Only Roger knows what he was thinking about, of course, but for example the Alexa Mini LF (the one from 1917) is full frame (I’m not an expert, i’ve just looked for It and i may be wrong)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Anyway, I was watching the very same video the other day! 🙂 I suppose you listened to the podcast episode about lensens (the video Is taken from that i think) and what i learned is that it’s pointless (for me) to know what gear he uses, it’s the way of thinking that i can try (just try) to use. Wide lenses to put an important character in context, longer lenses for less important characters, prime lenses to be forced to take decisions and somehow to create “intimacy” with the actors and make the audience feeling to “be in the scene”, not “watching a movie”, etc. In this way is not that relevant, i think, the size of the sensor and the equivalence."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lens-focal-lengths/#post-215292",
+    "scraped_at": "2026-01-15T15:22:31.387497+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lens-focal-lengths/#post-215292",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "12174a2415f19f538437771cfee595b5de108453d6f4ae26dc6c2f6e60449b5d",
+    "parser_version": "bbpress-v2"
+  }
+}

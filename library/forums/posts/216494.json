@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "216494",
+    "forum_slug": "forum",
+    "topic_slug": "white-balance-warm-tungsten",
+    "parent_post_id": "216221",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "BlacksheepPictures",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "So in a scene like this, should I set the camera to 5600K and the lights to 3600K, or am I completely off? Thanks, you’re really helping me!",
+  "content_html": "<p>So in a scene like this, should I set the camera to 5600K and the lights to 3600K, or am I completely off? Thanks, you’re really helping me!<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216494/g14x38wopgty8i0tu7pvgeo7ap7jdszw.JPG\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "So in a scene like this, should I set the camera to 5600K and the lights to 3600K, or am I completely off? Thanks, you’re really helping me!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216494/g14x38wopgty8i0tu7pvgeo7ap7jdszw.JPG",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/",
+    "scraped_at": "2026-01-15T15:23:58.132463+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f9883f99e404d46fd5b97c691b0b1a1c693004271cba466d59f7f604c1f45670",
+    "parser_version": "bbpress-v2"
+  }
+}

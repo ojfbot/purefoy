@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "219154",
+    "forum_slug": "camera",
+    "topic_slug": "pre-flashing-negative-effects-on-image-david",
+    "parent_post_id": "218909",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Personally, I would not say there was any more anarchy in the chemical process than in the digital realm. Of course, in the digital world you can see the results straight away whereas with film you need to test.\nThink of flashing the negative as bringing up the fog level of the emulsion. The clear areas are fogged and that leaves more information in the blacks of the print. The more intense the light the less intense the shadows. I have flashed/fogged with a very warm colored light to introduce color into the shadows. On The Assassination of Jesse James we intended to both flash the negative with a warm light, to produce color in the shadows, while using a bleach bypass process to enhance the contrast and reduce the saturation. In the end we decided to process the neg with a bleach bypass but to create the warmth in the DI. The point is that we could have done it photochemically had we the time and money. These processes can be quite precise.",
+  "content_html": "<p>Personally, I would not say there was any more anarchy in the chemical process than in the digital realm. Of course, in the digital world you can see the results straight away whereas with film you need to test.</p>\n<p>Think of flashing the negative as bringing up the fog level of the emulsion. The clear areas are fogged and that leaves more information in the blacks of the print. The more intense the light the less intense the shadows. I have flashed/fogged with a very warm colored light to introduce color into the shadows. On The Assassination of Jesse James we intended to both flash the negative with a warm light, to produce color in the shadows, while using a bleach bypass process to enhance the contrast and reduce the saturation. In the end we decided to process the neg with a bleach bypass but to create the warmth in the DI. The point is that we could have done it photochemically had we the time and money. These processes can be quite precise.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Personally, I would not say there was any more anarchy in the chemical process than in the digital realm. Of course, in the digital world you can see the results straight away whereas with film you need to test."
+    },
+    {
+      "type": "paragraph",
+      "text": "Think of flashing the negative as bringing up the fog level of the emulsion. The clear areas are fogged and that leaves more information in the blacks of the print. The more intense the light the less intense the shadows. I have flashed/fogged with a very warm colored light to introduce color into the shadows. On The Assassination of Jesse James we intended to both flash the negative with a warm light, to produce color in the shadows, while using a bleach bypass process to enhance the contrast and reduce the saturation. In the end we decided to process the neg with a bleach bypass but to create the warmth in the DI. The point is that we could have done it photochemically had we the time and money. These processes can be quite precise."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/pre-flashing-negative-effects-on-image-david/#post-219162",
+    "scraped_at": "2026-01-15T12:42:19.745358+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/pre-flashing-negative-effects-on-image-david/#post-219162",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "77a13934f25acf45d6200931c8afb199badc54544131ce20b82611642485ffa8",
+    "parser_version": "bbpress-v2"
+  }
+}

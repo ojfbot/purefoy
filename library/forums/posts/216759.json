@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "216759",
+    "forum_slug": "composition",
+    "topic_slug": "thoughts-on-a-short-film-i-made-one-minute",
+    "parent_post_id": "215568",
+    "parent_type": "topic",
+    "position": 11
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "bardanmcguire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’ve had the camera for four years now and I have to say it’s one of my favourite things I own. It’s never let me down, not even once. It works perfectly used nearly daily for years.\nNow, I haven’t used any other of the cameras that blackmagic offers but I wouldn’t say that you need anything more than what the 4k has to make anything you want. It has a good sensor, it’s small, has good UI, it’s fast and easy to adapt lenses on to.\nI bought the camera with my brother when we were in university to upgrade from our canon eos m and it helped me get through uni in a big way. It’s a great little workhorse.\nAlso, I meant to mention that the fact it has braw makes an ENORMOUS difference compared to cameras in it’s price range. You just can’t beat the flexibility of raw when colour grading. I’ve saved many incorrectly exposed shots because of it.\nI have friends that own much more expensive cameras like Red’s, Sony’s and Arri’s but the footage from any blackmagic camera shooting braw and properly graded is indistinguishable from them. The 4k performs like a much more expensive camera considering it’s capabilities.\nIf you’re getting one you should keep your camera rigging as simple as you possibly can, have as minimal of a setup as you can, don’t overcomplicate it. Also for the love of god don’t record externally with the 4k, get an angelbird SD or CFast card. Just trust me on that one.",
+  "content_html": "<p>I’ve had the camera for four years now and I have to say it’s one of my favourite things I own. It’s never let me down, not even once. It works perfectly used nearly daily for years.</p>\n<p>Now, I haven’t used any other of the cameras that blackmagic offers but I wouldn’t say that you need anything more than what the 4k has to make anything you want. It has a good sensor, it’s small, has good UI, it’s fast and easy to adapt lenses on to.</p>\n<p>I bought the camera with my brother when we were in university to upgrade from our canon eos m and it helped me get through uni in a big way. It’s a great little workhorse.</p>\n<p>Also, I meant to mention that the fact it has braw makes an ENORMOUS difference compared to cameras in it’s price range. You just can’t beat the flexibility of raw when colour grading. I’ve saved many incorrectly exposed shots because of it.</p>\n<p>I have friends that own much more expensive cameras like Red’s, Sony’s and Arri’s but the footage from any blackmagic camera shooting braw and properly graded is indistinguishable from them. The 4k performs like a much more expensive camera considering it’s capabilities.</p>\n<p>If you’re getting one you should keep your camera rigging as simple as you possibly can, have as minimal of a setup as you can, don’t overcomplicate it. Also for the love of god don’t record externally with the 4k, get an angelbird SD or CFast card. Just trust me on that one.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’ve had the camera for four years now and I have to say it’s one of my favourite things I own. It’s never let me down, not even once. It works perfectly used nearly daily for years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, I haven’t used any other of the cameras that blackmagic offers but I wouldn’t say that you need anything more than what the 4k has to make anything you want. It has a good sensor, it’s small, has good UI, it’s fast and easy to adapt lenses on to."
+    },
+    {
+      "type": "paragraph",
+      "text": "I bought the camera with my brother when we were in university to upgrade from our canon eos m and it helped me get through uni in a big way. It’s a great little workhorse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, I meant to mention that the fact it has braw makes an ENORMOUS difference compared to cameras in it’s price range. You just can’t beat the flexibility of raw when colour grading. I’ve saved many incorrectly exposed shots because of it."
+    },
+    {
+      "type": "paragraph",
+      "text": "I have friends that own much more expensive cameras like Red’s, Sony’s and Arri’s but the footage from any blackmagic camera shooting braw and properly graded is indistinguishable from them. The 4k performs like a much more expensive camera considering it’s capabilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you’re getting one you should keep your camera rigging as simple as you possibly can, have as minimal of a setup as you can, don’t overcomplicate it. Also for the love of god don’t record externally with the 4k, get an angelbird SD or CFast card. Just trust me on that one."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-a-short-film-i-made-one-minute/#post-216759",
+    "scraped_at": "2026-01-15T12:26:17.743259+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-a-short-film-i-made-one-minute/#post-216759",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1dcaf56ef7c5798bffd99a104c1187606dbd159e629c5de6e1a086380278b1ee",
+    "parser_version": "bbpress-v2"
+  }
+}

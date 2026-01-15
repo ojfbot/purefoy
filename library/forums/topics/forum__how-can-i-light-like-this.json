@@ -1,0 +1,81 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/how-can-i-light-like-this/#post-215842",
+  "forum_slug": "forum",
+  "topic_slug": "how-can-i-light-like-this",
+  "title": "how can i light like this?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215818",
+    "215819",
+    "215821",
+    "215822",
+    "215823",
+    "215824",
+    "215842"
+  ],
+  "reply_tree": {
+    "post_id": "215818",
+    "post_type": "topic",
+    "author": "Ali Asadi skylow",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215819",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215821",
+        "post_type": "reply",
+        "author": "Ali Asadi skylow",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215822",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215823",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215824",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215842",
+        "post_type": "reply",
+        "author": "gabj3",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 6,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-can-i-light-like-this/#post-215842",
+    "scraped_at": "2026-01-15T15:44:13.068265+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-can-i-light-like-this/#post-215842",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ffa784e4a4725dced424f9f667b89d69344051ca02c7fab5de332fdadf64a448",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216962",
+    "forum_slug": "forum",
+    "topic_slug": "light-density",
+    "parent_post_id": "216918",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "My take is that I love being in the real world but practical considerations often prohibit that. Otherwise, anything to avoid a blue screen!\nFor a day scene I generally prefer to light through a window and let the exterior blow out. With a flat white beyond, a luminance key will easily create a matte line from a window frame or doorway for whatever might need to be inserted later.\nFor night work I have no problem with real ‘poor man’s process. Of course, it has its limitations but what is shot in camera can always be augmented in post if it is really needed.",
+  "content_html": "<p>My take is that I love being in the real world but practical considerations often prohibit that. Otherwise, anything to avoid a blue screen!</p>\n<p>For a day scene I generally prefer to light through a window and let the exterior blow out. With a flat white beyond, a luminance key will easily create a matte line from a window frame or doorway for whatever might need to be inserted later.</p>\n<p>For night work I have no problem with real ‘poor man’s process. Of course, it has its limitations but what is shot in camera can always be augmented in post if it is really needed.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "My take is that I love being in the real world but practical considerations often prohibit that. Otherwise, anything to avoid a blue screen!"
+    },
+    {
+      "type": "paragraph",
+      "text": "For a day scene I generally prefer to light through a window and let the exterior blow out. With a flat white beyond, a luminance key will easily create a matte line from a window frame or doorway for whatever might need to be inserted later."
+    },
+    {
+      "type": "paragraph",
+      "text": "For night work I have no problem with real ‘poor man’s process. Of course, it has its limitations but what is shot in camera can always be augmented in post if it is really needed."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/light-density/#post-216962",
+    "scraped_at": "2026-01-15T15:22:24.872842+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/light-density/#post-216962",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0ad06e460eb646392ecca43bda41151247bb8522833b4ec3fc3e07631952d8dd",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "178896",
+    "forum_slug": "film-talk",
+    "topic_slug": "all-quiet-on-the-western-front",
+    "parent_post_id": "174920",
+    "parent_type": "topic",
+    "position": 12
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Master Roger can we say “all quiet on the Western front ” movie is larger than life.",
+  "content_html": "<p>Master Roger can we say “all quiet on the Western front ” movie is larger than life.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Master Roger can we say “all quiet on the Western front ” movie is larger than life."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/all-quiet-on-the-western-front/#post-178896",
+    "scraped_at": "2026-01-15T14:33:25.367587+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/all-quiet-on-the-western-front/#post-178896",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ed9957c5c3708b24f753ec19ecc43b37890d324297e83326b7f982aab73e8150",
+    "parser_version": "bbpress-v2"
+  }
+}

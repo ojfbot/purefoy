@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "189943",
+    "forum_slug": "camera",
+    "topic_slug": "once-upon-a-time-in-the-west-multiple-coverages",
+    "parent_post_id": "187537",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Master Roger i observed Sergio Leone employed elaborate camera moves for some scenes only. Not entire movie. Could you suggest some of your favourite character larger than life movies.",
+  "content_html": "<p>Master Roger i observed Sergio Leone employed elaborate camera moves for some scenes only. Not entire movie. Could you suggest some of your favourite character larger than life movies.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Master Roger i observed Sergio Leone employed elaborate camera moves for some scenes only. Not entire movie. Could you suggest some of your favourite character larger than life movies."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/once-upon-a-time-in-the-west-multiple-coverages/#post-189943",
+    "scraped_at": "2026-01-15T15:43:22.662581+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/once-upon-a-time-in-the-west-multiple-coverages/#post-189943",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7ca35793ba5100f3df82ddae237c77abe419b5fd58fd7bdbce97c05f11903253",
+    "parser_version": "bbpress-v2"
+  }
+}

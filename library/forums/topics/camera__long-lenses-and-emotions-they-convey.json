@@ -1,0 +1,97 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/long-lenses-and-emotions-they-convey/#post-214749",
+  "forum_slug": "camera",
+  "topic_slug": "long-lenses-and-emotions-they-convey",
+  "title": "Long lenses and emotions they convey",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214730",
+    "214735",
+    "214741",
+    "214743",
+    "214744",
+    "214746",
+    "214747",
+    "214748",
+    "214749"
+  ],
+  "reply_tree": {
+    "post_id": "214730",
+    "post_type": "topic",
+    "author": "ravikantrai",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214735",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214741",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214743",
+        "post_type": "reply",
+        "author": "ravikantrai",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214744",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214746",
+        "post_type": "reply",
+        "author": "ravikantrai",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214747",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214748",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214749",
+        "post_type": "reply",
+        "author": "ravikantrai",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 8,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/long-lenses-and-emotions-they-convey/#post-214749",
+    "scraped_at": "2026-01-15T15:25:19.346091+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/long-lenses-and-emotions-they-convey/#post-214749",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "821025453365826adf7e97eab0f10f68027eb036e22cdd918bff0d9b510cf50f",
+    "parser_version": "bbpress-v2"
+  }
+}

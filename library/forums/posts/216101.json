@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216101",
+    "forum_slug": "forum",
+    "topic_slug": "doubt-lighting-the-church",
+    "parent_post_id": "216087",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That was a location that had to be lit as we shot all the scenes in one day. Naturally, the daylight would not have been sufficient for nor would it have been reliable. I remember we used a line of 12K HMIs on one side but I’m not sure what the overhead source was. I suspect we used a lighting balloon. I have rarely used balloons but I think I did in this church as there was no possibility of rigging inside or accessing the roof.",
+  "content_html": "<p>That was a location that had to be lit as we shot all the scenes in one day. Naturally, the daylight would not have been sufficient for nor would it have been reliable. I remember we used a line of 12K HMIs on one side but I’m not sure what the overhead source was. I suspect we used a lighting balloon. I have rarely used balloons but I think I did in this church as there was no possibility of rigging inside or accessing the roof.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That was a location that had to be lit as we shot all the scenes in one day. Naturally, the daylight would not have been sufficient for nor would it have been reliable. I remember we used a line of 12K HMIs on one side but I’m not sure what the overhead source was. I suspect we used a lighting balloon. I have rarely used balloons but I think I did in this church as there was no possibility of rigging inside or accessing the roof."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/doubt-lighting-the-church/#post-216101",
+    "scraped_at": "2026-01-15T15:42:05.620864+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/doubt-lighting-the-church/#post-216101",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e595707450e4cf1a9306f9477d382314ae8c5cdcc19343c9c50848a0ff001fb3",
+    "parser_version": "bbpress-v2"
+  }
+}

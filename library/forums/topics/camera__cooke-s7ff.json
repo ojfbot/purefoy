@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/cooke-s7ff/",
+  "forum_slug": "camera",
+  "topic_slug": "cooke-s7ff",
+  "title": "Cooke s7FF",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216478"
+  ],
+  "reply_tree": {
+    "post_id": "216478",
+    "post_type": "topic",
+    "author": "Juanlage",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cooke-s7ff/",
+    "scraped_at": "2026-01-15T14:13:08.719805+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cooke-s7ff/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "18172ae2cede302b7b0086de85ddd90b3948d72c1940097bee4e6f9a169c5cec",
+    "parser_version": "bbpress-v2"
+  }
+}

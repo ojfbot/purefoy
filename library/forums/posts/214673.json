@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "214673",
+    "forum_slug": "forum",
+    "topic_slug": "lighting",
+    "parent_post_id": "214663",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Maybe! Some day!\nThis reply was modified 2 years, 6 months ago by\nRoger Deakins\n.",
+  "content_html": "<p>Maybe! Some day!</p>\n<ul class=\"bbp-reply-revision-log\" id=\"bbp-reply-revision-log-214673\">\n<li class=\"bbp-reply-revision-log-item\" id=\"bbp-reply-revision-log-214673-item-214674\">\n\t\tThis reply was modified 2 years, 6 months ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/roger/\" title=\"View Roger Deakins's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png\" srcset=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-28x28.png 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">Roger Deakins</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Maybe! Some day!"
+    },
+    {
+      "type": "list",
+      "text": "This reply was modified 2 years, 6 months ago by\nRoger Deakins\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/roger/",
+      "text": "Roger Deakins",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting/#post-214673",
+    "scraped_at": "2026-01-15T15:52:12.526030+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting/#post-214673",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d2081f3c52ca115d44cada395a6f0bf29ed28ff446a3f8cefb3413d42331eae5",
+    "parser_version": "bbpress-v2"
+  }
+}

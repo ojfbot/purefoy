@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "216006",
+    "forum_slug": "forum",
+    "topic_slug": "br2049-k-rooftop-gels"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "JakeFromWhatFarm",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Goof evening Roger and all! I hope you’re doing well and enjoying the summer!\nI’ve gone through your lighting diagrams for K’s rooftop set and I’m curious as to whether you remember what gels you used for the cool uplights in the scene? The diagrams show that you used betweenies for the upwards wash, but in the final film that wash is a cyan color. Do you think you’d have used CTB or something fancier?",
+  "content_html": "<p>Goof evening Roger and all! I hope you’re doing well and enjoying the summer!</p>\n<p> </p>\n<p>I’ve gone through your lighting diagrams for K’s rooftop set and I’m curious as to whether you remember what gels you used for the cool uplights in the scene? The diagrams show that you used betweenies for the upwards wash, but in the final film that wash is a cyan color. Do you think you’d have used CTB or something fancier?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Goof evening Roger and all! I hope you’re doing well and enjoying the summer!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve gone through your lighting diagrams for K’s rooftop set and I’m curious as to whether you remember what gels you used for the cool uplights in the scene? The diagrams show that you used betweenies for the upwards wash, but in the final film that wash is a cyan color. Do you think you’d have used CTB or something fancier?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/br2049-k-rooftop-gels/#post-216266",
+    "scraped_at": "2026-01-15T15:25:43.370427+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/br2049-k-rooftop-gels/#post-216266",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "90e3be1f114ca942785b39e9bc474759e5c52b70836a8a327fde75384d53f365",
+    "parser_version": "bbpress-v2"
+  }
+}

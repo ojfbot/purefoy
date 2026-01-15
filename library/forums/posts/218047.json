@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "218047",
+    "forum_slug": "set-talk",
+    "topic_slug": "finding-work-in-cinematography"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Madhav6",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "<p style=”text-align: left;”>Hi Roger and James,</p>\n<p style=”text-align: left;”></p>\n<p style=”text-align: left;”>As an aspiring cinematographer, I’ve found that breaking into the industry is as much about networking as it is about skill. I’m working hard to develop my craft, but I also know that connecting with the right people and gaining experience on set are key.</p>\n<p style=”text-align: left;”></p>\n<p style=”text-align: left;”>Any advice on how to approach people in the industry or find opportunities to help on set would be invaluable. I’m ready to contribute however I can, whether it’s carrying gear, assisting, or just observing.</p>\n<p style=”text-align: left;”></p>\n<p style=”text-align: left;”>Thanks for creating this space to learn and connect!</p>\n<p style=”text-align: left;”></p>\n<p style=”text-align: left;”>Wishing you both all the best,</p>\n<p style=”text-align: left;”>Madhav</p>\n<p style=”text-align: left;”>bhatiamadhav06@gmail.com</p>",
+  "content_html": "<p>&lt;p style=”text-align: left;”&gt;Hi Roger and James,&lt;/p&gt;<br/>\n&lt;p style=”text-align: left;”&gt;&lt;/p&gt;<br/>\n&lt;p style=”text-align: left;”&gt;As an aspiring cinematographer, I’ve found that breaking into the industry is as much about networking as it is about skill. I’m working hard to develop my craft, but I also know that connecting with the right people and gaining experience on set are key.&lt;/p&gt;<br/>\n&lt;p style=”text-align: left;”&gt;&lt;/p&gt;<br/>\n&lt;p style=”text-align: left;”&gt;Any advice on how to approach people in the industry or find opportunities to help on set would be invaluable. I’m ready to contribute however I can, whether it’s carrying gear, assisting, or just observing.&lt;/p&gt;<br/>\n&lt;p style=”text-align: left;”&gt;&lt;/p&gt;<br/>\n&lt;p style=”text-align: left;”&gt;Thanks for creating this space to learn and connect!&lt;/p&gt;<br/>\n&lt;p style=”text-align: left;”&gt;&lt;/p&gt;<br/>\n&lt;p style=”text-align: left;”&gt;Wishing you both all the best,&lt;/p&gt;<br/>\n&lt;p style=”text-align: left;”&gt;Madhav&lt;/p&gt;<br/>\n&lt;p style=”text-align: left;”&gt;bhatiamadhav06@gmail.com&lt;/p&gt;</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "<p style=”text-align: left;”>Hi Roger and James,</p>\n<p style=”text-align: left;”></p>\n<p style=”text-align: left;”>As an aspiring cinematographer, I’ve found that breaking into the industry is as much about networking as it is about skill. I’m working hard to develop my craft, but I also know that connecting with the right people and gaining experience on set are key.</p>\n<p style=”text-align: left;”></p>\n<p style=”text-align: left;”>Any advice on how to approach people in the industry or find opportunities to help on set would be invaluable. I’m ready to contribute however I can, whether it’s carrying gear, assisting, or just observing.</p>\n<p style=”text-align: left;”></p>\n<p style=”text-align: left;”>Thanks for creating this space to learn and connect!</p>\n<p style=”text-align: left;”></p>\n<p style=”text-align: left;”>Wishing you both all the best,</p>\n<p style=”text-align: left;”>Madhav</p>\n<p style=”text-align: left;”>bhatiamadhav06@gmail.com</p>"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/finding-work-in-cinematography/#post-218056",
+    "scraped_at": "2026-01-15T11:51:12.857453+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/finding-work-in-cinematography/#post-218056",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8ad9c754a94396e9d0955e7d36c6d2a11b5017ff4bf7173dd7ce1593174032cf",
+    "parser_version": "bbpress-v2"
+  }
+}

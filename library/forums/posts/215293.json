@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "215293",
+    "forum_slug": "camera",
+    "topic_slug": "normal-lens-fo-arir-large-format"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger what is the normal lens for large format. What lens gives more intimacy. Basically it’s less depth. If I want to 32mm coverage for large format what lens would you prefer. How large format 75mm, 125mm sees the subject different from normal super 35mm lenses",
+  "content_html": "<p>Dear master Roger what is the normal lens for large format. What lens gives more intimacy. Basically it’s less depth. If I want to 32mm coverage for large format what lens would you prefer. How large format 75mm, 125mm sees the subject different from normal super 35mm lenses</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger what is the normal lens for large format. What lens gives more intimacy. Basically it’s less depth. If I want to 32mm coverage for large format what lens would you prefer. How large format 75mm, 125mm sees the subject different from normal super 35mm lenses"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/normal-lens-fo-arir-large-format/#post-215297",
+    "scraped_at": "2026-01-15T15:22:24.304129+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/normal-lens-fo-arir-large-format/#post-215297",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "12029eed3a45c55fb25665f795d570f5b5ed269d9ca40ed595158066be3c4618",
+    "parser_version": "bbpress-v2"
+  }
+}

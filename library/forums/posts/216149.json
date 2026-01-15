@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216149",
+    "forum_slug": "camera",
+    "topic_slug": "handheld-movies",
+    "parent_post_id": "216147",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "“I Am Cuba”",
+  "content_html": "<p>“I Am Cuba”</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "“I Am Cuba”"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/handheld-movies/#post-216169",
+    "scraped_at": "2026-01-15T14:50:59.132122+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/handheld-movies/#post-216169",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "be1fc26407594faa06a9b9c515a970320dfd0a9d6bcc6be98702f8247aaae0af",
+    "parser_version": "bbpress-v2"
+  }
+}

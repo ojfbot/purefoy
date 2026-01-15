@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "208627",
+    "forum_slug": "set-talk",
+    "topic_slug": "creating-a-shot-from-inside-a-rabbit-hole",
+    "parent_post_id": "207522",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "M Ryan",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If you can get a hold of a probe lens that could give a nice going into a rabbit hole shot..  for the inside maybe build a little rabbit hole set (? 😊) – shot on the widest lens possible and comp it together..",
+  "content_html": "<p>If you can get a hold of a probe lens that could give a nice going into a rabbit hole shot..  for the inside maybe build a little rabbit hole set (? 😊) – shot on the widest lens possible and comp it together..</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you can get a hold of a probe lens that could give a nice going into a rabbit hole shot..  for the inside maybe build a little rabbit hole set (? 😊) – shot on the widest lens possible and comp it together.."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/creating-a-shot-from-inside-a-rabbit-hole/#post-208627",
+    "scraped_at": "2026-01-15T13:23:53.601276+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-a-shot-from-inside-a-rabbit-hole/#post-208627",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6868efe7d6069336a42a564cea47785299e1ef73b719a92d59302bf7f8866d2f",
+    "parser_version": "bbpress-v2"
+  }
+}

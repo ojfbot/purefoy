@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218320",
+    "forum_slug": "forum",
+    "topic_slug": "happy-birthday-to-the-legendary",
+    "parent_post_id": "218300",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Phil Holland",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Happy birthday Roger!",
+  "content_html": "<p>Happy birthday Roger!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Happy birthday Roger!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-to-the-legendary/#post-218340",
+    "scraped_at": "2026-01-15T15:08:21.639517+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-to-the-legendary/#post-218340",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6bf935175ea2eb1a3fbf0b5beb0fa4bfbb49a631f8cc2dd43038737f58fcb2f7",
+    "parser_version": "bbpress-v2"
+  }
+}

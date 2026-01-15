@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/lighting-diagrams-for-conversation-scene/#post-215206",
+  "forum_slug": "forum",
+  "topic_slug": "lighting-diagrams-for-conversation-scene",
+  "title": "Lighting Diagrams for Conversation Scene",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215191",
+    "215206"
+  ],
+  "reply_tree": {
+    "post_id": "215191",
+    "post_type": "topic",
+    "author": "tommygreenbeans",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215206",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-diagrams-for-conversation-scene/#post-215206",
+    "scraped_at": "2026-01-15T15:48:25.505144+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-diagrams-for-conversation-scene/#post-215206",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f154a2244b28a2f6cdc91a34cbefef9aac74bf25c326121a12ecd4fda66737db",
+    "parser_version": "bbpress-v2"
+  }
+}

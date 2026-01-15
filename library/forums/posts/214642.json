@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214642",
+    "forum_slug": "composition",
+    "topic_slug": "graphic-design",
+    "parent_post_id": "214579",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I was placed on the Graphic Design course without having a say in the matter. I wanted to be in Fine Arts and had no intention of being a designer but I did find a passion for photography, so it wasn’t all bad.",
+  "content_html": "<p>I was placed on the Graphic Design course without having a say in the matter. I wanted to be in Fine Arts and had no intention of being a designer but I did find a passion for photography, so it wasn’t all bad.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I was placed on the Graphic Design course without having a say in the matter. I wanted to be in Fine Arts and had no intention of being a designer but I did find a passion for photography, so it wasn’t all bad."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/graphic-design/#post-214642",
+    "scraped_at": "2026-01-15T13:15:59.214682+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/graphic-design/#post-214642",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0146314d5c6e889c878d383eb6a3a5be3faddd9674aa9336c78da61fc0f3d638",
+    "parser_version": "bbpress-v2"
+  }
+}

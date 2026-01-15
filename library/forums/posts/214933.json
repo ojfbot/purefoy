@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "214933",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-stephens-house",
+    "parent_post_id": "214923",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you so much for your reply Mr. Deakins! It is always a fantastic gift to receive an answer from you!\nThank you, as well, for your advice to work very closely with the production design and set dressing, of course when the scale of the production allows me to do that.\nIn a “recent” project (a small budget feature that I shot last year) there were some issues with the set dressing (of course no set or studios were involved due to the limitation of the budget but only real locations) and I went to stores to buy some kind of fixtures that I had in mind for some spaces, it was not so easy cause it was my “second” experience for a feature, but it helped me to find the “right” kind of practicals for each space (unfortunately I couldn’t cover all the scenes).\nThank you again Mr. Deakins, In the next posts I will try to upload stills to make the post more complete and visually “direct”.\nI wish you a peaceful Sunday,\nMax.",
+  "content_html": "<p>Thank you so much for your reply Mr. Deakins! It is always a fantastic gift to receive an answer from you!</p>\n<p>Thank you, as well, for your advice to work very closely with the production design and set dressing, of course when the scale of the production allows me to do that.<br/>\nIn a “recent” project (a small budget feature that I shot last year) there were some issues with the set dressing (of course no set or studios were involved due to the limitation of the budget but only real locations) and I went to stores to buy some kind of fixtures that I had in mind for some spaces, it was not so easy cause it was my “second” experience for a feature, but it helped me to find the “right” kind of practicals for each space (unfortunately I couldn’t cover all the scenes).</p>\n<p>Thank you again Mr. Deakins, In the next posts I will try to upload stills to make the post more complete and visually “direct”.</p>\n<p>I wish you a peaceful Sunday,<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you so much for your reply Mr. Deakins! It is always a fantastic gift to receive an answer from you!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you, as well, for your advice to work very closely with the production design and set dressing, of course when the scale of the production allows me to do that.\nIn a “recent” project (a small budget feature that I shot last year) there were some issues with the set dressing (of course no set or studios were involved due to the limitation of the budget but only real locations) and I went to stores to buy some kind of fixtures that I had in mind for some spaces, it was not so easy cause it was my “second” experience for a feature, but it helped me to find the “right” kind of practicals for each space (unfortunately I couldn’t cover all the scenes)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you again Mr. Deakins, In the next posts I will try to upload stills to make the post more complete and visually “direct”."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful Sunday,\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-stephens-house/#post-214933",
+    "scraped_at": "2026-01-15T15:50:30.363947+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-stephens-house/#post-214933",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2fc2e89723029317c282815296b92dd1a00077cc18af938fc41ed4e86bcc8784",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/nicholas-britell/",
+  "forum_slug": "team-deakins",
+  "topic_slug": "nicholas-britell",
+  "title": "Nicholas Britell",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215467"
+  ],
+  "reply_tree": {
+    "post_id": "215467",
+    "post_type": "topic",
+    "author": "Shea",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/nicholas-britell/",
+    "scraped_at": "2026-01-15T13:23:39.208621+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/nicholas-britell/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "23edd6f6b5f7d6efd1e410a62deab726dd190afd7d7f58a244e0309bc054829a",
+    "parser_version": "bbpress-v2"
+  }
+}

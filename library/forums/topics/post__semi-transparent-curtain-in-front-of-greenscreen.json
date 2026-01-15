@@ -1,0 +1,105 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/semi-transparent-curtain-in-front-of-greenscreen/#post-215463",
+  "forum_slug": "post",
+  "topic_slug": "semi-transparent-curtain-in-front-of-greenscreen",
+  "title": "Semi-transparent curtain in front of greenscreen",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215437",
+    "215442",
+    "215443",
+    "215444",
+    "215455",
+    "215456",
+    "215457",
+    "215460",
+    "215462",
+    "215463"
+  ],
+  "reply_tree": {
+    "post_id": "215437",
+    "post_type": "topic",
+    "author": "George",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215442",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215443",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215444",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215455",
+        "post_type": "reply",
+        "author": "George",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215456",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215457",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215460",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215462",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215463",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 9,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/semi-transparent-curtain-in-front-of-greenscreen/#post-215463",
+    "scraped_at": "2026-01-15T13:05:59.952843+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/semi-transparent-curtain-in-front-of-greenscreen/#post-215463",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "aca03181a5b2e18ef47bf40817f5607e9368edcb763c56062cc2df3d3035c75a",
+    "parser_version": "bbpress-v2"
+  }
+}

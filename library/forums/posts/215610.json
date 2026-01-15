@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215610",
+    "forum_slug": "composition",
+    "topic_slug": "intentional-visual-design-when-composing-shots",
+    "parent_post_id": "215589",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You might want to read Sidney Lumet’s book on directing; he’s the sort of director who designed a shooting plan with those sorts of structural ideas, such as in “The Hill” when the focal lengths get wider and the depth of field gets deeper as the story goes, or in “Murder on the Orient Express” where the flashbacks to the interviews with the suspects that Poirot then recalls in his summation speech were shot with wider-angle lenses in a more POV style than the original scenes were shot.\nStoraro has talked about the camera style of “Agatha” where the movements and angles were more rigid and linear in the early scenes to suggest Agatha’s entrapment in her marriage, and looser and more fluid in later scenes.",
+  "content_html": "<p>You might want to read Sidney Lumet’s book on directing; he’s the sort of director who designed a shooting plan with those sorts of structural ideas, such as in “The Hill” when the focal lengths get wider and the depth of field gets deeper as the story goes, or in “Murder on the Orient Express” where the flashbacks to the interviews with the suspects that Poirot then recalls in his summation speech were shot with wider-angle lenses in a more POV style than the original scenes were shot.</p>\n<p>Storaro has talked about the camera style of “Agatha” where the movements and angles were more rigid and linear in the early scenes to suggest Agatha’s entrapment in her marriage, and looser and more fluid in later scenes.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You might want to read Sidney Lumet’s book on directing; he’s the sort of director who designed a shooting plan with those sorts of structural ideas, such as in “The Hill” when the focal lengths get wider and the depth of field gets deeper as the story goes, or in “Murder on the Orient Express” where the flashbacks to the interviews with the suspects that Poirot then recalls in his summation speech were shot with wider-angle lenses in a more POV style than the original scenes were shot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Storaro has talked about the camera style of “Agatha” where the movements and angles were more rigid and linear in the early scenes to suggest Agatha’s entrapment in her marriage, and looser and more fluid in later scenes."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/intentional-visual-design-when-composing-shots/#post-215612",
+    "scraped_at": "2026-01-15T12:48:52.738431+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/intentional-visual-design-when-composing-shots/#post-215612",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8132e58f15437e44294cd9e925f2054cd2705cb1829b873a729e17f9e232cd4e",
+    "parser_version": "bbpress-v2"
+  }
+}

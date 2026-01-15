@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216957",
+    "forum_slug": "camera",
+    "topic_slug": "false-color-and-lut-workflow",
+    "parent_post_id": "216887",
+    "parent_type": "topic",
+    "position": 11
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This is true, I suppose I used the term ratios a little loosely. I think of it that way when doing the interview setups. Since I use the false color on the run and gun scenes a lot, it makes sense for me to also use it for the interviews and seeing where my background levels sit, windows, shadow side etc. It just feels right to use a consistent tool. I’m also starting to be sold on just pulling the meter out with me.\nZebras are a good idea for the quick moving setups! Although I’ve liked the idea of seeing how many stops over I am in a certain area, versus just seeing if I am clipping or not (depending on the ire setting). But I could actually see that useful when moving very fast. Thanks for the ideas!",
+  "content_html": "<p>This is true, I suppose I used the term ratios a little loosely. I think of it that way when doing the interview setups. Since I use the false color on the run and gun scenes a lot, it makes sense for me to also use it for the interviews and seeing where my background levels sit, windows, shadow side etc. It just feels right to use a consistent tool. I’m also starting to be sold on just pulling the meter out with me.</p>\n<p>Zebras are a good idea for the quick moving setups! Although I’ve liked the idea of seeing how many stops over I am in a certain area, versus just seeing if I am clipping or not (depending on the ire setting). But I could actually see that useful when moving very fast. Thanks for the ideas!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This is true, I suppose I used the term ratios a little loosely. I think of it that way when doing the interview setups. Since I use the false color on the run and gun scenes a lot, it makes sense for me to also use it for the interviews and seeing where my background levels sit, windows, shadow side etc. It just feels right to use a consistent tool. I’m also starting to be sold on just pulling the meter out with me."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zebras are a good idea for the quick moving setups! Although I’ve liked the idea of seeing how many stops over I am in a certain area, versus just seeing if I am clipping or not (depending on the ire setting). But I could actually see that useful when moving very fast. Thanks for the ideas!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/",
+    "scraped_at": "2026-01-15T13:16:24.781677+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a83f9b781ecf07b81218039bbd5b1fd247e2a37c42bd6381b13aa71cb9679063",
+    "parser_version": "bbpress-v2"
+  }
+}

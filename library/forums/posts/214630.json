@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214630",
+    "forum_slug": "website-news",
+    "topic_slug": "how-to-make-a-small-and-confined-space-appear-more-spacious",
+    "parent_post_id": "214627",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Depending on the action of the scene and what’s appropriate for the story, you could consider things like wide-angle focal lengths, compositions with the camera at a very high or very low angle, multiple planes of action, shallow depth of field, dressing the set so that it’s uncluttered and has a vanishing point as far away as possible, etc.\nYou could also go in the opposite direction and use longer focal lengths with the camera far away from the subject, and do things like crowd the frame to suggest a larger space out of the periphery of the shot.\nIf it’s viable you could also black out some of the set to suggest a larger space that disappears into shadow, or have a lot of separation of planes with lighting instead of depth of field. Haze & smoke would also add depth.",
+  "content_html": "<p>Depending on the action of the scene and what’s appropriate for the story, you could consider things like wide-angle focal lengths, compositions with the camera at a very high or very low angle, multiple planes of action, shallow depth of field, dressing the set so that it’s uncluttered and has a vanishing point as far away as possible, etc.</p>\n<p>You could also go in the opposite direction and use longer focal lengths with the camera far away from the subject, and do things like crowd the frame to suggest a larger space out of the periphery of the shot.</p>\n<p>If it’s viable you could also black out some of the set to suggest a larger space that disappears into shadow, or have a lot of separation of planes with lighting instead of depth of field. Haze &amp; smoke would also add depth.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Depending on the action of the scene and what’s appropriate for the story, you could consider things like wide-angle focal lengths, compositions with the camera at a very high or very low angle, multiple planes of action, shallow depth of field, dressing the set so that it’s uncluttered and has a vanishing point as far away as possible, etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "You could also go in the opposite direction and use longer focal lengths with the camera far away from the subject, and do things like crowd the frame to suggest a larger space out of the periphery of the shot."
+    },
+    {
+      "type": "paragraph",
+      "text": "If it’s viable you could also black out some of the set to suggest a larger space that disappears into shadow, or have a lot of separation of planes with lighting instead of depth of field. Haze & smoke would also add depth."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-make-a-small-and-confined-space-appear-more-spacious/#post-214652",
+    "scraped_at": "2026-01-15T12:48:20.205698+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-make-a-small-and-confined-space-appear-more-spacious/#post-214652",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f3c3ebb96cfab7e86fc5d0b9d1d5a35547cb4f5d151f5ad28552e796632c7adc",
+    "parser_version": "bbpress-v2"
+  }
+}

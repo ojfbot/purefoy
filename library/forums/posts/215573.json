@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "215573",
+    "forum_slug": "forum",
+    "topic_slug": "about-low-key-lighting",
+    "parent_post_id": "215519",
+    "parent_type": "topic",
+    "position": 15
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "JakobGrasboeck",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you, Max A. I forgot to mention: The grain you see (and referred to) was added in post, because I wanted some kind of grain texture. But not the texture that the Sony FS7 delivers when you expose it to it’s base ISO in dark scenes. I think the image, once pulled in post from ISO2000 to ISO500, looked super super clean (almost to clean for me).\nI think the thing with all these processes is that you can try everything as long as it works for you.\nI’m now on a new journey of rating (and exposing) the Alexa sensor to ISO400 because my colorist tells me I’ll get one stop more latitude then (and therefore I’ll be able to get more contrast and richer colors). Let’s see…\n(For me this is a very new way of thinking, because I tend to not focus on technical/grading/post processing things to much. But then when I force myself to deal with these topics I find myself growing in things like exposing and lighting my frames differently (better?).)",
+  "content_html": "<p>Thank you, Max A. I forgot to mention: The grain you see (and referred to) was added in post, because I wanted some kind of grain texture. But not the texture that the Sony FS7 delivers when you expose it to it’s base ISO in dark scenes. I think the image, once pulled in post from ISO2000 to ISO500, looked super super clean (almost to clean for me).</p>\n<p>I think the thing with all these processes is that you can try everything as long as it works for you.</p>\n<p>I’m now on a new journey of rating (and exposing) the Alexa sensor to ISO400 because my colorist tells me I’ll get one stop more latitude then (and therefore I’ll be able to get more contrast and richer colors). Let’s see…</p>\n<p>(For me this is a very new way of thinking, because I tend to not focus on technical/grading/post processing things to much. But then when I force myself to deal with these topics I find myself growing in things like exposing and lighting my frames differently (better?).)</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you, Max A. I forgot to mention: The grain you see (and referred to) was added in post, because I wanted some kind of grain texture. But not the texture that the Sony FS7 delivers when you expose it to it’s base ISO in dark scenes. I think the image, once pulled in post from ISO2000 to ISO500, looked super super clean (almost to clean for me)."
+    },
+    {
+      "type": "paragraph",
+      "text": "I think the thing with all these processes is that you can try everything as long as it works for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m now on a new journey of rating (and exposing) the Alexa sensor to ISO400 because my colorist tells me I’ll get one stop more latitude then (and therefore I’ll be able to get more contrast and richer colors). Let’s see…"
+    },
+    {
+      "type": "paragraph",
+      "text": "(For me this is a very new way of thinking, because I tend to not focus on technical/grading/post processing things to much. But then when I force myself to deal with these topics I find myself growing in things like exposing and lighting my frames differently (better?).)"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+    "scraped_at": "2026-01-15T15:46:20.710096+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2f35f725fb33eac8d7c3f608ecd96b1f6d604d3c42ed1487313650d32c8892cc",
+    "parser_version": "bbpress-v2"
+  }
+}

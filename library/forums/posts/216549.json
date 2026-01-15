@@ -1,0 +1,51 @@
+{
+  "ids": {
+    "post_id": "216549",
+    "forum_slug": "forum",
+    "topic_slug": "white-balance-warm-tungsten",
+    "parent_post_id": "216221",
+    "parent_type": "topic",
+    "position": 14
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "simon m",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Wow Roger, thanks for the details of those scenes. Such clever production and filming decisions. And seamless transitions from ext. to int. wow. Thanks again for all these details.\nOne last question, if I may.. I’ve always wondered exactly where the location is for the ‘drug deal gone wrong scenes’? Especially where Josh approaches the ridge overlooking the scene, with the powerful mountain range in the distance. I’ve even wondered if the mountain range is a plate added in post?\nThanks so much.",
+  "content_html": "<p>Wow Roger, thanks for the details of those scenes. Such clever production and filming decisions. And seamless transitions from ext. to int. wow. Thanks again for all these details.</p>\n<p>One last question, if I may.. I’ve always wondered exactly where the location is for the ‘drug deal gone wrong scenes’? Especially where Josh approaches the ridge overlooking the scene, with the powerful mountain range in the distance. I’ve even wondered if the mountain range is a plate added in post?<br/>\nThanks so much.</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216549/mdpxauesytgvysijwupx9or20kwj0ru9.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Wow Roger, thanks for the details of those scenes. Such clever production and filming decisions. And seamless transitions from ext. to int. wow. Thanks again for all these details."
+    },
+    {
+      "type": "paragraph",
+      "text": "One last question, if I may.. I’ve always wondered exactly where the location is for the ‘drug deal gone wrong scenes’? Especially where Josh approaches the ridge overlooking the scene, with the powerful mountain range in the distance. I’ve even wondered if the mountain range is a plate added in post?\nThanks so much."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216549/mdpxauesytgvysijwupx9or20kwj0ru9.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/",
+    "scraped_at": "2026-01-15T15:23:58.134461+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "13b04676908dd086a94e58b4d7f54ea7714c96b17e0a85613dc38fd694c39f4a",
+    "parser_version": "bbpress-v2"
+  }
+}

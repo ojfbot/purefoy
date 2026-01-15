@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216983",
+    "forum_slug": "forum",
+    "topic_slug": "western-saloon-lighting-from-outside",
+    "parent_post_id": "216929",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "MartinMoll",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yes that makes sense! I will shoot all window facing shots (wide and close) during the same time to make sure the lighting matches.",
+  "content_html": "<p>Yes that makes sense! I will shoot all window facing shots (wide and close) during the same time to make sure the lighting matches.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yes that makes sense! I will shoot all window facing shots (wide and close) during the same time to make sure the lighting matches."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/western-saloon-lighting-from-outside/#post-216983",
+    "scraped_at": "2026-01-15T15:22:10.262545+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/western-saloon-lighting-from-outside/#post-216983",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4c6b9a27728d5de391e7d67b3ead483628988b1ae23d7dcde4203436bd2b3f3c",
+    "parser_version": "bbpress-v2"
+  }
+}

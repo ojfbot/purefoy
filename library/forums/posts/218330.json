@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "218330",
+    "forum_slug": "forum",
+    "topic_slug": "strong-back-light",
+    "parent_post_id": "217511",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "These two cinematographers did projects on which they used quite extreme backlight. It was a style to some extent but also their interpretation of the story.\nI don’t remember using backlight on Revolutionary Road in other than a naturalistic way. Sometimes I might enhance an effect if it suits a particular scene but it was not the aesthetic of an overall approach. It was hardly Out of the Past (1947) or  The Spiral Staircase (1946), both of which Musuraca photographed. Neither did those films look anything like The Jack Benny Program, which Musuraca shot in the 1960s.",
+  "content_html": "<p>These two cinematographers did projects on which they used quite extreme backlight. It was a style to some extent but also their interpretation of the story.</p>\n<p>I don’t remember using backlight on Revolutionary Road in other than a naturalistic way. Sometimes I might enhance an effect if it suits a particular scene but it was not the aesthetic of an overall approach. It was hardly Out of the Past (1947) or  The Spiral Staircase (1946), both of which Musuraca photographed. Neither did those films look anything like The Jack Benny Program, which Musuraca shot in the 1960s.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "These two cinematographers did projects on which they used quite extreme backlight. It was a style to some extent but also their interpretation of the story."
+    },
+    {
+      "type": "paragraph",
+      "text": "I don’t remember using backlight on Revolutionary Road in other than a naturalistic way. Sometimes I might enhance an effect if it suits a particular scene but it was not the aesthetic of an overall approach. It was hardly Out of the Past (1947) or  The Spiral Staircase (1946), both of which Musuraca photographed. Neither did those films look anything like The Jack Benny Program, which Musuraca shot in the 1960s."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/strong-back-light/#post-218337",
+    "scraped_at": "2026-01-15T15:08:26.134472+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/strong-back-light/#post-218337",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d3cf2b4f308f200829779d0bf937bd1bf50300766b3371ba75480e65dad785ca",
+    "parser_version": "bbpress-v2"
+  }
+}

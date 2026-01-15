@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/baking-in-look-vs-post-production/#post-220722",
+  "forum_slug": "forum",
+  "topic_slug": "baking-in-look-vs-post-production",
+  "title": "Baking in look vs Post production.",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220661",
+    "220720",
+    "220721",
+    "220722"
+  ],
+  "reply_tree": {
+    "post_id": "220661",
+    "post_type": "topic",
+    "author": "piperevans_",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "220720",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220721",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220722",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/baking-in-look-vs-post-production/#post-220722",
+    "scraped_at": "2026-01-15T13:15:56.134902+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/baking-in-look-vs-post-production/#post-220722",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4c5477a91ac9bfdd2a57a6ff386acbabf9e00fd2ef8174d96ed5dd04a9d822f8",
+    "parser_version": "bbpress-v2"
+  }
+}

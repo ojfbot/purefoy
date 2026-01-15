@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "175939",
+    "forum_slug": "forum",
+    "topic_slug": "testing-led",
+    "parent_post_id": "175252",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mr. Deakins, I hope everything goes well for you and Mrs. James.\nI found interesting this topic from Simon and a lot of interesting about your thought on the LED “new” workflow that you used on ‘EoL’.\nSince in the past, you felt that even if you use light through a thick diffusion you always prefer to bounce light in order to avoid (in some cases) the “projected” effect, in this case, was it a balanced choice between time consuming and final result?\nDid you use square shape softboxes in order to match the shape of the 4X4 reflectors? And last question (always keeping in mind the relationship of the size of the light source to the subject for what kind of softness you wanted to achieve) did you use 4-foot size softboxes (always to match the size to what you used usually for bounce)?\nFillex LED’s are really great in terms of spectrum and solidity, of course, those are not cheap but the quality has its price.\nCan’t wait to see ‘EOL’! Here in Italy will be in the theatre on the 23 Feb. But I see your interview on ‘BSC’ with some schemes and I already have something like 1000 questions LOL.\nI wish you a peaceful day and thank you always for your kindness and availability.\nMax.",
+  "content_html": "<p>Hello Mr. Deakins, I hope everything goes well for you and Mrs. James.<br/>\nI found interesting this topic from Simon and a lot of interesting about your thought on the LED “new” workflow that you used on ‘EoL’.</p>\n<p>Since in the past, you felt that even if you use light through a thick diffusion you always prefer to bounce light in order to avoid (in some cases) the “projected” effect, in this case, was it a balanced choice between time consuming and final result?</p>\n<p>Did you use square shape softboxes in order to match the shape of the 4X4 reflectors? And last question (always keeping in mind the relationship of the size of the light source to the subject for what kind of softness you wanted to achieve) did you use 4-foot size softboxes (always to match the size to what you used usually for bounce)?</p>\n<p>Fillex LED’s are really great in terms of spectrum and solidity, of course, those are not cheap but the quality has its price.</p>\n<p>Can’t wait to see ‘EOL’! Here in Italy will be in the theatre on the 23 Feb. But I see your interview on ‘BSC’ with some schemes and I already have something like 1000 questions LOL.</p>\n<p>I wish you a peaceful day and thank you always for your kindness and availability.<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mr. Deakins, I hope everything goes well for you and Mrs. James.\nI found interesting this topic from Simon and a lot of interesting about your thought on the LED “new” workflow that you used on ‘EoL’."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since in the past, you felt that even if you use light through a thick diffusion you always prefer to bounce light in order to avoid (in some cases) the “projected” effect, in this case, was it a balanced choice between time consuming and final result?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you use square shape softboxes in order to match the shape of the 4X4 reflectors? And last question (always keeping in mind the relationship of the size of the light source to the subject for what kind of softness you wanted to achieve) did you use 4-foot size softboxes (always to match the size to what you used usually for bounce)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fillex LED’s are really great in terms of spectrum and solidity, of course, those are not cheap but the quality has its price."
+    },
+    {
+      "type": "paragraph",
+      "text": "Can’t wait to see ‘EOL’! Here in Italy will be in the theatre on the 23 Feb. But I see your interview on ‘BSC’ with some schemes and I already have something like 1000 questions LOL."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful day and thank you always for your kindness and availability.\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/testing-led/#post-216324",
+    "scraped_at": "2026-01-15T15:25:28.546113+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/testing-led/#post-216324",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bb0859723f686435e560b31f8d7f70fe7154b3753080833168747dfc564d4a54",
+    "parser_version": "bbpress-v2"
+  }
+}

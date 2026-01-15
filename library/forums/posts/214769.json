@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "214769",
+    "forum_slug": "camera",
+    "topic_slug": "whats-the-deal-with-50mm",
+    "parent_post_id": "214750",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It seems like 50mm was – and still is – the easiest (and cheapest) to design and build to achieve good image quality at fast apertures.\nThe ‘Double Gauss’ design was invented in 1817 by Carl Friedrich Gauss as a telescope lens and later refined by many others like Taylor Hobson in the 1920’s (later resulting in the Speed Panchros). The current design, presently found in inexpensive but high quality fast lenses like Canon EF 50mm 1.8 or Nikon AD 50mm 1.8, can be traced back to 1895 to Paul Rudolph and Carl Zeiss (the first Zeiss Planar lens).\nFrom Wikipedia:\n“The design forms the basis for many camera lenses in use today, especially the wide-aperture standard lenses used on 35 mm and other small-format cameras. It can offer good results up to f/1.4 with a wide field of view, and has sometimes been made at f/1.0. The design appears in other applications where a simple fast normal lens is required (~53° diagonal) such as in projectors.”\nSo the projection thing would make sense not just for the viewer experience but also on a technical level!",
+  "content_html": "<p>It seems like 50mm was – and still is – the easiest (and cheapest) to design and build to achieve good image quality at fast apertures.</p>\n<p>The ‘Double Gauss’ design was invented in 1817 by Carl Friedrich Gauss as a telescope lens and later refined by many others like Taylor Hobson in the 1920’s (later resulting in the Speed Panchros). The current design, presently found in inexpensive but high quality fast lenses like Canon EF 50mm 1.8 or Nikon AD 50mm 1.8, can be traced back to 1895 to Paul Rudolph and Carl Zeiss (the first Zeiss Planar lens).</p>\n<p>From Wikipedia:</p>\n<p>“The design forms the basis for many camera lenses in use today, especially the wide-aperture standard lenses used on 35 mm and other small-format cameras. It can offer good results up to f/1.4 with a wide field of view, and has sometimes been made at f/1.0. The design appears in other applications where a simple fast normal lens is required (~53° diagonal) such as in projectors.”</p>\n<p> </p>\n<p>So the projection thing would make sense not just for the viewer experience but also on a technical level!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "It seems like 50mm was – and still is – the easiest (and cheapest) to design and build to achieve good image quality at fast apertures."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘Double Gauss’ design was invented in 1817 by Carl Friedrich Gauss as a telescope lens and later refined by many others like Taylor Hobson in the 1920’s (later resulting in the Speed Panchros). The current design, presently found in inexpensive but high quality fast lenses like Canon EF 50mm 1.8 or Nikon AD 50mm 1.8, can be traced back to 1895 to Paul Rudolph and Carl Zeiss (the first Zeiss Planar lens)."
+    },
+    {
+      "type": "paragraph",
+      "text": "From Wikipedia:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“The design forms the basis for many camera lenses in use today, especially the wide-aperture standard lenses used on 35 mm and other small-format cameras. It can offer good results up to f/1.4 with a wide field of view, and has sometimes been made at f/1.0. The design appears in other applications where a simple fast normal lens is required (~53° diagonal) such as in projectors.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "So the projection thing would make sense not just for the viewer experience but also on a technical level!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/whats-the-deal-with-50mm/#post-214774",
+    "scraped_at": "2026-01-15T15:25:13.285889+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/whats-the-deal-with-50mm/#post-214774",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f806198a9ca2ea3b95a0fa96d06acc085857d67e216eec7f40140c83aff67e58",
+    "parser_version": "bbpress-v2"
+  }
+}

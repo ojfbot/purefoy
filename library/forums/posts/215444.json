@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215444",
+    "forum_slug": "post",
+    "topic_slug": "semi-transparent-curtain-in-front-of-greenscreen",
+    "parent_post_id": "215437",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’d say replacing the green with the BG image without affecting the transparent curtain itself will be difficult. If you have someone in post who is 100% confident that it can be done it might be worth a try, otherwise it might end up costing more to fix it in post.",
+  "content_html": "<p>I’d say replacing the green with the BG image without affecting the transparent curtain itself will be difficult. If you have someone in post who is 100% confident that it can be done it might be worth a try, otherwise it might end up costing more to fix it in post.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’d say replacing the green with the BG image without affecting the transparent curtain itself will be difficult. If you have someone in post who is 100% confident that it can be done it might be worth a try, otherwise it might end up costing more to fix it in post."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/semi-transparent-curtain-in-front-of-greenscreen/#post-215463",
+    "scraped_at": "2026-01-15T13:05:59.935452+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/semi-transparent-curtain-in-front-of-greenscreen/#post-215463",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0d651e7eb4324e84f283af2bf649f35d6d046d37483b81d99b9a734e9c40b3a4",
+    "parser_version": "bbpress-v2"
+  }
+}

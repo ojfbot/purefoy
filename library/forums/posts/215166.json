@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "215166",
+    "forum_slug": "forum",
+    "topic_slug": "choosing-between-5600-and-3200"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Omitch",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi all,\nI feel like I’m missing something obvious here.\nIf i’m shooting digital and balancing to make my lighting white, w/ full control over the envirnment. Is there anything to say wether I should choose 3200 or 5600k.\nThe way they interact with skin tones would be the only thing I could think that would really effect the choice, Might certain sensors prefer one temperature.\nThanks,\nOliverM",
+  "content_html": "<p>Hi all,</p>\n<p>I feel like I’m missing something obvious here.</p>\n<p>If i’m shooting digital and balancing to make my lighting white, w/ full control over the envirnment. Is there anything to say wether I should choose 3200 or 5600k.</p>\n<p>The way they interact with skin tones would be the only thing I could think that would really effect the choice, Might certain sensors prefer one temperature.</p>\n<p>Thanks,</p>\n<p>OliverM</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi all,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I feel like I’m missing something obvious here."
+    },
+    {
+      "type": "paragraph",
+      "text": "If i’m shooting digital and balancing to make my lighting white, w/ full control over the envirnment. Is there anything to say wether I should choose 3200 or 5600k."
+    },
+    {
+      "type": "paragraph",
+      "text": "The way they interact with skin tones would be the only thing I could think that would really effect the choice, Might certain sensors prefer one temperature."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks,"
+    },
+    {
+      "type": "paragraph",
+      "text": "OliverM"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/choosing-between-5600-and-3200/#post-215170",
+    "scraped_at": "2026-01-15T15:48:39.335617+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/choosing-between-5600-and-3200/#post-215170",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "397f44df351475a2595de0710f7dfe4990dd4d099d5fe8054c26aafc5503809c",
+    "parser_version": "bbpress-v2"
+  }
+}

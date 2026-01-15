@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215392",
+    "forum_slug": "forum",
+    "topic_slug": "set-lighting-diffusion-vs-size-of-the-source",
+    "parent_post_id": "215372",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Gregg",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Looks a little OTT to me. 🙂",
+  "content_html": "<p>Looks a little OTT to me. 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Looks a little OTT to me. 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/set-lighting-diffusion-vs-size-of-the-source/#post-215392",
+    "scraped_at": "2026-01-15T15:47:32.607120+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/set-lighting-diffusion-vs-size-of-the-source/#post-215392",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "59e807e61d92feb054605b498a3ca6d12666e798aad029d23055a8f146e01e9a",
+    "parser_version": "bbpress-v2"
+  }
+}

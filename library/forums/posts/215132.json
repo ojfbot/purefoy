@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "215132",
+    "forum_slug": "forum",
+    "topic_slug": "contrast-ratio"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Since I tend to embark in strange adventures I decided to write and direct my first short movie, but unfortunately I’m doing it with zero budget. Yes, unexperienced and with no budget: i’m aware that I created the perfect receipt for a complete disaster. Who knows, maybe i’m going to create the new “The Room” , ah ah!\nJokes apart, I’m doing my best to learn and understand and to find a solution to all the problems I’m facing. I’d like to realize something nice, not just waste some time. The greatest difficulty i’m trying to solve it’s the lighting, since i have no real lights (but i’m building my own soft lights with a bit of DIY) . I realized that thinking in terms of contrast ratio makes the lighting planning easier to me, since it  relates one light to the others and helps me understand what’s the role and meaning of each light in its context.  That’s way i’ve got a couple of questions about the contrast ratio.\n1) Given that of course the global effect, mood, style of the scene are fundamental in the planning, is the contrast ratio a factor you  actually consider in the planning of a scene lighting?\n2) Is it better to keep the contrast constant in all the scenes to preserve the visual omogenity or is it better to adapt the contrast to the mood of the scenes, if it changes?",
+  "content_html": "<p>Since I tend to embark in strange adventures I decided to write and direct my first short movie, but unfortunately I’m doing it with zero budget. Yes, unexperienced and with no budget: i’m aware that I created the perfect receipt for a complete disaster. Who knows, maybe i’m going to create the new “The Room” , ah ah!</p>\n<p>Jokes apart, I’m doing my best to learn and understand and to find a solution to all the problems I’m facing. I’d like to realize something nice, not just waste some time. The greatest difficulty i’m trying to solve it’s the lighting, since i have no real lights (but i’m building my own soft lights with a bit of DIY) . I realized that thinking in terms of contrast ratio makes the lighting planning easier to me, since it  relates one light to the others and helps me understand what’s the role and meaning of each light in its context.  That’s way i’ve got a couple of questions about the contrast ratio.</p>\n<p>1) Given that of course the global effect, mood, style of the scene are fundamental in the planning, is the contrast ratio a factor you  actually consider in the planning of a scene lighting?</p>\n<p>2) Is it better to keep the contrast constant in all the scenes to preserve the visual omogenity or is it better to adapt the contrast to the mood of the scenes, if it changes?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Since I tend to embark in strange adventures I decided to write and direct my first short movie, but unfortunately I’m doing it with zero budget. Yes, unexperienced and with no budget: i’m aware that I created the perfect receipt for a complete disaster. Who knows, maybe i’m going to create the new “The Room” , ah ah!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jokes apart, I’m doing my best to learn and understand and to find a solution to all the problems I’m facing. I’d like to realize something nice, not just waste some time. The greatest difficulty i’m trying to solve it’s the lighting, since i have no real lights (but i’m building my own soft lights with a bit of DIY) . I realized that thinking in terms of contrast ratio makes the lighting planning easier to me, since it  relates one light to the others and helps me understand what’s the role and meaning of each light in its context.  That’s way i’ve got a couple of questions about the contrast ratio."
+    },
+    {
+      "type": "paragraph",
+      "text": "1) Given that of course the global effect, mood, style of the scene are fundamental in the planning, is the contrast ratio a factor you  actually consider in the planning of a scene lighting?"
+    },
+    {
+      "type": "paragraph",
+      "text": "2) Is it better to keep the contrast constant in all the scenes to preserve the visual omogenity or is it better to adapt the contrast to the mood of the scenes, if it changes?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio/#post-215259",
+    "scraped_at": "2026-01-15T15:48:00.000896+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio/#post-215259",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "96d1cb3622c559742bbd929799c90d175d0f5231b1d535f110fb888cfafa384c",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "212157",
+    "forum_slug": "set-talk",
+    "topic_slug": "education-on-the-more-expensive-things",
+    "parent_post_id": "212118",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "When I was coming up, often my 1st AC, my Key Grip, and my Gaffer were more experienced than I was so I could talk to them about specialized equipment like remote heads, telescoping cranes, etc.  I also went to trade shows, read trade magazines, visited rental houses, read the specs on websites, owners manuals, etc.",
+  "content_html": "<p>When I was coming up, often my 1st AC, my Key Grip, and my Gaffer were more experienced than I was so I could talk to them about specialized equipment like remote heads, telescoping cranes, etc.  I also went to trade shows, read trade magazines, visited rental houses, read the specs on websites, owners manuals, etc.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "When I was coming up, often my 1st AC, my Key Grip, and my Gaffer were more experienced than I was so I could talk to them about specialized equipment like remote heads, telescoping cranes, etc.  I also went to trade shows, read trade magazines, visited rental houses, read the specs on websites, owners manuals, etc."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/education-on-the-more-expensive-things/#post-212246",
+    "scraped_at": "2026-01-15T13:23:46.163117+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/education-on-the-more-expensive-things/#post-212246",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bc5c783528daecef58eec64191b2f543dd755ecb06aac74120eb6847168c2786",
+    "parser_version": "bbpress-v2"
+  }
+}

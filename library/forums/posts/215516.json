@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215516",
+    "forum_slug": "forum",
+    "topic_slug": "advices-for-an-exterior-scene",
+    "parent_post_id": "215492",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks for your advices! you helped me a lot in understanding what kind of effect i’m actually looking for!\nSorry for the late of my reply, i’ve been trying for days to submit a (way more articulate) post  about my project but every time it blocks: it seems the forum hates my idea, ah ah! but at least i’d like to thank you!",
+  "content_html": "<p>Thanks for your advices! you helped me a lot in understanding what kind of effect i’m actually looking for!</p>\n<p>Sorry for the late of my reply, i’ve been trying for days to submit a (way more articulate) post  about my project but every time it blocks: it seems the forum hates my idea, ah ah! but at least i’d like to thank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks for your advices! you helped me a lot in understanding what kind of effect i’m actually looking for!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sorry for the late of my reply, i’ve been trying for days to submit a (way more articulate) post  about my project but every time it blocks: it seems the forum hates my idea, ah ah! but at least i’d like to thank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/advices-for-an-exterior-scene/#post-215516",
+    "scraped_at": "2026-01-15T15:46:42.240008+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/advices-for-an-exterior-scene/#post-215516",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3e1a7dd8bd70733726c31e850e336a2e735667d16ec526c1c5c20954d742065d",
+    "parser_version": "bbpress-v2"
+  }
+}

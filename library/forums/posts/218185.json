@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "218185",
+    "forum_slug": "film-talk",
+    "topic_slug": "come-and-see",
+    "parent_post_id": "218173",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It seems clear that the role of cinema as a moral guide may be somewhat overrated.\nI don’t think it’s overrated, it’s not like you watch a movie and that molds your views forever. “Come and See” is still one of the most powerful anti-war movies but a single movie – even when you played the lead role in it 40 years ago – cannot negate decades of state propaganda that floods your everyday life.",
+  "content_html": "<blockquote><p>It seems clear that the role of cinema as a moral guide may be somewhat overrated.</p></blockquote>\n<p>I don’t think it’s overrated, it’s not like you watch a movie and that molds your views forever. “Come and See” is still one of the most powerful anti-war movies but a single movie – even when you played the lead role in it 40 years ago – cannot negate decades of state propaganda that floods your everyday life.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "It seems clear that the role of cinema as a moral guide may be somewhat overrated."
+    },
+    {
+      "type": "paragraph",
+      "text": "It seems clear that the role of cinema as a moral guide may be somewhat overrated."
+    },
+    {
+      "type": "paragraph",
+      "text": "I don’t think it’s overrated, it’s not like you watch a movie and that molds your views forever. “Come and See” is still one of the most powerful anti-war movies but a single movie – even when you played the lead role in it 40 years ago – cannot negate decades of state propaganda that floods your everyday life."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "It seems clear that the role of cinema as a moral guide may be somewhat overrated."
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/come-and-see/#post-220074",
+    "scraped_at": "2026-01-15T11:51:11.244558+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/come-and-see/#post-220074",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "95c5d51535255ab023b6cb9404b9fad21156e80d681eb8dc7f14b1ce26ed73ab",
+    "parser_version": "bbpress-v2"
+  }
+}

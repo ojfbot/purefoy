@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/white-balance-with-multiple-light-sources/#post-218611",
+  "forum_slug": "forum",
+  "topic_slug": "white-balance-with-multiple-light-sources",
+  "title": "White balance with multiple light sources.",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "218550",
+    "218553",
+    "218600",
+    "218611"
+  ],
+  "reply_tree": {
+    "post_id": "218550",
+    "post_type": "topic",
+    "author": "TBunker11",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "218553",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218600",
+        "post_type": "reply",
+        "author": "Gregg",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218611",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/white-balance-with-multiple-light-sources/#post-218611",
+    "scraped_at": "2026-01-15T14:50:55.332042+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-with-multiple-light-sources/#post-218611",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a3018dc9d58a625dabe65de420ce37ddc2a3c83ae253208e5306e738e7101247",
+    "parser_version": "bbpress-v2"
+  }
+}

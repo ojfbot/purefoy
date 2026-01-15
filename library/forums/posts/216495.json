@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216495",
+    "forum_slug": "forum",
+    "topic_slug": "white-balance-warm-tungsten",
+    "parent_post_id": "216221",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You are forgetting that in the wide shot, there is a practical lamp with a tungsten light bulb that is driving what the supplemental soft light is doing. A household bulb through a cloth shade might be 2800K or less, so the soft light is matching that warmth. If the camera had been set to 3200K, then the lighting would read slightly warm.  If one wanted even more warmth, one could set the camera higher like to 3400K or 3600K, etc.\nOften your additional lighting has to take into account some practical or natural source in the room that has a certain color temperature.  Sure, if the\nonly\nlight in the room came from an off-camera LED, then one could do any number of lighting & camera setting combinations to get a warm look.",
+  "content_html": "<p>You are forgetting that in the wide shot, there is a practical lamp with a tungsten light bulb that is driving what the supplemental soft light is doing. A household bulb through a cloth shade might be 2800K or less, so the soft light is matching that warmth. If the camera had been set to 3200K, then the lighting would read slightly warm.  If one wanted even more warmth, one could set the camera higher like to 3400K or 3600K, etc.</p>\n<p>Often your additional lighting has to take into account some practical or natural source in the room that has a certain color temperature.  Sure, if the <em>only</em> light in the room came from an off-camera LED, then one could do any number of lighting &amp; camera setting combinations to get a warm look.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You are forgetting that in the wide shot, there is a practical lamp with a tungsten light bulb that is driving what the supplemental soft light is doing. A household bulb through a cloth shade might be 2800K or less, so the soft light is matching that warmth. If the camera had been set to 3200K, then the lighting would read slightly warm.  If one wanted even more warmth, one could set the camera higher like to 3400K or 3600K, etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "Often your additional lighting has to take into account some practical or natural source in the room that has a certain color temperature.  Sure, if the\nonly\nlight in the room came from an off-camera LED, then one could do any number of lighting & camera setting combinations to get a warm look."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/",
+    "scraped_at": "2026-01-15T15:23:58.132692+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e927cb0948945129602910c9d3250cec6c764dd108df9ccb033f0bd111a32476",
+    "parser_version": "bbpress-v2"
+  }
+}

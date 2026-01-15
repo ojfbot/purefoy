@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "217259",
+    "forum_slug": "forum",
+    "topic_slug": "avoiding-multiple-shadows"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Mtm48",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I notice in lighting plots there are rows of light fixtures. I would assume those lights would blend in together to create an appearance one pool of light? How do avoid creating multiple shadows and how far apart do you decide to space these lights?  Thanks!",
+  "content_html": "<p>I notice in lighting plots there are rows of light fixtures. I would assume those lights would blend in together to create an appearance one pool of light? How do avoid creating multiple shadows and how far apart do you decide to space these lights?  Thanks!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I notice in lighting plots there are rows of light fixtures. I would assume those lights would blend in together to create an appearance one pool of light? How do avoid creating multiple shadows and how far apart do you decide to space these lights?  Thanks!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/avoiding-multiple-shadows/",
+    "scraped_at": "2026-01-15T15:21:18.880727+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/avoiding-multiple-shadows/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "57185c9d95f18b46065285e9ea8b61a3b368d79263472a0eec64100b2f624cd6",
+    "parser_version": "bbpress-v2"
+  }
+}

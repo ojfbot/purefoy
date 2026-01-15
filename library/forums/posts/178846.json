@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "178846",
+    "forum_slug": "camera",
+    "topic_slug": "master-anamorphics",
+    "parent_post_id": "169631",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "At least with 4-perf 35mm film, there was the advantage that anamorphic had over Super 35 cropped to 2.39 — the larger negative area used, resulting in a finer-grained image.\nWith digital, that advantage doesn’t really exist — with 2X anamorphic you aren’t using more of the sensor for 2.39 since most sensors are at least 1.5 : 1 in shape, plus there isn’t grain in digital anyway.\nSo that pretty much leaves using anamorphic in digital for the anamorphic artifacts, the squeezed bokeh, the soft edges, the flares… if you minimize or elimate all of that then what are you really getting out of anamorphic?",
+  "content_html": "<p>At least with 4-perf 35mm film, there was the advantage that anamorphic had over Super 35 cropped to 2.39 — the larger negative area used, resulting in a finer-grained image.</p>\n<p>With digital, that advantage doesn’t really exist — with 2X anamorphic you aren’t using more of the sensor for 2.39 since most sensors are at least 1.5 : 1 in shape, plus there isn’t grain in digital anyway.</p>\n<p>So that pretty much leaves using anamorphic in digital for the anamorphic artifacts, the squeezed bokeh, the soft edges, the flares… if you minimize or elimate all of that then what are you really getting out of anamorphic?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "At least with 4-perf 35mm film, there was the advantage that anamorphic had over Super 35 cropped to 2.39 — the larger negative area used, resulting in a finer-grained image."
+    },
+    {
+      "type": "paragraph",
+      "text": "With digital, that advantage doesn’t really exist — with 2X anamorphic you aren’t using more of the sensor for 2.39 since most sensors are at least 1.5 : 1 in shape, plus there isn’t grain in digital anyway."
+    },
+    {
+      "type": "paragraph",
+      "text": "So that pretty much leaves using anamorphic in digital for the anamorphic artifacts, the squeezed bokeh, the soft edges, the flares… if you minimize or elimate all of that then what are you really getting out of anamorphic?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-178888",
+    "scraped_at": "2026-01-15T15:44:20.045119+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-178888",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "19d8209c12b756fd260c2a1bc9db47bf2419a9929b610810384577d457f0c165",
+    "parser_version": "bbpress-v2"
+  }
+}

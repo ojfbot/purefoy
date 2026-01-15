@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "215870",
+    "forum_slug": "camera",
+    "topic_slug": "high-iso-for-shooting-daylight-exterior",
+    "parent_post_id": "215856",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "When using a compressed codec, if you rate down you’re still under-exposing the image and retaining more apparent highlight information.\nThe difference between recording to a compressed codec and recording a raw file is that in a RAW file, each pixel is stored as a single Y value.\nThis is because sensor RAW information is a single Y (luminance) value per pixel, and we assume values from surrounding pixels to make up the final RGB triplet.\nYou can still have spatial compression – block type or discrete cosine transform to this 2D plane of RAW Y values.\nWhen changing ISO, you multiply this single Y value per pixel. When a pixel is demosaiced, it undergoes so many functions, such as OETF, WB, etc., that the original ISO function is no longer applicable to the RGB triplet.\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>When using a compressed codec, if you rate down you’re still under-exposing the image and retaining more apparent highlight information.</p>\n<p>The difference between recording to a compressed codec and recording a raw file is that in a RAW file, each pixel is stored as a single Y value.</p>\n<p>This is because sensor RAW information is a single Y (luminance) value per pixel, and we assume values from surrounding pixels to make up the final RGB triplet.</p>\n<p>You can still have spatial compression – block type or discrete cosine transform to this 2D plane of RAW Y values.</p>\n<p>When changing ISO, you multiply this single Y value per pixel. When a pixel is demosaiced, it undergoes so many functions, such as OETF, WB, etc., that the original ISO function is no longer applicable to the RGB triplet.</p>\n<p> </p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "When using a compressed codec, if you rate down you’re still under-exposing the image and retaining more apparent highlight information."
+    },
+    {
+      "type": "paragraph",
+      "text": "The difference between recording to a compressed codec and recording a raw file is that in a RAW file, each pixel is stored as a single Y value."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is because sensor RAW information is a single Y (luminance) value per pixel, and we assume values from surrounding pixels to make up the final RGB triplet."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can still have spatial compression – block type or discrete cosine transform to this 2D plane of RAW Y values."
+    },
+    {
+      "type": "paragraph",
+      "text": "When changing ISO, you multiply this single Y value per pixel. When a pixel is demosaiced, it undergoes so many functions, such as OETF, WB, etc., that the original ISO function is no longer applicable to the RGB triplet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/high-iso-for-shooting-daylight-exterior/",
+    "scraped_at": "2026-01-15T15:20:21.252590+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/high-iso-for-shooting-daylight-exterior/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a6ee6a0e2e7a6ab074d14227f79233b3a758449def9dcbeee8a1b548a3042e9d",
+    "parser_version": "bbpress-v2"
+  }
+}

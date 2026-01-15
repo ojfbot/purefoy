@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215483",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-approach-for-daytime-interior-in-a-high-rise",
+    "parent_post_id": "215472",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "In such a scenario how would you deal with heavily changing weather conditions (in the case in which waiting for the right moment is not an available option). Let’s say, he has a clear sky the first day, a cloudy sky the second day and an heavy rain the third day?",
+  "content_html": "<p>In such a scenario how would you deal with heavily changing weather conditions (in the case in which waiting for the right moment is not an available option). Let’s say, he has a clear sky the first day, a cloudy sky the second day and an heavy rain the third day?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In such a scenario how would you deal with heavily changing weather conditions (in the case in which waiting for the right moment is not an available option). Let’s say, he has a clear sky the first day, a cloudy sky the second day and an heavy rain the third day?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-approach-for-daytime-interior-in-a-high-rise/#post-215484",
+    "scraped_at": "2026-01-15T15:47:02.977361+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-approach-for-daytime-interior-in-a-high-rise/#post-215484",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "16bd8816c682a12a98e6ca366f1594cacdf1b9bb6a8059cbd7a1e2eabae7dfd5",
+    "parser_version": "bbpress-v2"
+  }
+}

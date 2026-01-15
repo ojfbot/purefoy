@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/recent-work/#post-216023",
+  "forum_slug": "forum",
+  "topic_slug": "recent-work",
+  "title": "Recent work",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "174608",
+    "216023"
+  ],
+  "reply_tree": {
+    "post_id": "174608",
+    "post_type": "topic",
+    "author": "K V Pavithran",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216023",
+        "post_type": "reply",
+        "author": "Dpjpandone",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recent-work/#post-216023",
+    "scraped_at": "2026-01-15T15:42:35.401565+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recent-work/#post-216023",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "41783595f8000f9f74ebaf0286cf7b2b69591fb6dfa2ebc844abe914d9f37d86",
+    "parser_version": "bbpress-v2"
+  }
+}

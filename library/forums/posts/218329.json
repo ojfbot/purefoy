@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "218329",
+    "forum_slug": "forum",
+    "topic_slug": "fargo-bluray-vs-4k-which-is-the-correct-exposure",
+    "parent_post_id": "218275",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "sanghamithran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you Master David and Master Roger, I get what you are saying,It must be hard to have artistic control exactly as intended at home viewing due to the non uniformity of all kinds of displays and formats. But Master Roger Could you pls tell which one you prefer.\nI wanted to understand the effect you had in mind atleast when shooting these scenes to learn more about the story telling through exposure.\nTo know the intend as to whether you wanted the light shining on both the kidnappers face when they are inside the car to be really brighter as in 4k to affect the audience with heat or did you actually intended to expose for that highlight and not go for very strong feel there as it would happen in the 4k version. Same for the interior day shots of the wife character. Did you intended for a strong bouncing daylight outside or a dull much more dim diffuse light happening outside, based on the exposure in these images.\nThank you.",
+  "content_html": "<p>Thank you Master David and Master Roger, I get what you are saying,It must be hard to have artistic control exactly as intended at home viewing due to the non uniformity of all kinds of displays and formats. But Master Roger Could you pls tell which one you prefer.</p>\n<p>I wanted to understand the effect you had in mind atleast when shooting these scenes to learn more about the story telling through exposure.</p>\n<p>To know the intend as to whether you wanted the light shining on both the kidnappers face when they are inside the car to be really brighter as in 4k to affect the audience with heat or did you actually intended to expose for that highlight and not go for very strong feel there as it would happen in the 4k version. Same for the interior day shots of the wife character. Did you intended for a strong bouncing daylight outside or a dull much more dim diffuse light happening outside, based on the exposure in these images.</p>\n<p>Thank you.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you Master David and Master Roger, I get what you are saying,It must be hard to have artistic control exactly as intended at home viewing due to the non uniformity of all kinds of displays and formats. But Master Roger Could you pls tell which one you prefer."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wanted to understand the effect you had in mind atleast when shooting these scenes to learn more about the story telling through exposure."
+    },
+    {
+      "type": "paragraph",
+      "text": "To know the intend as to whether you wanted the light shining on both the kidnappers face when they are inside the car to be really brighter as in 4k to affect the audience with heat or did you actually intended to expose for that highlight and not go for very strong feel there as it would happen in the 4k version. Same for the interior day shots of the wife character. Did you intended for a strong bouncing daylight outside or a dull much more dim diffuse light happening outside, based on the exposure in these images."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/fargo-bluray-vs-4k-which-is-the-correct-exposure/#post-218329",
+    "scraped_at": "2026-01-15T15:08:32.524133+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/fargo-bluray-vs-4k-which-is-the-correct-exposure/#post-218329",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "414eb1ed138a20694ed6fd512b8102b07316e2343661f7ce13371171dc3019aa",
+    "parser_version": "bbpress-v2"
+  }
+}

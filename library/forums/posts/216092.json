@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "216092",
+    "forum_slug": "camera",
+    "topic_slug": "lenses-with-undercorrected-spherical-abberation",
+    "parent_post_id": "216075",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "MichaelBachinger",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "“By spherical aberrations, you don’t mean spherical optics struggle to converge light to a point evenly across a plane?”\nThat is my current understandig of spherical abberation, but in my first post I confused it with the correction of bokeh.\n“With the term undercorrected bokeh, are you searching for glass with a very soft feathered edge of the bokeh, similar to ARRI SP’s?”\nYes, that is exactly what i am looking for.",
+  "content_html": "<p>“By spherical aberrations, you don’t mean spherical optics struggle to converge light to a point evenly across a plane?”</p>\n<p>That is my current understandig of spherical abberation, but in my first post I confused it with the correction of bokeh.</p>\n<p> </p>\n<p>“With the term undercorrected bokeh, are you searching for glass with a very soft feathered edge of the bokeh, similar to ARRI SP’s?”</p>\n<p>Yes, that is exactly what i am looking for.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "“By spherical aberrations, you don’t mean spherical optics struggle to converge light to a point evenly across a plane?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is my current understandig of spherical abberation, but in my first post I confused it with the correction of bokeh."
+    },
+    {
+      "type": "paragraph",
+      "text": "“With the term undercorrected bokeh, are you searching for glass with a very soft feathered edge of the bokeh, similar to ARRI SP’s?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes, that is exactly what i am looking for."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lenses-with-undercorrected-spherical-abberation/#post-216092",
+    "scraped_at": "2026-01-15T15:17:57.573433+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lenses-with-undercorrected-spherical-abberation/#post-216092",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0a876bf6d0cca07c611bef022da96fb1f1784cd6f772a867f3705b6da4b204a7",
+    "parser_version": "bbpress-v2"
+  }
+}

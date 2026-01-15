@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217221",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-a-dark-corridor",
+    "parent_post_id": "217193",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Bouncing light off the walls inside the adjacent rooms seems like a good idea. By controlling the size and placement of the light you can control the way the light will fall in the corridor.",
+  "content_html": "<p>Bouncing light off the walls inside the adjacent rooms seems like a good idea. By controlling the size and placement of the light you can control the way the light will fall in the corridor.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Bouncing light off the walls inside the adjacent rooms seems like a good idea. By controlling the size and placement of the light you can control the way the light will fall in the corridor."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-a-dark-corridor/#post-217429",
+    "scraped_at": "2026-01-15T15:20:51.445017+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-a-dark-corridor/#post-217429",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8fa7a98f29b235753e1d56ce29b2df95a0183b2d399fbcdc1d404714f1cd4e99",
+    "parser_version": "bbpress-v2"
+  }
+}

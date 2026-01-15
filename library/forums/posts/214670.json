@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214670",
+    "forum_slug": "forum",
+    "topic_slug": "lighting",
+    "parent_post_id": "214663",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Julius",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "First of all, thanks a thousand times for your answers! It really helped.\nAlso i would love to read a book from you where you explain your lighting approach!\nJulius",
+  "content_html": "<p>First of all, thanks a thousand times for your answers! It really helped.</p>\n<p>Also i would love to read a book from you where you explain your lighting approach!</p>\n<div class=\"bbp-signature\"><p>Julius</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "First of all, thanks a thousand times for your answers! It really helped."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also i would love to read a book from you where you explain your lighting approach!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Julius"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting/#post-214673",
+    "scraped_at": "2026-01-15T15:52:12.525652+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting/#post-214673",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c5c8106c548d7d0939c5e5be0f58b6d079e97e58865b5a4363c114005363c8af",
+    "parser_version": "bbpress-v2"
+  }
+}

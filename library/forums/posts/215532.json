@@ -1,0 +1,51 @@
+{
+  "ids": {
+    "post_id": "215532",
+    "forum_slug": "forum",
+    "topic_slug": "faking-a-dusk-look-during-daytime",
+    "parent_post_id": "215522",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Here is a recent photo I took at twilight on a cloudy day. I shot in raw so could process the photo to any color temp setting. The thing to remember is that the level of blue is a creative choice. Also, in real twilight, the light gets more blue minute by minute, and how clear the sky is will affect the color.\nTraditionally, in older movies, day-for-night or dusk-for-night was achieved by using 3200K tungsten-balanced film and removing the 85 correction filter. But keep in mind that when the movie was color timed later, the degree of blue was often adjusted to taste. Also, the blue will look more blue if there is something lit with warm tungsten light in the shot.",
+  "content_html": "<p>Here is a recent photo I took at twilight on a cloudy day. I shot in raw so could process the photo to any color temp setting. The thing to remember is that the level of blue is a creative choice. Also, in real twilight, the light gets more blue minute by minute, and how clear the sky is will affect the color.</p>\n<p>Traditionally, in older movies, day-for-night or dusk-for-night was achieved by using 3200K tungsten-balanced film and removing the 85 correction filter. But keep in mind that when the movie was color timed later, the degree of blue was often adjusted to taste. Also, the blue will look more blue if there is something lit with warm tungsten light in the shot.</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215532/w7odl8dx2s8hul3wpcgwgcotdvng2i1g.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Here is a recent photo I took at twilight on a cloudy day. I shot in raw so could process the photo to any color temp setting. The thing to remember is that the level of blue is a creative choice. Also, in real twilight, the light gets more blue minute by minute, and how clear the sky is will affect the color."
+    },
+    {
+      "type": "paragraph",
+      "text": "Traditionally, in older movies, day-for-night or dusk-for-night was achieved by using 3200K tungsten-balanced film and removing the 85 correction filter. But keep in mind that when the movie was color timed later, the degree of blue was often adjusted to taste. Also, the blue will look more blue if there is something lit with warm tungsten light in the shot."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215532/w7odl8dx2s8hul3wpcgwgcotdvng2i1g.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/faking-a-dusk-look-during-daytime/#post-215536",
+    "scraped_at": "2026-01-15T15:46:35.579746+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/faking-a-dusk-look-during-daytime/#post-215536",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3f3a11dfb2b4eeea446178fcdada56635568aeed6af6b09d1cf02e3e23f07a49",
+    "parser_version": "bbpress-v2"
+  }
+}

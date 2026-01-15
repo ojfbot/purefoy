@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "202071",
+    "forum_slug": "website-news",
+    "topic_slug": "new-looking-at-lighting",
+    "parent_post_id": "201976",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Can’t wait, thank you!",
+  "content_html": "<p>Can’t wait, thank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Can’t wait, thank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/new-looking-at-lighting/#post-202552",
+    "scraped_at": "2026-01-15T12:48:41.600129+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/new-looking-at-lighting/#post-202552",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "345286476783c62fa7563dcafa4fc447ff30da8d7b9ea9e5886cd55a80789b03",
+    "parser_version": "bbpress-v2"
+  }
+}

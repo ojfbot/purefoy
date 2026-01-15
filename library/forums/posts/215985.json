@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215985",
+    "forum_slug": "forum",
+    "topic_slug": "br2049-exposure-metering-in-extremely-dark-scene",
+    "parent_post_id": "215966",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If it’s a horror piece, I don’t think you can do much wrong with this approach, what you don’t see is often more important than what you do see 🙂",
+  "content_html": "<p>If it’s a horror piece, I don’t think you can do much wrong with this approach, what you don’t see is often more important than what you do see 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If it’s a horror piece, I don’t think you can do much wrong with this approach, what you don’t see is often more important than what you do see 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/br2049-exposure-metering-in-extremely-dark-scene/#post-215986",
+    "scraped_at": "2026-01-15T15:42:50.302755+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/br2049-exposure-metering-in-extremely-dark-scene/#post-215986",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "da66259d59f47dbbea4c2ceeaa5d05ef5ffa179e92d05262ca1f938634a3824a",
+    "parser_version": "bbpress-v2"
+  }
+}

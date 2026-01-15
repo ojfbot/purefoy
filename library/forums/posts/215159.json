@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215159",
+    "forum_slug": "forum",
+    "topic_slug": "skyfall-scotland-drive-scene",
+    "parent_post_id": "215129",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "halfgrain",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks, Roger! Did you have a Plan B in case there hadn’t been any overcast conditions or would you have just rescheduled?",
+  "content_html": "<p>Thanks, Roger! Did you have a Plan B in case there hadn’t been any overcast conditions or would you have just rescheduled?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks, Roger! Did you have a Plan B in case there hadn’t been any overcast conditions or would you have just rescheduled?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/skyfall-scotland-drive-scene/#post-215159",
+    "scraped_at": "2026-01-15T15:48:50.888974+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/skyfall-scotland-drive-scene/#post-215159",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "33c0b0a077debaa1abc63c6ff590385ef7a45c83f43b40c8584c07d2430307c7",
+    "parser_version": "bbpress-v2"
+  }
+}

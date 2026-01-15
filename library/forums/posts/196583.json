@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "196583",
+    "forum_slug": "camera",
+    "topic_slug": "alexa-mini-lf",
+    "parent_post_id": "196072",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dcoll33",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Nope, the mini Lf is a bad camera now that the 35 is out. Outdated and unusable….of course I’m joking. Some smaller productions are still shooting with the Alexa Classic and that’s tremendously older in retrospect. It’s a great camera that gets a different image that might be better suited for a project. Sure it has less dynamic range and its a new sensor, but he mini LF still has a bigger sensor if that’s what you’re going for",
+  "content_html": "<p>Nope, the mini Lf is a bad camera now that the 35 is out. Outdated and unusable….of course I’m joking. Some smaller productions are still shooting with the Alexa Classic and that’s tremendously older in retrospect. It’s a great camera that gets a different image that might be better suited for a project. Sure it has less dynamic range and its a new sensor, but he mini LF still has a bigger sensor if that’s what you’re going for</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Nope, the mini Lf is a bad camera now that the 35 is out. Outdated and unusable….of course I’m joking. Some smaller productions are still shooting with the Alexa Classic and that’s tremendously older in retrospect. It’s a great camera that gets a different image that might be better suited for a project. Sure it has less dynamic range and its a new sensor, but he mini LF still has a bigger sensor if that’s what you’re going for"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/alexa-mini-lf/#post-199631",
+    "scraped_at": "2026-01-15T15:42:49.602819+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/alexa-mini-lf/#post-199631",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "310bd00cdc5e48aea212af942b1f56d21007077abd0b229cbde26337c3684c55",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "217154",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-differences"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "satin",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "<p style=”text-align: center;”>Is there really any differences between lighting things with tungsten than LED? I’ve been said that tungsten is better for lighting skin, but is it truly a great advantage over LED? Also tungsten could get very hot in some interiors. Probably I will sound ignorant, but wouldn’t it be better to always use LED? Due to it’s practicallity</p>",
+  "content_html": "<p>&lt;p style=”text-align: center;”&gt;Is there really any differences between lighting things with tungsten than LED? I’ve been said that tungsten is better for lighting skin, but is it truly a great advantage over LED? Also tungsten could get very hot in some interiors. Probably I will sound ignorant, but wouldn’t it be better to always use LED? Due to it’s practicallity&lt;/p&gt;</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "<p style=”text-align: center;”>Is there really any differences between lighting things with tungsten than LED? I’ve been said that tungsten is better for lighting skin, but is it truly a great advantage over LED? Also tungsten could get very hot in some interiors. Probably I will sound ignorant, but wouldn’t it be better to always use LED? Due to it’s practicallity</p>"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-differences/#post-217165",
+    "scraped_at": "2026-01-15T15:21:42.546561+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-differences/#post-217165",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "226929b1f8bfd1b2c3c908623feb6aef5c63b7a5340c399e5c46055f5f3ca16a",
+    "parser_version": "bbpress-v2"
+  }
+}

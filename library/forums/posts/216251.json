@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216251",
+    "forum_slug": "camera",
+    "topic_slug": "indie-film-making-project-help",
+    "parent_post_id": "216231",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Matt Stahley",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I will say that any raw format with be large amounts of data so plan on budgeting for hard drives and having a laptop with you to transfer all of that data. Lumix and Sony cameras that shoot 10 bit log internally will have much smaller file sizes and still give you plenty to work with in post but really you want to get a good exposure no matter what. Even raw won’t completely fix a botched exposure. It may help but it still doesn’t work miracles. Some reasons to shoot raw video is it will bypass any of the internal processing of. the cameras especially consumer mirrorless. So if the manufacturer does some type of sharpening etc to their internal codecs it will bypass all of that. The other main reason to shoot raw would be the color fidelity which is 12bit or higher depending on formats and cameras systems. if your target audience is regular people they aren’t going to know the difference in any of  the technical camera stuff As long as the story is good and the dialogue is clean the picture matters less.",
+  "content_html": "<p>I will say that any raw format with be large amounts of data so plan on budgeting for hard drives and having a laptop with you to transfer all of that data. Lumix and Sony cameras that shoot 10 bit log internally will have much smaller file sizes and still give you plenty to work with in post but really you want to get a good exposure no matter what. Even raw won’t completely fix a botched exposure. It may help but it still doesn’t work miracles. Some reasons to shoot raw video is it will bypass any of the internal processing of. the cameras especially consumer mirrorless. So if the manufacturer does some type of sharpening etc to their internal codecs it will bypass all of that. The other main reason to shoot raw would be the color fidelity which is 12bit or higher depending on formats and cameras systems. if your target audience is regular people they aren’t going to know the difference in any of  the technical camera stuff As long as the story is good and the dialogue is clean the picture matters less.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I will say that any raw format with be large amounts of data so plan on budgeting for hard drives and having a laptop with you to transfer all of that data. Lumix and Sony cameras that shoot 10 bit log internally will have much smaller file sizes and still give you plenty to work with in post but really you want to get a good exposure no matter what. Even raw won’t completely fix a botched exposure. It may help but it still doesn’t work miracles. Some reasons to shoot raw video is it will bypass any of the internal processing of. the cameras especially consumer mirrorless. So if the manufacturer does some type of sharpening etc to their internal codecs it will bypass all of that. The other main reason to shoot raw would be the color fidelity which is 12bit or higher depending on formats and cameras systems. if your target audience is regular people they aren’t going to know the difference in any of  the technical camera stuff As long as the story is good and the dialogue is clean the picture matters less."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/indie-film-making-project-help/#post-216251",
+    "scraped_at": "2026-01-15T14:33:33.380956+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/indie-film-making-project-help/#post-216251",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7a53cd4cf1ef2336578be55c44673988ed3b6ad7ef83591521ac95e9e2b5941e",
+    "parser_version": "bbpress-v2"
+  }
+}

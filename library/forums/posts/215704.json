@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215704",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-notes",
+    "parent_post_id": "215697",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "AkshayYd",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey Max! I can share the word file for this document and together we (the whole community) can put more context and details to the key-points. Whatever little we can do, I think that will help everyone here.",
+  "content_html": "<p>Hey Max! I can share the word file for this document and together we (the whole community) can put more context and details to the key-points. Whatever little we can do, I think that will help everyone here.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey Max! I can share the word file for this document and together we (the whole community) can put more context and details to the key-points. Whatever little we can do, I think that will help everyone here."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-notes/#post-220270",
+    "scraped_at": "2026-01-15T13:56:35.804147+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-notes/#post-220270",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "50eada2c3787953b405de0e64b65d1168344c9260e2a53a90d75434099929518",
+    "parser_version": "bbpress-v2"
+  }
+}

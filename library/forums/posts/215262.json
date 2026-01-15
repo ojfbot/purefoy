@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "215262",
+    "forum_slug": "camera",
+    "topic_slug": "skill-vs-equipment-in-low-end-production"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Innokenty Vetkin",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "While having good quality equipment is no doubt highly desirable. A lot of us people who like movie making are outside of big industry and have very limited resources. It’s quite easy to just blame your tools for subpar results. But it seems more constructive to find better ways to use what we have, pushing your current equipment to the limit.\nWhat you think are the the most important skills for a cinematographer, that woult help to better utilze equipment with regards to cameras, lighting and other gear?",
+  "content_html": "<p>While having good quality equipment is no doubt highly desirable. A lot of us people who like movie making are outside of big industry and have very limited resources. It’s quite easy to just blame your tools for subpar results. But it seems more constructive to find better ways to use what we have, pushing your current equipment to the limit.</p>\n<p>What you think are the the most important skills for a cinematographer, that woult help to better utilze equipment with regards to cameras, lighting and other gear?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "While having good quality equipment is no doubt highly desirable. A lot of us people who like movie making are outside of big industry and have very limited resources. It’s quite easy to just blame your tools for subpar results. But it seems more constructive to find better ways to use what we have, pushing your current equipment to the limit."
+    },
+    {
+      "type": "paragraph",
+      "text": "What you think are the the most important skills for a cinematographer, that woult help to better utilze equipment with regards to cameras, lighting and other gear?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/skill-vs-equipment-in-low-end-production/#post-215302",
+    "scraped_at": "2026-01-15T15:22:18.325243+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/skill-vs-equipment-in-low-end-production/#post-215302",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9bd69d6353ce71a36e7aa8499d791013dd8cbc9bca600150c454b7cb7796bf77",
+    "parser_version": "bbpress-v2"
+  }
+}

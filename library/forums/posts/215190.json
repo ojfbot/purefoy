@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "post_id": "215190",
+    "forum_slug": "camera",
+    "topic_slug": "luts",
+    "parent_post_id": "215179",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "LucaM wrote:\nIn other words It’s a LUT for the initial color correction, not for the grading, Is It correct?\nNo, Roger said he would sit with the colorist and go through every shot to tweak exposure (besides color correction to match shots) but no additional grading.\nIf you watch Roger’s films shot on Alexa, the differences between them come from lighting, set design, costume ect but ‘grading’ is the same for all of them. The only variables used are color temperature (and I suspect tint).",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/luts/#post-215188\">LucaM wrote:</a></div>\n<p>In other words It’s a LUT for the initial color correction, not for the grading, Is It correct?</p></blockquote>\n<p> </p>\n<p>No, Roger said he would sit with the colorist and go through every shot to tweak exposure (besides color correction to match shots) but no additional grading.</p>\n<p>If you watch Roger’s films shot on Alexa, the differences between them come from lighting, set design, costume ect but ‘grading’ is the same for all of them. The only variables used are color temperature (and I suspect tint).</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "LucaM wrote:\nIn other words It’s a LUT for the initial color correction, not for the grading, Is It correct?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In other words It’s a LUT for the initial color correction, not for the grading, Is It correct?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No, Roger said he would sit with the colorist and go through every shot to tweak exposure (besides color correction to match shots) but no additional grading."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you watch Roger’s films shot on Alexa, the differences between them come from lighting, set design, costume ect but ‘grading’ is the same for all of them. The only variables used are color temperature (and I suspect tint)."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "LucaM wrote:\nIn other words It’s a LUT for the initial color correction, not for the grading, Is It correct?"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/luts/#post-215188",
+      "text": "LucaM wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/luts/",
+    "scraped_at": "2026-01-15T15:22:39.355073+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/luts/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ded25d09dab97ec1bcfa5f856718da459d6aa0ca21a89d57ab221e1334d037d9",
+    "parser_version": "bbpress-v2"
+  }
+}

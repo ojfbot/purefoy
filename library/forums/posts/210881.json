@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "210881",
+    "forum_slug": "composition",
+    "topic_slug": "psycho-singles-eye-line-curse-of-color-in-modern-cinema",
+    "parent_post_id": "206942",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That’s hard! I love B&W and it seems to me that color works in a different way. A color image is obviously far more naturalistic and it is hard to use the same kind of expressionistic lighting using color. Maybe, there can be something equivalent as in ‘Seven’, for instance.",
+  "content_html": "<p>That’s hard! I love B&amp;W and it seems to me that color works in a different way. A color image is obviously far more naturalistic and it is hard to use the same kind of expressionistic lighting using color. Maybe, there can be something equivalent as in ‘Seven’, for instance.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That’s hard! I love B&W and it seems to me that color works in a different way. A color image is obviously far more naturalistic and it is hard to use the same kind of expressionistic lighting using color. Maybe, there can be something equivalent as in ‘Seven’, for instance."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/psycho-singles-eye-line-curse-of-color-in-modern-cinema/#post-211113",
+    "scraped_at": "2026-01-15T13:23:32.285058+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/psycho-singles-eye-line-curse-of-color-in-modern-cinema/#post-211113",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "73ac3aa660f2a950614ad2aaf2ed89a2c5f934f64039ebc8341fbf098ccc0d26",
+    "parser_version": "bbpress-v2"
+  }
+}

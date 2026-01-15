@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/age-factor/#post-215615",
+  "forum_slug": "set-talk",
+  "topic_slug": "age-factor",
+  "title": "Age factor?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "177312",
+    "177535",
+    "178572",
+    "179043",
+    "197292",
+    "197360"
+  ],
+  "reply_tree": {
+    "post_id": "177312",
+    "post_type": "topic",
+    "author": "Gendaito",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "177535",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "178572",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "179043",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "197292",
+        "post_type": "reply",
+        "author": "The Byre",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "197360",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/age-factor/#post-215615",
+    "scraped_at": "2026-01-15T13:06:10.224081+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/age-factor/#post-215615",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8eb6ff259f92b400bf824613dc9d514f64af530d0f13f46d17e95d7737994b5f",
+    "parser_version": "bbpress-v2"
+  }
+}

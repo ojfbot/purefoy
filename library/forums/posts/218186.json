@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218186",
+    "forum_slug": "film-talk",
+    "topic_slug": "come-and-see",
+    "parent_post_id": "218173",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I see It in a simpler way. People have ideas and opinions. I’m interested in the ones of the filmmaker, since they should explain the movie meaning. I find less relevant actors’ ideas, but i am happier when they are similar to mines. Just my opinion of course!",
+  "content_html": "<p>I see It in a simpler way. People have ideas and opinions. I’m interested in the ones of the filmmaker, since they should explain the movie meaning. I find less relevant actors’ ideas, but i am happier when they are similar to mines. Just my opinion of course!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I see It in a simpler way. People have ideas and opinions. I’m interested in the ones of the filmmaker, since they should explain the movie meaning. I find less relevant actors’ ideas, but i am happier when they are similar to mines. Just my opinion of course!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/come-and-see/#post-220074",
+    "scraped_at": "2026-01-15T11:51:11.244747+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/come-and-see/#post-220074",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ddf6a9b7aba5079046b367172432f0004f8f66349037dd1167fac0ed68192569",
+    "parser_version": "bbpress-v2"
+  }
+}

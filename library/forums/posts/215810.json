@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "215810",
+    "forum_slug": "camera",
+    "topic_slug": "shooting-inside-a-car-in-movement-green-screen-vs-real"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Vultura",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi!\nFirst post here. Forgive my writing, English is not my first language.\n<p style=”text-align: left;”>\n</p>\n<p style=”text-align: left;”>I’m shooting a short thriller film in some months and it has two car scenes. We wanted to have two set-ups (driver and front seat passenger) like the ones above (from Kiarostami’s “Taste of Cherry”) + a close-up of the rear-view mirror + a close-up of the backseat passenger. Green screen is a tool that me and the DP have in mind, but the problem is: I wouldnt like to remind the viewer that the actors are not really driving, that there’s no real world. I like artifice, but its not the right tone for this story. So I’d really appreciate some tips regarding a realistic approach of the green screen or a regarding a very low budget way to get this images in a real ride without going for a documentary look!</p>",
+  "content_html": "<p>Hi!</p>\n<p>First post here. Forgive my writing, English is not my first language.<br/>\n&lt;p style=”text-align: left;”&gt;<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215810/5zcnbg3aw448j0ryx6mtzu2y81dktqnv.jpg\"/>&lt;/p&gt;<br/>\n<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215810/1zd28ztguex6qte0z61s3wba2xfgzxvw.jpg\"/><br/>\n&lt;p style=”text-align: left;”&gt;I’m shooting a short thriller film in some months and it has two car scenes. We wanted to have two set-ups (driver and front seat passenger) like the ones above (from Kiarostami’s “Taste of Cherry”) + a close-up of the rear-view mirror + a close-up of the backseat passenger. Green screen is a tool that me and the DP have in mind, but the problem is: I wouldnt like to remind the viewer that the actors are not really driving, that there’s no real world. I like artifice, but its not the right tone for this story. So I’d really appreciate some tips regarding a realistic approach of the green screen or a regarding a very low budget way to get this images in a real ride without going for a documentary look!&lt;/p&gt;</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi!"
+    },
+    {
+      "type": "paragraph",
+      "text": "First post here. Forgive my writing, English is not my first language.\n<p style=”text-align: left;”>\n</p>\n<p style=”text-align: left;”>I’m shooting a short thriller film in some months and it has two car scenes. We wanted to have two set-ups (driver and front seat passenger) like the ones above (from Kiarostami’s “Taste of Cherry”) + a close-up of the rear-view mirror + a close-up of the backseat passenger. Green screen is a tool that me and the DP have in mind, but the problem is: I wouldnt like to remind the viewer that the actors are not really driving, that there’s no real world. I like artifice, but its not the right tone for this story. So I’d really appreciate some tips regarding a realistic approach of the green screen or a regarding a very low budget way to get this images in a real ride without going for a documentary look!</p>"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215810/5zcnbg3aw448j0ryx6mtzu2y81dktqnv.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215810/1zd28ztguex6qte0z61s3wba2xfgzxvw.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-inside-a-car-in-movement-green-screen-vs-real/#post-216323",
+    "scraped_at": "2026-01-15T14:17:06.330077+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-inside-a-car-in-movement-green-screen-vs-real/#post-216323",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "175d6312cf6fbcfdf15795110491600c0fab11fcfc9597305e549ed700b6d9aa",
+    "parser_version": "bbpress-v2"
+  }
+}

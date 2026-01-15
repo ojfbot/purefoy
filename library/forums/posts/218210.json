@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218210",
+    "forum_slug": "forum",
+    "topic_slug": "strong-back-light",
+    "parent_post_id": "217511",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Strong artificial backlighting dates back to the 1910-20s when carbon arcs started being used on sets. The technical reason was that it provided separation in b&w but the most common aesthetic reason is that it is beautiful. There are other reasons it might be used depending on the context.",
+  "content_html": "<p>Strong artificial backlighting dates back to the 1910-20s when carbon arcs started being used on sets. The technical reason was that it provided separation in b&amp;w but the most common aesthetic reason is that it is beautiful. There are other reasons it might be used depending on the context.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Strong artificial backlighting dates back to the 1910-20s when carbon arcs started being used on sets. The technical reason was that it provided separation in b&w but the most common aesthetic reason is that it is beautiful. There are other reasons it might be used depending on the context."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/strong-back-light/#post-218337",
+    "scraped_at": "2026-01-15T15:08:26.133898+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/strong-back-light/#post-218337",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "17266f6794583767b65d979a5268bd8fd494f06aed6a94fb93c3b19042a3352c",
+    "parser_version": "bbpress-v2"
+  }
+}

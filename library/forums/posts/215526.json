@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "post_id": "215526",
+    "forum_slug": "forum",
+    "topic_slug": "faking-a-dusk-look-during-daytime",
+    "parent_post_id": "215522",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It’s an 8 page script, that all takes place outside a community hall during dusk. It’s a single conversation, all in real time.\nThat’s tough luck for a student film! I am not sure writer/director are aware how much work and planning it will take just to create consistent dusk.\nI suspect there is a good reason why the story needs to happen at dusk (because if if not it might be a lot easier for everybody to rewrite it).\nYou can try to fake dusk or you might even try to rehearse all day long, find efficient ways to capture it and then shoot at actual dusk and pray everything works out. In theory you could shoot at dawn and dusk, giving you more overall time. As consistency in light is still not guaranteed, you might want to shoot a different location every time if possible (do they move around or maybe just sit and talk?).\nSomeone with more experience may have better advice though.",
+  "content_html": "<blockquote><p>It’s an 8 page script, that all takes place outside a community hall during dusk. It’s a single conversation, all in real time.</p></blockquote>\n<p>That’s tough luck for a student film! I am not sure writer/director are aware how much work and planning it will take just to create consistent dusk.</p>\n<p>I suspect there is a good reason why the story needs to happen at dusk (because if if not it might be a lot easier for everybody to rewrite it).</p>\n<p>You can try to fake dusk or you might even try to rehearse all day long, find efficient ways to capture it and then shoot at actual dusk and pray everything works out. In theory you could shoot at dawn and dusk, giving you more overall time. As consistency in light is still not guaranteed, you might want to shoot a different location every time if possible (do they move around or maybe just sit and talk?).</p>\n<p>Someone with more experience may have better advice though.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "It’s an 8 page script, that all takes place outside a community hall during dusk. It’s a single conversation, all in real time."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s an 8 page script, that all takes place outside a community hall during dusk. It’s a single conversation, all in real time."
+    },
+    {
+      "type": "paragraph",
+      "text": "That’s tough luck for a student film! I am not sure writer/director are aware how much work and planning it will take just to create consistent dusk."
+    },
+    {
+      "type": "paragraph",
+      "text": "I suspect there is a good reason why the story needs to happen at dusk (because if if not it might be a lot easier for everybody to rewrite it)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can try to fake dusk or you might even try to rehearse all day long, find efficient ways to capture it and then shoot at actual dusk and pray everything works out. In theory you could shoot at dawn and dusk, giving you more overall time. As consistency in light is still not guaranteed, you might want to shoot a different location every time if possible (do they move around or maybe just sit and talk?)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Someone with more experience may have better advice though."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "It’s an 8 page script, that all takes place outside a community hall during dusk. It’s a single conversation, all in real time."
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/faking-a-dusk-look-during-daytime/#post-215536",
+    "scraped_at": "2026-01-15T15:46:35.579054+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/faking-a-dusk-look-during-daytime/#post-215536",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c043cfa3cd9758c3b929820486d6f495beddfc1af9d4523748403f39173e1aec",
+    "parser_version": "bbpress-v2"
+  }
+}

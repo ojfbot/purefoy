@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215346",
+    "forum_slug": "camera",
+    "topic_slug": "zoom-in-vs-dolly-pushing",
+    "parent_post_id": "215307",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Zoom in is very different from dolly in. It won’t give same feeling.",
+  "content_html": "<p>Zoom in is very different from dolly in. It won’t give same feeling.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Zoom in is very different from dolly in. It won’t give same feeling."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+    "scraped_at": "2026-01-15T15:22:12.539342+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fc6c7d4fa68ee2892e0e9810defb2fd1cb1d6154f81476864b6bdda862424da0",
+    "parser_version": "bbpress-v2"
+  }
+}

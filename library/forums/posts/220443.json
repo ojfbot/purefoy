@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "220443",
+    "forum_slug": "team-deakins",
+    "topic_slug": "reflections-new-book",
+    "parent_post_id": "217941",
+    "parent_type": "topic",
+    "position": 18
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Richard911 wrote:\nWould be really happy to buy this book, but unfortunately physical one only sells in the USA. Quite sad.. I hope It will be possible in the future! There are a lot of people around the world who are interested in Rogers work.\nDo you mean the signed copies or the “regular” ones? The signed ones can be ordered from ASC site and they ship worldwide (i think), regular ones should be available in many other countries. Did you check on your country Amazon for example?",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/reflections-new-book/#post-220437\">Richard911 wrote:</a></div>\n<p>Would be really happy to buy this book, but unfortunately physical one only sells in the USA. Quite sad.. I hope It will be possible in the future! There are a lot of people around the world who are interested in Rogers work.</p></blockquote>\n<p>Do you mean the signed copies or the “regular” ones? The signed ones can be ordered from ASC site and they ship worldwide (i think), regular ones should be available in many other countries. Did you check on your country Amazon for example?</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Richard911 wrote:\nWould be really happy to buy this book, but unfortunately physical one only sells in the USA. Quite sad.. I hope It will be possible in the future! There are a lot of people around the world who are interested in Rogers work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Would be really happy to buy this book, but unfortunately physical one only sells in the USA. Quite sad.. I hope It will be possible in the future! There are a lot of people around the world who are interested in Rogers work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you mean the signed copies or the “regular” ones? The signed ones can be ordered from ASC site and they ship worldwide (i think), regular ones should be available in many other countries. Did you check on your country Amazon for example?"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Richard911 wrote:\nWould be really happy to buy this book, but unfortunately physical one only sells in the USA. Quite sad.. I hope It will be possible in the future! There are a lot of people around the world who are interested in Rogers work."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/#post-220437",
+      "text": "Richard911 wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/2/",
+    "scraped_at": "2026-01-15T11:50:40.144521+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d9c81cb901714c24f60efe25700baabe56e89bbb6047e5f5bba2d9a6a9be2769",
+    "parser_version": "bbpress-v2"
+  }
+}

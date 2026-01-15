@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "post_id": "215925",
+    "forum_slug": "forum",
+    "topic_slug": "meter-reading-on-overcast-days"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "simon m",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Roger,\nI realize that you use a calibrated monitor for many shots now , but if you were to use a light meter on an overcast day, how would you go about getting your shooting stop? Here’s a great example of what I’m struggling with. Thanks so much!",
+  "content_html": "<p>Hello Roger,<br/>\nI realize that you use a calibrated monitor for many shots now , but if you were to use a light meter on an overcast day, how would you go about getting your shooting stop? Here’s a great example of what I’m struggling with. Thanks so much!<img alt=\"1917\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215925/qsqqxhrqssvxjuz4g8hbnzme5s3gdvzo.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Roger,\nI realize that you use a calibrated monitor for many shots now , but if you were to use a light meter on an overcast day, how would you go about getting your shooting stop? Here’s a great example of what I’m struggling with. Thanks so much!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215925/qsqqxhrqssvxjuz4g8hbnzme5s3gdvzo.jpg",
+      "alt": "1917",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/#post-215975",
+    "scraped_at": "2026-01-15T15:43:02.747455+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/#post-215975",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "730ba339acd0b0947d01fb215827bd843cce79c25bd00cf5e2d36230287fe2a0",
+    "parser_version": "bbpress-v2"
+  }
+}

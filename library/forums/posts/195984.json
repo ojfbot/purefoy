@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "195984",
+    "forum_slug": "forum",
+    "topic_slug": "diffusion-for-exterior-day-scenes",
+    "parent_post_id": "193931",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I have used a lamp a time or two but I usually use some sort of bounce material. When I have projected a lamp through diffusion I have used a half or a full grid cloth.",
+  "content_html": "<p>I have used a lamp a time or two but I usually use some sort of bounce material. When I have projected a lamp through diffusion I have used a half or a full grid cloth.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I have used a lamp a time or two but I usually use some sort of bounce material. When I have projected a lamp through diffusion I have used a half or a full grid cloth."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/diffusion-for-exterior-day-scenes/#post-195984",
+    "scraped_at": "2026-01-15T15:55:01.374080+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/diffusion-for-exterior-day-scenes/#post-195984",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4db48045adaf0209ed50e29a352d6b45a02902a2a96eaf1e79341cd22a9c4c96",
+    "parser_version": "bbpress-v2"
+  }
+}

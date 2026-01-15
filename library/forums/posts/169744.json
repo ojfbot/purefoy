@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "169744",
+    "forum_slug": "film-talk",
+    "topic_slug": "empire-of-light-rio-de-janeiro",
+    "parent_post_id": "169561",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "bscofano88",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mr. Deakins,\nFollowing up on this topic just to tell you I was able to attend the premiere and had a wonderful time. Loved every second of it and can’t wait for the “Looking at Lighting” topics in the future.\nJust a “fun fact”: It was re-opening of Rio’s biggest and most traditional cinema – the Odeon – which was still close since the pandemic started. It feels just right for the first movie shown to be a love letter to cinemas like “Empire of Light”.\nBest Regards, Sir. Hope Team Deakins come visit Rio someday 🙂",
+  "content_html": "<p>Hello Mr. Deakins,</p>\n<p>Following up on this topic just to tell you I was able to attend the premiere and had a wonderful time. Loved every second of it and can’t wait for the “Looking at Lighting” topics in the future.</p>\n<p>Just a “fun fact”: It was re-opening of Rio’s biggest and most traditional cinema – the Odeon – which was still close since the pandemic started. It feels just right for the first movie shown to be a love letter to cinemas like “Empire of Light”.</p>\n<p>Best Regards, Sir. Hope Team Deakins come visit Rio someday 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mr. Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Following up on this topic just to tell you I was able to attend the premiere and had a wonderful time. Loved every second of it and can’t wait for the “Looking at Lighting” topics in the future."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just a “fun fact”: It was re-opening of Rio’s biggest and most traditional cinema – the Odeon – which was still close since the pandemic started. It feels just right for the first movie shown to be a love letter to cinemas like “Empire of Light”."
+    },
+    {
+      "type": "paragraph",
+      "text": "Best Regards, Sir. Hope Team Deakins come visit Rio someday 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-rio-de-janeiro/#post-169829",
+    "scraped_at": "2026-01-15T14:50:33.840076+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-rio-de-janeiro/#post-169829",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "13fa2b991fc3126507f2ed5159ab202af7b6a6087a4314aaeba8f8d656827dbe",
+    "parser_version": "bbpress-v2"
+  }
+}

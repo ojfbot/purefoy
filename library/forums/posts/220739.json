@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "220739",
+    "forum_slug": "forum",
+    "topic_slug": "safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "stefanosteno",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Roger and James,\nI am working on a project in which I need to recreate a moving shaft of light similar to the one in the Replicant Stairway sequence.\nIn your lighting notes, you mention using 24K tungsten bulbs mounted on a pipe rig. I would be working with much lower-power lamps (5K or 10K), and I’m trying to understand the correct and safe way to work with this type of setup: what type of protection should be in place to prevent hazards in case of bulb failure?\nThank you very much for your time and for the extraordinary amount of knowledge you share on this forum.\nAll the best,\nStefano",
+  "content_html": "<p>Hello Roger and James,</p>\n<p>I am working on a project in which I need to recreate a moving shaft of light similar to the one in the Replicant Stairway sequence.</p>\n<p>In your lighting notes, you mention using 24K tungsten bulbs mounted on a pipe rig. I would be working with much lower-power lamps (5K or 10K), and I’m trying to understand the correct and safe way to work with this type of setup: what type of protection should be in place to prevent hazards in case of bulb failure?</p>\n<p>Thank you very much for your time and for the extraordinary amount of knowledge you share on this forum.</p>\n<p>All the best,<br/>\nStefano</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Roger and James,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am working on a project in which I need to recreate a moving shaft of light similar to the one in the Replicant Stairway sequence."
+    },
+    {
+      "type": "paragraph",
+      "text": "In your lighting notes, you mention using 24K tungsten bulbs mounted on a pipe rig. I would be working with much lower-power lamps (5K or 10K), and I’m trying to understand the correct and safe way to work with this type of setup: what type of protection should be in place to prevent hazards in case of bulb failure?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you very much for your time and for the extraordinary amount of knowledge you share on this forum."
+    },
+    {
+      "type": "paragraph",
+      "text": "All the best,\nStefano"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings/#post-220925",
+    "scraped_at": "2026-01-15T12:26:33.287781+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings/#post-220925",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "eb9a31c11e6568cd62e341dbc038fe79687c222b73cae8f2a15f2207809462be",
+    "parser_version": "bbpress-v2"
+  }
+}

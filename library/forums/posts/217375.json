@@ -1,0 +1,48 @@
+{
+  "ids": {
+    "post_id": "217375",
+    "forum_slug": "forum",
+    "topic_slug": "revolutionary-road-window-shot"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "benja",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Roger,\nI was watching Revolutionary Road and noticed a scene with a shot through a window. In the reflection of her eye, I can see something lighting her, and I was curious—did you use a cherry picker or something similar to avoid reflections of the C-stands in the window, or is it the real sun?",
+  "content_html": "<p> </p>\n<p>Hello Roger,</p>\n<p>I was watching Revolutionary Road and noticed a scene with a shot through a window. In the reflection of her eye, I can see something lighting her, and I was curious—did you use a cherry picker or something similar to avoid reflections of the C-stands in the window, or is it the real sun?</p>\n<p> </p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/217375/3s7lwb2hv26zzdj4mzgqsan07lx6ut5e.png\"/></p>\n<div>\n<div class=\"gtx-trans-icon\"></div>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was watching Revolutionary Road and noticed a scene with a shot through a window. In the reflection of her eye, I can see something lighting her, and I was curious—did you use a cherry picker or something similar to avoid reflections of the C-stands in the window, or is it the real sun?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/217375/3s7lwb2hv26zzdj4mzgqsan07lx6ut5e.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-window-shot/#post-217445",
+    "scraped_at": "2026-01-15T15:20:45.545847+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-window-shot/#post-217445",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5bf800e40882f8fbe69f484ce53f9a746a2ff719be0a5a8b625b184d1c0eb814",
+    "parser_version": "bbpress-v2"
+  }
+}

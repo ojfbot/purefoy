@@ -1,0 +1,51 @@
+{
+  "ids": {
+    "post_id": "214711",
+    "forum_slug": "forum",
+    "topic_slug": "rigging-tube-lights-to-concrete-wall",
+    "parent_post_id": "214688",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "bradvir",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Appreciate your response Mr. Mullen! I think velcro definitely would be a good option.\nFor anyone wondering, these hooks  (\nhttps://www.amazon.com/gp/product/B09PFW8WRQ/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1\n) worked incredibly well with the Astera eyebolts and were hardly noticeable with the lights out of focus in the background. The nice thing about rigging from the eyebolts was that I could easily rotate the lights to aim them as needed.",
+  "content_html": "<p>Appreciate your response Mr. Mullen! I think velcro definitely would be a good option.</p>\n<p>For anyone wondering, these hooks  (<a href=\"https://www.amazon.com/gp/product/B09PFW8WRQ/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&amp;psc=1\" rel=\"nofollow\">https://www.amazon.com/gp/product/B09PFW8WRQ/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&amp;psc=1</a>) worked incredibly well with the Astera eyebolts and were hardly noticeable with the lights out of focus in the background. The nice thing about rigging from the eyebolts was that I could easily rotate the lights to aim them as needed.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Appreciate your response Mr. Mullen! I think velcro definitely would be a good option."
+    },
+    {
+      "type": "paragraph",
+      "text": "For anyone wondering, these hooks  (\nhttps://www.amazon.com/gp/product/B09PFW8WRQ/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1\n) worked incredibly well with the Astera eyebolts and were hardly noticeable with the lights out of focus in the background. The nice thing about rigging from the eyebolts was that I could easily rotate the lights to aim them as needed."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.amazon.com/gp/product/B09PFW8WRQ/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1",
+      "text": "https://www.amazon.com/gp/product/B09PFW8WRQ/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/rigging-tube-lights-to-concrete-wall/#post-214770",
+    "scraped_at": "2026-01-15T15:51:42.759984+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/rigging-tube-lights-to-concrete-wall/#post-214770",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2808f05842d1a724e4d60ea00581bb962bdc5270dbcd60423698de310e468581",
+    "parser_version": "bbpress-v2"
+  }
+}

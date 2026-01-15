@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "214920",
+    "forum_slug": "forum",
+    "topic_slug": "phantom-thread-cafe-scene",
+    "parent_post_id": "214912",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "GianniRanzuglia",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you Mike and David for your times and replies!\nThose behind the scenes pictures are awesome Mike, thanks for sharing them. I foolishly left out the particular shot I mentioned, I won’t forget to share it this time.\nThanks for correcting me and explaining the different scenarios David, it truly was a poor choice of wording from me. I really liked what you explained in your last paragraph, it sounds so simple yet effective, and also a great answer for the way they lit the scene. Also, your explanation of the pros and cons of using ND gels on windows was more intriguing, and complex, than what I originally understood of such an idea.\nI thank you both for your time!",
+  "content_html": "<p>Thank you Mike and David for your times and replies!</p>\n<p>Those behind the scenes pictures are awesome Mike, thanks for sharing them. I foolishly left out the particular shot I mentioned, I won’t forget to share it this time.</p>\n<p>Thanks for correcting me and explaining the different scenarios David, it truly was a poor choice of wording from me. I really liked what you explained in your last paragraph, it sounds so simple yet effective, and also a great answer for the way they lit the scene. Also, your explanation of the pros and cons of using ND gels on windows was more intriguing, and complex, than what I originally understood of such an idea.</p>\n<p>I thank you both for your time! <img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214920/mrlj9dx9io2ylj27cba3u7w3e18fhvho.png\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you Mike and David for your times and replies!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Those behind the scenes pictures are awesome Mike, thanks for sharing them. I foolishly left out the particular shot I mentioned, I won’t forget to share it this time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks for correcting me and explaining the different scenarios David, it truly was a poor choice of wording from me. I really liked what you explained in your last paragraph, it sounds so simple yet effective, and also a great answer for the way they lit the scene. Also, your explanation of the pros and cons of using ND gels on windows was more intriguing, and complex, than what I originally understood of such an idea."
+    },
+    {
+      "type": "paragraph",
+      "text": "I thank you both for your time!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214920/mrlj9dx9io2ylj27cba3u7w3e18fhvho.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/phantom-thread-cafe-scene/#post-214960",
+    "scraped_at": "2026-01-15T15:50:06.664981+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/phantom-thread-cafe-scene/#post-214960",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "36e7206a6889a9266e8e11819e9b1cf80b9febe10a6973c0a5a94a35903df2cc",
+    "parser_version": "bbpress-v2"
+  }
+}

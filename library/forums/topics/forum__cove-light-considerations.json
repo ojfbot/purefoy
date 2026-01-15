@@ -1,0 +1,145 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+  "forum_slug": "forum",
+  "topic_slug": "cove-light-considerations",
+  "title": "Cove light considerations",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "205389",
+    "208724",
+    "209216",
+    "209244",
+    "210492",
+    "210855",
+    "216984",
+    "216988",
+    "217013",
+    "217083",
+    "217089",
+    "217995",
+    "218200",
+    "218201",
+    "218202"
+  ],
+  "reply_tree": {
+    "post_id": "205389",
+    "post_type": "topic",
+    "author": "Davinki",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "208724",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "209216",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "209244",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "210492",
+        "post_type": "reply",
+        "author": "Davinki",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "210855",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216984",
+        "post_type": "reply",
+        "author": "benja",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216988",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217013",
+        "post_type": "reply",
+        "author": "Vasu",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217083",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217089",
+        "post_type": "reply",
+        "author": "Vasu",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217995",
+        "post_type": "reply",
+        "author": "caiyichenweg",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218200",
+        "post_type": "reply",
+        "author": "shanku",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218201",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218202",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 14,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+    "scraped_at": "2026-01-15T15:18:02.980620+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "850dd3da85f5a14913e2ab41ecf96f5ae9618f7c61daefabdf376bf72ed8327e",
+    "parser_version": "bbpress-v2"
+  }
+}

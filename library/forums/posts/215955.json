@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215955",
+    "forum_slug": "camera",
+    "topic_slug": "akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train",
+    "parent_post_id": "215916",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Valou",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello everyone!\nWe noticed that the fired red takes too long to change from red to orange when observed over a long focal range. This suggests a manipulation of the time speed.",
+  "content_html": "<p>Hello everyone!</p>\n<p>We noticed that the fired red takes too long to change from red to orange when observed over a long focal range. This suggests a manipulation of the time speed.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello everyone!"
+    },
+    {
+      "type": "paragraph",
+      "text": "We noticed that the fired red takes too long to change from red to orange when observed over a long focal range. This suggests a manipulation of the time speed."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train/#post-215976",
+    "scraped_at": "2026-01-15T15:20:09.295128+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train/#post-215976",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "12c675d05a415f1f6f1677ae44d2c4c3145a5666ee71206b5eedc71075d40587",
+    "parser_version": "bbpress-v2"
+  }
+}

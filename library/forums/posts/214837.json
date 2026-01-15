@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214837",
+    "forum_slug": "film-talk",
+    "topic_slug": "thoughts-on-books-by-blain-brown",
+    "parent_post_id": "214833",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Baudelaire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Its funny but that is the thing that keeps coming out of the podcasts , there is no one way and also the process as an important life experience. Roger said something few weeks back that really struck me, about not wanting to spend months inside a green screen studio.",
+  "content_html": "<p>Its funny but that is the thing that keeps coming out of the podcasts , there is no one way and also the process as an important life experience. Roger said something few weeks back that really struck me, about not wanting to spend months inside a green screen studio.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Its funny but that is the thing that keeps coming out of the podcasts , there is no one way and also the process as an important life experience. Roger said something few weeks back that really struck me, about not wanting to spend months inside a green screen studio."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-books-by-blain-brown/#post-214886",
+    "scraped_at": "2026-01-15T13:56:41.575669+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-books-by-blain-brown/#post-214886",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "60b8238056f9988ccd6bc995727516c2b991a48b1ea4abea54c6c611c7b1668f",
+    "parser_version": "bbpress-v2"
+  }
+}

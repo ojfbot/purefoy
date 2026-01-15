@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214781",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 21
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Laurent",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you very much for the detailed and factual explanation. Many lighting tutorials usually present one technique as the only true one because they are convinced of only one method. But you are right. There is no right or wrong.\nThank you so much for your time!",
+  "content_html": "<p>Thank you very much for the detailed and factual explanation. Many lighting tutorials usually present one technique as the only true one because they are convinced of only one method. But you are right. There is no right or wrong.<br/>\nThank you so much for your time!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you very much for the detailed and factual explanation. Many lighting tutorials usually present one technique as the only true one because they are convinced of only one method. But you are right. There is no right or wrong.\nThank you so much for your time!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+    "scraped_at": "2026-01-15T15:51:27.814773+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "13d7814ff3c22e8b6cd0b980d89b3a0003d1c8c66394156e7e60cdcc857f99bf",
+    "parser_version": "bbpress-v2"
+  }
+}

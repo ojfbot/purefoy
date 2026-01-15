@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "post_id": "218345",
+    "forum_slug": "camera",
+    "topic_slug": "how-do-i-start-learning-cinematography-with-just-a-phone",
+    "parent_post_id": "218302",
+    "parent_type": "topic",
+    "position": 11
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Anxyk wrote:\nI could try that. I mean establishing shots. What do you think about static shots? For example, I imagine someone sitting in a chair in front of the camera, trying to convey feelings through lighting.\nI suppose that would be a nice excercise about creating mood through lighting and framing a subject. To take the most out of it, you could choose a given zoom of the camera and keep it for all the shot and see how different camera movements and different framing of the subject create different effect (in other words, using the phone as a simulation of a prime lens: Roger often says that since prime lens have not zoom, when you use them you are forced to make decisions on how to shoot the scene, instead of simply zooming it). I did something similar but since i didn’t want to bother family and friends in my experiments i used a teddy bear as model. For ridiculous it may sound, it helped me since i focused only on the framing and the lights. When i found the light and composition i wanted, i put the camera on the tripod , i took the teddy bear place and experimented on camera angle, movement of the actor, etc. With a little creativity you can learn a lot even alone.\nI have to admit that the teddy bear was a better actor than me, but that’s another story.",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/how-do-i-start-learning-cinematography-with-just-a-phone/#post-218312\">Anxyk wrote:</a></div>\n<p>I could try that. I mean establishing shots. What do you think about static shots? For example, I imagine someone sitting in a chair in front of the camera, trying to convey feelings through lighting.</p></blockquote>\n<p>I suppose that would be a nice excercise about creating mood through lighting and framing a subject. To take the most out of it, you could choose a given zoom of the camera and keep it for all the shot and see how different camera movements and different framing of the subject create different effect (in other words, using the phone as a simulation of a prime lens: Roger often says that since prime lens have not zoom, when you use them you are forced to make decisions on how to shoot the scene, instead of simply zooming it). I did something similar but since i didn’t want to bother family and friends in my experiments i used a teddy bear as model. For ridiculous it may sound, it helped me since i focused only on the framing and the lights. When i found the light and composition i wanted, i put the camera on the tripod , i took the teddy bear place and experimented on camera angle, movement of the actor, etc. With a little creativity you can learn a lot even alone.</p>\n<p>I have to admit that the teddy bear was a better actor than me, but that’s another story.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Anxyk wrote:\nI could try that. I mean establishing shots. What do you think about static shots? For example, I imagine someone sitting in a chair in front of the camera, trying to convey feelings through lighting."
+    },
+    {
+      "type": "paragraph",
+      "text": "I could try that. I mean establishing shots. What do you think about static shots? For example, I imagine someone sitting in a chair in front of the camera, trying to convey feelings through lighting."
+    },
+    {
+      "type": "paragraph",
+      "text": "I suppose that would be a nice excercise about creating mood through lighting and framing a subject. To take the most out of it, you could choose a given zoom of the camera and keep it for all the shot and see how different camera movements and different framing of the subject create different effect (in other words, using the phone as a simulation of a prime lens: Roger often says that since prime lens have not zoom, when you use them you are forced to make decisions on how to shoot the scene, instead of simply zooming it). I did something similar but since i didn’t want to bother family and friends in my experiments i used a teddy bear as model. For ridiculous it may sound, it helped me since i focused only on the framing and the lights. When i found the light and composition i wanted, i put the camera on the tripod , i took the teddy bear place and experimented on camera angle, movement of the actor, etc. With a little creativity you can learn a lot even alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "I have to admit that the teddy bear was a better actor than me, but that’s another story."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Anxyk wrote:\nI could try that. I mean establishing shots. What do you think about static shots? For example, I imagine someone sitting in a chair in front of the camera, trying to convey feelings through lighting."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/how-do-i-start-learning-cinematography-with-just-a-phone/#post-218312",
+      "text": "Anxyk wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-do-i-start-learning-cinematography-with-just-a-phone/#post-218401",
+    "scraped_at": "2026-01-15T12:48:50.980175+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-do-i-start-learning-cinematography-with-just-a-phone/#post-218401",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "24a361576c249c46d77d6e37d87fa03225326e6b50c73f96743046dae1a0cd40",
+    "parser_version": "bbpress-v2"
+  }
+}

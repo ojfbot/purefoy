@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216248",
+    "forum_slug": "forum",
+    "topic_slug": "learning-lighting-practice-setups",
+    "parent_post_id": "216245",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think different DoPs would light the same scene in different ways (think to Suspiria, it’s in that way because Tovoli was not convinced about working on horror and decided  to create something unique and never seen before as a condition to do it, but another DoP maybe would have created a completely different movie) . I am unexperienced like you but i think the choice depends on the story you are trying to tell.  A romantic scene requires a different approach than a scary scene, i think, but there are sad romantic scenes and happy romantic scenes, melancholic horror movies and disgusting horror movies.  You could try by recreating scenes from movies you like or using the same gear to create completely different effects.",
+  "content_html": "<p>I think different DoPs would light the same scene in different ways (think to Suspiria, it’s in that way because Tovoli was not convinced about working on horror and decided  to create something unique and never seen before as a condition to do it, but another DoP maybe would have created a completely different movie) . I am unexperienced like you but i think the choice depends on the story you are trying to tell.  A romantic scene requires a different approach than a scary scene, i think, but there are sad romantic scenes and happy romantic scenes, melancholic horror movies and disgusting horror movies.  You could try by recreating scenes from movies you like or using the same gear to create completely different effects.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think different DoPs would light the same scene in different ways (think to Suspiria, it’s in that way because Tovoli was not convinced about working on horror and decided  to create something unique and never seen before as a condition to do it, but another DoP maybe would have created a completely different movie) . I am unexperienced like you but i think the choice depends on the story you are trying to tell.  A romantic scene requires a different approach than a scary scene, i think, but there are sad romantic scenes and happy romantic scenes, melancholic horror movies and disgusting horror movies.  You could try by recreating scenes from movies you like or using the same gear to create completely different effects."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/learning-lighting-practice-setups/#post-216264",
+    "scraped_at": "2026-01-15T15:25:49.530814+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/learning-lighting-practice-setups/#post-216264",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ae29fabb2dbf097d31d8a51d52608035dd3163c06fc52aa85010ab8abbd09512",
+    "parser_version": "bbpress-v2"
+  }
+}

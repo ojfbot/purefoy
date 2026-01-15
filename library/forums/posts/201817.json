@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "201817",
+    "forum_slug": "camera",
+    "topic_slug": "using-mist-filters",
+    "parent_post_id": "199361",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Gregg",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger,\nWhat circumstances would require you to adjust colours by using a filter?\nWhat filters do you use to adjust colour?\nMuch appreciated\nKind regards\nGregg",
+  "content_html": "<p>Dear Roger,</p>\n<p>What circumstances would require you to adjust colours by using a filter?</p>\n<p>What filters do you use to adjust colour?</p>\n<p>Much appreciated</p>\n<p>Kind regards</p>\n<p>Gregg</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "What circumstances would require you to adjust colours by using a filter?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What filters do you use to adjust colour?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Much appreciated"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kind regards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gregg"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/using-mist-filters/#post-201817",
+    "scraped_at": "2026-01-15T15:42:43.773045+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/using-mist-filters/#post-201817",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "27ef2cd94c5ba6c13a00a83cc1b11ecaf1579ce897c99290ce02ef7dc4d1034d",
+    "parser_version": "bbpress-v2"
+  }
+}

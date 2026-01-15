@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216046",
+    "forum_slug": "forum",
+    "topic_slug": "revolutionary-road-lighting-a-subject-in-an-akward-position",
+    "parent_post_id": "216031",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "To me the line cross works because there’s a change in subjectivity between the shots, first you’re seeing him as the girl on the bed sees him, and then you’re seeing him as he sees himself in the mirror. Switching his screen position removes the sense of the girl looking at him and makes it entirely about him looking at himself, a private moment away from her. Their orientation toward each other is also retained in the mirror, the point of focus within the shot, which contributes toward not making it feel disruptive. In both shots she’s still “to his left” on a 2D plane.",
+  "content_html": "<p>To me the line cross works because there’s a change in subjectivity between the shots, first you’re seeing him as the girl on the bed sees him, and then you’re seeing him as he sees himself in the mirror. Switching his screen position removes the sense of the girl looking at him and makes it entirely about him looking at himself, a private moment away from her. Their orientation toward each other is also retained in the mirror, the point of focus within the shot, which contributes toward not making it feel disruptive. In both shots she’s still “to his left” on a 2D plane.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "To me the line cross works because there’s a change in subjectivity between the shots, first you’re seeing him as the girl on the bed sees him, and then you’re seeing him as he sees himself in the mirror. Switching his screen position removes the sense of the girl looking at him and makes it entirely about him looking at himself, a private moment away from her. Their orientation toward each other is also retained in the mirror, the point of focus within the shot, which contributes toward not making it feel disruptive. In both shots she’s still “to his left” on a 2D plane."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-lighting-a-subject-in-an-akward-position/#post-216050",
+    "scraped_at": "2026-01-15T15:42:11.674192+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-lighting-a-subject-in-an-akward-position/#post-216050",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a54a3019f78ea7311dbf823f61cb393c29dfea8c4e27ed3fee3c9fec609d0ff7",
+    "parser_version": "bbpress-v2"
+  }
+}

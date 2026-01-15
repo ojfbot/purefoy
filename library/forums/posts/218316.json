@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218316",
+    "forum_slug": "camera",
+    "topic_slug": "how-do-i-start-learning-cinematography-with-just-a-phone",
+    "parent_post_id": "218302",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Anxyk",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for all of your advices. I will watch these videos.",
+  "content_html": "<p><em>Thank you for all of your advices. I will watch these videos.</em></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for all of your advices. I will watch these videos."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-do-i-start-learning-cinematography-with-just-a-phone/#post-218401",
+    "scraped_at": "2026-01-15T12:48:50.979842+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-do-i-start-learning-cinematography-with-just-a-phone/#post-218401",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e5055ba25a3f0d79b2422b4757301a96a5d10330cb816cd0d53bd5dc419ad9c1",
+    "parser_version": "bbpress-v2"
+  }
+}

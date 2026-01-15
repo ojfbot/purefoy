@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "210855",
+    "forum_slug": "forum",
+    "topic_slug": "cove-light-considerations",
+    "parent_post_id": "205389",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You should just experiment with the par light as you seem comfortable with it.  We all have different ways of working so it is not for me, or anyone else, to say what is ‘best’. I have used par lamps to bounce and as a direct source, whether through diffusion or simply raw so its not that I am against the lamp I just have my own preferences in certain situations.",
+  "content_html": "<p>You should just experiment with the par light as you seem comfortable with it.  We all have different ways of working so it is not for me, or anyone else, to say what is ‘best’. I have used par lamps to bounce and as a direct source, whether through diffusion or simply raw so its not that I am against the lamp I just have my own preferences in certain situations.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You should just experiment with the par light as you seem comfortable with it.  We all have different ways of working so it is not for me, or anyone else, to say what is ‘best’. I have used par lamps to bounce and as a direct source, whether through diffusion or simply raw so its not that I am against the lamp I just have my own preferences in certain situations."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+    "scraped_at": "2026-01-15T15:18:02.960181+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "427c750b4a24dfb8c2b15c4243c2349d8853d0170ec8994c545c18f7767bbb22",
+    "parser_version": "bbpress-v2"
+  }
+}

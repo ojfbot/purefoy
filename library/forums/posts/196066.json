@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "196066",
+    "forum_slug": "camera",
+    "topic_slug": "for-a-beginner-what-is-best-to-learn",
+    "parent_post_id": "195991",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "lewisfernandez",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "True!",
+  "content_html": "<p>True!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "True!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/for-a-beginner-what-is-best-to-learn/#post-198693",
+    "scraped_at": "2026-01-15T15:42:55.449670+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/for-a-beginner-what-is-best-to-learn/#post-198693",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fa43d63ac2b99bbab8708daaf13c505d53e47641b7f5decdbbf80b48fb165a6f",
+    "parser_version": "bbpress-v2"
+  }
+}

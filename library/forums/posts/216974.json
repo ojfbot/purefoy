@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "216974",
+    "forum_slug": "forum",
+    "topic_slug": "western-saloon-lighting-from-outside",
+    "parent_post_id": "216929",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "MartinMoll wrote:\nHello David, thanks very much for your reply. This really helps and as you suggested, I will schedule the wide shots / the ones with windows in frame around dusk.\nAs always, i’m unexperienced and i’m afraid i’m writing just a bunch of stupid stuff, but take in consideration that you’ll have the natural light from the windows even in close ups (if you plan to shoot them previously), so it’s possible you’ll need to match the colors of close ups and wide shots to keep them coherent (you’ll get probably cold/greyish diffused light from the windows). Perhaps a warm diffusion on the windows for the close up, together with artificial lights placed inside, could help controlling the natural light also in close ups?",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/western-saloon-lighting-from-outside/#post-216947\">MartinMoll wrote:</a></div>\n<p>Hello David, thanks very much for your reply. This really helps and as you suggested, I will schedule the wide shots / the ones with windows in frame around dusk.</p></blockquote>\n<p>As always, i’m unexperienced and i’m afraid i’m writing just a bunch of stupid stuff, but take in consideration that you’ll have the natural light from the windows even in close ups (if you plan to shoot them previously), so it’s possible you’ll need to match the colors of close ups and wide shots to keep them coherent (you’ll get probably cold/greyish diffused light from the windows). Perhaps a warm diffusion on the windows for the close up, together with artificial lights placed inside, could help controlling the natural light also in close ups?</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "MartinMoll wrote:\nHello David, thanks very much for your reply. This really helps and as you suggested, I will schedule the wide shots / the ones with windows in frame around dusk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hello David, thanks very much for your reply. This really helps and as you suggested, I will schedule the wide shots / the ones with windows in frame around dusk."
+    },
+    {
+      "type": "paragraph",
+      "text": "As always, i’m unexperienced and i’m afraid i’m writing just a bunch of stupid stuff, but take in consideration that you’ll have the natural light from the windows even in close ups (if you plan to shoot them previously), so it’s possible you’ll need to match the colors of close ups and wide shots to keep them coherent (you’ll get probably cold/greyish diffused light from the windows). Perhaps a warm diffusion on the windows for the close up, together with artificial lights placed inside, could help controlling the natural light also in close ups?"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "MartinMoll wrote:\nHello David, thanks very much for your reply. This really helps and as you suggested, I will schedule the wide shots / the ones with windows in frame around dusk."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/western-saloon-lighting-from-outside/#post-216947",
+      "text": "MartinMoll wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/western-saloon-lighting-from-outside/#post-216983",
+    "scraped_at": "2026-01-15T15:22:10.262218+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/western-saloon-lighting-from-outside/#post-216983",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "11f0db846665799475acec8ec9a2abb1c512e117d8566de05795cfb0ae3cbdf6",
+    "parser_version": "bbpress-v2"
+  }
+}

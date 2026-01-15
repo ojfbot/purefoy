@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "176654",
+    "forum_slug": "camera",
+    "topic_slug": "master-anamorphics",
+    "parent_post_id": "169631",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Davinki",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "So Roger, have you tried the master anamorphic lenses?",
+  "content_html": "<p>So Roger, have you tried the master anamorphic lenses?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "So Roger, have you tried the master anamorphic lenses?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-178888",
+    "scraped_at": "2026-01-15T15:44:20.044516+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-178888",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "28661147975f5effb38ccf0be78ae79e0a0a3d7c3427e37acd4488ab134262d8",
+    "parser_version": "bbpress-v2"
+  }
+}

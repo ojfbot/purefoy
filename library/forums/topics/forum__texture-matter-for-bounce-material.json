@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/texture-matter-for-bounce-material/#post-220067",
+  "forum_slug": "forum",
+  "topic_slug": "texture-matter-for-bounce-material",
+  "title": "Texture Matter for Bounce Material?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "219927",
+    "219973",
+    "220067"
+  ],
+  "reply_tree": {
+    "post_id": "219927",
+    "post_type": "topic",
+    "author": "coreycine",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "219973",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220067",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/texture-matter-for-bounce-material/#post-220067",
+    "scraped_at": "2026-01-15T14:13:27.620958+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/texture-matter-for-bounce-material/#post-220067",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7d9f664fdeb4678319fb8c20cf1cc8f7ac93377acfdd7bcd331dcd0180a48506",
+    "parser_version": "bbpress-v2"
+  }
+}

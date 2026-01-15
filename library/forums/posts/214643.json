@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214643",
+    "forum_slug": "post",
+    "topic_slug": "exposing-a-heavy-negative-on-film",
+    "parent_post_id": "214629",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I would only use the 500 stock when I really needed to. I much preferred the lower speed stocks and used both the 100 and 200 Tungsten balanced emulsions. I rarely used the daylight emulsions as I felt they were a little saturated.\nI would only set my meter to the rating suggested by Kodak. I would then under or overexpose depending on what effect I was after and where I wanted my exposure to lie relative to the range within the frame. But, either changing the rating or adjusting your exposure after taking a normal reading is basically doing the same thing. Overdeveloping is different. You can change the contrast by doing this, shift the colors  and also add grain.",
+  "content_html": "<p>I would only use the 500 stock when I really needed to. I much preferred the lower speed stocks and used both the 100 and 200 Tungsten balanced emulsions. I rarely used the daylight emulsions as I felt they were a little saturated.</p>\n<p>I would only set my meter to the rating suggested by Kodak. I would then under or overexpose depending on what effect I was after and where I wanted my exposure to lie relative to the range within the frame. But, either changing the rating or adjusting your exposure after taking a normal reading is basically doing the same thing. Overdeveloping is different. You can change the contrast by doing this, shift the colors  and also add grain.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I would only use the 500 stock when I really needed to. I much preferred the lower speed stocks and used both the 100 and 200 Tungsten balanced emulsions. I rarely used the daylight emulsions as I felt they were a little saturated."
+    },
+    {
+      "type": "paragraph",
+      "text": "I would only set my meter to the rating suggested by Kodak. I would then under or overexpose depending on what effect I was after and where I wanted my exposure to lie relative to the range within the frame. But, either changing the rating or adjusting your exposure after taking a normal reading is basically doing the same thing. Overdeveloping is different. You can change the contrast by doing this, shift the colors  and also add grain."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposing-a-heavy-negative-on-film/#post-214647",
+    "scraped_at": "2026-01-15T13:16:18.344573+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposing-a-heavy-negative-on-film/#post-214647",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "af6a8695c289c469b9f7d9bd5bca2b3f43bba316cc938ba0d489ef634b5a7410",
+    "parser_version": "bbpress-v2"
+  }
+}

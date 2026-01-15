@@ -1,0 +1,105 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/handheld-movies/#post-216169",
+  "forum_slug": "camera",
+  "topic_slug": "handheld-movies",
+  "title": "handheld movies",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216147",
+    "216148",
+    "216149",
+    "216150",
+    "216151",
+    "216152",
+    "216154",
+    "216155",
+    "216156",
+    "216169"
+  ],
+  "reply_tree": {
+    "post_id": "216147",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216148",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216149",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216150",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216151",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216152",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216154",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216155",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216156",
+        "post_type": "reply",
+        "author": "Matt Stahley",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216169",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 9,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/handheld-movies/#post-216169",
+    "scraped_at": "2026-01-15T14:50:59.149772+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/handheld-movies/#post-216169",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4cb2e9f58623bbd69d18c59fe5f0d53aa94445e70877ae8672bcda61c37a5abc",
+    "parser_version": "bbpress-v2"
+  }
+}

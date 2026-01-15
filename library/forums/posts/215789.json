@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "post_id": "215789",
+    "forum_slug": "forum",
+    "topic_slug": "continuity-with-haze",
+    "parent_post_id": "215776",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Lighting is an exact science if you want it to be.\nMaxwell’s equations surrounding electromagnetism can be pretty thrilling!\nHowever, you hit the nail on the head because we measure everything in photographic stops, which is double or half the energy. Errors are generally negligible; a third of a stop difference is generally more than acceptable. In the world of energy, that’s 30% of total power.\nBecause of various laws of electromagnetism, angle plays a factor. It’s typically referred to in cinematography as ‘Lamberts Cosine Law’ < – however, this can also be derived from Maxwell’s equations.\nThe more obtuse of an angle to the normal of the grey card, the more ‘light loss’ you have.\nSo, keep the angle normal. I recommend lighting your grey card with the same intensity as your key/shooting stop.\nYou can set it up anywhere in the room with the same haze density as the set. I.E., a corner of a set.\nI’d recommend sacrificing a little light at a fixed distance from the grey card. When shooting, turn it off.\nKeep everything identical; the only variation should be the haze density.\nA plug-in to introduce haze is akin to a plug-in to introduce a filter or any other optical variation. It is inherently possible to do so, but it will never be truly accurate.\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>Lighting is an exact science if you want it to be.</p>\n<p>Maxwell’s equations surrounding electromagnetism can be pretty thrilling!</p>\n<p>However, you hit the nail on the head because we measure everything in photographic stops, which is double or half the energy. Errors are generally negligible; a third of a stop difference is generally more than acceptable. In the world of energy, that’s 30% of total power.</p>\n<p>Because of various laws of electromagnetism, angle plays a factor. It’s typically referred to in cinematography as ‘Lamberts Cosine Law’ &lt; – however, this can also be derived from Maxwell’s equations.</p>\n<p>The more obtuse of an angle to the normal of the grey card, the more ‘light loss’ you have.</p>\n<p>So, keep the angle normal. I recommend lighting your grey card with the same intensity as your key/shooting stop.</p>\n<p>You can set it up anywhere in the room with the same haze density as the set. I.E., a corner of a set.</p>\n<p>I’d recommend sacrificing a little light at a fixed distance from the grey card. When shooting, turn it off.</p>\n<p>Keep everything identical; the only variation should be the haze density.</p>\n<p>A plug-in to introduce haze is akin to a plug-in to introduce a filter or any other optical variation. It is inherently possible to do so, but it will never be truly accurate.</p>\n<p> </p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Lighting is an exact science if you want it to be."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maxwell’s equations surrounding electromagnetism can be pretty thrilling!"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you hit the nail on the head because we measure everything in photographic stops, which is double or half the energy. Errors are generally negligible; a third of a stop difference is generally more than acceptable. In the world of energy, that’s 30% of total power."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because of various laws of electromagnetism, angle plays a factor. It’s typically referred to in cinematography as ‘Lamberts Cosine Law’ < – however, this can also be derived from Maxwell’s equations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The more obtuse of an angle to the normal of the grey card, the more ‘light loss’ you have."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, keep the angle normal. I recommend lighting your grey card with the same intensity as your key/shooting stop."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can set it up anywhere in the room with the same haze density as the set. I.E., a corner of a set."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’d recommend sacrificing a little light at a fixed distance from the grey card. When shooting, turn it off."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep everything identical; the only variation should be the haze density."
+    },
+    {
+      "type": "paragraph",
+      "text": "A plug-in to introduce haze is akin to a plug-in to introduce a filter or any other optical variation. It is inherently possible to do so, but it will never be truly accurate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/continuity-with-haze/#post-215798",
+    "scraped_at": "2026-01-15T15:44:26.616058+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/continuity-with-haze/#post-215798",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9b4f2a1b7697486470aef4d505f344380971915b6a9b1ad57d9bdb7b8b910678",
+    "parser_version": "bbpress-v2"
+  }
+}

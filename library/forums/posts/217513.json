@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217513",
+    "forum_slug": "forum",
+    "topic_slug": "sillouette-with-illuminated-sunglasses",
+    "parent_post_id": "216690",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "ThatGreasyFootball",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Sorry for the late reply neeraj, I ended up finding some 3m reflective tape at the hardware store and putting it overtop the lenses of the glasses.",
+  "content_html": "<p>Sorry for the late reply neeraj, I ended up finding some 3m reflective tape at the hardware store and putting it overtop the lenses of the glasses.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sorry for the late reply neeraj, I ended up finding some 3m reflective tape at the hardware store and putting it overtop the lenses of the glasses."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sillouette-with-illuminated-sunglasses/#post-217513",
+    "scraped_at": "2026-01-15T15:20:30.873092+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sillouette-with-illuminated-sunglasses/#post-217513",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c409f8efee5dc9faef258584b627a016381bbba12b37b0f4e1459a40ec820d65",
+    "parser_version": "bbpress-v2"
+  }
+}

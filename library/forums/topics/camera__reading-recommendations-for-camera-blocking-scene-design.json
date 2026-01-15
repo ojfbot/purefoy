@@ -1,0 +1,97 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/reading-recommendations-for-camera-blocking-scene-design/#post-218443",
+  "forum_slug": "camera",
+  "topic_slug": "reading-recommendations-for-camera-blocking-scene-design",
+  "title": "(Reading) Recommendations for Camera Blocking / Scene Design",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216079",
+    "216080",
+    "216140",
+    "216141",
+    "216196",
+    "216709",
+    "216712",
+    "218428",
+    "218443"
+  ],
+  "reply_tree": {
+    "post_id": "216079",
+    "post_type": "topic",
+    "author": "Hanno Mertin",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216080",
+        "post_type": "reply",
+        "author": "Hanno Mertin",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216140",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216141",
+        "post_type": "reply",
+        "author": "Hanno Mertin",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216196",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216709",
+        "post_type": "reply",
+        "author": "CarlZand",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216712",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218428",
+        "post_type": "reply",
+        "author": "thegjuka",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218443",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 8,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reading-recommendations-for-camera-blocking-scene-design/#post-218443",
+    "scraped_at": "2026-01-15T12:42:30.166763+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reading-recommendations-for-camera-blocking-scene-design/#post-218443",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "aa465e2d563a3678a34a36d9e58ebbe33d1282320f0474ba28eda26c9070f26b",
+    "parser_version": "bbpress-v2"
+  }
+}

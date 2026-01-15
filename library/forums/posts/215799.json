@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "215799",
+    "forum_slug": "camera",
+    "topic_slug": "shallow-depth-of-field",
+    "parent_post_id": "215380",
+    "parent_type": "topic",
+    "position": 11
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "mskb",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I agree as well on your Batman and Oppenheimer points\n@IgorVe\n. Very interesting thread!",
+  "content_html": "<p>I agree as well on your Batman and Oppenheimer points <a class=\"bbp-user-mention bbp-user-id-89008\" href=\"https://www.rogerdeakins.com/forums/users/igorve/\"> @IgorVe</a>. Very interesting thread!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I agree as well on your Batman and Oppenheimer points\n@IgorVe\n. Very interesting thread!"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/igorve/",
+      "text": "@IgorVe",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shallow-depth-of-field/#post-215799",
+    "scraped_at": "2026-01-15T15:21:03.237143+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shallow-depth-of-field/#post-215799",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "be894b1c4f71ead33ef02f5840c811c863c6b241db4c29e477d306c24d53fc6a",
+    "parser_version": "bbpress-v2"
+  }
+}

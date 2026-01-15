@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217421",
+    "forum_slug": "forum",
+    "topic_slug": "johnny-coquillon-and-minimal-lighting",
+    "parent_post_id": "217374",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I was a great admirer of Pat Garret and Billy the Kid. I didn’t ever meet Coquillion as I was only just entering film school when Straw Dogs was being filmed. I remember all the gossip from that set as it was in the daily papers. Straw Dogs, for me, is Peckinpah’s worst film. That and Cross of Iron. I did get to know Dan Melnick quite well by the time I had shot two of his films.",
+  "content_html": "<p>I was a great admirer of Pat Garret and Billy the Kid. I didn’t ever meet Coquillion as I was only just entering film school when Straw Dogs was being filmed. I remember all the gossip from that set as it was in the daily papers. Straw Dogs, for me, is Peckinpah’s worst film. That and Cross of Iron. I did get to know Dan Melnick quite well by the time I had shot two of his films.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I was a great admirer of Pat Garret and Billy the Kid. I didn’t ever meet Coquillion as I was only just entering film school when Straw Dogs was being filmed. I remember all the gossip from that set as it was in the daily papers. Straw Dogs, for me, is Peckinpah’s worst film. That and Cross of Iron. I did get to know Dan Melnick quite well by the time I had shot two of his films."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/johnny-coquillon-and-minimal-lighting/#post-217797",
+    "scraped_at": "2026-01-15T15:20:18.266262+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/johnny-coquillon-and-minimal-lighting/#post-217797",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "76606308719446affcf0e9fcd7569846fb21a73678d53ba805d440ce9170b9e4",
+    "parser_version": "bbpress-v2"
+  }
+}

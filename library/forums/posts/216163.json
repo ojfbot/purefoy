@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "216163",
+    "forum_slug": "set-talk",
+    "topic_slug": "documentary-shooting-pace"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "G.C.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Is it just me, or did both speed and quality expectations vastly increase on documentary films recently, while budgets have lowered?\nI often find myself scrambling to just switch lenses, barely having time to set camera settings or exposure. Even while Filming non-urgent, mundane subjects, there are so many “to-dos” per day that it creates an insane pace. Producers want enough footage to cut 5 or even 8 minutes per day of shooting.\nNo way to have an assistant, so I have to wrangle camera, lighting, audio, slider, and a drone, and a GoPro ; I find myself having to switch cameras or lenses dozens of times per day, to the point that I don’t have time to properly close cases or cap lenses or clean equipment to make it on time. The gear takes a beating just to go through the day.\nAutofocus, gimbal, smaller cameras… for each innovation that comes out and allows to work faster, the required pace of the shoots increases even more to compensate.\nSometimes I have to film both drone and a timelapse and GoPro at the same time, all while having to make a million storytelling decisions for a hands-off director who doesn’t slow down the subjects, control the situation or encourages a thought out approach.\nMost of the work looks okay, but actually for the time it took to prepare and film, it looks like a miracle.\nAnd it’s stressful because whether we make the day on time depends entirely on my speed and how much wear and tear I put on the equipment to work as fast as possible, while the director and other whatever producer are waiting (more or less patiently), chatting and generally having a way more relaxed experience of the day.\nThis has been happening to me on various unrelated projects, so what’s going on? Am I working only super low-tier projects that suck, or is it an industry shift? And if so, how are you folks handling it?",
+  "content_html": "<p>Is it just me, or did both speed and quality expectations vastly increase on documentary films recently, while budgets have lowered?</p>\n<p>I often find myself scrambling to just switch lenses, barely having time to set camera settings or exposure. Even while Filming non-urgent, mundane subjects, there are so many “to-dos” per day that it creates an insane pace. Producers want enough footage to cut 5 or even 8 minutes per day of shooting.<br/>\nNo way to have an assistant, so I have to wrangle camera, lighting, audio, slider, and a drone, and a GoPro ; I find myself having to switch cameras or lenses dozens of times per day, to the point that I don’t have time to properly close cases or cap lenses or clean equipment to make it on time. The gear takes a beating just to go through the day.</p>\n<p>Autofocus, gimbal, smaller cameras… for each innovation that comes out and allows to work faster, the required pace of the shoots increases even more to compensate.</p>\n<p>Sometimes I have to film both drone and a timelapse and GoPro at the same time, all while having to make a million storytelling decisions for a hands-off director who doesn’t slow down the subjects, control the situation or encourages a thought out approach.</p>\n<p>Most of the work looks okay, but actually for the time it took to prepare and film, it looks like a miracle.</p>\n<p>And it’s stressful because whether we make the day on time depends entirely on my speed and how much wear and tear I put on the equipment to work as fast as possible, while the director and other whatever producer are waiting (more or less patiently), chatting and generally having a way more relaxed experience of the day.</p>\n<p>This has been happening to me on various unrelated projects, so what’s going on? Am I working only super low-tier projects that suck, or is it an industry shift? And if so, how are you folks handling it?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Is it just me, or did both speed and quality expectations vastly increase on documentary films recently, while budgets have lowered?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I often find myself scrambling to just switch lenses, barely having time to set camera settings or exposure. Even while Filming non-urgent, mundane subjects, there are so many “to-dos” per day that it creates an insane pace. Producers want enough footage to cut 5 or even 8 minutes per day of shooting.\nNo way to have an assistant, so I have to wrangle camera, lighting, audio, slider, and a drone, and a GoPro ; I find myself having to switch cameras or lenses dozens of times per day, to the point that I don’t have time to properly close cases or cap lenses or clean equipment to make it on time. The gear takes a beating just to go through the day."
+    },
+    {
+      "type": "paragraph",
+      "text": "Autofocus, gimbal, smaller cameras… for each innovation that comes out and allows to work faster, the required pace of the shoots increases even more to compensate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes I have to film both drone and a timelapse and GoPro at the same time, all while having to make a million storytelling decisions for a hands-off director who doesn’t slow down the subjects, control the situation or encourages a thought out approach."
+    },
+    {
+      "type": "paragraph",
+      "text": "Most of the work looks okay, but actually for the time it took to prepare and film, it looks like a miracle."
+    },
+    {
+      "type": "paragraph",
+      "text": "And it’s stressful because whether we make the day on time depends entirely on my speed and how much wear and tear I put on the equipment to work as fast as possible, while the director and other whatever producer are waiting (more or less patiently), chatting and generally having a way more relaxed experience of the day."
+    },
+    {
+      "type": "paragraph",
+      "text": "This has been happening to me on various unrelated projects, so what’s going on? Am I working only super low-tier projects that suck, or is it an industry shift? And if so, how are you folks handling it?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/documentary-shooting-pace/#post-216164",
+    "scraped_at": "2026-01-15T12:42:23.977356+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/documentary-shooting-pace/#post-216164",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "66735100a3a32842e2ea5f1e8c470186adf98ded71c9a63d6a88a93591bbe9f5",
+    "parser_version": "bbpress-v2"
+  }
+}

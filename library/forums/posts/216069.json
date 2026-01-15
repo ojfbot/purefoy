@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216069",
+    "forum_slug": "forum",
+    "topic_slug": "bounce-lighting",
+    "parent_post_id": "216059",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Vasu",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yes. Bounce lighting largely has to deal with space restrictions",
+  "content_html": "<p>Yes. Bounce lighting largely has to deal with space restrictions</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yes. Bounce lighting largely has to deal with space restrictions"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bounce-lighting/#post-216109",
+    "scraped_at": "2026-01-15T15:41:54.712685+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bounce-lighting/#post-216109",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6ee98acb88cec46d5f503875c90478b591c7d793a02fc26e144ddfe96943b405",
+    "parser_version": "bbpress-v2"
+  }
+}

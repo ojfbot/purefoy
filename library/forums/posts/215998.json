@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "215998",
+    "forum_slug": "forum",
+    "topic_slug": "cove-light-eye-light",
+    "parent_post_id": "215968",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger generally doesn’t use a separate eye light, except in some of his early works — if you watch “1984”, you can see some use of an eye light when the key is a soft top light in that Gordon Willis style, I don’t know if Roger did this because he was using a silver retention process for the prints and wanted to make sure the eye sockets didn’t get too dark, or if was just an earlier technique of his.\nIf you study Roger’s work, what you see is that his key is often placed to create a good catchlight in the eye at the same time, i.e. the eyeball is reflecting the key.\nIn the case of when other cinematographers use a separate eye light right next to the lens, how much contrast you plan on using in the final grade or LUT will affect how much that eye light also adds to the fill in the shadows — if the contrast is a bit higher, with deeper blacks, then the shadow detail drops out a bit more… but the reflection of the light in the eyeball can pop a little more.\nAlso sometimes “power windowing” the eyeball in post color-correcting and adding some sharpening to just the iris area will make the highlights in the eye brighter too. But that can be time-consuming and tedious for a colorist to track if the actor is moving much.\nThe size of the reflection of the eye light is a factor too and will not only be affected by the size of the light source but the distance to the subject, plus the size of the close-up — if you get extremely tight, you need to start thinking more about the shape of the eye light since it will be more obvious.",
+  "content_html": "<p>Roger generally doesn’t use a separate eye light, except in some of his early works — if you watch “1984”, you can see some use of an eye light when the key is a soft top light in that Gordon Willis style, I don’t know if Roger did this because he was using a silver retention process for the prints and wanted to make sure the eye sockets didn’t get too dark, or if was just an earlier technique of his.</p>\n<p>If you study Roger’s work, what you see is that his key is often placed to create a good catchlight in the eye at the same time, i.e. the eyeball is reflecting the key.</p>\n<p>In the case of when other cinematographers use a separate eye light right next to the lens, how much contrast you plan on using in the final grade or LUT will affect how much that eye light also adds to the fill in the shadows — if the contrast is a bit higher, with deeper blacks, then the shadow detail drops out a bit more… but the reflection of the light in the eyeball can pop a little more.</p>\n<p>Also sometimes “power windowing” the eyeball in post color-correcting and adding some sharpening to just the iris area will make the highlights in the eye brighter too. But that can be time-consuming and tedious for a colorist to track if the actor is moving much.</p>\n<p>The size of the reflection of the eye light is a factor too and will not only be affected by the size of the light source but the distance to the subject, plus the size of the close-up — if you get extremely tight, you need to start thinking more about the shape of the eye light since it will be more obvious.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roger generally doesn’t use a separate eye light, except in some of his early works — if you watch “1984”, you can see some use of an eye light when the key is a soft top light in that Gordon Willis style, I don’t know if Roger did this because he was using a silver retention process for the prints and wanted to make sure the eye sockets didn’t get too dark, or if was just an earlier technique of his."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you study Roger’s work, what you see is that his key is often placed to create a good catchlight in the eye at the same time, i.e. the eyeball is reflecting the key."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the case of when other cinematographers use a separate eye light right next to the lens, how much contrast you plan on using in the final grade or LUT will affect how much that eye light also adds to the fill in the shadows — if the contrast is a bit higher, with deeper blacks, then the shadow detail drops out a bit more… but the reflection of the light in the eyeball can pop a little more."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also sometimes “power windowing” the eyeball in post color-correcting and adding some sharpening to just the iris area will make the highlights in the eye brighter too. But that can be time-consuming and tedious for a colorist to track if the actor is moving much."
+    },
+    {
+      "type": "paragraph",
+      "text": "The size of the reflection of the eye light is a factor too and will not only be affected by the size of the light source but the distance to the subject, plus the size of the close-up — if you get extremely tight, you need to start thinking more about the shape of the eye light since it will be more obvious."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-light-eye-light/#post-216019",
+    "scraped_at": "2026-01-15T15:42:42.741049+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-light-eye-light/#post-216019",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "05577029348ef7d95363936fca71f5bc1b21bd04e9292748d8a7b1a144ffff35",
+    "parser_version": "bbpress-v2"
+  }
+}

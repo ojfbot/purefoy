@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "215102",
+    "forum_slug": "camera",
+    "topic_slug": "on-cleaner-anamorphics",
+    "parent_post_id": "215088",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Frank wrote:\nRealistically any production that could afford a V-Raptor and a set of Master Anamorphics wouldn’t be so stretched for budget that the data rate would become the deciding factor in something as essential to the look of the film as the choice of lenses.\nI know I’m leaving the main subject of discussion. But data management and postproduction dpt requirements have, at least in my experience, mandate many times how we need to film something. Even on crazy cases as the one you exposed.",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215095\">Frank wrote:</a></div>\n<p>Realistically any production that could afford a V-Raptor and a set of Master Anamorphics wouldn’t be so stretched for budget that the data rate would become the deciding factor in something as essential to the look of the film as the choice of lenses.</p></blockquote>\n<p>I know I’m leaving the main subject of discussion. But data management and postproduction dpt requirements have, at least in my experience, mandate many times how we need to film something. Even on crazy cases as the one you exposed.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Frank wrote:\nRealistically any production that could afford a V-Raptor and a set of Master Anamorphics wouldn’t be so stretched for budget that the data rate would become the deciding factor in something as essential to the look of the film as the choice of lenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Realistically any production that could afford a V-Raptor and a set of Master Anamorphics wouldn’t be so stretched for budget that the data rate would become the deciding factor in something as essential to the look of the film as the choice of lenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "I know I’m leaving the main subject of discussion. But data management and postproduction dpt requirements have, at least in my experience, mandate many times how we need to film something. Even on crazy cases as the one you exposed."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Frank wrote:\nRealistically any production that could afford a V-Raptor and a set of Master Anamorphics wouldn’t be so stretched for budget that the data rate would become the deciding factor in something as essential to the look of the film as the choice of lenses."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215095",
+      "text": "Frank wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215102",
+    "scraped_at": "2026-01-15T15:23:21.466230+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215102",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9ba3b3a5c9b9af823734c86fc0ad645012219037b12081efac8a25c0b447184e",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/learning-lighting-practice-setups/#post-216264",
+  "forum_slug": "forum",
+  "topic_slug": "learning-lighting-practice-setups",
+  "title": "Learning Lighting – practice setups?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216245",
+    "216248",
+    "216253",
+    "216264"
+  ],
+  "reply_tree": {
+    "post_id": "216245",
+    "post_type": "topic",
+    "author": "Bgrunge",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216248",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216253",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216264",
+        "post_type": "reply",
+        "author": "Bgrunge",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/learning-lighting-practice-setups/#post-216264",
+    "scraped_at": "2026-01-15T15:25:49.543543+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/learning-lighting-practice-setups/#post-216264",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "679d21c944f34502cb69bf2b57d1c22fbfcd9c32b68a0fec0d79c06012389b56",
+    "parser_version": "bbpress-v2"
+  }
+}

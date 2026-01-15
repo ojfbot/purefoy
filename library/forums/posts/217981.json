@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217981",
+    "forum_slug": "set-talk",
+    "topic_slug": "nineteen-eighty-four-dick-pope-camera-op",
+    "parent_post_id": "217862",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "James",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dick did some second unit shots on 1984. He was one of Roger’s best friends since the time that they started out. Dick shot the rats in 1917 and Roger had no idea that his phobia (his room 101!) was rats. Despite this, he got some great footage!",
+  "content_html": "<p>Dick did some second unit shots on 1984. He was one of Roger’s best friends since the time that they started out. Dick shot the rats in 1917 and Roger had no idea that his phobia (his room 101!) was rats. Despite this, he got some great footage!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dick did some second unit shots on 1984. He was one of Roger’s best friends since the time that they started out. Dick shot the rats in 1917 and Roger had no idea that his phobia (his room 101!) was rats. Despite this, he got some great footage!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/nineteen-eighty-four-dick-pope-camera-op/#post-217981",
+    "scraped_at": "2026-01-15T12:08:01.498850+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/nineteen-eighty-four-dick-pope-camera-op/#post-217981",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "49085d8e4b6fbb34d8118d3d47f8a1cc1403e5bc223dcfe11cddcee40e492a2d",
+    "parser_version": "bbpress-v2"
+  }
+}

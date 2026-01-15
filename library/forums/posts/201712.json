@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "201712",
+    "forum_slug": "forum",
+    "topic_slug": "ansel-adams-zone-system",
+    "parent_post_id": "201222",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think the zone system is it still applicable in part in cinematography too.\nSpecially the first part about metering and where to put each part of the scene in the “negative”.\nIt’s been long time but if I can recall right Ansel Adams zone system is a 3 part process. The metering, the negative and the print, I may still  have his books some where. As David said the negative and the print process is hard to apply in cinematography for the said reasons, but the metering is very much interesting to learn.\nI’m coming from a photography background, where I shot a lot of large format too so to understand how to meter, understand the zones inside an image and how to expose for desirable effect was already knowledge I had thanks to know the “zone system”.\nIf I was starting today I’ll probably won’t learn the zone system as it makes no sense nowadays but I would make sure to understand how to meter and expose consistently and for any desirable effect I would want with any camera/sensor.",
+  "content_html": "<p>I think the zone system is it still applicable in part in cinematography too.</p>\n<p>Specially the first part about metering and where to put each part of the scene in the “negative”.</p>\n<p>It’s been long time but if I can recall right Ansel Adams zone system is a 3 part process. The metering, the negative and the print, I may still  have his books some where. As David said the negative and the print process is hard to apply in cinematography for the said reasons, but the metering is very much interesting to learn.</p>\n<p>I’m coming from a photography background, where I shot a lot of large format too so to understand how to meter, understand the zones inside an image and how to expose for desirable effect was already knowledge I had thanks to know the “zone system”.</p>\n<p>If I was starting today I’ll probably won’t learn the zone system as it makes no sense nowadays but I would make sure to understand how to meter and expose consistently and for any desirable effect I would want with any camera/sensor.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think the zone system is it still applicable in part in cinematography too."
+    },
+    {
+      "type": "paragraph",
+      "text": "Specially the first part about metering and where to put each part of the scene in the “negative”."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s been long time but if I can recall right Ansel Adams zone system is a 3 part process. The metering, the negative and the print, I may still  have his books some where. As David said the negative and the print process is hard to apply in cinematography for the said reasons, but the metering is very much interesting to learn."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m coming from a photography background, where I shot a lot of large format too so to understand how to meter, understand the zones inside an image and how to expose for desirable effect was already knowledge I had thanks to know the “zone system”."
+    },
+    {
+      "type": "paragraph",
+      "text": "If I was starting today I’ll probably won’t learn the zone system as it makes no sense nowadays but I would make sure to understand how to meter and expose consistently and for any desirable effect I would want with any camera/sensor."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ansel-adams-zone-system/#post-204430",
+    "scraped_at": "2026-01-15T15:53:57.786708+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ansel-adams-zone-system/#post-204430",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "006a74c2038d301a25d981fc6bffd626793c98a624971889f4dec386afab72f7",
+    "parser_version": "bbpress-v2"
+  }
+}

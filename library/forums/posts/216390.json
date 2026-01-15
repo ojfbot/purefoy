@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216390",
+    "forum_slug": "composition",
+    "topic_slug": "composition-and-symmetry",
+    "parent_post_id": "216380",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I started with documentary and that taught me to operate on instincts. I believe Roger did lots of documentary early on, his instinct for putting the audience where it needs to be is second to none in my opinion. The shot above is no exception.",
+  "content_html": "<p>I started with documentary and that taught me to operate on instincts. I believe Roger did lots of documentary early on, his instinct for putting the audience where it needs to be is second to none in my opinion. The shot above is no exception.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I started with documentary and that taught me to operate on instincts. I believe Roger did lots of documentary early on, his instinct for putting the audience where it needs to be is second to none in my opinion. The shot above is no exception."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/composition-and-symmetry/#post-217506",
+    "scraped_at": "2026-01-15T12:09:26.086286+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/composition-and-symmetry/#post-217506",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e98dc46d8e991f9c9c0bcf4464cd34f70841bae6ecd3dac1f7af5401f273503a",
+    "parser_version": "bbpress-v2"
+  }
+}

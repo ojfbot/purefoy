@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215299",
+    "forum_slug": "camera",
+    "topic_slug": "skill-vs-equipment-in-low-end-production",
+    "parent_post_id": "215262",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Knowledge, Intention and sincerity.\nWithout a proper deep knowledge of visual language you can’t talk with images.\nIt’s like learning a new language, you need to know the codes in order to communicate.\nAfter it comes the intention. Once you know how to say something you need to say something meaningful that moves you.\nAnd sincerity because you have to be real to yourself. No point on working on anything if you are not truly speaking yourself. There is only one you. To watch others I watch others films. But people watch a film by you to really know you. So don’t waste your time and everyone else’s if you don’t plan to put yourself on it.",
+  "content_html": "<p>Knowledge, Intention and sincerity.<br/>\nWithout a proper deep knowledge of visual language you can’t talk with images.<br/>\nIt’s like learning a new language, you need to know the codes in order to communicate.</p>\n<p>After it comes the intention. Once you know how to say something you need to say something meaningful that moves you.</p>\n<p>And sincerity because you have to be real to yourself. No point on working on anything if you are not truly speaking yourself. There is only one you. To watch others I watch others films. But people watch a film by you to really know you. So don’t waste your time and everyone else’s if you don’t plan to put yourself on it.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Knowledge, Intention and sincerity.\nWithout a proper deep knowledge of visual language you can’t talk with images.\nIt’s like learning a new language, you need to know the codes in order to communicate."
+    },
+    {
+      "type": "paragraph",
+      "text": "After it comes the intention. Once you know how to say something you need to say something meaningful that moves you."
+    },
+    {
+      "type": "paragraph",
+      "text": "And sincerity because you have to be real to yourself. No point on working on anything if you are not truly speaking yourself. There is only one you. To watch others I watch others films. But people watch a film by you to really know you. So don’t waste your time and everyone else’s if you don’t plan to put yourself on it."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/skill-vs-equipment-in-low-end-production/#post-215302",
+    "scraped_at": "2026-01-15T15:22:18.325839+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/skill-vs-equipment-in-low-end-production/#post-215302",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6e833a71f9f69fd20850235f4682d1133a1406894d2bb83d8a498b3a75300ab9",
+    "parser_version": "bbpress-v2"
+  }
+}

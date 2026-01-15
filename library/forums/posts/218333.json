@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218333",
+    "forum_slug": "set-talk",
+    "topic_slug": "difficult-conversations",
+    "parent_post_id": "217287",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yes, “Perfect is the enemy of good’ and it is up to the cinematographer to work within the limitations of a production. And its a given that there is never the time or the equipment you might desire. You are not working in an ideal world and you are hired to deliver “a certain level of work”.  But when that level falls below what you can get any satisfaction from – when you feel  you are just working for a paycheck – what then?",
+  "content_html": "<p>Yes, “Perfect is the enemy of good’ and it is up to the cinematographer to work within the limitations of a production. And its a given that there is never the time or the equipment you might desire. You are not working in an ideal world and you are hired to deliver “a certain level of work”.  But when that level falls below what you can get any satisfaction from – when you feel  you are just working for a paycheck – what then?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yes, “Perfect is the enemy of good’ and it is up to the cinematographer to work within the limitations of a production. And its a given that there is never the time or the equipment you might desire. You are not working in an ideal world and you are hired to deliver “a certain level of work”.  But when that level falls below what you can get any satisfaction from – when you feel  you are just working for a paycheck – what then?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/difficult-conversations/#post-220077",
+    "scraped_at": "2026-01-15T11:50:46.559973+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/difficult-conversations/#post-220077",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d14088f733dd845c0e69f4c3e811dd9c605d6d2d29e2a2504531434c90fcf4a3",
+    "parser_version": "bbpress-v2"
+  }
+}

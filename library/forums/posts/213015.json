@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "213015",
+    "forum_slug": "post",
+    "topic_slug": "enr-process-with-digital",
+    "parent_post_id": "213011",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Keep in mind that ENR was a\nprint\nprocess – it involved adding b&w developer tanks to the FCP print processing line so that after the bleach step was skipped, a percentage of silver could be permanently developed and left in the print.  For ECN processing (camera negative, intermediates) your only option was skip bleach or partial skip bleach.\nThe result when silver was left in a print was: (1) deeper blacks than the D-Max of the print stock, (2) less shadow detail due to increased contrast in the shadows, (3) darker colors that were somewhat desaturated from the addition of black silver in the dyes, (4) increase graininess in the print due to silver grains being added to the color dye clouds.\nSo this is really a color-correction for display / release format issue, not a sensor issue.\nSure, you can increase the contrast of the shadows and decrease the saturation using a LUT or basic DIT adjustments using ASC-CDL values for the display, the dailies, etc. As for the increase in graininess, you either have to live with just using a higher ISO for noise as a grain substitute — or use a film grain software in post, but then it probably would be added in the final color-correction, not in dailies or seen on set.\nThe last item, the increase in black levels beyond what is normally possible for a 35mm release print, that’s difficult to control, your only hope is to get the movie shown using laser projection (which is becoming more commonplace) and accepting that black level as a base.\nSilver retention done to camera\nnegative\nstocks had a somewhat different look than ENR.  Leaving silver in a negative increases density and contrast in the highlights, not the shadows, since that’s where the silver is mostly formed. So highlights get hotter rather than shadows getting blacker. Color is desaturated from the addition of black silver. Graininess is heavier than when done to the print for the simple fact that grains in camera negative stocks are larger than on intermediate and print stocks, since those have a very low ASA.",
+  "content_html": "<p>Keep in mind that ENR was a <em>print</em> process – it involved adding b&amp;w developer tanks to the FCP print processing line so that after the bleach step was skipped, a percentage of silver could be permanently developed and left in the print.  For ECN processing (camera negative, intermediates) your only option was skip bleach or partial skip bleach.</p>\n<p>The result when silver was left in a print was: (1) deeper blacks than the D-Max of the print stock, (2) less shadow detail due to increased contrast in the shadows, (3) darker colors that were somewhat desaturated from the addition of black silver in the dyes, (4) increase graininess in the print due to silver grains being added to the color dye clouds.</p>\n<p>So this is really a color-correction for display / release format issue, not a sensor issue.</p>\n<p>Sure, you can increase the contrast of the shadows and decrease the saturation using a LUT or basic DIT adjustments using ASC-CDL values for the display, the dailies, etc. As for the increase in graininess, you either have to live with just using a higher ISO for noise as a grain substitute — or use a film grain software in post, but then it probably would be added in the final color-correction, not in dailies or seen on set.</p>\n<p>The last item, the increase in black levels beyond what is normally possible for a 35mm release print, that’s difficult to control, your only hope is to get the movie shown using laser projection (which is becoming more commonplace) and accepting that black level as a base.</p>\n<p>Silver retention done to camera <em>negative</em> stocks had a somewhat different look than ENR.  Leaving silver in a negative increases density and contrast in the highlights, not the shadows, since that’s where the silver is mostly formed. So highlights get hotter rather than shadows getting blacker. Color is desaturated from the addition of black silver. Graininess is heavier than when done to the print for the simple fact that grains in camera negative stocks are larger than on intermediate and print stocks, since those have a very low ASA.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Keep in mind that ENR was a\nprint\nprocess – it involved adding b&w developer tanks to the FCP print processing line so that after the bleach step was skipped, a percentage of silver could be permanently developed and left in the print.  For ECN processing (camera negative, intermediates) your only option was skip bleach or partial skip bleach."
+    },
+    {
+      "type": "paragraph",
+      "text": "The result when silver was left in a print was: (1) deeper blacks than the D-Max of the print stock, (2) less shadow detail due to increased contrast in the shadows, (3) darker colors that were somewhat desaturated from the addition of black silver in the dyes, (4) increase graininess in the print due to silver grains being added to the color dye clouds."
+    },
+    {
+      "type": "paragraph",
+      "text": "So this is really a color-correction for display / release format issue, not a sensor issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sure, you can increase the contrast of the shadows and decrease the saturation using a LUT or basic DIT adjustments using ASC-CDL values for the display, the dailies, etc. As for the increase in graininess, you either have to live with just using a higher ISO for noise as a grain substitute — or use a film grain software in post, but then it probably would be added in the final color-correction, not in dailies or seen on set."
+    },
+    {
+      "type": "paragraph",
+      "text": "The last item, the increase in black levels beyond what is normally possible for a 35mm release print, that’s difficult to control, your only hope is to get the movie shown using laser projection (which is becoming more commonplace) and accepting that black level as a base."
+    },
+    {
+      "type": "paragraph",
+      "text": "Silver retention done to camera\nnegative\nstocks had a somewhat different look than ENR.  Leaving silver in a negative increases density and contrast in the highlights, not the shadows, since that’s where the silver is mostly formed. So highlights get hotter rather than shadows getting blacker. Color is desaturated from the addition of black silver. Graininess is heavier than when done to the print for the simple fact that grains in camera negative stocks are larger than on intermediate and print stocks, since those have a very low ASA."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/enr-process-with-digital/#post-214123",
+    "scraped_at": "2026-01-15T13:23:37.326281+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/enr-process-with-digital/#post-214123",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cbf19f2cec39e147a65daf578a5e983de93669b611528be397054b21cd123d09",
+    "parser_version": "bbpress-v2"
+  }
+}

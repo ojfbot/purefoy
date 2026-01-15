@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "post_id": "218580",
+    "forum_slug": "forum",
+    "topic_slug": "large-scale-158x100-sound-stage-lighting",
+    "parent_post_id": "218483",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "schaefferdop",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Understood.\nI am going with Spacelites. as i have a couple a derig and rig days to different stages thoughtout the shoot. building boxes or riging spacelites.\nI really like the spacing you have done in VEGAS EXT & ANNA’S LAB. To have more light intensity on the outer edge. (and it’s the opposite for Jarhead dawn scene where you ahve them in the middle of the stage).\nLess overhead, is what I like for my setup. I guess I am mixing that idea with your circle overhead rig of 350s in BR-2049. Turning on and off, dimming up and down, and what you need. and doing it with a ring/oval of spacelites. that I can dim up and down and\nI will let you know how I get on the lights are landing on floor the 1st week of July.\nThanks for your input.\ncheers\nJoel",
+  "content_html": "<p>Understood.</p>\n<p>I am going with Spacelites. as i have a couple a derig and rig days to different stages thoughtout the shoot. building boxes or riging spacelites.</p>\n<p>I really like the spacing you have done in VEGAS EXT &amp; ANNA’S LAB. To have more light intensity on the outer edge. (and it’s the opposite for Jarhead dawn scene where you ahve them in the middle of the stage).</p>\n<p>Less overhead, is what I like for my setup. I guess I am mixing that idea with your circle overhead rig of 350s in BR-2049. Turning on and off, dimming up and down, and what you need. and doing it with a ring/oval of spacelites. that I can dim up and down and</p>\n<p>I will let you know how I get on the lights are landing on floor the 1st week of July.</p>\n<p>Thanks for your input.</p>\n<p>cheers</p>\n<p>Joel</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Understood."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am going with Spacelites. as i have a couple a derig and rig days to different stages thoughtout the shoot. building boxes or riging spacelites."
+    },
+    {
+      "type": "paragraph",
+      "text": "I really like the spacing you have done in VEGAS EXT & ANNA’S LAB. To have more light intensity on the outer edge. (and it’s the opposite for Jarhead dawn scene where you ahve them in the middle of the stage)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Less overhead, is what I like for my setup. I guess I am mixing that idea with your circle overhead rig of 350s in BR-2049. Turning on and off, dimming up and down, and what you need. and doing it with a ring/oval of spacelites. that I can dim up and down and"
+    },
+    {
+      "type": "paragraph",
+      "text": "I will let you know how I get on the lights are landing on floor the 1st week of July."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks for your input."
+    },
+    {
+      "type": "paragraph",
+      "text": "cheers"
+    },
+    {
+      "type": "paragraph",
+      "text": "Joel"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/large-scale-158x100-sound-stage-lighting/#post-218580",
+    "scraped_at": "2026-01-15T14:51:02.104360+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/large-scale-158x100-sound-stage-lighting/#post-218580",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9d1f9356dbd7a4d1a7e7fa39da027f01d1bc03461365a8cfa239f0fe2fed22ea",
+    "parser_version": "bbpress-v2"
+  }
+}

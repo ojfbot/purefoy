@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215962",
+    "forum_slug": "camera",
+    "topic_slug": "akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train",
+    "parent_post_id": "215916",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Max, what you say is quite right but in this example the camera is zooming in and not moving position to match the frame. Here, the effect is purely of a long lens and a slowing train. The wide angle is shot far from the platform and feels fast. When the camera zooms in the shot looks slow in comparison to what you have just seen. The longer lens is creating some of that effect but the train is also slowing. Maybe there is some camera speed change. Hard to know for sure. Life is a mystery.",
+  "content_html": "<p>Max, what you say is quite right but in this example the camera is zooming in and not moving position to match the frame. Here, the effect is purely of a long lens and a slowing train. The wide angle is shot far from the platform and feels fast. When the camera zooms in the shot looks slow in comparison to what you have just seen. The longer lens is creating some of that effect but the train is also slowing. Maybe there is some camera speed change. Hard to know for sure. Life is a mystery.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Max, what you say is quite right but in this example the camera is zooming in and not moving position to match the frame. Here, the effect is purely of a long lens and a slowing train. The wide angle is shot far from the platform and feels fast. When the camera zooms in the shot looks slow in comparison to what you have just seen. The longer lens is creating some of that effect but the train is also slowing. Maybe there is some camera speed change. Hard to know for sure. Life is a mystery."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train/#post-215976",
+    "scraped_at": "2026-01-15T15:20:09.295976+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train/#post-215976",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3f738972fa85f7d774c3fe1a482bc659973d33b7f6ddd60ba7a7d993b3855e91",
+    "parser_version": "bbpress-v2"
+  }
+}

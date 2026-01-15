@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "216127",
+    "forum_slug": "forum",
+    "topic_slug": "how-18-gray-is-mathematically-calculated"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "r.k.Logeshwaran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "someone explain how the gray card’s  18% reflectance achieved mathematically?",
+  "content_html": "<p>someone explain how the gray card’s  18% reflectance achieved mathematically?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "someone explain how the gray card’s  18% reflectance achieved mathematically?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-18-gray-is-mathematically-calculated/#post-216134",
+    "scraped_at": "2026-01-15T15:26:10.522519+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-18-gray-is-mathematically-calculated/#post-216134",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c805607e9d39984ad6c8627b7238aa8b2335b012469c659c322d7f9f1e082827",
+    "parser_version": "bbpress-v2"
+  }
+}

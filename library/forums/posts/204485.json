@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "post_id": "204485",
+    "forum_slug": "camera",
+    "topic_slug": "uncompressed-hd-vs-arriraw",
+    "parent_post_id": "204439",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "To kind of second what was said above –\nA RAW signal is a radiometrically linear readout of  your sensor.\nIn the case of an Alexa a 16-bit unsigned integer linear readout.\nThe issue with a linear raw signal is human beings don’t perceive light linearly but rather logarithmically and our image typically resembles this.\nAs we know, a stop is double or half the amount of energy. We perceive each stop logarithmically (each stop has the same amount of apparent energy) where as in an imaging sense we perceive light linearly where the brightest stop is half the amount of total values, the second brightest stop is a quarter the total amount of values – very inefficient as we perceive all stops logarithmically.\nSo we compress the linear signal with a logarithmic container. We take the Y value and give it a linear bias to 256 and then apply a log encode that gives 512 values per stop.\nThis logarithmic compression is the only difference in information than an absolute RAW acquisition format (acquiring a 16-bit linear signal).\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>To kind of second what was said above –</p>\n<p>A RAW signal is a radiometrically linear readout of  your sensor.</p>\n<p>In the case of an Alexa a 16-bit unsigned integer linear readout.</p>\n<p>The issue with a linear raw signal is human beings don’t perceive light linearly but rather logarithmically and our image typically resembles this.</p>\n<p> </p>\n<p>As we know, a stop is double or half the amount of energy. We perceive each stop logarithmically (each stop has the same amount of apparent energy) where as in an imaging sense we perceive light linearly where the brightest stop is half the amount of total values, the second brightest stop is a quarter the total amount of values – very inefficient as we perceive all stops logarithmically.</p>\n<p> </p>\n<p>So we compress the linear signal with a logarithmic container. We take the Y value and give it a linear bias to 256 and then apply a log encode that gives 512 values per stop.</p>\n<p> </p>\n<p>This logarithmic compression is the only difference in information than an absolute RAW acquisition format (acquiring a 16-bit linear signal).</p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "To kind of second what was said above –"
+    },
+    {
+      "type": "paragraph",
+      "text": "A RAW signal is a radiometrically linear readout of  your sensor."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the case of an Alexa a 16-bit unsigned integer linear readout."
+    },
+    {
+      "type": "paragraph",
+      "text": "The issue with a linear raw signal is human beings don’t perceive light linearly but rather logarithmically and our image typically resembles this."
+    },
+    {
+      "type": "paragraph",
+      "text": "As we know, a stop is double or half the amount of energy. We perceive each stop logarithmically (each stop has the same amount of apparent energy) where as in an imaging sense we perceive light linearly where the brightest stop is half the amount of total values, the second brightest stop is a quarter the total amount of values – very inefficient as we perceive all stops logarithmically."
+    },
+    {
+      "type": "paragraph",
+      "text": "So we compress the linear signal with a logarithmic container. We take the Y value and give it a linear bias to 256 and then apply a log encode that gives 512 values per stop."
+    },
+    {
+      "type": "paragraph",
+      "text": "This logarithmic compression is the only difference in information than an absolute RAW acquisition format (acquiring a 16-bit linear signal)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/uncompressed-hd-vs-arriraw/#post-204779",
+    "scraped_at": "2026-01-15T15:42:13.544434+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/uncompressed-hd-vs-arriraw/#post-204779",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "25be507e997c407de1c3998b521e11cbe7199a8dce8135e1cdb3db55f1687795",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "219495",
+    "forum_slug": "forum",
+    "topic_slug": "a-serious-man-larrys-office",
+    "parent_post_id": "219222",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "jamesblann",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks, Roger! I’ve actually never heard of hard gel, I suppose if you’re looking for a more long term solution that sounds like a way to go, if you have a bit of budget going spare! I’ve recently been on a commercial where we had a lot of big windows in very bright countries and I was often butting up against the natural 4′ width of gel rolls, with net’s textured look sometimes being too visible. It’s one of those things that’s always a bit of a headache. Thanks again for your replies.",
+  "content_html": "<p>Thanks, Roger! I’ve actually never heard of hard gel, I suppose if you’re looking for a more long term solution that sounds like a way to go, if you have a bit of budget going spare! I’ve recently been on a commercial where we had a lot of big windows in very bright countries and I was often butting up against the natural 4′ width of gel rolls, with net’s textured look sometimes being too visible. It’s one of those things that’s always a bit of a headache. Thanks again for your replies.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks, Roger! I’ve actually never heard of hard gel, I suppose if you’re looking for a more long term solution that sounds like a way to go, if you have a bit of budget going spare! I’ve recently been on a commercial where we had a lot of big windows in very bright countries and I was often butting up against the natural 4′ width of gel rolls, with net’s textured look sometimes being too visible. It’s one of those things that’s always a bit of a headache. Thanks again for your replies."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-serious-man-larrys-office/#post-219495",
+    "scraped_at": "2026-01-15T14:16:58.804398+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-serious-man-larrys-office/#post-219495",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a33369b10b6e8d038a471668faeb1edf4ea83197903112f10c11f693738b6757",
+    "parser_version": "bbpress-v2"
+  }
+}

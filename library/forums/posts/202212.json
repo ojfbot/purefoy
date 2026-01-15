@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "202212",
+    "forum_slug": "forum",
+    "topic_slug": "what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own",
+    "parent_post_id": "202026",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "TimoVanLierop",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It also depends on your budget.\nAputure LS600X + Fresnel as big Key (maybe softbox). LS60X as little spotlight. 2 Astera Titans (one DOPChoice snapbag and one grid). And one Floppy and a Ultra Bounce floppy. Some stands to rig everything.\nWill be around €6000,- in total.\nThis is what I personally brought with me if I had to do a job as cinematographer and want to bring a small package.",
+  "content_html": "<p>It also depends on your budget.</p>\n<p>Aputure LS600X + Fresnel as big Key (maybe softbox). LS60X as little spotlight. 2 Astera Titans (one DOPChoice snapbag and one grid). And one Floppy and a Ultra Bounce floppy. Some stands to rig everything.</p>\n<p>Will be around €6000,- in total.</p>\n<p> </p>\n<p>This is what I personally brought with me if I had to do a job as cinematographer and want to bring a small package.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "It also depends on your budget."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aputure LS600X + Fresnel as big Key (maybe softbox). LS60X as little spotlight. 2 Astera Titans (one DOPChoice snapbag and one grid). And one Floppy and a Ultra Bounce floppy. Some stands to rig everything."
+    },
+    {
+      "type": "paragraph",
+      "text": "Will be around €6000,- in total."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is what I personally brought with me if I had to do a job as cinematographer and want to bring a small package."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own/#post-202221",
+    "scraped_at": "2026-01-15T15:54:18.955919+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own/#post-202221",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "336c39c2fbe4bae125bdc6c24a4b798f6b873e1be7e47de5cce5aab98d14ebe3",
+    "parser_version": "bbpress-v2"
+  }
+}

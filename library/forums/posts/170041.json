@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "170041",
+    "forum_slug": "camera",
+    "topic_slug": "alexa-35-vs-mini-lf",
+    "parent_post_id": "169876",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I am not sure why the 35 would be that much more advantageous than the LF. Lighting is lighting. But, sad to say, many of the number crunchers see no difference between having enough light and creating the right light.\nThis reply was modified 3 years, 2 months ago by\nRoger Deakins\n.",
+  "content_html": "<p>I am not sure why the 35 would be that much more advantageous than the LF. Lighting is lighting. But, sad to say, many of the number crunchers see no difference between having enough light and creating the right light.</p>\n<ul class=\"bbp-reply-revision-log\" id=\"bbp-reply-revision-log-170041\">\n<li class=\"bbp-reply-revision-log-item\" id=\"bbp-reply-revision-log-170041-item-170042\">\n\t\tThis reply was modified 3 years, 2 months ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/roger/\" title=\"View Roger Deakins's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png\" srcset=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-28x28.png 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">Roger Deakins</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I am not sure why the 35 would be that much more advantageous than the LF. Lighting is lighting. But, sad to say, many of the number crunchers see no difference between having enough light and creating the right light."
+    },
+    {
+      "type": "list",
+      "text": "This reply was modified 3 years, 2 months ago by\nRoger Deakins\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/roger/",
+      "text": "Roger Deakins",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2022/09/roger-deakins_avatar-14x14.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/alexa-35-vs-mini-lf/#post-215996",
+    "scraped_at": "2026-01-15T15:20:04.361638+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/alexa-35-vs-mini-lf/#post-215996",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3786f3c25d843ab460537c0500217d9ffc7f5da645c8e9013498f1121acd39c5",
+    "parser_version": "bbpress-v2"
+  }
+}

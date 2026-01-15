@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/fluid-camera-moves/",
+  "forum_slug": "camera",
+  "topic_slug": "fluid-camera-moves",
+  "title": "Fluid camera moves",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214547"
+  ],
+  "reply_tree": {
+    "post_id": "214547",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/fluid-camera-moves/",
+    "scraped_at": "2026-01-15T15:25:43.193722+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/fluid-camera-moves/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "77c1035ed2721b5f4715f3cf15fe85b0b14f16247d0b57916408346d0e94ed1d",
+    "parser_version": "bbpress-v2"
+  }
+}

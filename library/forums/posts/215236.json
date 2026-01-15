@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "215236",
+    "forum_slug": "website-news",
+    "topic_slug": "dallas-film-commission-episode",
+    "parent_post_id": "215231",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "(im probably just having a bad day)\nNo, I felt the same. I was looking forward to get a glimpse into the people and work behind a film festival and film commission but learned hardly anything of that, just odd answers and what felt like marketing of Dallas.\nAfter so many fantastic episodes, there had to be a blank at one point 🙂",
+  "content_html": "<blockquote><p>(im probably just having a bad day)</p></blockquote>\n<p>No, I felt the same. I was looking forward to get a glimpse into the people and work behind a film festival and film commission but learned hardly anything of that, just odd answers and what felt like marketing of Dallas.</p>\n<p>After so many fantastic episodes, there had to be a blank at one point 🙂</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "(im probably just having a bad day)"
+    },
+    {
+      "type": "paragraph",
+      "text": "(im probably just having a bad day)"
+    },
+    {
+      "type": "paragraph",
+      "text": "No, I felt the same. I was looking forward to get a glimpse into the people and work behind a film festival and film commission but learned hardly anything of that, just odd answers and what felt like marketing of Dallas."
+    },
+    {
+      "type": "paragraph",
+      "text": "After so many fantastic episodes, there had to be a blank at one point 🙂"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "(im probably just having a bad day)"
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dallas-film-commission-episode/#post-215243",
+    "scraped_at": "2026-01-15T12:26:28.063815+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dallas-film-commission-episode/#post-215243",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e2870a67c0f7470c7e0f802f2a3d487e8a92f86a170f6b4d63559b02ea435cdc",
+    "parser_version": "bbpress-v2"
+  }
+}

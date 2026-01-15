@@ -1,0 +1,145 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/the-bare-minimum-for-making-a-whorthwhile-film/#post-170471",
+  "forum_slug": "set-talk",
+  "topic_slug": "the-bare-minimum-for-making-a-whorthwhile-film",
+  "title": "The bare minimum for making a whorthwhile film?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "170298",
+    "170304",
+    "170308",
+    "170309",
+    "170319",
+    "170348",
+    "170359",
+    "170362",
+    "170372",
+    "170377",
+    "170378",
+    "170399",
+    "170406",
+    "170425",
+    "170471"
+  ],
+  "reply_tree": {
+    "post_id": "170298",
+    "post_type": "topic",
+    "author": "Rizzy",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "170304",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170308",
+        "post_type": "reply",
+        "author": "FGD135",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170309",
+        "post_type": "reply",
+        "author": "GianniRanzuglia",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170319",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170348",
+        "post_type": "reply",
+        "author": "bscofano88",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170359",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170362",
+        "post_type": "reply",
+        "author": "Rizzy",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170372",
+        "post_type": "reply",
+        "author": "bscofano88",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170377",
+        "post_type": "reply",
+        "author": "Al Duffield",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170378",
+        "post_type": "reply",
+        "author": "Al Duffield",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170399",
+        "post_type": "reply",
+        "author": "Rizzy",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170406",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170425",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "170471",
+        "post_type": "reply",
+        "author": "bscofano88",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 14,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-bare-minimum-for-making-a-whorthwhile-film/#post-170471",
+    "scraped_at": "2026-01-15T13:56:40.742023+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-bare-minimum-for-making-a-whorthwhile-film/#post-170471",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e78a274f88c78cf5601020df9efa07018aa1d174145afb7e7315118fc20da385",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/martin-scorsese/",
+  "forum_slug": "film-talk",
+  "topic_slug": "martin-scorsese",
+  "title": "Martin Scorsese",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "174089"
+  ],
+  "reply_tree": {
+    "post_id": "174089",
+    "post_type": "topic",
+    "author": "Tyler F",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/martin-scorsese/",
+    "scraped_at": "2026-01-15T14:33:40.183798+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/martin-scorsese/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "181244081407ebb77c86bdbe26d609f0bbcfa8cdfbb03d64902ee7c48fcec982",
+    "parser_version": "bbpress-v2"
+  }
+}

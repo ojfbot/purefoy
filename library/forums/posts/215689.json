@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "215689",
+    "forum_slug": "forum",
+    "topic_slug": "dealing-with-direct-sunlight-in-sicario"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "andrewdko",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nI was wondering how you like to deal with direct sunlight, specifically in the wide exterior shots in Sicario. Do you diffuse the light in any way with big frames? Are you using large bounces to fill in the shadows?\nI would love to know. Thanks for your time, and appreciate all you do.\nExamples:",
+  "content_html": "<p>Hi Roger,</p>\n<p>I was wondering how you like to deal with direct sunlight, specifically in the wide exterior shots in Sicario. Do you diffuse the light in any way with big frames? Are you using large bounces to fill in the shadows?</p>\n<p>I would love to know. Thanks for your time, and appreciate all you do.</p>\n<p>Examples:<br/>\n<img alt=\"Sicario-1\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215689/96tdugpmlepjg8rl0ybfcmm804urkdsu.jpg\"/></p>\n<p><img alt=\"Sicario-2\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215689/rdh8j8nwli1pnsg9rt1h0y5m91qwcyys.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was wondering how you like to deal with direct sunlight, specifically in the wide exterior shots in Sicario. Do you diffuse the light in any way with big frames? Are you using large bounces to fill in the shadows?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I would love to know. Thanks for your time, and appreciate all you do."
+    },
+    {
+      "type": "paragraph",
+      "text": "Examples:"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215689/96tdugpmlepjg8rl0ybfcmm804urkdsu.jpg",
+      "alt": "Sicario-1",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215689/rdh8j8nwli1pnsg9rt1h0y5m91qwcyys.jpg",
+      "alt": "Sicario-2",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dealing-with-direct-sunlight-in-sicario/#post-215726",
+    "scraped_at": "2026-01-15T15:45:08.789875+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dealing-with-direct-sunlight-in-sicario/#post-215726",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8e666a0489706e097a7bde9c8af3d06796b6d4bdc551192eba0496c449a28cc1",
+    "parser_version": "bbpress-v2"
+  }
+}

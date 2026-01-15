@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "220537",
+    "forum_slug": "film-talk",
+    "topic_slug": "mr-deakins-regarding-2049-spinner-flyover-vegas"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "LoFiGuy29",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Mr Deakins:\nI was wondering if you could elaborate on the 2049 Spinner Flyover scene that was completely cut from 2049. My understanding was that VFX was completed and it was cut very late, which is a shame as another flyover like LA and San Diego Junkyard would have been provided framing for the new narrative location.\nAre there any plans for a special edition 4k re-release of the film and could a completed segment like that ever see the light of day?",
+  "content_html": "<p>Mr Deakins:</p>\n<p>I was wondering if you could elaborate on the 2049 Spinner Flyover scene that was completely cut from 2049. My understanding was that VFX was completed and it was cut very late, which is a shame as another flyover like LA and San Diego Junkyard would have been provided framing for the new narrative location.</p>\n<p>Are there any plans for a special edition 4k re-release of the film and could a completed segment like that ever see the light of day?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Mr Deakins:"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was wondering if you could elaborate on the 2049 Spinner Flyover scene that was completely cut from 2049. My understanding was that VFX was completed and it was cut very late, which is a shame as another flyover like LA and San Diego Junkyard would have been provided framing for the new narrative location."
+    },
+    {
+      "type": "paragraph",
+      "text": "Are there any plans for a special edition 4k re-release of the film and could a completed segment like that ever see the light of day?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-regarding-2049-spinner-flyover-vegas/#post-220557",
+    "scraped_at": "2026-01-15T11:50:43.067965+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-regarding-2049-spinner-flyover-vegas/#post-220557",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "736de695d9d10e9b00cdd44ce93402caa42abc47a52918ca197ed76b5be530ba",
+    "parser_version": "bbpress-v2"
+  }
+}

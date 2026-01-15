@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215105",
+    "forum_slug": "forum",
+    "topic_slug": "pushing-light-through-windows",
+    "parent_post_id": "215082",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I would not say exposure plays so much of a role as you think. In every case you refer to there is detail in the windows. In no case was I wanting the highlights to be a pure white. The nature of the light is effected by the size of the set window, which is different in every case, and the quality of the light that is being ‘punched’ through the window. A series of lamps that are wider than the window project the light to each side, whereas a source the size of the window and at a distance from it creates a ‘tunnel’ of light that falls off to the sides of the window. And, the inverse square law plays its part as well. The light I was bouncing into Sapper Morton’s was far closer than the light I used to light the restaurant in ‘Unbroken’, which meant the light fell off far more quickly and the far walls of the set were that much darker. And lastly (maybe), a heavy diffusion on the window itself will become the source and spread the light whereas a very light diffusion will allow to be constrained.\nHow to light a day interior is actually quite complicated and we have not even discussed the limitations a location might bring into the equation.",
+  "content_html": "<p>I would not say exposure plays so much of a role as you think. In every case you refer to there is detail in the windows. In no case was I wanting the highlights to be a pure white. The nature of the light is effected by the size of the set window, which is different in every case, and the quality of the light that is being ‘punched’ through the window. A series of lamps that are wider than the window project the light to each side, whereas a source the size of the window and at a distance from it creates a ‘tunnel’ of light that falls off to the sides of the window. And, the inverse square law plays its part as well. The light I was bouncing into Sapper Morton’s was far closer than the light I used to light the restaurant in ‘Unbroken’, which meant the light fell off far more quickly and the far walls of the set were that much darker. And lastly (maybe), a heavy diffusion on the window itself will become the source and spread the light whereas a very light diffusion will allow to be constrained.</p>\n<p>How to light a day interior is actually quite complicated and we have not even discussed the limitations a location might bring into the equation.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I would not say exposure plays so much of a role as you think. In every case you refer to there is detail in the windows. In no case was I wanting the highlights to be a pure white. The nature of the light is effected by the size of the set window, which is different in every case, and the quality of the light that is being ‘punched’ through the window. A series of lamps that are wider than the window project the light to each side, whereas a source the size of the window and at a distance from it creates a ‘tunnel’ of light that falls off to the sides of the window. And, the inverse square law plays its part as well. The light I was bouncing into Sapper Morton’s was far closer than the light I used to light the restaurant in ‘Unbroken’, which meant the light fell off far more quickly and the far walls of the set were that much darker. And lastly (maybe), a heavy diffusion on the window itself will become the source and spread the light whereas a very light diffusion will allow to be constrained."
+    },
+    {
+      "type": "paragraph",
+      "text": "How to light a day interior is actually quite complicated and we have not even discussed the limitations a location might bring into the equation."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/pushing-light-through-windows/#post-215124",
+    "scraped_at": "2026-01-15T15:49:03.178839+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/pushing-light-through-windows/#post-215124",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6ae08cd54df28f5ead000ebd8876ec99fe7508829ac89342c947f3c4fbb3c411",
+    "parser_version": "bbpress-v2"
+  }
+}

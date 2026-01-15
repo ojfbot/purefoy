@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216486",
+    "forum_slug": "set-talk",
+    "topic_slug": "do-actors-influence-cinematography",
+    "parent_post_id": "216469",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks a lot Roger!\nSpecific lens too? It seems really a big thing to demand!",
+  "content_html": "<p>Thanks a lot Roger!</p>\n<p>Specific lens too? It seems really a big thing to demand!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks a lot Roger!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Specific lens too? It seems really a big thing to demand!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/do-actors-influence-cinematography/#post-216585",
+    "scraped_at": "2026-01-15T12:26:27.407560+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/do-actors-influence-cinematography/#post-216585",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dce44c71027f20b74bfd511fa38b6e3741837c277daace71e87f1e90a6886d78",
+    "parser_version": "bbpress-v2"
+  }
+}

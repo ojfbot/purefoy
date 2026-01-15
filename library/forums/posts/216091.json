@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "216091",
+    "forum_slug": "camera",
+    "topic_slug": "lenses-with-undercorrected-spherical-abberation",
+    "parent_post_id": "216075",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Confirming for clarity –\nBy spherical aberrations, you don’t mean spherical optics struggle to converge light to a point evenly across a plane? That’s why you use aspherical optics—ARRI SPs are as described above corrected with this in mind. Every element is aspherical and very costly.\nWith the term undercorrected bokeh, are you searching for glass with a very soft feathered edge of the bokeh, similar to ARRI SP’s?\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>Confirming for clarity –</p>\n<p>By spherical aberrations, you don’t mean spherical optics struggle to converge light to a point evenly across a plane? That’s why you use aspherical optics—ARRI SPs are as described above corrected with this in mind. Every element is aspherical and very costly.</p>\n<p>With the term undercorrected bokeh, are you searching for glass with a very soft feathered edge of the bokeh, similar to ARRI SP’s?</p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Confirming for clarity –"
+    },
+    {
+      "type": "paragraph",
+      "text": "By spherical aberrations, you don’t mean spherical optics struggle to converge light to a point evenly across a plane? That’s why you use aspherical optics—ARRI SPs are as described above corrected with this in mind. Every element is aspherical and very costly."
+    },
+    {
+      "type": "paragraph",
+      "text": "With the term undercorrected bokeh, are you searching for glass with a very soft feathered edge of the bokeh, similar to ARRI SP’s?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lenses-with-undercorrected-spherical-abberation/#post-216092",
+    "scraped_at": "2026-01-15T15:17:57.573178+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lenses-with-undercorrected-spherical-abberation/#post-216092",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "542ba3951a87b886f82432c7aed27cf7be4870fd17aeea997c449f9219789c64",
+    "parser_version": "bbpress-v2"
+  }
+}

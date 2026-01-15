@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "220470",
+    "forum_slug": "post",
+    "topic_slug": "about-show-luts-and-daily-timing"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Two questions in a row!\n1) thanks to Stip i understood the difference between Show LUTs (for shooting) and Look LUTs (for post production). I hope the terms are correct. My question: how do you create a Show LUT, if It’s in pre production? With tests shoots?\n2) What’s the role of a Daily Timer? Is a role existing also with digital production or Is limited to film?\nThanks in advance and sorry for the boring questions!",
+  "content_html": "<p>Two questions in a row!</p>\n<p>1) thanks to Stip i understood the difference between Show LUTs (for shooting) and Look LUTs (for post production). I hope the terms are correct. My question: how do you create a Show LUT, if It’s in pre production? With tests shoots?</p>\n<p>2) What’s the role of a Daily Timer? Is a role existing also with digital production or Is limited to film?</p>\n<p>Thanks in advance and sorry for the boring questions!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Two questions in a row!"
+    },
+    {
+      "type": "paragraph",
+      "text": "1) thanks to Stip i understood the difference between Show LUTs (for shooting) and Look LUTs (for post production). I hope the terms are correct. My question: how do you create a Show LUT, if It’s in pre production? With tests shoots?"
+    },
+    {
+      "type": "paragraph",
+      "text": "2) What’s the role of a Daily Timer? Is a role existing also with digital production or Is limited to film?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks in advance and sorry for the boring questions!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-show-luts-and-daily-timing/#post-220503",
+    "scraped_at": "2026-01-15T13:23:44.324668+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-show-luts-and-daily-timing/#post-220503",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d2cebc7adf2e6440f0fb3a1bafe7d19175dd206248c457b8cc8fa7ceee50a225",
+    "parser_version": "bbpress-v2"
+  }
+}

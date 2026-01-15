@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "216001",
+    "forum_slug": "camera",
+    "topic_slug": "manipulating-the-image",
+    "parent_post_id": "215997",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "As to whether you heavily push the ISO setting or create a stylized LUT (for monitors and dailies) / or stylized post color-correction, that is entirely project dependent. Your reasons may be practical or aesthetic.\nBut there are some tried-and-true generalizations:\n(1) The simplest approach is often the best.\n(2) Garbage In / Garbage Out — the shots you create in camera that come closest to the final look will go through the post process the easiest and come out closest to your intent — whereas the shots that are far from the look you wanted and need a lot of post to fix might not end up close to what you wanted, or you may run out of time and budget in post to get what you wanted.",
+  "content_html": "<p>As to whether you heavily push the ISO setting or create a stylized LUT (for monitors and dailies) / or stylized post color-correction, that is entirely project dependent. Your reasons may be practical or aesthetic.</p>\n<p>But there are some tried-and-true generalizations:</p>\n<p>(1) The simplest approach is often the best.</p>\n<p>(2) Garbage In / Garbage Out — the shots you create in camera that come closest to the final look will go through the post process the easiest and come out closest to your intent — whereas the shots that are far from the look you wanted and need a lot of post to fix might not end up close to what you wanted, or you may run out of time and budget in post to get what you wanted.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "As to whether you heavily push the ISO setting or create a stylized LUT (for monitors and dailies) / or stylized post color-correction, that is entirely project dependent. Your reasons may be practical or aesthetic."
+    },
+    {
+      "type": "paragraph",
+      "text": "But there are some tried-and-true generalizations:"
+    },
+    {
+      "type": "paragraph",
+      "text": "(1) The simplest approach is often the best."
+    },
+    {
+      "type": "paragraph",
+      "text": "(2) Garbage In / Garbage Out — the shots you create in camera that come closest to the final look will go through the post process the easiest and come out closest to your intent — whereas the shots that are far from the look you wanted and need a lot of post to fix might not end up close to what you wanted, or you may run out of time and budget in post to get what you wanted."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/manipulating-the-image/#post-216014",
+    "scraped_at": "2026-01-15T15:18:09.760862+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/manipulating-the-image/#post-216014",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "26cd6367522477b7906174c3064c25d63a39e6ff3a42513b93cf3e36174cda6c",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "216075",
+    "forum_slug": "camera",
+    "topic_slug": "lenses-with-undercorrected-spherical-abberation"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "MichaelBachinger",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey Mr. Deakins and forum!\nI will be shooting a spec commercial in a few weeks time and I am currently looking for the right lenses for the project. I have tested a few vintage sets by now (Canon FD, Contax Zeiss, Mamiya 645, Soviet Glass, Nikkor Ais) and also some newer budget cine lenses (Meike FF Primes). Though i like some of these lenses, I am actually looking for lenses with undercorrected spherical abberation. The perfect lenses for me would be the Arri Signature Primes, but theses are way out of our budget. Does anybody know sets of affordable lenses with undercorrected spherical abberation? Any advice is helpful.\nThank you for your time!\nMichael",
+  "content_html": "<p>Hey Mr. Deakins and forum!</p>\n<p>I will be shooting a spec commercial in a few weeks time and I am currently looking for the right lenses for the project. I have tested a few vintage sets by now (Canon FD, Contax Zeiss, Mamiya 645, Soviet Glass, Nikkor Ais) and also some newer budget cine lenses (Meike FF Primes). Though i like some of these lenses, I am actually looking for lenses with undercorrected spherical abberation. The perfect lenses for me would be the Arri Signature Primes, but theses are way out of our budget. Does anybody know sets of affordable lenses with undercorrected spherical abberation? Any advice is helpful.</p>\n<p>Thank you for your time!</p>\n<p>Michael</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey Mr. Deakins and forum!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I will be shooting a spec commercial in a few weeks time and I am currently looking for the right lenses for the project. I have tested a few vintage sets by now (Canon FD, Contax Zeiss, Mamiya 645, Soviet Glass, Nikkor Ais) and also some newer budget cine lenses (Meike FF Primes). Though i like some of these lenses, I am actually looking for lenses with undercorrected spherical abberation. The perfect lenses for me would be the Arri Signature Primes, but theses are way out of our budget. Does anybody know sets of affordable lenses with undercorrected spherical abberation? Any advice is helpful."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for your time!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lenses-with-undercorrected-spherical-abberation/#post-216092",
+    "scraped_at": "2026-01-15T15:17:57.572124+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lenses-with-undercorrected-spherical-abberation/#post-216092",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4cd1d5f0021d7b18fa404b941acd5f4a124b61c39adec3b253566d7291a0ee5d",
+    "parser_version": "bbpress-v2"
+  }
+}

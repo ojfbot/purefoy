@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/shooting-35mm-film-in-an-led-volume/",
+  "forum_slug": "website-news",
+  "topic_slug": "shooting-35mm-film-in-an-led-volume",
+  "title": "Shooting 35mm film in an LED-volume",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215742"
+  ],
+  "reply_tree": {
+    "post_id": "215742",
+    "post_type": "topic",
+    "author": "Franco Zappa",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-35mm-film-in-an-led-volume/",
+    "scraped_at": "2026-01-15T12:09:24.241515+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-35mm-film-in-an-led-volume/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "70591f38a6a542c47ce90a3105e4267bb5f3c50d4013859da7c9334a11d3f27c",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214485",
+    "forum_slug": "forum",
+    "topic_slug": "necessary-for-light-meter",
+    "parent_post_id": "214481",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "andrewtrost",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I used EL Zone for the first time this past week on a short film and it was absolutely wonderful and intuitive.  A great way to help maintain consistency throughout a project.  It inspired some creative confidence as well.  I used it along with false color and my light meter.\nI would love it if ARRI and other major manufacturers would implement it directly into their systems – I know Ed Lachman has been trying to get that to happen for a while now, so it just needs to be adopted by more DPs as another useful tool in the kit.",
+  "content_html": "<p>I used EL Zone for the first time this past week on a short film and it was absolutely wonderful and intuitive.  A great way to help maintain consistency throughout a project.  It inspired some creative confidence as well.  I used it along with false color and my light meter.</p>\n<p>I would love it if ARRI and other major manufacturers would implement it directly into their systems – I know Ed Lachman has been trying to get that to happen for a while now, so it just needs to be adopted by more DPs as another useful tool in the kit.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I used EL Zone for the first time this past week on a short film and it was absolutely wonderful and intuitive.  A great way to help maintain consistency throughout a project.  It inspired some creative confidence as well.  I used it along with false color and my light meter."
+    },
+    {
+      "type": "paragraph",
+      "text": "I would love it if ARRI and other major manufacturers would implement it directly into their systems – I know Ed Lachman has been trying to get that to happen for a while now, so it just needs to be adopted by more DPs as another useful tool in the kit."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/necessary-for-light-meter/#post-214531",
+    "scraped_at": "2026-01-15T15:52:57.635685+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/necessary-for-light-meter/#post-214531",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "415a62403312a3cba225710ce645d1024ea924435bd12e5f60d993df826e865c",
+    "parser_version": "bbpress-v2"
+  }
+}

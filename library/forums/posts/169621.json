@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "169621",
+    "forum_slug": "camera",
+    "topic_slug": "does-lens-focal-length-refer-to-full-frame-sensors-in-common-parlance",
+    "parent_post_id": "169615",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Usually when a cinematographer names a focal length by number, it’s the actual focal length regardless of the format.",
+  "content_html": "<p>Usually when a cinematographer names a focal length by number, it’s the actual focal length regardless of the format.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Usually when a cinematographer names a focal length by number, it’s the actual focal length regardless of the format."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/does-lens-focal-length-refer-to-full-frame-sensors-in-common-parlance/#post-189585",
+    "scraped_at": "2026-01-15T15:43:40.888143+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/does-lens-focal-length-refer-to-full-frame-sensors-in-common-parlance/#post-189585",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "90d725d0e8a78d2a975c8df7f87622f7db67405b99f74e257b5a128fd0eb7d18",
+    "parser_version": "bbpress-v2"
+  }
+}

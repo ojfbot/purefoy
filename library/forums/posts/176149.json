@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "post_id": "176149",
+    "forum_slug": "post",
+    "topic_slug": "lut-creation-to-use-on-set"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "indiefilmmaker",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey everybody,\nI’m heading into my directorial debut and was wondering how I could see the “closest to final image” using a LUT.\nI’ve read that Mr. Deakins uses the same LUT on set for pretty much all of his films. Does anyone know how he created it, if I can find it somewhere, or how I would create one to my taste to make the post workflow go faster? I Googled and I saw a couple posts from a few months ago that are now gone so I’m just looking for some more information.\nI do have a look that I want to replicate from Blade Runner 2049,\nBlade Runner 2049\npretty much this color palette. It has all the same elements too. Night shot, car lights, and rain.\nI’ve worked in all aspects of the production workflow except as the director so I do know how to color grade and light and do all that. Do I generate a ramp in Resolve and just use curves with an 18% grey middle point and adjust the RGB channels accordingly?\nAny helps is greatly appreciated.",
+  "content_html": "<p>Hey everybody,</p>\n<p>I’m heading into my directorial debut and was wondering how I could see the “closest to final image” using a LUT.</p>\n<p>I’ve read that Mr. Deakins uses the same LUT on set for pretty much all of his films. Does anyone know how he created it, if I can find it somewhere, or how I would create one to my taste to make the post workflow go faster? I Googled and I saw a couple posts from a few months ago that are now gone so I’m just looking for some more information.</p>\n<p>I do have a look that I want to replicate from Blade Runner 2049,</p>\n<blockquote class=\"wp-embedded-content\" data-secret=\"5AzoF4Cg6w\"><p><a href=\"https://film-grab.com/2019/05/24/blade-runner-2049/\" rel=\"nofollow\">Blade Runner 2049</a></p></blockquote>\n<p><iframe class=\"wp-embedded-content\" data-secret=\"5AzoF4Cg6w\" frameborder=\"0\" height=\"338\" loading=\"lazy\" marginheight=\"0\" marginwidth=\"0\" sandbox=\"allow-scripts\" scrolling=\"no\" security=\"restricted\" src=\"https://film-grab.com/2019/05/24/blade-runner-2049/embed/#?secret=Ss99aeWqzp#?secret=5AzoF4Cg6w\" style=\"position: absolute; clip: rect(1px, 1px, 1px, 1px);\" title=\"“Blade Runner 2049” — [FILMGRAB]\" width=\"600\"></iframe></p>\n<p>pretty much this color palette. It has all the same elements too. Night shot, car lights, and rain.</p>\n<p>I’ve worked in all aspects of the production workflow except as the director so I do know how to color grade and light and do all that. Do I generate a ramp in Resolve and just use curves with an 18% grey middle point and adjust the RGB channels accordingly?</p>\n<p>Any helps is greatly appreciated.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey everybody,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m heading into my directorial debut and was wondering how I could see the “closest to final image” using a LUT."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve read that Mr. Deakins uses the same LUT on set for pretty much all of his films. Does anyone know how he created it, if I can find it somewhere, or how I would create one to my taste to make the post workflow go faster? I Googled and I saw a couple posts from a few months ago that are now gone so I’m just looking for some more information."
+    },
+    {
+      "type": "paragraph",
+      "text": "I do have a look that I want to replicate from Blade Runner 2049,"
+    },
+    {
+      "type": "quote",
+      "text": "Blade Runner 2049"
+    },
+    {
+      "type": "paragraph",
+      "text": "Blade Runner 2049"
+    },
+    {
+      "type": "paragraph",
+      "text": "pretty much this color palette. It has all the same elements too. Night shot, car lights, and rain."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve worked in all aspects of the production workflow except as the director so I do know how to color grade and light and do all that. Do I generate a ramp in Resolve and just use curves with an 18% grey middle point and adjust the RGB channels accordingly?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Any helps is greatly appreciated."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Blade Runner 2049"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://film-grab.com/2019/05/24/blade-runner-2049/",
+      "text": "Blade Runner 2049",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lut-creation-to-use-on-set/#post-197287",
+    "scraped_at": "2026-01-15T13:24:03.167607+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lut-creation-to-use-on-set/#post-197287",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e56025df7af52d384c3778a0392f6c3ded7596d732e10f42b5cc596016d5a78c",
+    "parser_version": "bbpress-v2"
+  }
+}

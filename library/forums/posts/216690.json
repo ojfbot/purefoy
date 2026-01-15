@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "216690",
+    "forum_slug": "forum",
+    "topic_slug": "sillouette-with-illuminated-sunglasses"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "ThatGreasyFootball",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Howdy, I am looking to create a shot similar to this shot from Wes Anderson’s, The Grand Budapest Hotel, posted below.\nHere is a sample image I shot on location of what I am thinking:\nI plan to block the light coming from the elevator on the left so the subject is silhouetted against the foggy night sky. In the story the subject will be wearing sunglasses to help conceal his identity and we will crash zoom to a tight shot (a bit tighter than the one above, phone camera only zooms so far lol) of the subject with his body silhouetted and his glasses illuminated. Practically speaking I will have to be ~150 feet away with the camera (bmpcc4k) in order to get the right framing for this. This brings into question how i might want to light the subject so that he remains silhouetted, but has his glasses illuminated like the shot from The Grand Budapest Hotel. I was thinking possibly coating the glasses with a reflective material of some sort that disperses light well, (like Hi Vis reflector) shooting a flashlight at him and having him look at the source of the light by the camera. Does anybody have any suggestions or ideas for anything else that might work? If not, I can follow up this thread when I am done shooting in case anyone might need to do something similar in the future.",
+  "content_html": "<p>Howdy, I am looking to create a shot similar to this shot from Wes Anderson’s, The Grand Budapest Hotel, posted below.</p>\n<p><img alt=\"\" decoding=\"async\" height=\"373\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216690/macej1l46ge488m7qg41j0p45ruqx15m.jpg\" width=\"607\"/></p>\n<p>Here is a sample image I shot on location of what I am thinking:</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216690/qkn2s5drui93ec3hpwnnglt9arr2qvga.jpg\"/></p>\n<p>I plan to block the light coming from the elevator on the left so the subject is silhouetted against the foggy night sky. In the story the subject will be wearing sunglasses to help conceal his identity and we will crash zoom to a tight shot (a bit tighter than the one above, phone camera only zooms so far lol) of the subject with his body silhouetted and his glasses illuminated. Practically speaking I will have to be ~150 feet away with the camera (bmpcc4k) in order to get the right framing for this. This brings into question how i might want to light the subject so that he remains silhouetted, but has his glasses illuminated like the shot from The Grand Budapest Hotel. I was thinking possibly coating the glasses with a reflective material of some sort that disperses light well, (like Hi Vis reflector) shooting a flashlight at him and having him look at the source of the light by the camera. Does anybody have any suggestions or ideas for anything else that might work? If not, I can follow up this thread when I am done shooting in case anyone might need to do something similar in the future.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Howdy, I am looking to create a shot similar to this shot from Wes Anderson’s, The Grand Budapest Hotel, posted below."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is a sample image I shot on location of what I am thinking:"
+    },
+    {
+      "type": "paragraph",
+      "text": "I plan to block the light coming from the elevator on the left so the subject is silhouetted against the foggy night sky. In the story the subject will be wearing sunglasses to help conceal his identity and we will crash zoom to a tight shot (a bit tighter than the one above, phone camera only zooms so far lol) of the subject with his body silhouetted and his glasses illuminated. Practically speaking I will have to be ~150 feet away with the camera (bmpcc4k) in order to get the right framing for this. This brings into question how i might want to light the subject so that he remains silhouetted, but has his glasses illuminated like the shot from The Grand Budapest Hotel. I was thinking possibly coating the glasses with a reflective material of some sort that disperses light well, (like Hi Vis reflector) shooting a flashlight at him and having him look at the source of the light by the camera. Does anybody have any suggestions or ideas for anything else that might work? If not, I can follow up this thread when I am done shooting in case anyone might need to do something similar in the future."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216690/macej1l46ge488m7qg41j0p45ruqx15m.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216690/qkn2s5drui93ec3hpwnnglt9arr2qvga.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sillouette-with-illuminated-sunglasses/#post-217513",
+    "scraped_at": "2026-01-15T15:20:30.870255+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sillouette-with-illuminated-sunglasses/#post-217513",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "29dd29f57238764a58482508fa5ebfda4c8940a0da4b246cb55128043e1adf51",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216626",
+    "forum_slug": "forum",
+    "topic_slug": "white-balance-warm-tungsten",
+    "parent_post_id": "216221",
+    "parent_type": "topic",
+    "position": 22
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks Roger and David! You helped me put things in the right perspective. Mine it’s the usual beginner mindset (“\nthis thing makes the job easier , so it must be some kind of cheating, the masters will cover me in pitch and feathers and send me away as an heretic because i took the easiest road..\n” Well, i think you got the idea). We live in an era in which AI is\nruining\nchanging everything and i’m here wondering if it’s right or not to use white balance as a way to obtain the right mood instead of colored lights and colored gels for a micro production like mine…",
+  "content_html": "<p>Thanks Roger and David! You helped me put things in the right perspective. Mine it’s the usual beginner mindset (“<em>this thing makes the job easier , so it must be some kind of cheating, the masters will cover me in pitch and feathers and send me away as an heretic because i took the easiest road..</em>” Well, i think you got the idea). We live in an era in which AI is <del>ruining</del> changing everything and i’m here wondering if it’s right or not to use white balance as a way to obtain the right mood instead of colored lights and colored gels for a micro production like mine…</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks Roger and David! You helped me put things in the right perspective. Mine it’s the usual beginner mindset (“\nthis thing makes the job easier , so it must be some kind of cheating, the masters will cover me in pitch and feathers and send me away as an heretic because i took the easiest road..\n” Well, i think you got the idea). We live in an era in which AI is\nruining\nchanging everything and i’m here wondering if it’s right or not to use white balance as a way to obtain the right mood instead of colored lights and colored gels for a micro production like mine…"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/page/2/",
+    "scraped_at": "2026-01-15T15:24:01.095042+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "399fba2b717925b86876df861ddfcb3b07bfb31d0ed44573ff8523d7b3ef2afd",
+    "parser_version": "bbpress-v2"
+  }
+}

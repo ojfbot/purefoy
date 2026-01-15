@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214548",
+    "forum_slug": "film-talk",
+    "topic_slug": "low-no-budget-movies-with-intriguing-cinematography",
+    "parent_post_id": "206257",
+    "parent_type": "topic",
+    "position": 13
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "James Parsons",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Also meant to submit:\nColumbus (2017) — dir. Kogonada, DP Elisha Christian",
+  "content_html": "<p>Also meant to submit:</p>\n<p>Columbus (2017) — dir. Kogonada, DP Elisha Christian</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Also meant to submit:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Columbus (2017) — dir. Kogonada, DP Elisha Christian"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/low-no-budget-movies-with-intriguing-cinematography/",
+    "scraped_at": "2026-01-15T14:13:32.890290+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/low-no-budget-movies-with-intriguing-cinematography/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a1aa3435b6434879e5cc09b002b3eb743aecb718230278448b34e7dfb12f4fd5",
+    "parser_version": "bbpress-v2"
+  }
+}

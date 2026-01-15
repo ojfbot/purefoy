@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "214710",
+    "forum_slug": "camera",
+    "topic_slug": "unmotivated-camera-movements"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger when to avoid unmotivated camera movements. Could you say fewer good movies for unmotivated camera movements. My personal opinion unmotivated camera movements don’t fit for all story’s. Right",
+  "content_html": "<p>Dear master Roger when to avoid unmotivated camera movements. Could you say fewer good movies for unmotivated camera movements. My personal opinion unmotivated camera movements don’t fit for all story’s. Right</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger when to avoid unmotivated camera movements. Could you say fewer good movies for unmotivated camera movements. My personal opinion unmotivated camera movements don’t fit for all story’s. Right"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/unmotivated-camera-movements/#post-214734",
+    "scraped_at": "2026-01-15T15:25:34.272080+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/unmotivated-camera-movements/#post-214734",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "41de84ea78bb21b0746b617da072af14aced074f1c59c1853c4e995b8bf01baf",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "215325",
+    "forum_slug": "film-talk",
+    "topic_slug": "around-the-world-with-ridgway"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Tom. G",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nI recently watched your documentary ‘Around the World with Ridgway‘ I’m fascinated to know the creative journey in those nine months. Did shooting on a boat every day get repetitive? Were there any technical issues you overcame?\nThanks,\nTom.",
+  "content_html": "<p>Hi Roger,</p>\n<p>I recently watched your documentary ‘Around the World with Ridgway‘ I’m fascinated to know the creative journey in those nine months. Did shooting on a boat every day get repetitive? Were there any technical issues you overcame?</p>\n<p>Thanks,<br/>\nTom.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I recently watched your documentary ‘Around the World with Ridgway‘ I’m fascinated to know the creative journey in those nine months. Did shooting on a boat every day get repetitive? Were there any technical issues you overcame?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks,\nTom."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/around-the-world-with-ridgway/#post-215370",
+    "scraped_at": "2026-01-15T13:39:49.623273+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/around-the-world-with-ridgway/#post-215370",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a8fd647b7fe4a72b7d3666ea6cabd6c87c230efa2b4f84e3c03aa9d97622784a",
+    "parser_version": "bbpress-v2"
+  }
+}

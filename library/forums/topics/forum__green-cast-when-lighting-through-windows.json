@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/green-cast-when-lighting-through-windows/#post-214508",
+  "forum_slug": "forum",
+  "topic_slug": "green-cast-when-lighting-through-windows",
+  "title": "Green Cast When Lighting Through Windows",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214506",
+    "214507",
+    "214508"
+  ],
+  "reply_tree": {
+    "post_id": "214506",
+    "post_type": "topic",
+    "author": "gcconnelly",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214507",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214508",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/green-cast-when-lighting-through-windows/#post-214508",
+    "scraped_at": "2026-01-15T15:53:18.636784+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/green-cast-when-lighting-through-windows/#post-214508",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2ffe9e1d2d3425b5c9ea32b5f6817dd9b811d5c0a680696604571b224250b245",
+    "parser_version": "bbpress-v2"
+  }
+}

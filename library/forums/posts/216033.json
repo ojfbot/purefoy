@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216033",
+    "forum_slug": "forum",
+    "topic_slug": "sicario-cg-ultra-photorealistic-cg-and-vfx-work",
+    "parent_post_id": "216032",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Baudelaire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "one of. the greatest action/thriller sequences ever shot.",
+  "content_html": "<p>one of. the greatest action/thriller sequences ever shot.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "one of. the greatest action/thriller sequences ever shot."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario-cg-ultra-photorealistic-cg-and-vfx-work/#post-216047",
+    "scraped_at": "2026-01-15T15:42:17.274063+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-cg-ultra-photorealistic-cg-and-vfx-work/#post-216047",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "92714e919c2b913f5ae93fc7b4bd7fd9e96d1046b48622345357315c808265f5",
+    "parser_version": "bbpress-v2"
+  }
+}

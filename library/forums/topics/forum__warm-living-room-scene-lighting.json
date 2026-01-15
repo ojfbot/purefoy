@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/warm-living-room-scene-lighting/#post-216669",
+  "forum_slug": "forum",
+  "topic_slug": "warm-living-room-scene-lighting",
+  "title": "Warm living room scene lighting",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216667",
+    "216669"
+  ],
+  "reply_tree": {
+    "post_id": "216667",
+    "post_type": "topic",
+    "author": "gx42",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216669",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/warm-living-room-scene-lighting/#post-216669",
+    "scraped_at": "2026-01-15T15:23:39.903301+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/warm-living-room-scene-lighting/#post-216669",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b1eb948b12504c042620878cd9f4837dd0916c940ca8e381ce3b93e4a0977c43",
+    "parser_version": "bbpress-v2"
+  }
+}

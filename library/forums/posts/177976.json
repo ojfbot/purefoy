@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "177976",
+    "forum_slug": "film-talk",
+    "topic_slug": "the-fablemans"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Icebadger",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Roger, I saw Spielberg’s latest (and delightful) film recently. I loved  the final sequence with the young Sammy meeting John Ford. The final shot (no spoilers) had me hooting with joy but it also encapsulated one of Spielberg’s key film making methods. I wonder if you’d seen it and were equally uplifted?",
+  "content_html": "<p>Hello Roger, I saw Spielberg’s latest (and delightful) film recently. I loved  the final sequence with the young Sammy meeting John Ford. The final shot (no spoilers) had me hooting with joy but it also encapsulated one of Spielberg’s key film making methods. I wonder if you’d seen it and were equally uplifted?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Roger, I saw Spielberg’s latest (and delightful) film recently. I loved  the final sequence with the young Sammy meeting John Ford. The final shot (no spoilers) had me hooting with joy but it also encapsulated one of Spielberg’s key film making methods. I wonder if you’d seen it and were equally uplifted?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-fablemans/#post-178569",
+    "scraped_at": "2026-01-15T14:33:30.854234+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-fablemans/#post-178569",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a70d6ee59df4832c1e483d30962a959447bd7b36726868b9e0a8e9508bdd30fa",
+    "parser_version": "bbpress-v2"
+  }
+}

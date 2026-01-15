@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "214525",
+    "forum_slug": "forum",
+    "topic_slug": "consistent-look-with-different-set-ups",
+    "parent_post_id": "212582",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "",
+  "content_html": "<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214525/x5r28h7otank599yik9ozppb8qamh70n.jpeg\"/></p>",
+  "blocks": [],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214525/x5r28h7otank599yik9ozppb8qamh70n.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/consistent-look-with-different-set-ups/#post-214525",
+    "scraped_at": "2026-01-15T15:53:06.858929+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/consistent-look-with-different-set-ups/#post-214525",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d191526f3188943bb221b1eda6012b1baf924fb4a4d3c3f2871e8d82d9928d44",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215587",
+    "forum_slug": "film-talk",
+    "topic_slug": "films-that-light-and-compose-faces-very-well",
+    "parent_post_id": "215446",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There is a podcast of a conversation James and I had with Aleksey Rodionov about Come and See. It is definitely worth listening to. Nice man.",
+  "content_html": "<p>There is a podcast of a conversation James and I had with Aleksey Rodionov about Come and See. It is definitely worth listening to. Nice man.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There is a podcast of a conversation James and I had with Aleksey Rodionov about Come and See. It is definitely worth listening to. Nice man."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/films-that-light-and-compose-faces-very-well/#post-215592",
+    "scraped_at": "2026-01-15T13:23:37.874033+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/films-that-light-and-compose-faces-very-well/#post-215592",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "79dba1ec7b0c4e17f4adeadc4631ff44bfd88715261d642fc7275a7738b4aeeb",
+    "parser_version": "bbpress-v2"
+  }
+}

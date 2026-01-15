@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216148",
+    "forum_slug": "camera",
+    "topic_slug": "handheld-movies",
+    "parent_post_id": "216147",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "“Jarhead”!\nThe boat sequence in “Jaws”, the running around the submarine shots in “Das Boot”… Most of “Man of Steel” for some reason is handheld.\n“Chinatown” has some good use of handheld (John Alonzo was good at that technique.)",
+  "content_html": "<p>“Jarhead”!</p>\n<p>The boat sequence in “Jaws”, the running around the submarine shots in “Das Boot”… Most of “Man of Steel” for some reason is handheld.</p>\n<p>“Chinatown” has some good use of handheld (John Alonzo was good at that technique.)</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "“Jarhead”!"
+    },
+    {
+      "type": "paragraph",
+      "text": "The boat sequence in “Jaws”, the running around the submarine shots in “Das Boot”… Most of “Man of Steel” for some reason is handheld."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Chinatown” has some good use of handheld (John Alonzo was good at that technique.)"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/handheld-movies/#post-216169",
+    "scraped_at": "2026-01-15T14:50:59.131923+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/handheld-movies/#post-216169",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5cf74c803b42d15479d650735b115b77b5e5b55d0d48f59b30e8d6fa8ad6452b",
+    "parser_version": "bbpress-v2"
+  }
+}

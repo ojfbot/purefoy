@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216109",
+    "forum_slug": "forum",
+    "topic_slug": "bounce-lighting",
+    "parent_post_id": "216059",
+    "parent_type": "topic",
+    "position": 11
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks a lot David! I always appreciate the time you and Roger dedicate to explain and teach things to unexperienced people like me.\nI’m doing some tests to see what works better, but i think that making clear to the audience what is coloring the bouncing light could be the right solution for me. Thanks for the tip!",
+  "content_html": "<p>Thanks a lot David! I always appreciate the time you and Roger dedicate to explain and teach things to unexperienced people like me.</p>\n<p>I’m doing some tests to see what works better, but i think that making clear to the audience what is coloring the bouncing light could be the right solution for me. Thanks for the tip!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks a lot David! I always appreciate the time you and Roger dedicate to explain and teach things to unexperienced people like me."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m doing some tests to see what works better, but i think that making clear to the audience what is coloring the bouncing light could be the right solution for me. Thanks for the tip!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bounce-lighting/#post-216109",
+    "scraped_at": "2026-01-15T15:41:54.713664+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bounce-lighting/#post-216109",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "616bafc189a0a25ec0bb8118478e3da6291ba11766c8c8d5158c264927fea6d7",
+    "parser_version": "bbpress-v2"
+  }
+}

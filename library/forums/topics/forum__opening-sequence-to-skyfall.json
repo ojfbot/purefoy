@@ -1,0 +1,81 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/opening-sequence-to-skyfall/#post-217204",
+  "forum_slug": "forum",
+  "topic_slug": "opening-sequence-to-skyfall",
+  "title": "Opening sequence to Skyfall",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217145",
+    "217146",
+    "217192",
+    "217199",
+    "217201",
+    "217202",
+    "217204"
+  ],
+  "reply_tree": {
+    "post_id": "217145",
+    "post_type": "topic",
+    "author": "ben_r_05",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "217146",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217192",
+        "post_type": "reply",
+        "author": "ben_r_05",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217199",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217201",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217202",
+        "post_type": "reply",
+        "author": "ben_r_05",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217204",
+        "post_type": "reply",
+        "author": "Deano",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 6,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/opening-sequence-to-skyfall/#post-217204",
+    "scraped_at": "2026-01-15T15:21:30.580600+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/opening-sequence-to-skyfall/#post-217204",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1bed57654854b1555fd1b5b00721e207611a867140b5ca9f599a5d2064a77a56",
+    "parser_version": "bbpress-v2"
+  }
+}

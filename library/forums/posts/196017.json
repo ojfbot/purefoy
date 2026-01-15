@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "196017",
+    "forum_slug": "film-talk",
+    "topic_slug": "empire-of-light-1917-and-blade-runner-2049"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "GianniRanzuglia",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nI would like to ask you, how did it differ from working in ‘Empire of Light,’ with grand-scale films like ‘1917’ and ‘Blade Runner 2049?’\nWas it comparatively easier working on ‘Empire of Light,’ or were there different but still as difficult obstacles?\nThanks for your time!",
+  "content_html": "<p>Hi Roger,</p>\n<p>I would like to ask you, how did it differ from working in ‘Empire of Light,’ with grand-scale films like ‘1917’ and ‘Blade Runner 2049?’</p>\n<p>Was it comparatively easier working on ‘Empire of Light,’ or were there different but still as difficult obstacles?</p>\n<p>Thanks for your time!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I would like to ask you, how did it differ from working in ‘Empire of Light,’ with grand-scale films like ‘1917’ and ‘Blade Runner 2049?’"
+    },
+    {
+      "type": "paragraph",
+      "text": "Was it comparatively easier working on ‘Empire of Light,’ or were there different but still as difficult obstacles?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks for your time!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-1917-and-blade-runner-2049/#post-208761",
+    "scraped_at": "2026-01-15T14:17:06.175064+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-1917-and-blade-runner-2049/#post-208761",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5f14961aea64faee5c32b954f4005636b74db84dba2739cf12df61d0255264bb",
+    "parser_version": "bbpress-v2"
+  }
+}

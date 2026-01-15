@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "209477",
+    "forum_slug": "film-talk",
+    "topic_slug": "empire-of-light-editing-error"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Luca_HC_Gruber",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger,\nlast night I had the absolute pleasure of watching Empire of Light for the first time.\nThe irony of it was, that the projectionist messed up and we waited a couple of minutes in absolute darkness. But aside from that it was absolutely enjoyable and a very moving picture.\nI tried not to think to much about the camera work while watching but got taken out of it for just one small moment.\nWhen the National Front mob attacked the cinema staff I think I noticed a change in the motion on the shot of Norman being pushed to the ground. Something about the motion blur seemed a bit off, as if the shutter angle was greater than 180° or perhaps the clip was shot for a different framerate than being shown.\nPerhaps I’m seeing something that wasn’t even there and It was all fine, however I wanted to ask if you recall any abnormality, a small thing that bothered you in post production like this issue I think I spotted, since I can not examine the moment of the film so easily again.\nThanks for your time and congrats on this beautiful movie that moved me to tears.",
+  "content_html": "<p>Dear Roger,</p>\n<p>last night I had the absolute pleasure of watching Empire of Light for the first time.<br/>\nThe irony of it was, that the projectionist messed up and we waited a couple of minutes in absolute darkness. But aside from that it was absolutely enjoyable and a very moving picture.</p>\n<p>I tried not to think to much about the camera work while watching but got taken out of it for just one small moment.</p>\n<p>When the National Front mob attacked the cinema staff I think I noticed a change in the motion on the shot of Norman being pushed to the ground. Something about the motion blur seemed a bit off, as if the shutter angle was greater than 180° or perhaps the clip was shot for a different framerate than being shown.<br/>\nPerhaps I’m seeing something that wasn’t even there and It was all fine, however I wanted to ask if you recall any abnormality, a small thing that bothered you in post production like this issue I think I spotted, since I can not examine the moment of the film so easily again.</p>\n<p>Thanks for your time and congrats on this beautiful movie that moved me to tears.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "last night I had the absolute pleasure of watching Empire of Light for the first time.\nThe irony of it was, that the projectionist messed up and we waited a couple of minutes in absolute darkness. But aside from that it was absolutely enjoyable and a very moving picture."
+    },
+    {
+      "type": "paragraph",
+      "text": "I tried not to think to much about the camera work while watching but got taken out of it for just one small moment."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the National Front mob attacked the cinema staff I think I noticed a change in the motion on the shot of Norman being pushed to the ground. Something about the motion blur seemed a bit off, as if the shutter angle was greater than 180° or perhaps the clip was shot for a different framerate than being shown.\nPerhaps I’m seeing something that wasn’t even there and It was all fine, however I wanted to ask if you recall any abnormality, a small thing that bothered you in post production like this issue I think I spotted, since I can not examine the moment of the film so easily again."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks for your time and congrats on this beautiful movie that moved me to tears."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-editing-error/",
+    "scraped_at": "2026-01-15T14:16:59.926966+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-editing-error/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4496282386b5646c46eb11c50bdd9020969814b566753a5d0b9c7b93addaabde",
+    "parser_version": "bbpress-v2"
+  }
+}

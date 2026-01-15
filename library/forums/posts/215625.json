@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215625",
+    "forum_slug": "forum",
+    "topic_slug": "question-about-5219-vision3-500t",
+    "parent_post_id": "215623",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Tyler F",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Why don’t you test as opposed to taking someone’s word for it and hoping they’re right? Shooting film is very expensive and you don’t want to really take any chances unless you’re absolutely certain it would have the desired effect. You could do a test where you underexpose the film and have the lab push it for you and see what the results are. You may like what’s there, but you may not. 500t is going to have more grain than 250d but since 35mm is a bigger negative, the grain will appear smaller.\nIf you have a short end, you could use that for your test. Maybe shoot like 20-30′ and tear off the film, spool it onto a core and have lab develop it (if they do that sort of thing).",
+  "content_html": "<p>Why don’t you test as opposed to taking someone’s word for it and hoping they’re right? Shooting film is very expensive and you don’t want to really take any chances unless you’re absolutely certain it would have the desired effect. You could do a test where you underexpose the film and have the lab push it for you and see what the results are. You may like what’s there, but you may not. 500t is going to have more grain than 250d but since 35mm is a bigger negative, the grain will appear smaller.</p>\n<p>If you have a short end, you could use that for your test. Maybe shoot like 20-30′ and tear off the film, spool it onto a core and have lab develop it (if they do that sort of thing).</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Why don’t you test as opposed to taking someone’s word for it and hoping they’re right? Shooting film is very expensive and you don’t want to really take any chances unless you’re absolutely certain it would have the desired effect. You could do a test where you underexpose the film and have the lab push it for you and see what the results are. You may like what’s there, but you may not. 500t is going to have more grain than 250d but since 35mm is a bigger negative, the grain will appear smaller."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a short end, you could use that for your test. Maybe shoot like 20-30′ and tear off the film, spool it onto a core and have lab develop it (if they do that sort of thing)."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/question-about-5219-vision3-500t/#post-215625",
+    "scraped_at": "2026-01-15T15:46:11.542764+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/question-about-5219-vision3-500t/#post-215625",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "57a545fa0cc4d20401b7efadac2cd9f5c61cf5e939407ce2f6c48269d7601f45",
+    "parser_version": "bbpress-v2"
+  }
+}

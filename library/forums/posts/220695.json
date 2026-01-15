@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220695",
+    "forum_slug": "team-deakins",
+    "topic_slug": "fast-delivery-and-morning-surprise-massive-thank-you-from-china",
+    "parent_post_id": "220571",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "James",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That’s fantastic! The ASC is good about shipping.",
+  "content_html": "<p>That’s fantastic! The ASC is good about shipping.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That’s fantastic! The ASC is good about shipping."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/fast-delivery-and-morning-surprise-massive-thank-you-from-china/#post-220695",
+    "scraped_at": "2026-01-15T12:08:11.327298+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/fast-delivery-and-morning-surprise-massive-thank-you-from-china/#post-220695",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5bb037c1bb535aeac18da7da75f3e13e4f7bb982ded5753251cee66905915513",
+    "parser_version": "bbpress-v2"
+  }
+}

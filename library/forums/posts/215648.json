@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215648",
+    "forum_slug": "camera",
+    "topic_slug": "exposure",
+    "parent_post_id": "215560",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "About this subject, i’ve got a question about the exposure of multiple subjects under different lights, as David was describing in his post.\nI’m planning a low key full shot in a quite dark room, with just a couple of practical lights (in theory, managing to actually shot it it’s another story, ah ah). I’ve read that distance from the camera doesn’t affect exposure, so if i understood correctly the reading i’d obtain if i’d use a lightmeter near the actor should allow me to expose him correctly even from some distance.\nBut in such a situation I should expose for the subject under the practical light (perhaps underexposing the shadows) or aiming for the right look for the shadows but overexposing the actor?\nSorry if it’s a quite stupid question and if there are errors in my reasoning but i’m trying to learn!",
+  "content_html": "<p>About this subject, i’ve got a question about the exposure of multiple subjects under different lights, as David was describing in his post.<br/>\nI’m planning a low key full shot in a quite dark room, with just a couple of practical lights (in theory, managing to actually shot it it’s another story, ah ah). I’ve read that distance from the camera doesn’t affect exposure, so if i understood correctly the reading i’d obtain if i’d use a lightmeter near the actor should allow me to expose him correctly even from some distance.<br/>\nBut in such a situation I should expose for the subject under the practical light (perhaps underexposing the shadows) or aiming for the right look for the shadows but overexposing the actor?<br/>\nSorry if it’s a quite stupid question and if there are errors in my reasoning but i’m trying to learn!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "About this subject, i’ve got a question about the exposure of multiple subjects under different lights, as David was describing in his post.\nI’m planning a low key full shot in a quite dark room, with just a couple of practical lights (in theory, managing to actually shot it it’s another story, ah ah). I’ve read that distance from the camera doesn’t affect exposure, so if i understood correctly the reading i’d obtain if i’d use a lightmeter near the actor should allow me to expose him correctly even from some distance.\nBut in such a situation I should expose for the subject under the practical light (perhaps underexposing the shadows) or aiming for the right look for the shadows but overexposing the actor?\nSorry if it’s a quite stupid question and if there are errors in my reasoning but i’m trying to learn!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+    "scraped_at": "2026-01-15T15:20:45.306985+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2ee1e1e32cea8240e1a7bf88a87234f9e7592bd4927f9cb141d7baa11ab1bb33",
+    "parser_version": "bbpress-v2"
+  }
+}

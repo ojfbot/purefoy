@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/reasons/",
+  "forum_slug": "set-talk",
+  "topic_slug": "reasons",
+  "title": "Reasons",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217286"
+  ],
+  "reply_tree": {
+    "post_id": "217286",
+    "post_type": "topic",
+    "author": "viktorenvall",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reasons/",
+    "scraped_at": "2026-01-15T12:09:22.631620+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reasons/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0c16609281a412eb892bfe566496cf4747560af1ce684fa33cf080faf6dba5e5",
+    "parser_version": "bbpress-v2"
+  }
+}

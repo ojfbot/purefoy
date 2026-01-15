@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "216002",
+    "forum_slug": "post",
+    "topic_slug": "chroma-key-vs-masking"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I would like to change the background in a simple scene (a few seconds long, no movement of the actor, a diffuse neutral soft light to match the one in the final background) . I would like the camera to turn 180 degrees around the actor to show what he Is looking at without (at least visible) cuts (i don’t remember how this shot Is called, sorry: semi arc shot?)how would you suggest go do It? A green screen or rotoscoping and masking? The first option seems simpler to me but i think it would require more planning in pre production in terms of set and lights planning, the second is more immediate but masking and rotoscoping require a lot of work in post and i’d avoid it if possible. Any advice? Thanks!",
+  "content_html": "<p>I would like to change the background in a simple scene (a few seconds long, no movement of the actor, a diffuse neutral soft light to match the one in the final background) . I would like the camera to turn 180 degrees around the actor to show what he Is looking at without (at least visible) cuts (i don’t remember how this shot Is called, sorry: semi arc shot?)how would you suggest go do It? A green screen or rotoscoping and masking? The first option seems simpler to me but i think it would require more planning in pre production in terms of set and lights planning, the second is more immediate but masking and rotoscoping require a lot of work in post and i’d avoid it if possible. Any advice? Thanks!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I would like to change the background in a simple scene (a few seconds long, no movement of the actor, a diffuse neutral soft light to match the one in the final background) . I would like the camera to turn 180 degrees around the actor to show what he Is looking at without (at least visible) cuts (i don’t remember how this shot Is called, sorry: semi arc shot?)how would you suggest go do It? A green screen or rotoscoping and masking? The first option seems simpler to me but i think it would require more planning in pre production in terms of set and lights planning, the second is more immediate but masking and rotoscoping require a lot of work in post and i’d avoid it if possible. Any advice? Thanks!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/chroma-key-vs-masking/#post-216004",
+    "scraped_at": "2026-01-15T12:42:20.569565+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/chroma-key-vs-masking/#post-216004",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "57331c88f0ec3004fdd0ed438d29655ef9291100cd7c89b25d4a3125d38742d7",
+    "parser_version": "bbpress-v2"
+  }
+}

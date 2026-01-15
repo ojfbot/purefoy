@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "post_id": "214620",
+    "forum_slug": "team-deakins",
+    "topic_slug": "new-youtube-video-6-20"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Abraham",
+    "role": "Moderator"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello everyone,\nToday, a new video has been posted on the Youtube channel highlighting the recent opening of an exhibition featuring Roger’s still photography from Byways at the FAS44 Gallery in Las Vegas.\nThe link to the video can be found here:\nhttps://www.youtube.com/watch?v=h_faSZvvqLY",
+  "content_html": "<p>Hello everyone,</p>\n<p>Today, a new video has been posted on the Youtube channel highlighting the recent opening of an exhibition featuring Roger’s still photography from Byways at the FAS44 Gallery in Las Vegas.</p>\n<p>The link to the video can be found here: <a href=\"https://www.youtube.com/watch?v=h_faSZvvqLY\" rel=\"nofollow\">https://www.youtube.com/watch?v=h_faSZvvqLY</a></p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello everyone,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Today, a new video has been posted on the Youtube channel highlighting the recent opening of an exhibition featuring Roger’s still photography from Byways at the FAS44 Gallery in Las Vegas."
+    },
+    {
+      "type": "paragraph",
+      "text": "The link to the video can be found here:\nhttps://www.youtube.com/watch?v=h_faSZvvqLY"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.youtube.com/watch?v=h_faSZvvqLY",
+      "text": "https://www.youtube.com/watch?v=h_faSZvvqLY",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/new-youtube-video-6-20/",
+    "scraped_at": "2026-01-15T13:40:02.746274+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/new-youtube-video-6-20/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4dd1b02ade64c6b3ce9bc7b813840e5ab9ee56c191cafa3fc0ab3ccbf2848851",
+    "parser_version": "bbpress-v2"
+  }
+}

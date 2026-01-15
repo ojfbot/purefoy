@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "178570",
+    "forum_slug": "film-talk",
+    "topic_slug": "all-quiet-on-the-western-front",
+    "parent_post_id": "174920",
+    "parent_type": "topic",
+    "position": 11
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If we are going to recommend books of any description here I will put forward ‘Nights of Plague’ from the Turkish author Oran Pamuk. This is quite a relevant read given what the world has been (and is still) going through.",
+  "content_html": "<p>If we are going to recommend books of any description here I will put forward ‘Nights of Plague’ from the Turkish author Oran Pamuk. This is quite a relevant read given what the world has been (and is still) going through.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If we are going to recommend books of any description here I will put forward ‘Nights of Plague’ from the Turkish author Oran Pamuk. This is quite a relevant read given what the world has been (and is still) going through."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/all-quiet-on-the-western-front/#post-178896",
+    "scraped_at": "2026-01-15T14:33:25.367434+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/all-quiet-on-the-western-front/#post-178896",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c1259c4e45166eb10df3187c84584ef471c8163bb97cfbc4f80dc7ba1a6236d3",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "211405",
+    "forum_slug": "composition",
+    "topic_slug": "was-no-country-for-old-men-initially-intended-to-be-169",
+    "parent_post_id": "211108",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "35mm trailers were prepared in both 1.85 “flat” and 2.39 “scope” to match the feature presentation so that the projectionist would not have to change lenses and masks.\nSo clearly in this case the studio marketing division had access to an “open gate” D.I. master to make the 1.85 trailer (and any 16×9 unletterboxed versions needed.) of course, they should have made a 1.85 flat trailer with a 2.39 matte.",
+  "content_html": "<p>35mm trailers were prepared in both 1.85 “flat” and 2.39 “scope” to match the feature presentation so that the projectionist would not have to change lenses and masks.</p>\n<p>So clearly in this case the studio marketing division had access to an “open gate” D.I. master to make the 1.85 trailer (and any 16×9 unletterboxed versions needed.) of course, they should have made a 1.85 flat trailer with a 2.39 matte.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "35mm trailers were prepared in both 1.85 “flat” and 2.39 “scope” to match the feature presentation so that the projectionist would not have to change lenses and masks."
+    },
+    {
+      "type": "paragraph",
+      "text": "So clearly in this case the studio marketing division had access to an “open gate” D.I. master to make the 1.85 trailer (and any 16×9 unletterboxed versions needed.) of course, they should have made a 1.85 flat trailer with a 2.39 matte."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/was-no-country-for-old-men-initially-intended-to-be-169/#post-212801",
+    "scraped_at": "2026-01-15T13:23:25.983065+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/was-no-country-for-old-men-initially-intended-to-be-169/#post-212801",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "20b03805fa676f9b1031ffa5a8ec083ebffdcd3cc0264ce45d43e67288ea6f6b",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/balancing-monitors/#post-189796",
+  "forum_slug": "camera",
+  "topic_slug": "balancing-monitors",
+  "title": "Balancing monitors",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "175337",
+    "175417",
+    "175419",
+    "175435",
+    "185173",
+    "189796"
+  ],
+  "reply_tree": {
+    "post_id": "175337",
+    "post_type": "topic",
+    "author": "Limbo",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "175417",
+        "post_type": "reply",
+        "author": "M Ryan",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "175419",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "175435",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "185173",
+        "post_type": "reply",
+        "author": "James Parsons",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "189796",
+        "post_type": "reply",
+        "author": "James",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/balancing-monitors/#post-189796",
+    "scraped_at": "2026-01-15T15:43:34.865396+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/balancing-monitors/#post-189796",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8d8137d7ada70042239f622433ab0a91bc09aa5a2f757a8b00f86d1a33d051b9",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "ids": {
+    "post_id": "216488",
+    "forum_slug": "forum",
+    "topic_slug": "sicario-close-up"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "au",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nDo you remember how you lit this shot?\nTo me it seems like there is a bounce source (probably a poly) to get that kind of highlights on the skin, but the light seems kind of hard just to be a bounce source. is it a combination of bounce and direct?\nThanks as always,\nAle",
+  "content_html": "<p>Hi Roger,</p>\n<p>Do you remember how you lit this shot?<br/>\nTo me it seems like there is a bounce source (probably a poly) to get that kind of highlights on the skin, but the light seems kind of hard just to be a bounce source. is it a combination of bounce and direct?</p>\n<p>Thanks as always,</p>\n<p>Ale</p>\n<p><img alt=\"sicario\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216488/1q6tt7qeae90l3b99dvz8c3qw7uqab5j.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you remember how you lit this shot?\nTo me it seems like there is a bounce source (probably a poly) to get that kind of highlights on the skin, but the light seems kind of hard just to be a bounce source. is it a combination of bounce and direct?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks as always,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ale"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216488/1q6tt7qeae90l3b99dvz8c3qw7uqab5j.jpg",
+      "alt": "sicario",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario-close-up/#post-216540",
+    "scraped_at": "2026-01-15T15:24:22.291254+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-close-up/#post-216540",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ef7e10a941e12b865baeca417d014c9003ac65b868192660764ca8b612eeaecc",
+    "parser_version": "bbpress-v2"
+  }
+}

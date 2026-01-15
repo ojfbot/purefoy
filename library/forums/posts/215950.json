@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215950",
+    "forum_slug": "forum",
+    "topic_slug": "meter-reading-on-overcast-days",
+    "parent_post_id": "215925",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Tyler F",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Would you shoot it as it were though or were you working under a targeted stop for the scene? IE, if you wanted to shoot at a T2.8 but metered at an 8.0 (depending on camera settings)  would you ND down to get your T2.8? Conversely if you wanted a 5.6 but metered at 2.8 are you bring in your lights to get your desired working stop? I’d be very surprised if you were shooting as it were from the meter.",
+  "content_html": "<p>Would you shoot it as it were though or were you working under a targeted stop for the scene? IE, if you wanted to shoot at a T2.8 but metered at an 8.0 (depending on camera settings)  would you ND down to get your T2.8? Conversely if you wanted a 5.6 but metered at 2.8 are you bring in your lights to get your desired working stop? I’d be very surprised if you were shooting as it were from the meter.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Would you shoot it as it were though or were you working under a targeted stop for the scene? IE, if you wanted to shoot at a T2.8 but metered at an 8.0 (depending on camera settings)  would you ND down to get your T2.8? Conversely if you wanted a 5.6 but metered at 2.8 are you bring in your lights to get your desired working stop? I’d be very surprised if you were shooting as it were from the meter."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/#post-215975",
+    "scraped_at": "2026-01-15T15:43:02.748895+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/#post-215975",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0b954249c89792b8b7a79fc6a7ba334f78bdb298371ebd91408d076a5ccdfbb4",
+    "parser_version": "bbpress-v2"
+  }
+}

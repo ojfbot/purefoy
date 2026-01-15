@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "172430",
+    "forum_slug": "still-photography",
+    "topic_slug": "lighting-for-photography"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Rusalen",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Rogers and James. Hello everyone in this forum. I have a question about lighting for photography. . I’m wondering what Roger would prefer constant lighting or pulsed flashes.\nVisual Arts\nCreativity in all its forms...",
+  "content_html": "<p>Hi Rogers and James. Hello everyone in this forum. I have a question about lighting for photography. . I’m wondering what Roger would prefer constant lighting or pulsed flashes.</p>\n<div class=\"bbp-signature\"><p>Visual Arts<br/>\nCreativity in all its forms...</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Rogers and James. Hello everyone in this forum. I have a question about lighting for photography. . I’m wondering what Roger would prefer constant lighting or pulsed flashes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Visual Arts\nCreativity in all its forms..."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-for-photography/#post-172674",
+    "scraped_at": "2026-01-15T13:05:58.281124+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-photography/#post-172674",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f8d5371e53889693218e21bb1b6d36b103921e8026cfffa2173d538ba6fd0646",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215658",
+    "forum_slug": "forum",
+    "topic_slug": "with-and-without-color",
+    "parent_post_id": "215651",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I love black and white and I shoot all my stills in monochrome. Color can be a distraction – or just eye candy – if it is not well controlled.",
+  "content_html": "<p>I love black and white and I shoot all my stills in monochrome. Color can be a distraction – or just eye candy – if it is not well controlled.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I love black and white and I shoot all my stills in monochrome. Color can be a distraction – or just eye candy – if it is not well controlled."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/with-and-without-color/#post-215658",
+    "scraped_at": "2026-01-15T15:45:50.633446+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/with-and-without-color/#post-215658",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2d9d93dee6c73251dcd34d7d26b1e882ed829b90ddfe9315b9e10c70fa18b20e",
+    "parser_version": "bbpress-v2"
+  }
+}

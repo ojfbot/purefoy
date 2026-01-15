@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "217974",
+    "forum_slug": "camera",
+    "topic_slug": "low-asa-on-alexa-classic",
+    "parent_post_id": "217900",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yes, I have usually found the 800 ASA an advantage. But, regardless, I have always preferred to shoot with the full range of information and control my contrast with lighting. If you want to create an extreme image of the kind you suggest, and have no way to do that on set, I see no reason it can’t be done in the DI.\nI did use bleach bypass when shooting film even with a digital finish. Perhaps adjusting the camera’s rating is similar to a bleach bypass, but I don’t see it making sense when you can so easily create the effect in post these days. Am I missing something?",
+  "content_html": "<p>Yes, I have usually found the 800 ASA an advantage. But, regardless, I have always preferred to shoot with the full range of information and control my contrast with lighting. If you want to create an extreme image of the kind you suggest, and have no way to do that on set, I see no reason it can’t be done in the DI.</p>\n<p>I did use bleach bypass when shooting film even with a digital finish. Perhaps adjusting the camera’s rating is similar to a bleach bypass, but I don’t see it making sense when you can so easily create the effect in post these days. Am I missing something?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yes, I have usually found the 800 ASA an advantage. But, regardless, I have always preferred to shoot with the full range of information and control my contrast with lighting. If you want to create an extreme image of the kind you suggest, and have no way to do that on set, I see no reason it can’t be done in the DI."
+    },
+    {
+      "type": "paragraph",
+      "text": "I did use bleach bypass when shooting film even with a digital finish. Perhaps adjusting the camera’s rating is similar to a bleach bypass, but I don’t see it making sense when you can so easily create the effect in post these days. Am I missing something?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/low-asa-on-alexa-classic/#post-217975",
+    "scraped_at": "2026-01-15T13:15:53.158070+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/low-asa-on-alexa-classic/#post-217975",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "98545910b8b55c7e5afe0cee7360e7bef12eba8dd9c6479ce2ae537147c8a6eb",
+    "parser_version": "bbpress-v2"
+  }
+}

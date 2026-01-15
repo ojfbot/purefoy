@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "214513",
+    "forum_slug": "team-deakins/byways",
+    "topic_slug": "a-brief-thank-you"
+  },
+  "author": {
+    "display_name": "#214513",
+    "role": "Aidan Thornbury"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Participant\nHi James and Roger, I just wanted to thank the both of you and your team for taking the time to to have the book signing and discussion events.\nThe ability to get a chance to meet the both of you and ask a couple of questions in person at Deborah Bell’s this Saturday was a great opportunity, along with being able to say a proper thank you for all the work you’ve done in providing such a profound learning resource in your podcast for those like myself who are still very much cutting their teeth on early work in their career.\nI hope the\nByways\njourney continues to be a positive experience for you both, and thank you for making it one for those of us who could join you.",
+  "content_html": "<div class=\"bbp-topic-header\">\n<div class=\"bbp-meta\">\n<span class=\"bbp-topic-post-date\">May 22, 2023 at 7:22 am</span>\n<a class=\"bbp-topic-permalink\" href=\"https://www.rogerdeakins.com/forums/topic/a-brief-thank-you/\">#214513</a>\n<span class=\"bbp-admin-links\"></span>\n</div><!-- .bbp-meta -->\n</div> .bbp-topic-header \n<div class=\"loop-item--1 user-id-61497 bbp-parent-forum-169249 even post-214513 topic type-topic status-publish hentry\" id=\"post-214513\">\n<div class=\"bbp-topic-author\">\n<a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/aidant/\" title=\"View Aidan Thornbury's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-80 photo\" decoding=\"async\" height=\"80\" loading=\"lazy\" src=\"https://secure.gravatar.com/avatar/708b58e7ed432edda656571c52c497fc?s=80&amp;d=retro&amp;r=g\" srcset=\"https://secure.gravatar.com/avatar/708b58e7ed432edda656571c52c497fc?s=160&amp;d=retro&amp;r=g 2x\" width=\"80\"/></span><span class=\"bbp-author-name\">Aidan Thornbury</span></a><div class=\"bbp-author-role\"><div class=\"\">Participant</div></div>\n<div class=\"tc_display\"><ul></ul></div>\n</div><!-- .bbp-topic-author -->\n<div class=\"bbp-topic-content\">\n<p>Hi James and Roger, I just wanted to thank the both of you and your team for taking the time to to have the book signing and discussion events.</p>\n<p>The ability to get a chance to meet the both of you and ask a couple of questions in person at Deborah Bell’s this Saturday was a great opportunity, along with being able to say a proper thank you for all the work you’ve done in providing such a profound learning resource in your podcast for those like myself who are still very much cutting their teeth on early work in their career.</p>\n<p>I hope the <em>Byways </em>journey continues to be a positive experience for you both, and thank you for making it one for those of us who could join you.</p>\n<p> </p>\n</div><!-- .bbp-topic-content -->\n</div> #post-214513",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi James and Roger, I just wanted to thank the both of you and your team for taking the time to to have the book signing and discussion events."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ability to get a chance to meet the both of you and ask a couple of questions in person at Deborah Bell’s this Saturday was a great opportunity, along with being able to say a proper thank you for all the work you’ve done in providing such a profound learning resource in your podcast for those like myself who are still very much cutting their teeth on early work in their career."
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope the\nByways\njourney continues to be a positive experience for you both, and thank you for making it one for those of us who could join you."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/a-brief-thank-you/",
+      "text": "#214513",
+      "kind": "external"
+    },
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/aidant/",
+      "text": "Aidan Thornbury",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://secure.gravatar.com/avatar/708b58e7ed432edda656571c52c497fc?s=80&d=retro&r=g",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-brief-thank-you/#post-214697",
+    "scraped_at": "2026-01-15T09:42:46.930147+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-brief-thank-you/#post-214697",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cc5f12cb77ae5f84476c432b9e5b69d31bd2bd1309558be3c1f15d704c7d4840",
+    "parser_version": "bbpress-v1"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "217354",
+    "forum_slug": "composition",
+    "topic_slug": "deciding-width-of-ots-shot",
+    "parent_post_id": "217110",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I am just remembering this scene in The confirmist film. There is wider OTS shots. Can anyone tell more wider ots shots in films.",
+  "content_html": "<p>I am just remembering this scene in The confirmist film. There is wider OTS shots. Can anyone tell more wider ots shots in films.<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/217354/605ttoj0sh0bgl9b4vzusyqr1ru5olac.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I am just remembering this scene in The confirmist film. There is wider OTS shots. Can anyone tell more wider ots shots in films."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/217354/605ttoj0sh0bgl9b4vzusyqr1ru5olac.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/deciding-width-of-ots-shot/#post-217479",
+    "scraped_at": "2026-01-15T12:25:59.910093+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/deciding-width-of-ots-shot/#post-217479",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "98ce3086b6c6333a36df195b849df1ba7ca26800f0e9bab5e3e2295356f75349",
+    "parser_version": "bbpress-v2"
+  }
+}

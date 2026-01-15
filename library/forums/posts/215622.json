@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "215622",
+    "forum_slug": "film-talk",
+    "topic_slug": "godland-2022",
+    "parent_post_id": "215606",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Francesanna, If I can join in this conversation, I saw the film yesterday after reading your topic. In my opinion, the movie is really great. The slow pace gives the whole movie a narrative depth (always in my opinion). Some camera movements are really intense, especially for the long pans or tracking shots.\nThe locations are insane and while I saw it sometimes I thought about the difficulties they faced in making those shots. I’m not a purist or film critic, I simply react to what I see, and looking at everything that is produced today for platforms and for high consumption, I find that it is quite rare to find producers intent on producing a similar film, it was absolutely worth it.\nAbout cinematography, always in my opinion and to talk together about the movie, actually I’m not a huge fan of 4:3 aspect ratio, because I think that is a sort of “trend” that cinematographers want to follow (I really don’t love trends) but, in this movie is part of the story and to me enrich the narrative of the movie. I think that if the film had been shot in 1:85 or 2:35 it would have lost a crucial feature of the storytelling, so in this case, the aspect ratio (in my opinion) is really at the service of the story and enhances the narrative.\nThe compositions are really awesome. The movie has a photographic world in which it always remains faithful without betraying it, and this for me is the highest value. There is (in my opinion) always the cinematographer’s research to have the right light and not the “beautiful” one. It’s a very subtle step to think of a shot to make it aesthetically “beautiful”, then losing what should be the photographic essence of the film. I think Maria Von Hausswolff really nailed it!\nSome interiors remind me of some paintings by Carl Holsøe. I loved also the color palettes of the scenes as well as the stunning weather conditions of the exteriors.\nSo this is just my opinion, thank you for suggesting this movie, I really enjoyed it!\nI apologize for my English.\nHave a nice day,\nMax.",
+  "content_html": "<p>Hello Francesanna, If I can join in this conversation, I saw the film yesterday after reading your topic. In my opinion, the movie is really great. The slow pace gives the whole movie a narrative depth (always in my opinion). Some camera movements are really intense, especially for the long pans or tracking shots.<br/>\nThe locations are insane and while I saw it sometimes I thought about the difficulties they faced in making those shots. I’m not a purist or film critic, I simply react to what I see, and looking at everything that is produced today for platforms and for high consumption, I find that it is quite rare to find producers intent on producing a similar film, it was absolutely worth it.</p>\n<p>About cinematography, always in my opinion and to talk together about the movie, actually I’m not a huge fan of 4:3 aspect ratio, because I think that is a sort of “trend” that cinematographers want to follow (I really don’t love trends) but, in this movie is part of the story and to me enrich the narrative of the movie. I think that if the film had been shot in 1:85 or 2:35 it would have lost a crucial feature of the storytelling, so in this case, the aspect ratio (in my opinion) is really at the service of the story and enhances the narrative.<br/>\nThe compositions are really awesome. The movie has a photographic world in which it always remains faithful without betraying it, and this for me is the highest value. There is (in my opinion) always the cinematographer’s research to have the right light and not the “beautiful” one. It’s a very subtle step to think of a shot to make it aesthetically “beautiful”, then losing what should be the photographic essence of the film. I think Maria Von Hausswolff really nailed it!<br/>\nSome interiors remind me of some paintings by Carl Holsøe. I loved also the color palettes of the scenes as well as the stunning weather conditions of the exteriors.</p>\n<p>So this is just my opinion, thank you for suggesting this movie, I really enjoyed it!</p>\n<p>I apologize for my English.<br/>\nHave a nice day,</p>\n<p>Max.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Francesanna, If I can join in this conversation, I saw the film yesterday after reading your topic. In my opinion, the movie is really great. The slow pace gives the whole movie a narrative depth (always in my opinion). Some camera movements are really intense, especially for the long pans or tracking shots.\nThe locations are insane and while I saw it sometimes I thought about the difficulties they faced in making those shots. I’m not a purist or film critic, I simply react to what I see, and looking at everything that is produced today for platforms and for high consumption, I find that it is quite rare to find producers intent on producing a similar film, it was absolutely worth it."
+    },
+    {
+      "type": "paragraph",
+      "text": "About cinematography, always in my opinion and to talk together about the movie, actually I’m not a huge fan of 4:3 aspect ratio, because I think that is a sort of “trend” that cinematographers want to follow (I really don’t love trends) but, in this movie is part of the story and to me enrich the narrative of the movie. I think that if the film had been shot in 1:85 or 2:35 it would have lost a crucial feature of the storytelling, so in this case, the aspect ratio (in my opinion) is really at the service of the story and enhances the narrative.\nThe compositions are really awesome. The movie has a photographic world in which it always remains faithful without betraying it, and this for me is the highest value. There is (in my opinion) always the cinematographer’s research to have the right light and not the “beautiful” one. It’s a very subtle step to think of a shot to make it aesthetically “beautiful”, then losing what should be the photographic essence of the film. I think Maria Von Hausswolff really nailed it!\nSome interiors remind me of some paintings by Carl Holsøe. I loved also the color palettes of the scenes as well as the stunning weather conditions of the exteriors."
+    },
+    {
+      "type": "paragraph",
+      "text": "So this is just my opinion, thank you for suggesting this movie, I really enjoyed it!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I apologize for my English.\nHave a nice day,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Max."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/godland-2022/#post-215622",
+    "scraped_at": "2026-01-15T13:16:17.939495+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/godland-2022/#post-215622",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ea942a17a9b02a3a4c63211f365127c7838ab5ec1a93f77c1e017ef534e52b78",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "ids": {
+    "post_id": "184987",
+    "forum_slug": "website-news",
+    "topic_slug": "recovering-the-old-forums-need-help",
+    "parent_post_id": "174482",
+    "parent_type": "topic",
+    "position": 24
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The repeated disrespect for working professionals offering their knowledge for free during their own leisure time is immensely disappointing to me. I can’t think of something that would be less incentivizing to getting what you want than expressing ingratitude and entitlement. Furthermore, you are on a private website that the Deakins’ pay for themselves and which they can administrate however they wish.\nIf you want to read old posts the links I gave previously in this thread will allow you to access many of them. I see now that the 2015 web capture has many broken webpages, so here is the most recent version I could find that seems to be in working order\nhttps://web.archive.org/web/20150813085239/http://www.deakinsonline.com/forum2/index.php",
+  "content_html": "<p>The repeated disrespect for working professionals offering their knowledge for free during their own leisure time is immensely disappointing to me. I can’t think of something that would be less incentivizing to getting what you want than expressing ingratitude and entitlement. Furthermore, you are on a private website that the Deakins’ pay for themselves and which they can administrate however they wish.</p>\n<p>If you want to read old posts the links I gave previously in this thread will allow you to access many of them. I see now that the 2015 web capture has many broken webpages, so here is the most recent version I could find that seems to be in working order <a href=\"https://web.archive.org/web/20150813085239/http://www.deakinsonline.com/forum2/index.php\" rel=\"nofollow\">https://web.archive.org/web/20150813085239/http://www.deakinsonline.com/forum2/index.php</a></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The repeated disrespect for working professionals offering their knowledge for free during their own leisure time is immensely disappointing to me. I can’t think of something that would be less incentivizing to getting what you want than expressing ingratitude and entitlement. Furthermore, you are on a private website that the Deakins’ pay for themselves and which they can administrate however they wish."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to read old posts the links I gave previously in this thread will allow you to access many of them. I see now that the 2015 web capture has many broken webpages, so here is the most recent version I could find that seems to be in working order\nhttps://web.archive.org/web/20150813085239/http://www.deakinsonline.com/forum2/index.php"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://web.archive.org/web/20150813085239/http://www.deakinsonline.com/forum2/index.php",
+      "text": "https://web.archive.org/web/20150813085239/http://www.deakinsonline.com/forum2/index.php",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/page/2/",
+    "scraped_at": "2026-01-15T12:42:29.518617+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "772a24e2931b2f8506d8730f19c75701b5f50a5d7aa79f458b822b70a509de0d",
+    "parser_version": "bbpress-v2"
+  }
+}

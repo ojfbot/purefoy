@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/the-marvelous-mrs-maisel-stage-lights/#post-216767",
+  "forum_slug": "forum",
+  "topic_slug": "the-marvelous-mrs-maisel-stage-lights",
+  "title": "The Marvelous Mrs. Maisel stage lights",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216760",
+    "216761",
+    "216762",
+    "216763",
+    "216767"
+  ],
+  "reply_tree": {
+    "post_id": "216760",
+    "post_type": "topic",
+    "author": "caiyichenweg",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216761",
+        "post_type": "reply",
+        "author": "caiyichenweg",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216762",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216763",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216767",
+        "post_type": "reply",
+        "author": "caiyichenweg",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-marvelous-mrs-maisel-stage-lights/#post-216767",
+    "scraped_at": "2026-01-15T15:22:58.024382+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-marvelous-mrs-maisel-stage-lights/#post-216767",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "07403894ae46bf9b34d3d119841a9d4484d237fe487128427ea30878a5c51664",
+    "parser_version": "bbpress-v2"
+  }
+}

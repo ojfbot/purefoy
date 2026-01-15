@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "185601",
+    "forum_slug": "camera",
+    "topic_slug": "sony-picture-profiles-cine-s-log-hlg-and-noise",
+    "parent_post_id": "181191",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "JoeWilsonsWar",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I shoot mostly on Sony and there are a lot of variables here, but the noise is introduced the farther you go from the sensors native ISO.  Your picture profiles won’t come into play that much here. I’m not sure how the a6400 handles s-log but you usually need a bit more light when shooting in that format, which is why they advise against it in lower lighting conditions. This isn’y always the case, but it really depends on the sensor and if it’s true log or not.\nThe short answer is that if you want the least amount of noise possible you’re going to need decent light. Find out what the native ISO is for your camera and try to shoot as close to that as possible. There shouldn’t be any additional noise though from a profile.",
+  "content_html": "<p>I shoot mostly on Sony and there are a lot of variables here, but the noise is introduced the farther you go from the sensors native ISO.  Your picture profiles won’t come into play that much here. I’m not sure how the a6400 handles s-log but you usually need a bit more light when shooting in that format, which is why they advise against it in lower lighting conditions. This isn’y always the case, but it really depends on the sensor and if it’s true log or not.</p>\n<p>The short answer is that if you want the least amount of noise possible you’re going to need decent light. Find out what the native ISO is for your camera and try to shoot as close to that as possible. There shouldn’t be any additional noise though from a profile.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I shoot mostly on Sony and there are a lot of variables here, but the noise is introduced the farther you go from the sensors native ISO.  Your picture profiles won’t come into play that much here. I’m not sure how the a6400 handles s-log but you usually need a bit more light when shooting in that format, which is why they advise against it in lower lighting conditions. This isn’y always the case, but it really depends on the sensor and if it’s true log or not."
+    },
+    {
+      "type": "paragraph",
+      "text": "The short answer is that if you want the least amount of noise possible you’re going to need decent light. Find out what the native ISO is for your camera and try to shoot as close to that as possible. There shouldn’t be any additional noise though from a profile."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sony-picture-profiles-cine-s-log-hlg-and-noise/#post-185601",
+    "scraped_at": "2026-01-15T15:43:52.857746+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sony-picture-profiles-cine-s-log-hlg-and-noise/#post-185601",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "91b5b63745bfb572519be9d3389920de7eb3d406fb2ed4c6227d317dbb8e4b1d",
+    "parser_version": "bbpress-v2"
+  }
+}

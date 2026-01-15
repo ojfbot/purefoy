@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216150",
+    "forum_slug": "camera",
+    "topic_slug": "handheld-movies",
+    "parent_post_id": "216147",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks David. I really need to watch fully hand held shot movies. Not partially one scene or some particular scenes.",
+  "content_html": "<p>Thanks David. I really need to watch fully hand held shot movies. Not partially one scene or some particular scenes.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks David. I really need to watch fully hand held shot movies. Not partially one scene or some particular scenes."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/handheld-movies/#post-216169",
+    "scraped_at": "2026-01-15T14:50:59.132299+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/handheld-movies/#post-216169",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f6179c4be0ddad0cb0cb54e0e1b24e9dac074b2a8172abd0d782bb67e5e158d1",
+    "parser_version": "bbpress-v2"
+  }
+}

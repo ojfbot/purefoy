@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "217408",
+    "forum_slug": "forum",
+    "topic_slug": "70s-disco-short-film-hard-or-soft-light"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Indiana_Wilson",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mr. Deakins.\nI am a film student and I will soon be shooting a short film with a 70s disco club dance scene. It is meant to reminisce\nSaturday Night Fever\nand\nBoogie Nights.\nMost of the references I have seen are lit with overhead colored lights (par cans etc) rigged to the ceiling, but I am not 100% confident I will be able to get flattering enough light on the actors’ faces this way. I am leaning towards rigging an 8×8 LT grid booklight off to the side of the dancefloor and accent with the par cans, but am worried that will then take away the drama of the hard light.\nI would greatly appreciate any input, Sir.",
+  "content_html": "<p>Hello Mr. Deakins.</p>\n<p>I am a film student and I will soon be shooting a short film with a 70s disco club dance scene. It is meant to reminisce <em>Saturday Night Fever</em> and <em>Boogie Nights.</em></p>\n<p>Most of the references I have seen are lit with overhead colored lights (par cans etc) rigged to the ceiling, but I am not 100% confident I will be able to get flattering enough light on the actors’ faces this way. I am leaning towards rigging an 8×8 LT grid booklight off to the side of the dancefloor and accent with the par cans, but am worried that will then take away the drama of the hard light.</p>\n<p>I would greatly appreciate any input, Sir.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mr. Deakins."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am a film student and I will soon be shooting a short film with a 70s disco club dance scene. It is meant to reminisce\nSaturday Night Fever\nand\nBoogie Nights."
+    },
+    {
+      "type": "paragraph",
+      "text": "Most of the references I have seen are lit with overhead colored lights (par cans etc) rigged to the ceiling, but I am not 100% confident I will be able to get flattering enough light on the actors’ faces this way. I am leaning towards rigging an 8×8 LT grid booklight off to the side of the dancefloor and accent with the par cans, but am worried that will then take away the drama of the hard light."
+    },
+    {
+      "type": "paragraph",
+      "text": "I would greatly appreciate any input, Sir."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/70s-disco-short-film-hard-or-soft-light/#post-217412",
+    "scraped_at": "2026-01-15T15:20:57.713304+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/70s-disco-short-film-hard-or-soft-light/#post-217412",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8d239982c1a8481f3c6d887ff42366ad2d1e2ae2771ee5f2d912b4a39a6e9496",
+    "parser_version": "bbpress-v2"
+  }
+}

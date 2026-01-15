@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/lens-choice/#post-216725",
+  "forum_slug": "camera",
+  "topic_slug": "lens-choice",
+  "title": "Lens Choice",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216677",
+    "216725"
+  ],
+  "reply_tree": {
+    "post_id": "216677",
+    "post_type": "topic",
+    "author": "Joh",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216725",
+        "post_type": "reply",
+        "author": "Buckarooshooter",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lens-choice/#post-216725",
+    "scraped_at": "2026-01-15T13:23:57.918174+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lens-choice/#post-216725",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d6b82edb80db5daac6d0cf2207f83bf5fa9f2957f6e73884e401f9aa655a184b",
+    "parser_version": "bbpress-v2"
+  }
+}

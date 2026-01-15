@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/sicario-a-question-regarding-shot-terminology/#post-216590",
+  "forum_slug": "film-talk",
+  "topic_slug": "sicario-a-question-regarding-shot-terminology",
+  "title": "‘Sicario’ – A Question Regarding Shot Terminology",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216581",
+    "216584",
+    "216590"
+  ],
+  "reply_tree": {
+    "post_id": "216581",
+    "post_type": "topic",
+    "author": "Greg Westfall",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216584",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216590",
+        "post_type": "reply",
+        "author": "Greg Westfall",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario-a-question-regarding-shot-terminology/#post-216590",
+    "scraped_at": "2026-01-15T12:26:31.366907+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-a-question-regarding-shot-terminology/#post-216590",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5380569ee47a197d7428cc18d341336f44eb7c12d00d63659532fc3bd0e83c76",
+    "parser_version": "bbpress-v2"
+  }
+}

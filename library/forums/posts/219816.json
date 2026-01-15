@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "219816",
+    "forum_slug": "composition",
+    "topic_slug": "sicario-briefing-room",
+    "parent_post_id": "219668",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "ByongHoon Jo",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "My writing was cutoff so here’s the rest of my question:\nI assume the decision in post was made because Kate seeing the firearms and soldiers conveys her nervousness, and the shot matches well with her eyeline.\nI want to hear from you about why you agreed with the decision in edit, and how you constructed this sequence with perspective in mind. (Or did I make a totally wrong guess)\nThanks.",
+  "content_html": "<p>My writing was cutoff so here’s the rest of my question:</p>\n<p>I assume the decision in post was made because Kate seeing the firearms and soldiers conveys her nervousness, and the shot matches well with her eyeline.</p>\n<p>I want to hear from you about why you agreed with the decision in edit, and how you constructed this sequence with perspective in mind. (Or did I make a totally wrong guess)</p>\n<p>Thanks.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "My writing was cutoff so here’s the rest of my question:"
+    },
+    {
+      "type": "paragraph",
+      "text": "I assume the decision in post was made because Kate seeing the firearms and soldiers conveys her nervousness, and the shot matches well with her eyeline."
+    },
+    {
+      "type": "paragraph",
+      "text": "I want to hear from you about why you agreed with the decision in edit, and how you constructed this sequence with perspective in mind. (Or did I make a totally wrong guess)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario-briefing-room/#post-220376",
+    "scraped_at": "2026-01-15T11:50:52.768201+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-briefing-room/#post-220376",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "98e5dba3b095809670656f4425b3241c700b5b77ae3f4c700a546e053c798f28",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "170152",
+    "forum_slug": "post",
+    "topic_slug": "changing-the-cinematographers-exposure-values-in-post"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Willian E. Aleman",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello everybody!\nIt’s a convention among color grading tutors to teach colorist students to start grading by changing the cinematographer exposure values made on-set to match the camera manufacturer’s 18% middle gray specifications.\nThis is a common practice when matching cameras shot with different manufacturers within the same film production. All exposure values are reduced to 18% middle gray.\nShould the cinematographer’s exposure —compensation— values in reference to18% middle gray be respected in post during color grading?\nIn other words, does changing the cinematographer’s exposure value to 18% gray alter the technical and aesthetic creative decisions made on-set?\nKind regards,\nWillian Aleman\nColorist\nNYC",
+  "content_html": "<p>Hello everybody!</p>\n<p>It’s a convention among color grading tutors to teach colorist students to start grading by changing the cinematographer exposure values made on-set to match the camera manufacturer’s 18% middle gray specifications.<br/>\nThis is a common practice when matching cameras shot with different manufacturers within the same film production. All exposure values are reduced to 18% middle gray.</p>\n<p>Should the cinematographer’s exposure —compensation— values in reference to18% middle gray be respected in post during color grading?<br/>\nIn other words, does changing the cinematographer’s exposure value to 18% gray alter the technical and aesthetic creative decisions made on-set?</p>\n<p>Kind regards,</p>\n<p>Willian Aleman<br/>\nColorist<br/>\nNYC</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello everybody!"
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s a convention among color grading tutors to teach colorist students to start grading by changing the cinematographer exposure values made on-set to match the camera manufacturer’s 18% middle gray specifications.\nThis is a common practice when matching cameras shot with different manufacturers within the same film production. All exposure values are reduced to 18% middle gray."
+    },
+    {
+      "type": "paragraph",
+      "text": "Should the cinematographer’s exposure —compensation— values in reference to18% middle gray be respected in post during color grading?\nIn other words, does changing the cinematographer’s exposure value to 18% gray alter the technical and aesthetic creative decisions made on-set?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kind regards,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Willian Aleman\nColorist\nNYC"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/changing-the-cinematographers-exposure-values-in-post/#post-214706",
+    "scraped_at": "2026-01-15T13:16:10.625552+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/changing-the-cinematographers-exposure-values-in-post/#post-214706",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e6992f45aae19ac69a1c382b1a8515e4f58b1fb2325a0d78cc4bb93dc443ff47",
+    "parser_version": "bbpress-v2"
+  }
+}

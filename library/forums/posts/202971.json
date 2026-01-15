@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "202971",
+    "forum_slug": "camera",
+    "topic_slug": "exposed-for-film",
+    "parent_post_id": "202780",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t understand the suggestion to look at the digital exposure and then add 1 or 2 stops to the film. That makes no sense. An exposure is an exposure. Of course, that will vary depending on the speed of the film verses that of the digital camera and you may prefer the look of a ‘thick negative’ but that you can only find out by personal experience.",
+  "content_html": "<p>I don’t understand the suggestion to look at the digital exposure and then add 1 or 2 stops to the film. That makes no sense. An exposure is an exposure. Of course, that will vary depending on the speed of the film verses that of the digital camera and you may prefer the look of a ‘thick negative’ but that you can only find out by personal experience.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t understand the suggestion to look at the digital exposure and then add 1 or 2 stops to the film. That makes no sense. An exposure is an exposure. Of course, that will vary depending on the speed of the film verses that of the digital camera and you may prefer the look of a ‘thick negative’ but that you can only find out by personal experience."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposed-for-film/#post-203076",
+    "scraped_at": "2026-01-15T15:42:25.212295+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposed-for-film/#post-203076",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "191b0ac849fdbf5e19688f4fdb40691ce8bdb1ca3c739fb29aa82a02ade6f827",
+    "parser_version": "bbpress-v2"
+  }
+}

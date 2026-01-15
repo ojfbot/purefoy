@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "216197",
+    "forum_slug": "camera",
+    "topic_slug": "look-of-film-in-2024"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Ryan Jackson",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger and All,\nTo my eye, the look of movies shot on film has changed a lot in recent years, which I think is owing to the phasing out of film prints due to digital projection.\nUp until the early 2010’s movies were predominantly projected from film prints, which I believe defined the “look of film” up until that point. As this is all you would really see when you went to the cinema and to my knowledge, any television, VHS, or DVD (and now Blu-Ray) copy would be taken from the prints (please correct me if I’m wrong on this). But once digital projection became the primary projection medium, the “look of film” has been associated with scans directly from the negative which are then graded in the DI and released digitally.\nTo me, it feels like modern movies shot on film have a different quality, colour, and look to them than those released before widespread digital projection. I suppose this could be partly due to the advent of the Vision3 Kodak stocks compared to earlier iterations but it seems to me that the one biggest change to the look was the phasing out of film prints.\nWould anyone have any thoughts on this? I could be completely wrong…",
+  "content_html": "<p>Hi Roger and All,</p>\n<p>To my eye, the look of movies shot on film has changed a lot in recent years, which I think is owing to the phasing out of film prints due to digital projection.</p>\n<p>Up until the early 2010’s movies were predominantly projected from film prints, which I believe defined the “look of film” up until that point. As this is all you would really see when you went to the cinema and to my knowledge, any television, VHS, or DVD (and now Blu-Ray) copy would be taken from the prints (please correct me if I’m wrong on this). But once digital projection became the primary projection medium, the “look of film” has been associated with scans directly from the negative which are then graded in the DI and released digitally.</p>\n<p>To me, it feels like modern movies shot on film have a different quality, colour, and look to them than those released before widespread digital projection. I suppose this could be partly due to the advent of the Vision3 Kodak stocks compared to earlier iterations but it seems to me that the one biggest change to the look was the phasing out of film prints.</p>\n<p>Would anyone have any thoughts on this? I could be completely wrong…</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger and All,"
+    },
+    {
+      "type": "paragraph",
+      "text": "To my eye, the look of movies shot on film has changed a lot in recent years, which I think is owing to the phasing out of film prints due to digital projection."
+    },
+    {
+      "type": "paragraph",
+      "text": "Up until the early 2010’s movies were predominantly projected from film prints, which I believe defined the “look of film” up until that point. As this is all you would really see when you went to the cinema and to my knowledge, any television, VHS, or DVD (and now Blu-Ray) copy would be taken from the prints (please correct me if I’m wrong on this). But once digital projection became the primary projection medium, the “look of film” has been associated with scans directly from the negative which are then graded in the DI and released digitally."
+    },
+    {
+      "type": "paragraph",
+      "text": "To me, it feels like modern movies shot on film have a different quality, colour, and look to them than those released before widespread digital projection. I suppose this could be partly due to the advent of the Vision3 Kodak stocks compared to earlier iterations but it seems to me that the one biggest change to the look was the phasing out of film prints."
+    },
+    {
+      "type": "paragraph",
+      "text": "Would anyone have any thoughts on this? I could be completely wrong…"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+    "scraped_at": "2026-01-15T14:33:45.471015+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "598690ab6afe825951660207834d535f93fe11d8224989416116e8c5b6eee04f",
+    "parser_version": "bbpress-v2"
+  }
+}

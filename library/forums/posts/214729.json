@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214729",
+    "forum_slug": "forum",
+    "topic_slug": "high-key-lighting-the-commercial-look",
+    "parent_post_id": "214712",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Tyler F",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yea I think that’s an interesting question because I think off the bat, you’re boxing yourself into a style: Comedy needs to look like this or that. Rather, you should do what comes natural to you rather than try to do something because it’s some “established” look to a genre. I was just speaking to a DP whom I respect that shoots according to his taste no matter the setting. Roger Deakins is a perfect example of being able to shoot comedy (albeit dark comedy) with the Coen Brothers, yet still have the traditional look of drama. I think Bradford Young is also another prime example of this. I’d say motivate your main key from the door then use practicals to balance out your interiors. If you need to give extra level, then maybe bounce a light that is “motivated” by the practicals throughout the room.\nLast I might say is hire good gaffers/grips that can take your ideas and make them work for you in a tasteful way.",
+  "content_html": "<p>Yea I think that’s an interesting question because I think off the bat, you’re boxing yourself into a style: Comedy needs to look like this or that. Rather, you should do what comes natural to you rather than try to do something because it’s some “established” look to a genre. I was just speaking to a DP whom I respect that shoots according to his taste no matter the setting. Roger Deakins is a perfect example of being able to shoot comedy (albeit dark comedy) with the Coen Brothers, yet still have the traditional look of drama. I think Bradford Young is also another prime example of this. I’d say motivate your main key from the door then use practicals to balance out your interiors. If you need to give extra level, then maybe bounce a light that is “motivated” by the practicals throughout the room.</p>\n<p>Last I might say is hire good gaffers/grips that can take your ideas and make them work for you in a tasteful way.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yea I think that’s an interesting question because I think off the bat, you’re boxing yourself into a style: Comedy needs to look like this or that. Rather, you should do what comes natural to you rather than try to do something because it’s some “established” look to a genre. I was just speaking to a DP whom I respect that shoots according to his taste no matter the setting. Roger Deakins is a perfect example of being able to shoot comedy (albeit dark comedy) with the Coen Brothers, yet still have the traditional look of drama. I think Bradford Young is also another prime example of this. I’d say motivate your main key from the door then use practicals to balance out your interiors. If you need to give extra level, then maybe bounce a light that is “motivated” by the practicals throughout the room."
+    },
+    {
+      "type": "paragraph",
+      "text": "Last I might say is hire good gaffers/grips that can take your ideas and make them work for you in a tasteful way."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/high-key-lighting-the-commercial-look/#post-215474",
+    "scraped_at": "2026-01-15T15:47:09.417247+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/high-key-lighting-the-commercial-look/#post-215474",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7289264a8e5e7061c81266fdeb037b49766b7c4e4d44c071511c57e89dd5ef5e",
+    "parser_version": "bbpress-v2"
+  }
+}

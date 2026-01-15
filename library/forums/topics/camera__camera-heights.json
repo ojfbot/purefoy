@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/camera-heights/",
+  "forum_slug": "camera",
+  "topic_slug": "camera-heights",
+  "title": "Camera heights",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215816"
+  ],
+  "reply_tree": {
+    "post_id": "215816",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-heights/",
+    "scraped_at": "2026-01-15T15:20:34.250422+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-heights/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5fb0f091932f409217f52c46fa748150603aba4f327983cc95fdf3984e35ce10",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215010",
+    "forum_slug": "camera",
+    "topic_slug": "chasing-a-legacy-a-single-prime",
+    "parent_post_id": "214974",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If I wanted a single prime lens for documentary work on a Super 35 sensor I would probably gravitate to something like the 25mm or 27mm Master Prime as well. The focal length would be suited to a variety of compositions from close-up to wide shot, the wide aperture & the lack of flaring would be good if I didn’t know exactly what lighting conditions would be encountered, close focus is 14″, etc. I’m still not sure if I would buy one though. I might try to find an f/1.4 lens around the same focal length that was at least half as expensive and put the rest of the budget elsewhere. Another user mentioned the Zeiss Otus and I think the 28mm would be a good compromise. You could buy a brand new one and get it cine-converted through Duclos for half of the price of the 25mm MP.",
+  "content_html": "<p>If I wanted a single prime lens for documentary work on a Super 35 sensor I would probably gravitate to something like the 25mm or 27mm Master Prime as well. The focal length would be suited to a variety of compositions from close-up to wide shot, the wide aperture &amp; the lack of flaring would be good if I didn’t know exactly what lighting conditions would be encountered, close focus is 14″, etc. I’m still not sure if I would buy one though. I might try to find an f/1.4 lens around the same focal length that was at least half as expensive and put the rest of the budget elsewhere. Another user mentioned the Zeiss Otus and I think the 28mm would be a good compromise. You could buy a brand new one and get it cine-converted through Duclos for half of the price of the 25mm MP.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If I wanted a single prime lens for documentary work on a Super 35 sensor I would probably gravitate to something like the 25mm or 27mm Master Prime as well. The focal length would be suited to a variety of compositions from close-up to wide shot, the wide aperture & the lack of flaring would be good if I didn’t know exactly what lighting conditions would be encountered, close focus is 14″, etc. I’m still not sure if I would buy one though. I might try to find an f/1.4 lens around the same focal length that was at least half as expensive and put the rest of the budget elsewhere. Another user mentioned the Zeiss Otus and I think the 28mm would be a good compromise. You could buy a brand new one and get it cine-converted through Duclos for half of the price of the 25mm MP."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/chasing-a-legacy-a-single-prime/#post-215018",
+    "scraped_at": "2026-01-15T15:23:54.748730+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/chasing-a-legacy-a-single-prime/#post-215018",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "54f4b3bd485854ed441129f857494f7576987cfdd700d2c60021c5fba4b295da",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214664",
+    "forum_slug": "camera",
+    "topic_slug": "eyes-wide-shut-moving-mirror",
+    "parent_post_id": "214623",
+    "parent_type": "topic",
+    "position": 12
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thats a very effective sequence but Tom Cruise is walking past illuminated shops and would have thought that Stanley didn’t light it that way. It is a very good effect but does look artificial to me, only my opinion of course, unusual for Stanley to accept that.",
+  "content_html": "<p><em>Thats a very effective sequence but Tom Cruise is walking past illuminated shops and would have thought that Stanley didn’t light it that way. It is a very good effect but does look artificial to me, only my opinion of course, unusual for Stanley to accept that.<br/>\n</em></p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thats a very effective sequence but Tom Cruise is walking past illuminated shops and would have thought that Stanley didn’t light it that way. It is a very good effect but does look artificial to me, only my opinion of course, unusual for Stanley to accept that."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/eyes-wide-shut-moving-mirror/",
+    "scraped_at": "2026-01-15T12:08:50.202524+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/eyes-wide-shut-moving-mirror/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f7047ea4d353232e97c7a8774eb3524773ddee5b8599d0ba7572e6532620be40",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "198736",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-setup-workflow"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "jeff791107",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nA situation really troubled me for a few times. Before the actors come in, the gaffer and I have to finish setting up the lightings- which lights puts here and there; diffusion or no diffusion; dimming up or down; exposure level…etc. It often embarrassed me when the actors come on set with makeup ready, I have to re-dial the exposure level or put a diffusion in front of an LED.\nIt makes me unprofessional because everyone is waiting for me. However, I really face a dilemma. You know we couldn’t have the real actor to stand on mark while we set up lighting to see the right level and effect. That’s the job for stand-in. In most cases, the production doesn’t have enough budget for stand-in, so I will have my assistant to be the model. You know not every person have the same skin tone, so the exposure level might look different. Even if we have stand-in with the same skin color, I still have to adjust light position a tiny bit, because the light cast a shadow on the real actor’s hook nose or different hairstyle from the stand-in.\nI’ve heard of that a really famous actor gave the DP a scolding in a big movie. The situation was that the DP open the eyebrow of one of the light during the rehearsal, and the light flares the actor’s eyes. That’s how the actor is pissed off.\nWhat’s your lighting setup workflow with your gaffer? Not all the gaffers are experienced. There might be certain situation that might take brain storm even with an experienced gaffer. What’s your workflow before actors come in? Would like to hear from your advice.",
+  "content_html": "<p>Hi Roger,</p>\n<p>A situation really troubled me for a few times. Before the actors come in, the gaffer and I have to finish setting up the lightings- which lights puts here and there; diffusion or no diffusion; dimming up or down; exposure level…etc. It often embarrassed me when the actors come on set with makeup ready, I have to re-dial the exposure level or put a diffusion in front of an LED.</p>\n<p>It makes me unprofessional because everyone is waiting for me. However, I really face a dilemma. You know we couldn’t have the real actor to stand on mark while we set up lighting to see the right level and effect. That’s the job for stand-in. In most cases, the production doesn’t have enough budget for stand-in, so I will have my assistant to be the model. You know not every person have the same skin tone, so the exposure level might look different. Even if we have stand-in with the same skin color, I still have to adjust light position a tiny bit, because the light cast a shadow on the real actor’s hook nose or different hairstyle from the stand-in.</p>\n<p>I’ve heard of that a really famous actor gave the DP a scolding in a big movie. The situation was that the DP open the eyebrow of one of the light during the rehearsal, and the light flares the actor’s eyes. That’s how the actor is pissed off.</p>\n<p>What’s your lighting setup workflow with your gaffer? Not all the gaffers are experienced. There might be certain situation that might take brain storm even with an experienced gaffer. What’s your workflow before actors come in? Would like to hear from your advice.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "A situation really troubled me for a few times. Before the actors come in, the gaffer and I have to finish setting up the lightings- which lights puts here and there; diffusion or no diffusion; dimming up or down; exposure level…etc. It often embarrassed me when the actors come on set with makeup ready, I have to re-dial the exposure level or put a diffusion in front of an LED."
+    },
+    {
+      "type": "paragraph",
+      "text": "It makes me unprofessional because everyone is waiting for me. However, I really face a dilemma. You know we couldn’t have the real actor to stand on mark while we set up lighting to see the right level and effect. That’s the job for stand-in. In most cases, the production doesn’t have enough budget for stand-in, so I will have my assistant to be the model. You know not every person have the same skin tone, so the exposure level might look different. Even if we have stand-in with the same skin color, I still have to adjust light position a tiny bit, because the light cast a shadow on the real actor’s hook nose or different hairstyle from the stand-in."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve heard of that a really famous actor gave the DP a scolding in a big movie. The situation was that the DP open the eyebrow of one of the light during the rehearsal, and the light flares the actor’s eyes. That’s how the actor is pissed off."
+    },
+    {
+      "type": "paragraph",
+      "text": "What’s your lighting setup workflow with your gaffer? Not all the gaffers are experienced. There might be certain situation that might take brain storm even with an experienced gaffer. What’s your workflow before actors come in? Would like to hear from your advice."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-setup-workflow/#post-199727",
+    "scraped_at": "2026-01-15T15:54:36.694974+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-setup-workflow/#post-199727",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f2c8dfe5aecfd4cb484f97ddf8e32891e9c3edd71d27dbdec69f9eb18ed66a46",
+    "parser_version": "bbpress-v2"
+  }
+}

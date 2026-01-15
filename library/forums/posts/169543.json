@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "169543",
+    "forum_slug": "post",
+    "topic_slug": "do-you-use-post-stabilization"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "BM459",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger,\nI am specifically wondering about 1917, and whether you used digital stabilizing in post to remove or reduce the movement of, say, the trinity rig. I notice that a lot of the time that movement–the slight swaying that you often see with steadicams–is present, where some directors really don’t like that and try to remove it in post. Did you ever use software to create a smoother shot in 1917 or any of your other films or was it all accomplished 100% in camera?",
+  "content_html": "<p>Dear Roger,</p>\n<p>I am specifically wondering about 1917, and whether you used digital stabilizing in post to remove or reduce the movement of, say, the trinity rig. I notice that a lot of the time that movement–the slight swaying that you often see with steadicams–is present, where some directors really don’t like that and try to remove it in post. Did you ever use software to create a smoother shot in 1917 or any of your other films or was it all accomplished 100% in camera?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am specifically wondering about 1917, and whether you used digital stabilizing in post to remove or reduce the movement of, say, the trinity rig. I notice that a lot of the time that movement–the slight swaying that you often see with steadicams–is present, where some directors really don’t like that and try to remove it in post. Did you ever use software to create a smoother shot in 1917 or any of your other films or was it all accomplished 100% in camera?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/do-you-use-post-stabilization/#post-169583",
+    "scraped_at": "2026-01-15T13:56:39.317480+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/do-you-use-post-stabilization/#post-169583",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "88fba83e6733dd7358f0f97263d41706387448c4dd5019f0017c918926b71d5a",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215927",
+    "forum_slug": "forum",
+    "topic_slug": "practical-lighting-on-small-spaces-and-exposure",
+    "parent_post_id": "215917",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "simon m",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Just a tangent to the OP’s question – I find what separates amateurish looking scenes from professional ones is the set dressing.\nStip – the examples you included are a perfect example. So much texture and personal items fill up the intimate space in frame. It seems many lower budget films skip this and the intimate scenes have bare walls in the background. The set dressing really sells it I feel. I realize this is not the DP’s job, but certainly there’s a discussion to be had there.",
+  "content_html": "<p>Just a tangent to the OP’s question – I find what separates amateurish looking scenes from professional ones is the set dressing.<br/>\nStip – the examples you included are a perfect example. So much texture and personal items fill up the intimate space in frame. It seems many lower budget films skip this and the intimate scenes have bare walls in the background. The set dressing really sells it I feel. I realize this is not the DP’s job, but certainly there’s a discussion to be had there.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Just a tangent to the OP’s question – I find what separates amateurish looking scenes from professional ones is the set dressing.\nStip – the examples you included are a perfect example. So much texture and personal items fill up the intimate space in frame. It seems many lower budget films skip this and the intimate scenes have bare walls in the background. The set dressing really sells it I feel. I realize this is not the DP’s job, but certainly there’s a discussion to be had there."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-on-small-spaces-and-exposure/#post-215931",
+    "scraped_at": "2026-01-15T15:43:26.989795+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-on-small-spaces-and-exposure/#post-215931",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8cf135eb9be3f6af016508eabd4bf41eae1acaf5dd5c727711081e72a9b82002",
+    "parser_version": "bbpress-v2"
+  }
+}

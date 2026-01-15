@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220949",
+    "forum_slug": "forum",
+    "topic_slug": "blue-hour-lighting-tips",
+    "parent_post_id": "220934",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think the best advice is be prepared. Storyboard your wish list and keep it simple. You can always embellish your shots if you find you have time. If you have storyboards you can break down what can be shot at dawn and what it dusk. There might also be some you could shoot during the day as long as there is cloud cover.",
+  "content_html": "<p>I think the best advice is be prepared. Storyboard your wish list and keep it simple. You can always embellish your shots if you find you have time. If you have storyboards you can break down what can be shot at dawn and what it dusk. There might also be some you could shoot during the day as long as there is cloud cover.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think the best advice is be prepared. Storyboard your wish list and keep it simple. You can always embellish your shots if you find you have time. If you have storyboards you can break down what can be shot at dawn and what it dusk. There might also be some you could shoot during the day as long as there is cloud cover."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/blue-hour-lighting-tips/#post-220969",
+    "scraped_at": "2026-01-15T12:26:16.546626+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-hour-lighting-tips/#post-220969",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c5b055503d04b1dd190bb91afd95298d8384a6bab21254bf610d082960552dbe",
+    "parser_version": "bbpress-v2"
+  }
+}

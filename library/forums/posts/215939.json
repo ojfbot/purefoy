@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215939",
+    "forum_slug": "film-talk",
+    "topic_slug": "new-project",
+    "parent_post_id": "215909",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Brant",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yes I’m fairly sure that’s the one, and that I saw Roger listed on that production listing in the Production Weekly publication.\nwww.branthadfield.com",
+  "content_html": "<p>Yes I’m fairly sure that’s the one, and that I saw Roger listed on that production listing in the Production Weekly publication.</p>\n<div class=\"bbp-signature\"><p>www.branthadfield.com</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yes I’m fairly sure that’s the one, and that I saw Roger listed on that production listing in the Production Weekly publication."
+    },
+    {
+      "type": "paragraph",
+      "text": "www.branthadfield.com"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/new-project/#post-215939",
+    "scraped_at": "2026-01-15T13:06:03.378955+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/new-project/#post-215939",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d5d9d60181cbb7242c0133fa7e175446d4ebab9db5746cd6d8dedf1f0aceea1f",
+    "parser_version": "bbpress-v2"
+  }
+}

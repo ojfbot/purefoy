@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "212118",
+    "forum_slug": "set-talk",
+    "topic_slug": "education-on-the-more-expensive-things"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Gustavo Perez",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "How did you go about learning things like Green Screen, or camera platforms like cranes and multi axis stabilizers? Did you go for demos or was it a cross that bridge when we get there situation?",
+  "content_html": "<p>How did you go about learning things like Green Screen, or camera platforms like cranes and multi axis stabilizers? Did you go for demos or was it a cross that bridge when we get there situation?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "How did you go about learning things like Green Screen, or camera platforms like cranes and multi axis stabilizers? Did you go for demos or was it a cross that bridge when we get there situation?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/education-on-the-more-expensive-things/#post-212246",
+    "scraped_at": "2026-01-15T13:23:46.162794+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/education-on-the-more-expensive-things/#post-212246",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "de5f1fa79c78385faf6aee643eadcfc63aef35afcbf88e2cb9df425e937b66c9",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214601",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-a-high-school-library-with-limited-resources",
+    "parent_post_id": "213958",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Good job.",
+  "content_html": "<p>Good job.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Good job."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-a-high-school-library-with-limited-resources/#post-214601",
+    "scraped_at": "2026-01-15T15:52:33.594546+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-a-high-school-library-with-limited-resources/#post-214601",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9e43db18a621ee9cd27ce952df905ee06a50c991fc92808d2e3ab1297d2a062f",
+    "parser_version": "bbpress-v2"
+  }
+}

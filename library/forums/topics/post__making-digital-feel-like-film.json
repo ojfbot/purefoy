@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/making-digital-feel-like-film/#post-172916",
+  "forum_slug": "post",
+  "topic_slug": "making-digital-feel-like-film",
+  "title": "Making Digital Feel Like Film",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "172841",
+    "172916"
+  ],
+  "reply_tree": {
+    "post_id": "172841",
+    "post_type": "topic",
+    "author": "Pranav Veluri",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "172916",
+        "post_type": "reply",
+        "author": "M Ryan",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/making-digital-feel-like-film/#post-172916",
+    "scraped_at": "2026-01-15T13:40:04.917749+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/making-digital-feel-like-film/#post-172916",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "21bfa6a8c7ab0cd90d289a2dcbc9943e9902a274d200ff42e7414fb2419da612",
+    "parser_version": "bbpress-v2"
+  }
+}

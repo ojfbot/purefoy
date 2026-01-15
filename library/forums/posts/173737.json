@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "173737",
+    "forum_slug": "camera",
+    "topic_slug": "shooting-a-short-on-16mm"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Andrew C",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi all,\nI’m going to be shooting a short film on 16mm film. It’s my first time shooting with film, and we plan to use the Bolex H16 Reflex with Kodak 7266 Tri-X Reversal Film. I’m a bit nervous, particularly about changing out the film in the dark.\nMy plan is to rely on my light meter for exposure, err on the side of overexposure, and use a tape measure for focus. Going to push the director and actors to rehearse the scenes a lot before we shoot, in order to preserve the film.\nI’m going to do some testing for a few weeks beforehand, exposure wise, from a camera movement perspective, and just get more used to shooting with it.\nAny thoughts or advice is appreciated.\nThank you,\nAndrew",
+  "content_html": "<p>Hi all,</p>\n<p>I’m going to be shooting a short film on 16mm film. It’s my first time shooting with film, and we plan to use the Bolex H16 Reflex with Kodak 7266 Tri-X Reversal Film. I’m a bit nervous, particularly about changing out the film in the dark.</p>\n<p>My plan is to rely on my light meter for exposure, err on the side of overexposure, and use a tape measure for focus. Going to push the director and actors to rehearse the scenes a lot before we shoot, in order to preserve the film.</p>\n<p>I’m going to do some testing for a few weeks beforehand, exposure wise, from a camera movement perspective, and just get more used to shooting with it.</p>\n<p>Any thoughts or advice is appreciated.</p>\n<p>Thank you,</p>\n<p>Andrew</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi all,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m going to be shooting a short film on 16mm film. It’s my first time shooting with film, and we plan to use the Bolex H16 Reflex with Kodak 7266 Tri-X Reversal Film. I’m a bit nervous, particularly about changing out the film in the dark."
+    },
+    {
+      "type": "paragraph",
+      "text": "My plan is to rely on my light meter for exposure, err on the side of overexposure, and use a tape measure for focus. Going to push the director and actors to rehearse the scenes a lot before we shoot, in order to preserve the film."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m going to do some testing for a few weeks beforehand, exposure wise, from a camera movement perspective, and just get more used to shooting with it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any thoughts or advice is appreciated."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Andrew"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-a-short-on-16mm/#post-173926",
+    "scraped_at": "2026-01-15T15:45:44.258481+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-a-short-on-16mm/#post-173926",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9aaa570d21491921fa7290e789047275bc139649f3b2f2133ff18445c0da34b4",
+    "parser_version": "bbpress-v2"
+  }
+}

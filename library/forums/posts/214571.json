@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214571",
+    "forum_slug": "forum",
+    "topic_slug": "how-to-set-exposure-for-an-explosion",
+    "parent_post_id": "214568",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "M Ryan",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Probably from The Marvelous Mrs. Maisel",
+  "content_html": "<p>Probably from The Marvelous Mrs. Maisel</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Probably from The Marvelous Mrs. Maisel"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-set-exposure-for-an-explosion/#post-214696",
+    "scraped_at": "2026-01-15T15:52:06.698266+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-set-exposure-for-an-explosion/#post-214696",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "83f7338ed8e8cfef12c541c408e8779faf8b5f2481fb74ff5ce38252163ab1aa",
+    "parser_version": "bbpress-v2"
+  }
+}

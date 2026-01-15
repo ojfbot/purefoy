@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "210854",
+    "forum_slug": "forum",
+    "topic_slug": "will-a-redhead-equivalent-through-a-lantern-softbox-be-enough-to-supplement-dayl",
+    "parent_post_id": "210499",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I carried a couple of Red Heads when I was shooting documentaries but to augment daylight might be a stretch. of course, it all depends on the level of daylight and the width of your shot. By the time you color correct the lamp and push it through diffusion you are not looking at a very powerful source.",
+  "content_html": "<p>I carried a couple of Red Heads when I was shooting documentaries but to augment daylight might be a stretch. of course, it all depends on the level of daylight and the width of your shot. By the time you color correct the lamp and push it through diffusion you are not looking at a very powerful source.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I carried a couple of Red Heads when I was shooting documentaries but to augment daylight might be a stretch. of course, it all depends on the level of daylight and the width of your shot. By the time you color correct the lamp and push it through diffusion you are not looking at a very powerful source."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/will-a-redhead-equivalent-through-a-lantern-softbox-be-enough-to-supplement-dayl/#post-212178",
+    "scraped_at": "2026-01-15T15:53:27.579498+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/will-a-redhead-equivalent-through-a-lantern-softbox-be-enough-to-supplement-dayl/#post-212178",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d1cd9861d9a352fd730158eb40eb7eee41c725d9abef20d500ff82dde0b19f07",
+    "parser_version": "bbpress-v2"
+  }
+}

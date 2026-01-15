@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "195986",
+    "forum_slug": "camera",
+    "topic_slug": "alexa-65-questions",
+    "parent_post_id": "195546",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I did look a the 65 when it first came out but I have never used on on a film. Maybe, but I am now a fan of the LF and prefer the depth of field of that format.",
+  "content_html": "<p>I did look a the 65 when it first came out but I have never used on on a film. Maybe, but I am now a fan of the LF and prefer the depth of field of that format.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I did look a the 65 when it first came out but I have never used on on a film. Maybe, but I am now a fan of the LF and prefer the depth of field of that format."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/alexa-65-questions/#post-195986",
+    "scraped_at": "2026-01-15T15:43:07.617066+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/alexa-65-questions/#post-195986",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "882ead02565e65a111ff9c756b7123c9628f6ea9a8e589e6428870a0dfad7893",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217195",
+    "forum_slug": "film-talk",
+    "topic_slug": "4k-physical-releases",
+    "parent_post_id": "216845",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rspencerw",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for taking the time to give such a thoughtful response.",
+  "content_html": "<p>Thank you for taking the time to give such a thoughtful response.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for taking the time to give such a thoughtful response."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/4k-physical-releases/#post-217195",
+    "scraped_at": "2026-01-15T12:09:14.270171+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/4k-physical-releases/#post-217195",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bfba577af16d0d119f61e0e94cda2f8a6e2323c62f49b744b2202d94d1662a78",
+    "parser_version": "bbpress-v2"
+  }
+}

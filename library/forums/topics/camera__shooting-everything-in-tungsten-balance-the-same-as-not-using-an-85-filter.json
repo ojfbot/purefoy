@@ -1,0 +1,105 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter/#post-204122",
+  "forum_slug": "camera",
+  "topic_slug": "shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter",
+  "title": "Shooting everything in Tungsten balance the same as not using an 85 filter?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "197364",
+    "197482",
+    "197494",
+    "197534",
+    "197554",
+    "197561",
+    "200195",
+    "203886",
+    "203901",
+    "204122"
+  ],
+  "reply_tree": {
+    "post_id": "197364",
+    "post_type": "topic",
+    "author": "umbrella",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "197482",
+        "post_type": "reply",
+        "author": "gabj3",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "197494",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "197534",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "197554",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "197561",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "200195",
+        "post_type": "reply",
+        "author": "umbrella",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "203886",
+        "post_type": "reply",
+        "author": "Hanno Karl Mertin",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "203901",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "204122",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 9,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter/#post-204122",
+    "scraped_at": "2026-01-15T15:42:19.951315+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter/#post-204122",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "df2b1121b738df19ae561fe24f28ca34359021835957566ad9061e330d06bfa1",
+    "parser_version": "bbpress-v2"
+  }
+}

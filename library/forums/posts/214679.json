@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "214679",
+    "forum_slug": "camera",
+    "topic_slug": "eyes-wide-shut-moving-mirror",
+    "parent_post_id": "214623",
+    "parent_type": "topic",
+    "position": 16
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "In-camera action with no (or very little) editing is the only kind of action that I like. The corridor fight scene in ‘Oldboy’ is my favorite.",
+  "content_html": "<p>In-camera action with no (or very little) editing is the only kind of action that I like. The corridor fight scene in ‘Oldboy’ is my favorite.</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOU8949uj5YI%2Fmaxresdefault.jpg&amp;f=1&amp;nofb=1&amp;ipt=8cf40c863dba8176d918f7200ca1950dabb84b49710c45c0ee90ec93b3da2251&amp;ipo=images\"/></p>\n<p> </p>\n<p><iframe allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"381\" loading=\"lazy\" src=\"https://player.vimeo.com/video/172079279?dnt=1&amp;app_id=122963\" title=\"Oldboy (2003) Long Take\" width=\"678\"></iframe></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In-camera action with no (or very little) editing is the only kind of action that I like. The corridor fight scene in ‘Oldboy’ is my favorite."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOU8949uj5YI%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=8cf40c863dba8176d918f7200ca1950dabb84b49710c45c0ee90ec93b3da2251&ipo=images",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/eyes-wide-shut-moving-mirror/",
+    "scraped_at": "2026-01-15T12:08:50.203206+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/eyes-wide-shut-moving-mirror/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0fd7ddee1705fa6d533acae9fe0047b0af33da3da35d0dddbbf3fa168f28efda",
+    "parser_version": "bbpress-v2"
+  }
+}

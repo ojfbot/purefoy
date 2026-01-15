@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "176411",
+    "forum_slug": "website-news",
+    "topic_slug": "recovering-the-old-forums-need-help",
+    "parent_post_id": "174482",
+    "parent_type": "topic",
+    "position": 20
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Additionally, this is the most recent web capture for the pre-September 2013 version of the forum, before it was hacked and many posts got deleted\nhttps://web.archive.org/web/20130804072010/http://www.deakinsonline.com/forum2/",
+  "content_html": "<p>Additionally, this is the most recent web capture for the pre-September 2013 version of the forum, before it was hacked and many posts got deleted <a href=\"https://web.archive.org/web/20130804072010/http://www.deakinsonline.com/forum2/\" rel=\"nofollow\">https://web.archive.org/web/20130804072010/http://www.deakinsonline.com/forum2/</a></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Additionally, this is the most recent web capture for the pre-September 2013 version of the forum, before it was hacked and many posts got deleted\nhttps://web.archive.org/web/20130804072010/http://www.deakinsonline.com/forum2/"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://web.archive.org/web/20130804072010/http://www.deakinsonline.com/forum2/",
+      "text": "https://web.archive.org/web/20130804072010/http://www.deakinsonline.com/forum2/",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/page/2/",
+    "scraped_at": "2026-01-15T12:42:29.517691+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2261735d6807e6afb453bdad06f955836479537b3a16c43434a529c1cc973a07",
+    "parser_version": "bbpress-v2"
+  }
+}

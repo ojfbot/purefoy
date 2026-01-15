@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214758",
+    "forum_slug": "camera",
+    "topic_slug": "whats-the-deal-with-50mm",
+    "parent_post_id": "214750",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger, the “Ur-Leica” by Barnack dates back to 1914 — that and other early 35mm still cameras were all horizontal movements around 36mm x 24mm and started with a 50mm lens.\nBut the 4-perf 35mm cinema camera predates those and it also used a 50mm!\nSo there must have been a reason why 50mm was used in both systems despite the different fields of view. Was it easier to design and build at a reasonable f-stop? Was it harder to make a 35mm focal length back then with the restriction on number of elements due to light transmission loss that was undistorted on the edges? Larger still camera formats like 4×5 and 8×10 that were in use in the 1800s used longer lenses.",
+  "content_html": "<p>Roger, the “Ur-Leica” by Barnack dates back to 1914 — that and other early 35mm still cameras were all horizontal movements around 36mm x 24mm and started with a 50mm lens.</p>\n<p>But the 4-perf 35mm cinema camera predates those and it also used a 50mm!</p>\n<p>So there must have been a reason why 50mm was used in both systems despite the different fields of view. Was it easier to design and build at a reasonable f-stop? Was it harder to make a 35mm focal length back then with the restriction on number of elements due to light transmission loss that was undistorted on the edges? Larger still camera formats like 4×5 and 8×10 that were in use in the 1800s used longer lenses.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roger, the “Ur-Leica” by Barnack dates back to 1914 — that and other early 35mm still cameras were all horizontal movements around 36mm x 24mm and started with a 50mm lens."
+    },
+    {
+      "type": "paragraph",
+      "text": "But the 4-perf 35mm cinema camera predates those and it also used a 50mm!"
+    },
+    {
+      "type": "paragraph",
+      "text": "So there must have been a reason why 50mm was used in both systems despite the different fields of view. Was it easier to design and build at a reasonable f-stop? Was it harder to make a 35mm focal length back then with the restriction on number of elements due to light transmission loss that was undistorted on the edges? Larger still camera formats like 4×5 and 8×10 that were in use in the 1800s used longer lenses."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/whats-the-deal-with-50mm/#post-214774",
+    "scraped_at": "2026-01-15T15:25:13.285233+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/whats-the-deal-with-50mm/#post-214774",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a438bb3e8c2af35d514030c4c5318470519b1d1a57f5b429d1a66f6a2b7b6440",
+    "parser_version": "bbpress-v2"
+  }
+}

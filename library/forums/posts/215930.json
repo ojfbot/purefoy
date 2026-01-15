@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215930",
+    "forum_slug": "forum",
+    "topic_slug": "practical-lighting-on-small-spaces-and-exposure",
+    "parent_post_id": "215917",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "simon m",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "LucasM: Excellent point. Yes, having a clear intention, using minimalist or intricate set design serves the scene the best.",
+  "content_html": "<p>LucasM: Excellent point. Yes, having a clear intention, using minimalist or intricate set design serves the scene the best.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "LucasM: Excellent point. Yes, having a clear intention, using minimalist or intricate set design serves the scene the best."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-on-small-spaces-and-exposure/#post-215931",
+    "scraped_at": "2026-01-15T15:43:26.990616+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-on-small-spaces-and-exposure/#post-215931",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0c1e54b3ff6ca5b40c6fd4eeeb4aba0f1df443b7cba0d9d83f19300048553d54",
+    "parser_version": "bbpress-v2"
+  }
+}

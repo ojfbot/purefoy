@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215554",
+    "forum_slug": "forum",
+    "topic_slug": "about-low-key-lighting",
+    "parent_post_id": "215519",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Hongqi",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey Stip,\nCould you explain why it has to shot on RAW? Will it work if i captured in Apple Pro RES?\nthanks!",
+  "content_html": "<p>Hey Stip,</p>\n<p>Could you explain why it has to shot on RAW? Will it work if i captured in Apple Pro RES?</p>\n<p>thanks!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey Stip,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Could you explain why it has to shot on RAW? Will it work if i captured in Apple Pro RES?"
+    },
+    {
+      "type": "paragraph",
+      "text": "thanks!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+    "scraped_at": "2026-01-15T15:46:20.708782+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "33b2e37f29a985036b4ba5e14f47aabb14d047b84958ead5af28f28a8256cc08",
+    "parser_version": "bbpress-v2"
+  }
+}

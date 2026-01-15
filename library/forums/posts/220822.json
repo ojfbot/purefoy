@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "220822",
+    "forum_slug": "forum",
+    "topic_slug": "safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings",
+    "parent_post_id": "220739",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "To comment on the first post from Stefano. Protection from a bare bulb is tricky. You can cover the bulb with a wire mesh but that will interfere a little with the sharpness of the emitted light. That was a compromise we used for whenever an actor was below or close to a source. However, for the one corridor shot with the vertical slashes of light we felt there was no need for protection as the bulbs were a ways away from an actor.\nAs far as lighting a stadium for a 400 meter track race, I couldn’t say. Presumably, the existing location has built in lighting. Whether I would use it or not would depend on many factors: the script, the shots required, budget, the length of the shoot, whether slow motion is involved. I’m sure there are a few more. However, I would suggest that it is most common to augment existing light sources rather than start from scratch. I did light one stadium for a night shoot and I just was not allowed enough units to do justice to the scene – regardless that I had three 96K Musco lights!",
+  "content_html": "<p>To comment on the first post from Stefano. Protection from a bare bulb is tricky. You can cover the bulb with a wire mesh but that will interfere a little with the sharpness of the emitted light. That was a compromise we used for whenever an actor was below or close to a source. However, for the one corridor shot with the vertical slashes of light we felt there was no need for protection as the bulbs were a ways away from an actor.</p>\n<p>As far as lighting a stadium for a 400 meter track race, I couldn’t say. Presumably, the existing location has built in lighting. Whether I would use it or not would depend on many factors: the script, the shots required, budget, the length of the shoot, whether slow motion is involved. I’m sure there are a few more. However, I would suggest that it is most common to augment existing light sources rather than start from scratch. I did light one stadium for a night shoot and I just was not allowed enough units to do justice to the scene – regardless that I had three 96K Musco lights!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "To comment on the first post from Stefano. Protection from a bare bulb is tricky. You can cover the bulb with a wire mesh but that will interfere a little with the sharpness of the emitted light. That was a compromise we used for whenever an actor was below or close to a source. However, for the one corridor shot with the vertical slashes of light we felt there was no need for protection as the bulbs were a ways away from an actor."
+    },
+    {
+      "type": "paragraph",
+      "text": "As far as lighting a stadium for a 400 meter track race, I couldn’t say. Presumably, the existing location has built in lighting. Whether I would use it or not would depend on many factors: the script, the shots required, budget, the length of the shoot, whether slow motion is involved. I’m sure there are a few more. However, I would suggest that it is most common to augment existing light sources rather than start from scratch. I did light one stadium for a night shoot and I just was not allowed enough units to do justice to the scene – regardless that I had three 96K Musco lights!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings/#post-220925",
+    "scraped_at": "2026-01-15T12:26:33.288681+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings/#post-220925",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "367c6a7bea8071f34b049995a61764eeab407b7526cee0f9109911c754c79bea",
+    "parser_version": "bbpress-v2"
+  }
+}

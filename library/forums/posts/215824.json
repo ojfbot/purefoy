@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215824",
+    "forum_slug": "forum",
+    "topic_slug": "how-can-i-light-like-this",
+    "parent_post_id": "215818",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Lighting by ‘Claypaki’  and Lasers restricted to project computer graphics in between dancers never near the audience. Lasers have only restricted use.",
+  "content_html": "<p>Lighting by ‘Claypaki’  and Lasers restricted to project computer graphics in between dancers never near the audience. Lasers have only restricted use.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Lighting by ‘Claypaki’  and Lasers restricted to project computer graphics in between dancers never near the audience. Lasers have only restricted use."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-can-i-light-like-this/#post-215842",
+    "scraped_at": "2026-01-15T15:44:13.054277+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-can-i-light-like-this/#post-215842",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "59e8342bae1022efd31f5e536fa900db376462963339af76785662c8edeee3b2",
+    "parser_version": "bbpress-v2"
+  }
+}

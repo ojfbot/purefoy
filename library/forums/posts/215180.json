@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215180",
+    "forum_slug": "camera",
+    "topic_slug": "documentary-advice-for-student",
+    "parent_post_id": "215167",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Tom. G",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for responding! I like your comments on B-roll. That’s a great point about the quality of what we’re shooting.",
+  "content_html": "<p>Thank you for responding! I like your comments on B-roll. That’s a great point about the quality of what we’re shooting.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for responding! I like your comments on B-roll. That’s a great point about the quality of what we’re shooting."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/documentary-advice-for-student/#post-215184",
+    "scraped_at": "2026-01-15T15:23:00.572011+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/documentary-advice-for-student/#post-215184",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "239d7cf443e4d4a4a4076af28507880f04e4f1442a97f5b7c904726cd814b7cf",
+    "parser_version": "bbpress-v2"
+  }
+}

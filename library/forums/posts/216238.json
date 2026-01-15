@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "216238",
+    "forum_slug": "film-talk",
+    "topic_slug": "blade-runner-2049-that-was-a-good-shot"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "evandolsak",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "During an interview with Deakins, he discusses how it’s a bad sign if someone watches your film and states, “that was a great shot.”\nHis point being, the audience should be looking at the film as a whole being great… Not pixel-fucking a frame for how beautiful that shot was. Now I am guilty of fucking the pixel myself, having a specific shot from\nBlade Runner 2049\nas my desktop wallpaper since the film came out. As many are aware, there are particular scenes in the film that stand out so much compared to others. I’m curious, as a young amateur cinematographer, when is it important to prioritize the shot over the fluidity of the film and is this up to the director or the cinematographer?",
+  "content_html": "<p>During an interview with Deakins, he discusses how it’s a bad sign if someone watches your film and states, “that was a great shot.”</p>\n<p>His point being, the audience should be looking at the film as a whole being great… Not pixel-fucking a frame for how beautiful that shot was. Now I am guilty of fucking the pixel myself, having a specific shot from <em>Blade Runner 2049 </em>as my desktop wallpaper since the film came out. As many are aware, there are particular scenes in the film that stand out so much compared to others. I’m curious, as a young amateur cinematographer, when is it important to prioritize the shot over the fluidity of the film and is this up to the director or the cinematographer?</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "During an interview with Deakins, he discusses how it’s a bad sign if someone watches your film and states, “that was a great shot.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "His point being, the audience should be looking at the film as a whole being great… Not pixel-fucking a frame for how beautiful that shot was. Now I am guilty of fucking the pixel myself, having a specific shot from\nBlade Runner 2049\nas my desktop wallpaper since the film came out. As many are aware, there are particular scenes in the film that stand out so much compared to others. I’m curious, as a young amateur cinematographer, when is it important to prioritize the shot over the fluidity of the film and is this up to the director or the cinematographer?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/blade-runner-2049-that-was-a-good-shot/#post-216466",
+    "scraped_at": "2026-01-15T12:48:50.533546+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/blade-runner-2049-that-was-a-good-shot/#post-216466",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "68fb6b218bb353e0965bd2badf436f7f4b8c69c50d26dcd720f479a7c6a2a303",
+    "parser_version": "bbpress-v2"
+  }
+}

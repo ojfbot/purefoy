@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/sf-extreme-conditions/",
+  "forum_slug": "camera",
+  "topic_slug": "sf-extreme-conditions",
+  "title": "SF – Extreme Conditions",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215017"
+  ],
+  "reply_tree": {
+    "post_id": "215017",
+    "post_type": "topic",
+    "author": "Markus CS",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sf-extreme-conditions/",
+    "scraped_at": "2026-01-15T15:23:57.632466+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sf-extreme-conditions/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "895ed2785e3185f065f070f482cb1df728f16a68004e2ef743ae67209b3e9fd7",
+    "parser_version": "bbpress-v2"
+  }
+}

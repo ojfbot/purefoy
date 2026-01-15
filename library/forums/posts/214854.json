@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214854",
+    "forum_slug": "camera",
+    "topic_slug": "scene-coverage",
+    "parent_post_id": "214835",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Master Roger what kind scene you go for conventional master shot with full dialogue. You mentioned various scene. What kind of scene. For instance a group of people’s involving one scenes. You said there is no right or wrong. But people don’t consider any pre conceive idea. Finally i would like to ask about action continuity. Because some times filmmakers use non professional actor’s. That people’s doesn’t know action continuity. Sam peckinpah do conventional master coverage?",
+  "content_html": "<p>Master Roger what kind scene you go for conventional master shot with full dialogue. You mentioned various scene. What kind of scene. For instance a group of people’s involving one scenes. You said there is no right or wrong. But people don’t consider any pre conceive idea. Finally i would like to ask about action continuity. Because some times filmmakers use non professional actor’s. That people’s doesn’t know action continuity. Sam peckinpah do conventional master coverage?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Master Roger what kind scene you go for conventional master shot with full dialogue. You mentioned various scene. What kind of scene. For instance a group of people’s involving one scenes. You said there is no right or wrong. But people don’t consider any pre conceive idea. Finally i would like to ask about action continuity. Because some times filmmakers use non professional actor’s. That people’s doesn’t know action continuity. Sam peckinpah do conventional master coverage?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/scene-coverage/#post-214854",
+    "scraped_at": "2026-01-15T15:24:48.809371+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/scene-coverage/#post-214854",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f6a951ba69ab205171d47a22096398c8d7ef4ff1d8ab1b8d1bad5d617b6879ad",
+    "parser_version": "bbpress-v2"
+  }
+}

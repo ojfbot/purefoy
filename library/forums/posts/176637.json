@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "176637",
+    "forum_slug": "camera",
+    "topic_slug": "how-to-bring-emotional-weight",
+    "parent_post_id": "176539",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Same thing could be said about frontal shots versus shots on the character’s back — sometimes it is more effective emotionally to play the scene with the character’s back to camera or have the character be in darkness and hard to see.  Or shot size, tighter is not always better.\nThere is no formula that you can apply, this is where understanding the text and the actor’s performance informs you as to the approach based on your taste and experience, and there is no single “correct” decision (of course, it is possible to make some bad decisions as well.)",
+  "content_html": "<p>Same thing could be said about frontal shots versus shots on the character’s back — sometimes it is more effective emotionally to play the scene with the character’s back to camera or have the character be in darkness and hard to see.  Or shot size, tighter is not always better.</p>\n<p>There is no formula that you can apply, this is where understanding the text and the actor’s performance informs you as to the approach based on your taste and experience, and there is no single “correct” decision (of course, it is possible to make some bad decisions as well.)</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Same thing could be said about frontal shots versus shots on the character’s back — sometimes it is more effective emotionally to play the scene with the character’s back to camera or have the character be in darkness and hard to see.  Or shot size, tighter is not always better."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no formula that you can apply, this is where understanding the text and the actor’s performance informs you as to the approach based on your taste and experience, and there is no single “correct” decision (of course, it is possible to make some bad decisions as well.)"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-bring-emotional-weight/#post-176637",
+    "scraped_at": "2026-01-15T15:44:38.578406+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-bring-emotional-weight/#post-176637",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6a6ce3cb522bf1cf8bdb8ad942f74b381d084d839ac096453b81c5b51c8151bb",
+    "parser_version": "bbpress-v2"
+  }
+}

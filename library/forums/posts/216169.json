@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216169",
+    "forum_slug": "camera",
+    "topic_slug": "handheld-movies",
+    "parent_post_id": "216147",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I shot Jarhead handheld and the majority of Sid and Nancy as well.",
+  "content_html": "<p>I shot Jarhead handheld and the majority of Sid and Nancy as well.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I shot Jarhead handheld and the majority of Sid and Nancy as well."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/handheld-movies/#post-216169",
+    "scraped_at": "2026-01-15T14:50:59.133490+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/handheld-movies/#post-216169",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "65a518bea5cfc513f98fee3bb83d876e796b2ad73adc5f548709c773169ffab8",
+    "parser_version": "bbpress-v2"
+  }
+}

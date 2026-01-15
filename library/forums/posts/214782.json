@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214782",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 22
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Laurent",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "May I ask you if you work with color charts on set (Color Checker, etc.)?",
+  "content_html": "<p>May I ask you if you work with color charts on set (Color Checker, etc.)?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "May I ask you if you work with color charts on set (Color Checker, etc.)?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+    "scraped_at": "2026-01-15T15:51:27.814956+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3ac86a82f0e58496d866f1b9a806820964e8838bf780868b2bdc30ec62709778",
+    "parser_version": "bbpress-v2"
+  }
+}

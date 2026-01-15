@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "218173",
+    "forum_slug": "film-talk",
+    "topic_slug": "come-and-see"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "IgorVe",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Mr. Deakins,\nYou’ve mentioned Come and See among your favorites – I fully support you on that. But I was shocked to learn that the lead actor now supports modern fascism and Russia’s invasion of Ukraine. It makes me question the power of cinema—if a film that profound couldn’t even impact its own star, are we overestimating its role as art? Or is this just a time when art is losing its influence?",
+  "content_html": "<p>Dear Mr. Deakins,</p>\n<p>You’ve mentioned Come and See among your favorites – I fully support you on that. But I was shocked to learn that the lead actor now supports modern fascism and Russia’s invasion of Ukraine. It makes me question the power of cinema—if a film that profound couldn’t even impact its own star, are we overestimating its role as art? Or is this just a time when art is losing its influence?</p>\n<p><img alt=\"before\" decoding=\"async\" height=\"750\" loading=\"lazy\" src=\"https://i.ibb.co/B2jZ6pKF/IMG-20250511-221307.jpg\" width=\"471\"/></p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://i.ibb.co/SDDwhGzh/Screenshot-2025-05-11-22-12-34-76-40deb401b9ffe8e1df2f1cc5ba480b12.jpg\" width=\"850\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Mr. Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "You’ve mentioned Come and See among your favorites – I fully support you on that. But I was shocked to learn that the lead actor now supports modern fascism and Russia’s invasion of Ukraine. It makes me question the power of cinema—if a film that profound couldn’t even impact its own star, are we overestimating its role as art? Or is this just a time when art is losing its influence?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://i.ibb.co/B2jZ6pKF/IMG-20250511-221307.jpg",
+      "alt": "before",
+      "kind": "image"
+    },
+    {
+      "src": "https://i.ibb.co/SDDwhGzh/Screenshot-2025-05-11-22-12-34-76-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/come-and-see/#post-220074",
+    "scraped_at": "2026-01-15T11:51:11.240193+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/come-and-see/#post-220074",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0850230a3b20417eabf12e9f274598fc871f4373019f5ad9c527bdbd793ae1c0",
+    "parser_version": "bbpress-v2"
+  }
+}

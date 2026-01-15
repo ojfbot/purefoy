@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "post_id": "205199",
+    "forum_slug": "camera",
+    "topic_slug": "is-there-such-a-thing-as-correct-exposure",
+    "parent_post_id": "204770",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Carl",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "quijotesco24 wrote:\nMaybe it’s me but I feel you disregard the technical knowledge as only useful to typical exposure values. Implying there is no need of technical knowledge to shoot something moodier.\nCertainly not my intention, apologies if I came across as such. Of course all the tools and techniques we use apply regardless of what the final image is meant to be. And I apply them myself (false colour etc).\nquijotesco24 wrote:\nBut in the long run is worth it to know exactly what you are doing…\nSure! And that’s where my question ultimately stems from: how much can I get away with, how far can I push it creatively. Understanding the technical side only helps with that, and finding where the line is.\nI suppose asking this question is a result of expanding my technical knowledge, and questioning what can be done with what I’ve learnt.",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/is-there-such-a-thing-as-correct-exposure/#post-205100\">quijotesco24 wrote:</a></div>\n<p>Maybe it’s me but I feel you disregard the technical knowledge as only useful to typical exposure values. Implying there is no need of technical knowledge to shoot something moodier.</p></blockquote>\n<p>Certainly not my intention, apologies if I came across as such. Of course all the tools and techniques we use apply regardless of what the final image is meant to be. And I apply them myself (false colour etc).</p>\n<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/is-there-such-a-thing-as-correct-exposure/#post-205100\">quijotesco24 wrote:</a></div>\n<p>But in the long run is worth it to know exactly what you are doing…</p></blockquote>\n<p>Sure! And that’s where my question ultimately stems from: how much can I get away with, how far can I push it creatively. Understanding the technical side only helps with that, and finding where the line is.</p>\n<p>I suppose asking this question is a result of expanding my technical knowledge, and questioning what can be done with what I’ve learnt.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "quijotesco24 wrote:\nMaybe it’s me but I feel you disregard the technical knowledge as only useful to typical exposure values. Implying there is no need of technical knowledge to shoot something moodier."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe it’s me but I feel you disregard the technical knowledge as only useful to typical exposure values. Implying there is no need of technical knowledge to shoot something moodier."
+    },
+    {
+      "type": "paragraph",
+      "text": "Certainly not my intention, apologies if I came across as such. Of course all the tools and techniques we use apply regardless of what the final image is meant to be. And I apply them myself (false colour etc)."
+    },
+    {
+      "type": "quote",
+      "text": "quijotesco24 wrote:\nBut in the long run is worth it to know exactly what you are doing…"
+    },
+    {
+      "type": "paragraph",
+      "text": "But in the long run is worth it to know exactly what you are doing…"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sure! And that’s where my question ultimately stems from: how much can I get away with, how far can I push it creatively. Understanding the technical side only helps with that, and finding where the line is."
+    },
+    {
+      "type": "paragraph",
+      "text": "I suppose asking this question is a result of expanding my technical knowledge, and questioning what can be done with what I’ve learnt."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "quijotesco24 wrote:\nMaybe it’s me but I feel you disregard the technical knowledge as only useful to typical exposure values. Implying there is no need of technical knowledge to shoot something moodier."
+    },
+    {
+      "text": "quijotesco24 wrote:\nBut in the long run is worth it to know exactly what you are doing…"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/is-there-such-a-thing-as-correct-exposure/#post-205100",
+      "text": "quijotesco24 wrote:",
+      "kind": "external"
+    },
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/is-there-such-a-thing-as-correct-exposure/#post-205100",
+      "text": "quijotesco24 wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/is-there-such-a-thing-as-correct-exposure/#post-205617",
+    "scraped_at": "2026-01-15T15:42:07.800047+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/is-there-such-a-thing-as-correct-exposure/#post-205617",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "af20874972cf1a1f8d2a9656ea7f91633bb9891c4de486507773f21e31c99ac9",
+    "parser_version": "bbpress-v2"
+  }
+}

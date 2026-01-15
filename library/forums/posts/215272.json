@@ -1,0 +1,56 @@
+{
+  "ids": {
+    "post_id": "215272",
+    "forum_slug": "forum",
+    "topic_slug": "light-strenght",
+    "parent_post_id": "215260",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "BlacksheepPictures",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "@dmullenasc\n, thanks that methote works great, but let’s say i have a small corridor and 1 led 60 watt light. i want a mood horror look. it would only look moody between 10-40 %. but than i don’t know what i should choice.\n@lucam\nthanks i will try 🙂",
+  "content_html": "<p><a class=\"bbp-user-mention bbp-user-id-377\" href=\"https://www.rogerdeakins.com/forums/users/dmullenasc/\"> @dmullenasc</a>, thanks that methote works great, but let’s say i have a small corridor and 1 led 60 watt light. i want a mood horror look. it would only look moody between 10-40 %. but than i don’t know what i should choice.</p>\n<p><a class=\"bbp-user-mention bbp-user-id-47037\" href=\"https://www.rogerdeakins.com/forums/users/lucam/\"><br/>\n@lucam</a> thanks i will try 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "@dmullenasc\n, thanks that methote works great, but let’s say i have a small corridor and 1 led 60 watt light. i want a mood horror look. it would only look moody between 10-40 %. but than i don’t know what i should choice."
+    },
+    {
+      "type": "paragraph",
+      "text": "@lucam\nthanks i will try 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/dmullenasc/",
+      "text": "@dmullenasc",
+      "kind": "external"
+    },
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/lucam/",
+      "text": "@lucam",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/light-strenght/#post-215320",
+    "scraped_at": "2026-01-15T15:47:39.492720+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/light-strenght/#post-215320",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4584b390f895b791a6419cc0135d58719c0fe3457b6f7a291c0907027819713a",
+    "parser_version": "bbpress-v2"
+  }
+}

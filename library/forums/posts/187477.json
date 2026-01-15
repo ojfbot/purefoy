@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "187477",
+    "forum_slug": "post",
+    "topic_slug": "printer-lights-and-digital",
+    "parent_post_id": "187460",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "In the digital world it is hard to understand just how ‘well’ the image has been exposed. I do believe that a well exposed image makes a difference and printer lights were a simple way to reflect the true exposure of that image. I like to translate the lab. 7 point scale of exposure to DI timing.",
+  "content_html": "<p>In the digital world it is hard to understand just how ‘well’ the image has been exposed. I do believe that a well exposed image makes a difference and printer lights were a simple way to reflect the true exposure of that image. I like to translate the lab. 7 point scale of exposure to DI timing. </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In the digital world it is hard to understand just how ‘well’ the image has been exposed. I do believe that a well exposed image makes a difference and printer lights were a simple way to reflect the true exposure of that image. I like to translate the lab. 7 point scale of exposure to DI timing."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/printer-lights-and-digital/#post-189193",
+    "scraped_at": "2026-01-15T13:39:52.305072+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/printer-lights-and-digital/#post-189193",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3aa4d128930caa729086624f342dad54ccf742bab2971ec6ab744ba0c07e425e",
+    "parser_version": "bbpress-v2"
+  }
+}

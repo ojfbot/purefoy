@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "195546",
+    "forum_slug": "camera",
+    "topic_slug": "alexa-65-questions"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Davinki",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "hello Roger, have you ever tested that Alexa 65? Also you have sponsors at Arri, you were able to get them to bring a camera to market, could you take one for the team and inquire about an Alexa mini 65 while you’re at it? Just kidding, or am I?",
+  "content_html": "<p>hello Roger, have you ever tested that Alexa 65? Also you have sponsors at Arri, you were able to get them to bring a camera to market, could you take one for the team and inquire about an Alexa mini 65 while you’re at it? Just kidding, or am I?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "hello Roger, have you ever tested that Alexa 65? Also you have sponsors at Arri, you were able to get them to bring a camera to market, could you take one for the team and inquire about an Alexa mini 65 while you’re at it? Just kidding, or am I?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/alexa-65-questions/#post-195986",
+    "scraped_at": "2026-01-15T15:43:07.616701+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/alexa-65-questions/#post-195986",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5f82768e704ad9f97258b09cee15c7f3436681cee14812d182387f53e98a601d",
+    "parser_version": "bbpress-v2"
+  }
+}

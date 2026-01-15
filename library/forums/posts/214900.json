@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214900",
+    "forum_slug": "post",
+    "topic_slug": "bladerunner-2049-vfx-cg-real-miniature-specialeffects",
+    "parent_post_id": "214885",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "sanghamithran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "(A little correction these lines, I can’t seem to edit it) can you pls share your process in some length on lighting and shooting full CG scenes and compositing scenes that goes for CG background in your films, Rango is one of your finest work and I can’t see it any different than your Live action work.\nFirst time I watched  ‘Rango, it sure did felt like the man who shot ‘No country for old men’ and ‘true grit’ had shot this film. It was amazing to discover the signature personality on composition, movement and lighting.",
+  "content_html": "<p>(A little correction these lines, I can’t seem to edit it) can you pls share your process in some length on lighting and shooting full CG scenes and compositing scenes that goes for CG background in your films, Rango is one of your finest work and I can’t see it any different than your Live action work.</p>\n<p>First time I watched  ‘Rango, it sure did felt like the man who shot ‘No country for old men’ and ‘true grit’ had shot this film. It was amazing to discover the signature personality on composition, movement and lighting.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "(A little correction these lines, I can’t seem to edit it) can you pls share your process in some length on lighting and shooting full CG scenes and compositing scenes that goes for CG background in your films, Rango is one of your finest work and I can’t see it any different than your Live action work."
+    },
+    {
+      "type": "paragraph",
+      "text": "First time I watched  ‘Rango, it sure did felt like the man who shot ‘No country for old men’ and ‘true grit’ had shot this film. It was amazing to discover the signature personality on composition, movement and lighting."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bladerunner-2049-vfx-cg-real-miniature-specialeffects/#post-214900",
+    "scraped_at": "2026-01-15T13:15:59.994779+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bladerunner-2049-vfx-cg-real-miniature-specialeffects/#post-214900",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c490dfe9ef58a8aa191fd939a873446566f11c1758790a3603b332f69310cc4f",
+    "parser_version": "bbpress-v2"
+  }
+}

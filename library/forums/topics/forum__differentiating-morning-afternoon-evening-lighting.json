@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/differentiating-morning-afternoon-evening-lighting/#post-214908",
+  "forum_slug": "forum",
+  "topic_slug": "differentiating-morning-afternoon-evening-lighting",
+  "title": "Differentiating Morning/Afternoon/Evening Lighting",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214907",
+    "214908"
+  ],
+  "reply_tree": {
+    "post_id": "214907",
+    "post_type": "topic",
+    "author": "jomosadler",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214908",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/differentiating-morning-afternoon-evening-lighting/#post-214908",
+    "scraped_at": "2026-01-15T15:50:42.348804+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/differentiating-morning-afternoon-evening-lighting/#post-214908",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "71be9dc33327cb7a1ca003f41897f7ac14a1555006a3bb05a3f2dd28361433af",
+    "parser_version": "bbpress-v2"
+  }
+}

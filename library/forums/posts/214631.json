@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214631",
+    "forum_slug": "post",
+    "topic_slug": "exposing-a-heavy-negative-on-film",
+    "parent_post_id": "214629",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Articles at the time mentioned 100T film being used for day exteriors on “No Country for Old Men”.\nYou can get a denser-than-normal negative by either rating the film ISO slower or just increasing the exposure after your meter reading, it’s the same thing. Or by extended development.",
+  "content_html": "<p>Articles at the time mentioned 100T film being used for day exteriors on “No Country for Old Men”.</p>\n<p>You can get a denser-than-normal negative by either rating the film ISO slower or just increasing the exposure after your meter reading, it’s the same thing. Or by extended development.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Articles at the time mentioned 100T film being used for day exteriors on “No Country for Old Men”."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can get a denser-than-normal negative by either rating the film ISO slower or just increasing the exposure after your meter reading, it’s the same thing. Or by extended development."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposing-a-heavy-negative-on-film/#post-214647",
+    "scraped_at": "2026-01-15T13:16:18.344332+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposing-a-heavy-negative-on-film/#post-214647",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9db6e767a45e386d013d32efb55c340988b0b67bf6dcc8887fbf8e43ff964679",
+    "parser_version": "bbpress-v2"
+  }
+}

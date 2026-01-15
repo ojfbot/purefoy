@@ -1,0 +1,145 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+  "forum_slug": "camera",
+  "topic_slug": "zoom-in-vs-dolly-pushing",
+  "title": "Zoom in vs dolly pushing",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215307",
+    "215311",
+    "215321",
+    "215324",
+    "215330",
+    "215334",
+    "215336",
+    "215337",
+    "215340",
+    "215342",
+    "215346",
+    "215355",
+    "215358",
+    "215361",
+    "215365"
+  ],
+  "reply_tree": {
+    "post_id": "215307",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215311",
+        "post_type": "reply",
+        "author": "The Byre",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215321",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215324",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215330",
+        "post_type": "reply",
+        "author": "ThisGuy321",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215334",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215336",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215337",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215340",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215342",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215346",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215355",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215358",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215361",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215365",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 14,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+    "scraped_at": "2026-01-15T15:22:12.557292+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "772a3ebca01a44a7c44c9de7580e65c008c509c5a1f565ab26a3ca9413c6cbca",
+    "parser_version": "bbpress-v2"
+  }
+}

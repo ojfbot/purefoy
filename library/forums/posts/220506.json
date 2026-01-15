@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220506",
+    "forum_slug": "forum",
+    "topic_slug": "exposure-skin-tone",
+    "parent_post_id": "220501",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Well, I wish I could give you a number. It seems to me that you loose saturation immediately you overexpose a surface, whether it be skin or not. The effect of color loss might only become noticeable once you get above a certain level, perhaps a stop or two, but anything above key appears less saturated than at key. Just look at your hand being lit by the light from a window. Take your hand closer to the window and the highlights appear less and less saturated. I’m certain someone will have a more scientific answer.  Maybe the magic number!",
+  "content_html": "<p>Well, I wish I could give you a number. It seems to me that you loose saturation immediately you overexpose a surface, whether it be skin or not. The effect of color loss might only become noticeable once you get above a certain level, perhaps a stop or two, but anything above key appears less saturated than at key. Just look at your hand being lit by the light from a window. Take your hand closer to the window and the highlights appear less and less saturated. I’m certain someone will have a more scientific answer.  Maybe the magic number!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Well, I wish I could give you a number. It seems to me that you loose saturation immediately you overexpose a surface, whether it be skin or not. The effect of color loss might only become noticeable once you get above a certain level, perhaps a stop or two, but anything above key appears less saturated than at key. Just look at your hand being lit by the light from a window. Take your hand closer to the window and the highlights appear less and less saturated. I’m certain someone will have a more scientific answer.  Maybe the magic number!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposure-skin-tone/#post-220576",
+    "scraped_at": "2026-01-15T13:16:22.484107+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposure-skin-tone/#post-220576",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b39580d1528efd6bf0d415feb112f22b850492db0af0187b35ecc38e203b68bc",
+    "parser_version": "bbpress-v2"
+  }
+}

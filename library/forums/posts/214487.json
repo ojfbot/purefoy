@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "214487",
+    "forum_slug": "camera",
+    "topic_slug": "camera-recommendations-for-music-videos"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "1st square Ent",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Ladies and Gents\nWould anyone recommend a highly quality 4k (60/120fps) camera I could use for music videos .I am looking at the Sony a7 iv .but honestly at this point it does cost an arm and a leg . Any high quality alternatives?\nsincerely",
+  "content_html": "<p>Hi Ladies and Gents</p>\n<p>Would anyone recommend a highly quality 4k (60/120fps) camera I could use for music videos .I am looking at the Sony a7 iv .but honestly at this point it does cost an arm and a leg . Any high quality alternatives?</p>\n<p>sincerely</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Ladies and Gents"
+    },
+    {
+      "type": "paragraph",
+      "text": "Would anyone recommend a highly quality 4k (60/120fps) camera I could use for music videos .I am looking at the Sony a7 iv .but honestly at this point it does cost an arm and a leg . Any high quality alternatives?"
+    },
+    {
+      "type": "paragraph",
+      "text": "sincerely"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-recommendations-for-music-videos/#post-214502",
+    "scraped_at": "2026-01-15T15:26:07.248538+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-recommendations-for-music-videos/#post-214502",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "798a43757f4a080d41eced1ca9891f676c18e15a169769af7507325ee70397b0",
+    "parser_version": "bbpress-v2"
+  }
+}

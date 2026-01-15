@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "198282",
+    "forum_slug": "camera",
+    "topic_slug": "inspiration-and-diy-rigs",
+    "parent_post_id": "192046",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "James Parsons",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Of all the wheelchair dollies I built on no-budget shoots, my favorite set up that surprisingly worked was sitting in the wheelchair on a hardwood floor, wearing thick socks with the camera nestled on my feet sliding along the hallway, for an eye-level, low angle view of our mortally wounded protagonist crawling away from his assailant.",
+  "content_html": "<p>Of all the wheelchair dollies I built on no-budget shoots, my favorite set up that surprisingly worked was sitting in the wheelchair on a hardwood floor, wearing thick socks with the camera nestled on my feet sliding along the hallway, for an eye-level, low angle view of our mortally wounded protagonist crawling away from his assailant.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Of all the wheelchair dollies I built on no-budget shoots, my favorite set up that surprisingly worked was sitting in the wheelchair on a hardwood floor, wearing thick socks with the camera nestled on my feet sliding along the hallway, for an eye-level, low angle view of our mortally wounded protagonist crawling away from his assailant."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inspiration-and-diy-rigs/#post-198449",
+    "scraped_at": "2026-01-15T15:43:01.132806+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inspiration-and-diy-rigs/#post-198449",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7d51a4df14ec1e3c686059acd9c1cb90f6f1be15b0774b711d0533199587ae52",
+    "parser_version": "bbpress-v2"
+  }
+}

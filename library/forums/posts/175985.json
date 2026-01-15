@@ -1,0 +1,55 @@
+{
+  "ids": {
+    "post_id": "175985",
+    "forum_slug": "camera",
+    "topic_slug": "cooke-7i-vs-arri-sp",
+    "parent_post_id": "175339",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Ryan Jackson",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger, I too, was wondering this as I was reading through the ASC article about Empire of Light and there is this picture where you are what seems to be framing up a shot but with a Cooke S7 32mm on the camera.\nWas this for another purpose if you didn’t actually shoot with the Cooke?\nThanks!",
+  "content_html": "<p>Hi Roger, I too, was wondering this as I was reading through the ASC article about Empire of Light and there is this picture where you are what seems to be framing up a shot but with a Cooke S7 32mm on the camera.</p>\n<p>Was this for another purpose if you didn’t actually shoot with the Cooke?</p>\n<p>Thanks!</p>\n<p><img alt=\"roger framing shot with posters in the background\" decoding=\"async\" src=\"https://cms-assets.theasc.com/Empire-of-Light-Roger-with-posters.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger, I too, was wondering this as I was reading through the ASC article about Empire of Light and there is this picture where you are what seems to be framing up a shot but with a Cooke S7 32mm on the camera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Was this for another purpose if you didn’t actually shoot with the Cooke?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://cms-assets.theasc.com/Empire-of-Light-Roger-with-posters.jpg",
+      "alt": "roger framing shot with posters in the background",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cooke-7i-vs-arri-sp/#post-176152",
+    "scraped_at": "2026-01-15T15:45:05.537194+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cooke-7i-vs-arri-sp/#post-176152",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8155d5219fad7bb47c7b1eeb826c3a280f8f9c992e8b60ece3452b159af91af3",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216319",
+    "forum_slug": "camera",
+    "topic_slug": "diffusion-filters",
+    "parent_post_id": "216260",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I have a box of around 40 filters of various kinds; fog filters, diffusions, black and white pro mists, even a series of stockings. The last time I opened the box to use one on a film was in the 1980s and I regretted doing so later.",
+  "content_html": "<p>I have a box of around 40 filters of various kinds; fog filters, diffusions, black and white pro mists, even a series of stockings. The last time I opened the box to use one on a film was in the 1980s and I regretted doing so later.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I have a box of around 40 filters of various kinds; fog filters, diffusions, black and white pro mists, even a series of stockings. The last time I opened the box to use one on a film was in the 1980s and I regretted doing so later."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/diffusion-filters/#post-216342",
+    "scraped_at": "2026-01-15T14:17:00.325581+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/diffusion-filters/#post-216342",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5a9389642e53f41ff0b6776c583be4fe376d5538f55800297ed3f84e04e86017",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214956",
+    "forum_slug": "camera",
+    "topic_slug": "using-vintage-s35-lenses-again",
+    "parent_post_id": "214954",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I doubt that as those lenses look so soft and ‘primitive’ compared with an S4 or a Master Prime.",
+  "content_html": "<p>I doubt that as those lenses look so soft and ‘primitive’ compared with an S4 or a Master Prime.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I doubt that as those lenses look so soft and ‘primitive’ compared with an S4 or a Master Prime."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/using-vintage-s35-lenses-again/#post-214956",
+    "scraped_at": "2026-01-15T15:24:21.771874+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/using-vintage-s35-lenses-again/#post-214956",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "eacf328b71c0505bdd0ca75379ac69135d065145c8d283900acd21ca80e7c305",
+    "parser_version": "bbpress-v2"
+  }
+}

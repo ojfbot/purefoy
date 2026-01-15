@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "185551",
+    "forum_slug": "website-news",
+    "topic_slug": "recovering-the-old-forums-need-help",
+    "parent_post_id": "174482",
+    "parent_type": "topic",
+    "position": 30
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "In my original post I intentionally avoided singling out any individual person so as not to be invidious. Needless to say I was referring to multiple forum users who have posted in this topic. I’m not sure how me saying “You are on a private website that the Deakins’ can administrate however they wish” could refer to any posts Vanniyan made, and in fact it’s in direct reply to bizarre statements made by others like “Thank God we live in a democratic world where we enjoy freedom of speech.”\nI particularly resent the accusation that I’m somehow being insensitive toward somebody because they don’t have native fluency in English. Bad manners like being presumptuous (“You are too busy making the podcast and ‘Byways'”) or badgering someone for something, repeatedly asking the same questions and making the same requests when you don’t receive a reply as soon as you would like, are not a matter of a language barrier.",
+  "content_html": "<p>In my original post I intentionally avoided singling out any individual person so as not to be invidious. Needless to say I was referring to multiple forum users who have posted in this topic. I’m not sure how me saying “You are on a private website that the Deakins’ can administrate however they wish” could refer to any posts Vanniyan made, and in fact it’s in direct reply to bizarre statements made by others like “Thank God we live in a democratic world where we enjoy freedom of speech.”</p>\n<p>I particularly resent the accusation that I’m somehow being insensitive toward somebody because they don’t have native fluency in English. Bad manners like being presumptuous (“You are too busy making the podcast and ‘Byways'”) or badgering someone for something, repeatedly asking the same questions and making the same requests when you don’t receive a reply as soon as you would like, are not a matter of a language barrier.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In my original post I intentionally avoided singling out any individual person so as not to be invidious. Needless to say I was referring to multiple forum users who have posted in this topic. I’m not sure how me saying “You are on a private website that the Deakins’ can administrate however they wish” could refer to any posts Vanniyan made, and in fact it’s in direct reply to bizarre statements made by others like “Thank God we live in a democratic world where we enjoy freedom of speech.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "I particularly resent the accusation that I’m somehow being insensitive toward somebody because they don’t have native fluency in English. Bad manners like being presumptuous (“You are too busy making the podcast and ‘Byways'”) or badgering someone for something, repeatedly asking the same questions and making the same requests when you don’t receive a reply as soon as you would like, are not a matter of a language barrier."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/page/2/",
+    "scraped_at": "2026-01-15T12:42:29.520148+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c11429801910d4422283562c7eb21b18a3d550bd4b000cfe0c5945c323752449",
+    "parser_version": "bbpress-v2"
+  }
+}

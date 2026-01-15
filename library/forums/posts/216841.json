@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216841",
+    "forum_slug": "set-talk",
+    "topic_slug": "developing-a-rock-solid-shot-list",
+    "parent_post_id": "216670",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I was wondering if it happens to you or to other cinematographers to collaborate with the editor in the editing phase . I understand that the cinematographer thinks about  how the image tells the story and the editor has to deal with the rythm of the narrative and everything connected with that, but still he or she has to pick the shots created by the cinematographer.  Is there some kind of communication between you and the editor (through the movie director, for example) or do you just suggest ideas and a possible editing with the shots and  cross finger that the editor won’t\nruin\nchange everything?  (of course i suppose there’s also the opposite situation, in which the editor has to find a way to do a good job with poor material).",
+  "content_html": "<p>I was wondering if it happens to you or to other cinematographers to collaborate with the editor in the editing phase . I understand that the cinematographer thinks about  how the image tells the story and the editor has to deal with the rythm of the narrative and everything connected with that, but still he or she has to pick the shots created by the cinematographer.  Is there some kind of communication between you and the editor (through the movie director, for example) or do you just suggest ideas and a possible editing with the shots and  cross finger that the editor won’t <del>ruin</del> change everything?  (of course i suppose there’s also the opposite situation, in which the editor has to find a way to do a good job with poor material).</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I was wondering if it happens to you or to other cinematographers to collaborate with the editor in the editing phase . I understand that the cinematographer thinks about  how the image tells the story and the editor has to deal with the rythm of the narrative and everything connected with that, but still he or she has to pick the shots created by the cinematographer.  Is there some kind of communication between you and the editor (through the movie director, for example) or do you just suggest ideas and a possible editing with the shots and  cross finger that the editor won’t\nruin\nchange everything?  (of course i suppose there’s also the opposite situation, in which the editor has to find a way to do a good job with poor material)."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/developing-a-rock-solid-shot-list/#post-217486",
+    "scraped_at": "2026-01-15T12:08:11.155831+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/developing-a-rock-solid-shot-list/#post-217486",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5bc050d8bba1c96f46406e74ddff7fa7e971688319aa13941330559490e02b52",
+    "parser_version": "bbpress-v2"
+  }
+}

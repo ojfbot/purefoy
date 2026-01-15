@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215734",
+    "forum_slug": "forum",
+    "topic_slug": "post-production",
+    "parent_post_id": "215733",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Kaptenfisk",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thought i posted in the post forum, sorry for that!",
+  "content_html": "<p>Thought i posted in the post forum, sorry for that!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thought i posted in the post forum, sorry for that!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/post-production/#post-215734",
+    "scraped_at": "2026-01-15T15:44:57.655727+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/post-production/#post-215734",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "de366d22212f08601231b10c84a98860a042f3d62189d32925241168aaf42d4d",
+    "parser_version": "bbpress-v2"
+  }
+}

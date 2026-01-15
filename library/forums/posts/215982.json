@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "215982",
+    "forum_slug": "forum",
+    "topic_slug": "br2049-exposure-metering-in-extremely-dark-scene",
+    "parent_post_id": "215966",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for your reply Mr. Mullen. This point of view is reassuring and basically, I agree with you. Some prosumer cameras have problems with the noise floor, in some cases, it is visible also a STOP below the native ISO of the camera, which is probably something related to the codec compression.\nI own a BMPCC6k and I have to say that even at 400 ISO (the first native) the camera has visible noise in the underexposure areas (let’s say around -3 stop) so I’ve “built” my own two LUTs, one with 1/2 STOP of underexposure and one with 1 full STOP of underexposure to have a sort of “lift” in the shadows, but what I think is this:\nif I have a room with 60% of the area at -3-4 STOP (let’s say the noise floor) and 20% at – 5 or more STOP (let’s say pure black) with this “overexpose by 1 stop” method I lift the 60% of the area to -2 stop (out of noise floor) but now I have the 20% of the area in the noise floor. Basically, I’ve shifted the noise floor to other areas, so maybe I will consider understanding the largest area in the frame (and scene) that may have problems with the noise floor and choose whether to bring it above it or not. This is a bit cumbersome and could take away mental energy during a set.\nI haven’t shot with an Alexa yet so I don’t have a reference for the camera, I used a Red some years ago for a low-budget feature film, and in some cases, the DIT told me to “boost” my lights to have a half or a full STOP over in some dark scenes because the camera “suffered” the dimly lit scenes.\nI apologize for my bad English and I wish you a good Sunday.\nMax.",
+  "content_html": "<p>Thank you for your reply Mr. Mullen. This point of view is reassuring and basically, I agree with you. Some prosumer cameras have problems with the noise floor, in some cases, it is visible also a STOP below the native ISO of the camera, which is probably something related to the codec compression.</p>\n<p>I own a BMPCC6k and I have to say that even at 400 ISO (the first native) the camera has visible noise in the underexposure areas (let’s say around -3 stop) so I’ve “built” my own two LUTs, one with 1/2 STOP of underexposure and one with 1 full STOP of underexposure to have a sort of “lift” in the shadows, but what I think is this:<br/>\nif I have a room with 60% of the area at -3-4 STOP (let’s say the noise floor) and 20% at – 5 or more STOP (let’s say pure black) with this “overexpose by 1 stop” method I lift the 60% of the area to -2 stop (out of noise floor) but now I have the 20% of the area in the noise floor. Basically, I’ve shifted the noise floor to other areas, so maybe I will consider understanding the largest area in the frame (and scene) that may have problems with the noise floor and choose whether to bring it above it or not. This is a bit cumbersome and could take away mental energy during a set.</p>\n<p>I haven’t shot with an Alexa yet so I don’t have a reference for the camera, I used a Red some years ago for a low-budget feature film, and in some cases, the DIT told me to “boost” my lights to have a half or a full STOP over in some dark scenes because the camera “suffered” the dimly lit scenes.</p>\n<p>I apologize for my bad English and I wish you a good Sunday.<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for your reply Mr. Mullen. This point of view is reassuring and basically, I agree with you. Some prosumer cameras have problems with the noise floor, in some cases, it is visible also a STOP below the native ISO of the camera, which is probably something related to the codec compression."
+    },
+    {
+      "type": "paragraph",
+      "text": "I own a BMPCC6k and I have to say that even at 400 ISO (the first native) the camera has visible noise in the underexposure areas (let’s say around -3 stop) so I’ve “built” my own two LUTs, one with 1/2 STOP of underexposure and one with 1 full STOP of underexposure to have a sort of “lift” in the shadows, but what I think is this:\nif I have a room with 60% of the area at -3-4 STOP (let’s say the noise floor) and 20% at – 5 or more STOP (let’s say pure black) with this “overexpose by 1 stop” method I lift the 60% of the area to -2 stop (out of noise floor) but now I have the 20% of the area in the noise floor. Basically, I’ve shifted the noise floor to other areas, so maybe I will consider understanding the largest area in the frame (and scene) that may have problems with the noise floor and choose whether to bring it above it or not. This is a bit cumbersome and could take away mental energy during a set."
+    },
+    {
+      "type": "paragraph",
+      "text": "I haven’t shot with an Alexa yet so I don’t have a reference for the camera, I used a Red some years ago for a low-budget feature film, and in some cases, the DIT told me to “boost” my lights to have a half or a full STOP over in some dark scenes because the camera “suffered” the dimly lit scenes."
+    },
+    {
+      "type": "paragraph",
+      "text": "I apologize for my bad English and I wish you a good Sunday.\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/br2049-exposure-metering-in-extremely-dark-scene/#post-215986",
+    "scraped_at": "2026-01-15T15:42:50.301905+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/br2049-exposure-metering-in-extremely-dark-scene/#post-215986",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dd00094beb81cd81922dbaa43e571feacf6dfb91d30e1897082c8004918c16cd",
+    "parser_version": "bbpress-v2"
+  }
+}

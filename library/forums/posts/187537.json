@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "187537",
+    "forum_slug": "camera",
+    "topic_slug": "once-upon-a-time-in-the-west-multiple-coverages"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger when is essential to run a number of cameras to cover a scene. Some scenes, as well as once upon time in the west works ‘best’ in long held ‘master’ shots. Did Sergio Leone use multiple coverages.Some films works better for multiple cuts. Some films works for both. Couple of years ago you said you could give you many examples of ‘films’ constructed with any amount of long grandiose shots that, viewed as a whole, are totally ridiculous. Could you name it some films.",
+  "content_html": "<p>Dear master Roger when is essential to run a number of cameras to cover a scene. Some scenes, as well as once upon time in the west works ‘best’ in long held ‘master’ shots. Did Sergio Leone use multiple coverages.Some films works better for multiple cuts. Some films works for both. Couple of years ago you said you could give you many examples of ‘films’ constructed with any amount of long grandiose shots that, viewed as a whole, are totally ridiculous. Could you name it some films.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger when is essential to run a number of cameras to cover a scene. Some scenes, as well as once upon time in the west works ‘best’ in long held ‘master’ shots. Did Sergio Leone use multiple coverages.Some films works better for multiple cuts. Some films works for both. Couple of years ago you said you could give you many examples of ‘films’ constructed with any amount of long grandiose shots that, viewed as a whole, are totally ridiculous. Could you name it some films."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/once-upon-a-time-in-the-west-multiple-coverages/#post-189943",
+    "scraped_at": "2026-01-15T15:43:22.661005+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/once-upon-a-time-in-the-west-multiple-coverages/#post-189943",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "19220e13023bcca0aeee5ed8601d5f2126943bcbf3aedcc62415d2a7ec8945e9",
+    "parser_version": "bbpress-v2"
+  }
+}

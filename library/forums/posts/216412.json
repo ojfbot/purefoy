@@ -1,0 +1,60 @@
+{
+  "ids": {
+    "post_id": "216412",
+    "forum_slug": "camera",
+    "topic_slug": "framerates-dcps-and-other-deliverables"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Will0",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello all!\nI worked on a project recently that saw me tasked with creating a DCP to submit to film festivals. I had never heard of DCP before this, so I took great pleasure in learning something new.\nThis project in question was shot at 23.976 fps, so if I understand correctly, converting it to a 24 fps DCP playable on theatrical projection systems means the performances captured will be displayed at something like 100.1% of their true pace.\nThen I came across a behind-the-scenes shot from the set of Sicario, which showed a monitor that indicated the camera was set to 23.976 fps.\nMy question to Roger or anyone who can shed some wisdom is: Why not always shoot at 24 fps, if that is what’s mandated for a DCP?",
+  "content_html": "<p>Hello all!</p>\n<p>I worked on a project recently that saw me tasked with creating a DCP to submit to film festivals. I had never heard of DCP before this, so I took great pleasure in learning something new.</p>\n<p>This project in question was shot at 23.976 fps, so if I understand correctly, converting it to a 24 fps DCP playable on theatrical projection systems means the performances captured will be displayed at something like 100.1% of their true pace.</p>\n<p>Then I came across a behind-the-scenes shot from the set of Sicario, which showed a monitor that indicated the camera was set to 23.976 fps.</p>\n<p>My question to Roger or anyone who can shed some wisdom is: Why not always shoot at 24 fps, if that is what’s mandated for a DCP?<img alt=\"Sicario bts screengrab\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216412/6ssce9tkk5vuohjv59k2wbthkwx642b8.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello all!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I worked on a project recently that saw me tasked with creating a DCP to submit to film festivals. I had never heard of DCP before this, so I took great pleasure in learning something new."
+    },
+    {
+      "type": "paragraph",
+      "text": "This project in question was shot at 23.976 fps, so if I understand correctly, converting it to a 24 fps DCP playable on theatrical projection systems means the performances captured will be displayed at something like 100.1% of their true pace."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then I came across a behind-the-scenes shot from the set of Sicario, which showed a monitor that indicated the camera was set to 23.976 fps."
+    },
+    {
+      "type": "paragraph",
+      "text": "My question to Roger or anyone who can shed some wisdom is: Why not always shoot at 24 fps, if that is what’s mandated for a DCP?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216412/6ssce9tkk5vuohjv59k2wbthkwx642b8.jpg",
+      "alt": "Sicario bts screengrab",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/framerates-dcps-and-other-deliverables/#post-216416",
+    "scraped_at": "2026-01-15T14:13:27.040943+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/framerates-dcps-and-other-deliverables/#post-216416",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dbed7e8fa69e8fe70b8be42f7d13a0bc5c75202b9b68f3a26c4caf72df7489cc",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215003",
+    "forum_slug": "camera",
+    "topic_slug": "projector-poor-mans-process",
+    "parent_post_id": "215001",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "For ‘The Man Who Wasn’t There’ we chose the shots we would be shooting in the car and recorded the angle to the car, height off the ground and lens length. When we shot our plates we used these references.\nThe times I have used projection we also shot with the same lens length that we would use for the main action. If you shoot a 360º then it follows that you have more flexibility with your actual shots but you might still want to be careful with what lenses you use.",
+  "content_html": "<p>For ‘The Man Who Wasn’t There’ we chose the shots we would be shooting in the car and recorded the angle to the car, height off the ground and lens length. When we shot our plates we used these references.</p>\n<p>The times I have used projection we also shot with the same lens length that we would use for the main action. If you shoot a 360º then it follows that you have more flexibility with your actual shots but you might still want to be careful with what lenses you use.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "For ‘The Man Who Wasn’t There’ we chose the shots we would be shooting in the car and recorded the angle to the car, height off the ground and lens length. When we shot our plates we used these references."
+    },
+    {
+      "type": "paragraph",
+      "text": "The times I have used projection we also shot with the same lens length that we would use for the main action. If you shoot a 360º then it follows that you have more flexibility with your actual shots but you might still want to be careful with what lenses you use."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/projector-poor-mans-process/#post-215009",
+    "scraped_at": "2026-01-15T15:24:03.655352+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/projector-poor-mans-process/#post-215009",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "603b34fdd6340537ae478208f9da2bf78295e65b5b84546882bfde3673639c0c",
+    "parser_version": "bbpress-v2"
+  }
+}

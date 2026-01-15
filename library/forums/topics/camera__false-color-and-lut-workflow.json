@@ -1,0 +1,170 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/",
+  "forum_slug": "camera",
+  "topic_slug": "false-color-and-lut-workflow",
+  "title": "False Color and LUT Workflow",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216887",
+    "216894",
+    "216897",
+    "216898",
+    "216906",
+    "216908",
+    "216916",
+    "216917",
+    "216924",
+    "216944",
+    "216956",
+    "216957",
+    "217186",
+    "217203",
+    "217206",
+    "217208",
+    "216887",
+    "217211",
+    "217324"
+  ],
+  "reply_tree": {
+    "post_id": "216887",
+    "post_type": "topic",
+    "author": "gx42",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216894",
+        "post_type": "reply",
+        "author": "Sam Higgins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216897",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216898",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216906",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216908",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216916",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216917",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216924",
+        "post_type": "reply",
+        "author": "Matt Stahley",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216944",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216956",
+        "post_type": "reply",
+        "author": "Matt Stahley",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216957",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217186",
+        "post_type": "reply",
+        "author": "hagausiumai",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217203",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217206",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217208",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217211",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217324",
+        "post_type": "reply",
+        "author": "Rob-Webster",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 17,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/",
+    "scraped_at": "2026-01-15T13:16:28.953619+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/false-color-and-lut-workflow/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6354eaaecc19828b9696ae67d1160b415530b068ab6f15a7175d5281c2efb037",
+    "parser_version": "bbpress-v2"
+  }
+}

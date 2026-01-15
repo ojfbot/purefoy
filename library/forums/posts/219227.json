@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "219227",
+    "forum_slug": "camera",
+    "topic_slug": "calibrating-monitors",
+    "parent_post_id": "219223",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Some higher end monitors can be calibrated with these devices (LUT calibration, not ICC). Lower end monitors usually not but they can have color/tint/contrast/brightness controls, so you can get them in the ballpark by dialing it in manually when comparing to a calibrated monitor.",
+  "content_html": "<p>Some higher end monitors can be calibrated with these devices (LUT calibration, not ICC). Lower end monitors usually not but they can have color/tint/contrast/brightness controls, so you can get them in the ballpark by dialing it in manually when comparing to a calibrated monitor.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Some higher end monitors can be calibrated with these devices (LUT calibration, not ICC). Lower end monitors usually not but they can have color/tint/contrast/brightness controls, so you can get them in the ballpark by dialing it in manually when comparing to a calibrated monitor."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/calibrating-monitors/#post-220494",
+    "scraped_at": "2026-01-15T12:09:23.554067+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/calibrating-monitors/#post-220494",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "671b144cebdecbdbeb9f12d9c64095ddbdf9f0c9e4fdcc9dda023c2e96517698",
+    "parser_version": "bbpress-v2"
+  }
+}

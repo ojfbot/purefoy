@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216204",
+    "forum_slug": "camera",
+    "topic_slug": "look-of-film-in-2024",
+    "parent_post_id": "216197",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "BHGoddard",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "*intermediate negative stock, not internegative stock. It won’t let me edit my response for some reason.",
+  "content_html": "<p>*intermediate negative stock, not internegative stock. It won’t let me edit my response for some reason.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "*intermediate negative stock, not internegative stock. It won’t let me edit my response for some reason."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+    "scraped_at": "2026-01-15T14:33:45.472978+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3c243e47f3e0179356df2415710972e5a3ca7cd6726284aeb73b1d17c9273fad",
+    "parser_version": "bbpress-v2"
+  }
+}

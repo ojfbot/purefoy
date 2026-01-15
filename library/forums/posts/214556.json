@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214556",
+    "forum_slug": "film-talk",
+    "topic_slug": "sicario",
+    "parent_post_id": "214551",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Even you don’t understand the story. Don’t act like masters. Your fundamental is very poor. Who is your mentor?",
+  "content_html": "<p>Even you don’t understand the story. Don’t act like masters. Your fundamental is very poor. Who is your mentor?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Even you don’t understand the story. Don’t act like masters. Your fundamental is very poor. Who is your mentor?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario/#post-214745",
+    "scraped_at": "2026-01-15T14:13:29.619497+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario/#post-214745",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "67bba6fc81936e4c40ba3737701639786be667adb5094b93040fc366320afa29",
+    "parser_version": "bbpress-v2"
+  }
+}

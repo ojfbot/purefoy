@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "179381",
+    "forum_slug": "camera",
+    "topic_slug": "photography",
+    "parent_post_id": "178919",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Al Duffield",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Ahh the M9.. I miss mine, the straight out of camera B&W jpg and that satisfying shutter release & recock sound. I’ll buy another one day.",
+  "content_html": "<p>Ahh the M9.. I miss mine, the straight out of camera B&amp;W jpg and that satisfying shutter release &amp; recock sound. I’ll buy another one day.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Ahh the M9.. I miss mine, the straight out of camera B&W jpg and that satisfying shutter release & recock sound. I’ll buy another one day."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/photography/#post-181221",
+    "scraped_at": "2026-01-15T15:44:07.454213+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/photography/#post-181221",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fce69d5730edb62f606eda2342861c3a6e492b295161ac55f9587e7c039a092e",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215170",
+    "forum_slug": "forum",
+    "topic_slug": "choosing-between-5600-and-3200",
+    "parent_post_id": "215166",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Also the color science behind a particular camera design will have an effect on color, as well as any LUTs applied, etc.",
+  "content_html": "<p>Also the color science behind a particular camera design will have an effect on color, as well as any LUTs applied, etc.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Also the color science behind a particular camera design will have an effect on color, as well as any LUTs applied, etc."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/choosing-between-5600-and-3200/#post-215170",
+    "scraped_at": "2026-01-15T15:48:39.336216+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/choosing-between-5600-and-3200/#post-215170",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "da3299b029090a632b1d6889af4b6f1d2626f01d67c8e81e2ea186c1c1ca6d02",
+    "parser_version": "bbpress-v2"
+  }
+}

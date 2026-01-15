@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214944",
+    "forum_slug": "forum",
+    "topic_slug": "bathroom-and-club-lighting-questions",
+    "parent_post_id": "214943",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The practical lighting would really depend on the kind of club it was. If its an old place a bare bulb could work or a simple fluorescent tube. If you use a tube you could justify it being an odd color, which may or may not work for the scene. As for the club other than its toilet, I would always look at what exists and then decide if I want to use it or not. That really is a personal choice and a financial one as well.",
+  "content_html": "<p>The practical lighting would really depend on the kind of club it was. If its an old place a bare bulb could work or a simple fluorescent tube. If you use a tube you could justify it being an odd color, which may or may not work for the scene. As for the club other than its toilet, I would always look at what exists and then decide if I want to use it or not. That really is a personal choice and a financial one as well.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The practical lighting would really depend on the kind of club it was. If its an old place a bare bulb could work or a simple fluorescent tube. If you use a tube you could justify it being an odd color, which may or may not work for the scene. As for the club other than its toilet, I would always look at what exists and then decide if I want to use it or not. That really is a personal choice and a financial one as well."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bathroom-and-club-lighting-questions/#post-215039",
+    "scraped_at": "2026-01-15T15:49:33.431001+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bathroom-and-club-lighting-questions/#post-215039",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9f5142b41f6d86973b5cc5150bdaf5e621c8fca456861c0e0c1c2a94344ce1ee",
+    "parser_version": "bbpress-v2"
+  }
+}

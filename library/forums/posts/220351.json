@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "220351",
+    "forum_slug": "film-talk",
+    "topic_slug": "one-battle-after-another-in-70mm",
+    "parent_post_id": "219996",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Daniel",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I wasn’t able to see the film in Dolby Cinema. Instead, I saw it in Laser at AMC. Overall, the massive 70mm projection did ‘look’ better to my eye. Particularly in the darker scenes.\nI felt a little more comfortable watching the brighter scenes on Laser because there was no flickering.\nThe last 3/4 of the movie are a better viewing experience on a massive screen, in my opinion.",
+  "content_html": "<p>I wasn’t able to see the film in Dolby Cinema. Instead, I saw it in Laser at AMC. Overall, the massive 70mm projection did ‘look’ better to my eye. Particularly in the darker scenes.</p>\n<p>I felt a little more comfortable watching the brighter scenes on Laser because there was no flickering.</p>\n<p>The last 3/4 of the movie are a better viewing experience on a massive screen, in my opinion.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I wasn’t able to see the film in Dolby Cinema. Instead, I saw it in Laser at AMC. Overall, the massive 70mm projection did ‘look’ better to my eye. Particularly in the darker scenes."
+    },
+    {
+      "type": "paragraph",
+      "text": "I felt a little more comfortable watching the brighter scenes on Laser because there was no flickering."
+    },
+    {
+      "type": "paragraph",
+      "text": "The last 3/4 of the movie are a better viewing experience on a massive screen, in my opinion."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/one-battle-after-another-in-70mm/#post-220351",
+    "scraped_at": "2026-01-15T11:50:52.678886+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/one-battle-after-another-in-70mm/#post-220351",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "748739e6119293eaaf855701fc94bad78659eff099622bb28c9261f8f961d850",
+    "parser_version": "bbpress-v2"
+  }
+}

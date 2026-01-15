@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216278",
+    "forum_slug": "camera",
+    "topic_slug": "diffusion-filters",
+    "parent_post_id": "216260",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This is a good point, and i’m definitely interested in using diffusion in post production on other projects! The flexibility makes a lot of sense, and thanks for the plugin suggestion! For this video I have the freedom to experiment and “bake-in” effects like this, so i’m less concerned with flexibility. I’m curious to use more traditional glass filtration, and make creative decisions in pre-prod and on set rather than make them in post for this project. Thought it would be a good exercise to learn about diffusion choices and do them in-camera!",
+  "content_html": "<p>This is a good point, and i’m definitely interested in using diffusion in post production on other projects! The flexibility makes a lot of sense, and thanks for the plugin suggestion! For this video I have the freedom to experiment and “bake-in” effects like this, so i’m less concerned with flexibility. I’m curious to use more traditional glass filtration, and make creative decisions in pre-prod and on set rather than make them in post for this project. Thought it would be a good exercise to learn about diffusion choices and do them in-camera!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This is a good point, and i’m definitely interested in using diffusion in post production on other projects! The flexibility makes a lot of sense, and thanks for the plugin suggestion! For this video I have the freedom to experiment and “bake-in” effects like this, so i’m less concerned with flexibility. I’m curious to use more traditional glass filtration, and make creative decisions in pre-prod and on set rather than make them in post for this project. Thought it would be a good exercise to learn about diffusion choices and do them in-camera!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/diffusion-filters/#post-216342",
+    "scraped_at": "2026-01-15T14:17:00.324230+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/diffusion-filters/#post-216342",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2b7e35fc4bf988c6d38114c207c391e4ee07ddcffe098f47bcd155a40596f135",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "215416",
+    "forum_slug": "team-deakins",
+    "topic_slug": "lukasz-zal-for-guest"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "NarekAghazarian",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I just watched a 35mm print of The Zone of Interest in the Vista in Los Angeles a few hours ago and was just so taken back by the film-making on screen, the cinematography especially.\nI’d love to hear Łukasz’ creative process and prep for this project and also get a more in depth discussion about his creative collaboration with Director Jonathan Glazer and Production Designer Chris Oddy.",
+  "content_html": "<p>I just watched a 35mm print of The Zone of Interest in the Vista in Los Angeles a few hours ago and was just so taken back by the film-making on screen, the cinematography especially.</p>\n<p>I’d love to hear Łukasz’ creative process and prep for this project and also get a more in depth discussion about his creative collaboration with Director Jonathan Glazer and Production Designer Chris Oddy.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I just watched a 35mm print of The Zone of Interest in the Vista in Los Angeles a few hours ago and was just so taken back by the film-making on screen, the cinematography especially."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’d love to hear Łukasz’ creative process and prep for this project and also get a more in depth discussion about his creative collaboration with Director Jonathan Glazer and Production Designer Chris Oddy."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lukasz-zal-for-guest/",
+    "scraped_at": "2026-01-15T13:23:48.710472+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lukasz-zal-for-guest/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "150c87b998bf5f462d022b694c419b522ab1a13cebe1dae64630b62a463840fa",
+    "parser_version": "bbpress-v2"
+  }
+}

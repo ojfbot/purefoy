@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/the-rise-of-a-i/#post-217062",
+  "forum_slug": "set-talk",
+  "topic_slug": "the-rise-of-a-i",
+  "title": "The rise of A.I.",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215627",
+    "215628",
+    "215629",
+    "215630",
+    "215631",
+    "217062"
+  ],
+  "reply_tree": {
+    "post_id": "215627",
+    "post_type": "topic",
+    "author": "sydneydan",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215628",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215629",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215630",
+        "post_type": "reply",
+        "author": "gabj3",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215631",
+        "post_type": "reply",
+        "author": "ThisGuy321",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217062",
+        "post_type": "reply",
+        "author": "Baudelaire",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-rise-of-a-i/#post-217062",
+    "scraped_at": "2026-01-15T12:26:19.425427+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-rise-of-a-i/#post-217062",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "19099b161b854860054b1974c1e194aef86f76dbbc210bf30a0ba3258bda8cba",
+    "parser_version": "bbpress-v2"
+  }
+}

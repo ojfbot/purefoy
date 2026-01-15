@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "post_id": "178892",
+    "forum_slug": "camera",
+    "topic_slug": "empire-of-light-hilary-and-donald-ellis-conversation"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger i saw ‘Empire of light. I want to ask about the scene where Hilary and Donald Ellis make affair then they have drink and conversations. why did you and Sam gives that much of spatial distance for both characters as well as not intimacy much. Here by have attached reference frames.",
+  "content_html": "<p><img alt=\"Empire of light Hilary and Donald Ellis conversation\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/178892/92jrn16fbgsuehdna3qixxh7igeja7q6.png\"/>Dear master Roger i saw ‘Empire of light. I want to ask about the scene where Hilary and Donald Ellis make affair then they have drink and conversations. why did you and Sam gives that much of spatial distance for both characters as well as not intimacy much. Here by have attached reference frames.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger i saw ‘Empire of light. I want to ask about the scene where Hilary and Donald Ellis make affair then they have drink and conversations. why did you and Sam gives that much of spatial distance for both characters as well as not intimacy much. Here by have attached reference frames."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/178892/92jrn16fbgsuehdna3qixxh7igeja7q6.png",
+      "alt": "Empire of light Hilary and Donald Ellis conversation",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-hilary-and-donald-ellis-conversation/#post-181220",
+    "scraped_at": "2026-01-15T15:44:14.718033+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-hilary-and-donald-ellis-conversation/#post-181220",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1a7b05b3e90c43be94f0e90bf14f0f870788729e2232a1dd8e67855d799c38bb",
+    "parser_version": "bbpress-v2"
+  }
+}

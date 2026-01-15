@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215311",
+    "forum_slug": "camera",
+    "topic_slug": "zoom-in-vs-dolly-pushing",
+    "parent_post_id": "215307",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "The Byre",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A dolly-push just works better.  It draws the viewer’s attention to the face or whatever it is that you are pushing towards.",
+  "content_html": "<p>A dolly-push just works better.  It draws the viewer’s attention to the face or whatever it is that you are pushing towards.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A dolly-push just works better.  It draws the viewer’s attention to the face or whatever it is that you are pushing towards."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+    "scraped_at": "2026-01-15T15:22:12.537214+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8de03ecf0d06c47bee50ef168c70e22b4e9920b6f6314d2b967e571a3532bd49",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "175417",
+    "forum_slug": "camera",
+    "topic_slug": "balancing-monitors",
+    "parent_post_id": "175337",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "M Ryan",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Check out Flanders Scientific..\nYou will need to calibrate your monitor, even if it is an FSI – you can get an i1 pro or similar device, and calibrate with that.. ideally every monitor on set should be calibrated.\nCalibration is definitely a rabbit hole, and is usually done by a dedicated pro – might be worth looking for an expert in your region and consulting with them.\nGood luck 🙂\nMichael",
+  "content_html": "<p>Check out Flanders Scientific..</p>\n<p>You will need to calibrate your monitor, even if it is an FSI – you can get an i1 pro or similar device, and calibrate with that.. ideally every monitor on set should be calibrated.</p>\n<p>Calibration is definitely a rabbit hole, and is usually done by a dedicated pro – might be worth looking for an expert in your region and consulting with them.</p>\n<p>Good luck 🙂</p>\n<p>Michael</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Check out Flanders Scientific.."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to calibrate your monitor, even if it is an FSI – you can get an i1 pro or similar device, and calibrate with that.. ideally every monitor on set should be calibrated."
+    },
+    {
+      "type": "paragraph",
+      "text": "Calibration is definitely a rabbit hole, and is usually done by a dedicated pro – might be worth looking for an expert in your region and consulting with them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Good luck 🙂"
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/balancing-monitors/#post-189796",
+    "scraped_at": "2026-01-15T15:43:34.850847+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/balancing-monitors/#post-189796",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f80f1d97cb361c652092d5fa66a4bd96ed3fd3b53a88f9dcce3ca7cc1eff4b7e",
+    "parser_version": "bbpress-v2"
+  }
+}

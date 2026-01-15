@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216502",
+    "forum_slug": "forum",
+    "topic_slug": "sicario-close-up",
+    "parent_post_id": "216488",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I remember using two 4′ x 4′ gold stipple reflectors. This kind of bounce can be soft – when it is 8′ in width and relatively close to the subject – as well as directional.",
+  "content_html": "<p>I remember using two 4′ x 4′ gold stipple reflectors. This kind of bounce can be soft – when it is 8′ in width and relatively close to the subject – as well as directional.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I remember using two 4′ x 4′ gold stipple reflectors. This kind of bounce can be soft – when it is 8′ in width and relatively close to the subject – as well as directional."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario-close-up/#post-216540",
+    "scraped_at": "2026-01-15T15:24:22.291534+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-close-up/#post-216540",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f3658678bd07935e10e0430e700df2e424b30bb94ca0258b3547d7a2a16e734a",
+    "parser_version": "bbpress-v2"
+  }
+}

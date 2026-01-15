@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215337",
+    "forum_slug": "camera",
+    "topic_slug": "zoom-in-vs-dolly-pushing",
+    "parent_post_id": "215307",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That’s true but I’m not sure if that scenario qualifies for a zoom vs dolly push-in comparison 🙂",
+  "content_html": "<p>That’s true but I’m not sure if that scenario qualifies for a zoom vs dolly push-in comparison 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That’s true but I’m not sure if that scenario qualifies for a zoom vs dolly push-in comparison 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+    "scraped_at": "2026-01-15T15:22:12.538460+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5e24938cf60fdd8a69bf963f90c783a065b9411340c374c89b3a9b1fd69510cf",
+    "parser_version": "bbpress-v2"
+  }
+}

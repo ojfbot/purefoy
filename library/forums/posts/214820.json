@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214820",
+    "forum_slug": "set-talk",
+    "topic_slug": "advice-on-film-set-etiquette",
+    "parent_post_id": "214817",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yea but stop asking questions should the going get tough, haha. You’ll learn so much just by being there and observing.\nUsually, film crew are really cool people, so don’t worry too much. I only met a few bad lemons in 20 years.\nOne thing that you should avoid though is to make suggestions on something if you haven’t been asked, e.g. if the director and set designer discuss the color of the curtains, they’d probably not appreciate if you’d join their discussion 🙂",
+  "content_html": "<p>Yea but stop asking questions should the going get tough, haha. You’ll learn so much just by being there and observing.</p>\n<p>Usually, film crew are really cool people, so don’t worry too much. I only met a few bad lemons in 20 years.</p>\n<p>One thing that you should avoid though is to make suggestions on something if you haven’t been asked, e.g. if the director and set designer discuss the color of the curtains, they’d probably not appreciate if you’d join their discussion 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yea but stop asking questions should the going get tough, haha. You’ll learn so much just by being there and observing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Usually, film crew are really cool people, so don’t worry too much. I only met a few bad lemons in 20 years."
+    },
+    {
+      "type": "paragraph",
+      "text": "One thing that you should avoid though is to make suggestions on something if you haven’t been asked, e.g. if the director and set designer discuss the color of the curtains, they’d probably not appreciate if you’d join their discussion 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/advice-on-film-set-etiquette/#post-214839",
+    "scraped_at": "2026-01-15T13:23:37.490733+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/advice-on-film-set-etiquette/#post-214839",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fd2890a0b160fdd58c63d49f6ebea39ece85730ddcbd8956194aa178c3418338",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "192232",
+    "forum_slug": "camera",
+    "topic_slug": "inspiration-and-diy-rigs",
+    "parent_post_id": "192046",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "ThompsonDP",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Also if anyone else has any cool DIY setups that they’ve used drop them below!",
+  "content_html": "<p>Also if anyone else has any cool DIY setups that they’ve used drop them below!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Also if anyone else has any cool DIY setups that they’ve used drop them below!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inspiration-and-diy-rigs/#post-198449",
+    "scraped_at": "2026-01-15T15:43:01.132185+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inspiration-and-diy-rigs/#post-198449",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bcb7001ebadb560f60b584f133b53c676ad6ce2504e7dfe29c6185fd88851a68",
+    "parser_version": "bbpress-v2"
+  }
+}

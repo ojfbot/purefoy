@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215715",
+    "forum_slug": "forum",
+    "topic_slug": "brightness-decisions",
+    "parent_post_id": "215712",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Practice! You just have to judge the relationship with one small space to a larger one. That does take practice, and, possibly, a look at photometric charts. You might light the space in exactly the same way and then it is just multiples or larger lamps.",
+  "content_html": "<p>Practice! You just have to judge the relationship with one small space to a larger one. That does take practice, and, possibly, a look at photometric charts. You might light the space in exactly the same way and then it is just multiples or larger lamps.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Practice! You just have to judge the relationship with one small space to a larger one. That does take practice, and, possibly, a look at photometric charts. You might light the space in exactly the same way and then it is just multiples or larger lamps."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/brightness-decisions/#post-215728",
+    "scraped_at": "2026-01-15T15:45:03.257000+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/brightness-decisions/#post-215728",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ae8d8033e2af39c696c1999feee989e6d76e83772876565823ca30d3119222f4",
+    "parser_version": "bbpress-v2"
+  }
+}

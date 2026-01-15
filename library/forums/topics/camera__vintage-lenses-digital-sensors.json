@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/vintage-lenses-digital-sensors/#post-216868",
+  "forum_slug": "camera",
+  "topic_slug": "vintage-lenses-digital-sensors",
+  "title": "Vintage Lenses // Digital Sensors",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216862",
+    "216863",
+    "216867",
+    "216868"
+  ],
+  "reply_tree": {
+    "post_id": "216862",
+    "post_type": "topic",
+    "author": "neeraj.jain",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216863",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216867",
+        "post_type": "reply",
+        "author": "pbwinters",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216868",
+        "post_type": "reply",
+        "author": "Tyler F",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/vintage-lenses-digital-sensors/#post-216868",
+    "scraped_at": "2026-01-15T13:23:42.260004+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/vintage-lenses-digital-sensors/#post-216868",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "beb1f272f3ec6de1b55a14f50140d75f10588c90bb2cc2ee585099a9f4c11b09",
+    "parser_version": "bbpress-v2"
+  }
+}

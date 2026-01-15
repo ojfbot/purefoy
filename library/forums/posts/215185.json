@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215185",
+    "forum_slug": "camera",
+    "topic_slug": "luts",
+    "parent_post_id": "215179",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "halfgrain",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi,\nI hope it’s OK to answer part of your question, since this is something he has talked about in numerous interviews and the podcast. Usually, a LUT is developed for the particular movie beforehand and Roger uses this LUT for monitoring during the whole shoot of the whole movie. I’m not sure if he ever had multiple LUTs for different scenarios, though my guess would be most likely not.\nAs far as testing beforehand, I would think once you developed a color palette with the production designer and maybe already have set pieces and wardrobe to test it on, you can just develop the LUT to your liking and tweak it until you’re happy.",
+  "content_html": "<p>Hi,</p>\n<p>I hope it’s OK to answer part of your question, since this is something he has talked about in numerous interviews and the podcast. Usually, a LUT is developed for the particular movie beforehand and Roger uses this LUT for monitoring during the whole shoot of the whole movie. I’m not sure if he ever had multiple LUTs for different scenarios, though my guess would be most likely not.</p>\n<p>As far as testing beforehand, I would think once you developed a color palette with the production designer and maybe already have set pieces and wardrobe to test it on, you can just develop the LUT to your liking and tweak it until you’re happy.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope it’s OK to answer part of your question, since this is something he has talked about in numerous interviews and the podcast. Usually, a LUT is developed for the particular movie beforehand and Roger uses this LUT for monitoring during the whole shoot of the whole movie. I’m not sure if he ever had multiple LUTs for different scenarios, though my guess would be most likely not."
+    },
+    {
+      "type": "paragraph",
+      "text": "As far as testing beforehand, I would think once you developed a color palette with the production designer and maybe already have set pieces and wardrobe to test it on, you can just develop the LUT to your liking and tweak it until you’re happy."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/luts/",
+    "scraped_at": "2026-01-15T15:22:39.353230+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/luts/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8980ad13f23dde362de9af44c5885c22856a6009e12d058df123c7466e31a5c2",
+    "parser_version": "bbpress-v2"
+  }
+}

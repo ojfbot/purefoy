@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214986",
+    "forum_slug": "camera",
+    "topic_slug": "subjects-appear-in-the-frame",
+    "parent_post_id": "214978",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Great visuals! Thank you for those, Stip.",
+  "content_html": "<p>Great visuals! Thank you for those, Stip.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Great visuals! Thank you for those, Stip."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/subjects-appear-in-the-frame/#post-214997",
+    "scraped_at": "2026-01-15T15:24:09.901249+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/subjects-appear-in-the-frame/#post-214997",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a891a01daaf27d91a03c8794149f89f2fe90aaad6557a6b4291b25cddd0a6568",
+    "parser_version": "bbpress-v2"
+  }
+}

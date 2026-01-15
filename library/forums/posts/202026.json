@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "202026",
+    "forum_slug": "forum",
+    "topic_slug": "what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Davinki",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger, Im at a conundrum of what lights and gaffer equipment to own as i have inspirations that are all over the place I like to work off existing natural light but at the like Emmanuel Lubezki, Robby Müeller and Joshua James Richards, but at the same time be heavily stylized like Vittorio Storaro and Benoit Debie, and moody like Bradford Young and Rina Yang. What I’m trying to say is that practically, I want a lighting kit that would grant me full control but I want a small, minimal lighting package that would work with how mobile I like to be, so my thought was that I would defer the biggest bulk of the lighting to whatever rental house Im near and just rent the bigger units, but I would like to have lights with me in case that is impossible, but I don’t want to bear the brunt of carrying around large light sources with the little van space I would have. So I ask, what is a piece(s) of lighting equipment you would recommend a cinematographer to own themselves?",
+  "content_html": "<p>Hi Roger, Im at a conundrum of what lights and gaffer equipment to own as i have inspirations that are all over the place I like to work off existing natural light but at the like Emmanuel Lubezki, Robby Müeller and Joshua James Richards, but at the same time be heavily stylized like Vittorio Storaro and Benoit Debie, and moody like Bradford Young and Rina Yang. What I’m trying to say is that practically, I want a lighting kit that would grant me full control but I want a small, minimal lighting package that would work with how mobile I like to be, so my thought was that I would defer the biggest bulk of the lighting to whatever rental house Im near and just rent the bigger units, but I would like to have lights with me in case that is impossible, but I don’t want to bear the brunt of carrying around large light sources with the little van space I would have. So I ask, what is a piece(s) of lighting equipment you would recommend a cinematographer to own themselves?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger, Im at a conundrum of what lights and gaffer equipment to own as i have inspirations that are all over the place I like to work off existing natural light but at the like Emmanuel Lubezki, Robby Müeller and Joshua James Richards, but at the same time be heavily stylized like Vittorio Storaro and Benoit Debie, and moody like Bradford Young and Rina Yang. What I’m trying to say is that practically, I want a lighting kit that would grant me full control but I want a small, minimal lighting package that would work with how mobile I like to be, so my thought was that I would defer the biggest bulk of the lighting to whatever rental house Im near and just rent the bigger units, but I would like to have lights with me in case that is impossible, but I don’t want to bear the brunt of carrying around large light sources with the little van space I would have. So I ask, what is a piece(s) of lighting equipment you would recommend a cinematographer to own themselves?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own/#post-202221",
+    "scraped_at": "2026-01-15T15:54:18.954984+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own/#post-202221",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c44253c1757ed4316adbdcb45eed3a060000bd9fd27ca47ef900fac64f8a704f",
+    "parser_version": "bbpress-v2"
+  }
+}

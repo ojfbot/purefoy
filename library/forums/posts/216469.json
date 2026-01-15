@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "216469",
+    "forum_slug": "set-talk",
+    "topic_slug": "do-actors-influence-cinematography"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "While watching\nThe house of Sand and Fog\nI was thinking about the fact that Jennifer Connelly and Ben Kingsley  have not only very different physical features (you don’t say!) but also different ways of acting and express emotions. I understood that part of the DoP work is being ready to adapt  camera movements to actors’ work on the set and each actor has a different way of acting, besides  some “trademark” (the way of smiling, a gesture, the way of moving hands, etc)  . Does these elements influence, at least in small part, the  cinematography ? I suppose  different ways of lighting the face and different camera angles to exalt some peculiar facial feature (the eyes, the mouth,  but are there other more subtle influences?\nPerhaps it’s a stupid question and i expressed myself poorly and not clearly, but i don’t think (good) actors are interchangeable, so i think  somehow the shooting could reflect that , in the context of the story (i suppose shooting Connelly’s scenes in\nA house of…\nand in\nA beautiful mind\nrequired different approaches, just to make an example).",
+  "content_html": "<p>While watching <em>The house of Sand and Fog </em>I was thinking about the fact that Jennifer Connelly and Ben Kingsley  have not only very different physical features (you don’t say!) but also different ways of acting and express emotions. I understood that part of the DoP work is being ready to adapt  camera movements to actors’ work on the set and each actor has a different way of acting, besides  some “trademark” (the way of smiling, a gesture, the way of moving hands, etc)  . Does these elements influence, at least in small part, the  cinematography ? I suppose  different ways of lighting the face and different camera angles to exalt some peculiar facial feature (the eyes, the mouth,  but are there other more subtle influences?</p>\n<p>Perhaps it’s a stupid question and i expressed myself poorly and not clearly, but i don’t think (good) actors are interchangeable, so i think  somehow the shooting could reflect that , in the context of the story (i suppose shooting Connelly’s scenes in <em>A house of…</em> and in <em>A beautiful mind</em> required different approaches, just to make an example).</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "While watching\nThe house of Sand and Fog\nI was thinking about the fact that Jennifer Connelly and Ben Kingsley  have not only very different physical features (you don’t say!) but also different ways of acting and express emotions. I understood that part of the DoP work is being ready to adapt  camera movements to actors’ work on the set and each actor has a different way of acting, besides  some “trademark” (the way of smiling, a gesture, the way of moving hands, etc)  . Does these elements influence, at least in small part, the  cinematography ? I suppose  different ways of lighting the face and different camera angles to exalt some peculiar facial feature (the eyes, the mouth,  but are there other more subtle influences?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perhaps it’s a stupid question and i expressed myself poorly and not clearly, but i don’t think (good) actors are interchangeable, so i think  somehow the shooting could reflect that , in the context of the story (i suppose shooting Connelly’s scenes in\nA house of…\nand in\nA beautiful mind\nrequired different approaches, just to make an example)."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/do-actors-influence-cinematography/#post-216585",
+    "scraped_at": "2026-01-15T12:26:27.406785+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/do-actors-influence-cinematography/#post-216585",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9e27c532553d0170946eb0c3e3a6ddaef700186bb5f30f0286c09bfc0973d7dc",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "176390",
+    "forum_slug": "camera",
+    "topic_slug": "arri-sharpness-detail",
+    "parent_post_id": "176357",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Could that ‘filmic sharpness’ actually be micro contrast, or a mix of micro contrast and grain? There is a debate whether “micro contrast” is even a thing or just a myth.\nI have a Sigma DP Merrill photo camera that uses a Foveon sensor, which in my opinion produces analog-like images like no other digital camera (needs light though). It’s said to have exceptional micro-contrast and color, which cause these analog-like results. I don’t know if it’s true but I recognize that same “filmic sharpness” that you talk about there too.\nOutside of Arri I agree that in-camera sharpening can be very problematic if taken too far.",
+  "content_html": "<p>Could that ‘filmic sharpness’ actually be micro contrast, or a mix of micro contrast and grain? There is a debate whether “micro contrast” is even a thing or just a myth.</p>\n<p>I have a Sigma DP Merrill photo camera that uses a Foveon sensor, which in my opinion produces analog-like images like no other digital camera (needs light though). It’s said to have exceptional micro-contrast and color, which cause these analog-like results. I don’t know if it’s true but I recognize that same “filmic sharpness” that you talk about there too.</p>\n<p>Outside of Arri I agree that in-camera sharpening can be very problematic if taken too far.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Could that ‘filmic sharpness’ actually be micro contrast, or a mix of micro contrast and grain? There is a debate whether “micro contrast” is even a thing or just a myth."
+    },
+    {
+      "type": "paragraph",
+      "text": "I have a Sigma DP Merrill photo camera that uses a Foveon sensor, which in my opinion produces analog-like images like no other digital camera (needs light though). It’s said to have exceptional micro-contrast and color, which cause these analog-like results. I don’t know if it’s true but I recognize that same “filmic sharpness” that you talk about there too."
+    },
+    {
+      "type": "paragraph",
+      "text": "Outside of Arri I agree that in-camera sharpening can be very problematic if taken too far."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/arri-sharpness-detail/#post-176406",
+    "scraped_at": "2026-01-15T15:44:52.865468+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/arri-sharpness-detail/#post-176406",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b2e96d10f4f3676b734dc02c17e8b715f0599ab730c1dcbf0541868335065e40",
+    "parser_version": "bbpress-v2"
+  }
+}

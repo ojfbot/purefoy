@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/exposing-film-for-bleach-bypass/#post-218005",
+  "forum_slug": "camera",
+  "topic_slug": "exposing-film-for-bleach-bypass",
+  "title": "Exposing film for Bleach Bypass",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217889",
+    "217963",
+    "217972",
+    "218004",
+    "218005"
+  ],
+  "reply_tree": {
+    "post_id": "217889",
+    "post_type": "topic",
+    "author": "JamesLahaise",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "217963",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217972",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218004",
+        "post_type": "reply",
+        "author": "JamesLahaise",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218005",
+        "post_type": "reply",
+        "author": "JamesLahaise",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposing-film-for-bleach-bypass/#post-218005",
+    "scraped_at": "2026-01-15T13:06:00.280693+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposing-film-for-bleach-bypass/#post-218005",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e0a20361601bc87e69cba929ad3a519a7492d220154c1bf26eff7794eae627dd",
+    "parser_version": "bbpress-v2"
+  }
+}

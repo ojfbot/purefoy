@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215738",
+    "forum_slug": "forum",
+    "topic_slug": "oldschool-hollywood-lighting-50s-60s",
+    "parent_post_id": "215736",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A bit unrelated to your question, but in One interview (if i remember correctly, i apologize if i’m wrong) Roger talked about the lights of old western movies looking fake once you think about It: if the sun is projecting the classic hat shadow on actor face, where the light on eyes and face Is coming from? Once you realize it, it’s impossible to un-see It.",
+  "content_html": "<p>A bit unrelated to your question, but in One interview (if i remember correctly, i apologize if i’m wrong) Roger talked about the lights of old western movies looking fake once you think about It: if the sun is projecting the classic hat shadow on actor face, where the light on eyes and face Is coming from? Once you realize it, it’s impossible to un-see It.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A bit unrelated to your question, but in One interview (if i remember correctly, i apologize if i’m wrong) Roger talked about the lights of old western movies looking fake once you think about It: if the sun is projecting the classic hat shadow on actor face, where the light on eyes and face Is coming from? Once you realize it, it’s impossible to un-see It."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/oldschool-hollywood-lighting-50s-60s/#post-215763",
+    "scraped_at": "2026-01-15T15:44:38.732221+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/oldschool-hollywood-lighting-50s-60s/#post-215763",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1ad602f2d100a4fe413ffb154d0fe2d846dc8b7cef9d2527e62a5dab6b3c02cd",
+    "parser_version": "bbpress-v2"
+  }
+}

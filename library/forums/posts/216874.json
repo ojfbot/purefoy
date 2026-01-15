@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "216874",
+    "forum_slug": "forum",
+    "topic_slug": "chiaroscuro-lighting-setup-for-a-film"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "ThatGreasyFootball",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Howdy again, I am curious to see opinions on how I might carry out a lighting setup for a short film im working on. Currently I am working with a single overhead hard light source, but I am a bit concerned that it i\ns too hard. Here is an example still:\nI want the light to still be pretty hard because I am going for the chiaroscuro/noir look, but I want to make sure that we are still drawn to the subject. I was thinking about just using a bounce board, but when I tried it, it removed too much shadow. Any ideas?",
+  "content_html": "<p>Howdy again, I am curious to see opinions on how I might carry out a lighting setup for a short film im working on. Currently I am working with a single overhead hard light source, but I am a bit concerned that it i<img alt=\"\" decoding=\"async\" src=\"Please wait...\"/>s too hard. Here is an example still:</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216874/qk3tj69wkzeqz6yepyi01z5fu75mv8a1.jpg\"/>I want the light to still be pretty hard because I am going for the chiaroscuro/noir look, but I want to make sure that we are still drawn to the subject. I was thinking about just using a bounce board, but when I tried it, it removed too much shadow. Any ideas?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Howdy again, I am curious to see opinions on how I might carry out a lighting setup for a short film im working on. Currently I am working with a single overhead hard light source, but I am a bit concerned that it i\ns too hard. Here is an example still:"
+    },
+    {
+      "type": "paragraph",
+      "text": "I want the light to still be pretty hard because I am going for the chiaroscuro/noir look, but I want to make sure that we are still drawn to the subject. I was thinking about just using a bounce board, but when I tried it, it removed too much shadow. Any ideas?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://rogerdeakins.com/Please wait...",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216874/qk3tj69wkzeqz6yepyi01z5fu75mv8a1.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/chiaroscuro-lighting-setup-for-a-film/#post-216876",
+    "scraped_at": "2026-01-15T15:22:36.629792+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/chiaroscuro-lighting-setup-for-a-film/#post-216876",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ebcebea6feb73ab2cc41c2388492373178ba7a60d38305dad0a0eb0b2c48b4ff",
+    "parser_version": "bbpress-v2"
+  }
+}

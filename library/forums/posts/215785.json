@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215785",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-for-mood-and-evoking-an-emotion",
+    "parent_post_id": "215769",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think you have to get in touch with your own emotions. Get a lamp and play with light, or go out and take some stills. What affects you?",
+  "content_html": "<p>I think you have to get in touch with your own emotions. Get a lamp and play with light, or go out and take some stills. What affects you?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think you have to get in touch with your own emotions. Get a lamp and play with light, or go out and take some stills. What affects you?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-for-mood-and-evoking-an-emotion/#post-215787",
+    "scraped_at": "2026-01-15T15:44:32.966464+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-mood-and-evoking-an-emotion/#post-215787",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dcbb91cbc47a8a672c44eea1e266910ec620b2808aa32bcf325f98a0ddc35d77",
+    "parser_version": "bbpress-v2"
+  }
+}

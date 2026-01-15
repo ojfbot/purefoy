@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "177748",
+    "forum_slug": "camera",
+    "topic_slug": "shot-design-in-prep",
+    "parent_post_id": "177736",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It varies from film to film. On ‘Empire of Light’ Sam and I only worked out our camera shots with the actors on the day of the shoot, whereas on ‘1917’ we decided on the ‘shot’ months before shooting started. On ‘Blade Runner 2049’ Denis and I shot listed and boarded much of the film months in advance but on ‘Sicario’ we focused only on specific scenes. I usually work with a director on shot listing during prep but that is not always the case. Joel and Ethan would often do a pass of their storyboards before I became involved and then we would do a final pass together.",
+  "content_html": "<p>It varies from film to film. On ‘Empire of Light’ Sam and I only worked out our camera shots with the actors on the day of the shoot, whereas on ‘1917’ we decided on the ‘shot’ months before shooting started. On ‘Blade Runner 2049’ Denis and I shot listed and boarded much of the film months in advance but on ‘Sicario’ we focused only on specific scenes. I usually work with a director on shot listing during prep but that is not always the case. Joel and Ethan would often do a pass of their storyboards before I became involved and then we would do a final pass together.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "It varies from film to film. On ‘Empire of Light’ Sam and I only worked out our camera shots with the actors on the day of the shoot, whereas on ‘1917’ we decided on the ‘shot’ months before shooting started. On ‘Blade Runner 2049’ Denis and I shot listed and boarded much of the film months in advance but on ‘Sicario’ we focused only on specific scenes. I usually work with a director on shot listing during prep but that is not always the case. Joel and Ethan would often do a pass of their storyboards before I became involved and then we would do a final pass together."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/",
+    "scraped_at": "2026-01-15T15:44:23.529887+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4b621e4d0528ce8e1b7e996dac34608a2d68d0607d7bc0a8fe432f0226f3e996",
+    "parser_version": "bbpress-v2"
+  }
+}

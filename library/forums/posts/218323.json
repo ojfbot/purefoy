@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218323",
+    "forum_slug": "forum",
+    "topic_slug": "happy-birthday-to-the-legendary",
+    "parent_post_id": "218300",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you. Very kind.",
+  "content_html": "<p>Thank you. Very kind.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you. Very kind."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-to-the-legendary/#post-218340",
+    "scraped_at": "2026-01-15T15:08:21.639847+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-to-the-legendary/#post-218340",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bd518a130ff2f6961fea2b933154eecf3ce520a8876336d7c7c928a4ac87cd62",
+    "parser_version": "bbpress-v2"
+  }
+}

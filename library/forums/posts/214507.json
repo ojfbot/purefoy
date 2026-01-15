@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "214507",
+    "forum_slug": "forum",
+    "topic_slug": "green-cast-when-lighting-through-windows",
+    "parent_post_id": "214506",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Like in most situations where you have issues with balancing light sources, it often depends on what is the simplest solution.  If the windows are large and provide the majority of light in the space, then the simplest thing is probably to add some green to all your other lights inside and then pull the overall green out of the image by either using a CC Magenta correction filter on the lens or shifting the color on the camera towards magenta.\nIf the windows are small and in the background, it might be easier to put some Minus Green gel on them. If it is a night scene, then you can add some Minus Green gel to the lighting outside the window to counteract the green that the glass will add.\n—\nAny grass that is off-camera and below the frame could be covered with something to reduce the green bounce coming off of the grass, like some sheets of muslin, bedsheets, etc. Any on-camera grass and bushes reflecting some green light into the room is at least a motivated effect.",
+  "content_html": "<p>Like in most situations where you have issues with balancing light sources, it often depends on what is the simplest solution.  If the windows are large and provide the majority of light in the space, then the simplest thing is probably to add some green to all your other lights inside and then pull the overall green out of the image by either using a CC Magenta correction filter on the lens or shifting the color on the camera towards magenta.</p>\n<p>If the windows are small and in the background, it might be easier to put some Minus Green gel on them. If it is a night scene, then you can add some Minus Green gel to the lighting outside the window to counteract the green that the glass will add.</p>\n<p>—</p>\n<p>Any grass that is off-camera and below the frame could be covered with something to reduce the green bounce coming off of the grass, like some sheets of muslin, bedsheets, etc. Any on-camera grass and bushes reflecting some green light into the room is at least a motivated effect.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Like in most situations where you have issues with balancing light sources, it often depends on what is the simplest solution.  If the windows are large and provide the majority of light in the space, then the simplest thing is probably to add some green to all your other lights inside and then pull the overall green out of the image by either using a CC Magenta correction filter on the lens or shifting the color on the camera towards magenta."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the windows are small and in the background, it might be easier to put some Minus Green gel on them. If it is a night scene, then you can add some Minus Green gel to the lighting outside the window to counteract the green that the glass will add."
+    },
+    {
+      "type": "paragraph",
+      "text": "—"
+    },
+    {
+      "type": "paragraph",
+      "text": "Any grass that is off-camera and below the frame could be covered with something to reduce the green bounce coming off of the grass, like some sheets of muslin, bedsheets, etc. Any on-camera grass and bushes reflecting some green light into the room is at least a motivated effect."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/green-cast-when-lighting-through-windows/#post-214508",
+    "scraped_at": "2026-01-15T15:53:18.622878+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/green-cast-when-lighting-through-windows/#post-214508",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "aaa0833d5bcb19f70154a1e6e6f8d9b800eeb7d282b7504a77bb5a3f3c362851",
+    "parser_version": "bbpress-v2"
+  }
+}

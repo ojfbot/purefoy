@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "176472",
+    "forum_slug": "website-news",
+    "topic_slug": "recovering-the-old-forums-need-help",
+    "parent_post_id": "174482",
+    "parent_type": "topic",
+    "position": 21
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "James,\nCould you explain why my last post was deleted?\nIt was in response to Rogers previous answer which was also deleted.  Perhaps this question will also be squashed too.",
+  "content_html": "<p>James,</p>\n<p>Could you explain why my last post was deleted?</p>\n<p>It was in response to Rogers previous answer which was also deleted.  Perhaps this question will also be squashed too.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "James,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Could you explain why my last post was deleted?"
+    },
+    {
+      "type": "paragraph",
+      "text": "It was in response to Rogers previous answer which was also deleted.  Perhaps this question will also be squashed too."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/page/2/",
+    "scraped_at": "2026-01-15T12:42:29.517917+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7569ba1f436233c79747d7a9af7a5e9a7d2d293c849bca93e9d703362880e266",
+    "parser_version": "bbpress-v2"
+  }
+}

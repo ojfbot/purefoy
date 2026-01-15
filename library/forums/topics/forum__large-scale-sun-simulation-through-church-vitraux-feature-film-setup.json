@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/large-scale-sun-simulation-through-church-vitraux-feature-film-setup/#post-219523",
+  "forum_slug": "forum",
+  "topic_slug": "large-scale-sun-simulation-through-church-vitraux-feature-film-setup",
+  "title": "Large-Scale Sun Simulation Through church Vitraux – Feature Film Setup",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "218286",
+    "218327",
+    "218354",
+    "219523"
+  ],
+  "reply_tree": {
+    "post_id": "218286",
+    "post_type": "topic",
+    "author": "Chop13",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "218327",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218354",
+        "post_type": "reply",
+        "author": "Chop13",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219523",
+        "post_type": "reply",
+        "author": "backrooms",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/large-scale-sun-simulation-through-church-vitraux-feature-film-setup/#post-219523",
+    "scraped_at": "2026-01-15T14:16:52.737252+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/large-scale-sun-simulation-through-church-vitraux-feature-film-setup/#post-219523",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0484b3132993d19a7bc97353340e8478116a01cb0d2d5af006a7b694c726aae4",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "210858",
+    "forum_slug": "forum",
+    "topic_slug": "what-color-gels-to-achieve-the-teal-blue-moonlight-of-true-grit-no-country",
+    "parent_post_id": "210432",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The night scenes in ‘True Grit’ were lit using HMI l.amps and tungsten balanced film stock. I was using Musco lights for the large night scenes in ‘NCFOM’, which are similarly cool lamps, whilst also HMI lamps for other night scenes.",
+  "content_html": "<p>The night scenes in ‘True Grit’ were lit using HMI l.amps and tungsten balanced film stock. I was using Musco lights for the large night scenes in ‘NCFOM’, which are similarly cool lamps, whilst also HMI lamps for other night scenes.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The night scenes in ‘True Grit’ were lit using HMI l.amps and tungsten balanced film stock. I was using Musco lights for the large night scenes in ‘NCFOM’, which are similarly cool lamps, whilst also HMI lamps for other night scenes."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-color-gels-to-achieve-the-teal-blue-moonlight-of-true-grit-no-country/#post-211105",
+    "scraped_at": "2026-01-15T15:53:39.593037+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-color-gels-to-achieve-the-teal-blue-moonlight-of-true-grit-no-country/#post-211105",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5f298cd73549202d9c62cf61b8034bd2628551dcfaad7df8fc3d620054ab554b",
+    "parser_version": "bbpress-v2"
+  }
+}

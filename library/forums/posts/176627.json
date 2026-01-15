@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "176627",
+    "forum_slug": "camera",
+    "topic_slug": "alexa-35-vs-mini-lf",
+    "parent_post_id": "169876",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That would be a question! Project dependent.",
+  "content_html": "<p>That would be a question! Project dependent.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That would be a question! Project dependent."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/alexa-35-vs-mini-lf/#post-215996",
+    "scraped_at": "2026-01-15T15:20:04.363253+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/alexa-35-vs-mini-lf/#post-215996",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "78bffeea09019b312a52dff5e8b5d975316aa963a58b3992056a431cb33a57b9",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "post_id": "217521",
+    "forum_slug": "forum",
+    "topic_slug": "overhead-office-lighting",
+    "parent_post_id": "217512",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Exajoel",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello,\nMay I suggest using low-hanging LED or flourenscent tubes. As you’re shooting B/W, there is much less reason to worry about color reproduction, so even the cheap consumer-grade ones from your local hardware store might do as long as they’re bright enough. Quality and contrast can be easily manipulated by hanging the fixtures lower or higher and the size of the tubes themselves.",
+  "content_html": "<p>Hello,<br/>\nMay I suggest using low-hanging LED or flourenscent tubes. As you’re shooting B/W, there is much less reason to worry about color reproduction, so even the cheap consumer-grade ones from your local hardware store might do as long as they’re bright enough. Quality and contrast can be easily manipulated by hanging the fixtures lower or higher and the size of the tubes themselves.<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/217521/pb85v8tbg7bf8kuawaxnk86nogz01fss.jpg\"/><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/217521/s9vc9sdveqwnvtt82ojtt87ltfrbflwd.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello,\nMay I suggest using low-hanging LED or flourenscent tubes. As you’re shooting B/W, there is much less reason to worry about color reproduction, so even the cheap consumer-grade ones from your local hardware store might do as long as they’re bright enough. Quality and contrast can be easily manipulated by hanging the fixtures lower or higher and the size of the tubes themselves."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/217521/pb85v8tbg7bf8kuawaxnk86nogz01fss.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/217521/s9vc9sdveqwnvtt82ojtt87ltfrbflwd.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/overhead-office-lighting/#post-217521",
+    "scraped_at": "2026-01-15T15:20:24.410000+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/overhead-office-lighting/#post-217521",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "703556db0e46f9a16b56ed6bcf4ac3bfe9209f43d71752d7dcdc6a6c542c93aa",
+    "parser_version": "bbpress-v2"
+  }
+}

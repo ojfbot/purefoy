@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "215823",
+    "forum_slug": "forum",
+    "topic_slug": "how-can-i-light-like-this",
+    "parent_post_id": "215818",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "",
+  "content_html": "<p><del><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215823/y6xor07kzyxvfiwthx33802joexwrthu.jpeg\"/></del></p>",
+  "blocks": [],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215823/y6xor07kzyxvfiwthx33802joexwrthu.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-can-i-light-like-this/#post-215842",
+    "scraped_at": "2026-01-15T15:44:13.054106+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-can-i-light-like-this/#post-215842",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4c3e568d81731c7875ad40f5f7bcc7d3e47603899cba889275c90e3a3aa96547",
+    "parser_version": "bbpress-v2"
+  }
+}

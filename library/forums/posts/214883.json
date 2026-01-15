@@ -1,0 +1,60 @@
+{
+  "ids": {
+    "post_id": "214883",
+    "forum_slug": "forum",
+    "topic_slug": "consistent-window-light-as-a-source"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "jlarson",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey Roger and friends! I’m shooting a short and most of the scenes are in a hospital room that we are making into a set for a few days. Some day scenes some night. Most will be day. Luckily we are on the first floor so we will have ability to light the windows when needed. But I’m thinking I just want to let them sort of blow out soft. We will put up some vertical blinds that will be partially open to see light come through but I dont want to see outside.\nIt’s one small window about 4’ x 8’. We are going to build a tent around it outside so we have control. I dont have anything on hand very big lighting wise but I’ll have 3 Joker 1600s. My plan was just to tee up a 12 ultra about 8-10 feet away from the window and have all three bouncing into it.\nOriginally I was thinking or something like 1/4 or 1/2 grid on the window so it was a consistent soft light. Do you think that would be to much diffusion and not enough light should I go with something softer like opal or hamp? I’m just worried the 3 1600s will not be enough. I’d like to use the window as a large practical if possible. Obviously we will augment when possible but for the wide scenes it would be nice to use it as a practical since it will be a real hospital room and not a stage set.\nI added a grab from A serious man with a window similar to a look I’m looking for.\nThanks so much!",
+  "content_html": "<p>Hey Roger and friends! I’m shooting a short and most of the scenes are in a hospital room that we are making into a set for a few days. Some day scenes some night. Most will be day. Luckily we are on the first floor so we will have ability to light the windows when needed. But I’m thinking I just want to let them sort of blow out soft. We will put up some vertical blinds that will be partially open to see light come through but I dont want to see outside.</p>\n<p>It’s one small window about 4’ x 8’. We are going to build a tent around it outside so we have control. I dont have anything on hand very big lighting wise but I’ll have 3 Joker 1600s. My plan was just to tee up a 12 ultra about 8-10 feet away from the window and have all three bouncing into it.</p>\n<p>Originally I was thinking or something like 1/4 or 1/2 grid on the window so it was a consistent soft light. Do you think that would be to much diffusion and not enough light should I go with something softer like opal or hamp? I’m just worried the 3 1600s will not be enough. I’d like to use the window as a large practical if possible. Obviously we will augment when possible but for the wide scenes it would be nice to use it as a practical since it will be a real hospital room and not a stage set.</p>\n<p>I added a grab from A serious man with a window similar to a look I’m looking for.</p>\n<p>Thanks so much!</p>\n<p><img alt=\"Serious Man Example\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214883/yc4d0izll0q1ncem9s9sfmctdf7noyl6.jpeg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey Roger and friends! I’m shooting a short and most of the scenes are in a hospital room that we are making into a set for a few days. Some day scenes some night. Most will be day. Luckily we are on the first floor so we will have ability to light the windows when needed. But I’m thinking I just want to let them sort of blow out soft. We will put up some vertical blinds that will be partially open to see light come through but I dont want to see outside."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s one small window about 4’ x 8’. We are going to build a tent around it outside so we have control. I dont have anything on hand very big lighting wise but I’ll have 3 Joker 1600s. My plan was just to tee up a 12 ultra about 8-10 feet away from the window and have all three bouncing into it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Originally I was thinking or something like 1/4 or 1/2 grid on the window so it was a consistent soft light. Do you think that would be to much diffusion and not enough light should I go with something softer like opal or hamp? I’m just worried the 3 1600s will not be enough. I’d like to use the window as a large practical if possible. Obviously we will augment when possible but for the wide scenes it would be nice to use it as a practical since it will be a real hospital room and not a stage set."
+    },
+    {
+      "type": "paragraph",
+      "text": "I added a grab from A serious man with a window similar to a look I’m looking for."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks so much!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214883/yc4d0izll0q1ncem9s9sfmctdf7noyl6.jpeg",
+      "alt": "Serious Man Example",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/consistent-window-light-as-a-source/",
+    "scraped_at": "2026-01-15T15:50:54.525085+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/consistent-window-light-as-a-source/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ba81c46b315ddd45c86e58502201a4c2e3d175225675d6ed9ec61f94dc0c3882",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/with-and-without-color/#post-215658",
+  "forum_slug": "forum",
+  "topic_slug": "with-and-without-color",
+  "title": "With and without color",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215651",
+    "215658"
+  ],
+  "reply_tree": {
+    "post_id": "215651",
+    "post_type": "topic",
+    "author": "Steven Li",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215658",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/with-and-without-color/#post-215658",
+    "scraped_at": "2026-01-15T15:45:50.645026+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/with-and-without-color/#post-215658",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ce3d31050d52ebac02a1d16f9af06d427c8bcf4e27d100ec81285abb53be6fcd",
+    "parser_version": "bbpress-v2"
+  }
+}

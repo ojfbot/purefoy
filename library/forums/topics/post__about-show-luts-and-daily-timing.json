@@ -1,0 +1,97 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/about-show-luts-and-daily-timing/#post-220503",
+  "forum_slug": "post",
+  "topic_slug": "about-show-luts-and-daily-timing",
+  "title": "About show LUTs and Daily timing",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220470",
+    "220472",
+    "220473",
+    "220474",
+    "220475",
+    "220484",
+    "220485",
+    "220497",
+    "220503"
+  ],
+  "reply_tree": {
+    "post_id": "220470",
+    "post_type": "topic",
+    "author": "LucaM",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "220472",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220473",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220474",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220475",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220484",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220485",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220497",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220503",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 8,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-show-luts-and-daily-timing/#post-220503",
+    "scraped_at": "2026-01-15T13:23:44.342444+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-show-luts-and-daily-timing/#post-220503",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9b625c0d0a65ff2c07a9cc4c2673d9ef69efed6fec1f6dee37d8bbf2d337c322",
+    "parser_version": "bbpress-v2"
+  }
+}

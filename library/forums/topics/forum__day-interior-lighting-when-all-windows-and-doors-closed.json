@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/day-interior-lighting-when-all-windows-and-doors-closed/#post-217340",
+  "forum_slug": "forum",
+  "topic_slug": "day-interior-lighting-when-all-windows-and-doors-closed",
+  "title": "Day interior lighting when all windows and doors closed",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217231",
+    "217262",
+    "217263",
+    "217340"
+  ],
+  "reply_tree": {
+    "post_id": "217231",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "217262",
+        "post_type": "reply",
+        "author": "MarcoFerri",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217263",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217340",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/day-interior-lighting-when-all-windows-and-doors-closed/#post-217340",
+    "scraped_at": "2026-01-15T15:21:03.541171+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/day-interior-lighting-when-all-windows-and-doors-closed/#post-217340",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5d6ffe8491fd036813ac767fdaa20545bdf805b67f32acd5b62244f1999532b8",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "post_id": "169482",
+    "forum_slug": "team-deakins/byways",
+    "topic_slug": "book-signing-in-bristol-uk"
+  },
+  "author": {
+    "display_name": "#169482",
+    "role": "James"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Keymaster\nTeam Deakins will be at Bristol, Saturday October 8th for a book signing! Here are the details:\n12:30 PM\nMartin Parr Foundation\n316 Paintworks\nBristol BS4 3AR\nWe hope we see you there!\nThis topic was modified 3 years, 3 months ago by\nJames\n.",
+  "content_html": "<div class=\"bbp-topic-header\">\n<div class=\"bbp-meta\">\n<span class=\"bbp-topic-post-date\">September 29, 2022 at 10:51 am</span>\n<a class=\"bbp-topic-permalink\" href=\"https://www.rogerdeakins.com/forums/topic/book-signing-in-bristol-uk/\">#169482</a>\n<span class=\"bbp-admin-links\"></span>\n</div><!-- .bbp-meta -->\n</div> .bbp-topic-header \n<div class=\"loop-item--1 user-id-1 bbp-parent-forum-169249 even sticky post-169482 topic type-topic status-publish hentry\" id=\"post-169482\">\n<div class=\"bbp-topic-author\">\n<a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/daggerlily/\" title=\"View James's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-80 photo\" decoding=\"async\" height=\"80\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/james_avatar-80x80.png\" srcset=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/james_avatar-100x100.png 2x\" width=\"80\"/></span><span class=\"bbp-author-name\">James</span></a><div class=\"bbp-author-role\"><div class=\"\">Keymaster</div></div>\n<div class=\"tc_display\"><ul></ul></div>\n</div><!-- .bbp-topic-author -->\n<div class=\"bbp-topic-content\">\n<p>Team Deakins will be at Bristol, Saturday October 8th for a book signing! Here are the details:</p>\n<p>12:30 PM </p>\n<p>Martin Parr Foundation<br/>\n316 Paintworks<br/>\nBristol BS4 3AR</p>\n<p>We hope we see you there!</p>\n<ul class=\"bbp-topic-revision-log\" id=\"bbp-topic-revision-log-169482\">\n<li class=\"bbp-topic-revision-log-item\" id=\"bbp-topic-revision-log-169482-item-169483\">\n\t\tThis topic was modified 3 years, 3 months ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/daggerlily/\" title=\"View James's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/james_avatar-14x14.png\" srcset=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/james_avatar-28x28.png 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">James</span></a>.\n\t</li>\n</ul>\n</div><!-- .bbp-topic-content -->\n</div> #post-169482",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Team Deakins will be at Bristol, Saturday October 8th for a book signing! Here are the details:"
+    },
+    {
+      "type": "paragraph",
+      "text": "12:30 PM"
+    },
+    {
+      "type": "paragraph",
+      "text": "Martin Parr Foundation\n316 Paintworks\nBristol BS4 3AR"
+    },
+    {
+      "type": "paragraph",
+      "text": "We hope we see you there!"
+    },
+    {
+      "type": "list",
+      "text": "This topic was modified 3 years, 3 months ago by\nJames\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/book-signing-in-bristol-uk/",
+      "text": "#169482",
+      "kind": "external"
+    },
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/daggerlily/",
+      "text": "James",
+      "kind": "external"
+    },
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/daggerlily/",
+      "text": "James",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2022/09/james_avatar-80x80.png",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2022/09/james_avatar-14x14.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/book-signing-in-bristol-uk/#post-169536",
+    "scraped_at": "2026-01-15T09:42:37.982680+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/book-signing-in-bristol-uk/#post-169536",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "98d7ccd5408788a869291e18c1df94a500005f4aa38632f02857374af7cd9fa7",
+    "parser_version": "bbpress-v1"
+  }
+}

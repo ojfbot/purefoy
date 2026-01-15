@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "217199",
+    "forum_slug": "forum",
+    "topic_slug": "opening-sequence-to-skyfall",
+    "parent_post_id": "217145",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "As always, since i’m just an amateur working on a little project i don’t think that my opinion is particularly relevant, but even in my little i try to take inspiration from Roger’s masterpieces. But i came to the conclusion (and it happened many times, in other completely different contextes) that, while it’s highly interesting and informative to know how Roger (or other great cinematographers) created a given scene, the point is not\ndoing the same thing ,\nbut\nthinking in the same way\n.  At least it works for me, i can’t speak for anyone else. But if i just try to copy something i can obtain, at best, a decent copy. If i try to think in the same way of someone that created something i really like, in that moment i understand and learn. Of course there’s some subjectivity in it, but an educated  guess is better than no guess.\nSo, my humble advice : study that scene from Skyfall and try to guess\nwhy\nRoger did this or that, not just what he did. If your goal is creating an exact copy of that scene do it, but perhaps i think it would make an even better impression to show that you can create a scene – even a different one  – in the same way Roger would. Just my opinion!",
+  "content_html": "<p>As always, since i’m just an amateur working on a little project i don’t think that my opinion is particularly relevant, but even in my little i try to take inspiration from Roger’s masterpieces. But i came to the conclusion (and it happened many times, in other completely different contextes) that, while it’s highly interesting and informative to know how Roger (or other great cinematographers) created a given scene, the point is not<em> doing the same thing , </em>but<em> thinking in the same way</em>.  At least it works for me, i can’t speak for anyone else. But if i just try to copy something i can obtain, at best, a decent copy. If i try to think in the same way of someone that created something i really like, in that moment i understand and learn. Of course there’s some subjectivity in it, but an educated  guess is better than no guess.</p>\n<p>So, my humble advice : study that scene from Skyfall and try to guess <em>why</em> Roger did this or that, not just what he did. If your goal is creating an exact copy of that scene do it, but perhaps i think it would make an even better impression to show that you can create a scene – even a different one  – in the same way Roger would. Just my opinion!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "As always, since i’m just an amateur working on a little project i don’t think that my opinion is particularly relevant, but even in my little i try to take inspiration from Roger’s masterpieces. But i came to the conclusion (and it happened many times, in other completely different contextes) that, while it’s highly interesting and informative to know how Roger (or other great cinematographers) created a given scene, the point is not\ndoing the same thing ,\nbut\nthinking in the same way\n.  At least it works for me, i can’t speak for anyone else. But if i just try to copy something i can obtain, at best, a decent copy. If i try to think in the same way of someone that created something i really like, in that moment i understand and learn. Of course there’s some subjectivity in it, but an educated  guess is better than no guess."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, my humble advice : study that scene from Skyfall and try to guess\nwhy\nRoger did this or that, not just what he did. If your goal is creating an exact copy of that scene do it, but perhaps i think it would make an even better impression to show that you can create a scene – even a different one  – in the same way Roger would. Just my opinion!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/opening-sequence-to-skyfall/#post-217204",
+    "scraped_at": "2026-01-15T15:21:30.565319+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/opening-sequence-to-skyfall/#post-217204",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "76b6344ada5cde5451219c6a2e2f2bc62f7ead4eff7ac18d270e450b0760efee",
+    "parser_version": "bbpress-v2"
+  }
+}

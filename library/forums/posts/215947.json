@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215947",
+    "forum_slug": "forum",
+    "topic_slug": "meter-reading-on-overcast-days",
+    "parent_post_id": "215925",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "simon m",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks so much Roger! Very helpful.\nYes, this make sense, as the cone would be receiving light from the overcast sky(highlight side) and the illumination from the ground(shadow side) in the same proportion as the actor’s faces. cheers.",
+  "content_html": "<p>Thanks so much Roger! Very helpful.<br/>\nYes, this make sense, as the cone would be receiving light from the overcast sky(highlight side) and the illumination from the ground(shadow side) in the same proportion as the actor’s faces. cheers.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks so much Roger! Very helpful.\nYes, this make sense, as the cone would be receiving light from the overcast sky(highlight side) and the illumination from the ground(shadow side) in the same proportion as the actor’s faces. cheers."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/#post-215975",
+    "scraped_at": "2026-01-15T15:43:02.748707+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/#post-215975",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "82c931f4806cdadbc6affac301765eb56f7d03eafe75c2f39f9e86e546401571",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216483",
+    "forum_slug": "post",
+    "topic_slug": "a-i-and-concept-development",
+    "parent_post_id": "216472",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Baudelaire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Im using most of the creative A.I programs daily. Still image, video, music generation for indie film making specifically I feel it has made a lot of things  previously impossible possible. I think A.I impact is very nuanced and rarely discussed coherently. I trained as a Fine art painter very intensively in UK.  For me the biggest misconception that people have about these tools is that it doesn’t negate the fact you still have to learn about art and design. That hasn’t changed. No matter  how incredible an image the A.I app generates you still need to understand on some level what it is you are actually looking at.",
+  "content_html": "<p>Im using most of the creative A.I programs daily. Still image, video, music generation for indie film making specifically I feel it has made a lot of things  previously impossible possible. I think A.I impact is very nuanced and rarely discussed coherently. I trained as a Fine art painter very intensively in UK.  For me the biggest misconception that people have about these tools is that it doesn’t negate the fact you still have to learn about art and design. That hasn’t changed. No matter  how incredible an image the A.I app generates you still need to understand on some level what it is you are actually looking at.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Im using most of the creative A.I programs daily. Still image, video, music generation for indie film making specifically I feel it has made a lot of things  previously impossible possible. I think A.I impact is very nuanced and rarely discussed coherently. I trained as a Fine art painter very intensively in UK.  For me the biggest misconception that people have about these tools is that it doesn’t negate the fact you still have to learn about art and design. That hasn’t changed. No matter  how incredible an image the A.I app generates you still need to understand on some level what it is you are actually looking at."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-i-and-concept-development/#post-216980",
+    "scraped_at": "2026-01-15T12:09:13.269721+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-i-and-concept-development/#post-216980",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b91a35f29e1ff5fa423d3ead05b7a20759e451a780fba026e94ebd4586138f38",
+    "parser_version": "bbpress-v2"
+  }
+}

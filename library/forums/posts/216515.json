@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216515",
+    "forum_slug": "forum",
+    "topic_slug": "natural-lighting-continuity-when-a-subject-leave-the-main-light",
+    "parent_post_id": "216512",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Colin was moving through a darker area and that didn’t bother me. Does he have more light on him when he stops and looks back towards the stage? I probably raised the level of the overhead rig as it was important to see the character’s reaction at this moment. That is just the sort of ‘cheat’ that is done from shot to shot.",
+  "content_html": "<p>Colin was moving through a darker area and that didn’t bother me. Does he have more light on him when he stops and looks back towards the stage? I probably raised the level of the overhead rig as it was important to see the character’s reaction at this moment. That is just the sort of ‘cheat’ that is done from shot to shot.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Colin was moving through a darker area and that didn’t bother me. Does he have more light on him when he stops and looks back towards the stage? I probably raised the level of the overhead rig as it was important to see the character’s reaction at this moment. That is just the sort of ‘cheat’ that is done from shot to shot."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/natural-lighting-continuity-when-a-subject-leave-the-main-light/#post-216525",
+    "scraped_at": "2026-01-15T15:24:28.438547+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/natural-lighting-continuity-when-a-subject-leave-the-main-light/#post-216525",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7cfbe05e34ca9b0c5d4dbb807926babf67fdda7662927c3724bcfaba14681075",
+    "parser_version": "bbpress-v2"
+  }
+}

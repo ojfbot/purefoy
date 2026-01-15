@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "169437",
+    "forum_slug": "camera",
+    "topic_slug": "camera-choice-in-1917",
+    "parent_post_id": "169432",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "BM459",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Interesting! Thank you for the response. Was the handheld in Jarhead chosen to be observational? I find that film to be very visceral.\nI wondered if perhaps the No Man’s Land scene would’ve benefited from something in the camera to reflect the unstable footing of the characters, though I think the solid camera actually depicts that better, especially that brilliant close up of the feet sliding in the mud. It might’ve been unhelpful to have a camera operator slipping around in the mud too! I think the “shot” of the camera rising above the trench for the first glimpse of No Man’s Land is the best moment in the film. It is absolutely bone-chilling, and the first time that the effect of the single take really makes an impact.\nI also am interested to see ‘All Quiet on the Western Front’. It looks outstanding.",
+  "content_html": "<p>Interesting! Thank you for the response. Was the handheld in Jarhead chosen to be observational? I find that film to be very visceral.</p>\n<p>I wondered if perhaps the No Man’s Land scene would’ve benefited from something in the camera to reflect the unstable footing of the characters, though I think the solid camera actually depicts that better, especially that brilliant close up of the feet sliding in the mud. It might’ve been unhelpful to have a camera operator slipping around in the mud too! I think the “shot” of the camera rising above the trench for the first glimpse of No Man’s Land is the best moment in the film. It is absolutely bone-chilling, and the first time that the effect of the single take really makes an impact.</p>\n<p>I also am interested to see ‘All Quiet on the Western Front’. It looks outstanding. </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Interesting! Thank you for the response. Was the handheld in Jarhead chosen to be observational? I find that film to be very visceral."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wondered if perhaps the No Man’s Land scene would’ve benefited from something in the camera to reflect the unstable footing of the characters, though I think the solid camera actually depicts that better, especially that brilliant close up of the feet sliding in the mud. It might’ve been unhelpful to have a camera operator slipping around in the mud too! I think the “shot” of the camera rising above the trench for the first glimpse of No Man’s Land is the best moment in the film. It is absolutely bone-chilling, and the first time that the effect of the single take really makes an impact."
+    },
+    {
+      "type": "paragraph",
+      "text": "I also am interested to see ‘All Quiet on the Western Front’. It looks outstanding."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-choice-in-1917/#post-169444",
+    "scraped_at": "2026-01-15T15:46:50.372536+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-choice-in-1917/#post-169444",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cfd1be7ff6671743bbcdb52ff06ff8de5759968a4e34730296129decd7fd0905",
+    "parser_version": "bbpress-v2"
+  }
+}

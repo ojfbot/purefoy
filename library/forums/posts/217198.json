@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "217198",
+    "forum_slug": "film-talk",
+    "topic_slug": "andrei-tarkovsky-film"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "kakaluote",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello, Mr Deakins!\nFirst of all, i really want to thank you for providing us a so great place to talk with you even though my english is terrible(forgive me). Continuous take is a very special and important way of showing film’s power. in a period of time, continuous take looks like a little popular in filmmaking, but give us some very great films in cinematography indeed, including your film”1917″, “bird man” and so on. but i found out andrei tarkovsky shoot a continuous take in almost his every film, it is very rare. as he said, he want to record the passing of time, his take recorded that something falling down after actor has left.  Maybe i was wrong, but i think he could catch the nature of  image just from very normal things. his shooting way is a little far away from narrative.  He is good at controlling details to express theme and found out visual subtext in every take as much as he can. The painting “The Hunters in the Snow” in the film “Solaris” is a great example. Of course, budget maybe also a reason to make him find out a very concise way to finish shooting, just like robert bresson. image texture and thrilling of life could be shown in his film, especially his edit, sound, color, movement, light. what do you think of his film? i hope my question won’t make you mad and angry. finally i have to apologize for my so terrible english. Wish you all the best！ Thanks！",
+  "content_html": "<p>Hello, Mr Deakins!</p>\n<p>First of all, i really want to thank you for providing us a so great place to talk with you even though my english is terrible(forgive me). Continuous take is a very special and important way of showing film’s power. in a period of time, continuous take looks like a little popular in filmmaking, but give us some very great films in cinematography indeed, including your film”1917″, “bird man” and so on. but i found out andrei tarkovsky shoot a continuous take in almost his every film, it is very rare. as he said, he want to record the passing of time, his take recorded that something falling down after actor has left.  Maybe i was wrong, but i think he could catch the nature of  image just from very normal things. his shooting way is a little far away from narrative.  He is good at controlling details to express theme and found out visual subtext in every take as much as he can. The painting “The Hunters in the Snow” in the film “Solaris” is a great example. Of course, budget maybe also a reason to make him find out a very concise way to finish shooting, just like robert bresson. image texture and thrilling of life could be shown in his film, especially his edit, sound, color, movement, light. what do you think of his film? i hope my question won’t make you mad and angry. finally i have to apologize for my so terrible english. Wish you all the best！ Thanks！</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello, Mr Deakins!"
+    },
+    {
+      "type": "paragraph",
+      "text": "First of all, i really want to thank you for providing us a so great place to talk with you even though my english is terrible(forgive me). Continuous take is a very special and important way of showing film’s power. in a period of time, continuous take looks like a little popular in filmmaking, but give us some very great films in cinematography indeed, including your film”1917″, “bird man” and so on. but i found out andrei tarkovsky shoot a continuous take in almost his every film, it is very rare. as he said, he want to record the passing of time, his take recorded that something falling down after actor has left.  Maybe i was wrong, but i think he could catch the nature of  image just from very normal things. his shooting way is a little far away from narrative.  He is good at controlling details to express theme and found out visual subtext in every take as much as he can. The painting “The Hunters in the Snow” in the film “Solaris” is a great example. Of course, budget maybe also a reason to make him find out a very concise way to finish shooting, just like robert bresson. image texture and thrilling of life could be shown in his film, especially his edit, sound, color, movement, light. what do you think of his film? i hope my question won’t make you mad and angry. finally i have to apologize for my so terrible english. Wish you all the best！ Thanks！"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/andrei-tarkovsky-film/#post-218165",
+    "scraped_at": "2026-01-15T12:08:58.664338+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/andrei-tarkovsky-film/#post-218165",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4008ebf3b5232f164ffa9299ff00bd25364a1204d3761757bdf6d33a9a857f1d",
+    "parser_version": "bbpress-v2"
+  }
+}

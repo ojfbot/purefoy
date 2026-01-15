@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "217434",
+    "forum_slug": "post",
+    "topic_slug": "base-light-vs-davinci-resolve",
+    "parent_post_id": "217411",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Not Roger. Colour correction is ultimately just digital signal processing, which eventually is just a ton of discrete arithmetic transforms on your image (pixel values).\nBoth operate with 32-bit floating point precision, so the decider is likely the preferred user interface and the post workflow.\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>Not Roger. Colour correction is ultimately just digital signal processing, which eventually is just a ton of discrete arithmetic transforms on your image (pixel values).</p>\n<p>Both operate with 32-bit floating point precision, so the decider is likely the preferred user interface and the post workflow.</p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Not Roger. Colour correction is ultimately just digital signal processing, which eventually is just a ton of discrete arithmetic transforms on your image (pixel values)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both operate with 32-bit floating point precision, so the decider is likely the preferred user interface and the post workflow."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/base-light-vs-davinci-resolve/#post-217434",
+    "scraped_at": "2026-01-15T12:08:57.700335+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/base-light-vs-davinci-resolve/#post-217434",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c5ccb39c3a8141cf387a8c1abd71912a46b27fe0c306e4725320f9f321032a03",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "219226",
+    "forum_slug": "forum",
+    "topic_slug": "shooting-day-for-night"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "KK 0055",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mr. Deakins and all forum members,\nI have an upcoming shoot (a low budget short)  in which most of the scenes happen in night exterior, more like an open field, lighting a wide night exterior is something new for me, me and my director were also thinking of shooting in daytime or dusk and changing it to night in grade. I’m not a big fan of this idea but would like to know some insights and tips if anyone had tried it before. Thank you!",
+  "content_html": "<p>Hello Mr. Deakins and all forum members,</p>\n<p>I have an upcoming shoot (a low budget short)  in which most of the scenes happen in night exterior, more like an open field, lighting a wide night exterior is something new for me, me and my director were also thinking of shooting in daytime or dusk and changing it to night in grade. I’m not a big fan of this idea but would like to know some insights and tips if anyone had tried it before. Thank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mr. Deakins and all forum members,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have an upcoming shoot (a low budget short)  in which most of the scenes happen in night exterior, more like an open field, lighting a wide night exterior is something new for me, me and my director were also thinking of shooting in daytime or dusk and changing it to night in grade. I’m not a big fan of this idea but would like to know some insights and tips if anyone had tried it before. Thank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-day-for-night/#post-219231",
+    "scraped_at": "2026-01-15T14:33:15.188492+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-day-for-night/#post-219231",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "87e8b9edd1c842e17f2c24fad005f7ed552b2de0ce73d045bd211f65e1697d3c",
+    "parser_version": "bbpress-v2"
+  }
+}

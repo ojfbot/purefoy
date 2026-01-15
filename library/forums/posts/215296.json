@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215296",
+    "forum_slug": "camera",
+    "topic_slug": "normal-lens-fo-arir-large-format",
+    "parent_post_id": "215293",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "May i ask a about the aperture and equivalence? I’ve read many confusing position about that. For some It seems that aperture changes to consider the equivalent focal length, for others the sensor doesn’t influence the aperture because It’s a ratio based on actual lens size . Who’s right?",
+  "content_html": "<p>May i ask a about the aperture and equivalence? I’ve read many confusing position about that. For some It seems that aperture changes to consider the equivalent focal length, for others the sensor doesn’t influence the aperture because It’s a ratio based on actual lens size . Who’s right?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "May i ask a about the aperture and equivalence? I’ve read many confusing position about that. For some It seems that aperture changes to consider the equivalent focal length, for others the sensor doesn’t influence the aperture because It’s a ratio based on actual lens size . Who’s right?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/normal-lens-fo-arir-large-format/#post-215297",
+    "scraped_at": "2026-01-15T15:22:24.305222+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/normal-lens-fo-arir-large-format/#post-215297",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dc0f94e44bb54566c49f45859e78fdebedc6c60429340b76a0c39a25ee94259d",
+    "parser_version": "bbpress-v2"
+  }
+}

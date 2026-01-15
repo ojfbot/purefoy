@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "217889",
+    "forum_slug": "camera",
+    "topic_slug": "exposing-film-for-bleach-bypass"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "JamesLahaise",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey!\nI am in early stages of prep for an experimental music video where the director and I are keen to try a bleach bypass. Do you have any advice on how to expose 35mm film accounting for this development process? I’ve read online about under exposing 1 or 2 stops to control the increased contrast in the highlights and preventing them from becoming too blown out, but could the reverse not also be true as you get very constasty blacks with this process? We want rich and dense blacks so I’m thinking of only slgihtly under exposing to preserve some detail and control my highlights in my lighting plan to avoid them becoming too harsh.\nAny tips or advice for exposing and utilising this development process would be greatly appreciated!\nThanks\nJames",
+  "content_html": "<p>Hey!</p>\n<p>I am in early stages of prep for an experimental music video where the director and I are keen to try a bleach bypass. Do you have any advice on how to expose 35mm film accounting for this development process? I’ve read online about under exposing 1 or 2 stops to control the increased contrast in the highlights and preventing them from becoming too blown out, but could the reverse not also be true as you get very constasty blacks with this process? We want rich and dense blacks so I’m thinking of only slgihtly under exposing to preserve some detail and control my highlights in my lighting plan to avoid them becoming too harsh.</p>\n<p>Any tips or advice for exposing and utilising this development process would be greatly appreciated!</p>\n<p>Thanks</p>\n<p>James</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am in early stages of prep for an experimental music video where the director and I are keen to try a bleach bypass. Do you have any advice on how to expose 35mm film accounting for this development process? I’ve read online about under exposing 1 or 2 stops to control the increased contrast in the highlights and preventing them from becoming too blown out, but could the reverse not also be true as you get very constasty blacks with this process? We want rich and dense blacks so I’m thinking of only slgihtly under exposing to preserve some detail and control my highlights in my lighting plan to avoid them becoming too harsh."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any tips or advice for exposing and utilising this development process would be greatly appreciated!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks"
+    },
+    {
+      "type": "paragraph",
+      "text": "James"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposing-film-for-bleach-bypass/#post-218005",
+    "scraped_at": "2026-01-15T13:06:00.266480+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposing-film-for-bleach-bypass/#post-218005",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f6a920b5512fd594b9b9d846a06182625d58d3b8b6cf6a0cddc2a4c8a524e22e",
+    "parser_version": "bbpress-v2"
+  }
+}

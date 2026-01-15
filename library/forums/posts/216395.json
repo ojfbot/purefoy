@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216395",
+    "forum_slug": "camera",
+    "topic_slug": "camera-movement",
+    "parent_post_id": "216389",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "On a Coen Brother’s film most of those basic decisions are made during pre production. I think the ability to move the camera, as we do with the combination of a remote head and a jib arm, influences what we might choose to do. On the other hand, No Country for Old Men, was shot with less camera movement than many of their films. The style of the camera is guided by the story and the way the director wishes to interpret it. True Grit was more of a ‘fairy tale’ than No Country, which was set in a more harsh reality.",
+  "content_html": "<p>On a Coen Brother’s film most of those basic decisions are made during pre production. I think the ability to move the camera, as we do with the combination of a remote head and a jib arm, influences what we might choose to do. On the other hand, No Country for Old Men, was shot with less camera movement than many of their films. The style of the camera is guided by the story and the way the director wishes to interpret it. True Grit was more of a ‘fairy tale’ than No Country, which was set in a more harsh reality.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "On a Coen Brother’s film most of those basic decisions are made during pre production. I think the ability to move the camera, as we do with the combination of a remote head and a jib arm, influences what we might choose to do. On the other hand, No Country for Old Men, was shot with less camera movement than many of their films. The style of the camera is guided by the story and the way the director wishes to interpret it. True Grit was more of a ‘fairy tale’ than No Country, which was set in a more harsh reality."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-movement/#post-216395",
+    "scraped_at": "2026-01-15T14:16:55.925636+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-movement/#post-216395",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b64b4e6cae96106e9473824f6d7d3fc57564ef86830ff3710e9bc0d12105e88e",
+    "parser_version": "bbpress-v2"
+  }
+}

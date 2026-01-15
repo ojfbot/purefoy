@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215644",
+    "forum_slug": "camera",
+    "topic_slug": "struggling-with-perspective-in-a-scene",
+    "parent_post_id": "215582",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I like having an overall concept but rules are always there to be broken. If it feels right it may just well be right.",
+  "content_html": "<p>I like having an overall concept but rules are always there to be broken. If it feels right it may just well be right.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I like having an overall concept but rules are always there to be broken. If it feels right it may just well be right."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/struggling-with-perspective-in-a-scene/#post-215644",
+    "scraped_at": "2026-01-15T15:21:27.079636+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/struggling-with-perspective-in-a-scene/#post-215644",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4cd850371d2ac5b86d1bb22367c26e77e484e32cc64c1a587a5bd15ad3230876",
+    "parser_version": "bbpress-v2"
+  }
+}

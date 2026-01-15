@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "169484",
+    "forum_slug": "team-deakins/byways",
+    "topic_slug": "upcoming-exhibitions-in-europe"
+  },
+  "author": {
+    "display_name": "#169484",
+    "role": "James"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Keymaster\nWe have two upcoming exhibitions of Roger’s photos in Europe in November. It’s a chance to see the photographs in person! The exhibitions will be held in Bologna, Italy and Katowice, Poland.Italy opens November 16th and Poland opens November 25th.\nThere will be images from BYWAYS but also some unpublished work as well.\nMore to come!",
+  "content_html": "<div class=\"bbp-topic-header\">\n<div class=\"bbp-meta\">\n<span class=\"bbp-topic-post-date\">September 29, 2022 at 10:58 am</span>\n<a class=\"bbp-topic-permalink\" href=\"https://www.rogerdeakins.com/forums/topic/upcoming-exhibitions-in-europe/\">#169484</a>\n<span class=\"bbp-admin-links\"></span>\n</div><!-- .bbp-meta -->\n</div> .bbp-topic-header \n<div class=\"loop-item--1 user-id-1 bbp-parent-forum-169249 even post-169484 topic type-topic status-publish hentry\" id=\"post-169484\">\n<div class=\"bbp-topic-author\">\n<a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/daggerlily/\" title=\"View James's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-80 photo\" decoding=\"async\" height=\"80\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/james_avatar-80x80.png\" srcset=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/james_avatar-100x100.png 2x\" width=\"80\"/></span><span class=\"bbp-author-name\">James</span></a><div class=\"bbp-author-role\"><div class=\"\">Keymaster</div></div>\n<div class=\"tc_display\"><ul></ul></div>\n</div><!-- .bbp-topic-author -->\n<div class=\"bbp-topic-content\">\n<p>We have two upcoming exhibitions of Roger’s photos in Europe in November. It’s a chance to see the photographs in person! The exhibitions will be held in Bologna, Italy and Katowice, Poland.Italy opens November 16th and Poland opens November 25th.</p>\n<p>There will be images from BYWAYS but also some unpublished work as well.</p>\n<p>More to come!</p>\n</div><!-- .bbp-topic-content -->\n</div> #post-169484",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "We have two upcoming exhibitions of Roger’s photos in Europe in November. It’s a chance to see the photographs in person! The exhibitions will be held in Bologna, Italy and Katowice, Poland.Italy opens November 16th and Poland opens November 25th."
+    },
+    {
+      "type": "paragraph",
+      "text": "There will be images from BYWAYS but also some unpublished work as well."
+    },
+    {
+      "type": "paragraph",
+      "text": "More to come!"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/upcoming-exhibitions-in-europe/",
+      "text": "#169484",
+      "kind": "external"
+    },
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/daggerlily/",
+      "text": "James",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2022/09/james_avatar-80x80.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/upcoming-exhibitions-in-europe/#post-169527",
+    "scraped_at": "2026-01-15T09:42:59.126839+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/upcoming-exhibitions-in-europe/#post-169527",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4bb26ee7aeab9a3c206303bfd83500eedcebe9df64097138993f7cebf1285605",
+    "parser_version": "bbpress-v1"
+  }
+}

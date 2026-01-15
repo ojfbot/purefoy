@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "177317",
+    "forum_slug": "camera",
+    "topic_slug": "short-slow-push-ins-pull-outs-example-films",
+    "parent_post_id": "177107",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "“You need that mass to create that slow movement in my opinion. ”\nThe slider I linked to does exactly that, with or without motor. It creates movement that looks like a heavy dolly move, even when just moving it an inch, which is why I consider it replacing a dolly. You can also pan and tilt. I tried dozens of sliders and none could do it, this does.\nI usually embrace limitations as they force my creativity, I’m just not sure if limiting “dolly moves” to 100cm camera travel length will be too much. Many scenes will have long tracking shots (steadicam), so using less movement for the rest of the film, in theory, should work.\nBut it’s theory and maybe there is something out there for me to watch and get an idea if it’s worth investigating further.",
+  "content_html": "<p>“You need that mass to create that slow movement in my opinion. ”</p>\n<p>The slider I linked to does exactly that, with or without motor. It creates movement that looks like a heavy dolly move, even when just moving it an inch, which is why I consider it replacing a dolly. You can also pan and tilt. I tried dozens of sliders and none could do it, this does.</p>\n<p>I usually embrace limitations as they force my creativity, I’m just not sure if limiting “dolly moves” to 100cm camera travel length will be too much. Many scenes will have long tracking shots (steadicam), so using less movement for the rest of the film, in theory, should work.</p>\n<p>But it’s theory and maybe there is something out there for me to watch and get an idea if it’s worth investigating further.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "“You need that mass to create that slow movement in my opinion. ”"
+    },
+    {
+      "type": "paragraph",
+      "text": "The slider I linked to does exactly that, with or without motor. It creates movement that looks like a heavy dolly move, even when just moving it an inch, which is why I consider it replacing a dolly. You can also pan and tilt. I tried dozens of sliders and none could do it, this does."
+    },
+    {
+      "type": "paragraph",
+      "text": "I usually embrace limitations as they force my creativity, I’m just not sure if limiting “dolly moves” to 100cm camera travel length will be too much. Many scenes will have long tracking shots (steadicam), so using less movement for the rest of the film, in theory, should work."
+    },
+    {
+      "type": "paragraph",
+      "text": "But it’s theory and maybe there is something out there for me to watch and get an idea if it’s worth investigating further."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/short-slow-push-ins-pull-outs-example-films/#post-177385",
+    "scraped_at": "2026-01-15T15:44:32.845883+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/short-slow-push-ins-pull-outs-example-films/#post-177385",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1c980f9ec007f25f679e326896c577d81ae1124913a19a84d7188ca128ace942",
+    "parser_version": "bbpress-v2"
+  }
+}

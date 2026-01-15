@@ -1,0 +1,56 @@
+{
+  "ids": {
+    "post_id": "217465",
+    "forum_slug": "composition",
+    "topic_slug": "framing-for-different-aspect-ratios-with-monitor"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "sanghamithran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi master Deakins,\nhere in one of the behind the scenes in no country, the monitor shows more of a square image with guideline for 2.35 aspect ratio for the final film.\nIs it not distracting to see the full frame for you when framing for wide screen aspect ratios or is it how you prefer doing, was it not better to black out the top and bottom of the frame if the final is 2.35.\nThank you .",
+  "content_html": "<p>Hi master Deakins,</p>\n<p>here in one of the behind the scenes in no country, the monitor shows more of a square image with guideline for 2.35 aspect ratio for the final film.</p>\n<p>Is it not distracting to see the full frame for you when framing for wide screen aspect ratios or is it how you prefer doing, was it not better to black out the top and bottom of the frame if the final is 2.35.</p>\n<p>Thank you .</p>\n<p> </p>\n<p><img alt=\"Monitor\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/217465/rc0cg9nk6rodoicaq89wy3rkuwqzkbaf.png\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi master Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "here in one of the behind the scenes in no country, the monitor shows more of a square image with guideline for 2.35 aspect ratio for the final film."
+    },
+    {
+      "type": "paragraph",
+      "text": "Is it not distracting to see the full frame for you when framing for wide screen aspect ratios or is it how you prefer doing, was it not better to black out the top and bottom of the frame if the final is 2.35."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you ."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/217465/rc0cg9nk6rodoicaq89wy3rkuwqzkbaf.png",
+      "alt": "Monitor",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/framing-for-different-aspect-ratios-with-monitor/#post-217978",
+    "scraped_at": "2026-01-15T12:08:06.330367+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/framing-for-different-aspect-ratios-with-monitor/#post-217978",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3c3522520a7ba3e999b8c928294c137ccf25bb00c81ee603ec3adfdf1adec4c0",
+    "parser_version": "bbpress-v2"
+  }
+}

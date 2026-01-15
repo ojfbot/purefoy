@@ -1,0 +1,121 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/bounce-lighting/#post-216109",
+  "forum_slug": "forum",
+  "topic_slug": "bounce-lighting",
+  "title": "Bounce Lighting",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216059",
+    "216061",
+    "216062",
+    "216063",
+    "216066",
+    "216067",
+    "216068",
+    "216069",
+    "216070",
+    "216084",
+    "216089",
+    "216109"
+  ],
+  "reply_tree": {
+    "post_id": "216059",
+    "post_type": "topic",
+    "author": "Vasu",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216061",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216062",
+        "post_type": "reply",
+        "author": "Vasu",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216063",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216066",
+        "post_type": "reply",
+        "author": "Richard Harling",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216067",
+        "post_type": "reply",
+        "author": "Vasu",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216068",
+        "post_type": "reply",
+        "author": "Richard Harling",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216069",
+        "post_type": "reply",
+        "author": "Vasu",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216070",
+        "post_type": "reply",
+        "author": "Vasu",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216084",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216089",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216109",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 11,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bounce-lighting/#post-216109",
+    "scraped_at": "2026-01-15T15:41:54.729191+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bounce-lighting/#post-216109",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a947e7e510ec08c341631b602224fe398bbde09d63d3316fa9a4009c5221f826",
+    "parser_version": "bbpress-v2"
+  }
+}

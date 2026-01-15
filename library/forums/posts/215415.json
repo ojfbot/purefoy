@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "215415",
+    "forum_slug": "team-deakins",
+    "topic_slug": "ernest-dickerson"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Bretsky",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi\nI was pleased to hear him talking about watching older films for inspiration. Especially “Les Vampires” the French serial from the early 1900s.\nI had the pleasure of restoring it for home video. I hope that’s the version he watched.\nThere’s much to be learned from earlier films IMO. And little by little we find lost treasures and bring them back to life so all can enjoy.",
+  "content_html": "<p>Hi</p>\n<p>I was pleased to hear him talking about watching older films for inspiration. Especially “Les Vampires” the French serial from the early 1900s.</p>\n<p>I had the pleasure of restoring it for home video. I hope that’s the version he watched.</p>\n<p>There’s much to be learned from earlier films IMO. And little by little we find lost treasures and bring them back to life so all can enjoy.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was pleased to hear him talking about watching older films for inspiration. Especially “Les Vampires” the French serial from the early 1900s."
+    },
+    {
+      "type": "paragraph",
+      "text": "I had the pleasure of restoring it for home video. I hope that’s the version he watched."
+    },
+    {
+      "type": "paragraph",
+      "text": "There’s much to be learned from earlier films IMO. And little by little we find lost treasures and bring them back to life so all can enjoy."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ernest-dickerson/",
+    "scraped_at": "2026-01-15T13:23:51.487395+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ernest-dickerson/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9e734ca0f8542791d910c918ab20feb079373bcef9954976f5f4dec4d357168e",
+    "parser_version": "bbpress-v2"
+  }
+}

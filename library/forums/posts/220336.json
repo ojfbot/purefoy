@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220336",
+    "forum_slug": "composition",
+    "topic_slug": "how-do-you-deal-with-subjects-with-patterns-and-textures-2",
+    "parent_post_id": "220312",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks a lot Roger! I really love the elegance and simplicity of the cinematography of that movie, i think it’s perfect for the story without being too evident and attention demanding. As an exercise i’m storyboarding the dialogue between Meryl Streep and Viola Davis, one can learn a lot from that scene in terms of…well, everything, it’s perfect.",
+  "content_html": "<p>Thanks a lot Roger! I really love the elegance and simplicity of the cinematography of that movie, i think it’s perfect for the story without being too evident and attention demanding. As an exercise i’m storyboarding the dialogue between Meryl Streep and Viola Davis, one can learn a lot from that scene in terms of…well, everything, it’s perfect.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks a lot Roger! I really love the elegance and simplicity of the cinematography of that movie, i think it’s perfect for the story without being too evident and attention demanding. As an exercise i’m storyboarding the dialogue between Meryl Streep and Viola Davis, one can learn a lot from that scene in terms of…well, everything, it’s perfect."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-do-you-deal-with-subjects-with-patterns-and-textures-2/#post-220336",
+    "scraped_at": "2026-01-15T11:51:01.997036+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-do-you-deal-with-subjects-with-patterns-and-textures-2/#post-220336",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4859bcc3ecb49cc7c7fe58ddae1880233a8eaefe22d89c6b5d0acf8d36c1af6a",
+    "parser_version": "bbpress-v2"
+  }
+}

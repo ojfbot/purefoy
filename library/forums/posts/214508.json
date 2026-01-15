@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214508",
+    "forum_slug": "forum",
+    "topic_slug": "green-cast-when-lighting-through-windows",
+    "parent_post_id": "214506",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I totally agree with David’s advice there. If you have no need for additional light sources you should have no problem timing out the excessive green tint – or you might just like it! As David says, if you see green outside you might expect the inside to reflect the same source rather than something that is purely ‘white’.",
+  "content_html": "<p>I totally agree with David’s advice there. If you have no need for additional light sources you should have no problem timing out the excessive green tint – or you might just like it! As David says, if you see green outside you might expect the inside to reflect the same source rather than something that is purely ‘white’.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I totally agree with David’s advice there. If you have no need for additional light sources you should have no problem timing out the excessive green tint – or you might just like it! As David says, if you see green outside you might expect the inside to reflect the same source rather than something that is purely ‘white’."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/green-cast-when-lighting-through-windows/#post-214508",
+    "scraped_at": "2026-01-15T15:53:18.623214+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/green-cast-when-lighting-through-windows/#post-214508",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b8dbef58201724448377216f918ae5f568aeb3ac8ae1b421c93eea82eb9e34d6",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "170309",
+    "forum_slug": "set-talk",
+    "topic_slug": "the-bare-minimum-for-making-a-whorthwhile-film",
+    "parent_post_id": "170298",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "GianniRanzuglia",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t believe a longer film generally means a better film, nor a feature film being classified as ‘worthwhile’ because of its extended period of time.\nFirst you’d have to develop a story and see where that takes you, but I think you’re prioritising looks over substance. Just because you have a great set designer, camera or lighting rig doesn’t mean your short/feature film will be a masterpiece.\nI’d really encourage you to watch David Sandberg’s <i>Lights Out</i>, its an amazing and thrilling 3min short horror film. Of course your short film might differ from his, but nonetheless, it was shot on two rooms, with an IKEA lamp, a strong bulb and a redhead.",
+  "content_html": "<p>I don’t believe a longer film generally means a better film, nor a feature film being classified as ‘worthwhile’ because of its extended period of time.</p>\n<p>First you’d have to develop a story and see where that takes you, but I think you’re prioritising looks over substance. Just because you have a great set designer, camera or lighting rig doesn’t mean your short/feature film will be a masterpiece.</p>\n<p>I’d really encourage you to watch David Sandberg’s &lt;i&gt;Lights Out&lt;/i&gt;, its an amazing and thrilling 3min short horror film. Of course your short film might differ from his, but nonetheless, it was shot on two rooms, with an IKEA lamp, a strong bulb and a redhead.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t believe a longer film generally means a better film, nor a feature film being classified as ‘worthwhile’ because of its extended period of time."
+    },
+    {
+      "type": "paragraph",
+      "text": "First you’d have to develop a story and see where that takes you, but I think you’re prioritising looks over substance. Just because you have a great set designer, camera or lighting rig doesn’t mean your short/feature film will be a masterpiece."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’d really encourage you to watch David Sandberg’s <i>Lights Out</i>, its an amazing and thrilling 3min short horror film. Of course your short film might differ from his, but nonetheless, it was shot on two rooms, with an IKEA lamp, a strong bulb and a redhead."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-bare-minimum-for-making-a-whorthwhile-film/#post-170471",
+    "scraped_at": "2026-01-15T13:56:40.719730+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-bare-minimum-for-making-a-whorthwhile-film/#post-170471",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e06dfb3fdb7493bdc65b3bd97eb22ce995852415a2999bcd9ac070c594f1e6a7",
+    "parser_version": "bbpress-v2"
+  }
+}

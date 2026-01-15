@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214922",
+    "forum_slug": "forum",
+    "topic_slug": "phantom-thread-cafe-scene",
+    "parent_post_id": "214912",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Looking at a still like this makes it seem unrealistic as the artificial light effecting the characters is so much brighter than the sky. Nor is the same light present on the fence or building in the mid distance. However, in the run of the scene this is not something that draws the attention.",
+  "content_html": "<p>Looking at a still like this makes it seem unrealistic as the artificial light effecting the characters is so much brighter than the sky. Nor is the same light present on the fence or building in the mid distance. However, in the run of the scene this is not something that draws the attention.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Looking at a still like this makes it seem unrealistic as the artificial light effecting the characters is so much brighter than the sky. Nor is the same light present on the fence or building in the mid distance. However, in the run of the scene this is not something that draws the attention."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/phantom-thread-cafe-scene/#post-214960",
+    "scraped_at": "2026-01-15T15:50:06.665361+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/phantom-thread-cafe-scene/#post-214960",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "91a5868031dcf6aeba9d5260953a795d9ac82064f93deb494d207608021a4c53",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "post_id": "215052",
+    "forum_slug": "forum",
+    "topic_slug": "outdoor-scenes-with-heavy-fog"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "George",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger and much appreciated community,\nI will be shooting several exterior scenes, set in a small mountain village where it is supposed to be very foggy. The fog is should get stronger and stronger in the course of these scenes, until at some point only outlines and silhouettes of houses and people are recognizable.\nI’m already in contact with a SFX company regarding strong fog units and pipes but I’d like to ask you all additionally for experience values and tips. Especially sun and wind worry me for the conitnuity and credibility of the fog. I am very thankful for all comments and inputs, thank you!\nHere are a few mood pictures from the film “Come and See”:",
+  "content_html": "<p>Dear Roger and much appreciated community,</p>\n<p>I will be shooting several exterior scenes, set in a small mountain village where it is supposed to be very foggy. The fog is should get stronger and stronger in the course of these scenes, until at some point only outlines and silhouettes of houses and people are recognizable.<br/>\nI’m already in contact with a SFX company regarding strong fog units and pipes but I’d like to ask you all additionally for experience values and tips. Especially sun and wind worry me for the conitnuity and credibility of the fog. I am very thankful for all comments and inputs, thank you!</p>\n<p>Here are a few mood pictures from the film “Come and See”:</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215052/hjfuu0j57uqhnqtd4kg4wuoyamduwpmw.png\"/></p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215052/2glrgnleq3uthh4ruqtbmjkwcwwxig1h.png\"/></p>\n<p><img alt=\"\" decoding=\"async\" src=\"Please wait...\"/><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215052/3vmmwrzdmh8kloo2x6lw4ftbylndvhb6.png\"/></p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215052/412klpg1xvyija5zpx9u4lqxmmxdjwdj.png\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger and much appreciated community,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I will be shooting several exterior scenes, set in a small mountain village where it is supposed to be very foggy. The fog is should get stronger and stronger in the course of these scenes, until at some point only outlines and silhouettes of houses and people are recognizable.\nI’m already in contact with a SFX company regarding strong fog units and pipes but I’d like to ask you all additionally for experience values and tips. Especially sun and wind worry me for the conitnuity and credibility of the fog. I am very thankful for all comments and inputs, thank you!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here are a few mood pictures from the film “Come and See”:"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215052/hjfuu0j57uqhnqtd4kg4wuoyamduwpmw.png",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215052/2glrgnleq3uthh4ruqtbmjkwcwwxig1h.png",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://rogerdeakins.com/Please wait...",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215052/3vmmwrzdmh8kloo2x6lw4ftbylndvhb6.png",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215052/412klpg1xvyija5zpx9u4lqxmmxdjwdj.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/outdoor-scenes-with-heavy-fog/#post-215073",
+    "scraped_at": "2026-01-15T15:49:27.552450+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/outdoor-scenes-with-heavy-fog/#post-215073",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3a3018896e6a90f805373b362a2f0c9e747b3f75eb896aabab13dfd3a0315ca8",
+    "parser_version": "bbpress-v2"
+  }
+}

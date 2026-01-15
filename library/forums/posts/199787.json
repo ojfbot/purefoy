@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "199787",
+    "forum_slug": "forum",
+    "topic_slug": "1917-tracking-shots-lighting",
+    "parent_post_id": "199431",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "DuncanM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks Roger!",
+  "content_html": "<p>Thanks Roger!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks Roger!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/1917-tracking-shots-lighting/#post-199804",
+    "scraped_at": "2026-01-15T15:54:30.961926+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/1917-tracking-shots-lighting/#post-199804",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "62a46286509a30499a9493bb50561b5702f30da08405b5d8ca37ee30471c17ad",
+    "parser_version": "bbpress-v2"
+  }
+}

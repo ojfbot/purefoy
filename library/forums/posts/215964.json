@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "215964",
+    "forum_slug": "forum",
+    "topic_slug": "shashank-redemption-harsh-lighting"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger I just saw ‘shawshank redemption’ after a long time. I like to ask few questions. 1. What lens did you use for Brooks feed a bird’s after parole. I assume it’s more than 50mm. 2. The overall lighting seems little Harshness. Is it for harsh prison environment or lead to hope? What was on your mind when you light this picture.",
+  "content_html": "<p>Dear master Roger I just saw ‘shawshank redemption’ after a long time. I like to ask few questions. 1. What lens did you use for Brooks feed a bird’s after parole. I assume it’s more than 50mm. 2. The overall lighting seems little Harshness. Is it for harsh prison environment or lead to hope? What was on your mind when you light this picture.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger I just saw ‘shawshank redemption’ after a long time. I like to ask few questions. 1. What lens did you use for Brooks feed a bird’s after parole. I assume it’s more than 50mm. 2. The overall lighting seems little Harshness. Is it for harsh prison environment or lead to hope? What was on your mind when you light this picture."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shashank-redemption-harsh-lighting/#post-215979",
+    "scraped_at": "2026-01-15T15:42:56.402033+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shashank-redemption-harsh-lighting/#post-215979",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b08888a4a794df8dabf5aa1206343786f891fcbc0308c20dbe64d0bc798fa5e1",
+    "parser_version": "bbpress-v2"
+  }
+}

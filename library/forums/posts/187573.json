@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "187573",
+    "forum_slug": "post",
+    "topic_slug": "printer-lights-and-digital",
+    "parent_post_id": "187460",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It’s tricky to talk about how to know exactly how your negative is exposed except in obvious cases of heavy over or underexposure. Even when talking about printer lights, keep in mind that the printers were calibrated at each lab slightly differently, printing at 25-25-25 (middle of the 1-50 scale for each color) didn’t yield the same results at every lab with the same piece of negative — though the lab could tell you want something shot “normally” based on LAD values should print at. More or less.\nThis is why testing in prep was so important, what mattered is that you found a set of printer lights you felt was best for the image you wanted.  After that was determined, day by day you could find out if your footage was printing close to what you wanted, knowing that underexposed footage would end up using lower numbers, etc. Or you could do what cinematographers like Richard Kline did, actually tell the labs to use a set of numbers — then you’d find out yourself if your footage was too dark or too bright rather than have to corrected for you. Of course he did that in the days when there was only one Kodak stock to shoot. With the varieties of stocks later, and daily variations in lab chemistry, etc., I was more likely to ask that the roll be timed for a grey card shot at the head.\nIf you’re shooting film, then having a neutral gray card (and face) — shot in boring, flat “white” light so that there is no creative interpretation involved in deciding what “neutral” and “normal” is — is the best way of knowing if the footage that follows the card was under or overexposed a bit more than intended.",
+  "content_html": "<p>It’s tricky to talk about how to know exactly how your negative is exposed except in obvious cases of heavy over or underexposure. Even when talking about printer lights, keep in mind that the printers were calibrated at each lab slightly differently, printing at 25-25-25 (middle of the 1-50 scale for each color) didn’t yield the same results at every lab with the same piece of negative — though the lab could tell you want something shot “normally” based on LAD values should print at. More or less.</p>\n<p>This is why testing in prep was so important, what mattered is that you found a set of printer lights you felt was best for the image you wanted.  After that was determined, day by day you could find out if your footage was printing close to what you wanted, knowing that underexposed footage would end up using lower numbers, etc. Or you could do what cinematographers like Richard Kline did, actually tell the labs to use a set of numbers — then you’d find out yourself if your footage was too dark or too bright rather than have to corrected for you. Of course he did that in the days when there was only one Kodak stock to shoot. With the varieties of stocks later, and daily variations in lab chemistry, etc., I was more likely to ask that the roll be timed for a grey card shot at the head.</p>\n<p>If you’re shooting film, then having a neutral gray card (and face) — shot in boring, flat “white” light so that there is no creative interpretation involved in deciding what “neutral” and “normal” is — is the best way of knowing if the footage that follows the card was under or overexposed a bit more than intended.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "It’s tricky to talk about how to know exactly how your negative is exposed except in obvious cases of heavy over or underexposure. Even when talking about printer lights, keep in mind that the printers were calibrated at each lab slightly differently, printing at 25-25-25 (middle of the 1-50 scale for each color) didn’t yield the same results at every lab with the same piece of negative — though the lab could tell you want something shot “normally” based on LAD values should print at. More or less."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is why testing in prep was so important, what mattered is that you found a set of printer lights you felt was best for the image you wanted.  After that was determined, day by day you could find out if your footage was printing close to what you wanted, knowing that underexposed footage would end up using lower numbers, etc. Or you could do what cinematographers like Richard Kline did, actually tell the labs to use a set of numbers — then you’d find out yourself if your footage was too dark or too bright rather than have to corrected for you. Of course he did that in the days when there was only one Kodak stock to shoot. With the varieties of stocks later, and daily variations in lab chemistry, etc., I was more likely to ask that the roll be timed for a grey card shot at the head."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you’re shooting film, then having a neutral gray card (and face) — shot in boring, flat “white” light so that there is no creative interpretation involved in deciding what “neutral” and “normal” is — is the best way of knowing if the footage that follows the card was under or overexposed a bit more than intended."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/printer-lights-and-digital/#post-189193",
+    "scraped_at": "2026-01-15T13:39:52.305723+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/printer-lights-and-digital/#post-189193",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "185934eff1883b794910f18de9f57b89f3cde3532fb4463b1ce1e4e2298c687b",
+    "parser_version": "bbpress-v2"
+  }
+}

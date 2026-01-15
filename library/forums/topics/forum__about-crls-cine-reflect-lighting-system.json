@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/about-crls-cine-reflect-lighting-system/",
+  "forum_slug": "forum",
+  "topic_slug": "about-crls-cine-reflect-lighting-system",
+  "title": "About CRLS (Cine Reflect Lighting System)",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215688"
+  ],
+  "reply_tree": {
+    "post_id": "215688",
+    "post_type": "topic",
+    "author": "zzxinsk",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-crls-cine-reflect-lighting-system/",
+    "scraped_at": "2026-01-15T15:45:20.643831+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-crls-cine-reflect-lighting-system/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2209ce69036e97ffc94e4f181516fe4209122ca4411a8af23602714d8733fe33",
+    "parser_version": "bbpress-v2"
+  }
+}

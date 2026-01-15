@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "173722",
+    "forum_slug": "film-talk",
+    "topic_slug": "tarkovsky-film-stalker"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Tree_Top",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I very much enjoyed the video of Roger talking about “Come and See’ and was wondering if he’d ever seen the Tarkovsky film Stalker? I’d Iove to hear his thoughts on it as it seems to follow along the same lines of ‘beauty in ugliness” that he mentioned. But also on the cinematography of the film which captures a lot of the profound nature of the mundane.",
+  "content_html": "<p>I very much enjoyed the video of Roger talking about “Come and See’ and was wondering if he’d ever seen the Tarkovsky film Stalker? I’d Iove to hear his thoughts on it as it seems to follow along the same lines of ‘beauty in ugliness” that he mentioned. But also on the cinematography of the film which captures a lot of the profound nature of the mundane.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I very much enjoyed the video of Roger talking about “Come and See’ and was wondering if he’d ever seen the Tarkovsky film Stalker? I’d Iove to hear his thoughts on it as it seems to follow along the same lines of ‘beauty in ugliness” that he mentioned. But also on the cinematography of the film which captures a lot of the profound nature of the mundane."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/tarkovsky-film-stalker/#post-175108",
+    "scraped_at": "2026-01-15T14:33:37.206518+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/tarkovsky-film-stalker/#post-175108",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "09842a1b49e670febb6b94f814a1d1adf014251f674a6aa3ef534f155bdf55d6",
+    "parser_version": "bbpress-v2"
+  }
+}

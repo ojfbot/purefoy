@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "post_id": "214648",
+    "forum_slug": "team-deakins",
+    "topic_slug": "new-youtube-video-6-24"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Abraham",
+    "role": "Moderator"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello everyone,\nWe’ve released a new video on the Team Deakins Youtube channel featuring highlights from James’ and Roger’s recent trip to Dallas, Texas.\nThe link to watch can be found here:\nhttps://www.youtube.com/watch?v=DyQ67Su7osQ",
+  "content_html": "<p>Hello everyone,</p>\n<p>We’ve released a new video on the Team Deakins Youtube channel featuring highlights from James’ and Roger’s recent trip to Dallas, Texas.</p>\n<p>The link to watch can be found here: <a href=\"https://www.youtube.com/watch?v=DyQ67Su7osQ\" rel=\"nofollow\">https://www.youtube.com/watch?v=DyQ67Su7osQ</a></p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello everyone,"
+    },
+    {
+      "type": "paragraph",
+      "text": "We’ve released a new video on the Team Deakins Youtube channel featuring highlights from James’ and Roger’s recent trip to Dallas, Texas."
+    },
+    {
+      "type": "paragraph",
+      "text": "The link to watch can be found here:\nhttps://www.youtube.com/watch?v=DyQ67Su7osQ"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.youtube.com/watch?v=DyQ67Su7osQ",
+      "text": "https://www.youtube.com/watch?v=DyQ67Su7osQ",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/new-youtube-video-6-24/#post-214649",
+    "scraped_at": "2026-01-15T13:39:58.941487+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/new-youtube-video-6-24/#post-214649",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e5ba458dc3bf0c73d515beefc107b1861860d72d1df601e5d49ec46b6b65977c",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/composition-and-symmetry/#post-217506",
+  "forum_slug": "composition",
+  "topic_slug": "composition-and-symmetry",
+  "title": "Composition and Symmetry",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216380",
+    "216381",
+    "216382",
+    "216385",
+    "216386",
+    "216387",
+    "216390",
+    "217482",
+    "217506"
+  ],
+  "reply_tree": {
+    "post_id": "216380",
+    "post_type": "topic",
+    "author": "domudell",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216381",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216382",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216385",
+        "post_type": "reply",
+        "author": "domudell",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216386",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216387",
+        "post_type": "reply",
+        "author": "domudell",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216390",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217482",
+        "post_type": "reply",
+        "author": "James Parsons",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217506",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 8,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/composition-and-symmetry/#post-217506",
+    "scraped_at": "2026-01-15T12:09:26.101789+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/composition-and-symmetry/#post-217506",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7734928469bea2c01914fbbdd02b5baf18ee8f2785c0dc598d71b6b264d47913",
+    "parser_version": "bbpress-v2"
+  }
+}

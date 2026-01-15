@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "214730",
+    "forum_slug": "camera",
+    "topic_slug": "long-lenses-and-emotions-they-convey"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "ravikantrai",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger and Dave, I was wondering what does a long lens, say, in the range of 70-120mm or up emotionally mean for you? My first reaction to scenes with higher end of the focal length range is that it makes the background almost melt away in some instances, leaving mostly just the subject in frame. Probably even uncomfortably depending on how tightly they are framed, distancing the backdrop from the subject more and more. But I was wondering what do long lenses mean to you both and what does it evoke visually? I know you wouldn’t just use them for the sake of using them and it is contingent on what a scene is trying to convey.",
+  "content_html": "<p>Hi Roger and Dave, I was wondering what does a long lens, say, in the range of 70-120mm or up emotionally mean for you? My first reaction to scenes with higher end of the focal length range is that it makes the background almost melt away in some instances, leaving mostly just the subject in frame. Probably even uncomfortably depending on how tightly they are framed, distancing the backdrop from the subject more and more. But I was wondering what do long lenses mean to you both and what does it evoke visually? I know you wouldn’t just use them for the sake of using them and it is contingent on what a scene is trying to convey.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger and Dave, I was wondering what does a long lens, say, in the range of 70-120mm or up emotionally mean for you? My first reaction to scenes with higher end of the focal length range is that it makes the background almost melt away in some instances, leaving mostly just the subject in frame. Probably even uncomfortably depending on how tightly they are framed, distancing the backdrop from the subject more and more. But I was wondering what do long lenses mean to you both and what does it evoke visually? I know you wouldn’t just use them for the sake of using them and it is contingent on what a scene is trying to convey."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/long-lenses-and-emotions-they-convey/#post-214749",
+    "scraped_at": "2026-01-15T15:25:19.316920+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/long-lenses-and-emotions-they-convey/#post-214749",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b177360ae399bd7aa0e6870f6e6a6abbc8095234e707f638791c7ca2104e36ba",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "215602",
+    "forum_slug": "camera",
+    "topic_slug": "considerations-shooting-from-a-chopper"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Nick Frayne",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi everyone! I’ve got a shoot coming up shooting out the side door of a chopper. Usually the camera is bungie cabled or on the shoulder but I’m wondering if anyone has any experience rigging a head and legs to be able to operate. My initial thoughts were to strap down a 2575 and pan and tilt. Is this something that can be done or is it just a vibration nightmare? looking for relatively solid shots. Any stories or tips would help!\nthanks\nNick",
+  "content_html": "<p>Hi everyone! I’ve got a shoot coming up shooting out the side door of a chopper. Usually the camera is bungie cabled or on the shoulder but I’m wondering if anyone has any experience rigging a head and legs to be able to operate. My initial thoughts were to strap down a 2575 and pan and tilt. Is this something that can be done or is it just a vibration nightmare? looking for relatively solid shots. Any stories or tips would help!</p>\n<p>thanks</p>\n<p>Nick</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi everyone! I’ve got a shoot coming up shooting out the side door of a chopper. Usually the camera is bungie cabled or on the shoulder but I’m wondering if anyone has any experience rigging a head and legs to be able to operate. My initial thoughts were to strap down a 2575 and pan and tilt. Is this something that can be done or is it just a vibration nightmare? looking for relatively solid shots. Any stories or tips would help!"
+    },
+    {
+      "type": "paragraph",
+      "text": "thanks"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nick"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/considerations-shooting-from-a-chopper/#post-215603",
+    "scraped_at": "2026-01-15T15:21:33.427356+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/considerations-shooting-from-a-chopper/#post-215603",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2850a84ddd0be8174e678aea87bf1e249b2e4897df58a9ef812895c0e366bd32",
+    "parser_version": "bbpress-v2"
+  }
+}

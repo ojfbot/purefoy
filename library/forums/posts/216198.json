@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216198",
+    "forum_slug": "camera",
+    "topic_slug": "look-of-film-in-2024",
+    "parent_post_id": "216197",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Telecine transfers of movies were primarily from a color-timed low-contrast interpositive struck as also a protection master after answer-printing. Projection prints are a bit too high in contrast to make a good element for transfer though they will be used if nothing better exists. Sometimes a cheaper option than an interpositive was to make a low-con print, a stock that Kodak discontinued eventually. I believe that interpositives were made on a step contact printer which was more stable than the high speed continuous contact printer used for release prints.\nSometimes, at some risk, the original negative was transferred for the final video master… but since it is not a color-corrected element, and sometimes has A and B rolls, plus has splices at every cut, it was not the first option though the quality was the highest.",
+  "content_html": "<p>Telecine transfers of movies were primarily from a color-timed low-contrast interpositive struck as also a protection master after answer-printing. Projection prints are a bit too high in contrast to make a good element for transfer though they will be used if nothing better exists. Sometimes a cheaper option than an interpositive was to make a low-con print, a stock that Kodak discontinued eventually. I believe that interpositives were made on a step contact printer which was more stable than the high speed continuous contact printer used for release prints.</p>\n<p>Sometimes, at some risk, the original negative was transferred for the final video master… but since it is not a color-corrected element, and sometimes has A and B rolls, plus has splices at every cut, it was not the first option though the quality was the highest.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Telecine transfers of movies were primarily from a color-timed low-contrast interpositive struck as also a protection master after answer-printing. Projection prints are a bit too high in contrast to make a good element for transfer though they will be used if nothing better exists. Sometimes a cheaper option than an interpositive was to make a low-con print, a stock that Kodak discontinued eventually. I believe that interpositives were made on a step contact printer which was more stable than the high speed continuous contact printer used for release prints."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, at some risk, the original negative was transferred for the final video master… but since it is not a color-corrected element, and sometimes has A and B rolls, plus has splices at every cut, it was not the first option though the quality was the highest."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+    "scraped_at": "2026-01-15T14:33:45.471651+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "504516e57e87893399b0d1bae05dac55c57944f87be05be8b5825dcddec2b1d8",
+    "parser_version": "bbpress-v2"
+  }
+}

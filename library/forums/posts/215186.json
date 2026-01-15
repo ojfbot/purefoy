@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "post_id": "215186",
+    "forum_slug": "camera",
+    "topic_slug": "luts",
+    "parent_post_id": "215179",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "He uses the same LUT on every movie.\nRoger on this forum:\nThe LUT we use was created at E-Film, now Company 3.  It is not hard to do. Just shoot some tests and take them to the DI suite.\nI would be very surprised if the LUT I use is very different from any other. The only adjustment in it is to the contrast curve and the amount of color saturation. That is standard for any LUT that translates the RAW data.\nShow LUTs in general aren’t too funky because they must work in all situations and are tested in all situations before actual shooting.",
+  "content_html": "<p>He uses the same LUT on every movie.</p>\n<p>Roger on this forum:</p>\n<blockquote><p>The LUT we use was created at E-Film, now Company 3.  It is not hard to do. Just shoot some tests and take them to the DI suite.</p>\n<p>I would be very surprised if the LUT I use is very different from any other. The only adjustment in it is to the contrast curve and the amount of color saturation. That is standard for any LUT that translates the RAW data.</p></blockquote>\n<p>Show LUTs in general aren’t too funky because they must work in all situations and are tested in all situations before actual shooting.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "He uses the same LUT on every movie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Roger on this forum:"
+    },
+    {
+      "type": "quote",
+      "text": "The LUT we use was created at E-Film, now Company 3.  It is not hard to do. Just shoot some tests and take them to the DI suite.\nI would be very surprised if the LUT I use is very different from any other. The only adjustment in it is to the contrast curve and the amount of color saturation. That is standard for any LUT that translates the RAW data."
+    },
+    {
+      "type": "paragraph",
+      "text": "The LUT we use was created at E-Film, now Company 3.  It is not hard to do. Just shoot some tests and take them to the DI suite."
+    },
+    {
+      "type": "paragraph",
+      "text": "I would be very surprised if the LUT I use is very different from any other. The only adjustment in it is to the contrast curve and the amount of color saturation. That is standard for any LUT that translates the RAW data."
+    },
+    {
+      "type": "paragraph",
+      "text": "Show LUTs in general aren’t too funky because they must work in all situations and are tested in all situations before actual shooting."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "The LUT we use was created at E-Film, now Company 3.  It is not hard to do. Just shoot some tests and take them to the DI suite.\nI would be very surprised if the LUT I use is very different from any other. The only adjustment in it is to the contrast curve and the amount of color saturation. That is standard for any LUT that translates the RAW data."
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/luts/",
+    "scraped_at": "2026-01-15T15:22:39.353610+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/luts/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e9302497e7ad2da023d76473b88bfc4cc053cb3439ca018fb5b5ca80795e1494",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215354",
+    "forum_slug": "camera",
+    "topic_slug": "in-camera-lens-corrections",
+    "parent_post_id": "215347",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "20K? Really?",
+  "content_html": "<p>20K? Really?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "20K? Really?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/in-camera-lens-corrections/#post-216194",
+    "scraped_at": "2026-01-15T14:33:52.632737+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/in-camera-lens-corrections/#post-216194",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "88fbeca56706b66a27217013f34c02ccf4df3453077533706074f801ecb9d96e",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220505",
+    "forum_slug": "forum",
+    "topic_slug": "yellowish-interior-lighting",
+    "parent_post_id": "220496",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The original florescent fixtures in this location were very old and stained and I decided I liked the effect. The walls were a warm off white. We added a fixture in the interrogation room and found a stained diffuser to match the two existing ones. We also made sure that all the florescent fixtures in the hallway matched those that were slightly yellow and added a light gel to some that we couldn’t find the equivalent diffuser for. We changed the tubes so that they were all warm white and that was basically it. There was no correction made in the DI or an adjustment to the white balance on the camera. That would have been set at 3200.",
+  "content_html": "<p>The original florescent fixtures in this location were very old and stained and I decided I liked the effect. The walls were a warm off white. We added a fixture in the interrogation room and found a stained diffuser to match the two existing ones. We also made sure that all the florescent fixtures in the hallway matched those that were slightly yellow and added a light gel to some that we couldn’t find the equivalent diffuser for. We changed the tubes so that they were all warm white and that was basically it. There was no correction made in the DI or an adjustment to the white balance on the camera. That would have been set at 3200.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The original florescent fixtures in this location were very old and stained and I decided I liked the effect. The walls were a warm off white. We added a fixture in the interrogation room and found a stained diffuser to match the two existing ones. We also made sure that all the florescent fixtures in the hallway matched those that were slightly yellow and added a light gel to some that we couldn’t find the equivalent diffuser for. We changed the tubes so that they were all warm white and that was basically it. There was no correction made in the DI or an adjustment to the white balance on the camera. That would have been set at 3200."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/yellowish-interior-lighting/#post-220505",
+    "scraped_at": "2026-01-15T13:23:47.630338+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/yellowish-interior-lighting/#post-220505",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0c32da6c90c77ec615fbaf72ac1e7faa7f46abd20586b7a5503dba11316c6a7e",
+    "parser_version": "bbpress-v2"
+  }
+}

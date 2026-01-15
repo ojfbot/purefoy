@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "204667",
+    "forum_slug": "camera",
+    "topic_slug": "uncompressed-hd-vs-arriraw",
+    "parent_post_id": "204439",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Log-C gamma is meant to emulate film negative scans but I think it’s applied to Arriraw conversions / debayering to RGB for color-correction, it’s not the 12-bit log storage format of Arriraw. ARRI ‘s own website is not completely clear on this but I believe we’re talking about two different things, the Log-C used for debayered images and the mathematical log used for data storage in Arriraw.",
+  "content_html": "<p>Log-C gamma is meant to emulate film negative scans but I think it’s applied to Arriraw conversions / debayering to RGB for color-correction, it’s not the 12-bit log storage format of Arriraw. ARRI ‘s own website is not completely clear on this but I believe we’re talking about two different things, the Log-C used for debayered images and the mathematical log used for data storage in Arriraw.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Log-C gamma is meant to emulate film negative scans but I think it’s applied to Arriraw conversions / debayering to RGB for color-correction, it’s not the 12-bit log storage format of Arriraw. ARRI ‘s own website is not completely clear on this but I believe we’re talking about two different things, the Log-C used for debayered images and the mathematical log used for data storage in Arriraw."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/uncompressed-hd-vs-arriraw/#post-204779",
+    "scraped_at": "2026-01-15T15:42:13.545512+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/uncompressed-hd-vs-arriraw/#post-204779",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bfe4787f54a2338b246341702ddc12f86a876e70f25a23276646af2013ed282d",
+    "parser_version": "bbpress-v2"
+  }
+}

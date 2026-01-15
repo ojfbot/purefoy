@@ -1,0 +1,56 @@
+{
+  "ids": {
+    "post_id": "214596",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-a-high-school-library-with-limited-resources",
+    "parent_post_id": "213958",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "vaughan_dop",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi everyone! So, with only 30 mins allowed in the shooting schedule to set this, we moved all the tables in the library to get our hero table directly under the pendant fitting (thanks Roger!) and thankfully the frosted glass shades provided quite a pleasant look from the get go. I added an LED panel to the centre of the pendant with some diff and CTO, threw a subtle backlight onto the kids with a 300w Mizar on the railings above, then filled with the Arri 2K bounced off a Skylite a few tables out of shot.\nGiven an extra person and another half hour I’d have got some ND taped over the background windows – but that said, filling out the existing tungsten(ish) sources gave the warmth the scene needed.",
+  "content_html": "<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214596/01ecwwy5ma61aqculx7t4udcdfze3d0d.jpg\"/></p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214596/atuti2akvshkf9a3vd58voy50kup9j1a.jpg\"/></p>\n<p>Hi everyone! So, with only 30 mins allowed in the shooting schedule to set this, we moved all the tables in the library to get our hero table directly under the pendant fitting (thanks Roger!) and thankfully the frosted glass shades provided quite a pleasant look from the get go. I added an LED panel to the centre of the pendant with some diff and CTO, threw a subtle backlight onto the kids with a 300w Mizar on the railings above, then filled with the Arri 2K bounced off a Skylite a few tables out of shot.</p>\n<p>Given an extra person and another half hour I’d have got some ND taped over the background windows – but that said, filling out the existing tungsten(ish) sources gave the warmth the scene needed.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi everyone! So, with only 30 mins allowed in the shooting schedule to set this, we moved all the tables in the library to get our hero table directly under the pendant fitting (thanks Roger!) and thankfully the frosted glass shades provided quite a pleasant look from the get go. I added an LED panel to the centre of the pendant with some diff and CTO, threw a subtle backlight onto the kids with a 300w Mizar on the railings above, then filled with the Arri 2K bounced off a Skylite a few tables out of shot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Given an extra person and another half hour I’d have got some ND taped over the background windows – but that said, filling out the existing tungsten(ish) sources gave the warmth the scene needed."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214596/01ecwwy5ma61aqculx7t4udcdfze3d0d.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214596/atuti2akvshkf9a3vd58voy50kup9j1a.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-a-high-school-library-with-limited-resources/#post-214601",
+    "scraped_at": "2026-01-15T15:52:33.594346+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-a-high-school-library-with-limited-resources/#post-214601",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "91c54fc59c14aba593cd1c4b82f467c2886de3cd93831081cb223936fcddf1de",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217148",
+    "forum_slug": "forum",
+    "topic_slug": "guiding-principals",
+    "parent_post_id": "217119",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t remember using a LUT on Jesse James or No Country for Old Men. Of course, I didn’t because I was shooting on film. Was the look of 1917 any different? Did the LUT make it look like it did?",
+  "content_html": "<p>I don’t remember using a LUT on Jesse James or No Country for Old Men. Of course, I didn’t because I was shooting on film. Was the look of 1917 any different? Did the LUT make it look like it did?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t remember using a LUT on Jesse James or No Country for Old Men. Of course, I didn’t because I was shooting on film. Was the look of 1917 any different? Did the LUT make it look like it did?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/guiding-principals/#post-217164",
+    "scraped_at": "2026-01-15T15:21:49.393717+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/guiding-principals/#post-217164",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "629a3907b3df865eeb1c7039d9893e7ef9a53c8e0086551dcc144f3f8124b19d",
+    "parser_version": "bbpress-v2"
+  }
+}

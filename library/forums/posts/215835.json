@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215835",
+    "forum_slug": "camera",
+    "topic_slug": "could-i-integrate-a-cheap-long-lens-into-a-shoot-without-incident",
+    "parent_post_id": "215830",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "What are the three lenses you have and what focal length do you want for the fourth one?",
+  "content_html": "<p>What are the three lenses you have and what focal length do you want for the fourth one?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "What are the three lenses you have and what focal length do you want for the fourth one?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/could-i-integrate-a-cheap-long-lens-into-a-shoot-without-incident/#post-215835",
+    "scraped_at": "2026-01-15T15:20:30.044894+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/could-i-integrate-a-cheap-long-lens-into-a-shoot-without-incident/#post-215835",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "823b2c37b6b8ec5c201a0b8beb7b772075bb60d42100f04d84467ebce74da593",
+    "parser_version": "bbpress-v2"
+  }
+}

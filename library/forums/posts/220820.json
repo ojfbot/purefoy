@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "220820",
+    "forum_slug": "forum",
+    "topic_slug": "contrast-ratio-2",
+    "parent_post_id": "220650",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks a lot David, you’ve been very kind!\nI’ve the impression that darkening a (slightly) overexposed shot it’s easier for me than the contrary, it makes noise more controllable in low key scenes. But next time i’ll do my best to obtain it right in camera! 🙂",
+  "content_html": "<p>Thanks a lot David, you’ve been very kind!</p>\n<p>I’ve the impression that darkening a (slightly) overexposed shot it’s easier for me than the contrary, it makes noise more controllable in low key scenes. But next time i’ll do my best to obtain it right in camera! 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks a lot David, you’ve been very kind!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve the impression that darkening a (slightly) overexposed shot it’s easier for me than the contrary, it makes noise more controllable in low key scenes. But next time i’ll do my best to obtain it right in camera! 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio-2/#post-220820",
+    "scraped_at": "2026-01-15T13:05:57.499505+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio-2/#post-220820",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "55041184984c37f415c3535a8a623b9297a4f4d727ac4900c2da27bd570dde7d",
+    "parser_version": "bbpress-v2"
+  }
+}

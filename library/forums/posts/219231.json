@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "219231",
+    "forum_slug": "forum",
+    "topic_slug": "shooting-day-for-night",
+    "parent_post_id": "219226",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I wrote an entire chapter for the 11th Edition of the ASC Manual on this topic so it’s a bit broad to cover in one post.  It all depends on the look you want. DFN works best when the moon is the only source of light in the scene because real daylight, whether sunny or overcast, will be much brighter than any other light sources in the frame like campfires or streetlamps.  If there are other sources, dusk-for-night works better so that they expose realistically.\nIf I could post images on this forum, I’d show you my photos of real moonlit landscapes and how much they look like day-for-night shots other than you can see stars in the sky.",
+  "content_html": "<p>I wrote an entire chapter for the 11th Edition of the ASC Manual on this topic so it’s a bit broad to cover in one post.  It all depends on the look you want. DFN works best when the moon is the only source of light in the scene because real daylight, whether sunny or overcast, will be much brighter than any other light sources in the frame like campfires or streetlamps.  If there are other sources, dusk-for-night works better so that they expose realistically.</p>\n<p>If I could post images on this forum, I’d show you my photos of real moonlit landscapes and how much they look like day-for-night shots other than you can see stars in the sky.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I wrote an entire chapter for the 11th Edition of the ASC Manual on this topic so it’s a bit broad to cover in one post.  It all depends on the look you want. DFN works best when the moon is the only source of light in the scene because real daylight, whether sunny or overcast, will be much brighter than any other light sources in the frame like campfires or streetlamps.  If there are other sources, dusk-for-night works better so that they expose realistically."
+    },
+    {
+      "type": "paragraph",
+      "text": "If I could post images on this forum, I’d show you my photos of real moonlit landscapes and how much they look like day-for-night shots other than you can see stars in the sky."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-day-for-night/#post-219231",
+    "scraped_at": "2026-01-15T14:33:15.188843+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-day-for-night/#post-219231",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b0c4a15ff06ef6eac888158078060891fd024d8e538e89fdf3c60856219d803d",
+    "parser_version": "bbpress-v2"
+  }
+}

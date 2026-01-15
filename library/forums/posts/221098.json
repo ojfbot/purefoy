@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "221098",
+    "forum_slug": "camera",
+    "topic_slug": "question-about-camera-consciousness-in-cinematography"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "jjinkuunn",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Question about Camera Consciousness in Cinematography\nCamera as Observer vs. Camera as Storyteller\nHello, Roger. I’m a filmmaker studying directing in South Korea.\nI’d like to ask about the concept of ‘camera consciousness’ in cinematography. It’s a perspective that distinguishes whether the motivation for camera movement comes from within the frame (following and capturing the characters) or from outside the frame (expressing the intentions of the director and cinematographer).\nWhen I study films, I try to understand “when and why to move the camera” and “how much consciousness the camera has.” In other words, when creating a camera plan, I feel it’s necessary to define what the camera’s existence is in that particular film – whether it floats around like a ghost, observes silently, or moves freely to reveal its own world.\nFor example, in <1917>, the camera follows the characters but simultaneously feels like it has a strong consciousness of its own. In contrast, in <No Country for Old Men>, which you shot, the camera seems to retreat behind the characters and space, remaining in an observer’s position.\nDo you think about the camera’s ‘presence’ or ‘consciousness’ when shooting? And how is this discussed in collaboration with directors?",
+  "content_html": "<p><strong>Question about Camera Consciousness in Cinematography</strong></p>\n<p><strong>Camera as Observer vs. Camera as Storyteller</strong></p>\n<p>Hello, Roger. I’m a filmmaker studying directing in South Korea.</p>\n<p>I’d like to ask about the concept of ‘camera consciousness’ in cinematography. It’s a perspective that distinguishes whether the motivation for camera movement comes from within the frame (following and capturing the characters) or from outside the frame (expressing the intentions of the director and cinematographer).</p>\n<p>When I study films, I try to understand “when and why to move the camera” and “how much consciousness the camera has.” In other words, when creating a camera plan, I feel it’s necessary to define what the camera’s existence is in that particular film – whether it floats around like a ghost, observes silently, or moves freely to reveal its own world.</p>\n<p>For example, in &lt;1917&gt;, the camera follows the characters but simultaneously feels like it has a strong consciousness of its own. In contrast, in &lt;No Country for Old Men&gt;, which you shot, the camera seems to retreat behind the characters and space, remaining in an observer’s position.</p>\n<p>Do you think about the camera’s ‘presence’ or ‘consciousness’ when shooting? And how is this discussed in collaboration with directors?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Question about Camera Consciousness in Cinematography"
+    },
+    {
+      "type": "paragraph",
+      "text": "Camera as Observer vs. Camera as Storyteller"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hello, Roger. I’m a filmmaker studying directing in South Korea."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’d like to ask about the concept of ‘camera consciousness’ in cinematography. It’s a perspective that distinguishes whether the motivation for camera movement comes from within the frame (following and capturing the characters) or from outside the frame (expressing the intentions of the director and cinematographer)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When I study films, I try to understand “when and why to move the camera” and “how much consciousness the camera has.” In other words, when creating a camera plan, I feel it’s necessary to define what the camera’s existence is in that particular film – whether it floats around like a ghost, observes silently, or moves freely to reveal its own world."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, in <1917>, the camera follows the characters but simultaneously feels like it has a strong consciousness of its own. In contrast, in <No Country for Old Men>, which you shot, the camera seems to retreat behind the characters and space, remaining in an observer’s position."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you think about the camera’s ‘presence’ or ‘consciousness’ when shooting? And how is this discussed in collaboration with directors?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/question-about-camera-consciousness-in-cinematography/",
+    "scraped_at": "2026-01-15T15:46:14.147939+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/question-about-camera-consciousness-in-cinematography/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1283ba875218cdb7a4c999acb8433e3a81bee534163f3288fc31d93b60ae238b",
+    "parser_version": "bbpress-v2"
+  }
+}

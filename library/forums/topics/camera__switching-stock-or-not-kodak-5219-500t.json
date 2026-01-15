@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/switching-stock-or-not-kodak-5219-500t/#post-216189",
+  "forum_slug": "camera",
+  "topic_slug": "switching-stock-or-not-kodak-5219-500t",
+  "title": "Switching stock (or not) – Kodak 5219 500T",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216181",
+    "216182",
+    "216183",
+    "216185",
+    "216187",
+    "216189"
+  ],
+  "reply_tree": {
+    "post_id": "216181",
+    "post_type": "topic",
+    "author": "johandijkstra",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216182",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216183",
+        "post_type": "reply",
+        "author": "johandijkstra",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216185",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216187",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216189",
+        "post_type": "reply",
+        "author": "johandijkstra",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/switching-stock-or-not-kodak-5219-500t/#post-216189",
+    "scraped_at": "2026-01-15T14:50:52.898988+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/switching-stock-or-not-kodak-5219-500t/#post-216189",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0775e29090867e5b32b36489cefd505acbf4d91b40185d25ab172ae9515d8e97",
+    "parser_version": "bbpress-v2"
+  }
+}

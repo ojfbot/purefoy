@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "215744",
+    "forum_slug": "camera",
+    "topic_slug": "shaky-cams"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "mskb",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear All,\nI love Roger’s “natural approach” to cinematography. I remember a Team Deakins podcast episode on lenses, where Roger was contrasting the choice of 40/50mm standard focal lengths to how he thinks his eyes view the world. He also had a similar natural approach for constructing motivated lighting designs with practicals etc.,.\nLike many, I have noticed the rapid increase in deliberate shaky cam footage in movies. If I take the “natural approach” like Roger and wonder if my own eyes have been strained with shaky cam footage/vision in real life, the answer is a clear no. Yes, this includes when I drive my car and scan the environment, or when I am in a bus/train.\nWhy is shaky cam used in movies?  Whenever I see such footage, I don’t feel “in the moment”/”build up of tension”. I only feel nauseous. Searching around the internet, it seems like there are many others who share this view. What makes even seasoned directors & cinematographers use the technique? Deakins-Villeneuve movies like Sicario/Prisoners are excellent examples, which prove that we don’t need to shake the camera to achieve in-the-moment/tension effects.\nI am super confused.\nThank you Roger for not using shaky cams.\nPS: I searched in the forums to check if the topic was discussed before , but couldn’t find any. So I decided to start a thread.",
+  "content_html": "<p>Dear All,</p>\n<p>I love Roger’s “natural approach” to cinematography. I remember a Team Deakins podcast episode on lenses, where Roger was contrasting the choice of 40/50mm standard focal lengths to how he thinks his eyes view the world. He also had a similar natural approach for constructing motivated lighting designs with practicals etc.,.</p>\n<p>Like many, I have noticed the rapid increase in deliberate shaky cam footage in movies. If I take the “natural approach” like Roger and wonder if my own eyes have been strained with shaky cam footage/vision in real life, the answer is a clear no. Yes, this includes when I drive my car and scan the environment, or when I am in a bus/train.</p>\n<p>Why is shaky cam used in movies?  Whenever I see such footage, I don’t feel “in the moment”/”build up of tension”. I only feel nauseous. Searching around the internet, it seems like there are many others who share this view. What makes even seasoned directors &amp; cinematographers use the technique? Deakins-Villeneuve movies like Sicario/Prisoners are excellent examples, which prove that we don’t need to shake the camera to achieve in-the-moment/tension effects.</p>\n<p>I am super confused.</p>\n<p>Thank you Roger for not using shaky cams.</p>\n<p>PS: I searched in the forums to check if the topic was discussed before , but couldn’t find any. So I decided to start a thread.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear All,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I love Roger’s “natural approach” to cinematography. I remember a Team Deakins podcast episode on lenses, where Roger was contrasting the choice of 40/50mm standard focal lengths to how he thinks his eyes view the world. He also had a similar natural approach for constructing motivated lighting designs with practicals etc.,."
+    },
+    {
+      "type": "paragraph",
+      "text": "Like many, I have noticed the rapid increase in deliberate shaky cam footage in movies. If I take the “natural approach” like Roger and wonder if my own eyes have been strained with shaky cam footage/vision in real life, the answer is a clear no. Yes, this includes when I drive my car and scan the environment, or when I am in a bus/train."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why is shaky cam used in movies?  Whenever I see such footage, I don’t feel “in the moment”/”build up of tension”. I only feel nauseous. Searching around the internet, it seems like there are many others who share this view. What makes even seasoned directors & cinematographers use the technique? Deakins-Villeneuve movies like Sicario/Prisoners are excellent examples, which prove that we don’t need to shake the camera to achieve in-the-moment/tension effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am super confused."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you Roger for not using shaky cams."
+    },
+    {
+      "type": "paragraph",
+      "text": "PS: I searched in the forums to check if the topic was discussed before , but couldn’t find any. So I decided to start a thread."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shaky-cams/#post-215800",
+    "scraped_at": "2026-01-15T15:20:57.507462+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shaky-cams/#post-215800",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1eaad9fafb14bbad30e736e01470f50669f97f407497c68ae2cb66fdfbc41559",
+    "parser_version": "bbpress-v2"
+  }
+}

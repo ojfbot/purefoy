@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217083",
+    "forum_slug": "forum",
+    "topic_slug": "cove-light-considerations",
+    "parent_post_id": "205389",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "HMIs are an alternative solution. And there are now plenty of Fresnel style LED lights that can run at a daylight setting, a tungsten setting or anywhere in between. Yes, you can gel a tungsten source but, if you mix it with other sources, the color never seems quite right to me.",
+  "content_html": "<p>HMIs are an alternative solution. And there are now plenty of Fresnel style LED lights that can run at a daylight setting, a tungsten setting or anywhere in between. Yes, you can gel a tungsten source but, if you mix it with other sources, the color never seems quite right to me.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "HMIs are an alternative solution. And there are now plenty of Fresnel style LED lights that can run at a daylight setting, a tungsten setting or anywhere in between. Yes, you can gel a tungsten source but, if you mix it with other sources, the color never seems quite right to me."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+    "scraped_at": "2026-01-15T15:18:02.961073+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d86dfb13cc0cc9b89003efc84b339cc1768ced45a28f4bd58b5dc4c65e42c8f0",
+    "parser_version": "bbpress-v2"
+  }
+}

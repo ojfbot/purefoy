@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215965",
+    "forum_slug": "camera",
+    "topic_slug": "protecting-the-camera-at-the-beach",
+    "parent_post_id": "215938",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Connor",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks 🙂 we went with that, surprisingly effective.\nAnyone else wanting to shoot on a beach, we used a tent to change the lenses, would bring a little dust pan and brush to get the inevitable sand out.",
+  "content_html": "<p>Thanks 🙂 we went with that, surprisingly effective.</p>\n<p>Anyone else wanting to shoot on a beach, we used a tent to change the lenses, would bring a little dust pan and brush to get the inevitable sand out.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks 🙂 we went with that, surprisingly effective."
+    },
+    {
+      "type": "paragraph",
+      "text": "Anyone else wanting to shoot on a beach, we used a tent to change the lenses, would bring a little dust pan and brush to get the inevitable sand out."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/protecting-the-camera-at-the-beach/#post-215965",
+    "scraped_at": "2026-01-15T15:20:17.860918+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/protecting-the-camera-at-the-beach/#post-215965",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1a82108aa1278d7ae777fee897c7fb8059dc760efa3f7d02a8b8ce8a36e2b388",
+    "parser_version": "bbpress-v2"
+  }
+}

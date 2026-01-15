@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214557",
+    "forum_slug": "film-talk",
+    "topic_slug": "sicario",
+    "parent_post_id": "214551",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "halfgrain",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Let’s stay respectful here, will we? It’s hard for me to fully understand the OP’s point and question, because of the language barrier. But my assumption is he/she feels like it was a bold choice to tell the story through Kate and leave out the beginning scene with Alejandro, therefore wonders if there were any worries during shooting that telling the story from a more “passive” viewpoint would create the need for more “action” in other departments (camera work, editing, sound design)…?  Or I might have misunderstood the question all together. Either way, let’s not intimidate and blame other forum users. I don’t think he/she meant to be disrespectful.\nIn regards to the question though, I would be very surprised if Dennis had any doubt in his choice of telling the story through Kate. He’s a fantastic director and I’m sure he knew her viewpoint is a very strong and interesting way of telling the story, that doesn’t need any “make up” through other aspects of the movie.",
+  "content_html": "<p>Let’s stay respectful here, will we? It’s hard for me to fully understand the OP’s point and question, because of the language barrier. But my assumption is he/she feels like it was a bold choice to tell the story through Kate and leave out the beginning scene with Alejandro, therefore wonders if there were any worries during shooting that telling the story from a more “passive” viewpoint would create the need for more “action” in other departments (camera work, editing, sound design)…?  Or I might have misunderstood the question all together. Either way, let’s not intimidate and blame other forum users. I don’t think he/she meant to be disrespectful.</p>\n<p>In regards to the question though, I would be very surprised if Dennis had any doubt in his choice of telling the story through Kate. He’s a fantastic director and I’m sure he knew her viewpoint is a very strong and interesting way of telling the story, that doesn’t need any “make up” through other aspects of the movie.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Let’s stay respectful here, will we? It’s hard for me to fully understand the OP’s point and question, because of the language barrier. But my assumption is he/she feels like it was a bold choice to tell the story through Kate and leave out the beginning scene with Alejandro, therefore wonders if there were any worries during shooting that telling the story from a more “passive” viewpoint would create the need for more “action” in other departments (camera work, editing, sound design)…?  Or I might have misunderstood the question all together. Either way, let’s not intimidate and blame other forum users. I don’t think he/she meant to be disrespectful."
+    },
+    {
+      "type": "paragraph",
+      "text": "In regards to the question though, I would be very surprised if Dennis had any doubt in his choice of telling the story through Kate. He’s a fantastic director and I’m sure he knew her viewpoint is a very strong and interesting way of telling the story, that doesn’t need any “make up” through other aspects of the movie."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario/#post-214745",
+    "scraped_at": "2026-01-15T14:13:29.619698+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario/#post-214745",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7a543520114acbcdd281d659a82d231c7a4cf512910db42a3cce06988e2d0a4e",
+    "parser_version": "bbpress-v2"
+  }
+}

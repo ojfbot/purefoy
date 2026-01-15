@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214533",
+    "forum_slug": "camera",
+    "topic_slug": "full-frame-digital",
+    "parent_post_id": "214515",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The depth of field of a 40mm is the same whatever the size of the sensor. With a standard Alexa you would need to shoot on a 32mm (some say wider) to match the field of view of a 40mm on a Large Format camera. A small adjustment to the iris will not change the ‘feel’ of that lens. The additional latitude and resolution of the LF can be an advantage over the standard Alexa but that would not be my main consideration when choosing one camera over the other. The ‘feel’ of the lens is uppermost in my mind.",
+  "content_html": "<p>The depth of field of a 40mm is the same whatever the size of the sensor. With a standard Alexa you would need to shoot on a 32mm (some say wider) to match the field of view of a 40mm on a Large Format camera. A small adjustment to the iris will not change the ‘feel’ of that lens. The additional latitude and resolution of the LF can be an advantage over the standard Alexa but that would not be my main consideration when choosing one camera over the other. The ‘feel’ of the lens is uppermost in my mind.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The depth of field of a 40mm is the same whatever the size of the sensor. With a standard Alexa you would need to shoot on a 32mm (some say wider) to match the field of view of a 40mm on a Large Format camera. A small adjustment to the iris will not change the ‘feel’ of that lens. The additional latitude and resolution of the LF can be an advantage over the standard Alexa but that would not be my main consideration when choosing one camera over the other. The ‘feel’ of the lens is uppermost in my mind."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/full-frame-digital/#post-214545",
+    "scraped_at": "2026-01-15T15:25:49.128320+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/full-frame-digital/#post-214545",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "56ee5f9933f5eacdbfd6098880b2889b04a5b76a56a699f89ba9b11becb699d8",
+    "parser_version": "bbpress-v2"
+  }
+}

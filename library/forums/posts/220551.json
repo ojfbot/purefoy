@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220551",
+    "forum_slug": "film-talk",
+    "topic_slug": "mr-deakins-regarding-2049-spinner-flyover-vegas",
+    "parent_post_id": "220537",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The fight in Vegas was shot to be a little longer and there were many more lighting changes during the “show” but slapstick? I don’t think so. And I have no memory of a “magnificent aerial sequence” in the rain. I will have to ask Joe when I see him.",
+  "content_html": "<p>The fight in Vegas was shot to be a little longer and there were many more lighting changes during the “show” but slapstick? I don’t think so. And I have no memory of a “magnificent aerial sequence” in the rain. I will have to ask Joe when I see him.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The fight in Vegas was shot to be a little longer and there were many more lighting changes during the “show” but slapstick? I don’t think so. And I have no memory of a “magnificent aerial sequence” in the rain. I will have to ask Joe when I see him."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-regarding-2049-spinner-flyover-vegas/#post-220557",
+    "scraped_at": "2026-01-15T11:50:43.069026+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-regarding-2049-spinner-flyover-vegas/#post-220557",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f2388776698c6d428b25a6a3973c5acee712371a8ef021fbf3b67d3857a5d43a",
+    "parser_version": "bbpress-v2"
+  }
+}

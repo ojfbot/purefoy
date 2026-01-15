@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "215812",
+    "forum_slug": "forum",
+    "topic_slug": "day-for-night-inside"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "MickGrow",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If I can only rent a location during the daytime, and it has an excessive amount of windows, is there anyway to do a day for night sort of exposure? Like a dark house lit only by the moonlight?\nIf possible, what type of camera settings would get me within the ballpark of that look?\nthanks",
+  "content_html": "<p>If I can only rent a location during the daytime, and it has an excessive amount of windows, is there anyway to do a day for night sort of exposure? Like a dark house lit only by the moonlight?</p>\n<p> </p>\n<p>If possible, what type of camera settings would get me within the ballpark of that look?</p>\n<p> </p>\n<p>thanks</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If I can only rent a location during the daytime, and it has an excessive amount of windows, is there anyway to do a day for night sort of exposure? Like a dark house lit only by the moonlight?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If possible, what type of camera settings would get me within the ballpark of that look?"
+    },
+    {
+      "type": "paragraph",
+      "text": "thanks"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/day-for-night-inside/#post-215817",
+    "scraped_at": "2026-01-15T15:44:17.739367+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/day-for-night-inside/#post-215817",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cfa86d7e1aa13a0d0bd56323c1804ba87271bf92de5a29cf7dcd25c1d34b2876",
+    "parser_version": "bbpress-v2"
+  }
+}

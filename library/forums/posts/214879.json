@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214879",
+    "forum_slug": "set-talk",
+    "topic_slug": "are-cinematographers-only-executors",
+    "parent_post_id": "214777",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I agree with you but how do you ascertain if they are more knowledgeable than you.\nI have employed many people male and female with a list of credentials and although initially seem to be eager at first turn out to be very disappointing in the long run.\nI find it’s sometimes best to take on the mediocre types and nurture them as the go along,   Also they are cheaper to feed water than the ones who claim to know everything but in the end know nothing.  Train them up on the job is my philosophy.",
+  "content_html": "<p>I agree with you but how do you ascertain if they are more knowledgeable than you.</p>\n<p>I have employed many people male and female with a list of credentials and although initially seem to be eager at first turn out to be very disappointing in the long run.</p>\n<p>I find it’s sometimes best to take on the mediocre types and nurture them as the go along,   Also they are cheaper to feed water than the ones who claim to know everything but in the end know nothing.  Train them up on the job is my philosophy.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I agree with you but how do you ascertain if they are more knowledgeable than you."
+    },
+    {
+      "type": "paragraph",
+      "text": "I have employed many people male and female with a list of credentials and although initially seem to be eager at first turn out to be very disappointing in the long run."
+    },
+    {
+      "type": "paragraph",
+      "text": "I find it’s sometimes best to take on the mediocre types and nurture them as the go along,   Also they are cheaper to feed water than the ones who claim to know everything but in the end know nothing.  Train them up on the job is my philosophy."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/are-cinematographers-only-executors/#post-214898",
+    "scraped_at": "2026-01-15T13:23:30.438532+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/are-cinematographers-only-executors/#post-214898",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1696d3f858fb4326ef4a2d622066c1c33ba632eeb8468d18a605887f82c6c1dc",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/shaky-cams/#post-215800",
+  "forum_slug": "camera",
+  "topic_slug": "shaky-cams",
+  "title": "Shaky cams.",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215744",
+    "215746",
+    "215747",
+    "215748",
+    "215750",
+    "215751",
+    "215753",
+    "215793",
+    "215794",
+    "215800"
+  ],
+  "reply_tree": {
+    "post_id": "215744",
+    "post_type": "topic",
+    "author": "mskb",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215746",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215747",
+        "post_type": "reply",
+        "author": "mskb",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215748",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215750",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215751",
+        "post_type": "reply",
+        "author": "mskb",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215753",
+        "post_type": "reply",
+        "author": "ThisGuy321",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215793",
+        "post_type": "reply",
+        "author": "mskb",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215794",
+        "post_type": "reply",
+        "author": "mskb",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215800",
+        "post_type": "reply",
+        "author": "IgorVe",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 9,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shaky-cams/#post-215800",
+    "scraped_at": "2026-01-15T15:20:57.527104+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shaky-cams/#post-215800",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e150be9d9f76abf9b3daa6098a744fc30eb7ab4997eb5101102752608dd73afa",
+    "parser_version": "bbpress-v2"
+  }
+}

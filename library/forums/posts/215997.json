@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "post_id": "215997",
+    "forum_slug": "camera",
+    "topic_slug": "manipulating-the-image"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "BHGoddard",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi James and Roger,\nI hope you’re doing well, I had a (long) question for you both but am eager to hear everyone’s take and would greatly appreciate any feedback.\nGenerally speaking, when it comes to shooting a scene, how much of the image is created by manipulating your scene (i.e. lighting) and how much of the image is created by manipulating your camera’s settings or digital workflow?\nTo draw a parallel, when it comes to your photography, you are typically reliant on natural light and thereby manipulate the contrast and quality of an image through exposure, developing and printing, and can create vastly different outcomes when manipulating those parameters purposefully.\nWhile much of cinematography is involved with lighting and you use artificial light to manipulate the contrast/feel/mood, how often are you likewise manipulating the image through how the scene is exposed to achieve the desired look and feel – do you find yourself only changing ISO for example when it’s absolutely and logistically necessary, or are you often rating it differently (pushing/pulling) to achieve a desired contrast and aesthetic?\nOr as is often the case, are the characteristics of the image dialed in when developing the show LUT and your choices are more or less scene-referred throughout shooting?\nSorry for such a long-winded question, I just notice that every cinematographer maintains a different balance between these three factors, which obviously vary from story to story, but in the same way a stills photographer can create an image using countless combinations between the stages of exposing, developing and printing, I’m desperately curious to know your general approach and philosophy on the matter.\nThanks so much!",
+  "content_html": "<p>Hi James and Roger,</p>\n<p>I hope you’re doing well, I had a (long) question for you both but am eager to hear everyone’s take and would greatly appreciate any feedback.</p>\n<p>Generally speaking, when it comes to shooting a scene, how much of the image is created by manipulating your scene (i.e. lighting) and how much of the image is created by manipulating your camera’s settings or digital workflow?</p>\n<p>To draw a parallel, when it comes to your photography, you are typically reliant on natural light and thereby manipulate the contrast and quality of an image through exposure, developing and printing, and can create vastly different outcomes when manipulating those parameters purposefully.</p>\n<p>While much of cinematography is involved with lighting and you use artificial light to manipulate the contrast/feel/mood, how often are you likewise manipulating the image through how the scene is exposed to achieve the desired look and feel – do you find yourself only changing ISO for example when it’s absolutely and logistically necessary, or are you often rating it differently (pushing/pulling) to achieve a desired contrast and aesthetic?</p>\n<p>Or as is often the case, are the characteristics of the image dialed in when developing the show LUT and your choices are more or less scene-referred throughout shooting?</p>\n<p>Sorry for such a long-winded question, I just notice that every cinematographer maintains a different balance between these three factors, which obviously vary from story to story, but in the same way a stills photographer can create an image using countless combinations between the stages of exposing, developing and printing, I’m desperately curious to know your general approach and philosophy on the matter.</p>\n<p>Thanks so much!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi James and Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope you’re doing well, I had a (long) question for you both but am eager to hear everyone’s take and would greatly appreciate any feedback."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally speaking, when it comes to shooting a scene, how much of the image is created by manipulating your scene (i.e. lighting) and how much of the image is created by manipulating your camera’s settings or digital workflow?"
+    },
+    {
+      "type": "paragraph",
+      "text": "To draw a parallel, when it comes to your photography, you are typically reliant on natural light and thereby manipulate the contrast and quality of an image through exposure, developing and printing, and can create vastly different outcomes when manipulating those parameters purposefully."
+    },
+    {
+      "type": "paragraph",
+      "text": "While much of cinematography is involved with lighting and you use artificial light to manipulate the contrast/feel/mood, how often are you likewise manipulating the image through how the scene is exposed to achieve the desired look and feel – do you find yourself only changing ISO for example when it’s absolutely and logistically necessary, or are you often rating it differently (pushing/pulling) to achieve a desired contrast and aesthetic?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Or as is often the case, are the characteristics of the image dialed in when developing the show LUT and your choices are more or less scene-referred throughout shooting?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sorry for such a long-winded question, I just notice that every cinematographer maintains a different balance between these three factors, which obviously vary from story to story, but in the same way a stills photographer can create an image using countless combinations between the stages of exposing, developing and printing, I’m desperately curious to know your general approach and philosophy on the matter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks so much!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/manipulating-the-image/#post-216014",
+    "scraped_at": "2026-01-15T15:18:09.759984+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/manipulating-the-image/#post-216014",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1b38565647b6bc9f5ddbdd29be7ff263441d5b0e8fcda0544ee4628e62927371",
+    "parser_version": "bbpress-v2"
+  }
+}

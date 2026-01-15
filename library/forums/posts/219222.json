@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "219222",
+    "forum_slug": "forum",
+    "topic_slug": "a-serious-man-larrys-office"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "jamesblann",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nI remember reading an article some time ago where you went into the challenges of shooting Larry’s office in A Serious Man. Watching the film again recently i’d forgotten how much variety in look you built into those scenes across the film, as Larry’s situation deepens it really helps reflect the changing mood in a subtle way. I can’t find that article now (it may even have been a post on this forum) but i’d love to know how you approached lighting here, how you maintained consistency in each scene and what your biggest challenges were on that location.\nThanks,",
+  "content_html": "<p>Hi Roger,</p>\n<p>I remember reading an article some time ago where you went into the challenges of shooting Larry’s office in A Serious Man. Watching the film again recently i’d forgotten how much variety in look you built into those scenes across the film, as Larry’s situation deepens it really helps reflect the changing mood in a subtle way. I can’t find that article now (it may even have been a post on this forum) but i’d love to know how you approached lighting here, how you maintained consistency in each scene and what your biggest challenges were on that location.</p>\n<p>Thanks,</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I remember reading an article some time ago where you went into the challenges of shooting Larry’s office in A Serious Man. Watching the film again recently i’d forgotten how much variety in look you built into those scenes across the film, as Larry’s situation deepens it really helps reflect the changing mood in a subtle way. I can’t find that article now (it may even have been a post on this forum) but i’d love to know how you approached lighting here, how you maintained consistency in each scene and what your biggest challenges were on that location."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks,"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-serious-man-larrys-office/#post-219495",
+    "scraped_at": "2026-01-15T14:16:58.803494+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-serious-man-larrys-office/#post-219495",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6c21084962ce0b4a1080a5e1a5d188d54740c45b2cc40b3dbdad9e453a44fb9c",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "216645",
+    "forum_slug": "composition",
+    "topic_slug": "inspiration-sources",
+    "parent_post_id": "216503",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "bardanmcguire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Luca, you’re not supposed to understand why Tarkovsky creates his images or the reasonings behind them, they’re meant to be felt and not analysed.\nThe image serves as a form of unction that emerges not from Tarkovsky’s intellectual mind, not from a film school textbook, but rather from the depths of his heart and soul. Rather than a calculated product of thought, it flows from an inner well of feeling and intuition, capturing something deeply personal and transcendent beyond mere intellect. For Tarkovsky, the image is less a concept to be analysed and more a sacred expression of his soul’s vision, resonating with a sense of mystery and emotional truth.\nWhatever way Tarkovsky’s images resonate with you is the correct understanding of them, not Tarkovskys. Yours.\nThe same goes for any art really, often I go to see Caravaggio’s The Taking of Christ and when I do I don’t try to understand Caravaggio’s choices, rather I try to understand why what he’s made resonates with me. What it is about it that I like, what my own meanings of the work are. Whether or not I can articulate those thoughts doesn’t matter.  Its my experience with it that does.\nWhat else is there to art except for your own interpretations of it and how it makes you feel? That’s the whole point of making and experiencing it.",
+  "content_html": "<p>Luca, you’re not supposed to understand why Tarkovsky creates his images or the reasonings behind them, they’re meant to be felt and not analysed.</p>\n<p>The image serves as a form of unction that emerges not from Tarkovsky’s intellectual mind, not from a film school textbook, but rather from the depths of his heart and soul. Rather than a calculated product of thought, it flows from an inner well of feeling and intuition, capturing something deeply personal and transcendent beyond mere intellect. For Tarkovsky, the image is less a concept to be analysed and more a sacred expression of his soul’s vision, resonating with a sense of mystery and emotional truth.</p>\n<p>Whatever way Tarkovsky’s images resonate with you is the correct understanding of them, not Tarkovskys. Yours.</p>\n<p>The same goes for any art really, often I go to see Caravaggio’s The Taking of Christ and when I do I don’t try to understand Caravaggio’s choices, rather I try to understand why what he’s made resonates with me. What it is about it that I like, what my own meanings of the work are. Whether or not I can articulate those thoughts doesn’t matter.  Its my experience with it that does.</p>\n<p>What else is there to art except for your own interpretations of it and how it makes you feel? That’s the whole point of making and experiencing it.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Luca, you’re not supposed to understand why Tarkovsky creates his images or the reasonings behind them, they’re meant to be felt and not analysed."
+    },
+    {
+      "type": "paragraph",
+      "text": "The image serves as a form of unction that emerges not from Tarkovsky’s intellectual mind, not from a film school textbook, but rather from the depths of his heart and soul. Rather than a calculated product of thought, it flows from an inner well of feeling and intuition, capturing something deeply personal and transcendent beyond mere intellect. For Tarkovsky, the image is less a concept to be analysed and more a sacred expression of his soul’s vision, resonating with a sense of mystery and emotional truth."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whatever way Tarkovsky’s images resonate with you is the correct understanding of them, not Tarkovskys. Yours."
+    },
+    {
+      "type": "paragraph",
+      "text": "The same goes for any art really, often I go to see Caravaggio’s The Taking of Christ and when I do I don’t try to understand Caravaggio’s choices, rather I try to understand why what he’s made resonates with me. What it is about it that I like, what my own meanings of the work are. Whether or not I can articulate those thoughts doesn’t matter.  Its my experience with it that does."
+    },
+    {
+      "type": "paragraph",
+      "text": "What else is there to art except for your own interpretations of it and how it makes you feel? That’s the whole point of making and experiencing it."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/",
+    "scraped_at": "2026-01-15T12:26:03.383722+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "92767c9aece658ad8044878ad4241feb5d32b20a972e9b01f8611513ef4eec6f",
+    "parser_version": "bbpress-v2"
+  }
+}

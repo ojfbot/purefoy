@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/film-student-scholarships/#post-214651",
+  "forum_slug": "film-talk",
+  "topic_slug": "film-student-scholarships",
+  "title": "Film Student Scholarships",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214580",
+    "214650",
+    "214651"
+  ],
+  "reply_tree": {
+    "post_id": "214580",
+    "post_type": "topic",
+    "author": "Shea",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214650",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214651",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/film-student-scholarships/#post-214651",
+    "scraped_at": "2026-01-15T14:16:57.076213+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/film-student-scholarships/#post-214651",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "84769f95a7fe2e0612335e03f3461ab790ddfb2cada74f8727d3d6ee797a5500",
+    "parser_version": "bbpress-v2"
+  }
+}

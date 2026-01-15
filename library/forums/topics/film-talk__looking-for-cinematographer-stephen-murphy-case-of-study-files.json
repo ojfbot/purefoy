@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/looking-for-cinematographer-stephen-murphy-case-of-study-files/#post-218422",
+  "forum_slug": "film-talk",
+  "topic_slug": "looking-for-cinematographer-stephen-murphy-case-of-study-files",
+  "title": "Looking for cinematographer Stephen Murphy case of study files",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215813",
+    "218422"
+  ],
+  "reply_tree": {
+    "post_id": "215813",
+    "post_type": "topic",
+    "author": "Bernard LIm",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "218422",
+        "post_type": "reply",
+        "author": "Stephenmurphy",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/looking-for-cinematographer-stephen-murphy-case-of-study-files/#post-218422",
+    "scraped_at": "2026-01-15T12:08:47.981471+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/looking-for-cinematographer-stephen-murphy-case-of-study-files/#post-218422",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2ca3bf8f679d8efe77493fd53bfad966f9255fb175aa8a68358c8251f75c857b",
+    "parser_version": "bbpress-v2"
+  }
+}

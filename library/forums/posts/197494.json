@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "197494",
+    "forum_slug": "camera",
+    "topic_slug": "shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter",
+    "parent_post_id": "197364",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Even shooting RAW I try to get WB as I want on camera. It can be “correct” to the lights on set or not depending the effect we want to achieve. Same as green/magenta. I try to get as much in camera as I can.\nIt means everyone is watching a “final” image on set and it also means post will have less work and less chances to ruin it. As it has been told before, not every DP has the chance to sit down during color grading sessions. So the most final image you can get in camera the better.",
+  "content_html": "<p>Even shooting RAW I try to get WB as I want on camera. It can be “correct” to the lights on set or not depending the effect we want to achieve. Same as green/magenta. I try to get as much in camera as I can.<br/>\nIt means everyone is watching a “final” image on set and it also means post will have less work and less chances to ruin it. As it has been told before, not every DP has the chance to sit down during color grading sessions. So the most final image you can get in camera the better.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Even shooting RAW I try to get WB as I want on camera. It can be “correct” to the lights on set or not depending the effect we want to achieve. Same as green/magenta. I try to get as much in camera as I can.\nIt means everyone is watching a “final” image on set and it also means post will have less work and less chances to ruin it. As it has been told before, not every DP has the chance to sit down during color grading sessions. So the most final image you can get in camera the better."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter/#post-204122",
+    "scraped_at": "2026-01-15T15:42:19.933673+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter/#post-204122",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7f18420b3b3a8fe769bf50b2d5661521767b0ded2ef73d35e0c37cb416322246",
+    "parser_version": "bbpress-v2"
+  }
+}

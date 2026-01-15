@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "post_id": "216233",
+    "forum_slug": "camera",
+    "topic_slug": "indie-film-making-project-help",
+    "parent_post_id": "216231",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "As always, since i’m just an unexperienced amateur don’t take my words too seriously, but somehow i think i can be of some (limited) help since i’m in a similar situation: i’m working on my first short movie and more or less i’ve been through similar doubts. My case could be completely different from yours one but here they are some tips I gave to myself\n1) The story is the most important element, don’t rush it. When you think you are done with it, work again on that (after a while you don’t see flaws anymore). Ask people you trust to read it and to highlight problems and don’t take critics personally, they are opportunities to grow. How many wonderfully crafted movies with a stupid story have you watched yet? And i bet there are a lot of movies with limited budget that found a place in history of cinema thanks to their stories.\n2) Be realistic : what can you actually shoot, in terms of budget and technical abilities? In your script there’s the coolest scene ever scripted, but there is zero chances you’ll actually be able to shot it as you figured. Well, if is relevant to the story find a turnaround and a creative solution to do something similar, if it’s just a cool shot but it’s useless for the story do yourself a favor and erase the scene.\n3) Even to my naive ears\n“no control on lighting”\nsounds a bad way to start such a project. You can’t control the weather and clouds etc etc but you can carefully plan many other things (the position of the sun, the angle of the light, the type of light and so on). When you create a shot list from your script you may think how actually shot it and how to achieve the visual result you are looking for. There are apps for sun tracking that allows you to calculate exactly where the sun will be in a given moment. Does the shot requires (in your mind) a close up of the actor in the sunlight? Than stage the scene considering how the sun will light your talents: given that, you may need to diffuse or reflect or block  etc the sunlight. You’ll need some location scouting, at least on google maps or similar apps. And if after all this careful planning the weather will be horrible…well, it happens. If possible come back there but use it as a last resource (more shooting, more time, more cost) . Consider the time you’ll need to set the scene and that , well, the earth will move in the meanwhile, so the position of the sun will change.\n3 1/2 ) In general, using the “shot as we go” approach for the entire project could turn in a really complicated one, unless your goal is to create a real documentary of a road trip and no matter how the scene will look and how the audio will be (and it seems it’s not your case). Don’t rush the pre-production phase, plan everything. And think to a B-Plan .\n4) Perhaps i’m wrong but months for color grading seems a bit too much to me. If you are so scared by that you could think about hiring a professional colorist (within your budget) or do some test with, for example, free version of Davinci Resolve. It’s not that complicated to achieve decent results with log profiles once you understand how they work. You can’t use them as they are but they are not such a monster. Or you could consider Hlog profiles, that should work better on 8 bit and are way easier to color correct and color grade than Slog (you can almost use them as they are and while they have not the same  dynamic range of SLog they offer some decent space for color grading) . Also consider that Slog may need to be overexposed (please correct me on that if i’m wrong) and to achieve that you may need…planning.\n5) Great audio with poor cinematography or great cinematography with poor audio? Or, given the budget, a balance between the two?\n6) There’s not “the right” lense, there’s the right lense for your story and while there is plenty of advices and suggestions and opinions on the web, only you know how that scene should look. Does it need an intimate approach? How the characters relate to the enviroment? What feeling should the audience experience watching the scene?\n7) Is it a documentary on the beauty of the landscape or is it a road movie? Does the landscape plays a relevant role in the story or is it just a cool background? An ugly background hinting to the struggle of the characters could be more effective that a wonderful landscape that has no relationship with what’s happening.\nI hope that helps a little! And as i wrote in the beginning, I’m in a similar situation and i need help too, ah ah!",
+  "content_html": "<p>As always, since i’m just an unexperienced amateur don’t take my words too seriously, but somehow i think i can be of some (limited) help since i’m in a similar situation: i’m working on my first short movie and more or less i’ve been through similar doubts. My case could be completely different from yours one but here they are some tips I gave to myself</p>\n<p>1) The story is the most important element, don’t rush it. When you think you are done with it, work again on that (after a while you don’t see flaws anymore). Ask people you trust to read it and to highlight problems and don’t take critics personally, they are opportunities to grow. How many wonderfully crafted movies with a stupid story have you watched yet? And i bet there are a lot of movies with limited budget that found a place in history of cinema thanks to their stories.</p>\n<p>2) Be realistic : what can you actually shoot, in terms of budget and technical abilities? In your script there’s the coolest scene ever scripted, but there is zero chances you’ll actually be able to shot it as you figured. Well, if is relevant to the story find a turnaround and a creative solution to do something similar, if it’s just a cool shot but it’s useless for the story do yourself a favor and erase the scene.</p>\n<p>3) Even to my naive ears <em>“no control on lighting”</em> sounds a bad way to start such a project. You can’t control the weather and clouds etc etc but you can carefully plan many other things (the position of the sun, the angle of the light, the type of light and so on). When you create a shot list from your script you may think how actually shot it and how to achieve the visual result you are looking for. There are apps for sun tracking that allows you to calculate exactly where the sun will be in a given moment. Does the shot requires (in your mind) a close up of the actor in the sunlight? Than stage the scene considering how the sun will light your talents: given that, you may need to diffuse or reflect or block  etc the sunlight. You’ll need some location scouting, at least on google maps or similar apps. And if after all this careful planning the weather will be horrible…well, it happens. If possible come back there but use it as a last resource (more shooting, more time, more cost) . Consider the time you’ll need to set the scene and that , well, the earth will move in the meanwhile, so the position of the sun will change.</p>\n<p>3 1/2 ) In general, using the “shot as we go” approach for the entire project could turn in a really complicated one, unless your goal is to create a real documentary of a road trip and no matter how the scene will look and how the audio will be (and it seems it’s not your case). Don’t rush the pre-production phase, plan everything. And think to a B-Plan .</p>\n<p>4) Perhaps i’m wrong but months for color grading seems a bit too much to me. If you are so scared by that you could think about hiring a professional colorist (within your budget) or do some test with, for example, free version of Davinci Resolve. It’s not that complicated to achieve decent results with log profiles once you understand how they work. You can’t use them as they are but they are not such a monster. Or you could consider Hlog profiles, that should work better on 8 bit and are way easier to color correct and color grade than Slog (you can almost use them as they are and while they have not the same  dynamic range of SLog they offer some decent space for color grading) . Also consider that Slog may need to be overexposed (please correct me on that if i’m wrong) and to achieve that you may need…planning.</p>\n<p>5) Great audio with poor cinematography or great cinematography with poor audio? Or, given the budget, a balance between the two?</p>\n<p>6) There’s not “the right” lense, there’s the right lense for your story and while there is plenty of advices and suggestions and opinions on the web, only you know how that scene should look. Does it need an intimate approach? How the characters relate to the enviroment? What feeling should the audience experience watching the scene?</p>\n<p>7) Is it a documentary on the beauty of the landscape or is it a road movie? Does the landscape plays a relevant role in the story or is it just a cool background? An ugly background hinting to the struggle of the characters could be more effective that a wonderful landscape that has no relationship with what’s happening.</p>\n<p>I hope that helps a little! And as i wrote in the beginning, I’m in a similar situation and i need help too, ah ah!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "As always, since i’m just an unexperienced amateur don’t take my words too seriously, but somehow i think i can be of some (limited) help since i’m in a similar situation: i’m working on my first short movie and more or less i’ve been through similar doubts. My case could be completely different from yours one but here they are some tips I gave to myself"
+    },
+    {
+      "type": "paragraph",
+      "text": "1) The story is the most important element, don’t rush it. When you think you are done with it, work again on that (after a while you don’t see flaws anymore). Ask people you trust to read it and to highlight problems and don’t take critics personally, they are opportunities to grow. How many wonderfully crafted movies with a stupid story have you watched yet? And i bet there are a lot of movies with limited budget that found a place in history of cinema thanks to their stories."
+    },
+    {
+      "type": "paragraph",
+      "text": "2) Be realistic : what can you actually shoot, in terms of budget and technical abilities? In your script there’s the coolest scene ever scripted, but there is zero chances you’ll actually be able to shot it as you figured. Well, if is relevant to the story find a turnaround and a creative solution to do something similar, if it’s just a cool shot but it’s useless for the story do yourself a favor and erase the scene."
+    },
+    {
+      "type": "paragraph",
+      "text": "3) Even to my naive ears\n“no control on lighting”\nsounds a bad way to start such a project. You can’t control the weather and clouds etc etc but you can carefully plan many other things (the position of the sun, the angle of the light, the type of light and so on). When you create a shot list from your script you may think how actually shot it and how to achieve the visual result you are looking for. There are apps for sun tracking that allows you to calculate exactly where the sun will be in a given moment. Does the shot requires (in your mind) a close up of the actor in the sunlight? Than stage the scene considering how the sun will light your talents: given that, you may need to diffuse or reflect or block  etc the sunlight. You’ll need some location scouting, at least on google maps or similar apps. And if after all this careful planning the weather will be horrible…well, it happens. If possible come back there but use it as a last resource (more shooting, more time, more cost) . Consider the time you’ll need to set the scene and that , well, the earth will move in the meanwhile, so the position of the sun will change."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 1/2 ) In general, using the “shot as we go” approach for the entire project could turn in a really complicated one, unless your goal is to create a real documentary of a road trip and no matter how the scene will look and how the audio will be (and it seems it’s not your case). Don’t rush the pre-production phase, plan everything. And think to a B-Plan ."
+    },
+    {
+      "type": "paragraph",
+      "text": "4) Perhaps i’m wrong but months for color grading seems a bit too much to me. If you are so scared by that you could think about hiring a professional colorist (within your budget) or do some test with, for example, free version of Davinci Resolve. It’s not that complicated to achieve decent results with log profiles once you understand how they work. You can’t use them as they are but they are not such a monster. Or you could consider Hlog profiles, that should work better on 8 bit and are way easier to color correct and color grade than Slog (you can almost use them as they are and while they have not the same  dynamic range of SLog they offer some decent space for color grading) . Also consider that Slog may need to be overexposed (please correct me on that if i’m wrong) and to achieve that you may need…planning."
+    },
+    {
+      "type": "paragraph",
+      "text": "5) Great audio with poor cinematography or great cinematography with poor audio? Or, given the budget, a balance between the two?"
+    },
+    {
+      "type": "paragraph",
+      "text": "6) There’s not “the right” lense, there’s the right lense for your story and while there is plenty of advices and suggestions and opinions on the web, only you know how that scene should look. Does it need an intimate approach? How the characters relate to the enviroment? What feeling should the audience experience watching the scene?"
+    },
+    {
+      "type": "paragraph",
+      "text": "7) Is it a documentary on the beauty of the landscape or is it a road movie? Does the landscape plays a relevant role in the story or is it just a cool background? An ugly background hinting to the struggle of the characters could be more effective that a wonderful landscape that has no relationship with what’s happening."
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope that helps a little! And as i wrote in the beginning, I’m in a similar situation and i need help too, ah ah!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/indie-film-making-project-help/#post-216251",
+    "scraped_at": "2026-01-15T14:33:33.379762+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/indie-film-making-project-help/#post-216251",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a4c2e26d4a7c411dca8d1c84661c97650382955642f49d142fd1e93d4f4ea059",
+    "parser_version": "bbpress-v2"
+  }
+}

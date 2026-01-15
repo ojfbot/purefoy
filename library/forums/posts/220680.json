@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220680",
+    "forum_slug": "forum",
+    "topic_slug": "dark",
+    "parent_post_id": "220409",
+    "parent_type": "topic",
+    "position": 13
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Yakov10",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yes, I wonder what Roger will say.",
+  "content_html": "<p>Yes, I wonder what Roger will say.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yes, I wonder what Roger will say."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dark/#post-220680",
+    "scraped_at": "2026-01-15T13:16:05.349839+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dark/#post-220680",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "daae730208076e18de2314e99c58eed2c5782ceb5c412e4a4c1005d4bafdc7c3",
+    "parser_version": "bbpress-v2"
+  }
+}

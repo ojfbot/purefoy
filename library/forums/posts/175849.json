@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "175849",
+    "forum_slug": "website-news",
+    "topic_slug": "recovering-the-old-forums-need-help",
+    "parent_post_id": "174482",
+    "parent_type": "topic",
+    "position": 18
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Magneticat",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello – yesterday, development @ magneticat.com is the e-mail.",
+  "content_html": "<p>Hello – yesterday, development @ magneticat.com is the e-mail.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello – yesterday, development @ magneticat.com is the e-mail."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/page/2/",
+    "scraped_at": "2026-01-15T12:42:29.517208+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4142d1dd37035de73373c729e8788ab60aa57a32c243ef7d0820b82a8eea7fbb",
+    "parser_version": "bbpress-v2"
+  }
+}

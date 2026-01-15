@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217412",
+    "forum_slug": "forum",
+    "topic_slug": "70s-disco-short-film-hard-or-soft-light",
+    "parent_post_id": "217408",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "lukas_hyrman",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Also not Roger.  But I did shoot a 70’s disco short and I had a similar idea.  I used a similarly large soft source off to the side of the dancefloor but just for a little bit of fill light to pop the central characters, and I’m not sure I needed it honestly.  You have to be aware that you are lighting a big area, so even an 8×8 is going to feel sourcy and the falloff will be noticeable.  The things that I found handy shooting this scenario were when in close ups  diffusion frames on those pars to soften them, and my own RGB panel to augment the pars from the floor.\nGood luck it is a tricky scenario",
+  "content_html": "<p>Also not Roger.  But I did shoot a 70’s disco short and I had a similar idea.  I used a similarly large soft source off to the side of the dancefloor but just for a little bit of fill light to pop the central characters, and I’m not sure I needed it honestly.  You have to be aware that you are lighting a big area, so even an 8×8 is going to feel sourcy and the falloff will be noticeable.  The things that I found handy shooting this scenario were when in close ups  diffusion frames on those pars to soften them, and my own RGB panel to augment the pars from the floor.<br/>\nGood luck it is a tricky scenario</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Also not Roger.  But I did shoot a 70’s disco short and I had a similar idea.  I used a similarly large soft source off to the side of the dancefloor but just for a little bit of fill light to pop the central characters, and I’m not sure I needed it honestly.  You have to be aware that you are lighting a big area, so even an 8×8 is going to feel sourcy and the falloff will be noticeable.  The things that I found handy shooting this scenario were when in close ups  diffusion frames on those pars to soften them, and my own RGB panel to augment the pars from the floor.\nGood luck it is a tricky scenario"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/70s-disco-short-film-hard-or-soft-light/#post-217412",
+    "scraped_at": "2026-01-15T15:20:57.713908+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/70s-disco-short-film-hard-or-soft-light/#post-217412",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "adbe05e953a542b79537a4d7f6466ad735b0cefd085eb16711411d1a22fc1ab5",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "177790",
+    "forum_slug": "camera",
+    "topic_slug": "shot-design-in-prep",
+    "parent_post_id": "177736",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "As I said, ‘Blade Runner 2049’ was a far more complicated film. The overall world that the film was to be set in had to be imagined and, within that whole, there were many sets that required specific looks of their own. Whereas on a film like ‘Sicario’, in which scenes took place within existing locations or could be combined with relatively simple sets, for ‘BR2049′ we needed to combine any number of sets and locations to create a composite environment.\nThe night scene where the spinner crashes against the sea wall was just one instance where we needed to conceptualize the scene before the film could be scheduled. After much consideration as to how and where the sequence as imagined would be shot it was decided to build of a large open air tank, some 160′ square and 15’ deep, on a studio backlot in Budapest. That takes time.",
+  "content_html": "<p>As I said, ‘Blade Runner 2049’ was a far more complicated film. The overall world that the film was to be set in had to be imagined and, within that whole, there were many sets that required specific looks of their own. Whereas on a film like ‘Sicario’, in which scenes took place within existing locations or could be combined with relatively simple sets, for ‘BR2049′ we needed to combine any number of sets and locations to create a composite environment.</p>\n<p>The night scene where the spinner crashes against the sea wall was just one instance where we needed to conceptualize the scene before the film could be scheduled. After much consideration as to how and where the sequence as imagined would be shot it was decided to build of a large open air tank, some 160′ square and 15’ deep, on a studio backlot in Budapest. That takes time.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "As I said, ‘Blade Runner 2049’ was a far more complicated film. The overall world that the film was to be set in had to be imagined and, within that whole, there were many sets that required specific looks of their own. Whereas on a film like ‘Sicario’, in which scenes took place within existing locations or could be combined with relatively simple sets, for ‘BR2049′ we needed to combine any number of sets and locations to create a composite environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "The night scene where the spinner crashes against the sea wall was just one instance where we needed to conceptualize the scene before the film could be scheduled. After much consideration as to how and where the sequence as imagined would be shot it was decided to build of a large open air tank, some 160′ square and 15’ deep, on a studio backlot in Budapest. That takes time."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/",
+    "scraped_at": "2026-01-15T15:44:23.530335+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6390b845ac96942b19d40b711eeffa715f4737d5e64d808f4a043e6a871ec9f4",
+    "parser_version": "bbpress-v2"
+  }
+}

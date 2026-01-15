@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "218663",
+    "forum_slug": "camera",
+    "topic_slug": "barrel-distortion"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "JakeWest",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "What are your thoughts on barrel distortion vs rectilinear distortion?\nWider lenses with barrel distortion show warped edges, but rectilinear lenses make the sides stretched making people look wider with strange features. When using wider lenses, which look do you prefer?",
+  "content_html": "<p>What are your thoughts on barrel distortion vs rectilinear distortion?<br/>\nWider lenses with barrel distortion show warped edges, but rectilinear lenses make the sides stretched making people look wider with strange features. When using wider lenses, which look do you prefer?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "What are your thoughts on barrel distortion vs rectilinear distortion?\nWider lenses with barrel distortion show warped edges, but rectilinear lenses make the sides stretched making people look wider with strange features. When using wider lenses, which look do you prefer?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/barrel-distortion/#post-220507",
+    "scraped_at": "2026-01-15T12:09:13.384814+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/barrel-distortion/#post-220507",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cee9e6458e5f6482c89225102ce1ee6a301a4a5a7b6dcc9bb0429a279b2ff23e",
+    "parser_version": "bbpress-v2"
+  }
+}

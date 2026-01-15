@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "217201",
+    "forum_slug": "forum",
+    "topic_slug": "opening-sequence-to-skyfall",
+    "parent_post_id": "217145",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think copying is a natural part of the journey, but it should happen in the very beginning.\nFrom there people usually develop their own way of doing things down the road.",
+  "content_html": "<p>I think copying is a natural part of the journey, but it should happen in the very beginning.</p>\n<p>From there people usually develop their own way of doing things down the road.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think copying is a natural part of the journey, but it should happen in the very beginning."
+    },
+    {
+      "type": "paragraph",
+      "text": "From there people usually develop their own way of doing things down the road."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/opening-sequence-to-skyfall/#post-217204",
+    "scraped_at": "2026-01-15T15:21:30.565721+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/opening-sequence-to-skyfall/#post-217204",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4a9aafd73c7f7889ace0c1f9af541a4124076b62f893a2f29d306554303a27a3",
+    "parser_version": "bbpress-v2"
+  }
+}

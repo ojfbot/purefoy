@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "216221",
+    "forum_slug": "forum",
+    "topic_slug": "white-balance-warm-tungsten"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "BlacksheepPictures",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "How would you set your White Balance in camera for a Scene like in 1917 in the Tunnel or the warm scene in James Bond on the Couch?\nI thought about settings the light to 3200K and the camera to 4800\nOr what would you use? thank you",
+  "content_html": "<p>How would you set your White Balance in camera for a Scene like in 1917 in the Tunnel or the warm scene in James Bond on the Couch?</p>\n<p>I thought about settings the light to 3200K and the camera to 4800</p>\n<p>Or what would you use? thank you</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "How would you set your White Balance in camera for a Scene like in 1917 in the Tunnel or the warm scene in James Bond on the Couch?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I thought about settings the light to 3200K and the camera to 4800"
+    },
+    {
+      "type": "paragraph",
+      "text": "Or what would you use? thank you"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/page/2/",
+    "scraped_at": "2026-01-15T15:24:01.092553+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2f8f32b9bec6ae4fafde5775662510e5552949ccc73731e6375db8d71316892b",
+    "parser_version": "bbpress-v2"
+  }
+}

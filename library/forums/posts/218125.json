@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218125",
+    "forum_slug": "forum",
+    "topic_slug": "matching-2-shots-in-different-locations",
+    "parent_post_id": "217905",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LennyL",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Just curious why you feel you need to shoot entirely in natural light . Isn’t that a kind of artificial   restriction to place on yourself  especially when trying to match 2 completely different environments.",
+  "content_html": "<p>Just curious why you feel you need to shoot entirely in natural light . Isn’t that a kind of artificial   restriction to place on yourself  especially when trying to match 2 completely different environments.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Just curious why you feel you need to shoot entirely in natural light . Isn’t that a kind of artificial   restriction to place on yourself  especially when trying to match 2 completely different environments."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/matching-2-shots-in-different-locations/#post-218126",
+    "scraped_at": "2026-01-15T15:18:14.886531+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/matching-2-shots-in-different-locations/#post-218126",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3b640782bab4ac80905b7f4bd0f8833b932238c4f6afb63228a3ddf8c0e8430a",
+    "parser_version": "bbpress-v2"
+  }
+}

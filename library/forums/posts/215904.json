@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "215904",
+    "forum_slug": "team-deakins",
+    "topic_slug": "trying-to-find-biography-information-on-roger-deakins-for-film-school"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "ToTo G",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello,\nMy name is Tobias and I am a film student based in Sydney Australia. I’m currently working on an entrepreneurship project involving a personal influence. My personal influence is Roger Deakins as I’m looking to become a cinematographer in the future and Fargo has had the best shots I have seen so far in cinema. I’m currently 20 years old and was wondering about a few things.\n-How did Roger first know he wanted to be involved in Filmmaking.\n-What skills did Roger need in order to further progress his hobby of still photography to moving images.\n-What were Roger’s influences (if he had any) and how did these influences assist in his creative process.\nThank you. Any and all information would assist me in this project.\nKindest Of Regards,\nTobias.",
+  "content_html": "<p>Hello,<br/>\nMy name is Tobias and I am a film student based in Sydney Australia. I’m currently working on an entrepreneurship project involving a personal influence. My personal influence is Roger Deakins as I’m looking to become a cinematographer in the future and Fargo has had the best shots I have seen so far in cinema. I’m currently 20 years old and was wondering about a few things.<br/>\n-How did Roger first know he wanted to be involved in Filmmaking.<br/>\n-What skills did Roger need in order to further progress his hobby of still photography to moving images.<br/>\n-What were Roger’s influences (if he had any) and how did these influences assist in his creative process.</p>\n<p>Thank you. Any and all information would assist me in this project.<br/>\nKindest Of Regards,<br/>\nTobias.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello,\nMy name is Tobias and I am a film student based in Sydney Australia. I’m currently working on an entrepreneurship project involving a personal influence. My personal influence is Roger Deakins as I’m looking to become a cinematographer in the future and Fargo has had the best shots I have seen so far in cinema. I’m currently 20 years old and was wondering about a few things.\n-How did Roger first know he wanted to be involved in Filmmaking.\n-What skills did Roger need in order to further progress his hobby of still photography to moving images.\n-What were Roger’s influences (if he had any) and how did these influences assist in his creative process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you. Any and all information would assist me in this project.\nKindest Of Regards,\nTobias."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/trying-to-find-biography-information-on-roger-deakins-for-film-school/#post-215908",
+    "scraped_at": "2026-01-15T13:16:08.395067+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/trying-to-find-biography-information-on-roger-deakins-for-film-school/#post-215908",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "99e42626f430150e482e7e6ef4ea75793abf749cd13a3919561cb3625e7f1c72",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218304",
+    "forum_slug": "forum",
+    "topic_slug": "happy-birthday-to-the-legendary",
+    "parent_post_id": "218300",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Happy birthday! 🙂",
+  "content_html": "<p>Happy birthday! 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Happy birthday! 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-to-the-legendary/#post-218340",
+    "scraped_at": "2026-01-15T15:08:21.638937+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-to-the-legendary/#post-218340",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0df7d9cb3fd883416144b6856ba4898e402402e173a17afd726051d212a7421a",
+    "parser_version": "bbpress-v2"
+  }
+}

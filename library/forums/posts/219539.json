@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "219539",
+    "forum_slug": "forum",
+    "topic_slug": "is-it-communicating-visually"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Vashistha",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger and fellow members of the forum,\nI would like to share my recent narrative music video work, looking for your insights and thoughts on it. On what works and what might not be working and if it’s visually communicative enough, since the lyrics of the song may not be something you might readily understand as it’s not in English. So interested to know what you all think about it.\nThank you in advance. 🙂\nloved the recent Steven Soderberg podcast by the way; appreciate how openly and warmly knowledge is shared here.",
+  "content_html": "<p>Dear Roger and fellow members of the forum,</p>\n<p>I would like to share my recent narrative music video work, looking for your insights and thoughts on it. On what works and what might not be working and if it’s visually communicative enough, since the lyrics of the song may not be something you might readily understand as it’s not in English. So interested to know what you all think about it.</p>\n<p>Thank you in advance. 🙂</p>\n<p>loved the recent Steven Soderberg podcast by the way; appreciate how openly and warmly knowledge is shared here.</p>\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"381\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/nw-9nBJ_Tzk?feature=oembed\" title=\"Bipul Chettri - Eh Saathi (Official Music Video)\" width=\"678\"></iframe></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger and fellow members of the forum,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I would like to share my recent narrative music video work, looking for your insights and thoughts on it. On what works and what might not be working and if it’s visually communicative enough, since the lyrics of the song may not be something you might readily understand as it’s not in English. So interested to know what you all think about it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you in advance. 🙂"
+    },
+    {
+      "type": "paragraph",
+      "text": "loved the recent Steven Soderberg podcast by the way; appreciate how openly and warmly knowledge is shared here."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/is-it-communicating-visually/",
+    "scraped_at": "2026-01-15T14:16:47.043717+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/is-it-communicating-visually/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7ea9d232d4faa83ad4345714b02a1d83d44a27dc5a8a662319abdc927d3cb842",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/photos-ive-taken-in-bursa/",
+  "forum_slug": "still-photography",
+  "topic_slug": "photos-ive-taken-in-bursa",
+  "title": "PHOTOS I’VE TAKEN IN BURSA",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215540"
+  ],
+  "reply_tree": {
+    "post_id": "215540",
+    "post_type": "topic",
+    "author": "Bora Yalcin",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/photos-ive-taken-in-bursa/",
+    "scraped_at": "2026-01-15T12:26:23.632000+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/photos-ive-taken-in-bursa/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0005caa4085e8969fb9a1c1fe0f30b70a462813f753d2fc1d0f7bcea086dc87a",
+    "parser_version": "bbpress-v2"
+  }
+}

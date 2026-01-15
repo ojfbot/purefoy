@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/cinematography-advice/#post-216112",
+  "forum_slug": "camera",
+  "topic_slug": "cinematography-advice",
+  "title": "Cinematography advice",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215720",
+    "215784",
+    "215846",
+    "216107",
+    "216112"
+  ],
+  "reply_tree": {
+    "post_id": "215720",
+    "post_type": "topic",
+    "author": "KyleDow",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215784",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215846",
+        "post_type": "reply",
+        "author": "KyleDow",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216107",
+        "post_type": "reply",
+        "author": "WATT TV",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216112",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cinematography-advice/#post-216112",
+    "scraped_at": "2026-01-15T15:08:29.675720+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cinematography-advice/#post-216112",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ae036602295be6e044d03dfeedcd8e9e40125c1c86faf81dd829f8f396398de1",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "220902",
+    "forum_slug": "still-photography",
+    "topic_slug": "byways-double-page-spread"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "ChristianL",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nI wanted to ask about the double-page spreads in Byways. How did you decide which photos went on a single page and which got two pages? I would assume your favorites (like the jumping dog) got two pages, but two-page spreads have the gutter line/stitches running through the middle, which seems to ruin the photo a little bit. How much did you factor that in when laying out the book? Thanks.",
+  "content_html": "<p>Hi Roger,</p>\n<p>I wanted to ask about the double-page spreads in Byways. How did you decide which photos went on a single page and which got two pages? I would assume your favorites (like the jumping dog) got two pages, but two-page spreads have the gutter line/stitches running through the middle, which seems to ruin the photo a little bit. How much did you factor that in when laying out the book? Thanks.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I wanted to ask about the double-page spreads in Byways. How did you decide which photos went on a single page and which got two pages? I would assume your favorites (like the jumping dog) got two pages, but two-page spreads have the gutter line/stitches running through the middle, which seems to ruin the photo a little bit. How much did you factor that in when laying out the book? Thanks."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/byways-double-page-spread/",
+    "scraped_at": "2026-01-15T12:42:21.927223+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/byways-double-page-spread/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9541aaecece31e1baa0a3f452fe9146ff7998dc59a7141e3b5e0caeef4ac02bb",
+    "parser_version": "bbpress-v2"
+  }
+}

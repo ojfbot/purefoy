@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215294",
+    "forum_slug": "camera",
+    "topic_slug": "normal-lens-fo-arir-large-format",
+    "parent_post_id": "215293",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "To calculate the equivalent focal lengths in terms of horizontal view, find out the width of the sensor area being used and divide the larger number by the smaller number to get the conversion (crop) factor.\nGeneric figures of 24mm wide for Super 35 and 36mm wide for Full-Frame 35 means you divide 36 by 24 to get 1.5. So that’s the conversion factor. To get a matching horizontal view you’d multiply the Super35 lens by 1.5 to get the equivalent view in FF35. So a 32mm lens in Super35 has the same view as the 48mm in FF35.\nBut to be more precise you need the actual widths of the sensor areas being used. Open Gate on a classic Alexa is 28.25mm and on the Alexa 35, it’s 27.99mm. Open Gate on the Alexa LF is 36.70mm. So if you were comparing a classic Alexa to an LF, both using Open Gate ARRIRAW, you’d divide 36.70 by 28.25, which is 1.3.  So a 32mm lens on a classic Alexa would have to be a 41.6mm on an Alexa LF if you wanted to match the horizontal view.",
+  "content_html": "<p>To calculate the equivalent focal lengths in terms of horizontal view, find out the width of the sensor area being used and divide the larger number by the smaller number to get the conversion (crop) factor.</p>\n<p>Generic figures of 24mm wide for Super 35 and 36mm wide for Full-Frame 35 means you divide 36 by 24 to get 1.5. So that’s the conversion factor. To get a matching horizontal view you’d multiply the Super35 lens by 1.5 to get the equivalent view in FF35. So a 32mm lens in Super35 has the same view as the 48mm in FF35.</p>\n<p>But to be more precise you need the actual widths of the sensor areas being used. Open Gate on a classic Alexa is 28.25mm and on the Alexa 35, it’s 27.99mm. Open Gate on the Alexa LF is 36.70mm. So if you were comparing a classic Alexa to an LF, both using Open Gate ARRIRAW, you’d divide 36.70 by 28.25, which is 1.3.  So a 32mm lens on a classic Alexa would have to be a 41.6mm on an Alexa LF if you wanted to match the horizontal view.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "To calculate the equivalent focal lengths in terms of horizontal view, find out the width of the sensor area being used and divide the larger number by the smaller number to get the conversion (crop) factor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generic figures of 24mm wide for Super 35 and 36mm wide for Full-Frame 35 means you divide 36 by 24 to get 1.5. So that’s the conversion factor. To get a matching horizontal view you’d multiply the Super35 lens by 1.5 to get the equivalent view in FF35. So a 32mm lens in Super35 has the same view as the 48mm in FF35."
+    },
+    {
+      "type": "paragraph",
+      "text": "But to be more precise you need the actual widths of the sensor areas being used. Open Gate on a classic Alexa is 28.25mm and on the Alexa 35, it’s 27.99mm. Open Gate on the Alexa LF is 36.70mm. So if you were comparing a classic Alexa to an LF, both using Open Gate ARRIRAW, you’d divide 36.70 by 28.25, which is 1.3.  So a 32mm lens on a classic Alexa would have to be a 41.6mm on an Alexa LF if you wanted to match the horizontal view."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/normal-lens-fo-arir-large-format/#post-215297",
+    "scraped_at": "2026-01-15T15:22:24.304499+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/normal-lens-fo-arir-large-format/#post-215297",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a2068bdaa0388522801053ec9e03af32447c0ec38d53ee685fea4f7eb796057f",
+    "parser_version": "bbpress-v2"
+  }
+}

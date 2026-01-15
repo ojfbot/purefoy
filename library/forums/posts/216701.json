@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216701",
+    "forum_slug": "forum",
+    "topic_slug": "ganged-chinese-lantern-vs-roger-ring-lights",
+    "parent_post_id": "216611",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "footfeeling",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "good post!",
+  "content_html": "<p>good post!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "good post!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ganged-chinese-lantern-vs-roger-ring-lights/#post-216720",
+    "scraped_at": "2026-01-15T15:23:13.496522+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ganged-chinese-lantern-vs-roger-ring-lights/#post-216720",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a758ab209eca08f811d89bb22b69268bb69c1ac8541eb38f2af726b6631a4adf",
+    "parser_version": "bbpress-v2"
+  }
+}

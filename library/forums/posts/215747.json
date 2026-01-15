@@ -1,0 +1,51 @@
+{
+  "ids": {
+    "post_id": "215747",
+    "forum_slug": "camera",
+    "topic_slug": "shaky-cams",
+    "parent_post_id": "215744",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "mskb",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for the insight\n@Stip\n. I will check out the Safdie brothers movies.\nCheers!",
+  "content_html": "<p>Thank you for the insight <a class=\"bbp-user-mention bbp-user-id-17299\" href=\"https://www.rogerdeakins.com/forums/users/stip/\"> @Stip</a>. I will check out the Safdie brothers movies.</p>\n<p>Cheers!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for the insight\n@Stip\n. I will check out the Safdie brothers movies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cheers!"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/stip/",
+      "text": "@Stip",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shaky-cams/#post-215800",
+    "scraped_at": "2026-01-15T15:20:57.508248+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shaky-cams/#post-215800",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f256dca2911dc60863ed53070cee02f2c23a9305a31dd40771dfa16c0a6a3c0b",
+    "parser_version": "bbpress-v2"
+  }
+}

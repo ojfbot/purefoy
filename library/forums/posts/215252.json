@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "215252",
+    "forum_slug": "forum",
+    "topic_slug": "moon-light-for-exterior",
+    "parent_post_id": "215213",
+    "parent_type": "topic",
+    "position": 16
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I could use Google and find the links… but then I’d wonder why you don’t use Google and find the links!\nI wonder the same.",
+  "content_html": "<blockquote><p>I could use Google and find the links… but then I’d wonder why you don’t use Google and find the links!</p></blockquote>\n<p>I wonder the same.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "I could use Google and find the links… but then I’d wonder why you don’t use Google and find the links!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I could use Google and find the links… but then I’d wonder why you don’t use Google and find the links!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I wonder the same."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "I could use Google and find the links… but then I’d wonder why you don’t use Google and find the links!"
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/moon-light-for-exterior/page/2/",
+    "scraped_at": "2026-01-15T15:48:05.729558+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/moon-light-for-exterior/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3c2b0beccf425f9d013693bf0131603cb18ce46eb86b6e7718afed7047d34498",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "215627",
+    "forum_slug": "set-talk",
+    "topic_slug": "the-rise-of-a-i"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "sydneydan",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey guys,\na few ago I never thought this would be possible, but A.I is getting increasingly good at creating Videos.\nI believe this will have a major impact on film production, eventually leading to a full stop of film production at one point.\nWhat is your opinion on that and when do you think it will happen?\nBest,\nDaniel",
+  "content_html": "<p>Hey guys,</p>\n<p>a few ago I never thought this would be possible, but A.I is getting increasingly good at creating Videos.</p>\n<p>I believe this will have a major impact on film production, eventually leading to a full stop of film production at one point.</p>\n<p>What is your opinion on that and when do you think it will happen?</p>\n<p>Best,<br/>\nDaniel</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey guys,"
+    },
+    {
+      "type": "paragraph",
+      "text": "a few ago I never thought this would be possible, but A.I is getting increasingly good at creating Videos."
+    },
+    {
+      "type": "paragraph",
+      "text": "I believe this will have a major impact on film production, eventually leading to a full stop of film production at one point."
+    },
+    {
+      "type": "paragraph",
+      "text": "What is your opinion on that and when do you think it will happen?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Best,\nDaniel"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-rise-of-a-i/#post-217062",
+    "scraped_at": "2026-01-15T12:26:19.409385+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-rise-of-a-i/#post-217062",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a970efc60503f0b38743a995720862409f7383128661ead25670bcb67bdd07e5",
+    "parser_version": "bbpress-v2"
+  }
+}

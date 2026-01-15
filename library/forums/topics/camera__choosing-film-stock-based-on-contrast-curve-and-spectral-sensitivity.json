@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/choosing-film-stock-based-on-contrast-curve-and-spectral-sensitivity/#post-169892",
+  "forum_slug": "camera",
+  "topic_slug": "choosing-film-stock-based-on-contrast-curve-and-spectral-sensitivity",
+  "title": "Choosing film stock based on contrast curve and spectral-sensitivity",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "169879",
+    "169881",
+    "169892"
+  ],
+  "reply_tree": {
+    "post_id": "169879",
+    "post_type": "topic",
+    "author": "samdavidzhang",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "169881",
+        "post_type": "reply",
+        "author": "samdavidzhang",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "169892",
+        "post_type": "reply",
+        "author": "gabj3",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/choosing-film-stock-based-on-contrast-curve-and-spectral-sensitivity/#post-169892",
+    "scraped_at": "2026-01-15T15:46:38.764607+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/choosing-film-stock-based-on-contrast-curve-and-spectral-sensitivity/#post-169892",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5d2539728265b8d0d31a05a49adc41d2044ad8b711deb3c5bf392dfad7e8b2cd",
+    "parser_version": "bbpress-v2"
+  }
+}

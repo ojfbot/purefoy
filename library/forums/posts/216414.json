@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216414",
+    "forum_slug": "camera",
+    "topic_slug": "geared-head-vs-fluid-head",
+    "parent_post_id": "216341",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Hongqi",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you Roger for explaining!",
+  "content_html": "<p>Thank you Roger for explaining!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you Roger for explaining!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/geared-head-vs-fluid-head/#post-216617",
+    "scraped_at": "2026-01-15T13:40:00.513966+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/geared-head-vs-fluid-head/#post-216617",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2e28905aaaecb8da62feb423aafaed427aa158ac4f14d572dbc94412b8681a52",
+    "parser_version": "bbpress-v2"
+  }
+}

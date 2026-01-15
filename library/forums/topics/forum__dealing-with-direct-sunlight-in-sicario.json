@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/dealing-with-direct-sunlight-in-sicario/#post-215726",
+  "forum_slug": "forum",
+  "topic_slug": "dealing-with-direct-sunlight-in-sicario",
+  "title": "Dealing with direct sunlight in Sicario?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215689",
+    "215699",
+    "215701",
+    "215702",
+    "215717",
+    "215726"
+  ],
+  "reply_tree": {
+    "post_id": "215689",
+    "post_type": "topic",
+    "author": "andrewdko",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215699",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215701",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215702",
+        "post_type": "reply",
+        "author": "andrewdko",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215717",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215726",
+        "post_type": "reply",
+        "author": "andrewdko",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dealing-with-direct-sunlight-in-sicario/#post-215726",
+    "scraped_at": "2026-01-15T15:45:08.804813+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dealing-with-direct-sunlight-in-sicario/#post-215726",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3c0cf16ec433328825cbbdd4d8594579b08f18f8162461e54dccc5787d80ef5c",
+    "parser_version": "bbpress-v2"
+  }
+}

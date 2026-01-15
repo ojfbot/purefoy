@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216899",
+    "forum_slug": "forum",
+    "topic_slug": "fixture-to-set-distance-purely-from-a-falloff-consideration",
+    "parent_post_id": "216893",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Wekblad",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for your answer!\nOk, well let’s say you are going on stage, and they ask you to give some input on set construction. When would you say the distance is too short, and what would you feel is a comfortable distance you would be happy to agree on? For the sake of argument take a living room set with four windows and four 12K fresnels.\nYes there are many factors playing in, budgets, the angel of the lights the scene itself… just wondered if there were any sort of range you would rather keep those fixtures within. Although as you say, it will probably always be as far away as possible.",
+  "content_html": "<p>Thank you for your answer!</p>\n<p>Ok, well let’s say you are going on stage, and they ask you to give some input on set construction. When would you say the distance is too short, and what would you feel is a comfortable distance you would be happy to agree on? For the sake of argument take a living room set with four windows and four 12K fresnels.</p>\n<p>Yes there are many factors playing in, budgets, the angel of the lights the scene itself… just wondered if there were any sort of range you would rather keep those fixtures within. Although as you say, it will probably always be as far away as possible.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for your answer!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ok, well let’s say you are going on stage, and they ask you to give some input on set construction. When would you say the distance is too short, and what would you feel is a comfortable distance you would be happy to agree on? For the sake of argument take a living room set with four windows and four 12K fresnels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes there are many factors playing in, budgets, the angel of the lights the scene itself… just wondered if there were any sort of range you would rather keep those fixtures within. Although as you say, it will probably always be as far away as possible."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/fixture-to-set-distance-purely-from-a-falloff-consideration/#post-216922",
+    "scraped_at": "2026-01-15T15:22:30.980166+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/fixture-to-set-distance-purely-from-a-falloff-consideration/#post-216922",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e67088e158afb21adbb908e08cf6201652747872f7186f00c9894399de35ee4e",
+    "parser_version": "bbpress-v2"
+  }
+}

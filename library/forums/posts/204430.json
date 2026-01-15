@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "204430",
+    "forum_slug": "forum",
+    "topic_slug": "ansel-adams-zone-system",
+    "parent_post_id": "201222",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "andrewtrost",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Curious what everyone here thinks of the EL Zone system that Ed Lachman created a few years ago, seems applicable to this thread!\nhttps://www.newsshooter.com/2023/03/06/el-zone-exposure-system-how-does-it-work-and-how-do-you-use-it/\nI haven’t used it on a project yet, but recently attended an event where Ed explained his reasoning behind creating it and how he personally uses it.  I think it definitely has a place as a useful tool that could/should replace false color.\nEd is currently trying to get manufacturers like ARRI and Sony to add it directly to their camera systems, seems like a no-brainer to me!",
+  "content_html": "<p>Curious what everyone here thinks of the EL Zone system that Ed Lachman created a few years ago, seems applicable to this thread!</p>\n<p><a href=\"https://www.newsshooter.com/2023/03/06/el-zone-exposure-system-how-does-it-work-and-how-do-you-use-it/\" rel=\"nofollow\">https://www.newsshooter.com/2023/03/06/el-zone-exposure-system-how-does-it-work-and-how-do-you-use-it/</a></p>\n<p>I haven’t used it on a project yet, but recently attended an event where Ed explained his reasoning behind creating it and how he personally uses it.  I think it definitely has a place as a useful tool that could/should replace false color.</p>\n<p>Ed is currently trying to get manufacturers like ARRI and Sony to add it directly to their camera systems, seems like a no-brainer to me!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Curious what everyone here thinks of the EL Zone system that Ed Lachman created a few years ago, seems applicable to this thread!"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://www.newsshooter.com/2023/03/06/el-zone-exposure-system-how-does-it-work-and-how-do-you-use-it/"
+    },
+    {
+      "type": "paragraph",
+      "text": "I haven’t used it on a project yet, but recently attended an event where Ed explained his reasoning behind creating it and how he personally uses it.  I think it definitely has a place as a useful tool that could/should replace false color."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ed is currently trying to get manufacturers like ARRI and Sony to add it directly to their camera systems, seems like a no-brainer to me!"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.newsshooter.com/2023/03/06/el-zone-exposure-system-how-does-it-work-and-how-do-you-use-it/",
+      "text": "https://www.newsshooter.com/2023/03/06/el-zone-exposure-system-how-does-it-work-and-how-do-you-use-it/",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ansel-adams-zone-system/#post-204430",
+    "scraped_at": "2026-01-15T15:53:57.787749+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ansel-adams-zone-system/#post-204430",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ececb14fec425b27803d01e33de0bd23a0cd5b7aa90061e9f6814944be77b69a",
+    "parser_version": "bbpress-v2"
+  }
+}

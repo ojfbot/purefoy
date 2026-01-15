@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214940",
+    "forum_slug": "forum",
+    "topic_slug": "phantom-thread-cafe-scene",
+    "parent_post_id": "214912",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "M Ryan",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Comping is another possibility..",
+  "content_html": "<p>Comping is another possibility..</p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Comping is another possibility.."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/phantom-thread-cafe-scene/#post-214960",
+    "scraped_at": "2026-01-15T15:50:06.665583+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/phantom-thread-cafe-scene/#post-214960",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "31182fb8ccd796fad17942c902853b1e958a413a23ebde3e36617c0f5e05d469",
+    "parser_version": "bbpress-v2"
+  }
+}

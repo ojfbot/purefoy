@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "215441",
+    "forum_slug": "forum",
+    "topic_slug": "the-use-of-warm-orange-lighting-and-why",
+    "parent_post_id": "215425",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger Deakins wrote:\nWe made no reference to the first Blade Runner as far as the look is concerned.\nIt’s a nice  thing to know, I think that the sequel, while different and new, has the same soul of the first BR and maybe this made me found visual connections too.\nI love so much the original movie that when I read that a sequel was in production I was a bit worried: you know, fans are a bit silly sometimes, when a beloved title gets a sequel/prequel/remake/reboot/whatever 🙂 but when I watched the movie I found it amazing, you created an extraordinary piece of art.\nThanks for sharing the behind the scenes of this movie (and all the other ones) on your site!",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/the-use-of-warm-orange-lighting-and-why/#post-215429\">Roger Deakins wrote:</a></div>\n<p>We made no reference to the first Blade Runner as far as the look is concerned.</p></blockquote>\n<p>It’s a nice  thing to know, I think that the sequel, while different and new, has the same soul of the first BR and maybe this made me found visual connections too.<br/>\nI love so much the original movie that when I read that a sequel was in production I was a bit worried: you know, fans are a bit silly sometimes, when a beloved title gets a sequel/prequel/remake/reboot/whatever 🙂 but when I watched the movie I found it amazing, you created an extraordinary piece of art.<br/>\nThanks for sharing the behind the scenes of this movie (and all the other ones) on your site!</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Roger Deakins wrote:\nWe made no reference to the first Blade Runner as far as the look is concerned."
+    },
+    {
+      "type": "paragraph",
+      "text": "We made no reference to the first Blade Runner as far as the look is concerned."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s a nice  thing to know, I think that the sequel, while different and new, has the same soul of the first BR and maybe this made me found visual connections too.\nI love so much the original movie that when I read that a sequel was in production I was a bit worried: you know, fans are a bit silly sometimes, when a beloved title gets a sequel/prequel/remake/reboot/whatever 🙂 but when I watched the movie I found it amazing, you created an extraordinary piece of art.\nThanks for sharing the behind the scenes of this movie (and all the other ones) on your site!"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Roger Deakins wrote:\nWe made no reference to the first Blade Runner as far as the look is concerned."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/the-use-of-warm-orange-lighting-and-why/#post-215429",
+      "text": "Roger Deakins wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-use-of-warm-orange-lighting-and-why/#post-215441",
+    "scraped_at": "2026-01-15T15:47:15.071273+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-use-of-warm-orange-lighting-and-why/#post-215441",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c3557405152d09a0425ade18364d43dfc1dc4c72187f717aa1c4e347137ff3b9",
+    "parser_version": "bbpress-v2"
+  }
+}

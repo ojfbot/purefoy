@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "post_id": "220468",
+    "forum_slug": "forum",
+    "topic_slug": "anyone-try-layering-diffusion-on-ultrabounce",
+    "parent_post_id": "220419",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The softness of a light (i.e. the blurriness of the shadows created by the light) is determined by its size relative to the subject, that’s basically it.\nWhat different bounce surfaces and diffusion materials control is the degree to which you can fill that surface evenly to maximize the size of the source, versus getting a hotter spot in the center for example, or some specular light mixed into the soft light (which is desirable sometimes to give the soft light some “texture”.)\nSo putting grid cloth over UltraBounce isn’t going to do much other than maybe give you a bit more of a hot spot in the center (or wherever your lamp is aimed) because grid cloth has a tiny bit more shine to it.  You could try putting bleached muslin over the UltraBounce, it’s maybe slightly more matte. But it’s not additive, you’re basically swapping an UltraBounce for a bleached muslin. With the grid cloth idea, it’s a bit more additive in the sense that bouncing off grid cloth alone is less light efficient since so much passes through the cloth, so adding an UltraBounce from behind will improve the amount of light you get off of the bounce.\nBut it’s not going to make the UltraBounce light “softer” and less sourcey. To do that you either need a larger UltraBounce (and be able to fill the larger surface) to create a larger bounce — or have the room to “book light” the bounce by passing it through another frame closer to the actor but then basically now the closer diffusion frame is the “source” in terms of the size determining the softness. But book-lighting would make it easier to fill that diffusion frame more evenly.\nNow it’s possible that the reason the UltraBounce is not soft enough for you is that you aren’t filling it evenly, so it may help to hit it with multiple smaller units rather than one larger unit.\nThis reply was modified 2 months, 1 week ago by\ndmullenasc\n.",
+  "content_html": "<p>The softness of a light (i.e. the blurriness of the shadows created by the light) is determined by its size relative to the subject, that’s basically it.</p>\n<p>What different bounce surfaces and diffusion materials control is the degree to which you can fill that surface evenly to maximize the size of the source, versus getting a hotter spot in the center for example, or some specular light mixed into the soft light (which is desirable sometimes to give the soft light some “texture”.)</p>\n<p>So putting grid cloth over UltraBounce isn’t going to do much other than maybe give you a bit more of a hot spot in the center (or wherever your lamp is aimed) because grid cloth has a tiny bit more shine to it.  You could try putting bleached muslin over the UltraBounce, it’s maybe slightly more matte. But it’s not additive, you’re basically swapping an UltraBounce for a bleached muslin. With the grid cloth idea, it’s a bit more additive in the sense that bouncing off grid cloth alone is less light efficient since so much passes through the cloth, so adding an UltraBounce from behind will improve the amount of light you get off of the bounce.</p>\n<p>But it’s not going to make the UltraBounce light “softer” and less sourcey. To do that you either need a larger UltraBounce (and be able to fill the larger surface) to create a larger bounce — or have the room to “book light” the bounce by passing it through another frame closer to the actor but then basically now the closer diffusion frame is the “source” in terms of the size determining the softness. But book-lighting would make it easier to fill that diffusion frame more evenly.</p>\n<p>Now it’s possible that the reason the UltraBounce is not soft enough for you is that you aren’t filling it evenly, so it may help to hit it with multiple smaller units rather than one larger unit.</p>\n<ul class=\"bbp-reply-revision-log\" id=\"bbp-reply-revision-log-220468\">\n<li class=\"bbp-reply-revision-log-item\" id=\"bbp-reply-revision-log-220468-item-220469\">\n\t\tThis reply was modified 2 months, 1 week ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/dmullenasc/\" title=\"View dmullenasc's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://secure.gravatar.com/avatar/078da0edd0ffdf2bdf53b943207b847f?s=14&amp;d=retro&amp;r=g\" srcset=\"https://secure.gravatar.com/avatar/078da0edd0ffdf2bdf53b943207b847f?s=28&amp;d=retro&amp;r=g 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">dmullenasc</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The softness of a light (i.e. the blurriness of the shadows created by the light) is determined by its size relative to the subject, that’s basically it."
+    },
+    {
+      "type": "paragraph",
+      "text": "What different bounce surfaces and diffusion materials control is the degree to which you can fill that surface evenly to maximize the size of the source, versus getting a hotter spot in the center for example, or some specular light mixed into the soft light (which is desirable sometimes to give the soft light some “texture”.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "So putting grid cloth over UltraBounce isn’t going to do much other than maybe give you a bit more of a hot spot in the center (or wherever your lamp is aimed) because grid cloth has a tiny bit more shine to it.  You could try putting bleached muslin over the UltraBounce, it’s maybe slightly more matte. But it’s not additive, you’re basically swapping an UltraBounce for a bleached muslin. With the grid cloth idea, it’s a bit more additive in the sense that bouncing off grid cloth alone is less light efficient since so much passes through the cloth, so adding an UltraBounce from behind will improve the amount of light you get off of the bounce."
+    },
+    {
+      "type": "paragraph",
+      "text": "But it’s not going to make the UltraBounce light “softer” and less sourcey. To do that you either need a larger UltraBounce (and be able to fill the larger surface) to create a larger bounce — or have the room to “book light” the bounce by passing it through another frame closer to the actor but then basically now the closer diffusion frame is the “source” in terms of the size determining the softness. But book-lighting would make it easier to fill that diffusion frame more evenly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now it’s possible that the reason the UltraBounce is not soft enough for you is that you aren’t filling it evenly, so it may help to hit it with multiple smaller units rather than one larger unit."
+    },
+    {
+      "type": "list",
+      "text": "This reply was modified 2 months, 1 week ago by\ndmullenasc\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/dmullenasc/",
+      "text": "dmullenasc",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://secure.gravatar.com/avatar/078da0edd0ffdf2bdf53b943207b847f?s=14&d=retro&r=g",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/anyone-try-layering-diffusion-on-ultrabounce/#post-220482",
+    "scraped_at": "2026-01-15T13:23:55.334378+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/anyone-try-layering-diffusion-on-ultrabounce/#post-220482",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1bbebe2fe075ddb07e34fece1ec3d2393317b69aec89e6a357c2acb7cf37e9dc",
+    "parser_version": "bbpress-v2"
+  }
+}

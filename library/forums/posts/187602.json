@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "187602",
+    "forum_slug": "post",
+    "topic_slug": "printer-lights-and-digital",
+    "parent_post_id": "187460",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If you are shooting 16mm film and the lab is making a work print then you will be given printer lights reflecting the density of the negative. You could also ask them to time the negative without actually going to the expense of making a print. As David says, a mid light was supposedly 25 – 25 – 25 but each lab varied in its development and printing. I used a NY lab, DuArt, and my regular timing light was more likely to be  something like 29 – 31 – 29 as I liked a heavy negative. Some cinematographers, such as Chris Menges or Richard Kline, would give the lab the light they wanted to print at but I could never be that precise. I am told that Conrad Hall, on the other hand, would print his negative anywhere from an 18 to a 60 light. I like the point system on the Resolve, which does seem more precise than the wheel, but I am still never quite sure if my base exposure is in the ‘middle’.",
+  "content_html": "<p>If you are shooting 16mm film and the lab is making a work print then you will be given printer lights reflecting the density of the negative. You could also ask them to time the negative without actually going to the expense of making a print. As David says, a mid light was supposedly 25 – 25 – 25 but each lab varied in its development and printing. I used a NY lab, DuArt, and my regular timing light was more likely to be  something like 29 – 31 – 29 as I liked a heavy negative. Some cinematographers, such as Chris Menges or Richard Kline, would give the lab the light they wanted to print at but I could never be that precise. I am told that Conrad Hall, on the other hand, would print his negative anywhere from an 18 to a 60 light. I like the point system on the Resolve, which does seem more precise than the wheel, but I am still never quite sure if my base exposure is in the ‘middle’. </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you are shooting 16mm film and the lab is making a work print then you will be given printer lights reflecting the density of the negative. You could also ask them to time the negative without actually going to the expense of making a print. As David says, a mid light was supposedly 25 – 25 – 25 but each lab varied in its development and printing. I used a NY lab, DuArt, and my regular timing light was more likely to be  something like 29 – 31 – 29 as I liked a heavy negative. Some cinematographers, such as Chris Menges or Richard Kline, would give the lab the light they wanted to print at but I could never be that precise. I am told that Conrad Hall, on the other hand, would print his negative anywhere from an 18 to a 60 light. I like the point system on the Resolve, which does seem more precise than the wheel, but I am still never quite sure if my base exposure is in the ‘middle’."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/printer-lights-and-digital/#post-189193",
+    "scraped_at": "2026-01-15T13:39:52.306307+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/printer-lights-and-digital/#post-189193",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a373d5e144ebe16afb99d4c9c30b2055529bf719475f03230c7051a94fccf0d8",
+    "parser_version": "bbpress-v2"
+  }
+}

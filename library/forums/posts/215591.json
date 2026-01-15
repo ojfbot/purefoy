@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215591",
+    "forum_slug": "camera",
+    "topic_slug": "congrats-david-mullen-for-asc-award",
+    "parent_post_id": "215590",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You’re welcome! I was happy but surprised to win!",
+  "content_html": "<p>You’re welcome! I was happy but surprised to win!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You’re welcome! I was happy but surprised to win!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/congrats-david-mullen-for-asc-award/#post-215601",
+    "scraped_at": "2026-01-15T15:21:39.164909+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/congrats-david-mullen-for-asc-award/#post-215601",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dc595f2a2f6b379a03d8cf4be4ada5085fbc42b1c74d5b629d9a1cfa0ca8b9bc",
+    "parser_version": "bbpress-v2"
+  }
+}

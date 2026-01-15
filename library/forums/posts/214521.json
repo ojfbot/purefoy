@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214521",
+    "forum_slug": "camera",
+    "topic_slug": "full-frame-digital",
+    "parent_post_id": "214515",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The change of camera/sensor don’t only affect the depth of field. So it’s not a matter of opening the iris and change focal length.\nThere is a change of texture and noise between cameras, to me quite pronounced I must say, apart the resolution one. There is also the fact that it’s not the same a 32mm lens than a 40mm lens. Even if they match angle of view between sensors the lens are different and aberrations/characteristics are different. It’s known the wider you go the more work Lens makers need to do to keep perfection on a lens. So a 40mm will, generally, be better corrected than a 32mm. So bigger sensors take advantage of that too.\nI’m not advocating for the large sensor at all. I’m just saying there is more to it than depth of field. Actually I prefer the look of s35 or even s16.",
+  "content_html": "<p>The change of camera/sensor don’t only affect the depth of field. So it’s not a matter of opening the iris and change focal length.<br/>\nThere is a change of texture and noise between cameras, to me quite pronounced I must say, apart the resolution one. There is also the fact that it’s not the same a 32mm lens than a 40mm lens. Even if they match angle of view between sensors the lens are different and aberrations/characteristics are different. It’s known the wider you go the more work Lens makers need to do to keep perfection on a lens. So a 40mm will, generally, be better corrected than a 32mm. So bigger sensors take advantage of that too.</p>\n<p>I’m not advocating for the large sensor at all. I’m just saying there is more to it than depth of field. Actually I prefer the look of s35 or even s16.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The change of camera/sensor don’t only affect the depth of field. So it’s not a matter of opening the iris and change focal length.\nThere is a change of texture and noise between cameras, to me quite pronounced I must say, apart the resolution one. There is also the fact that it’s not the same a 32mm lens than a 40mm lens. Even if they match angle of view between sensors the lens are different and aberrations/characteristics are different. It’s known the wider you go the more work Lens makers need to do to keep perfection on a lens. So a 40mm will, generally, be better corrected than a 32mm. So bigger sensors take advantage of that too."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m not advocating for the large sensor at all. I’m just saying there is more to it than depth of field. Actually I prefer the look of s35 or even s16."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/full-frame-digital/#post-214545",
+    "scraped_at": "2026-01-15T15:25:49.127528+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/full-frame-digital/#post-214545",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fd508b8c773bf7764c196ba6a6fd632c66e3e052b7b6a35216af3a92a4d6a8b2",
+    "parser_version": "bbpress-v2"
+  }
+}

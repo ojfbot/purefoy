@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "post_id": "216327",
+    "forum_slug": "forum",
+    "topic_slug": "the-bourne-ultimatum-lighting-streaks-during-bournes-revelation-scene"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "tiagob",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Mr. Deakins,\nI’m working on a short film for a class, replicating a scene from a film shot by shot. It needs to be as close to the released picture as possible. The scene I chose is from “The Bourne Ultimatum” (2007) when Jason Bourne finds his backstory.\nThe cinematographer and filmmakers in this film did an interesting effect with lighting streaks during the intercut flashback sequences.\nWould you have any pointers as to what resources I can use to accomplish an effect like this light streak effect?\nSome ideas I came up with and talked about with my friends in filmmaking are: lens filters with streaks running vertically, putting saran wrap on the front of the lens with Vaseline spread over the wrap, or using VFX in post to create the same effect.\nThe VFX in post is interesting, but I want to try accomplishing this effect practically because it seems like the most creative, requires the most thinking, and would be an interesting feature to pull off and challenge myself.\nHere is the link to the scene with the lighting effect for reference:\nhttps://www.youtube.com/watch?v=4hQ0ILw1P7o&t=143s\nThank you for your time and consideration!\nBest,\nTiago",
+  "content_html": "<p>Hi Mr. Deakins,</p>\n<p>I’m working on a short film for a class, replicating a scene from a film shot by shot. It needs to be as close to the released picture as possible. The scene I chose is from “The Bourne Ultimatum” (2007) when Jason Bourne finds his backstory.</p>\n<p>The cinematographer and filmmakers in this film did an interesting effect with lighting streaks during the intercut flashback sequences.</p>\n<p> </p>\n<p>Would you have any pointers as to what resources I can use to accomplish an effect like this light streak effect?</p>\n<p> </p>\n<p>Some ideas I came up with and talked about with my friends in filmmaking are: lens filters with streaks running vertically, putting saran wrap on the front of the lens with Vaseline spread over the wrap, or using VFX in post to create the same effect.</p>\n<p>The VFX in post is interesting, but I want to try accomplishing this effect practically because it seems like the most creative, requires the most thinking, and would be an interesting feature to pull off and challenge myself.</p>\n<p>Here is the link to the scene with the lighting effect for reference: <a href=\"https://www.youtube.com/watch?v=4hQ0ILw1P7o&amp;t=143s\" rel=\"nofollow\">https://www.youtube.com/watch?v=4hQ0ILw1P7o&amp;t=143s</a></p>\n<p>Thank you for your time and consideration!</p>\n<p>Best,</p>\n<p>Tiago</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Mr. Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m working on a short film for a class, replicating a scene from a film shot by shot. It needs to be as close to the released picture as possible. The scene I chose is from “The Bourne Ultimatum” (2007) when Jason Bourne finds his backstory."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cinematographer and filmmakers in this film did an interesting effect with lighting streaks during the intercut flashback sequences."
+    },
+    {
+      "type": "paragraph",
+      "text": "Would you have any pointers as to what resources I can use to accomplish an effect like this light streak effect?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some ideas I came up with and talked about with my friends in filmmaking are: lens filters with streaks running vertically, putting saran wrap on the front of the lens with Vaseline spread over the wrap, or using VFX in post to create the same effect."
+    },
+    {
+      "type": "paragraph",
+      "text": "The VFX in post is interesting, but I want to try accomplishing this effect practically because it seems like the most creative, requires the most thinking, and would be an interesting feature to pull off and challenge myself."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is the link to the scene with the lighting effect for reference:\nhttps://www.youtube.com/watch?v=4hQ0ILw1P7o&t=143s"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for your time and consideration!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Best,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tiago"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.youtube.com/watch?v=4hQ0ILw1P7o&t=143s",
+      "text": "https://www.youtube.com/watch?v=4hQ0ILw1P7o&t=143s",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-bourne-ultimatum-lighting-streaks-during-bournes-revelation-scene/#post-216335",
+    "scraped_at": "2026-01-15T15:25:19.413659+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-bourne-ultimatum-lighting-streaks-during-bournes-revelation-scene/#post-216335",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4f23cc9d369ad9ed018dda20951c40f5b5d591d0c476dcb12d5f0ae45d59fce7",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "ids": {
+    "post_id": "216531",
+    "forum_slug": "forum",
+    "topic_slug": "sicario-close-up",
+    "parent_post_id": "216488",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "2) For this Wide shot that “prepares” the audience for the close-ups dialogue (the one in the first question of the topic), I love the alternation of lights and shadows from the background to the foreground of course,  that light that “wash” the foreground come from right frame (in the close-ups there is a little cheat of angle) and has a different color temperature (warmer and brown-ish, probably you achieved it dimming the tungsten lamp/s) that give depth to the shot in my opinion.\nIs that light achieved with the same 2 gold bounce that you mentioned to use for the close-ups?\nFor her medium Close Up, I suppose you move the bounce sources a bit closer and angle those to 45° to see the highlights in “her eyes” and have depth.\nWhat I notice is that, as you often mention, is like the “farthest” bounce source is more “directional” to better shape the facial feature and the closest is more “soft” to gently wrap her and go into the shadows gradually (but probably is just one 4×4 bounce and I’m overthinking).\nI apologize for my bad English and for the long questions, the next reply will be the last of the series. Thank you very much for your patience.",
+  "content_html": "<p>2) For this Wide shot that “prepares” the audience for the close-ups dialogue (the one in the first question of the topic), I love the alternation of lights and shadows from the background to the foreground of course,  that light that “wash” the foreground come from right frame (in the close-ups there is a little cheat of angle) and has a different color temperature (warmer and brown-ish, probably you achieved it dimming the tungsten lamp/s) that give depth to the shot in my opinion.<br/>\nIs that light achieved with the same 2 gold bounce that you mentioned to use for the close-ups?<br/>\n<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216531/m2qdf42qkxzyp3cpv7ez9qow8o5qpvlo.jpg\" width=\"400\"/></p>\n<p> </p>\n<p>For her medium Close Up, I suppose you move the bounce sources a bit closer and angle those to 45° to see the highlights in “her eyes” and have depth.<br/>\nWhat I notice is that, as you often mention, is like the “farthest” bounce source is more “directional” to better shape the facial feature and the closest is more “soft” to gently wrap her and go into the shadows gradually (but probably is just one 4×4 bounce and I’m overthinking).<br/>\n<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216531/bt1fka268nylvk27ylbce554jzq5kg0k.jpg\" width=\"400\"/></p>\n<p>I apologize for my bad English and for the long questions, the next reply will be the last of the series. Thank you very much for your patience.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "2) For this Wide shot that “prepares” the audience for the close-ups dialogue (the one in the first question of the topic), I love the alternation of lights and shadows from the background to the foreground of course,  that light that “wash” the foreground come from right frame (in the close-ups there is a little cheat of angle) and has a different color temperature (warmer and brown-ish, probably you achieved it dimming the tungsten lamp/s) that give depth to the shot in my opinion.\nIs that light achieved with the same 2 gold bounce that you mentioned to use for the close-ups?"
+    },
+    {
+      "type": "paragraph",
+      "text": "For her medium Close Up, I suppose you move the bounce sources a bit closer and angle those to 45° to see the highlights in “her eyes” and have depth.\nWhat I notice is that, as you often mention, is like the “farthest” bounce source is more “directional” to better shape the facial feature and the closest is more “soft” to gently wrap her and go into the shadows gradually (but probably is just one 4×4 bounce and I’m overthinking)."
+    },
+    {
+      "type": "paragraph",
+      "text": "I apologize for my bad English and for the long questions, the next reply will be the last of the series. Thank you very much for your patience."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216531/m2qdf42qkxzyp3cpv7ez9qow8o5qpvlo.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216531/bt1fka268nylvk27ylbce554jzq5kg0k.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario-close-up/#post-216540",
+    "scraped_at": "2026-01-15T15:24:22.292545+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-close-up/#post-216540",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1459ca8552b2582d00e33e98fdbbcc38551ff70c9d74650e729df076095e6dc4",
+    "parser_version": "bbpress-v2"
+  }
+}

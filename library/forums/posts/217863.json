@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "217863",
+    "forum_slug": "forum",
+    "topic_slug": "underwater-face-lighting"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Elliot Be",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello\nGot a job coming up with various visual elements with one being a large fish tank with the camera below looking directly up as a face enters the water. We don’t want to see anything out of the water only black and only have the face light up once it comes though the surface. If possible, we want it to feel like its mercury rather than water.\nMy initial thoughts are to put up a 12×12 blackout cube around the tank and even blackwrap the tank, potentially the inside. Then use a couple moving heads with blades to create flat laser thin light beams aimed just under the water surface. We can knife away the blackwrap to wear we need the light to come but.\nAny other tips would be great thanks.\nE",
+  "content_html": "<p>Hello</p>\n<p>Got a job coming up with various visual elements with one being a large fish tank with the camera below looking directly up as a face enters the water. We don’t want to see anything out of the water only black and only have the face light up once it comes though the surface. If possible, we want it to feel like its mercury rather than water.</p>\n<p>My initial thoughts are to put up a 12×12 blackout cube around the tank and even blackwrap the tank, potentially the inside. Then use a couple moving heads with blades to create flat laser thin light beams aimed just under the water surface. We can knife away the blackwrap to wear we need the light to come but.</p>\n<p>Any other tips would be great thanks.</p>\n<p>E</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello"
+    },
+    {
+      "type": "paragraph",
+      "text": "Got a job coming up with various visual elements with one being a large fish tank with the camera below looking directly up as a face enters the water. We don’t want to see anything out of the water only black and only have the face light up once it comes though the surface. If possible, we want it to feel like its mercury rather than water."
+    },
+    {
+      "type": "paragraph",
+      "text": "My initial thoughts are to put up a 12×12 blackout cube around the tank and even blackwrap the tank, potentially the inside. Then use a couple moving heads with blades to create flat laser thin light beams aimed just under the water surface. We can knife away the blackwrap to wear we need the light to come but."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any other tips would be great thanks."
+    },
+    {
+      "type": "paragraph",
+      "text": "E"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/underwater-face-lighting/",
+    "scraped_at": "2026-01-15T15:20:09.288919+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/underwater-face-lighting/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cd480ee21124780105119fb8175503c3d4b89c4df1d23694630256543dad35be",
+    "parser_version": "bbpress-v2"
+  }
+}

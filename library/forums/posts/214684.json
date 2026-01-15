@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214684",
+    "forum_slug": "camera",
+    "topic_slug": "a-story-more-than-one-character-perspective",
+    "parent_post_id": "214671",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "<p style=”text-align: center;”>What about The man who wasn’t there. It’s one character perspective right? Did you use same focal lengths for Emily and benicio characters</p>",
+  "content_html": "<p>&lt;p style=”text-align: center;”&gt;What about The man who wasn’t there. It’s one character perspective right? Did you use same focal lengths for Emily and benicio characters&lt;/p&gt;</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "<p style=”text-align: center;”>What about The man who wasn’t there. It’s one character perspective right? Did you use same focal lengths for Emily and benicio characters</p>"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-story-more-than-one-character-perspective/#post-214737",
+    "scraped_at": "2026-01-15T15:25:28.236972+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-story-more-than-one-character-perspective/#post-214737",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bd38cff9d10d7cdccb5c29bf7ac4007b132e6fb542be8610ce96e70fa7108dcc",
+    "parser_version": "bbpress-v2"
+  }
+}

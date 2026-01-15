@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "214619",
+    "forum_slug": "forum",
+    "topic_slug": "creating-consistent-lighting-philosophy"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Gustavo Perez",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "On days where you can allocate less budget/ time to lighting, what have you found helps you make the day work with the tools at your disposal?\nFor example are you pushing more for a pre light to make sure a smaller base package gets the job done? Or do you keep a minimum package with you on every location that you’re comfortable working with?",
+  "content_html": "<p>On days where you can allocate less budget/ time to lighting, what have you found helps you make the day work with the tools at your disposal?<br/>\nFor example are you pushing more for a pre light to make sure a smaller base package gets the job done? Or do you keep a minimum package with you on every location that you’re comfortable working with?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "On days where you can allocate less budget/ time to lighting, what have you found helps you make the day work with the tools at your disposal?\nFor example are you pushing more for a pre light to make sure a smaller base package gets the job done? Or do you keep a minimum package with you on every location that you’re comfortable working with?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/creating-consistent-lighting-philosophy/",
+    "scraped_at": "2026-01-15T15:52:15.434157+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-consistent-lighting-philosophy/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b65c8bcb200b846aeb84e39a89d6564cb0ca9c4632bed8d177f019894185927e",
+    "parser_version": "bbpress-v2"
+  }
+}

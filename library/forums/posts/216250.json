@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "216250",
+    "forum_slug": "forum",
+    "topic_slug": "what-are-gag-lights-and-why-use-them"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Cisco Clifton",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello everyone,\nI have a question regarding ‘gag’ lights and their purpose. I’ve heard Roger mention them in the past, and I’m aware that this topic has likely been discussed in the previous forum. Unfortunately, I’m having trouble locating any detailed information on it.\nFrom what I understand, and please do correct me if I’m wrong, ‘gag’ lights involve placing a bare bulb behind a practical. If that’s accurate, could someone please clarify what the advantages of this technique are? Is the main benefit simply a brighter light source or a bigger hotspot?\nI think I read somewhere that Roger sometimes requests practicals that can be modified, and it seems he prefers them to be quite bright. Am I correct in thinking that this might be related to his use of ‘gag’ lights?\nMany thanks in advance.\nCisco",
+  "content_html": "<p>Hello everyone,</p>\n<p>I have a question regarding ‘gag’ lights and their purpose. I’ve heard Roger mention them in the past, and I’m aware that this topic has likely been discussed in the previous forum. Unfortunately, I’m having trouble locating any detailed information on it.</p>\n<p>From what I understand, and please do correct me if I’m wrong, ‘gag’ lights involve placing a bare bulb behind a practical. If that’s accurate, could someone please clarify what the advantages of this technique are? Is the main benefit simply a brighter light source or a bigger hotspot?</p>\n<p>I think I read somewhere that Roger sometimes requests practicals that can be modified, and it seems he prefers them to be quite bright. Am I correct in thinking that this might be related to his use of ‘gag’ lights?</p>\n<p> </p>\n<p>Many thanks in advance.<br/>\nCisco</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello everyone,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have a question regarding ‘gag’ lights and their purpose. I’ve heard Roger mention them in the past, and I’m aware that this topic has likely been discussed in the previous forum. Unfortunately, I’m having trouble locating any detailed information on it."
+    },
+    {
+      "type": "paragraph",
+      "text": "From what I understand, and please do correct me if I’m wrong, ‘gag’ lights involve placing a bare bulb behind a practical. If that’s accurate, could someone please clarify what the advantages of this technique are? Is the main benefit simply a brighter light source or a bigger hotspot?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I think I read somewhere that Roger sometimes requests practicals that can be modified, and it seems he prefers them to be quite bright. Am I correct in thinking that this might be related to his use of ‘gag’ lights?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many thanks in advance.\nCisco"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-are-gag-lights-and-why-use-them/#post-216273",
+    "scraped_at": "2026-01-15T15:25:34.786543+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-are-gag-lights-and-why-use-them/#post-216273",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d21e2c0e5db76314a78dae75a575a265bce3c762a818682e8a48c075be61b161",
+    "parser_version": "bbpress-v2"
+  }
+}

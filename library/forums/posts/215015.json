@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215015",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-dusk-dialogue",
+    "parent_post_id": "214963",
+    "parent_type": "topic",
+    "position": 11
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thankyou Roger for your detailed reply, much appreciated.\nBtw, the scene of the cinemas auditorium and the firework display actually took my breath away literally.  Seeing nice images makes me emotional, not embarrassed to admit that. Very nice work imo.",
+  "content_html": "<p>Thankyou Roger for your detailed reply, much appreciated.</p>\n<p>Btw, the scene of the cinemas auditorium and the firework display actually took my breath away literally.  Seeing nice images makes me emotional, not embarrassed to admit that. Very nice work imo.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thankyou Roger for your detailed reply, much appreciated."
+    },
+    {
+      "type": "paragraph",
+      "text": "Btw, the scene of the cinemas auditorium and the firework display actually took my breath away literally.  Seeing nice images makes me emotional, not embarrassed to admit that. Very nice work imo."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-dusk-dialogue/#post-215015",
+    "scraped_at": "2026-01-15T15:49:45.578760+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-dusk-dialogue/#post-215015",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "40de03f24d7946010b62a7eff0549345bb3715e09562ab242a4e3ba7c70917b4",
+    "parser_version": "bbpress-v2"
+  }
+}

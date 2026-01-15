@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "175675",
+    "forum_slug": "website-news",
+    "topic_slug": "recovering-the-old-forums-need-help",
+    "parent_post_id": "174482",
+    "parent_type": "topic",
+    "position": 18
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "James",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Could you contact me on webmaster @ rogerdeakins.com? I would love it if you could help me figure out how to reconstitute the posts. Thanks so much.",
+  "content_html": "<p>Could you contact me on webmaster @ rogerdeakins.com? I would love it if you could help me figure out how to reconstitute the posts. Thanks so much.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Could you contact me on webmaster @ rogerdeakins.com? I would love it if you could help me figure out how to reconstitute the posts. Thanks so much."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/",
+    "scraped_at": "2026-01-15T12:42:24.680777+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5fcce7f5db96fb81782d7e9474aa15d3bfa01ae870aee96565834d69ac496d1d",
+    "parser_version": "bbpress-v2"
+  }
+}

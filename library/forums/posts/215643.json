@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215643",
+    "forum_slug": "camera",
+    "topic_slug": "directing-effect-of-133-43-ratio",
+    "parent_post_id": "215637",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Good question!",
+  "content_html": "<p>Good question!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Good question!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+    "scraped_at": "2026-01-15T13:56:37.694004+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "08ba83862692a329012131788d6635fc5b1d17145cd0f0143f44d340228bad8b",
+    "parser_version": "bbpress-v2"
+  }
+}

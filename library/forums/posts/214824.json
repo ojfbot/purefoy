@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214824",
+    "forum_slug": "set-talk",
+    "topic_slug": "advice-on-film-set-etiquette",
+    "parent_post_id": "214817",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "harsanger",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Stay behind the camera and take notes of different workflows and responsibilities. People will notice you, trust me!",
+  "content_html": "<p>Stay behind the camera and take notes of different workflows and responsibilities. People will notice you, trust me!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Stay behind the camera and take notes of different workflows and responsibilities. People will notice you, trust me!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/advice-on-film-set-etiquette/#post-214839",
+    "scraped_at": "2026-01-15T13:23:37.490910+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/advice-on-film-set-etiquette/#post-214839",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ca3ea15a5673e4339dfbe2d4a58a4ad467cc847a68e17c9c50cb09b3df5714cc",
+    "parser_version": "bbpress-v2"
+  }
+}

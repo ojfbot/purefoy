@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "215451",
+    "forum_slug": "film-talk",
+    "topic_slug": "films-that-light-and-compose-faces-very-well",
+    "parent_post_id": "215446",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "",
+  "content_html": "<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215451/xu1p4nctmt4x01yxykvtqd7z7ib9o9pn.jpeg\"/><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215451/mmczzc62pb8a2kih34f5n8q7dttnyw16.jpg\"/></p>",
+  "blocks": [],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215451/xu1p4nctmt4x01yxykvtqd7z7ib9o9pn.jpeg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215451/mmczzc62pb8a2kih34f5n8q7dttnyw16.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/films-that-light-and-compose-faces-very-well/#post-215592",
+    "scraped_at": "2026-01-15T13:23:37.873466+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/films-that-light-and-compose-faces-very-well/#post-215592",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6a3dd53dd0f73fa484ff0a2636dfd6d2cfbb61a5efc717010025fab6fa3adc3b",
+    "parser_version": "bbpress-v2"
+  }
+}

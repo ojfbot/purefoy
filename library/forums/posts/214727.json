@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "214727",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-daytime-interior"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "jomosadler",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "My question has 2 parts. I was watching True Grit recently and noticed that in the courtroom scene with Jeff Bridges character, the windows have this almost “washed out” sort of look where you can’t see through them. I notice this in a lot of your movies and was wondering how you achieve that look without overexposing the interior. The second part of my question is how do you decide when to see through a window in a daytime interior vs have that “washed out” look I was talking about earlier.",
+  "content_html": "<p>My question has 2 parts. I was watching True Grit recently and noticed that in the courtroom scene with Jeff Bridges character, the windows have this almost “washed out” sort of look where you can’t see through them. I notice this in a lot of your movies and was wondering how you achieve that look without overexposing the interior. The second part of my question is how do you decide when to see through a window in a daytime interior vs have that “washed out” look I was talking about earlier.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "My question has 2 parts. I was watching True Grit recently and noticed that in the courtroom scene with Jeff Bridges character, the windows have this almost “washed out” sort of look where you can’t see through them. I notice this in a lot of your movies and was wondering how you achieve that look without overexposing the interior. The second part of my question is how do you decide when to see through a window in a daytime interior vs have that “washed out” look I was talking about earlier."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-daytime-interior/#post-214830",
+    "scraped_at": "2026-01-15T15:51:18.624167+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-daytime-interior/#post-214830",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "46be96f63162391f7631f8c830518ca9d7df80dfed532c251a7a2fc303027e07",
+    "parser_version": "bbpress-v2"
+  }
+}

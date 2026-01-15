@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215394",
+    "forum_slug": "still-photography",
+    "topic_slug": "derek-parfit",
+    "parent_post_id": "215393",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Not a great photographer imo but he certainly took a lot of photos, he spent most of his time manipulating them in his photoshop. I know he used Nikon F’s and a Linhof 5×4 on many of his early works perhaps he switched to digital later. Interesting photos all the same but if you shoot thousands of fools of film, you will eventually find a good one! 🧐",
+  "content_html": "<p>Not a great photographer imo but he certainly took a lot of photos, he spent most of his time manipulating them in his photoshop. I know he used Nikon F’s and a Linhof 5×4 on many of his early works perhaps he switched to digital later. Interesting photos all the same but if you shoot thousands of fools of film, you will eventually find a good one! 🧐</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Not a great photographer imo but he certainly took a lot of photos, he spent most of his time manipulating them in his photoshop. I know he used Nikon F’s and a Linhof 5×4 on many of his early works perhaps he switched to digital later. Interesting photos all the same but if you shoot thousands of fools of film, you will eventually find a good one! 🧐"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/derek-parfit/#post-215398",
+    "scraped_at": "2026-01-15T12:26:33.360917+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/derek-parfit/#post-215398",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "099f943812f2528474c0c4bf6ecaea116995c03f2d5b35546c735c79739e0409",
+    "parser_version": "bbpress-v2"
+  }
+}

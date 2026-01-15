@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "215909",
+    "forum_slug": "film-talk",
+    "topic_slug": "new-project"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Brant",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger, I am fairly sure I read in an issue of Production Weekly, that you are slated to DP a new upcoming film, possibly with Sam Mendes. But it’s been a few months perhaps since I think I read it, and now I’m doubting the recollection entirely since I’ve heard nothing more about it. I’d meant to ask about it at Cine Gear Saturday. Apologies if this recollection is entirely imagined at this point.\nwww.branthadfield.com",
+  "content_html": "<p>Hi Roger, I am fairly sure I read in an issue of Production Weekly, that you are slated to DP a new upcoming film, possibly with Sam Mendes. But it’s been a few months perhaps since I think I read it, and now I’m doubting the recollection entirely since I’ve heard nothing more about it. I’d meant to ask about it at Cine Gear Saturday. Apologies if this recollection is entirely imagined at this point.</p>\n<div class=\"bbp-signature\"><p>www.branthadfield.com</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger, I am fairly sure I read in an issue of Production Weekly, that you are slated to DP a new upcoming film, possibly with Sam Mendes. But it’s been a few months perhaps since I think I read it, and now I’m doubting the recollection entirely since I’ve heard nothing more about it. I’d meant to ask about it at Cine Gear Saturday. Apologies if this recollection is entirely imagined at this point."
+    },
+    {
+      "type": "paragraph",
+      "text": "www.branthadfield.com"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/new-project/#post-215939",
+    "scraped_at": "2026-01-15T13:06:03.378381+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/new-project/#post-215939",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b958f8086a365389439ffb4f898b38490462088114ed71b9c99f7d3fff0a3608",
+    "parser_version": "bbpress-v2"
+  }
+}

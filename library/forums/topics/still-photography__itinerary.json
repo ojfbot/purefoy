@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/itinerary/",
+  "forum_slug": "still-photography",
+  "topic_slug": "itinerary",
+  "title": "Itinerary",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215825"
+  ],
+  "reply_tree": {
+    "post_id": "215825",
+    "post_type": "topic",
+    "author": "Badarinath K B",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/itinerary/",
+    "scraped_at": "2026-01-15T12:26:19.778550+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/itinerary/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d56b6cdf9f087485744226284befa8a90f6d7d712c7b9501e65cc69d020ee752",
+    "parser_version": "bbpress-v2"
+  }
+}

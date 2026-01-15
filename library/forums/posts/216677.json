@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "216677",
+    "forum_slug": "camera",
+    "topic_slug": "lens-choice"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Joh",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If you’d want to buy or rent a set of budget prime lenses (<2000$ each) for documentary filming and partly for photography and narrative/commercial work, what would you invest in? I’ve always preferred a neutral and contrasty look without many “imperfections” (for example the Zeiss Milvus) Seeing so many choices on lenses nowadays it can get quite irritating. Maybe some of you can share your experiences?\nBest\nJohannes",
+  "content_html": "<p>If you’d want to buy or rent a set of budget prime lenses (&lt;2000$ each) for documentary filming and partly for photography and narrative/commercial work, what would you invest in? I’ve always preferred a neutral and contrasty look without many “imperfections” (for example the Zeiss Milvus) Seeing so many choices on lenses nowadays it can get quite irritating. Maybe some of you can share your experiences?</p>\n<p>Best<br/>\nJohannes</p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you’d want to buy or rent a set of budget prime lenses (<2000$ each) for documentary filming and partly for photography and narrative/commercial work, what would you invest in? I’ve always preferred a neutral and contrasty look without many “imperfections” (for example the Zeiss Milvus) Seeing so many choices on lenses nowadays it can get quite irritating. Maybe some of you can share your experiences?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Best\nJohannes"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lens-choice/#post-216725",
+    "scraped_at": "2026-01-15T13:23:57.905626+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lens-choice/#post-216725",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a1bab82c9c46e066eee2c3eaa56d5f8c2a80ce2a744ad283930a9e4937114495",
+    "parser_version": "bbpress-v2"
+  }
+}

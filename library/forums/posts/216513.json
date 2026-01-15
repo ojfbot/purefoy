@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "216513",
+    "forum_slug": "forum",
+    "topic_slug": "natural-lighting-continuity-when-a-subject-leave-the-main-light",
+    "parent_post_id": "216512",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "",
+  "content_html": "<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216513/647gfoc800w89h9mzpdxqi8csxvfg01h.jpg\" width=\"400\"/><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216513/xyerhdt4bm4hr542upmovsa13n0wgotm.jpg\" width=\"400\"/></p>",
+  "blocks": [],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216513/647gfoc800w89h9mzpdxqi8csxvfg01h.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216513/xyerhdt4bm4hr542upmovsa13n0wgotm.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/natural-lighting-continuity-when-a-subject-leave-the-main-light/#post-216525",
+    "scraped_at": "2026-01-15T15:24:28.438359+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/natural-lighting-continuity-when-a-subject-leave-the-main-light/#post-216525",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "506007b59e56030a019c39aad9c58a0f4f75552dd25eaaa2896775390b03e953",
+    "parser_version": "bbpress-v2"
+  }
+}

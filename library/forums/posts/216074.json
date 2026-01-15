@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "216074",
+    "forum_slug": "forum",
+    "topic_slug": "front-lit-shots-how-to-deal-with",
+    "parent_post_id": "216072",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "BHGoddard",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Max,\nI can offer a few suggestions but I don’t know how insightful they’ll be;\nThe first is to angle your light higher than your subject in relation to the camera. A lot of the frames you’ve shared have Roger’s camera placement at eye level or below the actor, with what seems like the light being situated above both (if only slightly). Having the light above the camera will also eliminate the issue of shadows caused by the camera, but a really soft source helps negate it as well. Although a lot of cinematography nowadays tend to avoid front lighting subjects because of the flatness that can result, this lighting setup is used a lot for “beauty” lighting as it can offer pleasing shadows on the face, albeit in a more commercial/stylized way, if that’s something you’re going for.\nThe second suggestion is to place your subject further from the background – this adds three dimensionality to the frame as you can see from Roger’s examples where there is a space that recedes behind the actors but it also adds separation between the intensity of the light on the actor and it’s falloff onto the background, increasing the contrast ratio and making the focus of the frame very clear.\nRelated to that is the choice of the size of your light source which is dependent on what is motivating said source (all of these frames seem to be light from windows) and spatial restrictions; a smaller light closer to your subject will have more abrupt falloff and add more “shape” to the contours of the face  (an actor holding a candle as an example) while a larger source further away (in the case of a window) will diminish those features but feel more natural, and additionally a window frame naturally cuts the light coming through it, offering a little bit of control over the spill and shape of the light (sheers/curtains are a quick and easier way to modulate that).",
+  "content_html": "<p>Hi Max,</p>\n<p>I can offer a few suggestions but I don’t know how insightful they’ll be;</p>\n<p>The first is to angle your light higher than your subject in relation to the camera. A lot of the frames you’ve shared have Roger’s camera placement at eye level or below the actor, with what seems like the light being situated above both (if only slightly). Having the light above the camera will also eliminate the issue of shadows caused by the camera, but a really soft source helps negate it as well. Although a lot of cinematography nowadays tend to avoid front lighting subjects because of the flatness that can result, this lighting setup is used a lot for “beauty” lighting as it can offer pleasing shadows on the face, albeit in a more commercial/stylized way, if that’s something you’re going for.</p>\n<p>The second suggestion is to place your subject further from the background – this adds three dimensionality to the frame as you can see from Roger’s examples where there is a space that recedes behind the actors but it also adds separation between the intensity of the light on the actor and it’s falloff onto the background, increasing the contrast ratio and making the focus of the frame very clear.</p>\n<p>Related to that is the choice of the size of your light source which is dependent on what is motivating said source (all of these frames seem to be light from windows) and spatial restrictions; a smaller light closer to your subject will have more abrupt falloff and add more “shape” to the contours of the face  (an actor holding a candle as an example) while a larger source further away (in the case of a window) will diminish those features but feel more natural, and additionally a window frame naturally cuts the light coming through it, offering a little bit of control over the spill and shape of the light (sheers/curtains are a quick and easier way to modulate that).</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Max,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I can offer a few suggestions but I don’t know how insightful they’ll be;"
+    },
+    {
+      "type": "paragraph",
+      "text": "The first is to angle your light higher than your subject in relation to the camera. A lot of the frames you’ve shared have Roger’s camera placement at eye level or below the actor, with what seems like the light being situated above both (if only slightly). Having the light above the camera will also eliminate the issue of shadows caused by the camera, but a really soft source helps negate it as well. Although a lot of cinematography nowadays tend to avoid front lighting subjects because of the flatness that can result, this lighting setup is used a lot for “beauty” lighting as it can offer pleasing shadows on the face, albeit in a more commercial/stylized way, if that’s something you’re going for."
+    },
+    {
+      "type": "paragraph",
+      "text": "The second suggestion is to place your subject further from the background – this adds three dimensionality to the frame as you can see from Roger’s examples where there is a space that recedes behind the actors but it also adds separation between the intensity of the light on the actor and it’s falloff onto the background, increasing the contrast ratio and making the focus of the frame very clear."
+    },
+    {
+      "type": "paragraph",
+      "text": "Related to that is the choice of the size of your light source which is dependent on what is motivating said source (all of these frames seem to be light from windows) and spatial restrictions; a smaller light closer to your subject will have more abrupt falloff and add more “shape” to the contours of the face  (an actor holding a candle as an example) while a larger source further away (in the case of a window) will diminish those features but feel more natural, and additionally a window frame naturally cuts the light coming through it, offering a little bit of control over the spill and shape of the light (sheers/curtains are a quick and easier way to modulate that)."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/front-lit-shots-how-to-deal-with/#post-216102",
+    "scraped_at": "2026-01-15T15:41:59.926502+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/front-lit-shots-how-to-deal-with/#post-216102",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "67e3885129672ecb1eb336efb3d0457c654faeb617dd1da1c41ff918ec1535fa",
+    "parser_version": "bbpress-v2"
+  }
+}

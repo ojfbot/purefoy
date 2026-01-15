@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "219675",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-notes",
+    "parent_post_id": "215697",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I have a book, ‘Reflections’, coming out in the fall which may provide you with what you are after. At least, I hope it will as that was my intent when assembling it. ‘Reflections’ contains lighting diagrams and analysis of various films and scenes within them but is not intended as a technical manual, as its title would imply.",
+  "content_html": "<p>I have a book, ‘Reflections’, coming out in the fall which may provide you with what you are after. At least, I hope it will as that was my intent when assembling it. ‘Reflections’ contains lighting diagrams and analysis of various films and scenes within them but is not intended as a technical manual, as its title would imply.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I have a book, ‘Reflections’, coming out in the fall which may provide you with what you are after. At least, I hope it will as that was my intent when assembling it. ‘Reflections’ contains lighting diagrams and analysis of various films and scenes within them but is not intended as a technical manual, as its title would imply."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-notes/#post-220270",
+    "scraped_at": "2026-01-15T13:56:35.804666+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-notes/#post-220270",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "55f3cc00d92058a643329bc96617e73d67e953c546b2c80f3ca04b02fc296359",
+    "parser_version": "bbpress-v2"
+  }
+}

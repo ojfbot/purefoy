@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "220920",
+    "forum_slug": "forum",
+    "topic_slug": "calculating-foot-candles-with-distance-and-diffusion"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Ragul",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I understand that for a reference exposure (e.g. T2.8, ISO 100) middle gray is 100 fc, and that diffusion and distance cause light loss in stops.\nMy confusion is the practical workflow:\nWhen a fixture has photometrics at a reference distance, how do you mentally combine\ndistance loss (inverse square law) and diffusion loss (1–2 stops)\nto estimate the fc that will actually reach the subject?\nDo you calculate this backward from the desired fc at subject level, or do you rely more on experience and headroom rather than precise math?\nI’d love to understand how you approach this in prep versus on set.",
+  "content_html": "<p>I understand that for a reference exposure (e.g. T2.8, ISO 100) middle gray is 100 fc, and that diffusion and distance cause light loss in stops.</p>\n<p>My confusion is the practical workflow:</p>\n<p>When a fixture has photometrics at a reference distance, how do you mentally combine</p>\n<p>distance loss (inverse square law) and diffusion loss (1–2 stops)<br/>\nto estimate the fc that will actually reach the subject?<br/>\nDo you calculate this backward from the desired fc at subject level, or do you rely more on experience and headroom rather than precise math?</p>\n<p>I’d love to understand how you approach this in prep versus on set.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I understand that for a reference exposure (e.g. T2.8, ISO 100) middle gray is 100 fc, and that diffusion and distance cause light loss in stops."
+    },
+    {
+      "type": "paragraph",
+      "text": "My confusion is the practical workflow:"
+    },
+    {
+      "type": "paragraph",
+      "text": "When a fixture has photometrics at a reference distance, how do you mentally combine"
+    },
+    {
+      "type": "paragraph",
+      "text": "distance loss (inverse square law) and diffusion loss (1–2 stops)\nto estimate the fc that will actually reach the subject?\nDo you calculate this backward from the desired fc at subject level, or do you rely more on experience and headroom rather than precise math?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’d love to understand how you approach this in prep versus on set."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/calculating-foot-candles-with-distance-and-diffusion/#post-220921",
+    "scraped_at": "2026-01-15T12:42:25.151248+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/calculating-foot-candles-with-distance-and-diffusion/#post-220921",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d33a0136526ab3eedf145be3be12d219157499809104bf6bb72eed03a47f42ec",
+    "parser_version": "bbpress-v2"
+  }
+}

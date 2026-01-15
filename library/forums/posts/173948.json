@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "173948",
+    "forum_slug": "camera",
+    "topic_slug": "camera-knowledge",
+    "parent_post_id": "173700",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I wonder what ‘the fundamentals of photography and lighting’ actually are? The more I do the less I seem to understand. I don’t mean technically, for that I can read a book or ask someone far more proficient than myself, but what really are ‘the fundamentals’?",
+  "content_html": "<p>I wonder what ‘the fundamentals of photography and lighting’ actually are? The more I do the less I seem to understand. I don’t mean technically, for that I can read a book or ask someone far more proficient than myself, but what really are ‘the fundamentals’?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I wonder what ‘the fundamentals of photography and lighting’ actually are? The more I do the less I seem to understand. I don’t mean technically, for that I can read a book or ask someone far more proficient than myself, but what really are ‘the fundamentals’?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-knowledge/#post-174075",
+    "scraped_at": "2026-01-15T15:45:38.305481+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-knowledge/#post-174075",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "063bc583a0a0497ee995e7f96732f9aa9ac0323e6c1727b857ff7d1e3f55312d",
+    "parser_version": "bbpress-v2"
+  }
+}

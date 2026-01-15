@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "189845",
+    "forum_slug": "camera",
+    "topic_slug": "jarhead-technical-decision-based-on-story"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Gustavo Perez",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I could talk all day about Jarhead (I watched it for the first time in 2012 when I was 11). However, I’ll save you from that lengthy discussion!\nI want to know what, if any, defined component of the story led you to decide to use 16mm?  Or maybe it was just a feeling you had in your gut that 16 could give you something you wanted.",
+  "content_html": "<p>I could talk all day about Jarhead (I watched it for the first time in 2012 when I was 11). However, I’ll save you from that lengthy discussion!</p>\n<p>I want to know what, if any, defined component of the story led you to decide to use 16mm?  Or maybe it was just a feeling you had in your gut that 16 could give you something you wanted.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I could talk all day about Jarhead (I watched it for the first time in 2012 when I was 11). However, I’ll save you from that lengthy discussion!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I want to know what, if any, defined component of the story led you to decide to use 16mm?  Or maybe it was just a feeling you had in your gut that 16 could give you something you wanted."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/jarhead-technical-decision-based-on-story/#post-189918",
+    "scraped_at": "2026-01-15T15:43:29.672954+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/jarhead-technical-decision-based-on-story/#post-189918",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f49017e18c9b341c0c751c39c4b9ff065ec7ceb888bf8b743b3dfd737a763c88",
+    "parser_version": "bbpress-v2"
+  }
+}

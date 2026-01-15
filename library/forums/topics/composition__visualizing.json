@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/visualizing/#post-214695",
+  "forum_slug": "composition",
+  "topic_slug": "visualizing",
+  "title": "Visualizing",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "181225",
+    "214686",
+    "214689",
+    "214690",
+    "214695"
+  ],
+  "reply_tree": {
+    "post_id": "181225",
+    "post_type": "topic",
+    "author": "Rizzy",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214686",
+        "post_type": "reply",
+        "author": "glick",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214689",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214690",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214695",
+        "post_type": "reply",
+        "author": "quijotesco24",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/visualizing/#post-214695",
+    "scraped_at": "2026-01-15T13:06:07.662130+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/visualizing/#post-214695",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5a84b4268f62df4372f7d5d1a8b47647c5b0e946d4489e9f0fed5a69b48a97ea",
+    "parser_version": "bbpress-v2"
+  }
+}

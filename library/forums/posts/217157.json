@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "217157",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-differences",
+    "parent_post_id": "217154",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Sure, there are differences in color rendition from using bi-color, RGB, RGBW, etc. LEDs and tungsten light — you can see that by looking at spectrum chart, the cheaper LEDs have a “spikey” RGB plot.  As they add more color LEDs outside of RGB, they fill in some of the gaps and create a smoother range.  On skin tones, you may see the effect of less saturation from LEDs or too much saturation in some wavelength range (some lean towards adding too much magenta to skin for example).  When a source light is not continuous-spectrum enough, you lose some color complexity and richness — that can lead to a somewhat blander “band-aid tan/pink” rendition in Caucasian skin for example. But as I said, LEDs are getting better all the time in addressing this.\nPractically-speaking, sure, LEDs are far too useful to be ignored and most of the time, the effect on skin tones is not noticed unless one does a side-by-side comparison with tungsten.\nTim Kang does a lot of research into this:",
+  "content_html": "<p>Sure, there are differences in color rendition from using bi-color, RGB, RGBW, etc. LEDs and tungsten light — you can see that by looking at spectrum chart, the cheaper LEDs have a “spikey” RGB plot.  As they add more color LEDs outside of RGB, they fill in some of the gaps and create a smoother range.  On skin tones, you may see the effect of less saturation from LEDs or too much saturation in some wavelength range (some lean towards adding too much magenta to skin for example).  When a source light is not continuous-spectrum enough, you lose some color complexity and richness — that can lead to a somewhat blander “band-aid tan/pink” rendition in Caucasian skin for example. But as I said, LEDs are getting better all the time in addressing this.</p>\n<p>Practically-speaking, sure, LEDs are far too useful to be ignored and most of the time, the effect on skin tones is not noticed unless one does a side-by-side comparison with tungsten.</p>\n<p>Tim Kang does a lot of research into this:</p>\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"381\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/5U-F7EhLp7g?feature=oembed\" title=\"Color Scientist Explains the Problem with RGB Lights\" width=\"678\"></iframe></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sure, there are differences in color rendition from using bi-color, RGB, RGBW, etc. LEDs and tungsten light — you can see that by looking at spectrum chart, the cheaper LEDs have a “spikey” RGB plot.  As they add more color LEDs outside of RGB, they fill in some of the gaps and create a smoother range.  On skin tones, you may see the effect of less saturation from LEDs or too much saturation in some wavelength range (some lean towards adding too much magenta to skin for example).  When a source light is not continuous-spectrum enough, you lose some color complexity and richness — that can lead to a somewhat blander “band-aid tan/pink” rendition in Caucasian skin for example. But as I said, LEDs are getting better all the time in addressing this."
+    },
+    {
+      "type": "paragraph",
+      "text": "Practically-speaking, sure, LEDs are far too useful to be ignored and most of the time, the effect on skin tones is not noticed unless one does a side-by-side comparison with tungsten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tim Kang does a lot of research into this:"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-differences/#post-217165",
+    "scraped_at": "2026-01-15T15:21:42.547250+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-differences/#post-217165",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ee56b82ec7f4a58acb74b5ecf4067d658857025daf54103dbc34de6aeedb889c",
+    "parser_version": "bbpress-v2"
+  }
+}

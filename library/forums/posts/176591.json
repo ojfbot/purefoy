@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "176591",
+    "forum_slug": "camera",
+    "topic_slug": "alexa-35-vs-mini-lf",
+    "parent_post_id": "169876",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Kemalettin",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "gabj3 wrote:\nLF. Lighting is lighting. But, sad to say, many of the number crunchers see no difference between having enough light and creating the right light.\nyou think you ll use the Alexa 35 in the future or are you gonna stick to Mini LF ?",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/alexa-35-vs-mini-lf/#post-170133\">gabj3 wrote:</a></div>\n<p>LF. Lighting is lighting. But, sad to say, many of the number crunchers see no difference between having enough light and creating the right light.</p></blockquote>\n<p> </p>\n<p>you think you ll use the Alexa 35 in the future or are you gonna stick to Mini LF ?</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "gabj3 wrote:\nLF. Lighting is lighting. But, sad to say, many of the number crunchers see no difference between having enough light and creating the right light."
+    },
+    {
+      "type": "paragraph",
+      "text": "LF. Lighting is lighting. But, sad to say, many of the number crunchers see no difference between having enough light and creating the right light."
+    },
+    {
+      "type": "paragraph",
+      "text": "you think you ll use the Alexa 35 in the future or are you gonna stick to Mini LF ?"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "gabj3 wrote:\nLF. Lighting is lighting. But, sad to say, many of the number crunchers see no difference between having enough light and creating the right light."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/alexa-35-vs-mini-lf/#post-170133",
+      "text": "gabj3 wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/alexa-35-vs-mini-lf/#post-215996",
+    "scraped_at": "2026-01-15T15:20:04.363072+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/alexa-35-vs-mini-lf/#post-215996",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4878cfffcb0dcb9dbcc4c6127fa805d94cfe93b3405e3806acdbd2936b0bb76d",
+    "parser_version": "bbpress-v2"
+  }
+}

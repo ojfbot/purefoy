@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217967",
+    "forum_slug": "team-deakins",
+    "topic_slug": "reflections-new-book",
+    "parent_post_id": "217941",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "MNMike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Great news! Cheers and looking forward to another stop in MN if your on the road again!",
+  "content_html": "<p>Great news! Cheers and looking forward to another stop in MN if your on the road again!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Great news! Cheers and looking forward to another stop in MN if your on the road again!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/",
+    "scraped_at": "2026-01-15T11:32:34.539133+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a1285835ac22431283cfe9cb03fd529d433e1bb63aab1b9bb30da53615ba9f48",
+    "parser_version": "bbpress-v2"
+  }
+}

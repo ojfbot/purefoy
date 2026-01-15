@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "195538",
+    "forum_slug": "forum",
+    "topic_slug": "building-a-tunnel-of-diffusion"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Jakob Webb",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I want to build a tunnel for a short film I am creating.\nIt would be made out of a white fabric, such as cotton. The tunnel would need to be 4M X 8M big, but I’m not quite sure where you can buy fabric this big, since fabric is usually only 2 metres wide.\nI’m going to be shining light through it, so it will also act as diffusion. As a backup idea I was thinking maybe I could have 2 long walls of fabric, like a sort of hallway, but I would quite like to show the top of the tunnel.\nDoes anyone have any ideas on how I can make this fabric tunnel / where I can buy a wide piece of white fabric?",
+  "content_html": "<p>I want to build a tunnel for a short film I am creating.</p>\n<p>It would be made out of a white fabric, such as cotton. The tunnel would need to be 4M X 8M big, but I’m not quite sure where you can buy fabric this big, since fabric is usually only 2 metres wide.</p>\n<p>I’m going to be shining light through it, so it will also act as diffusion. As a backup idea I was thinking maybe I could have 2 long walls of fabric, like a sort of hallway, but I would quite like to show the top of the tunnel.</p>\n<p>Does anyone have any ideas on how I can make this fabric tunnel / where I can buy a wide piece of white fabric?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I want to build a tunnel for a short film I am creating."
+    },
+    {
+      "type": "paragraph",
+      "text": "It would be made out of a white fabric, such as cotton. The tunnel would need to be 4M X 8M big, but I’m not quite sure where you can buy fabric this big, since fabric is usually only 2 metres wide."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m going to be shining light through it, so it will also act as diffusion. As a backup idea I was thinking maybe I could have 2 long walls of fabric, like a sort of hallway, but I would quite like to show the top of the tunnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Does anyone have any ideas on how I can make this fabric tunnel / where I can buy a wide piece of white fabric?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/building-a-tunnel-of-diffusion/#post-197339",
+    "scraped_at": "2026-01-15T15:54:52.098136+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/building-a-tunnel-of-diffusion/#post-197339",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9bb0c439b1fd7e100d066f8d9dc5f3db687aee12b7dfb546bdbe6bf40447789f",
+    "parser_version": "bbpress-v2"
+  }
+}

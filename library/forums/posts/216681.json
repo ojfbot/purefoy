@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "216681",
+    "forum_slug": "forum",
+    "topic_slug": "working-with-limited-lighting",
+    "parent_post_id": "216676",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Here’s some thoughts and ideas to get the forum conversation going!\nI think part of it will depend on the story and mood you’re after. Is it a brightly lit daytime story? Or is it dramatic and moody? Is it actual players on the court or a scene with people hanging out in the stands talking? Just some random first thoughts about the overall look!\nIn a general sense, see what you can control. Can you turn some of those lights out selectively? Or in groups?\nAlso yes negative fill will help a lot. Bring it in close to the talent and use more to block out areas in the background from getting hit with light. Can also put a flag/floppy overhead on the talent to block ceiling lights from hitting them.\nJust check that you can get properly trained crew members for this type of rigging if you decide to do it. Anything overhead on talent, or very tall stands to block stadium lights, should be done by a pro Grip. You don’t want anything tumbling down, or catching fire if they are too close to hot lights!\nHope this helps spark some ideas!",
+  "content_html": "<p>Here’s some thoughts and ideas to get the forum conversation going!</p>\n<p>I think part of it will depend on the story and mood you’re after. Is it a brightly lit daytime story? Or is it dramatic and moody? Is it actual players on the court or a scene with people hanging out in the stands talking? Just some random first thoughts about the overall look!</p>\n<p>In a general sense, see what you can control. Can you turn some of those lights out selectively? Or in groups?</p>\n<p>Also yes negative fill will help a lot. Bring it in close to the talent and use more to block out areas in the background from getting hit with light. Can also put a flag/floppy overhead on the talent to block ceiling lights from hitting them.</p>\n<p>Just check that you can get properly trained crew members for this type of rigging if you decide to do it. Anything overhead on talent, or very tall stands to block stadium lights, should be done by a pro Grip. You don’t want anything tumbling down, or catching fire if they are too close to hot lights!</p>\n<p>Hope this helps spark some ideas!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Here’s some thoughts and ideas to get the forum conversation going!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I think part of it will depend on the story and mood you’re after. Is it a brightly lit daytime story? Or is it dramatic and moody? Is it actual players on the court or a scene with people hanging out in the stands talking? Just some random first thoughts about the overall look!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In a general sense, see what you can control. Can you turn some of those lights out selectively? Or in groups?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also yes negative fill will help a lot. Bring it in close to the talent and use more to block out areas in the background from getting hit with light. Can also put a flag/floppy overhead on the talent to block ceiling lights from hitting them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just check that you can get properly trained crew members for this type of rigging if you decide to do it. Anything overhead on talent, or very tall stands to block stadium lights, should be done by a pro Grip. You don’t want anything tumbling down, or catching fire if they are too close to hot lights!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope this helps spark some ideas!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/working-with-limited-lighting/#post-216714",
+    "scraped_at": "2026-01-15T15:23:19.314613+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/working-with-limited-lighting/#post-216714",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2a764b7e1b29574357cabf88a16d3748efdf7ba232c8d5e7eaf6223899c55c0a",
+    "parser_version": "bbpress-v2"
+  }
+}

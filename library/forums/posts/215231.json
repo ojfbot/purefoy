@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "215231",
+    "forum_slug": "website-news",
+    "topic_slug": "dallas-film-commission-episode"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Baudelaire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "At this stage I  will happily listen to Roger and James talk about literally anything. but this was an odd episode and drifted into strange territory. I know most people involved in this side of things understand how it works but. At one point Their answer to “what can the commission do for a Filmaker ” was “10 or 20 percent.” that was it! No further information to what this percentage referred to at all. (im not looking for an explanation personally) but it was just an odd chat compared to the usual. (im probably just having a bad day)",
+  "content_html": "<p>At this stage I  will happily listen to Roger and James talk about literally anything. but this was an odd episode and drifted into strange territory. I know most people involved in this side of things understand how it works but. At one point Their answer to “what can the commission do for a Filmaker ” was “10 or 20 percent.” that was it! No further information to what this percentage referred to at all. (im not looking for an explanation personally) but it was just an odd chat compared to the usual. (im probably just having a bad day)</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "At this stage I  will happily listen to Roger and James talk about literally anything. but this was an odd episode and drifted into strange territory. I know most people involved in this side of things understand how it works but. At one point Their answer to “what can the commission do for a Filmaker ” was “10 or 20 percent.” that was it! No further information to what this percentage referred to at all. (im not looking for an explanation personally) but it was just an odd chat compared to the usual. (im probably just having a bad day)"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dallas-film-commission-episode/#post-215243",
+    "scraped_at": "2026-01-15T12:26:28.063349+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dallas-film-commission-episode/#post-215243",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "06c4092924d91ad61ac6a05524d28e4d52255d595caa173ab164c583e965a099",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216964",
+    "forum_slug": "composition",
+    "topic_slug": "inspiration-sources",
+    "parent_post_id": "216503",
+    "parent_type": "topic",
+    "position": 18
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think that is what you are trying to connect with – in the midst of all the technical aspects of being a cinematographer, the politics and the stress.",
+  "content_html": "<p>I think that is what you are trying to connect with – in the midst of all the technical aspects of being a cinematographer, the politics and the stress.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think that is what you are trying to connect with – in the midst of all the technical aspects of being a cinematographer, the politics and the stress."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/page/2/",
+    "scraped_at": "2026-01-15T12:26:05.887856+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1219ed10e03a1626cf1af4fff29eca190359133726b4df40383775a6e27d4fab",
+    "parser_version": "bbpress-v2"
+  }
+}

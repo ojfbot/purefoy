@@ -1,0 +1,48 @@
+{
+  "ids": {
+    "post_id": "215713",
+    "forum_slug": "forum",
+    "topic_slug": "documentary-lighting"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Fakhriemir07",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mr deakins! I’m Fakhri Emirsyah, a high school student from Indonesia, I got an assignment about explaining lesson material and I want to make it like a documentary film, I only have 2 lights, a soft box and a ring light. What do you think I can improve on the lights that I have set up? Thank You!\nWarm greetings from Indonesia",
+  "content_html": "<p>Hello Mr deakins! I’m Fakhri Emirsyah, a high school student from Indonesia, I got an assignment about explaining lesson material and I want to make it like a documentary film, I only have 2 lights, a soft box and a ring light. What do you think I can improve on the lights that I have set up? Thank You!</p>\n<p>Warm greetings from Indonesia <img alt=\"My school assignments \" decoding=\"async\" height=\"1080\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215713/dmvsogl4fyr7spdrrqct8ss6e2ss2vu7.jpg\" width=\"2408\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mr deakins! I’m Fakhri Emirsyah, a high school student from Indonesia, I got an assignment about explaining lesson material and I want to make it like a documentary film, I only have 2 lights, a soft box and a ring light. What do you think I can improve on the lights that I have set up? Thank You!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Warm greetings from Indonesia"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215713/dmvsogl4fyr7spdrrqct8ss6e2ss2vu7.jpg",
+      "alt": "My school assignments ",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/documentary-lighting/#post-215721",
+    "scraped_at": "2026-01-15T15:45:15.439626+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/documentary-lighting/#post-215721",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9cb65f960ad284810223b86f7d9883a79f7fa346533b31ac02c2171ea71392b4",
+    "parser_version": "bbpress-v2"
+  }
+}

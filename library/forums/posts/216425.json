@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "216425",
+    "forum_slug": "forum",
+    "topic_slug": "how-to-light-a-kitchen-scene"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "BlacksheepPictures",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I shoot a Musicvideo for a Singer. It is a love song and she wants a warm kitchen scene, where she dances with her boyfriend and also sitting on the floor, she said she wants warm tungsten lighting, i have a 130 watt led with softbox, led tubes.Thanks for any help.",
+  "content_html": "<p>I shoot a Musicvideo for a Singer. It is a love song and she wants a warm kitchen scene, where she dances with her boyfriend and also sitting on the floor, she said she wants warm tungsten lighting, i have a 130 watt led with softbox, led tubes.Thanks for any help.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I shoot a Musicvideo for a Singer. It is a love song and she wants a warm kitchen scene, where she dances with her boyfriend and also sitting on the floor, she said she wants warm tungsten lighting, i have a 130 watt led with softbox, led tubes.Thanks for any help."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-light-a-kitchen-scene/#post-216438",
+    "scraped_at": "2026-01-15T15:25:01.502419+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-light-a-kitchen-scene/#post-216438",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e453035092315134ac1e80d9c4098a0fce5740f982a8f12423e69242d8774e47",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220083",
+    "forum_slug": "camera",
+    "topic_slug": "hybrid-process",
+    "parent_post_id": "220052",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Intermediate dupe stock is a “negative” stock in the sense that it creates the opposite density of what it is copying, unlike a reversal (aka slide) stock. So one can create a positive or negative intermediate depending on what you record from digitally. So it’s not really accurate to call it a “positive” stock, it’s either. It can create a positive image if it’s a copy of a negative image. Same goes for print stock — the image is positive only because it’s a copy of a negative so naturally the densities get reversed.",
+  "content_html": "<p>Intermediate dupe stock is a “negative” stock in the sense that it creates the opposite density of what it is copying, unlike a reversal (aka slide) stock. So one can create a positive or negative intermediate depending on what you record from digitally. So it’s not really accurate to call it a “positive” stock, it’s either. It can create a positive image if it’s a copy of a negative image. Same goes for print stock — the image is positive only because it’s a copy of a negative so naturally the densities get reversed.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Intermediate dupe stock is a “negative” stock in the sense that it creates the opposite density of what it is copying, unlike a reversal (aka slide) stock. So one can create a positive or negative intermediate depending on what you record from digitally. So it’s not really accurate to call it a “positive” stock, it’s either. It can create a positive image if it’s a copy of a negative image. Same goes for print stock — the image is positive only because it’s a copy of a negative so naturally the densities get reversed."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/hybrid-process/#post-220086",
+    "scraped_at": "2026-01-15T12:26:18.461707+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/hybrid-process/#post-220086",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f316d4dfd8cfe818e19e215638c5c4e38670b64b8ac404c17d144bdc652d8522",
+    "parser_version": "bbpress-v2"
+  }
+}

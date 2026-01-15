@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "215179",
+    "forum_slug": "camera",
+    "topic_slug": "luts"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "jomosadler",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mr. Deakins,\nDo you usually shoot in REC709 on set and color later or do you usually have a custom LUT beforehand to look at for each project. If you use a custom LUT, would you have multiple say for interior/exterior? And how do you go about testing a custom LUT beforehand in pre-production?\nThank you",
+  "content_html": "<p>Hello Mr. Deakins,</p>\n<p>Do you usually shoot in REC709 on set and color later or do you usually have a custom LUT beforehand to look at for each project. If you use a custom LUT, would you have multiple say for interior/exterior? And how do you go about testing a custom LUT beforehand in pre-production?</p>\n<p>Thank you</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mr. Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you usually shoot in REC709 on set and color later or do you usually have a custom LUT beforehand to look at for each project. If you use a custom LUT, would you have multiple say for interior/exterior? And how do you go about testing a custom LUT beforehand in pre-production?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/luts/page/2/",
+    "scraped_at": "2026-01-15T15:22:42.289148+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/luts/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "995426a459e98cfd8b5b75a4048b2dc9bcdc4e7f7adf0eef0877787a9b2293e7",
+    "parser_version": "bbpress-v2"
+  }
+}

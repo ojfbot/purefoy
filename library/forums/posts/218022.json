@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "218022",
+    "forum_slug": "post",
+    "topic_slug": "subtitles"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "charlielyons",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello,\nI’m looking for recommendations/advice for subtitling and subtitling services. It would be for an indie short film shot in English. And I’m looking to add French subtitles. Thank you!\nBest,\nCharlie\np.s. my apologies if this is somewhat off topic.",
+  "content_html": "<p>Hello,</p>\n<p>I’m looking for recommendations/advice for subtitling and subtitling services. It would be for an indie short film shot in English. And I’m looking to add French subtitles. Thank you!</p>\n<p>Best,</p>\n<p>Charlie</p>\n<p>p.s. my apologies if this is somewhat off topic.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m looking for recommendations/advice for subtitling and subtitling services. It would be for an indie short film shot in English. And I’m looking to add French subtitles. Thank you!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Best,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Charlie"
+    },
+    {
+      "type": "paragraph",
+      "text": "p.s. my apologies if this is somewhat off topic."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/subtitles/#post-218134",
+    "scraped_at": "2026-01-15T12:08:46.776777+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/subtitles/#post-218134",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1c07a49b32b7f238df62e6c8d73a1eef52e614d79d527d0ead4d9b7de739e854",
+    "parser_version": "bbpress-v2"
+  }
+}

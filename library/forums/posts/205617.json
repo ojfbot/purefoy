@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "205617",
+    "forum_slug": "camera",
+    "topic_slug": "is-there-such-a-thing-as-correct-exposure",
+    "parent_post_id": "204770",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think Gordon Willis (or maybe it was Conrad Hall) once said that there was nothing wrong about working on the edge… as long as you are\nconsistent\nenough to not fall over that edge.  For example, maybe in your testing, you find that you can underexpose everything by 3-stops for a look and technically you are fine with the quality… but if you go a 1/2-stop too far, you fall off the cliff so to speak. So when working at the more extreme ISO settings, you have to understand your reduced ability for correcting errors.",
+  "content_html": "<p>I think Gordon Willis (or maybe it was Conrad Hall) once said that there was nothing wrong about working on the edge… as long as you are <strong>consistent</strong> enough to not fall over that edge.  For example, maybe in your testing, you find that you can underexpose everything by 3-stops for a look and technically you are fine with the quality… but if you go a 1/2-stop too far, you fall off the cliff so to speak. So when working at the more extreme ISO settings, you have to understand your reduced ability for correcting errors.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think Gordon Willis (or maybe it was Conrad Hall) once said that there was nothing wrong about working on the edge… as long as you are\nconsistent\nenough to not fall over that edge.  For example, maybe in your testing, you find that you can underexpose everything by 3-stops for a look and technically you are fine with the quality… but if you go a 1/2-stop too far, you fall off the cliff so to speak. So when working at the more extreme ISO settings, you have to understand your reduced ability for correcting errors."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/is-there-such-a-thing-as-correct-exposure/#post-205617",
+    "scraped_at": "2026-01-15T15:42:07.800440+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/is-there-such-a-thing-as-correct-exposure/#post-205617",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "43bad81f799c8b1bc09b3768951af433540aed535df24b442249ff654ce5ff06",
+    "parser_version": "bbpress-v2"
+  }
+}

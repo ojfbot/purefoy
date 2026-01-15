@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214921",
+    "forum_slug": "forum",
+    "topic_slug": "phantom-thread-cafe-scene",
+    "parent_post_id": "214912",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "He looks lit by a softened HMI coming from the right through another window, but whether the window in the middle of the frame needed ND gel is hard to tell – it looks sort of misty/foggy and overcast out there so maybe no ND gel would be needed.  In a location like this, you might have hard acrylic ND gel panels made for each window that can be quickly slapped up — or removed as it gets darker outside.",
+  "content_html": "<p>He looks lit by a softened HMI coming from the right through another window, but whether the window in the middle of the frame needed ND gel is hard to tell – it looks sort of misty/foggy and overcast out there so maybe no ND gel would be needed.  In a location like this, you might have hard acrylic ND gel panels made for each window that can be quickly slapped up — or removed as it gets darker outside.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "He looks lit by a softened HMI coming from the right through another window, but whether the window in the middle of the frame needed ND gel is hard to tell – it looks sort of misty/foggy and overcast out there so maybe no ND gel would be needed.  In a location like this, you might have hard acrylic ND gel panels made for each window that can be quickly slapped up — or removed as it gets darker outside."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/phantom-thread-cafe-scene/#post-214960",
+    "scraped_at": "2026-01-15T15:50:06.665178+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/phantom-thread-cafe-scene/#post-214960",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8719f966409f1aaf6a8485666a247da93de291467324b4724654d3fb17b17a46",
+    "parser_version": "bbpress-v2"
+  }
+}

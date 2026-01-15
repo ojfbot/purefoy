@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/long-lenses-story-telling/#post-180151",
+  "forum_slug": "film-talk",
+  "topic_slug": "long-lenses-story-telling",
+  "title": "Long lenses story telling",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "179058",
+    "179113",
+    "179114",
+    "179314",
+    "180151"
+  ],
+  "reply_tree": {
+    "post_id": "179058",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "179113",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "179114",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "179314",
+        "post_type": "reply",
+        "author": "deenankathiravan",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "180151",
+        "post_type": "reply",
+        "author": "William Knowles",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/long-lenses-story-telling/#post-180151",
+    "scraped_at": "2026-01-15T14:33:13.156817+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/long-lenses-story-telling/#post-180151",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e7c453abb09ccf3f32a94b20ac9394c09a10c2cf09c82e1de14de7bbcee49ae5",
+    "parser_version": "bbpress-v2"
+  }
+}

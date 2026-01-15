@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "197364",
+    "forum_slug": "camera",
+    "topic_slug": "shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "umbrella",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Many prominent DPs in the “film days” didn’t use an 85 filter when shooting outdoors, whether for the sake of visual consistency (Alcott) or because they didn’t want to interfere with image quality (Elswit). They would instead correct the white balance in post.\nMy question is: Would shooting in digital LOG with your white balance kept to 3200 be the equivalent of doing this? Is there any benefit to doing this versus a correct white balance in digital?\nI imagine you end up with less overall color information, so a slightly less rich and saturated image. I’ve heard some vague arguments for either way. Obviously not relevant if you’re shooting RAW and can re-target white balance in post.",
+  "content_html": "<p>Many prominent DPs in the “film days” didn’t use an 85 filter when shooting outdoors, whether for the sake of visual consistency (Alcott) or because they didn’t want to interfere with image quality (Elswit). They would instead correct the white balance in post.</p>\n<p>My question is: Would shooting in digital LOG with your white balance kept to 3200 be the equivalent of doing this? Is there any benefit to doing this versus a correct white balance in digital?</p>\n<p>I imagine you end up with less overall color information, so a slightly less rich and saturated image. I’ve heard some vague arguments for either way. Obviously not relevant if you’re shooting RAW and can re-target white balance in post.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Many prominent DPs in the “film days” didn’t use an 85 filter when shooting outdoors, whether for the sake of visual consistency (Alcott) or because they didn’t want to interfere with image quality (Elswit). They would instead correct the white balance in post."
+    },
+    {
+      "type": "paragraph",
+      "text": "My question is: Would shooting in digital LOG with your white balance kept to 3200 be the equivalent of doing this? Is there any benefit to doing this versus a correct white balance in digital?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I imagine you end up with less overall color information, so a slightly less rich and saturated image. I’ve heard some vague arguments for either way. Obviously not relevant if you’re shooting RAW and can re-target white balance in post."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter/#post-204122",
+    "scraped_at": "2026-01-15T15:42:19.932937+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter/#post-204122",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7202ae3f432eb01b4808816151ed2d78a72b3852b512c9507aa91bc13bbc1885",
+    "parser_version": "bbpress-v2"
+  }
+}

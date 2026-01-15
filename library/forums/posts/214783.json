@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "214783",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 23
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "While shooting digital, I don’t use charts daily but when I shoot film, I shoot a grey scale at the head of the roll. When I test a camera, film or digital, I use color charts and grey scales. When shooting tests in prep on a digital camera in order to create the dailies LUT, I often I use a DSC Labs test chart like this:",
+  "content_html": "<p>While shooting digital, I don’t use charts daily but when I shoot film, I shoot a grey scale at the head of the roll. When I test a camera, film or digital, I use color charts and grey scales. When shooting tests in prep on a digital camera in order to create the dailies LUT, I often I use a DSC Labs test chart like this:</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214783/lwf3orysc8rc8xi3k6a2om9fojpgx3n5.png\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "While shooting digital, I don’t use charts daily but when I shoot film, I shoot a grey scale at the head of the roll. When I test a camera, film or digital, I use color charts and grey scales. When shooting tests in prep on a digital camera in order to create the dailies LUT, I often I use a DSC Labs test chart like this:"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214783/lwf3orysc8rc8xi3k6a2om9fojpgx3n5.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+    "scraped_at": "2026-01-15T15:51:27.815206+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9f194636e4125d355ffc99d81390b9d54f189cb5542d12ccc38c67a8fad5d100",
+    "parser_version": "bbpress-v2"
+  }
+}

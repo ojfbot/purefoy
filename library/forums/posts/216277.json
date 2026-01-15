@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216277",
+    "forum_slug": "camera",
+    "topic_slug": "diffusion-filters",
+    "parent_post_id": "216260",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I personally would advise against physical filters. You cannot undo the effect. Luckily, filter diffusion is the one thing that actually makes sense to do in post imo. There is a plugin that emulates all popular diffusion and haze filters called Scatter from Video Village. It’s visually indistinguishable and you have infinitely more control than with physical filters. I think they have a demo version you can try.",
+  "content_html": "<p>I personally would advise against physical filters. You cannot undo the effect. Luckily, filter diffusion is the one thing that actually makes sense to do in post imo. There is a plugin that emulates all popular diffusion and haze filters called Scatter from Video Village. It’s visually indistinguishable and you have infinitely more control than with physical filters. I think they have a demo version you can try.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I personally would advise against physical filters. You cannot undo the effect. Luckily, filter diffusion is the one thing that actually makes sense to do in post imo. There is a plugin that emulates all popular diffusion and haze filters called Scatter from Video Village. It’s visually indistinguishable and you have infinitely more control than with physical filters. I think they have a demo version you can try."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/diffusion-filters/#post-216342",
+    "scraped_at": "2026-01-15T14:17:00.324018+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/diffusion-filters/#post-216342",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0cac8ce29ddfc930e6c3ed5357e23ed49b0d1f2440528badb8ec3892106479ff",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220913",
+    "forum_slug": "camera",
+    "topic_slug": "bowling-ball-pov-shot-in-the-big-lebowski",
+    "parent_post_id": "220723",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The camera was mounted at 90º to a rod that extended out from the side of a dolly. It was a kind of ‘spit’, as if you were rotating a hog over a fire. The rod was long enough that the dolly never entered frame.",
+  "content_html": "<p>The camera was mounted at 90º to a rod that extended out from the side of a dolly. It was a kind of ‘spit’, as if you were rotating a hog over a fire. The rod was long enough that the dolly never entered frame.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The camera was mounted at 90º to a rod that extended out from the side of a dolly. It was a kind of ‘spit’, as if you were rotating a hog over a fire. The rod was long enough that the dolly never entered frame."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bowling-ball-pov-shot-in-the-big-lebowski/#post-220913",
+    "scraped_at": "2026-01-15T12:08:12.891743+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bowling-ball-pov-shot-in-the-big-lebowski/#post-220913",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b41727e059c1abad2ff6afb924861a577415a31e2d8fe1af2d96444b27c75796",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/developing-a-rock-solid-shot-list/#post-217486",
+  "forum_slug": "set-talk",
+  "topic_slug": "developing-a-rock-solid-shot-list",
+  "title": "Developing a Rock Solid Shot List",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216670",
+    "216778",
+    "216841",
+    "217486"
+  ],
+  "reply_tree": {
+    "post_id": "216670",
+    "post_type": "topic",
+    "author": "warrenspears511",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216778",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216841",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217486",
+        "post_type": "reply",
+        "author": "James Parsons",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/developing-a-rock-solid-shot-list/#post-217486",
+    "scraped_at": "2026-01-15T12:08:11.170150+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/developing-a-rock-solid-shot-list/#post-217486",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f36d07d6858f244298ac1fc06c31f83009d1967e52ffa74f58b89f46f1090b41",
+    "parser_version": "bbpress-v2"
+  }
+}

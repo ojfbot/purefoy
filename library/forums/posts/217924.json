@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217924",
+    "forum_slug": "forum",
+    "topic_slug": "matching-2-shots-in-different-locations",
+    "parent_post_id": "217905",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yes, it’s a dialogue scene but the main problem is that i can’t combine shot and reverse shot in the same location. And, above all, in the first one i don’t have a window i can use to give a motivation to the light, while in the second one i don’t have the element of the set i need to tell the story. I thought about creating the second part of the scene (the window one) with a 3D background and a green screen, but i’d like to use a real window and a real set, i’m afraid to achieve a fake looking effect with the green screen (apart from the complication of using that).",
+  "content_html": "<p>Yes, it’s a dialogue scene but the main problem is that i can’t combine shot and reverse shot in the same location. And, above all, in the first one i don’t have a window i can use to give a motivation to the light, while in the second one i don’t have the element of the set i need to tell the story. I thought about creating the second part of the scene (the window one) with a 3D background and a green screen, but i’d like to use a real window and a real set, i’m afraid to achieve a fake looking effect with the green screen (apart from the complication of using that).</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yes, it’s a dialogue scene but the main problem is that i can’t combine shot and reverse shot in the same location. And, above all, in the first one i don’t have a window i can use to give a motivation to the light, while in the second one i don’t have the element of the set i need to tell the story. I thought about creating the second part of the scene (the window one) with a 3D background and a green screen, but i’d like to use a real window and a real set, i’m afraid to achieve a fake looking effect with the green screen (apart from the complication of using that)."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/matching-2-shots-in-different-locations/#post-218126",
+    "scraped_at": "2026-01-15T15:18:14.884954+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/matching-2-shots-in-different-locations/#post-218126",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "19b258d3a67b856f56e2ade466b3f041fbbcb7cb5a576c77e51f8f8027654f0b",
+    "parser_version": "bbpress-v2"
+  }
+}

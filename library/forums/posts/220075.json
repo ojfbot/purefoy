@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220075",
+    "forum_slug": "still-photography",
+    "topic_slug": "interacting-with-your-subjects",
+    "parent_post_id": "218430",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t really interact with anyone that happens to be in a photo I take. Sometimes I stand for long enough that a person within my view can make a choice whether to be photographed or not but I only rarely specifically ask their permission. That being the case, most of my pictures these days have few people in them or just figures in the distance.",
+  "content_html": "<p>I don’t really interact with anyone that happens to be in a photo I take. Sometimes I stand for long enough that a person within my view can make a choice whether to be photographed or not but I only rarely specifically ask their permission. That being the case, most of my pictures these days have few people in them or just figures in the distance.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t really interact with anyone that happens to be in a photo I take. Sometimes I stand for long enough that a person within my view can make a choice whether to be photographed or not but I only rarely specifically ask their permission. That being the case, most of my pictures these days have few people in them or just figures in the distance."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/interacting-with-your-subjects/#post-220075",
+    "scraped_at": "2026-01-15T11:50:36.845162+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/interacting-with-your-subjects/#post-220075",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "547314a7ef8161fc5ddd97b6b4616ce7440b7cf51a5cd071c5fa78578a46d775",
+    "parser_version": "bbpress-v2"
+  }
+}

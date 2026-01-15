@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "216472",
+    "forum_slug": "post",
+    "topic_slug": "a-i-and-concept-development"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Baudelaire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I thought Mr Deakins response to Dan Lemmon discussing his fears of A.I in recent episode very interesting. Very open minded (reminded me a lot of a wonderful  interview with the late painter frank Auerbach radio 4 did some years ago).",
+  "content_html": "<p>I thought Mr Deakins response to Dan Lemmon discussing his fears of A.I in recent episode very interesting. Very open minded (reminded me a lot of a wonderful  interview with the late painter frank Auerbach radio 4 did some years ago).</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I thought Mr Deakins response to Dan Lemmon discussing his fears of A.I in recent episode very interesting. Very open minded (reminded me a lot of a wonderful  interview with the late painter frank Auerbach radio 4 did some years ago)."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-i-and-concept-development/#post-216980",
+    "scraped_at": "2026-01-15T12:09:13.269155+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-i-and-concept-development/#post-216980",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "046cf458cd8338654b86bbf915acabcf9df2558f97deb4888078880910938932",
+    "parser_version": "bbpress-v2"
+  }
+}

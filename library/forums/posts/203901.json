@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "203901",
+    "forum_slug": "camera",
+    "topic_slug": "shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter",
+    "parent_post_id": "197364",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I did a similar quick test once with a blue filter in order to see if it’d help with day-to-night conversion. Shoot raw to be able to visually losslessly change white balance in post.\nI couldn’t see a difference between using the blue filter and using no filter but turning WB to a higher Kelvin in post.\nModern cine cams are so good at balancing temperature, would be interesting to know if you’ll see a difference at all with that test.",
+  "content_html": "<p>I did a similar quick test once with a blue filter in order to see if it’d help with day-to-night conversion. Shoot raw to be able to visually losslessly change white balance in post.</p>\n<p>I couldn’t see a difference between using the blue filter and using no filter but turning WB to a higher Kelvin in post.</p>\n<p>Modern cine cams are so good at balancing temperature, would be interesting to know if you’ll see a difference at all with that test.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I did a similar quick test once with a blue filter in order to see if it’d help with day-to-night conversion. Shoot raw to be able to visually losslessly change white balance in post."
+    },
+    {
+      "type": "paragraph",
+      "text": "I couldn’t see a difference between using the blue filter and using no filter but turning WB to a higher Kelvin in post."
+    },
+    {
+      "type": "paragraph",
+      "text": "Modern cine cams are so good at balancing temperature, would be interesting to know if you’ll see a difference at all with that test."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter/#post-204122",
+    "scraped_at": "2026-01-15T15:42:19.935502+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter/#post-204122",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ccc2f89e1f2f8a5f22bab2e8c2295afc9691b806b389caafd79f8f4de079a69b",
+    "parser_version": "bbpress-v2"
+  }
+}

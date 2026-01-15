@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "217089",
+    "forum_slug": "forum",
+    "topic_slug": "cove-light-considerations",
+    "parent_post_id": "205389",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Vasu",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks Master.  I recently shot a scene where i lit my wides with lights through diffusion may be double diffused for soft light & shadows. For close ups & mid shots i did bounce through muslin. The softness & wrapping of light is very smooth in bounce but while cutting through wides i can clearly the variation in lighting & contrast. I Was not happy with my work. Can You share some insights for lighting up the wide shots through bounce lighting & still not losing the over all contrast.\nThanks master.",
+  "content_html": "<p>Thanks Master.  I recently shot a scene where i lit my wides with lights through diffusion may be double diffused for soft light &amp; shadows. For close ups &amp; mid shots i did bounce through muslin. The softness &amp; wrapping of light is very smooth in bounce but while cutting through wides i can clearly the variation in lighting &amp; contrast. I Was not happy with my work. Can You share some insights for lighting up the wide shots through bounce lighting &amp; still not losing the over all contrast.</p>\n<p>Thanks master.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks Master.  I recently shot a scene where i lit my wides with lights through diffusion may be double diffused for soft light & shadows. For close ups & mid shots i did bounce through muslin. The softness & wrapping of light is very smooth in bounce but while cutting through wides i can clearly the variation in lighting & contrast. I Was not happy with my work. Can You share some insights for lighting up the wide shots through bounce lighting & still not losing the over all contrast."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks master."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+    "scraped_at": "2026-01-15T15:18:02.961271+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "476d74b483460a0319891586290ee68461b1d468c67715a7dd3b391fbf814586",
+    "parser_version": "bbpress-v2"
+  }
+}

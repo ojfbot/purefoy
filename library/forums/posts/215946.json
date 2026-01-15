@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215946",
+    "forum_slug": "composition",
+    "topic_slug": "planning-crane-shots",
+    "parent_post_id": "215922",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I suggest it comes from intuition and experience. A lens width is the same on a horizontal plane as it is in a vertical one. So the width of a shot on a similar lens translates one to one.",
+  "content_html": "<p>I suggest it comes from intuition and experience. A lens width is the same on a horizontal plane as it is in a vertical one. So the width of a shot on a similar lens translates one to one.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I suggest it comes from intuition and experience. A lens width is the same on a horizontal plane as it is in a vertical one. So the width of a shot on a similar lens translates one to one."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/planning-crane-shots/#post-217873",
+    "scraped_at": "2026-01-15T12:09:17.005880+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/planning-crane-shots/#post-217873",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "932a8e84cd08e4112134b71efd1bfba1b2c35a6b8a121c6d320f6bf3679b6ae4",
+    "parser_version": "bbpress-v2"
+  }
+}

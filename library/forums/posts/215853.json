@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215853",
+    "forum_slug": "forum",
+    "topic_slug": "revolutionary-road-night-interior-lighting",
+    "parent_post_id": "215829",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yes, that was a long time ago. I laugh at this scene because we had tented the whole house, so that I had room for lamps outside, but by the time we came to shoot it was dark outside.\nThe bounce source was an unbleached muslin and I suspect the lamps was attached to the ceiling. Otherwise, as you say, the light would have been too close. The hard light was supposed to mimic a street lamp. Just a 650 with a half blue gel on it.\nThe rain? Yes, the  rain felt like it mirrored the sadness of the scene. ‘In Cold Blood’ did it so much better.",
+  "content_html": "<p>Yes, that was a long time ago. I laugh at this scene because we had tented the whole house, so that I had room for lamps outside, but by the time we came to shoot it was dark outside.</p>\n<p>The bounce source was an unbleached muslin and I suspect the lamps was attached to the ceiling. Otherwise, as you say, the light would have been too close. The hard light was supposed to mimic a street lamp. Just a 650 with a half blue gel on it.</p>\n<p>The rain? Yes, the  rain felt like it mirrored the sadness of the scene. ‘In Cold Blood’ did it so much better.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yes, that was a long time ago. I laugh at this scene because we had tented the whole house, so that I had room for lamps outside, but by the time we came to shoot it was dark outside."
+    },
+    {
+      "type": "paragraph",
+      "text": "The bounce source was an unbleached muslin and I suspect the lamps was attached to the ceiling. Otherwise, as you say, the light would have been too close. The hard light was supposed to mimic a street lamp. Just a 650 with a half blue gel on it."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rain? Yes, the  rain felt like it mirrored the sadness of the scene. ‘In Cold Blood’ did it so much better."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-night-interior-lighting/#post-215869",
+    "scraped_at": "2026-01-15T15:43:50.786836+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-night-interior-lighting/#post-215869",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ba417dc76492df265513dcefd15717d498020dbd215741f0715e5a4279afdc1f",
+    "parser_version": "bbpress-v2"
+  }
+}

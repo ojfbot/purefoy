@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217338",
+    "forum_slug": "forum",
+    "topic_slug": "car-windshield-refection",
+    "parent_post_id": "217330",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That is always a tricky balance. Of course, many, of not most, of the car shots you see in films or TV shows today are a product of digital composites.",
+  "content_html": "<p>That is always a tricky balance. Of course, many, of not most, of the car shots you see in films or TV shows today are a product of digital composites.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That is always a tricky balance. Of course, many, of not most, of the car shots you see in films or TV shows today are a product of digital composites."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/car-windshield-refection/#post-217338",
+    "scraped_at": "2026-01-15T15:21:15.762847+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/car-windshield-refection/#post-217338",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "394542f02b3d8acd96302693609ecf92673e72f2350dbc8ff1456fe529b9cf21",
+    "parser_version": "bbpress-v2"
+  }
+}

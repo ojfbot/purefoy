@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "215780",
+    "forum_slug": "forum",
+    "topic_slug": "continuity-with-haze",
+    "parent_post_id": "215776",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m not sure what Ridley Scott uses but if you mean older films, chances are they used the oil based DF-50 hazer. It’s great but leaves nasty residue.\nThe finer the haze, the longer it hangs in the air, the easier continuation. The likes of Pea Soup Phantom Hazer and MDG Atmosphere produce ultra fine haze that leaves almost no residue.\nBut maybe you want to ‘see’ more of the haze. Common names like Antari, Martin/Jem, Look are more affordable and produce much bigger particles, but also continuity gets tricky – imo you’ll need a guy just to take care of the haze.\nThere’s also a different kind of solution to fix continuity: a fantastic software plugin called ‘Scatter’ by Video Village, reproducing physical accurate diffusion of various filters – among them the haze-emulation filter ‘Smoque’ by Tiffen. Scatter could be used to compensate continuity differences in shots within a scene.",
+  "content_html": "<p>I’m not sure what Ridley Scott uses but if you mean older films, chances are they used the oil based DF-50 hazer. It’s great but leaves nasty residue.</p>\n<p>The finer the haze, the longer it hangs in the air, the easier continuation. The likes of Pea Soup Phantom Hazer and MDG Atmosphere produce ultra fine haze that leaves almost no residue.</p>\n<p>But maybe you want to ‘see’ more of the haze. Common names like Antari, Martin/Jem, Look are more affordable and produce much bigger particles, but also continuity gets tricky – imo you’ll need a guy just to take care of the haze.</p>\n<p>There’s also a different kind of solution to fix continuity: a fantastic software plugin called ‘Scatter’ by Video Village, reproducing physical accurate diffusion of various filters – among them the haze-emulation filter ‘Smoque’ by Tiffen. Scatter could be used to compensate continuity differences in shots within a scene.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m not sure what Ridley Scott uses but if you mean older films, chances are they used the oil based DF-50 hazer. It’s great but leaves nasty residue."
+    },
+    {
+      "type": "paragraph",
+      "text": "The finer the haze, the longer it hangs in the air, the easier continuation. The likes of Pea Soup Phantom Hazer and MDG Atmosphere produce ultra fine haze that leaves almost no residue."
+    },
+    {
+      "type": "paragraph",
+      "text": "But maybe you want to ‘see’ more of the haze. Common names like Antari, Martin/Jem, Look are more affordable and produce much bigger particles, but also continuity gets tricky – imo you’ll need a guy just to take care of the haze."
+    },
+    {
+      "type": "paragraph",
+      "text": "There’s also a different kind of solution to fix continuity: a fantastic software plugin called ‘Scatter’ by Video Village, reproducing physical accurate diffusion of various filters – among them the haze-emulation filter ‘Smoque’ by Tiffen. Scatter could be used to compensate continuity differences in shots within a scene."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/continuity-with-haze/#post-215798",
+    "scraped_at": "2026-01-15T15:44:26.614985+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/continuity-with-haze/#post-215798",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9db1d8573682adfcfb1f9885c09fbcb67800a605b5101e1dddad31a01fd96931",
+    "parser_version": "bbpress-v2"
+  }
+}

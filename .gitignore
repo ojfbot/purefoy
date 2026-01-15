@@ -1,0 +1,162 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Claude Code
+.claude/
+
+# Pytest
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+
+# ============================================
+# PROJECT-SPECIFIC: Downloaded & Scraped Data
+# ============================================
+
+# Podcast Episodes - Downloaded Audio Files
+# These contain .mp3 files and are excluded entirely
+downloads/
+!downloads/.gitkeep
+!downloads/README.md
+
+# Extracted Transcripts - Generated data
+teamdeakins_transcripts/
+
+# Forum Scraped Data - NOW INCLUDED in private repo
+# The forum JSON data will be tracked for private use
+# library/ folder IS tracked (removed from gitignore)
+
+# Analysis/Export Output - Generated files (can be regenerated)
+analysis/
+!analysis/.gitkeep
+!analysis/README.md
+
+# Audio Files - Always exclude regardless of location
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.aac
+*.flac
+*.ogg
+
+# ============================================
+# Sensitive Data & Credentials
+# ============================================
+
+# Environment files with secrets
+.env
+.env.local
+.env.*.local
+secrets/
+credentials/
+*.key
+*.pem
+*.cert
+
+# API keys and tokens
+*_token.txt
+*_key.txt
+api_keys.json
+
+# ============================================
+# Runtime State & Logs
+# ============================================
+
+# HTTP cache and state files (can be regenerated)
+http_state.json
+visited_urls.json
+scrape_progress.json
+
+# SQLite databases - search index (can be rebuilt from JSON)
+*.sqlite
+*.sqlite3
+*.db
+
+# Note: The SQLite FTS index can be rebuilt with:
+# python -m deakins_forums.cli build-index
+
+# Logs
+*.log
+logs/
+
+# ============================================
+# Optional: Temporary Reports/Summaries
+# ============================================
+# Uncomment these lines if you want to exclude temporary report files
+# from version control (keep them local only)
+
+# *_REPORT.md
+# *_SUMMARY.md
+# *_DEMO.md
+# QUICKSTART.md
+
+# ============================================
+# OS & Temporary
+# ============================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+.Trash-*

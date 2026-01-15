@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/true-grit-close-up-moonlight/",
+  "forum_slug": "forum",
+  "topic_slug": "true-grit-close-up-moonlight",
+  "title": "True Grit Close Up Moonlight",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "212633"
+  ],
+  "reply_tree": {
+    "post_id": "212633",
+    "post_type": "topic",
+    "author": "josephwise",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/true-grit-close-up-moonlight/",
+    "scraped_at": "2026-01-15T15:53:21.559794+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/true-grit-close-up-moonlight/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6479b804e43bb9277b38e9ede46a11e2798f422d5b3fb11c479c50628d0a979c",
+    "parser_version": "bbpress-v2"
+  }
+}

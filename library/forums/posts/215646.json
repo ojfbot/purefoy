@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "215646",
+    "forum_slug": "composition",
+    "topic_slug": "shot-design-according-to-scene-structure"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Silver",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nI heard on your wonderful podcast Denis Villeneuve praising your strong ability to design a shot according to the structure of a scene. Can you explain what he is pointing to in more details and share with me your process for accomplishing such alignment.\nAlso do you have suggestions to develop that ability ?\nThank you very much!",
+  "content_html": "<p>Hi Roger,</p>\n<p>I heard on your wonderful podcast Denis Villeneuve praising your strong ability to design a shot according to the structure of a scene. Can you explain what he is pointing to in more details and share with me your process for accomplishing such alignment.</p>\n<p>Also do you have suggestions to develop that ability ?</p>\n<p>Thank you very much!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I heard on your wonderful podcast Denis Villeneuve praising your strong ability to design a shot according to the structure of a scene. Can you explain what he is pointing to in more details and share with me your process for accomplishing such alignment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also do you have suggestions to develop that ability ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you very much!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shot-design-according-to-scene-structure/",
+    "scraped_at": "2026-01-15T12:42:31.759798+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shot-design-according-to-scene-structure/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6edfca993198566604cff370bda32d22bcdc40d7011efab798b29e3a6ddc6681",
+    "parser_version": "bbpress-v2"
+  }
+}

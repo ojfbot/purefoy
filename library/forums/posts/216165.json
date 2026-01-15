@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "216165",
+    "forum_slug": "camera",
+    "topic_slug": "cooke-lenses"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Niko Lopez",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey Roger. I know you are an Arri guy, but are you still interested in using Cooke optics? I know you used them recently on Empire of Light.",
+  "content_html": "<p>Hey Roger. I know you are an Arri guy, but are you still interested in using Cooke optics? I know you used them recently on Empire of Light.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey Roger. I know you are an Arri guy, but are you still interested in using Cooke optics? I know you used them recently on Empire of Light."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cooke-lenses/#post-216477",
+    "scraped_at": "2026-01-15T14:13:14.546989+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cooke-lenses/#post-216477",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7bb48a908d01f801ba7c38ffd2f1d19d7ac74ee5550c060c338b01be1c3a77d1",
+    "parser_version": "bbpress-v2"
+  }
+}

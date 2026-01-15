@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220408",
+    "forum_slug": "forum",
+    "topic_slug": "reflections-book-arrived",
+    "parent_post_id": "220350",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t know if it’s an useful information for the other european forum users, anyway i wrote to the ASC to ask about the shipping cost to Italy for the signed copies of the book. They said that the shipping cost to Italy, through UPS or DHL, is something around $46. I suppose that will be, more or less, the same shipping cost for other european countries. I hope it helps!",
+  "content_html": "<p>I don’t know if it’s an useful information for the other european forum users, anyway i wrote to the ASC to ask about the shipping cost to Italy for the signed copies of the book. They said that the shipping cost to Italy, through UPS or DHL, is something around $46. I suppose that will be, more or less, the same shipping cost for other european countries. I hope it helps!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t know if it’s an useful information for the other european forum users, anyway i wrote to the ASC to ask about the shipping cost to Italy for the signed copies of the book. They said that the shipping cost to Italy, through UPS or DHL, is something around $46. I suppose that will be, more or less, the same shipping cost for other european countries. I hope it helps!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-book-arrived/#post-220408",
+    "scraped_at": "2026-01-15T13:24:03.975759+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-book-arrived/#post-220408",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3204efb33b7ce671e33a8973df64413c024f57a141ef98dd4e6a3df7446eed0e",
+    "parser_version": "bbpress-v2"
+  }
+}

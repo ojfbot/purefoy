@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220749",
+    "forum_slug": "team-deakins",
+    "topic_slug": "when-theres-no-work-everything-feels-like-zero-how-do-you-cope",
+    "parent_post_id": "220708",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Gregg",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Good advice. 🙂",
+  "content_html": "<p>Good advice. 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Good advice. 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/when-theres-no-work-everything-feels-like-zero-how-do-you-cope/#post-220751",
+    "scraped_at": "2026-01-15T11:50:52.711720+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/when-theres-no-work-everything-feels-like-zero-how-do-you-cope/#post-220751",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d52eb1e3196f07fb8e857c634fc00cba68e8ccef92c5b8c58a7942ca218f45c3",
+    "parser_version": "bbpress-v2"
+  }
+}

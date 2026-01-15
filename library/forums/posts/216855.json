@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216855",
+    "forum_slug": "forum",
+    "topic_slug": "frames-and-diffusion-questions",
+    "parent_post_id": "216826",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for this response also, David! I’m researching for a light diffusion options to test in the scenarios discussed earlier. Looking for a 4×4 size in a frame, to use before a larger piece of diffusion to fill it out more. Or, also put it in front of the larger diff to soften a face more without losing much level as Roger suggested. Roger suggested a brushed silk, but would a half soft frost also do the trick? How are its characteristics indoors? I feel like 1/4 grid cloth would be too heavy. I’m just looking to either soften a bit more, or spread a light a bit more, but without losing much level. Suggestions or other ideas welcome!",
+  "content_html": "<p>Thank you for this response also, David! I’m researching for a light diffusion options to test in the scenarios discussed earlier. Looking for a 4×4 size in a frame, to use before a larger piece of diffusion to fill it out more. Or, also put it in front of the larger diff to soften a face more without losing much level as Roger suggested. Roger suggested a brushed silk, but would a half soft frost also do the trick? How are its characteristics indoors? I feel like 1/4 grid cloth would be too heavy. I’m just looking to either soften a bit more, or spread a light a bit more, but without losing much level. Suggestions or other ideas welcome!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for this response also, David! I’m researching for a light diffusion options to test in the scenarios discussed earlier. Looking for a 4×4 size in a frame, to use before a larger piece of diffusion to fill it out more. Or, also put it in front of the larger diff to soften a face more without losing much level as Roger suggested. Roger suggested a brushed silk, but would a half soft frost also do the trick? How are its characteristics indoors? I feel like 1/4 grid cloth would be too heavy. I’m just looking to either soften a bit more, or spread a light a bit more, but without losing much level. Suggestions or other ideas welcome!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/frames-and-diffusion-questions/#post-216860",
+    "scraped_at": "2026-01-15T15:22:48.902265+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/frames-and-diffusion-questions/#post-216860",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "365c1337d1f5921fe69e97f0149349f75fee7fffbfcd92a3ac80908294549bae",
+    "parser_version": "bbpress-v2"
+  }
+}

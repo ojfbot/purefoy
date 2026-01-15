@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215759",
+    "forum_slug": "forum",
+    "topic_slug": "looking-for-good-flashlight-recommendations-for-night-shoot",
+    "parent_post_id": "215740",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "chrismjones",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks for the recommendation, Roger. Looks like Surefire has a newer LED line released, pretty fantastic. Appreciate it!",
+  "content_html": "<p>Thanks for the recommendation, Roger. Looks like Surefire has a newer LED line released, pretty fantastic. Appreciate it!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks for the recommendation, Roger. Looks like Surefire has a newer LED line released, pretty fantastic. Appreciate it!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/looking-for-good-flashlight-recommendations-for-night-shoot/#post-215759",
+    "scraped_at": "2026-01-15T15:44:50.863763+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/looking-for-good-flashlight-recommendations-for-night-shoot/#post-215759",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8906d332a722fafde6fb627a2d3ab598d2fbcb3f6f47729bf2c78e79aa53c4aa",
+    "parser_version": "bbpress-v2"
+  }
+}

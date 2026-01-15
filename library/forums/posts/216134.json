@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "216134",
+    "forum_slug": "forum",
+    "topic_slug": "how-18-gray-is-mathematically-calculated",
+    "parent_post_id": "216127",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Maths!\nIf you have 100% of your energy, you shine it at something, and only 18% is reflected; that’s an 18% grey card!  Why do we use it? As a point of reference.\nOne could use a 50% grey card, but we chose 18% grey. Why? Well, it’s simple! Your eyes see like a camera’s logarithmic container. Our eyes perceive light logarithmically because our photoreceptors adjust their sensitivity based on the intensity of the light. This means that each doubling or halving of light intensity (a stop) is perceived as a consistent change in brightness, even though the actual amount of energy is significantly different.\nSo, one could use a 50% reflectance card; however, because the step between 100% and 50% is the same as 50% and 25% and 25% and 12%, 50% reflectance is actually not as big a step as one might perceive it to be.\nThat is why a camera log image looks ‘incorrect’ to us; there’s nothing wrong with it! It’s encoded light similiarly to your photopic vision. One needs to retransform it to a more linear-type signal for our photopic vision to re-encode it logarithmically.\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>Maths!</p>\n<p>If you have 100% of your energy, you shine it at something, and only 18% is reflected; that’s an 18% grey card!  Why do we use it? As a point of reference.</p>\n<p>One could use a 50% grey card, but we chose 18% grey. Why? Well, it’s simple! Your eyes see like a camera’s logarithmic container. Our eyes perceive light logarithmically because our photoreceptors adjust their sensitivity based on the intensity of the light. This means that each doubling or halving of light intensity (a stop) is perceived as a consistent change in brightness, even though the actual amount of energy is significantly different.</p>\n<p>So, one could use a 50% reflectance card; however, because the step between 100% and 50% is the same as 50% and 25% and 25% and 12%, 50% reflectance is actually not as big a step as one might perceive it to be.</p>\n<p>That is why a camera log image looks ‘incorrect’ to us; there’s nothing wrong with it! It’s encoded light similiarly to your photopic vision. One needs to retransform it to a more linear-type signal for our photopic vision to re-encode it logarithmically.</p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Maths!"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have 100% of your energy, you shine it at something, and only 18% is reflected; that’s an 18% grey card!  Why do we use it? As a point of reference."
+    },
+    {
+      "type": "paragraph",
+      "text": "One could use a 50% grey card, but we chose 18% grey. Why? Well, it’s simple! Your eyes see like a camera’s logarithmic container. Our eyes perceive light logarithmically because our photoreceptors adjust their sensitivity based on the intensity of the light. This means that each doubling or halving of light intensity (a stop) is perceived as a consistent change in brightness, even though the actual amount of energy is significantly different."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, one could use a 50% reflectance card; however, because the step between 100% and 50% is the same as 50% and 25% and 25% and 12%, 50% reflectance is actually not as big a step as one might perceive it to be."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why a camera log image looks ‘incorrect’ to us; there’s nothing wrong with it! It’s encoded light similiarly to your photopic vision. One needs to retransform it to a more linear-type signal for our photopic vision to re-encode it logarithmically."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-18-gray-is-mathematically-calculated/#post-216134",
+    "scraped_at": "2026-01-15T15:26:10.523360+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-18-gray-is-mathematically-calculated/#post-216134",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9f3f1346376c19e350d04a2097c30b019b5110c02ef966c47176b239d4c14ecd",
+    "parser_version": "bbpress-v2"
+  }
+}

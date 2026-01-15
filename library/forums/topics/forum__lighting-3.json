@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/lighting-3/",
+  "forum_slug": "forum",
+  "topic_slug": "lighting-3",
+  "title": "Lighting",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "218299"
+  ],
+  "reply_tree": {
+    "post_id": "218299",
+    "post_type": "topic",
+    "author": "Mike",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-3/",
+    "scraped_at": "2026-01-15T15:08:35.814405+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-3/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7f28088ee7df3ec73db6f92411ad19531ccf57051723e563ecfcb684bf4cdd50",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215098",
+    "forum_slug": "camera",
+    "topic_slug": "on-cleaner-anamorphics",
+    "parent_post_id": "215088",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Of course everything is on a spectrum, it’s not like the choice is between anamorphic lenses with zero anamorphic artifacts versus the funkiest, oldest, more flarey and distorted anamorphic lenses ever made.  But it seems to me that one would want\nsome\nanamorphic artifacts, even if subtle, if you were going to pick anamorphic — if\nall\nyou want is a 2.40 frame, there are easier, simpler, cheaper ways of getting there.",
+  "content_html": "<p>Of course everything is on a spectrum, it’s not like the choice is between anamorphic lenses with zero anamorphic artifacts versus the funkiest, oldest, more flarey and distorted anamorphic lenses ever made.  But it seems to me that one would want <em>some</em> anamorphic artifacts, even if subtle, if you were going to pick anamorphic — if <em>all</em> you want is a 2.40 frame, there are easier, simpler, cheaper ways of getting there.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Of course everything is on a spectrum, it’s not like the choice is between anamorphic lenses with zero anamorphic artifacts versus the funkiest, oldest, more flarey and distorted anamorphic lenses ever made.  But it seems to me that one would want\nsome\nanamorphic artifacts, even if subtle, if you were going to pick anamorphic — if\nall\nyou want is a 2.40 frame, there are easier, simpler, cheaper ways of getting there."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215102",
+    "scraped_at": "2026-01-15T15:23:21.465483+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215102",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e1c92945b4e2ab3c2e45f667c382e78db8996d1d3e1e81125806e54568a936dc",
+    "parser_version": "bbpress-v2"
+  }
+}

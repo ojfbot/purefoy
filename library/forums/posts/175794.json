@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "175794",
+    "forum_slug": "camera",
+    "topic_slug": "am-i-crazy-for-not-feeling-modern-35mm-film",
+    "parent_post_id": "173046",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Netflix is a good example. Every Netflix production looks the same to me, plasticky.",
+  "content_html": "<p>Netflix is a good example. Every Netflix production looks the same to me, plasticky.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Netflix is a good example. Every Netflix production looks the same to me, plasticky."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/am-i-crazy-for-not-feeling-modern-35mm-film/#post-175975",
+    "scraped_at": "2026-01-15T15:45:11.513495+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/am-i-crazy-for-not-feeling-modern-35mm-film/#post-175975",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e8f98594a66fd5dc016f1ec8e0051cdbb346db3703d9a0ce146e675627e42717",
+    "parser_version": "bbpress-v2"
+  }
+}

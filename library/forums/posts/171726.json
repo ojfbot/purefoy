@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "171726",
+    "forum_slug": "film-talk",
+    "topic_slug": "shower-in-empire-of-light",
+    "parent_post_id": "171505",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Green tiles in bathroom is now becoming fashionable, houses will soon have green energy and some people have even painted their houses green.\nNot long now before we seen ‘green’ camera’s powered by the sun, they already have solar powered LED’s!",
+  "content_html": "<p>Green tiles in bathroom is now becoming fashionable, houses will soon have green energy and some people have even painted their houses green.</p>\n<p>Not long now before we seen ‘green’ camera’s powered by the sun, they already have solar powered LED’s!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Green tiles in bathroom is now becoming fashionable, houses will soon have green energy and some people have even painted their houses green."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not long now before we seen ‘green’ camera’s powered by the sun, they already have solar powered LED’s!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shower-in-empire-of-light/#post-171944",
+    "scraped_at": "2026-01-15T14:33:49.236573+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shower-in-empire-of-light/#post-171944",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "089b4d8423fa8892898cbf11597b1ef4a60e993136989f146e685c8c8bfe6ff9",
+    "parser_version": "bbpress-v2"
+  }
+}

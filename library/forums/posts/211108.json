@@ -1,0 +1,60 @@
+{
+  "ids": {
+    "post_id": "211108",
+    "forum_slug": "composition",
+    "topic_slug": "was-no-country-for-old-men-initially-intended-to-be-169"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "umbrella",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I noticed recently that the original trailers for the film are an “open gate” 16:9 — ie. not pan and scanned, but actually show more image than the final film.\nExample\n.\nWas this simply some sort of weird studio decision to conform to internet standards (YouTube only supporting 16:9, it being more common screen size, etc.)?\nOr was the film designed for 16:9 or 1.85:1 and the decision to crop to 2.39:1 an after-thought?\nThank you.",
+  "content_html": "<p>I noticed recently that the original trailers for the film are an “open gate” 16:9 — ie. not pan and scanned, but actually show more image than the final film.</p>\n<p><a href=\"https://www.youtube.com/watch?v=A0oNrgumrlE\" rel=\"nofollow\">Example</a>.</p>\n<p>Was this simply some sort of weird studio decision to conform to internet standards (YouTube only supporting 16:9, it being more common screen size, etc.)?</p>\n<p>Or was the film designed for 16:9 or 1.85:1 and the decision to crop to 2.39:1 an after-thought?</p>\n<p>Thank you.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I noticed recently that the original trailers for the film are an “open gate” 16:9 — ie. not pan and scanned, but actually show more image than the final film."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example\n."
+    },
+    {
+      "type": "paragraph",
+      "text": "Was this simply some sort of weird studio decision to conform to internet standards (YouTube only supporting 16:9, it being more common screen size, etc.)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Or was the film designed for 16:9 or 1.85:1 and the decision to crop to 2.39:1 an after-thought?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.youtube.com/watch?v=A0oNrgumrlE",
+      "text": "Example",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/was-no-country-for-old-men-initially-intended-to-be-169/#post-212801",
+    "scraped_at": "2026-01-15T13:23:25.982346+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/was-no-country-for-old-men-initially-intended-to-be-169/#post-212801",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fd979fbfbe264af830bae61491c923b6eae96cea8d5bec7cc44abe8978c08f69",
+    "parser_version": "bbpress-v2"
+  }
+}

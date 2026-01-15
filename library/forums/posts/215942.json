@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "215942",
+    "forum_slug": "forum",
+    "topic_slug": "high-quality-individual-addressable-leds"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "tedsuo",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Like it says in the title, I need to wire up a large number of individually addressable LEDs into a set – think a forest with a number of flowers and other small set components that each light up.\nIdeally RGBWW with good color rendering. Everything I’ve come across on the internet looks sketch. Any recommendations for a source to order from?\nCheers,\nTeddy",
+  "content_html": "<p>Like it says in the title, I need to wire up a large number of individually addressable LEDs into a set – think a forest with a number of flowers and other small set components that each light up.</p>\n<p>Ideally RGBWW with good color rendering. Everything I’ve come across on the internet looks sketch. Any recommendations for a source to order from?</p>\n<p>Cheers,</p>\n<p>Teddy</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Like it says in the title, I need to wire up a large number of individually addressable LEDs into a set – think a forest with a number of flowers and other small set components that each light up."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ideally RGBWW with good color rendering. Everything I’ve come across on the internet looks sketch. Any recommendations for a source to order from?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cheers,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Teddy"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/high-quality-individual-addressable-leds/",
+    "scraped_at": "2026-01-15T15:43:08.322632+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/high-quality-individual-addressable-leds/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "98935bf206386f2a003fbbbf6005e858efa1e6e9840ec4bbc96116436c4f5175",
+    "parser_version": "bbpress-v2"
+  }
+}

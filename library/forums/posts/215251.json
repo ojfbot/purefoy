@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "post_id": "215251",
+    "forum_slug": "forum",
+    "topic_slug": "moon-light-for-exterior",
+    "parent_post_id": "215213",
+    "parent_type": "topic",
+    "position": 15
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Vanniyan if you search on Google for these words: Robin Barton beam angle calculator, you can find a page with a calculator of two scenarios, and roughly you will have an idea of the area that the beam angle cover at a certain distance (and a height).\nBut, in my opinion, you have to consider the diffusion that you would to use because, in my opinion, could alter your final beam angle and so the whole area that you will cover with your light.\nAbout the conversion FootCandle/Lux to exposure, Mr. Deakins tells you that if you want to expose an aperture of T2.8 at 800ISO 180° ShutterAngle you need something like 12.5FC. With this in mind, you can consider if the amount of FC/Lux that you will have in your action area is enough to expose what you want to expose (If you want to shoot at T2 for example you need the half of FC because you open your lens by a STOP but if you want to shoot your scene at T4 you need the double of 12.5FC).\nAs I said before, this is what I think should be, but there are masters and legends on this forum like Mr. Deakins and Mr. Mullen that can be more precise than me.\nI hope this can help you.\nI wish you a nice day,\nMax.",
+  "content_html": "<p>Vanniyan if you search on Google for these words: Robin Barton beam angle calculator, you can find a page with a calculator of two scenarios, and roughly you will have an idea of the area that the beam angle cover at a certain distance (and a height).</p>\n<p>But, in my opinion, you have to consider the diffusion that you would to use because, in my opinion, could alter your final beam angle and so the whole area that you will cover with your light.</p>\n<p>About the conversion FootCandle/Lux to exposure, Mr. Deakins tells you that if you want to expose an aperture of T2.8 at 800ISO 180° ShutterAngle you need something like 12.5FC. With this in mind, you can consider if the amount of FC/Lux that you will have in your action area is enough to expose what you want to expose (If you want to shoot at T2 for example you need the half of FC because you open your lens by a STOP but if you want to shoot your scene at T4 you need the double of 12.5FC).</p>\n<p>As I said before, this is what I think should be, but there are masters and legends on this forum like Mr. Deakins and Mr. Mullen that can be more precise than me.</p>\n<p>I hope this can help you.</p>\n<p>I wish you a nice day,</p>\n<p>Max.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Vanniyan if you search on Google for these words: Robin Barton beam angle calculator, you can find a page with a calculator of two scenarios, and roughly you will have an idea of the area that the beam angle cover at a certain distance (and a height)."
+    },
+    {
+      "type": "paragraph",
+      "text": "But, in my opinion, you have to consider the diffusion that you would to use because, in my opinion, could alter your final beam angle and so the whole area that you will cover with your light."
+    },
+    {
+      "type": "paragraph",
+      "text": "About the conversion FootCandle/Lux to exposure, Mr. Deakins tells you that if you want to expose an aperture of T2.8 at 800ISO 180° ShutterAngle you need something like 12.5FC. With this in mind, you can consider if the amount of FC/Lux that you will have in your action area is enough to expose what you want to expose (If you want to shoot at T2 for example you need the half of FC because you open your lens by a STOP but if you want to shoot your scene at T4 you need the double of 12.5FC)."
+    },
+    {
+      "type": "paragraph",
+      "text": "As I said before, this is what I think should be, but there are masters and legends on this forum like Mr. Deakins and Mr. Mullen that can be more precise than me."
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope this can help you."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a nice day,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Max."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/moon-light-for-exterior/",
+    "scraped_at": "2026-01-15T15:48:03.219145+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/moon-light-for-exterior/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "315ffe46e99c096c1dff0f40edd2ca3c0f5c1a5962892d5ee61be6c9cba69864",
+    "parser_version": "bbpress-v2"
+  }
+}

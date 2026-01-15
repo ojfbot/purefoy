@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "217797",
+    "forum_slug": "forum",
+    "topic_slug": "johnny-coquillon-and-minimal-lighting",
+    "parent_post_id": "217374",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "arthurkent",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Agreed—The Wild Bunch, The Getaway, Junior Bonner and Pat Garrett and Billy the Kid put Straw Dogs and Cross of Iron in the shade. Apart, that is, from the hospital scene in Cross of Iron, one of the best-ever motion picture renderings of PTSD. Well suited to Peckinpah’s emotive time shifts and jump cuts.\nRecords in the Academy’s Margaret Herrick Library show the Cross of Iron shoot was many times on the verge of collapsing. Johnny felt Peckinpah’s plans called for 3 Panavision cameras plus a high speed Pan-Arri IIC. Budget blues left them instead with one Mitchell BNCR, two Arris and a high speed Mitchell. The German co-producer failed to come through with the on-set camera tech Johnny felt would be needed to keep the cameras rolling. Alarmingly, only the British co-production entity’s half of the budget was in place when filming commenced. Chaos ensued.\nA Mantis dolly failed to show up. A Fisher crab to take its place was late arriving, then didn’t function properly. Johnny wrote to the German co-producer: “Tomorrow we must continue to shoot with an increasingly noisy main camera, and I must warn when we return to the confines of the studio the noise level could well become intolerable…” And later: “It is suicide for this matter not to be treated with utmost urgency. For three weeks now this equipment has operated under tough, dusty conditions… Can you permit/afford this to continue?” When that didn’t work, he finally wrote: “Now the kidding must stop. I must demand that we have the services of a FULL TIME qualified engineer…”\nThe picture pulled through, just, at 50% over budget. However mixed the reviews, James Coburn, David Warner and James Mason recalled the film fondly. As did Johnny, who felt it was a miracle the film ever hit the screen.",
+  "content_html": "<p>Agreed—The Wild Bunch, The Getaway, Junior Bonner and Pat Garrett and Billy the Kid put Straw Dogs and Cross of Iron in the shade. Apart, that is, from the hospital scene in Cross of Iron, one of the best-ever motion picture renderings of PTSD. Well suited to Peckinpah’s emotive time shifts and jump cuts.</p>\n<p>Records in the Academy’s Margaret Herrick Library show the Cross of Iron shoot was many times on the verge of collapsing. Johnny felt Peckinpah’s plans called for 3 Panavision cameras plus a high speed Pan-Arri IIC. Budget blues left them instead with one Mitchell BNCR, two Arris and a high speed Mitchell. The German co-producer failed to come through with the on-set camera tech Johnny felt would be needed to keep the cameras rolling. Alarmingly, only the British co-production entity’s half of the budget was in place when filming commenced. Chaos ensued.</p>\n<p>A Mantis dolly failed to show up. A Fisher crab to take its place was late arriving, then didn’t function properly. Johnny wrote to the German co-producer: “Tomorrow we must continue to shoot with an increasingly noisy main camera, and I must warn when we return to the confines of the studio the noise level could well become intolerable…” And later: “It is suicide for this matter not to be treated with utmost urgency. For three weeks now this equipment has operated under tough, dusty conditions… Can you permit/afford this to continue?” When that didn’t work, he finally wrote: “Now the kidding must stop. I must demand that we have the services of a FULL TIME qualified engineer…”</p>\n<p>The picture pulled through, just, at 50% over budget. However mixed the reviews, James Coburn, David Warner and James Mason recalled the film fondly. As did Johnny, who felt it was a miracle the film ever hit the screen.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Agreed—The Wild Bunch, The Getaway, Junior Bonner and Pat Garrett and Billy the Kid put Straw Dogs and Cross of Iron in the shade. Apart, that is, from the hospital scene in Cross of Iron, one of the best-ever motion picture renderings of PTSD. Well suited to Peckinpah’s emotive time shifts and jump cuts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Records in the Academy’s Margaret Herrick Library show the Cross of Iron shoot was many times on the verge of collapsing. Johnny felt Peckinpah’s plans called for 3 Panavision cameras plus a high speed Pan-Arri IIC. Budget blues left them instead with one Mitchell BNCR, two Arris and a high speed Mitchell. The German co-producer failed to come through with the on-set camera tech Johnny felt would be needed to keep the cameras rolling. Alarmingly, only the British co-production entity’s half of the budget was in place when filming commenced. Chaos ensued."
+    },
+    {
+      "type": "paragraph",
+      "text": "A Mantis dolly failed to show up. A Fisher crab to take its place was late arriving, then didn’t function properly. Johnny wrote to the German co-producer: “Tomorrow we must continue to shoot with an increasingly noisy main camera, and I must warn when we return to the confines of the studio the noise level could well become intolerable…” And later: “It is suicide for this matter not to be treated with utmost urgency. For three weeks now this equipment has operated under tough, dusty conditions… Can you permit/afford this to continue?” When that didn’t work, he finally wrote: “Now the kidding must stop. I must demand that we have the services of a FULL TIME qualified engineer…”"
+    },
+    {
+      "type": "paragraph",
+      "text": "The picture pulled through, just, at 50% over budget. However mixed the reviews, James Coburn, David Warner and James Mason recalled the film fondly. As did Johnny, who felt it was a miracle the film ever hit the screen."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/johnny-coquillon-and-minimal-lighting/#post-217797",
+    "scraped_at": "2026-01-15T15:20:18.266541+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/johnny-coquillon-and-minimal-lighting/#post-217797",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7abfd65ed3d95010efecbdb12f8fcd464e7fd9da921c10ed0525c18b3570e5f5",
+    "parser_version": "bbpress-v2"
+  }
+}

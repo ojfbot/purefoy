@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214498",
+    "forum_slug": "camera",
+    "topic_slug": "camera-recommendations-for-music-videos",
+    "parent_post_id": "214487",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Tyler F",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I look at it this way– You are investing in yourself and if it’s something you plan to make a return on by creating an end product, it should pay itself back relatively quickly. I’m not sure what level you’re at, maybe your day rate is $500-1200/day f0r example and your kit fee is $300/day, you can expect to pay off that camera in a few videos. There is a saying that if you do it right the first time, it will be cheaper in the long run as you won’t be needing to upgrade again and again.\nAnd if you really want to pay it off quickly, throw it up on a rental site or house or rent it out to your friends and you’ve got yourself passive income.",
+  "content_html": "<p>I look at it this way– You are investing in yourself and if it’s something you plan to make a return on by creating an end product, it should pay itself back relatively quickly. I’m not sure what level you’re at, maybe your day rate is $500-1200/day f0r example and your kit fee is $300/day, you can expect to pay off that camera in a few videos. There is a saying that if you do it right the first time, it will be cheaper in the long run as you won’t be needing to upgrade again and again.</p>\n<p>And if you really want to pay it off quickly, throw it up on a rental site or house or rent it out to your friends and you’ve got yourself passive income.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I look at it this way– You are investing in yourself and if it’s something you plan to make a return on by creating an end product, it should pay itself back relatively quickly. I’m not sure what level you’re at, maybe your day rate is $500-1200/day f0r example and your kit fee is $300/day, you can expect to pay off that camera in a few videos. There is a saying that if you do it right the first time, it will be cheaper in the long run as you won’t be needing to upgrade again and again."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if you really want to pay it off quickly, throw it up on a rental site or house or rent it out to your friends and you’ve got yourself passive income."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-recommendations-for-music-videos/#post-214502",
+    "scraped_at": "2026-01-15T15:26:07.249218+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-recommendations-for-music-videos/#post-214502",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b7016c4b54d3563da34c5269ea93bf45f2e811434e25408b329b0726d7a946e4",
+    "parser_version": "bbpress-v2"
+  }
+}

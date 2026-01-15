@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217950",
+    "forum_slug": "team-deakins",
+    "topic_slug": "reflections-new-book",
+    "parent_post_id": "217941",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Is there any concession for forum members. I like to buy rogerdeakins first book.",
+  "content_html": "<p>Is there any concession for forum members. I like to buy rogerdeakins first book.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Is there any concession for forum members. I like to buy rogerdeakins first book."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/",
+    "scraped_at": "2026-01-15T11:32:34.538746+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a20226d4444ee7f13e646147807c72095c2aa3bffdff9bc1cc30ce4e45b67988",
+    "parser_version": "bbpress-v2"
+  }
+}

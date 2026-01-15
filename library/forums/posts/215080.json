@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "215080",
+    "forum_slug": "film-talk",
+    "topic_slug": "million-dollar-baby-lighting",
+    "parent_post_id": "215068",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Sean Buffini",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "“So to me the hard edges of the shadow means that the characters have just one path available: either in the light or in the shadow, but a defined choice must be made.”\nWell depending on how you look at it, you may have just answered you own question. Reception theory dictates that regardless of what the filmmakers intentions were, the effect those choices have on you and how you enjoy the art is arguable more important than the filmmakers intentions.\nIt’s very possible that Tom Stern and Clint Eastwood just “felt” that high contrast, hard lighting was just “right” for the film. Relying entirely on their artistic intuition without really deconstructing why they felt that way.\nIn my opinion, I find lighting is usually more about the feeling than the logic. It’s less of a clearly defined microcosm of the films complete themes and typically more of an individual component that works in harmony with the rest of the film.\nBut I like your theory a lot. Very clever.",
+  "content_html": "<p><em>“So to me the hard edges of the shadow means that the characters have just one path available: either in the light or in the shadow, but a defined choice must be made.”</em></p>\n<p>Well depending on how you look at it, you may have just answered you own question. Reception theory dictates that regardless of what the filmmakers intentions were, the effect those choices have on you and how you enjoy the art is arguable more important than the filmmakers intentions.</p>\n<p>It’s very possible that Tom Stern and Clint Eastwood just “felt” that high contrast, hard lighting was just “right” for the film. Relying entirely on their artistic intuition without really deconstructing why they felt that way.</p>\n<p>In my opinion, I find lighting is usually more about the feeling than the logic. It’s less of a clearly defined microcosm of the films complete themes and typically more of an individual component that works in harmony with the rest of the film.</p>\n<p>But I like your theory a lot. Very clever.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "“So to me the hard edges of the shadow means that the characters have just one path available: either in the light or in the shadow, but a defined choice must be made.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Well depending on how you look at it, you may have just answered you own question. Reception theory dictates that regardless of what the filmmakers intentions were, the effect those choices have on you and how you enjoy the art is arguable more important than the filmmakers intentions."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s very possible that Tom Stern and Clint Eastwood just “felt” that high contrast, hard lighting was just “right” for the film. Relying entirely on their artistic intuition without really deconstructing why they felt that way."
+    },
+    {
+      "type": "paragraph",
+      "text": "In my opinion, I find lighting is usually more about the feeling than the logic. It’s less of a clearly defined microcosm of the films complete themes and typically more of an individual component that works in harmony with the rest of the film."
+    },
+    {
+      "type": "paragraph",
+      "text": "But I like your theory a lot. Very clever."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/million-dollar-baby-lighting/#post-215091",
+    "scraped_at": "2026-01-15T13:40:02.196683+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/million-dollar-baby-lighting/#post-215091",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5e77c318e4de414cd1f445dca8cb8bdc7d9215d313b670e9e7b90768c7a0509b",
+    "parser_version": "bbpress-v2"
+  }
+}

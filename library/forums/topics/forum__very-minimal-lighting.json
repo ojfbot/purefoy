@@ -1,0 +1,97 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/very-minimal-lighting/#post-220353",
+  "forum_slug": "forum",
+  "topic_slug": "very-minimal-lighting",
+  "title": "Very minimal lighting",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "211337",
+    "214612",
+    "214613",
+    "214617",
+    "214618",
+    "214657",
+    "214691",
+    "214692",
+    "220353"
+  ],
+  "reply_tree": {
+    "post_id": "211337",
+    "post_type": "topic",
+    "author": "andy989",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214612",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214613",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214617",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214618",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214657",
+        "post_type": "reply",
+        "author": "Ayan_Anirban",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214691",
+        "post_type": "reply",
+        "author": "halfgrain",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214692",
+        "post_type": "reply",
+        "author": "halfgrain",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220353",
+        "post_type": "reply",
+        "author": "andy989",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 8,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/very-minimal-lighting/#post-220353",
+    "scraped_at": "2026-01-15T13:39:55.386429+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/very-minimal-lighting/#post-220353",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "28009dc932a2a9a159a3fd54f0b8afbff8fe05cc4b25eb9ca05922f160f64347",
+    "parser_version": "bbpress-v2"
+  }
+}

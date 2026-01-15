@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215701",
+    "forum_slug": "forum",
+    "topic_slug": "dealing-with-direct-sunlight-in-sicario",
+    "parent_post_id": "215689",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This scene was discussed a lot in the old forum that unfortunately was lost. If I remember correctly, Mr. Deakins purposely wanted the harshest of direct sunlight so no diffusion was used for the scene, also I seem to remember that other than bounce light to “fill” shadows, sometimes Mr. Deakins used black clothes and negative fill to reduce the “hot-fill” coming from the light and bright floor.\nBut, of course, Mr. Deakins can be more precise and talk about his process for that scene, mine is only a memory I have of that scene from the old forum.\nI wish you a nice day,\nMax.",
+  "content_html": "<p>This scene was discussed a lot in the old forum that unfortunately was lost. If I remember correctly, Mr. Deakins purposely wanted the harshest of direct sunlight so no diffusion was used for the scene, also I seem to remember that other than bounce light to “fill” shadows, sometimes Mr. Deakins used black clothes and negative fill to reduce the “hot-fill” coming from the light and bright floor.<br/>\nBut, of course, Mr. Deakins can be more precise and talk about his process for that scene, mine is only a memory I have of that scene from the old forum.</p>\n<p>I wish you a nice day,<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This scene was discussed a lot in the old forum that unfortunately was lost. If I remember correctly, Mr. Deakins purposely wanted the harshest of direct sunlight so no diffusion was used for the scene, also I seem to remember that other than bounce light to “fill” shadows, sometimes Mr. Deakins used black clothes and negative fill to reduce the “hot-fill” coming from the light and bright floor.\nBut, of course, Mr. Deakins can be more precise and talk about his process for that scene, mine is only a memory I have of that scene from the old forum."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a nice day,\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dealing-with-direct-sunlight-in-sicario/#post-215726",
+    "scraped_at": "2026-01-15T15:45:08.790515+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dealing-with-direct-sunlight-in-sicario/#post-215726",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "66bd0916b75f4a0af93a7810e28854b645cc55b7da7eb2dc1f8f772b4f3566e9",
+    "parser_version": "bbpress-v2"
+  }
+}

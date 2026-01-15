@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "169824",
+    "forum_slug": "camera",
+    "topic_slug": "first-full-length-feature",
+    "parent_post_id": "169731",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger, I will direct my first feature next year and this advice is great for me as well. Thank you and James very much for sharing your knowledge so patiently with us here.",
+  "content_html": "<p>Roger, I will direct my first feature next year and this advice is great for me as well. Thank you and James very much for sharing your knowledge so patiently with us here.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roger, I will direct my first feature next year and this advice is great for me as well. Thank you and James very much for sharing your knowledge so patiently with us here."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/first-full-length-feature/#post-169934",
+    "scraped_at": "2026-01-15T15:46:32.278670+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/first-full-length-feature/#post-169934",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "23d76157f88c0bcd8491f00b5e84d45cbfd090bc118819ea66aea9094b265b48",
+    "parser_version": "bbpress-v2"
+  }
+}

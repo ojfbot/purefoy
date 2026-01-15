@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220262",
+    "forum_slug": "film-talk",
+    "topic_slug": "first-viewing-of-stalker",
+    "parent_post_id": "220259",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "No shame, cinema Is so full of great works that it’s impossible to know everything. I am in your same situation and i discovered great movies thanks to the forum and the podcast. For example thanks to Roger i discovered one of the best movie i’ve seen, The Silence of The Sea (the original clandestine movie by Melville). 3 people closed in a room and only one talks. I would’ve never watched it on these premises, but Roger quoted it, i trusted his knowledge and i discovered an absolute masterpiece.",
+  "content_html": "<p>No shame, cinema Is so full of great works that it’s impossible to know everything. I am in your same situation and i discovered great movies thanks to the forum and the podcast. For example thanks to Roger i discovered one of the best movie i’ve seen, The Silence of The Sea (the original clandestine movie by Melville). 3 people closed in a room and only one talks. I would’ve never watched it on these premises, but Roger quoted it, i trusted his knowledge and i discovered an absolute masterpiece.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "No shame, cinema Is so full of great works that it’s impossible to know everything. I am in your same situation and i discovered great movies thanks to the forum and the podcast. For example thanks to Roger i discovered one of the best movie i’ve seen, The Silence of The Sea (the original clandestine movie by Melville). 3 people closed in a room and only one talks. I would’ve never watched it on these premises, but Roger quoted it, i trusted his knowledge and i discovered an absolute masterpiece."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/first-viewing-of-stalker/#post-220262",
+    "scraped_at": "2026-01-15T11:51:01.813053+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/first-viewing-of-stalker/#post-220262",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c5a248e756c5cdeb0816ea43be46abe80c20075dd669e5cb5682b336411924f6",
+    "parser_version": "bbpress-v2"
+  }
+}

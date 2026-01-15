@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "216167",
+    "forum_slug": "team-deakins",
+    "topic_slug": "ivan-sen"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "charlielyons",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Wonderful conversation! Hearing Ivan Sen’s approach to filmmaking and storytelling was just what I needed. Marvelous. Thank you.\nDuring the discussion you mentioned having found a digital camera with a similar color space as film. Curious which camera that is/was? Also curious what Ivan Sen landed on when he recently bought his camera and lenses.\nI’m not gear focused, but I’ve had cameras I’ve loved, so I’m looking for the digital film camera that I will love.\nThank you.\nBest,\nCharlie",
+  "content_html": "<p>Wonderful conversation! Hearing Ivan Sen’s approach to filmmaking and storytelling was just what I needed. Marvelous. Thank you.</p>\n<p>During the discussion you mentioned having found a digital camera with a similar color space as film. Curious which camera that is/was? Also curious what Ivan Sen landed on when he recently bought his camera and lenses.</p>\n<p>I’m not gear focused, but I’ve had cameras I’ve loved, so I’m looking for the digital film camera that I will love.</p>\n<p>Thank you.</p>\n<p> </p>\n<p>Best,</p>\n<p>Charlie</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Wonderful conversation! Hearing Ivan Sen’s approach to filmmaking and storytelling was just what I needed. Marvelous. Thank you."
+    },
+    {
+      "type": "paragraph",
+      "text": "During the discussion you mentioned having found a digital camera with a similar color space as film. Curious which camera that is/was? Also curious what Ivan Sen landed on when he recently bought his camera and lenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m not gear focused, but I’ve had cameras I’ve loved, so I’m looking for the digital film camera that I will love."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Best,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Charlie"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ivan-sen/#post-216171",
+    "scraped_at": "2026-01-15T13:15:59.357224+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ivan-sen/#post-216171",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5d189d1a700ff68ea5fc8c7bfeea518482d0bc157290dca3ae9f2a0d80e4e6a6",
+    "parser_version": "bbpress-v2"
+  }
+}

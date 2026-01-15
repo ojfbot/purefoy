@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/vermiglio/",
+  "forum_slug": "film-talk",
+  "topic_slug": "vermiglio",
+  "title": "Vermiglio",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216820"
+  ],
+  "reply_tree": {
+    "post_id": "216820",
+    "post_type": "topic",
+    "author": "Gregg",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/vermiglio/",
+    "scraped_at": "2026-01-15T12:09:18.928928+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/vermiglio/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d63ae6f7fbfbcec029c70962ef0b05a3ae87cb38727b170cd3712fe3da4cf132",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/on-set-monitor-callibration-vs-viewing-environment/#post-216418",
+  "forum_slug": "camera",
+  "topic_slug": "on-set-monitor-callibration-vs-viewing-environment",
+  "title": "On set: Monitor callibration VS Viewing environment.",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216388",
+    "216396",
+    "216418"
+  ],
+  "reply_tree": {
+    "post_id": "216388",
+    "post_type": "topic",
+    "author": "Thom Yorke",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216396",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216418",
+        "post_type": "reply",
+        "author": "Thom Yorke",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/on-set-monitor-callibration-vs-viewing-environment/#post-216418",
+    "scraped_at": "2026-01-15T14:13:20.628706+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/on-set-monitor-callibration-vs-viewing-environment/#post-216418",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ff687c8abacbbc14ab9eea2c752516017ced0be90ae98437ed803604662dde15",
+    "parser_version": "bbpress-v2"
+  }
+}

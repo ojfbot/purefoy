@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215765",
+    "forum_slug": "film-talk",
+    "topic_slug": "jean-pierre-melville",
+    "parent_post_id": "215758",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "All of them! Le Samurai, Circle Rouge, Army of Shadows. Duxieme Souffle is probably the best heist movie ever made. Army of Shadows the most realistic film about the French resistance. You could start with The Silence of the Ocean. B&W. Basically shot in one room with three characters. I think it was Melville’s first film. A Masterpiece.",
+  "content_html": "<p>All of them! Le Samurai, Circle Rouge, Army of Shadows. Duxieme Souffle is probably the best heist movie ever made. Army of Shadows the most realistic film about the French resistance. You could start with The Silence of the Ocean. B&amp;W. Basically shot in one room with three characters. I think it was Melville’s first film. A Masterpiece.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "All of them! Le Samurai, Circle Rouge, Army of Shadows. Duxieme Souffle is probably the best heist movie ever made. Army of Shadows the most realistic film about the French resistance. You could start with The Silence of the Ocean. B&W. Basically shot in one room with three characters. I think it was Melville’s first film. A Masterpiece."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/jean-pierre-melville/#post-215767",
+    "scraped_at": "2026-01-15T13:16:01.979398+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/jean-pierre-melville/#post-215767",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "26158c9d64aab82f5efee4026c9ca17123fb991c47a111fdee7f9cedf724c825",
+    "parser_version": "bbpress-v2"
+  }
+}

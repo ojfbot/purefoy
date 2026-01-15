@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "178002",
+    "forum_slug": "camera",
+    "topic_slug": "shot-design-in-prep",
+    "parent_post_id": "177736",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Mr. Deakins, have you ever worked with a director who went the Sidney Lumet route and did extensive blocking rehearsal with the cast in pre-production and then committed to that blocking for the shoot?",
+  "content_html": "<p>Mr. Deakins, have you ever worked with a director who went the Sidney Lumet route and did extensive blocking rehearsal with the cast in pre-production and then committed to that blocking for the shoot?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Mr. Deakins, have you ever worked with a director who went the Sidney Lumet route and did extensive blocking rehearsal with the cast in pre-production and then committed to that blocking for the shoot?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/",
+    "scraped_at": "2026-01-15T15:44:23.531337+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "35fd962b8690adf83a746011e6a94263983e07917486073e80c6d2e1c2d3d56c",
+    "parser_version": "bbpress-v2"
+  }
+}

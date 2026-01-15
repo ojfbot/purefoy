@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "217288",
+    "forum_slug": "set-talk",
+    "topic_slug": "misstakes"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "viktorenvall",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "“You learn from your mistakes”\nWhat is the most important mistake you have learned from in your work you think?",
+  "content_html": "<p>“You learn from your mistakes”</p>\n<p>What is the most important mistake you have learned from in your work you think?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "“You learn from your mistakes”"
+    },
+    {
+      "type": "paragraph",
+      "text": "What is the most important mistake you have learned from in your work you think?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/misstakes/",
+    "scraped_at": "2026-01-15T12:09:18.734272+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/misstakes/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "46d68f620fab8aac9c4458ca92864163c2a27b201c1945d52cd77f80a669d5cd",
+    "parser_version": "bbpress-v2"
+  }
+}

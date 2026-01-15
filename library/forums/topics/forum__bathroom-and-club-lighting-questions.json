@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/bathroom-and-club-lighting-questions/#post-215039",
+  "forum_slug": "forum",
+  "topic_slug": "bathroom-and-club-lighting-questions",
+  "title": "Bathroom and club lighting questions",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214943",
+    "214944",
+    "215039"
+  ],
+  "reply_tree": {
+    "post_id": "214943",
+    "post_type": "topic",
+    "author": "yannl",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214944",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215039",
+        "post_type": "reply",
+        "author": "yannl",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bathroom-and-club-lighting-questions/#post-215039",
+    "scraped_at": "2026-01-15T15:49:33.444444+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bathroom-and-club-lighting-questions/#post-215039",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "db99230384ac059ca548564749a394f3175799a618caf2e9ad63808ffcc4adae",
+    "parser_version": "bbpress-v2"
+  }
+}

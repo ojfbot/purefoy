@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "181221",
+    "forum_slug": "camera",
+    "topic_slug": "photography",
+    "parent_post_id": "178919",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I have used a Lumix. Why not? I don’t believe the ‘brilliance’ of your camera is as important as what you point it at. I like my Leica because it is a very simple camera with manual sttings and a prime lens. The lenses are great and the camera’s resolution is wonderful but that’s not the most important thing.",
+  "content_html": "<p>I have used a Lumix. Why not? I don’t believe the ‘brilliance’ of your camera is as important as what you point it at. I like my Leica because it is a very simple camera with manual sttings and a prime lens. The lenses are great and the camera’s resolution is wonderful but that’s not the most important thing.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I have used a Lumix. Why not? I don’t believe the ‘brilliance’ of your camera is as important as what you point it at. I like my Leica because it is a very simple camera with manual sttings and a prime lens. The lenses are great and the camera’s resolution is wonderful but that’s not the most important thing."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/photography/#post-181221",
+    "scraped_at": "2026-01-15T15:44:07.454879+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/photography/#post-181221",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "244c9f6a15b13deefbdde0490f3fe56a4035f78b3bf7e1718156c9c4bc4402ba",
+    "parser_version": "bbpress-v2"
+  }
+}

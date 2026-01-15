@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "219869",
+    "forum_slug": "forum",
+    "topic_slug": "reflected-light-and-inverse-square-law",
+    "parent_post_id": "219868",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A “perfect” theoretical mirror allows you to increase the distance the light travels and thus get a slower fall-off near the subject.\nBut nothing in life is perfect, if the mirror is dusty and some light is bounced off of the dust, then that light in essence “originates” from that point and the fall-off rate is calculated from there.  So what results is a mix of light, some from the original source reflected off of the clean parts of the mirror, and other light reflected off of the dust of the mirror. I suspect that the resulting fall-off rate is also a mix.\nIt’s a similar issue to the sun shining through a dusty window, some rays have long fall-off rate while others have a faster rate starting from the window as the source, not the sun as the source, so it’s sort of a mix. At least, that’s my theory…",
+  "content_html": "<p>A “perfect” theoretical mirror allows you to increase the distance the light travels and thus get a slower fall-off near the subject.</p>\n<p>But nothing in life is perfect, if the mirror is dusty and some light is bounced off of the dust, then that light in essence “originates” from that point and the fall-off rate is calculated from there.  So what results is a mix of light, some from the original source reflected off of the clean parts of the mirror, and other light reflected off of the dust of the mirror. I suspect that the resulting fall-off rate is also a mix.</p>\n<p>It’s a similar issue to the sun shining through a dusty window, some rays have long fall-off rate while others have a faster rate starting from the window as the source, not the sun as the source, so it’s sort of a mix. At least, that’s my theory…</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A “perfect” theoretical mirror allows you to increase the distance the light travels and thus get a slower fall-off near the subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "But nothing in life is perfect, if the mirror is dusty and some light is bounced off of the dust, then that light in essence “originates” from that point and the fall-off rate is calculated from there.  So what results is a mix of light, some from the original source reflected off of the clean parts of the mirror, and other light reflected off of the dust of the mirror. I suspect that the resulting fall-off rate is also a mix."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s a similar issue to the sun shining through a dusty window, some rays have long fall-off rate while others have a faster rate starting from the window as the source, not the sun as the source, so it’s sort of a mix. At least, that’s my theory…"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflected-light-and-inverse-square-law/#post-219976",
+    "scraped_at": "2026-01-15T14:13:39.457701+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflected-light-and-inverse-square-law/#post-219976",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b1daab9d7120765629363b6f7a5875def62b47f79b1550e4fdc41ffa286d4f64",
+    "parser_version": "bbpress-v2"
+  }
+}

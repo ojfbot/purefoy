@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/how-to-be-a-qualified-cinematographer/#post-215614",
+  "forum_slug": "team-deakins",
+  "topic_slug": "how-to-be-a-qualified-cinematographer",
+  "title": "How to be a qualified cinematographer",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215193",
+    "215196"
+  ],
+  "reply_tree": {
+    "post_id": "215193",
+    "post_type": "topic",
+    "author": "JIAN0816",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215196",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-be-a-qualified-cinematographer/#post-215614",
+    "scraped_at": "2026-01-15T13:16:29.149680+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-be-a-qualified-cinematographer/#post-215614",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "437ba1168e407186987b2bdd0c85ec88a78b7031c84984222cbab3aa7caef05c",
+    "parser_version": "bbpress-v2"
+  }
+}

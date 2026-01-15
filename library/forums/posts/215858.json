@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "215858",
+    "forum_slug": "camera",
+    "topic_slug": "high-iso-for-shooting-daylight-exterior",
+    "parent_post_id": "215856",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This is only valid when shooting raw, not when shooting a compressed codec.\nYou can do that, it will distribute more of the overall dynamic range to the highlights.\nPersonally I find it mostly unnecessary and stick to base ISO’s and expose from there.\nI do often lower ISO in low light though to distribute more dynamic range to the shadows.",
+  "content_html": "<p>This is only valid when shooting raw, not when shooting a compressed codec.</p>\n<p>You can do that, it will distribute more of the overall dynamic range to the highlights.</p>\n<p>Personally I find it mostly unnecessary and stick to base ISO’s and expose from there.</p>\n<p>I do often lower ISO in low light though to distribute more dynamic range to the shadows.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This is only valid when shooting raw, not when shooting a compressed codec."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can do that, it will distribute more of the overall dynamic range to the highlights."
+    },
+    {
+      "type": "paragraph",
+      "text": "Personally I find it mostly unnecessary and stick to base ISO’s and expose from there."
+    },
+    {
+      "type": "paragraph",
+      "text": "I do often lower ISO in low light though to distribute more dynamic range to the shadows."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/high-iso-for-shooting-daylight-exterior/",
+    "scraped_at": "2026-01-15T15:20:21.251086+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/high-iso-for-shooting-daylight-exterior/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9f6c2da142813ea95ee8b2946a2587522b90983f5e18084c1e5c2bc93e9588d9",
+    "parser_version": "bbpress-v2"
+  }
+}

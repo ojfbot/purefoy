@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "178777",
+    "forum_slug": "film-talk",
+    "topic_slug": "sky-shots-in-sicario",
+    "parent_post_id": "178126",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger you mentioned you and Denis discussed  the sky being empty and not very present in the imagery. I would like to know what do you mean sky being empty. Do you mean plain white sky or blue sky?",
+  "content_html": "<p>Dear master Roger you mentioned you and Denis discussed  the sky being empty and not very present in the imagery. I would like to know what do you mean sky being empty. Do you mean plain white sky or blue sky?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger you mentioned you and Denis discussed  the sky being empty and not very present in the imagery. I would like to know what do you mean sky being empty. Do you mean plain white sky or blue sky?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sky-shots-in-sicario/#post-178901",
+    "scraped_at": "2026-01-15T14:33:18.881541+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sky-shots-in-sicario/#post-178901",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "433d60c601c24f47f0eb3687bfc35648b0bb559b56f7847833ef2c7fd20c0b03",
+    "parser_version": "bbpress-v2"
+  }
+}

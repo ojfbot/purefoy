@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/being-a-filmmaker/",
+  "forum_slug": "set-talk",
+  "topic_slug": "being-a-filmmaker",
+  "title": "being a filmmaker",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217285"
+  ],
+  "reply_tree": {
+    "post_id": "217285",
+    "post_type": "topic",
+    "author": "viktorenvall",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/being-a-filmmaker/",
+    "scraped_at": "2026-01-15T12:09:27.347339+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/being-a-filmmaker/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "44bef1d0ef6d72b9eb6a86ab52c8a8b268bfc31e756df804d5bcf6f8730c68a5",
+    "parser_version": "bbpress-v2"
+  }
+}

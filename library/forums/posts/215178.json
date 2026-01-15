@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215178",
+    "forum_slug": "camera",
+    "topic_slug": "optical-viewfinder",
+    "parent_post_id": "215171",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gazoo_global",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger,\nDo you find that working through an optical viewfinder changes the way you light and shoot a scene? Since it’s showing you what’s in front of you in a naturalistic way.",
+  "content_html": "<p>Roger,</p>\n<p>Do you find that working through an optical viewfinder changes the way you light and shoot a scene? Since it’s showing you what’s in front of you in a naturalistic way.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you find that working through an optical viewfinder changes the way you light and shoot a scene? Since it’s showing you what’s in front of you in a naturalistic way."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/optical-viewfinder/#post-215178",
+    "scraped_at": "2026-01-15T15:23:07.022352+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/optical-viewfinder/#post-215178",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "840df661afb4be8284b3c98a49ce2455504f893c63ddef9eae1f74e0decc9b5e",
+    "parser_version": "bbpress-v2"
+  }
+}

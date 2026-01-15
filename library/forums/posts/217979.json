@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "217979",
+    "forum_slug": "forum",
+    "topic_slug": "creating-natural-looking-window-light-after-sunset",
+    "parent_post_id": "217965",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "how can I make the windows glow – look soft and natural, not overexposed – while still having enough light inside to properly expose the scene?\nYou can also use haze to raise the shadow levels and have the windows ‘glow’.",
+  "content_html": "<blockquote><p>how can I make the windows glow – look soft and natural, not overexposed – while still having enough light inside to properly expose the scene?</p></blockquote>\n<p>You can also use haze to raise the shadow levels and have the windows ‘glow’.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "how can I make the windows glow – look soft and natural, not overexposed – while still having enough light inside to properly expose the scene?"
+    },
+    {
+      "type": "paragraph",
+      "text": "how can I make the windows glow – look soft and natural, not overexposed – while still having enough light inside to properly expose the scene?"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use haze to raise the shadow levels and have the windows ‘glow’."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "how can I make the windows glow – look soft and natural, not overexposed – while still having enough light inside to properly expose the scene?"
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/creating-natural-looking-window-light-after-sunset/#post-218018",
+    "scraped_at": "2026-01-15T15:19:45.501319+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-natural-looking-window-light-after-sunset/#post-218018",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6e0f58fca936438e8a5a160e8b3d9ed3ad4c183d6caf387f1f9e36ce64547963",
+    "parser_version": "bbpress-v2"
+  }
+}

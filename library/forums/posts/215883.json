@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "215883",
+    "forum_slug": "forum",
+    "topic_slug": "desert-chase-at-dawn-scene-in-no-country-for-old-men",
+    "parent_post_id": "215246",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Esteban Sandoz",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Roger Deakins,\nMy name is Esteban Sandoz and I am a cinema student at IAD (Belgium) in camera and lightning department.\nFor my 3rd year of bachelor’s degree I am doing a thesis on lights at dusk and what they imply when it comes to filming them during a shoot.\nI am therefore writing to you to know your point of view as a cinematographer, in particular by making a link with this magnificent scene in No Country for Old Men, during dawn. I read your explanations about the 7x18Kw but I was wondering how did you go about shooting all these shots in real dawn?\nWhile waiting for your response, I send you my best regards.",
+  "content_html": "<p>Hello Roger Deakins,</p>\n<p>My name is Esteban Sandoz and I am a cinema student at IAD (Belgium) in camera and lightning department.</p>\n<p>For my 3rd year of bachelor’s degree I am doing a thesis on lights at dusk and what they imply when it comes to filming them during a shoot.</p>\n<p>I am therefore writing to you to know your point of view as a cinematographer, in particular by making a link with this magnificent scene in No Country for Old Men, during dawn. I read your explanations about the 7x18Kw but I was wondering how did you go about shooting all these shots in real dawn?</p>\n<p>While waiting for your response, I send you my best regards.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Roger Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "My name is Esteban Sandoz and I am a cinema student at IAD (Belgium) in camera and lightning department."
+    },
+    {
+      "type": "paragraph",
+      "text": "For my 3rd year of bachelor’s degree I am doing a thesis on lights at dusk and what they imply when it comes to filming them during a shoot."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am therefore writing to you to know your point of view as a cinematographer, in particular by making a link with this magnificent scene in No Country for Old Men, during dawn. I read your explanations about the 7x18Kw but I was wondering how did you go about shooting all these shots in real dawn?"
+    },
+    {
+      "type": "paragraph",
+      "text": "While waiting for your response, I send you my best regards."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/desert-chase-at-dawn-scene-in-no-country-for-old-men/#post-215883",
+    "scraped_at": "2026-01-15T15:43:44.761726+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/desert-chase-at-dawn-scene-in-no-country-for-old-men/#post-215883",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b3ef60a67fd9d156eb3ad3fc230f15cb43fbe1bf53d21a6a53ebbeb5dcba3bad",
+    "parser_version": "bbpress-v2"
+  }
+}

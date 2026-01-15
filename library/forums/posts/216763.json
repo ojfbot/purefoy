@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "216763",
+    "forum_slug": "forum",
+    "topic_slug": "the-marvelous-mrs-maisel-stage-lights",
+    "parent_post_id": "216760",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "In this angle you can see the Source-4 Leko follow spot with the 1/2 CTB on it and a dimmed PARCAN on the right side.",
+  "content_html": "<p>In this angle you can see the Source-4 Leko follow spot with the 1/2 CTB on it and a dimmed PARCAN on the right side.</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216763/lfm4ms7gve7ixp197y6zscapj86o02qe.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In this angle you can see the Source-4 Leko follow spot with the 1/2 CTB on it and a dimmed PARCAN on the right side."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216763/lfm4ms7gve7ixp197y6zscapj86o02qe.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-marvelous-mrs-maisel-stage-lights/#post-216767",
+    "scraped_at": "2026-01-15T15:22:58.010973+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-marvelous-mrs-maisel-stage-lights/#post-216767",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "716ab7891648b9790ae76a1e644031aceef8542cbc6b9ef0f4e5276c623b6455",
+    "parser_version": "bbpress-v2"
+  }
+}

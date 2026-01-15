@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/deep-stop-with-artificial-sunlight/#post-216695",
+  "forum_slug": "camera",
+  "topic_slug": "deep-stop-with-artificial-sunlight",
+  "title": "Deep stop with artificial sunlight",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216683",
+    "216695"
+  ],
+  "reply_tree": {
+    "post_id": "216683",
+    "post_type": "topic",
+    "author": "garmstro",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216695",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/deep-stop-with-artificial-sunlight/#post-216695",
+    "scraped_at": "2026-01-15T13:24:05.324028+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/deep-stop-with-artificial-sunlight/#post-216695",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5b86a81782cbc5172b6723e59f6972fd09a9bb6bb55699d802300b080a6de9aa",
+    "parser_version": "bbpress-v2"
+  }
+}

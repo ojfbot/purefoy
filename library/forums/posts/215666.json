@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215666",
+    "forum_slug": "camera",
+    "topic_slug": "exposure",
+    "parent_post_id": "215560",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Jump right in at full speed. That’s the only way to travel.",
+  "content_html": "<p>Jump right in at full speed. That’s the only way to travel.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Jump right in at full speed. That’s the only way to travel."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+    "scraped_at": "2026-01-15T15:20:45.307821+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9b377f36cb761b3da4e2484f5af7015485e1ace20afa26c1c58dd47e6b658ca7",
+    "parser_version": "bbpress-v2"
+  }
+}

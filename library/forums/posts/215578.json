@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "215578",
+    "forum_slug": "team-deakins",
+    "topic_slug": "new-youtube-video-mar-1"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Abraham",
+    "role": "Moderator"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello everyone,\nOn Friday, a new video will be uploaded to the Team Deakins Youtube channel. This will feature a conversation between Roger and James and a group of students from Yoobee College in New Zealand.\nWe hope you enjoy!",
+  "content_html": "<p>Hello everyone,</p>\n<p>On Friday, a new video will be uploaded to the Team Deakins Youtube channel. This will feature a conversation between Roger and James and a group of students from Yoobee College in New Zealand.</p>\n<p>We hope you enjoy!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello everyone,"
+    },
+    {
+      "type": "paragraph",
+      "text": "On Friday, a new video will be uploaded to the Team Deakins Youtube channel. This will feature a conversation between Roger and James and a group of students from Yoobee College in New Zealand."
+    },
+    {
+      "type": "paragraph",
+      "text": "We hope you enjoy!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/new-youtube-video-mar-1/",
+    "scraped_at": "2026-01-15T13:23:32.407143+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/new-youtube-video-mar-1/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1d46144ea2799169432c7d39f1c84624a66caaa849c20bec9e5f5e68efeec987",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/colored-light/#post-216427",
+  "forum_slug": "forum",
+  "topic_slug": "colored-light",
+  "title": "Colored light",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216423",
+    "216424",
+    "216426",
+    "216427"
+  ],
+  "reply_tree": {
+    "post_id": "216423",
+    "post_type": "topic",
+    "author": "caiyichenweg",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216424",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216426",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216427",
+        "post_type": "reply",
+        "author": "caiyichenweg",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/colored-light/#post-216427",
+    "scraped_at": "2026-01-15T15:25:07.253240+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/colored-light/#post-216427",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2f9387a54c6b9a5261fb8092e1876c9c8c87e0ec38bfe4f1ab5bd4a1d79c247c",
+    "parser_version": "bbpress-v2"
+  }
+}

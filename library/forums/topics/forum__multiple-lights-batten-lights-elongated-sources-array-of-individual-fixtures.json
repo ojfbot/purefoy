@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/multiple-lights-batten-lights-elongated-sources-array-of-individual-fixtures/#post-215762",
+  "forum_slug": "forum",
+  "topic_slug": "multiple-lights-batten-lights-elongated-sources-array-of-individual-fixtures",
+  "title": "Multiple lights, Batten Lights, elongated sources, array of individual fixtures",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215761",
+    "215762"
+  ],
+  "reply_tree": {
+    "post_id": "215761",
+    "post_type": "topic",
+    "author": "Julius",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215762",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/multiple-lights-batten-lights-elongated-sources-array-of-individual-fixtures/#post-215762",
+    "scraped_at": "2026-01-15T15:44:44.981065+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/multiple-lights-batten-lights-elongated-sources-array-of-individual-fixtures/#post-215762",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "545e06bac3f4c5581d8dffb97793026ee354add3ac2de5e18900e03ce65182fd",
+    "parser_version": "bbpress-v2"
+  }
+}

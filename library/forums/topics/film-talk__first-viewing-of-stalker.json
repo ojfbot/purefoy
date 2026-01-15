@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/first-viewing-of-stalker/#post-220262",
+  "forum_slug": "film-talk",
+  "topic_slug": "first-viewing-of-stalker",
+  "title": "First viewing of Stalker",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220259",
+    "220262"
+  ],
+  "reply_tree": {
+    "post_id": "220259",
+    "post_type": "topic",
+    "author": "MNMike",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "220262",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/first-viewing-of-stalker/#post-220262",
+    "scraped_at": "2026-01-15T11:51:01.825648+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/first-viewing-of-stalker/#post-220262",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b18855998f45c771aeff081fa559e2bfb9f49a7418ff64bd89f3f0552e6ed95a",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "178220",
+    "forum_slug": "camera",
+    "topic_slug": "shot-design-in-prep",
+    "parent_post_id": "177736",
+    "parent_type": "topic",
+    "position": 11
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I have worked with storyboards but never with any extensive pre-vis, if you are referring to an animation of the action. We did do a pre-vis for the opening of ‘Skyfall’ as we were working with a second unit and wanted to be very specific as to what we wanted. Personally, I would just as soon discuss a script with a director in a more general way and leave specific shot choices for location scouting and blocking rehearsals.",
+  "content_html": "<p>I have worked with storyboards but never with any extensive pre-vis, if you are referring to an animation of the action. We did do a pre-vis for the opening of ‘Skyfall’ as we were working with a second unit and wanted to be very specific as to what we wanted. Personally, I would just as soon discuss a script with a director in a more general way and leave specific shot choices for location scouting and blocking rehearsals.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I have worked with storyboards but never with any extensive pre-vis, if you are referring to an animation of the action. We did do a pre-vis for the opening of ‘Skyfall’ as we were working with a second unit and wanted to be very specific as to what we wanted. Personally, I would just as soon discuss a script with a director in a more general way and leave specific shot choices for location scouting and blocking rehearsals."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/",
+    "scraped_at": "2026-01-15T15:44:23.531879+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9e01bf6463a701340860337e40fdc0123739cbd9d067ed91077bff6cf5581db1",
+    "parser_version": "bbpress-v2"
+  }
+}

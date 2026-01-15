@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/car-windshield-refection/#post-217338",
+  "forum_slug": "forum",
+  "topic_slug": "car-windshield-refection",
+  "title": "Car windshield refection",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217330",
+    "217332",
+    "217338"
+  ],
+  "reply_tree": {
+    "post_id": "217330",
+    "post_type": "topic",
+    "author": "Limbo",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "217332",
+        "post_type": "reply",
+        "author": "Limbo",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217338",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/car-windshield-refection/#post-217338",
+    "scraped_at": "2026-01-15T15:21:15.776206+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/car-windshield-refection/#post-217338",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1f1dea2d745d3f09fbee43a5b78cdd80933d5194803a048afce540b15bccf9ec",
+    "parser_version": "bbpress-v2"
+  }
+}

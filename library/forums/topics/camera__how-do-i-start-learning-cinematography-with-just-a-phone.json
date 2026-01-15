@@ -1,0 +1,145 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/how-do-i-start-learning-cinematography-with-just-a-phone/#post-218401",
+  "forum_slug": "camera",
+  "topic_slug": "how-do-i-start-learning-cinematography-with-just-a-phone",
+  "title": "How do I start learning cinematography with just a phone?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "218302",
+    "218303",
+    "218306",
+    "218307",
+    "218308",
+    "218309",
+    "218310",
+    "218311",
+    "218312",
+    "218315",
+    "218316",
+    "218345",
+    "218360",
+    "218361",
+    "218401"
+  ],
+  "reply_tree": {
+    "post_id": "218302",
+    "post_type": "topic",
+    "author": "Anxyk",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "218303",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218306",
+        "post_type": "reply",
+        "author": "Anxyk",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218307",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218308",
+        "post_type": "reply",
+        "author": "Anxyk",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218309",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218310",
+        "post_type": "reply",
+        "author": "Anxyk",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218311",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218312",
+        "post_type": "reply",
+        "author": "Anxyk",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218315",
+        "post_type": "reply",
+        "author": "CarlZand",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218316",
+        "post_type": "reply",
+        "author": "Anxyk",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218345",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218360",
+        "post_type": "reply",
+        "author": "giray",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218361",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218401",
+        "post_type": "reply",
+        "author": "M Ryan",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 14,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-do-i-start-learning-cinematography-with-just-a-phone/#post-218401",
+    "scraped_at": "2026-01-15T12:48:51.000292+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-do-i-start-learning-cinematography-with-just-a-phone/#post-218401",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "312cadcb90998718d1ace983505f3a8406b1cc1a8d9f86cc3089068c38d711be",
+    "parser_version": "bbpress-v2"
+  }
+}

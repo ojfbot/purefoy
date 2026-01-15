@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215334",
+    "forum_slug": "camera",
+    "topic_slug": "zoom-in-vs-dolly-pushing",
+    "parent_post_id": "215307",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think zooms feel less natural because our eyes can’t zoom. We need to move physically closer towards objects for them to become larger, which is what the push in does.",
+  "content_html": "<p>I think zooms feel less natural because our eyes can’t zoom. We need to move physically closer towards objects for them to become larger, which is what the push in does.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think zooms feel less natural because our eyes can’t zoom. We need to move physically closer towards objects for them to become larger, which is what the push in does."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+    "scraped_at": "2026-01-15T15:22:12.538096+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/zoom-in-vs-dolly-pushing/#post-215365",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "59ac931169ca45305db408cd70742fdc4e269ad728d30fe1110e1528fe96ad8c",
+    "parser_version": "bbpress-v2"
+  }
+}

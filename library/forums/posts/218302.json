@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "post_id": "218302",
+    "forum_slug": "camera",
+    "topic_slug": "how-do-i-start-learning-cinematography-with-just-a-phone"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Anxyk",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi everyone,\nI’m really happy to be here and to have the chance to ask questions to people with experience.\nI’m completely new to cinematography and just starting out. At the moment, the only equipment I have is my phone.\nSo my main question is: how do I start learning to shoot using just a phone? I really want to learn but I’m not sure how to approach it.\nWhat should I focus on, what should I pay attention to, and are there any specific exercises or tips you would recommend?\nAlso, I have a second question: what is cinematography really about? Is it mostly about lighting, emotions, or something else?\nTo add a bit of context, some of my favorite films for cinematography are both parts of Dune, Dunkirk, and No Country for Old Men.\nEnglish is not my first language, so I hope everything is clear.\nLastly, I wasn’t exactly sure which category to post this in, so I chose this one because it seemed the best fit for my questions.\nThanks so much for any advice!",
+  "content_html": "<p>Hi everyone,</p>\n<p>I’m really happy to be here and to have the chance to ask questions to people with experience.</p>\n<p>I’m completely new to cinematography and just starting out. At the moment, the only equipment I have is my phone.</p>\n<p>So my main question is: how do I start learning to shoot using just a phone? I really want to learn but I’m not sure how to approach it.</p>\n<p>What should I focus on, what should I pay attention to, and are there any specific exercises or tips you would recommend?</p>\n<p>Also, I have a second question: what is cinematography really about? Is it mostly about lighting, emotions, or something else?</p>\n<p>To add a bit of context, some of my favorite films for cinematography are both parts of Dune, Dunkirk, and No Country for Old Men.</p>\n<p>English is not my first language, so I hope everything is clear.</p>\n<p>Lastly, I wasn’t exactly sure which category to post this in, so I chose this one because it seemed the best fit for my questions.</p>\n<p>Thanks so much for any advice!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi everyone,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m really happy to be here and to have the chance to ask questions to people with experience."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m completely new to cinematography and just starting out. At the moment, the only equipment I have is my phone."
+    },
+    {
+      "type": "paragraph",
+      "text": "So my main question is: how do I start learning to shoot using just a phone? I really want to learn but I’m not sure how to approach it."
+    },
+    {
+      "type": "paragraph",
+      "text": "What should I focus on, what should I pay attention to, and are there any specific exercises or tips you would recommend?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, I have a second question: what is cinematography really about? Is it mostly about lighting, emotions, or something else?"
+    },
+    {
+      "type": "paragraph",
+      "text": "To add a bit of context, some of my favorite films for cinematography are both parts of Dune, Dunkirk, and No Country for Old Men."
+    },
+    {
+      "type": "paragraph",
+      "text": "English is not my first language, so I hope everything is clear."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lastly, I wasn’t exactly sure which category to post this in, so I chose this one because it seemed the best fit for my questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks so much for any advice!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-do-i-start-learning-cinematography-with-just-a-phone/#post-218401",
+    "scraped_at": "2026-01-15T12:48:50.976462+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-do-i-start-learning-cinematography-with-just-a-phone/#post-218401",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "faf6e60fc506041307be3dab2cce3b9d2de1b1d1c7cb4b40e5cc7c46a7bc0c1a",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215822",
+    "forum_slug": "forum",
+    "topic_slug": "how-can-i-light-like-this",
+    "parent_post_id": "215818",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "To get that effect you will need high wattage laser lights. As you know there are Health and Safety issues when using lasers, you will have to notify the Freeholder of the building that you are using lasers, they must also carry Public Liability insurance to cover the artistes and talent for injury.  BBC elstree studios use lasers on their Strickly come Dancing show but the audience are not allowed in during the show only during rehearsals. Live shows lasers are restricted. Be warned.",
+  "content_html": "<p>To get that effect you will need high wattage laser lights. As you know there are Health and Safety issues when using lasers, you will have to notify the Freeholder of the building that you are using lasers, they must also carry Public Liability insurance to cover the artistes and talent for injury.  BBC elstree studios use lasers on their Strickly come Dancing show but the audience are not allowed in during the show only during rehearsals. Live shows lasers are restricted. Be warned.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "To get that effect you will need high wattage laser lights. As you know there are Health and Safety issues when using lasers, you will have to notify the Freeholder of the building that you are using lasers, they must also carry Public Liability insurance to cover the artistes and talent for injury.  BBC elstree studios use lasers on their Strickly come Dancing show but the audience are not allowed in during the show only during rehearsals. Live shows lasers are restricted. Be warned."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-can-i-light-like-this/#post-215842",
+    "scraped_at": "2026-01-15T15:44:13.053882+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-can-i-light-like-this/#post-215842",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b2ef834f15ac4b6d08c5bef7a08567bd39f1924d1b957b00b740e278951ef64a",
+    "parser_version": "bbpress-v2"
+  }
+}

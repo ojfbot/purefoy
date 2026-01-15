@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/lighting-approach-for-daytime-interior-in-a-high-rise/#post-215484",
+  "forum_slug": "forum",
+  "topic_slug": "lighting-approach-for-daytime-interior-in-a-high-rise",
+  "title": "Lighting Approach for Daytime Interior in a High Rise",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215472",
+    "215477",
+    "215483",
+    "215484"
+  ],
+  "reply_tree": {
+    "post_id": "215472",
+    "post_type": "topic",
+    "author": "ericwann",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215477",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215483",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215484",
+        "post_type": "reply",
+        "author": "ericwann",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-approach-for-daytime-interior-in-a-high-rise/#post-215484",
+    "scraped_at": "2026-01-15T15:47:02.990386+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-approach-for-daytime-interior-in-a-high-rise/#post-215484",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2c44af350ff271b370780dcc98c3821da756c6dd010612be7e4ec8a96b31aa58",
+    "parser_version": "bbpress-v2"
+  }
+}

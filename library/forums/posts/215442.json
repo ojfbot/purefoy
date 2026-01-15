@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215442",
+    "forum_slug": "post",
+    "topic_slug": "semi-transparent-curtain-in-front-of-greenscreen",
+    "parent_post_id": "215437",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "you can hire backdrops quite cheaply or you can print out backdrops yourself in sections and pasting them on a board, you will see the joins. Net curtains are also cheap assume you want the curtains to be split in the middle to reveal a background. You can also project a backdrop using a digital projector so not sure why this scene difficult to achieve. There’s are many ways you can go, it is very cheap to achieve .",
+  "content_html": "<p><em>you can hire backdrops quite cheaply or you can print out backdrops yourself in sections and pasting them on a board, you will see the joins. Net curtains are also cheap assume you want the curtains to be split in the middle to reveal a background. You can also project a backdrop using a digital projector so not sure why this scene difficult to achieve. There’s are many ways you can go, it is very cheap to achieve .</em></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "you can hire backdrops quite cheaply or you can print out backdrops yourself in sections and pasting them on a board, you will see the joins. Net curtains are also cheap assume you want the curtains to be split in the middle to reveal a background. You can also project a backdrop using a digital projector so not sure why this scene difficult to achieve. There’s are many ways you can go, it is very cheap to achieve ."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/semi-transparent-curtain-in-front-of-greenscreen/#post-215463",
+    "scraped_at": "2026-01-15T13:05:59.935066+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/semi-transparent-curtain-in-front-of-greenscreen/#post-215463",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a3af8958d03501c6236efe373e16c8934016597b7cefaed0306315d89ee51f14",
+    "parser_version": "bbpress-v2"
+  }
+}

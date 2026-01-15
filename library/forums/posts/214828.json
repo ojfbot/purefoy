@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "214828",
+    "forum_slug": "camera",
+    "topic_slug": "alexa-studio"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Planet_Coast",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger,\nWhen you are setting up a shot on the Alexa Studio, do you let the mirror rotate or do you park the mirror and only rotate it during recording?\nI find the constant rotating shutter a bit distracting as my brain is used to film cameras where the mirror only rotates during recording. However, if I park the rotating shutter while setting up the shot, it could upset the other departments as they can’t see an image at video village.\nThanks!",
+  "content_html": "<p>Roger,</p>\n<p>When you are setting up a shot on the Alexa Studio, do you let the mirror rotate or do you park the mirror and only rotate it during recording?</p>\n<p>I find the constant rotating shutter a bit distracting as my brain is used to film cameras where the mirror only rotates during recording. However, if I park the rotating shutter while setting up the shot, it could upset the other departments as they can’t see an image at video village.</p>\n<p>Thanks!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you are setting up a shot on the Alexa Studio, do you let the mirror rotate or do you park the mirror and only rotate it during recording?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I find the constant rotating shutter a bit distracting as my brain is used to film cameras where the mirror only rotates during recording. However, if I park the rotating shutter while setting up the shot, it could upset the other departments as they can’t see an image at video village."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/alexa-studio/#post-214829",
+    "scraped_at": "2026-01-15T15:25:01.195715+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/alexa-studio/#post-214829",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7f10d2c3d6a8617a6ed1e9ed4b1347599fdf9f3437c4ff294f9534537ce01c63",
+    "parser_version": "bbpress-v2"
+  }
+}

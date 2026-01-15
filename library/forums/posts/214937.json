@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214937",
+    "forum_slug": "camera",
+    "topic_slug": "purpose-of-film-copies-release",
+    "parent_post_id": "214874",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "jeff791107",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi David,\nI’m appreciated your patient explanations and guidance.\nI am confused of what you said about the digital projector. Could you explain the theory of why the additive (RGB) color can increase saturation without decreasing brightness?",
+  "content_html": "<p>Hi David,</p>\n<p> I’m appreciated your patient explanations and guidance. </p>\n<p>I am confused of what you said about the digital projector. Could you explain the theory of why the additive (RGB) color can increase saturation without decreasing brightness?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi David,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m appreciated your patient explanations and guidance."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am confused of what you said about the digital projector. Could you explain the theory of why the additive (RGB) color can increase saturation without decreasing brightness?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/purpose-of-film-copies-release/#post-214938",
+    "scraped_at": "2026-01-15T15:24:28.029065+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/purpose-of-film-copies-release/#post-214938",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "67b5a1fe0694ffa5717a5faf73ff2119b68c9d1c7c1bd252b0884cd61ed65f15",
+    "parser_version": "bbpress-v2"
+  }
+}

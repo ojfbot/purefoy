@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215292",
+    "forum_slug": "camera",
+    "topic_slug": "lens-focal-lengths",
+    "parent_post_id": "215287",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "derekcooper",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Luca,\nI completely agree – was just curious if anyone knew. I am filling out some holes in my lens lineup and was looking at what Roger likes.\nDerek",
+  "content_html": "<p>Hi Luca,</p>\n<p>I completely agree – was just curious if anyone knew. I am filling out some holes in my lens lineup and was looking at what Roger likes.</p>\n<p>Derek</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Luca,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I completely agree – was just curious if anyone knew. I am filling out some holes in my lens lineup and was looking at what Roger likes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Derek"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lens-focal-lengths/#post-215292",
+    "scraped_at": "2026-01-15T15:22:31.387736+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lens-focal-lengths/#post-215292",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "665df0804dfe0c42be6942e7bafd426cf5b24eb5581581826d86830a8666a499",
+    "parser_version": "bbpress-v2"
+  }
+}

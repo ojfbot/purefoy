@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "215193",
+    "forum_slug": "team-deakins",
+    "topic_slug": "how-to-be-a-qualified-cinematographer"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "JIAN0816",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nI’m glad I found this website and have the opportunity to chat with you. I’m a student currently applying to film school, and I’ve already gained some experience in the student crew. However, I’m worried about how to transition from being a student to becoming a qualified cinematographer, as the scales of the two seem completely different. If possible, could you talk about how you made this transition?",
+  "content_html": "<p>Hi Roger,</p>\n<p>I’m glad I found this website and have the opportunity to chat with you. I’m a student currently applying to film school, and I’ve already gained some experience in the student crew. However, I’m worried about how to transition from being a student to becoming a qualified cinematographer, as the scales of the two seem completely different. If possible, could you talk about how you made this transition?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m glad I found this website and have the opportunity to chat with you. I’m a student currently applying to film school, and I’ve already gained some experience in the student crew. However, I’m worried about how to transition from being a student to becoming a qualified cinematographer, as the scales of the two seem completely different. If possible, could you talk about how you made this transition?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-be-a-qualified-cinematographer/#post-215614",
+    "scraped_at": "2026-01-15T13:16:29.136660+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-be-a-qualified-cinematographer/#post-215614",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b71e7dc35971c6bd647d85e4979b757ba6db58f3c8df0201fa5eb56a4a2c7962",
+    "parser_version": "bbpress-v2"
+  }
+}

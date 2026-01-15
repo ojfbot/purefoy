@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/looking-for-good-flashlight-recommendations-for-night-shoot/#post-215759",
+  "forum_slug": "forum",
+  "topic_slug": "looking-for-good-flashlight-recommendations-for-night-shoot",
+  "title": "Looking for good flashlight recommendations for night shoot",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215740",
+    "215757",
+    "215759"
+  ],
+  "reply_tree": {
+    "post_id": "215740",
+    "post_type": "topic",
+    "author": "chrismjones",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215757",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215759",
+        "post_type": "reply",
+        "author": "chrismjones",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/looking-for-good-flashlight-recommendations-for-night-shoot/#post-215759",
+    "scraped_at": "2026-01-15T15:44:50.876491+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/looking-for-good-flashlight-recommendations-for-night-shoot/#post-215759",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ba47a8fd0f40d5407a5dd98d36d58b5aea8660d35ad2dae156b5ea1124ac7cc9",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220942",
+    "forum_slug": "team-deakins",
+    "topic_slug": "reflections-new-book",
+    "parent_post_id": "217941",
+    "parent_type": "topic",
+    "position": 32
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "joshboelter",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I just ordered this book and am excited to read it. I love the Team Deakins podcasts; I always learn something new. If anyone here has recommendations for other books, please let me know! I’m a screenwriter, not a cinematographer, so a lot of the technical information goes over my head. Yet I know everything I learn about other departments will make me a better writer so I’d love to hear recommendations.",
+  "content_html": "<p>I just ordered this book and am excited to read it. I love the Team Deakins podcasts; I always learn something new. If anyone here has recommendations for other books, please let me know! I’m a screenwriter, not a cinematographer, so a lot of the technical information goes over my head. Yet I know everything I learn about other departments will make me a better writer so I’d love to hear recommendations.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I just ordered this book and am excited to read it. I love the Team Deakins podcasts; I always learn something new. If anyone here has recommendations for other books, please let me know! I’m a screenwriter, not a cinematographer, so a lot of the technical information goes over my head. Yet I know everything I learn about other departments will make me a better writer so I’d love to hear recommendations."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/3/",
+    "scraped_at": "2026-01-15T11:50:43.619913+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/3/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b906c47fda84254b51cfc676cfae958b0790243925b5ea922dce3c5a2ce1f5c9",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "214764",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 11
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Laurent",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "dmullenasc wrote:\nSome DPs will use 1/2 CTO to correct daylight windows to have less of a difference with tungsten practicals inside. There were also blue-dipped tungsten photoflood bulbs that were in the mid-4000s in Kelvin — today you could use an RGB LED bulb for some control or a daylight LED bulb if you didn’t want any warmth. Keep in mind that the blue of uncorrected daylight is often less saturated than when uncorrected HMIs are used for dim moonlight because daylight is brighter in exposure, which washes out some of the blue color. A bright uncorrected daytime window on 3200K film looks less blue than if you put ND1.2 gel on it, for example, and made it a darker window.\nThank you for your comment!\nThere are also (for example, from Aputure etc.) bulbs where you can completely control the color temperature.\nMany also say that RGB LED lamps are easier, what concerns the light tuning on the set. How do you work? RGB? 1/2 CTO?",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/cove-lightning/#post-214761\">dmullenasc wrote:</a></div>\n<p>Some DPs will use 1/2 CTO to correct daylight windows to have less of a difference with tungsten practicals inside. There were also blue-dipped tungsten photoflood bulbs that were in the mid-4000s in Kelvin — today you could use an RGB LED bulb for some control or a daylight LED bulb if you didn’t want any warmth. Keep in mind that the blue of uncorrected daylight is often less saturated than when uncorrected HMIs are used for dim moonlight because daylight is brighter in exposure, which washes out some of the blue color. A bright uncorrected daytime window on 3200K film looks less blue than if you put ND1.2 gel on it, for example, and made it a darker window.</p></blockquote>\n<p>Thank you for your comment!<br/>\nThere are also (for example, from Aputure etc.) bulbs where you can completely control the color temperature.<br/>\nMany also say that RGB LED lamps are easier, what concerns the light tuning on the set. How do you work? RGB? 1/2 CTO?</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "dmullenasc wrote:\nSome DPs will use 1/2 CTO to correct daylight windows to have less of a difference with tungsten practicals inside. There were also blue-dipped tungsten photoflood bulbs that were in the mid-4000s in Kelvin — today you could use an RGB LED bulb for some control or a daylight LED bulb if you didn’t want any warmth. Keep in mind that the blue of uncorrected daylight is often less saturated than when uncorrected HMIs are used for dim moonlight because daylight is brighter in exposure, which washes out some of the blue color. A bright uncorrected daytime window on 3200K film looks less blue than if you put ND1.2 gel on it, for example, and made it a darker window."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some DPs will use 1/2 CTO to correct daylight windows to have less of a difference with tungsten practicals inside. There were also blue-dipped tungsten photoflood bulbs that were in the mid-4000s in Kelvin — today you could use an RGB LED bulb for some control or a daylight LED bulb if you didn’t want any warmth. Keep in mind that the blue of uncorrected daylight is often less saturated than when uncorrected HMIs are used for dim moonlight because daylight is brighter in exposure, which washes out some of the blue color. A bright uncorrected daytime window on 3200K film looks less blue than if you put ND1.2 gel on it, for example, and made it a darker window."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for your comment!\nThere are also (for example, from Aputure etc.) bulbs where you can completely control the color temperature.\nMany also say that RGB LED lamps are easier, what concerns the light tuning on the set. How do you work? RGB? 1/2 CTO?"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "dmullenasc wrote:\nSome DPs will use 1/2 CTO to correct daylight windows to have less of a difference with tungsten practicals inside. There were also blue-dipped tungsten photoflood bulbs that were in the mid-4000s in Kelvin — today you could use an RGB LED bulb for some control or a daylight LED bulb if you didn’t want any warmth. Keep in mind that the blue of uncorrected daylight is often less saturated than when uncorrected HMIs are used for dim moonlight because daylight is brighter in exposure, which washes out some of the blue color. A bright uncorrected daytime window on 3200K film looks less blue than if you put ND1.2 gel on it, for example, and made it a darker window."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/cove-lightning/#post-214761",
+      "text": "dmullenasc wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+    "scraped_at": "2026-01-15T15:51:24.796731+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "747288fcabdc8099d3e8a8f0294f200c603a330ec50ea85374b33a2d67ce623f",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220614",
+    "forum_slug": "camera",
+    "topic_slug": "360-degree-swing-body-cam-rig",
+    "parent_post_id": "217428",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "So many ways to shoot these kinds of shots today but in 1966, what James Wong Howe achieved in Seconds was quite striking. The why of it is beside the point.",
+  "content_html": "<p>So many ways to shoot these kinds of shots today but in 1966, what James Wong Howe achieved in Seconds was quite striking. The why of it is beside the point.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "So many ways to shoot these kinds of shots today but in 1966, what James Wong Howe achieved in Seconds was quite striking. The why of it is beside the point."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/360-degree-swing-body-cam-rig/#post-220644",
+    "scraped_at": "2026-01-15T12:09:03.994163+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/360-degree-swing-body-cam-rig/#post-220644",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a6c7423417b92aac71afd4f21ab968f0a3a30ad93666225253b15b786d3ead21",
+    "parser_version": "bbpress-v2"
+  }
+}

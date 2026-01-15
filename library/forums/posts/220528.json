@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220528",
+    "forum_slug": "forum",
+    "topic_slug": "dark",
+    "parent_post_id": "220409",
+    "parent_type": "topic",
+    "position": 12
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "docheck",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This sounds like a fascinating concept. Mihai Vig is a brilliant composer, especially when it comes to crafting atmosphere. For instance, in The Turin Horse, the visual palette wasn’t particularly varied, yet through sound and music, he managed to create an intensely difficult and oppressive atmosphere. It will be truly compelling to see how a genius concept like this is answered by Roger.",
+  "content_html": "<p>This sounds like a fascinating concept. Mihai Vig is a brilliant composer, especially when it comes to crafting atmosphere. For instance, in The Turin Horse, the visual palette wasn’t particularly varied, yet through sound and music, he managed to create an intensely difficult and oppressive atmosphere. It will be truly compelling to see how a genius concept like this is answered by Roger.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This sounds like a fascinating concept. Mihai Vig is a brilliant composer, especially when it comes to crafting atmosphere. For instance, in The Turin Horse, the visual palette wasn’t particularly varied, yet through sound and music, he managed to create an intensely difficult and oppressive atmosphere. It will be truly compelling to see how a genius concept like this is answered by Roger."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dark/#post-220680",
+    "scraped_at": "2026-01-15T13:16:05.349676+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dark/#post-220680",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ef6a7dce6469c7edf7e397b4690c79107cf5b0f9df3c399790446b43e03679b6",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "216632",
+    "forum_slug": "forum",
+    "topic_slug": "interior-night-time-lapse"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger a story happened in night time. A female character waiting for boy friend to celebrate birthday party. She doesn’t know he won’t come. Because something horrible happened for him. But she is waiting eagerly. Time fly. How to show this time passing in her world. I am trying to figure out how to do time flying in her world. Could you suggest any idea .",
+  "content_html": "<p>Dear master Roger a story happened in night time. A female character waiting for boy friend to celebrate birthday party. She doesn’t know he won’t come. Because something horrible happened for him. But she is waiting eagerly. Time fly. How to show this time passing in her world. I am trying to figure out how to do time flying in her world. Could you suggest any idea .</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger a story happened in night time. A female character waiting for boy friend to celebrate birthday party. She doesn’t know he won’t come. Because something horrible happened for him. But she is waiting eagerly. Time fly. How to show this time passing in her world. I am trying to figure out how to do time flying in her world. Could you suggest any idea ."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/interior-night-time-lapse/#post-216688",
+    "scraped_at": "2026-01-15T15:23:28.116896+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/interior-night-time-lapse/#post-216688",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ed9b7a7fc1488f72dbc25eddf0bc40eb175d28b8fdacc27de0efe90ef66558a1",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "175587",
+    "forum_slug": "website-news",
+    "topic_slug": "recovering-the-old-forums-need-help",
+    "parent_post_id": "174482",
+    "parent_type": "topic",
+    "position": 12
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks to everyone who makes this site useful. And I for one would like to express a special thanks to James for both the site and the podcast. It obviously does not register with some people just how much work my wife puts into each.\nInstead of criticizing James and myself for, supposedly, losing interest in the site perhaps you could save it for the person who hacked us. They are, after all, the reason the old posts no longer exist.  If we had the technology and, quite frankly, the time to retrieve them we surely would.",
+  "content_html": "<p>Thanks to everyone who makes this site useful. And I for one would like to express a special thanks to James for both the site and the podcast. It obviously does not register with some people just how much work my wife puts into each.</p>\n<p>Instead of criticizing James and myself for, supposedly, losing interest in the site perhaps you could save it for the person who hacked us. They are, after all, the reason the old posts no longer exist.  If we had the technology and, quite frankly, the time to retrieve them we surely would.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks to everyone who makes this site useful. And I for one would like to express a special thanks to James for both the site and the podcast. It obviously does not register with some people just how much work my wife puts into each."
+    },
+    {
+      "type": "paragraph",
+      "text": "Instead of criticizing James and myself for, supposedly, losing interest in the site perhaps you could save it for the person who hacked us. They are, after all, the reason the old posts no longer exist.  If we had the technology and, quite frankly, the time to retrieve them we surely would."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/",
+    "scraped_at": "2026-01-15T12:42:24.679013+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0a71c42690647c2f0f65c343adf1113769ab5e7712dd20c8fb0ade07dbaa2f67",
+    "parser_version": "bbpress-v2"
+  }
+}

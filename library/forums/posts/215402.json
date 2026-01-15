@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215402",
+    "forum_slug": "forum",
+    "topic_slug": "merry-christmas",
+    "parent_post_id": "215399",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Merry Christmas Mr. Deakins, Mrs. James and to all the forum members!\n❤",
+  "content_html": "<p>Merry Christmas Mr. Deakins, Mrs. James and to all the forum members!<br/>\n❤</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Merry Christmas Mr. Deakins, Mrs. James and to all the forum members!\n❤"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/merry-christmas/#post-215402",
+    "scraped_at": "2026-01-15T15:47:26.666369+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/merry-christmas/#post-215402",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5699e5a3c136d6ce1011e733851bedee3b8e4f70cedeb276c27cce9e5ca10737",
+    "parser_version": "bbpress-v2"
+  }
+}

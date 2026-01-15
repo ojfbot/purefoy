@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "post_id": "220410",
+    "forum_slug": "forum",
+    "topic_slug": "dark",
+    "parent_post_id": "220409",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yakov10 wrote:\nHow to remove the darkness?\nWith some kind of…uh…light?\nLame jokes apart (but i suppose you’ll have to use some kind of light to make the abstract texture noticeable), it seems a very interesting project. I’m curious to know what Roger would do in this case.\nBut if i didn’t misunderstand what you were describing, isn’t it a bit risky to get so close to complete darkness for so much time? I mean, if one will watch it not on a perfectly calibrated monitor but on a tv or a pc with a slightly lowered brightness or, even worst, on a tablet with a variable brightness, would he still be able to discern something in the almost complete black of the screen?",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/dark/\">Yakov10 wrote:</a></div>\n<p> How to remove the darkness?</p></blockquote>\n<p>With some kind of…uh…light?<br/>\nLame jokes apart (but i suppose you’ll have to use some kind of light to make the abstract texture noticeable), it seems a very interesting project. I’m curious to know what Roger would do in this case.</p>\n<p>But if i didn’t misunderstand what you were describing, isn’t it a bit risky to get so close to complete darkness for so much time? I mean, if one will watch it not on a perfectly calibrated monitor but on a tv or a pc with a slightly lowered brightness or, even worst, on a tablet with a variable brightness, would he still be able to discern something in the almost complete black of the screen?</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Yakov10 wrote:\nHow to remove the darkness?"
+    },
+    {
+      "type": "paragraph",
+      "text": "How to remove the darkness?"
+    },
+    {
+      "type": "paragraph",
+      "text": "With some kind of…uh…light?\nLame jokes apart (but i suppose you’ll have to use some kind of light to make the abstract texture noticeable), it seems a very interesting project. I’m curious to know what Roger would do in this case."
+    },
+    {
+      "type": "paragraph",
+      "text": "But if i didn’t misunderstand what you were describing, isn’t it a bit risky to get so close to complete darkness for so much time? I mean, if one will watch it not on a perfectly calibrated monitor but on a tv or a pc with a slightly lowered brightness or, even worst, on a tablet with a variable brightness, would he still be able to discern something in the almost complete black of the screen?"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Yakov10 wrote:\nHow to remove the darkness?"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/dark/",
+      "text": "Yakov10 wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/dark/#post-220680",
+    "scraped_at": "2026-01-15T13:16:05.347585+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/dark/#post-220680",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3fc31d7c1af7871f3a7f6599ac79a8f5d1c11a16d0b59a920ae60d78a15b2832",
+    "parser_version": "bbpress-v2"
+  }
+}

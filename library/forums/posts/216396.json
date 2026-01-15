@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216396",
+    "forum_slug": "camera",
+    "topic_slug": "on-set-monitor-callibration-vs-viewing-environment",
+    "parent_post_id": "216388",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A monitor is just a guide, an aid to the discussion between a cinematographer and director. In terms of what I do technically, it is only a reassurance. It wouldn’t make any sense to adjust its brightness or color to match its surroundings.",
+  "content_html": "<p>A monitor is just a guide, an aid to the discussion between a cinematographer and director. In terms of what I do technically, it is only a reassurance. It wouldn’t make any sense to adjust its brightness or color to match its surroundings.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A monitor is just a guide, an aid to the discussion between a cinematographer and director. In terms of what I do technically, it is only a reassurance. It wouldn’t make any sense to adjust its brightness or color to match its surroundings."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/on-set-monitor-callibration-vs-viewing-environment/#post-216418",
+    "scraped_at": "2026-01-15T14:13:20.615202+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/on-set-monitor-callibration-vs-viewing-environment/#post-216418",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0b485ad0f4398e5eaec10b965352d997bc784140372acd35027a07e79d611027",
+    "parser_version": "bbpress-v2"
+  }
+}

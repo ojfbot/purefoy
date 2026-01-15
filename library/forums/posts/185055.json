@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "185055",
+    "forum_slug": "website-news",
+    "topic_slug": "recovering-the-old-forums-need-help",
+    "parent_post_id": "174482",
+    "parent_type": "topic",
+    "position": 27
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If I can write something, I understand what Vaniyann says in terms of a giant source of pieces of information.\nAs an assiduous frequenter of the forum (I check at least 2 times a day if there are new posts for 4 years, I would like to create many for the numerous questions and for the thirst for interest and admiration I have towards Mr. Deakins but I limit myself) I am still shaken by the idea that all those years of interesting questions and just as many interesting answers have vanished.\nHowever, I understand that it is a delicate and complicated matter and that Mr. Deakins and Ms. James are obviously very busy given their prestige (due to their talent and dedication to work and disseminating information to us all) so we can only hope.\nI “know” Vaniyann as a user, since I have often read posts by him on this forum and he often specified that some messages from him could be misunderstood since English is not his native language (like me after all). He is not a disrespectful user, he always thanked and always addressed Mr. Deakins as a teacher.\nWe all love what Mr. Deakins and Mrs. James have done, are doing, and will do and we will never dream of being disrespectful to a figure who is almost a god to us.\nWe just have to hope for the recovery of the whole forum or otherwise enjoy what has been through the years and maybe generate new potentially interesting content on this fantastic platform.\nI wish you a peaceful day everyone.\nMax.",
+  "content_html": "<p>If I can write something, I understand what Vaniyann says in terms of a giant source of pieces of information.<br/>\nAs an assiduous frequenter of the forum (I check at least 2 times a day if there are new posts for 4 years, I would like to create many for the numerous questions and for the thirst for interest and admiration I have towards Mr. Deakins but I limit myself) I am still shaken by the idea that all those years of interesting questions and just as many interesting answers have vanished.</p>\n<p>However, I understand that it is a delicate and complicated matter and that Mr. Deakins and Ms. James are obviously very busy given their prestige (due to their talent and dedication to work and disseminating information to us all) so we can only hope.<br/>\nI “know” Vaniyann as a user, since I have often read posts by him on this forum and he often specified that some messages from him could be misunderstood since English is not his native language (like me after all). He is not a disrespectful user, he always thanked and always addressed Mr. Deakins as a teacher.</p>\n<p>We all love what Mr. Deakins and Mrs. James have done, are doing, and will do and we will never dream of being disrespectful to a figure who is almost a god to us.</p>\n<p>We just have to hope for the recovery of the whole forum or otherwise enjoy what has been through the years and maybe generate new potentially interesting content on this fantastic platform.</p>\n<p>I wish you a peaceful day everyone.<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If I can write something, I understand what Vaniyann says in terms of a giant source of pieces of information.\nAs an assiduous frequenter of the forum (I check at least 2 times a day if there are new posts for 4 years, I would like to create many for the numerous questions and for the thirst for interest and admiration I have towards Mr. Deakins but I limit myself) I am still shaken by the idea that all those years of interesting questions and just as many interesting answers have vanished."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, I understand that it is a delicate and complicated matter and that Mr. Deakins and Ms. James are obviously very busy given their prestige (due to their talent and dedication to work and disseminating information to us all) so we can only hope.\nI “know” Vaniyann as a user, since I have often read posts by him on this forum and he often specified that some messages from him could be misunderstood since English is not his native language (like me after all). He is not a disrespectful user, he always thanked and always addressed Mr. Deakins as a teacher."
+    },
+    {
+      "type": "paragraph",
+      "text": "We all love what Mr. Deakins and Mrs. James have done, are doing, and will do and we will never dream of being disrespectful to a figure who is almost a god to us."
+    },
+    {
+      "type": "paragraph",
+      "text": "We just have to hope for the recovery of the whole forum or otherwise enjoy what has been through the years and maybe generate new potentially interesting content on this fantastic platform."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful day everyone.\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/page/2/",
+    "scraped_at": "2026-01-15T12:42:29.519318+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/recovering-the-old-forums-need-help/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "df71d319d83a303315ee94f1683645e6e4e0f8b524b2f964e7fcde05237c0c02",
+    "parser_version": "bbpress-v2"
+  }
+}

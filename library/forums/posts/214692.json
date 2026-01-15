@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214692",
+    "forum_slug": "forum",
+    "topic_slug": "very-minimal-lighting",
+    "parent_post_id": "211337",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "halfgrain",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I love the shot in the trenches , beautiful composition and depth. Also love the composition of the last shot. My only constructive criticism would be that the few backlit shots inside look a little too much like “highlight recovery” to me. The clipped areas in the curtain look a little digital and the shadows very much lifted throughout the frame. Wonder if that was your decision or what happened in the DI without your watch? All that being said, bravo to this piece of work! I’m impressed.",
+  "content_html": "<p>I love the shot in the trenches , beautiful composition and depth. Also love the composition of the last shot. My only constructive criticism would be that the few backlit shots inside look a little too much like “highlight recovery” to me. The clipped areas in the curtain look a little digital and the shadows very much lifted throughout the frame. Wonder if that was your decision or what happened in the DI without your watch? All that being said, bravo to this piece of work! I’m impressed.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I love the shot in the trenches , beautiful composition and depth. Also love the composition of the last shot. My only constructive criticism would be that the few backlit shots inside look a little too much like “highlight recovery” to me. The clipped areas in the curtain look a little digital and the shadows very much lifted throughout the frame. Wonder if that was your decision or what happened in the DI without your watch? All that being said, bravo to this piece of work! I’m impressed."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/very-minimal-lighting/#post-220353",
+    "scraped_at": "2026-01-15T13:39:55.370174+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/very-minimal-lighting/#post-220353",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a80e84751a5d5ebb12e0887d4710480eb95ebe158ca5e51afbc8f8d1c09e53cb",
+    "parser_version": "bbpress-v2"
+  }
+}

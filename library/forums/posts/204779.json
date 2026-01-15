@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "post_id": "204779",
+    "forum_slug": "camera",
+    "topic_slug": "uncompressed-hd-vs-arriraw",
+    "parent_post_id": "204439",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I got this info from someone at ARRI:\nThere are two distinct types of logarithmic data:\nUsers see LogC3 (pre-ALEXA 35) or LogC4 (ALEXA 35 and later)\nRGB data.\nWriters at the device driver level see another logarithmic format, extremely early in the imaging pipeline, that is used to store the image while it is still a photomosaic,\ni.e. has not yet been debayered into RGB.\nFor pre-ALEXA 35 cameras, there is a ‘hidden’ form for 12-bit photomosaic data, and then for each exposure index there is a particular variant of the LogC3 curve (‘gamma’ if you will, though not in the mathematical sense). The LogC3 differences are slight enough that most people don’t even know they exist.\nWith the ALEXA 35 there is the same ‘hidden’ form, this time extended for 13-bit photomosaic data, and then there is one (and only one) LogC4 curve.\nSMPTE RDD 55, which documents ARRIRAW in MXF, lays out the details of both 12- and 13-bit low-level bitstreams.",
+  "content_html": "<p>I got this info from someone at ARRI:</p>\n<p><strong>There are two distinct types of logarithmic data:</strong></p>\n<p><strong>Users see LogC3 (pre-ALEXA 35) or LogC4 (ALEXA 35 and later) <em>RGB data.</em></strong></p>\n<p><strong>Writers at the device driver level see another logarithmic format, extremely early in the imaging pipeline, that is used to store the image while it is still a photomosaic, <em>i.e. has not yet been debayered into RGB.</em></strong></p>\n<p><strong>For pre-ALEXA 35 cameras, there is a ‘hidden’ form for 12-bit photomosaic data, and then for each exposure index there is a particular variant of the LogC3 curve (‘gamma’ if you will, though not in the mathematical sense). The LogC3 differences are slight enough that most people don’t even know they exist.</strong></p>\n<p><strong>With the ALEXA 35 there is the same ‘hidden’ form, this time extended for 13-bit photomosaic data, and then there is one (and only one) LogC4 curve. </strong></p>\n<p><strong>SMPTE RDD 55, which documents ARRIRAW in MXF, lays out the details of both 12- and 13-bit low-level bitstreams.</strong></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I got this info from someone at ARRI:"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are two distinct types of logarithmic data:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Users see LogC3 (pre-ALEXA 35) or LogC4 (ALEXA 35 and later)\nRGB data."
+    },
+    {
+      "type": "paragraph",
+      "text": "Writers at the device driver level see another logarithmic format, extremely early in the imaging pipeline, that is used to store the image while it is still a photomosaic,\ni.e. has not yet been debayered into RGB."
+    },
+    {
+      "type": "paragraph",
+      "text": "For pre-ALEXA 35 cameras, there is a ‘hidden’ form for 12-bit photomosaic data, and then for each exposure index there is a particular variant of the LogC3 curve (‘gamma’ if you will, though not in the mathematical sense). The LogC3 differences are slight enough that most people don’t even know they exist."
+    },
+    {
+      "type": "paragraph",
+      "text": "With the ALEXA 35 there is the same ‘hidden’ form, this time extended for 13-bit photomosaic data, and then there is one (and only one) LogC4 curve."
+    },
+    {
+      "type": "paragraph",
+      "text": "SMPTE RDD 55, which documents ARRIRAW in MXF, lays out the details of both 12- and 13-bit low-level bitstreams."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/uncompressed-hd-vs-arriraw/#post-204779",
+    "scraped_at": "2026-01-15T15:42:13.546087+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/uncompressed-hd-vs-arriraw/#post-204779",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "548731e2ac622172eed85294c65c9543c6143061b122a0c8931da1828fdc3548",
+    "parser_version": "bbpress-v2"
+  }
+}

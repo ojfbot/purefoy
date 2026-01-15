@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "215248",
+    "forum_slug": "forum",
+    "topic_slug": "moon-light-for-exterior",
+    "parent_post_id": "215213",
+    "parent_type": "topic",
+    "position": 12
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Master Roger I saw arri 18k photometric Data. It shows me at thirty feet it gives you 1495 foot candles(Full flood), 50 degree beam width. How do I calculate ISO. Is it All photometric data for ISO 100?",
+  "content_html": "<p>Master Roger I saw arri 18k photometric Data. It shows me at thirty feet it gives you 1495 foot candles(Full flood), 50 degree beam width. How do I calculate ISO. Is it All photometric data for ISO 100?<img alt=\"\" decoding=\"async\" src=\"Please wait...\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Master Roger I saw arri 18k photometric Data. It shows me at thirty feet it gives you 1495 foot candles(Full flood), 50 degree beam width. How do I calculate ISO. Is it All photometric data for ISO 100?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://rogerdeakins.com/Please wait...",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/moon-light-for-exterior/",
+    "scraped_at": "2026-01-15T15:48:03.218447+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/moon-light-for-exterior/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a3020a01fb68eb9f7325b0717d5ea872be4b0e11a9af5afbe2bc10c53151e206",
+    "parser_version": "bbpress-v2"
+  }
+}

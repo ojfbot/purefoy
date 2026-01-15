@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "183173",
+    "forum_slug": "composition",
+    "topic_slug": "focal-length-on-blade-runner-2049-shot",
+    "parent_post_id": "182026",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That was probably a 50mm Master Prime. Maybe a 40mm.",
+  "content_html": "<p>That was probably a 50mm Master Prime. Maybe a 40mm.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That was probably a 50mm Master Prime. Maybe a 40mm."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/focal-length-on-blade-runner-2049-shot/#post-183173",
+    "scraped_at": "2026-01-15T13:24:05.350316+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/focal-length-on-blade-runner-2049-shot/#post-183173",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7bcd9f22066cfd030091418ee83f17d932c3e71833fb05169b550b4681bb613d",
+    "parser_version": "bbpress-v2"
+  }
+}

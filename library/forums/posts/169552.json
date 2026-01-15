@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "169552",
+    "forum_slug": "camera",
+    "topic_slug": "camera-starter-question",
+    "parent_post_id": "169402",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Al Duffield",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Polariser* CPL sorry, can’t edit for whatever reason 🙂",
+  "content_html": "<p>Polariser* CPL sorry, can’t edit for whatever reason 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Polariser* CPL sorry, can’t edit for whatever reason 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/",
+    "scraped_at": "2026-01-15T13:56:42.504277+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "074afd97d380f16d91749430079caa6ded05f791c669561db99e077f64367d1e",
+    "parser_version": "bbpress-v2"
+  }
+}

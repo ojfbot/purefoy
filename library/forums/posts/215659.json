@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215659",
+    "forum_slug": "camera",
+    "topic_slug": "exposure",
+    "parent_post_id": "215560",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "In that kind of situation I would judge my exposure from the ambient light, setting my stop where I wanted the daylight to fall. The practical level and any other detail I would judge by eye. But there are many ways to judge exposure and mine is just one. Other cinematographers might use a spot meter, which can produce a quite exact reading if used correctly.",
+  "content_html": "<p>In that kind of situation I would judge my exposure from the ambient light, setting my stop where I wanted the daylight to fall. The practical level and any other detail I would judge by eye. But there are many ways to judge exposure and mine is just one. Other cinematographers might use a spot meter, which can produce a quite exact reading if used correctly.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In that kind of situation I would judge my exposure from the ambient light, setting my stop where I wanted the daylight to fall. The practical level and any other detail I would judge by eye. But there are many ways to judge exposure and mine is just one. Other cinematographers might use a spot meter, which can produce a quite exact reading if used correctly."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+    "scraped_at": "2026-01-15T15:20:45.307412+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bfe3c63f803ad6ce84fe0933101820b03db827243f344269f1998a6a3e3b1481",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "216710",
+    "forum_slug": "still-photography",
+    "topic_slug": "photographer-2024"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "CarlZand",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I recently found a Nat Geo documentary on six episodes: six fascinating photographers. Dan Winters being the one that I found most inspiring (the others are great, too), but he just caught my breath. The way he devotes his life, with his passion and commitment to the art of photography. I am not an intellectual, but I feel that Winters has a unique connection to the art, craft and the history of photography on a very human level.\nHope you can watch the documentary series, streaming now on Disney+. It is worth your while. Hope it inspires you. So, please, do it up. Cheers and have a great year.\nTrailer:",
+  "content_html": "<p>I recently found a Nat Geo documentary on six episodes: six fascinating photographers. Dan Winters being the one that I found most inspiring (the others are great, too), but he just caught my breath. The way he devotes his life, with his passion and commitment to the art of photography. I am not an intellectual, but I feel that Winters has a unique connection to the art, craft and the history of photography on a very human level.</p>\n<p>Hope you can watch the documentary series, streaming now on Disney+. It is worth your while. Hope it inspires you. So, please, do it up. Cheers and have a great year.</p>\n<p>Trailer:</p>\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"381\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/KSCjIRdu1ZY?feature=oembed\" title=\"Photographer | Official Trailer | National Geographic\" width=\"678\"></iframe></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I recently found a Nat Geo documentary on six episodes: six fascinating photographers. Dan Winters being the one that I found most inspiring (the others are great, too), but he just caught my breath. The way he devotes his life, with his passion and commitment to the art of photography. I am not an intellectual, but I feel that Winters has a unique connection to the art, craft and the history of photography on a very human level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope you can watch the documentary series, streaming now on Disney+. It is worth your while. Hope it inspires you. So, please, do it up. Cheers and have a great year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trailer:"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/photographer-2024/",
+    "scraped_at": "2026-01-15T11:50:59.149063+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/photographer-2024/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4f51e50d27e4ad62e6408ae32f36d34a444671b7f666c7b5ac7f5e7512de5be2",
+    "parser_version": "bbpress-v2"
+  }
+}

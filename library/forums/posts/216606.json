@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216606",
+    "forum_slug": "camera",
+    "topic_slug": "camera-starter-question",
+    "parent_post_id": "169402",
+    "parent_type": "topic",
+    "position": 23
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Tyler F",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "David, I find that super fascinating and am not surprised at the outcome of such inventions. I think on paper it would seem like an idea would make sense but not every scenario is an all-use one. I think of it like the Sony Rialto to some extent. You can use it when you decide to (although it does take some time to build) and leave it in the case when you decide not.\nI see a lot of productions where mixed media is used: VHS, Super8, 16mm, digital but perhaps it’s just the trends at the moment and we don’t know what the next decade will be.\nI know for myself that I grew up in the digital age, even coming to own an Alexa system– but find myself gravitating towards wanting to shoot film more as it’s a medium that I wasn’t ever familiar with. I also think there is something quite mysterious and fun to it with all the chemical reactions and physicality and what-not.. sound silly, I know.",
+  "content_html": "<p>David, I find that super fascinating and am not surprised at the outcome of such inventions. I think on paper it would seem like an idea would make sense but not every scenario is an all-use one. I think of it like the Sony Rialto to some extent. You can use it when you decide to (although it does take some time to build) and leave it in the case when you decide not.</p>\n<p>I see a lot of productions where mixed media is used: VHS, Super8, 16mm, digital but perhaps it’s just the trends at the moment and we don’t know what the next decade will be.</p>\n<p>I know for myself that I grew up in the digital age, even coming to own an Alexa system– but find myself gravitating towards wanting to shoot film more as it’s a medium that I wasn’t ever familiar with. I also think there is something quite mysterious and fun to it with all the chemical reactions and physicality and what-not.. sound silly, I know.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "David, I find that super fascinating and am not surprised at the outcome of such inventions. I think on paper it would seem like an idea would make sense but not every scenario is an all-use one. I think of it like the Sony Rialto to some extent. You can use it when you decide to (although it does take some time to build) and leave it in the case when you decide not."
+    },
+    {
+      "type": "paragraph",
+      "text": "I see a lot of productions where mixed media is used: VHS, Super8, 16mm, digital but perhaps it’s just the trends at the moment and we don’t know what the next decade will be."
+    },
+    {
+      "type": "paragraph",
+      "text": "I know for myself that I grew up in the digital age, even coming to own an Alexa system– but find myself gravitating towards wanting to shoot film more as it’s a medium that I wasn’t ever familiar with. I also think there is something quite mysterious and fun to it with all the chemical reactions and physicality and what-not.. sound silly, I know."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/page/2/",
+    "scraped_at": "2026-01-15T13:56:45.968955+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "57b6ba300a59d20c9851564a1c4d6e591539fb856fad771fda5d83ff99e02bd6",
+    "parser_version": "bbpress-v2"
+  }
+}

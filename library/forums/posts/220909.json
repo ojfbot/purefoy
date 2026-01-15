@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220909",
+    "forum_slug": "forum",
+    "topic_slug": "how-much-of-the-look-is-just-you",
+    "parent_post_id": "220867",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "And by the way, we know Roger’s admiration for Tarkovskij’s movies and for the emotions they convey in an almost abstract way: i think this explains a lot. I think that emotions and instinct are important aspects of Roger’s approach, maybe even more important than the lens or the camera or the Digital vs film debate or whatever (at least It’s the impression i have, only Roger can actually explain his approach and i think the new book It’s the best way to Discover that) .",
+  "content_html": "<p>And by the way, we know Roger’s admiration for Tarkovskij’s movies and for the emotions they convey in an almost abstract way: i think this explains a lot. I think that emotions and instinct are important aspects of Roger’s approach, maybe even more important than the lens or the camera or the Digital vs film debate or whatever (at least It’s the impression i have, only Roger can actually explain his approach and i think the new book It’s the best way to Discover that) .</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "And by the way, we know Roger’s admiration for Tarkovskij’s movies and for the emotions they convey in an almost abstract way: i think this explains a lot. I think that emotions and instinct are important aspects of Roger’s approach, maybe even more important than the lens or the camera or the Digital vs film debate or whatever (at least It’s the impression i have, only Roger can actually explain his approach and i think the new book It’s the best way to Discover that) ."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-much-of-the-look-is-just-you/#post-220918",
+    "scraped_at": "2026-01-15T12:48:47.798987+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-much-of-the-look-is-just-you/#post-220918",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e2745e000aa6f7b627eb29260bdc677f7e150a9bded4f1a5a61a4a191e5924dc",
+    "parser_version": "bbpress-v2"
+  }
+}

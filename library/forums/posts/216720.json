@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216720",
+    "forum_slug": "forum",
+    "topic_slug": "ganged-chinese-lantern-vs-roger-ring-lights",
+    "parent_post_id": "216611",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "As David says, ganged lanterns have a higher profile than a ring light. I would say teh light from paper lanterns would be softer, and maybe not always in a good way. I often  control a ring light by surrounding it with silver foil. Harder to do with an 18″ lantern.",
+  "content_html": "<p>As David says, ganged lanterns have a higher profile than a ring light. I would say teh light from paper lanterns would be softer, and maybe not always in a good way. I often  control a ring light by surrounding it with silver foil. Harder to do with an 18″ lantern.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "As David says, ganged lanterns have a higher profile than a ring light. I would say teh light from paper lanterns would be softer, and maybe not always in a good way. I often  control a ring light by surrounding it with silver foil. Harder to do with an 18″ lantern."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ganged-chinese-lantern-vs-roger-ring-lights/#post-216720",
+    "scraped_at": "2026-01-15T15:23:13.497115+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ganged-chinese-lantern-vs-roger-ring-lights/#post-216720",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "263e5a6618c30f50e2c0e5c246182bbe0abe6fb091d890c31ce4f857d92b5b96",
+    "parser_version": "bbpress-v2"
+  }
+}

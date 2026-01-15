@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220872",
+    "forum_slug": "forum",
+    "topic_slug": "merry-christmas-3",
+    "parent_post_id": "220835",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Best wishes for the new year to Mr.Deakins, Mrs. James, and all the people on this fantastic forum! ❤",
+  "content_html": "<p>Best wishes for the new year to Mr.Deakins, Mrs. James, and all the people on this fantastic forum! ❤</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Best wishes for the new year to Mr.Deakins, Mrs. James, and all the people on this fantastic forum! ❤"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/merry-christmas-3/#post-220872",
+    "scraped_at": "2026-01-15T12:48:55.535924+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/merry-christmas-3/#post-220872",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c779a4561a1c18e57f502c23031a77aedacadc734cc59248d93ee530bc8a3d1e",
+    "parser_version": "bbpress-v2"
+  }
+}

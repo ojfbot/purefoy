@@ -1,0 +1,4 @@
+[Transcript text would appear here]
+
+This is a placeholder showing the format of episode transcripts.
+Actual transcripts are fetched from podcast RSS feeds or third-party sources.

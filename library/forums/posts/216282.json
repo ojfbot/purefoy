@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216282",
+    "forum_slug": "post",
+    "topic_slug": "no-country-criterion-hdr",
+    "parent_post_id": "216272",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think the new HDR is quite good. It is a challenge to control the extremes of HDR but it looks good when you do.",
+  "content_html": "<p>I think the new HDR is quite good. It is a challenge to control the extremes of HDR but it looks good when you do.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think the new HDR is quite good. It is a challenge to control the extremes of HDR but it looks good when you do."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/no-country-criterion-hdr/#post-216282",
+    "scraped_at": "2026-01-15T12:26:30.058996+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/no-country-criterion-hdr/#post-216282",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9e7166ac921cf7899f359e4f6d0ce86dc6f4a81655cef624b3853d3860084d36",
+    "parser_version": "bbpress-v2"
+  }
+}

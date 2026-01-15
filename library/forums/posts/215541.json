@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "215541",
+    "forum_slug": "forum",
+    "topic_slug": "about-low-key-lighting",
+    "parent_post_id": "215519",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "In my opinion, and this is only my opinion, this is a topic with a lot of point of view.\nThe thing I met in my experience (not a lot at the moment, I have been DP for only 2 independent feature films, a few short films, and some local commercials) is that is a “battle” to gain more information from the file (of course you have to know the camera you use, the pros and con.) and so maybe overexpose “a bit” or get “the look” in camera.\nIn the last feature that I was involved in, a data wrangler guy who was also a DIT often came to me and “advice” for overexposing a bit or pushing information in the shadows, so maybe in post-production, the colorist can darken with tools.\nIn my opinion, and I repeat this is my opinion, this is something that I never understand 100% because, if it is true that some camera has noise problems in underexposure areas (I was using a Red Gemini) it’s also true that if I want a “dim” atmosphere it’s is strange to put “fill” everywhere, this can change the “look” I’m after.\nSo, what I consider (and I ask also to people in this forum, I remember there was an experienced and skilled DIT that often answered) is to think about the “contrast ratio” and try to go for it, and maybe overexpose a 1/3 or also 1/2 or even 1 STOP (depending of the characteristics of the camera) everything, and not adding bounces fill here and there that I constantly see in post-production and “alter my look”.\nI don’t know if there is a good solution, this is my consideration and I’m glad to read other opinions.\nI apologize for my English.\nHave a nice Sunday,\nMax.",
+  "content_html": "<p>In my opinion, and this is only my opinion, this is a topic with a lot of point of view.<br/>\nThe thing I met in my experience (not a lot at the moment, I have been DP for only 2 independent feature films, a few short films, and some local commercials) is that is a “battle” to gain more information from the file (of course you have to know the camera you use, the pros and con.) and so maybe overexpose “a bit” or get “the look” in camera.</p>\n<p>In the last feature that I was involved in, a data wrangler guy who was also a DIT often came to me and “advice” for overexposing a bit or pushing information in the shadows, so maybe in post-production, the colorist can darken with tools.<br/>\nIn my opinion, and I repeat this is my opinion, this is something that I never understand 100% because, if it is true that some camera has noise problems in underexposure areas (I was using a Red Gemini) it’s also true that if I want a “dim” atmosphere it’s is strange to put “fill” everywhere, this can change the “look” I’m after.</p>\n<p>So, what I consider (and I ask also to people in this forum, I remember there was an experienced and skilled DIT that often answered) is to think about the “contrast ratio” and try to go for it, and maybe overexpose a 1/3 or also 1/2 or even 1 STOP (depending of the characteristics of the camera) everything, and not adding bounces fill here and there that I constantly see in post-production and “alter my look”.</p>\n<p>I don’t know if there is a good solution, this is my consideration and I’m glad to read other opinions.</p>\n<p>I apologize for my English.<br/>\nHave a nice Sunday,</p>\n<p>Max.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In my opinion, and this is only my opinion, this is a topic with a lot of point of view.\nThe thing I met in my experience (not a lot at the moment, I have been DP for only 2 independent feature films, a few short films, and some local commercials) is that is a “battle” to gain more information from the file (of course you have to know the camera you use, the pros and con.) and so maybe overexpose “a bit” or get “the look” in camera."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the last feature that I was involved in, a data wrangler guy who was also a DIT often came to me and “advice” for overexposing a bit or pushing information in the shadows, so maybe in post-production, the colorist can darken with tools.\nIn my opinion, and I repeat this is my opinion, this is something that I never understand 100% because, if it is true that some camera has noise problems in underexposure areas (I was using a Red Gemini) it’s also true that if I want a “dim” atmosphere it’s is strange to put “fill” everywhere, this can change the “look” I’m after."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, what I consider (and I ask also to people in this forum, I remember there was an experienced and skilled DIT that often answered) is to think about the “contrast ratio” and try to go for it, and maybe overexpose a 1/3 or also 1/2 or even 1 STOP (depending of the characteristics of the camera) everything, and not adding bounces fill here and there that I constantly see in post-production and “alter my look”."
+    },
+    {
+      "type": "paragraph",
+      "text": "I don’t know if there is a good solution, this is my consideration and I’m glad to read other opinions."
+    },
+    {
+      "type": "paragraph",
+      "text": "I apologize for my English.\nHave a nice Sunday,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Max."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+    "scraped_at": "2026-01-15T15:46:20.706578+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "eef6845f8e23457b4c6aa706fe3c5e033437fbacd67f30fb19caf1b091eed254",
+    "parser_version": "bbpress-v2"
+  }
+}

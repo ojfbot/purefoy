@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/perspective-through-cinematography/#post-217484",
+  "forum_slug": "composition",
+  "topic_slug": "perspective-through-cinematography",
+  "title": "Perspective through cinematography",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215404",
+    "215406",
+    "215413",
+    "217484"
+  ],
+  "reply_tree": {
+    "post_id": "215404",
+    "post_type": "topic",
+    "author": "Gustavo Perez",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215406",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215413",
+        "post_type": "reply",
+        "author": "Gustavo Perez",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217484",
+        "post_type": "reply",
+        "author": "James Parsons",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/perspective-through-cinematography/#post-217484",
+    "scraped_at": "2026-01-15T12:25:49.313138+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/perspective-through-cinematography/#post-217484",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "249c58c451156cd3972232f5deec62f59fa055fc334e238a2742c66b06f31589",
+    "parser_version": "bbpress-v2"
+  }
+}

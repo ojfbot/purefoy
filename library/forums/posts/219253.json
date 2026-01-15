@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "219253",
+    "forum_slug": "post",
+    "topic_slug": "troubleshooting-a-common-hdr-issue"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Luke_VanMol",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nI listed your episode about Deliverables and watched Steve Yedlin’s presentation on Debunking HDR in full. As a director and aspiring Dolby Vision colorist, I found it to be the most informative talk on HDR I have ever watched!\nThere is one tech problem I frequently see in HDR that wasn’t addressed that I wonder if your could shed some light on. HDR sometimes ends up noticeably darker than the SDR version. The most severe example I saw was in season 2 of Light & Magic: the interview footage was incredibly dark, then it looked normal when they intercut with footage from the films they were speaking of. All that was fixed when I switched my Apple TV to SDR mode. I also saw this same scenario on The Ten Commandments and many others. Do you know how this ends up happening?\nThank You.",
+  "content_html": "<p>Hi Roger,</p>\n<p>I listed your episode about Deliverables and watched Steve Yedlin’s presentation on Debunking HDR in full. As a director and aspiring Dolby Vision colorist, I found it to be the most informative talk on HDR I have ever watched!</p>\n<p>There is one tech problem I frequently see in HDR that wasn’t addressed that I wonder if your could shed some light on. HDR sometimes ends up noticeably darker than the SDR version. The most severe example I saw was in season 2 of Light &amp; Magic: the interview footage was incredibly dark, then it looked normal when they intercut with footage from the films they were speaking of. All that was fixed when I switched my Apple TV to SDR mode. I also saw this same scenario on The Ten Commandments and many others. Do you know how this ends up happening?</p>\n<p>Thank You.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I listed your episode about Deliverables and watched Steve Yedlin’s presentation on Debunking HDR in full. As a director and aspiring Dolby Vision colorist, I found it to be the most informative talk on HDR I have ever watched!"
+    },
+    {
+      "type": "paragraph",
+      "text": "There is one tech problem I frequently see in HDR that wasn’t addressed that I wonder if your could shed some light on. HDR sometimes ends up noticeably darker than the SDR version. The most severe example I saw was in season 2 of Light & Magic: the interview footage was incredibly dark, then it looked normal when they intercut with footage from the films they were speaking of. All that was fixed when I switched my Apple TV to SDR mode. I also saw this same scenario on The Ten Commandments and many others. Do you know how this ends up happening?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank You."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/troubleshooting-a-common-hdr-issue/#post-219417",
+    "scraped_at": "2026-01-15T11:51:16.661417+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/troubleshooting-a-common-hdr-issue/#post-219417",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5ff78dbec695776d645ab3195e9f7bc7b334f395ceb13ab557ecd43e066d7770",
+    "parser_version": "bbpress-v2"
+  }
+}

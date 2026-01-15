@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214595",
+    "forum_slug": "forum",
+    "topic_slug": "aggressive-color",
+    "parent_post_id": "214567",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger has used strong colored lighting on occasion, there was the blue-lit face of Daniel Craig in the car in Shanghai (Skyfall), the orange light of Las Vegas and the magenta light when K sees the large hologram advertisement of Joi (Blade Runner 2049), etc.\nIt comes down to story (the color is emotionally or symbolically motivated, or plot-driven), whether the colored light is naturally motivated (it would be odd if someone was right next to a red neon sign and not have red light on them), and taste.\nSometimes an image is very strong visually because the filmmaker wants to mark that moment in the viewer’s mind.",
+  "content_html": "<p>Roger has used strong colored lighting on occasion, there was the blue-lit face of Daniel Craig in the car in Shanghai (Skyfall), the orange light of Las Vegas and the magenta light when K sees the large hologram advertisement of Joi (Blade Runner 2049), etc.</p>\n<p>It comes down to story (the color is emotionally or symbolically motivated, or plot-driven), whether the colored light is naturally motivated (it would be odd if someone was right next to a red neon sign and not have red light on them), and taste.</p>\n<p>Sometimes an image is very strong visually because the filmmaker wants to mark that moment in the viewer’s mind.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roger has used strong colored lighting on occasion, there was the blue-lit face of Daniel Craig in the car in Shanghai (Skyfall), the orange light of Las Vegas and the magenta light when K sees the large hologram advertisement of Joi (Blade Runner 2049), etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "It comes down to story (the color is emotionally or symbolically motivated, or plot-driven), whether the colored light is naturally motivated (it would be odd if someone was right next to a red neon sign and not have red light on them), and taste."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes an image is very strong visually because the filmmaker wants to mark that moment in the viewer’s mind."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/aggressive-color/#post-214607",
+    "scraped_at": "2026-01-15T15:52:21.631106+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/aggressive-color/#post-214607",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5560b4eb320f3e612cdb4f621fe211b910860db4a4fc637a06c92f413b891873",
+    "parser_version": "bbpress-v2"
+  }
+}

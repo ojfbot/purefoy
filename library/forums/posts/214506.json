@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "214506",
+    "forum_slug": "forum",
+    "topic_slug": "green-cast-when-lighting-through-windows"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "gcconnelly",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger!\nHope you are well. Recently I’ve been coming across issues when lighting through windows and I was curious to get your take on two different situations I’ve come across:\n1. I was recently shooting in a hospital location that had big windows in each of the patient rooms. It was a daytime scene and required the windows to be in the shot, however the windows were made of lower quality glass that had a green tint which was very unflattering. Obviously, replacing the glass was not an option. Have you come across this issue before and how did you handle it?\n2. I have an upcoming shoot at a one floor house location which has a lot of big windows around the home that get a lot of natural light. We’re shooting multiple daytime scenes in this house. My issue is that the home is surrounded by green grass and foliage that bounces a ton of undesired green light into the home. How have you dealt with this in the past?",
+  "content_html": "<p>Hi Roger!</p>\n<p>Hope you are well. Recently I’ve been coming across issues when lighting through windows and I was curious to get your take on two different situations I’ve come across:</p>\n<p>1. I was recently shooting in a hospital location that had big windows in each of the patient rooms. It was a daytime scene and required the windows to be in the shot, however the windows were made of lower quality glass that had a green tint which was very unflattering. Obviously, replacing the glass was not an option. Have you come across this issue before and how did you handle it?</p>\n<p>2. I have an upcoming shoot at a one floor house location which has a lot of big windows around the home that get a lot of natural light. We’re shooting multiple daytime scenes in this house. My issue is that the home is surrounded by green grass and foliage that bounces a ton of undesired green light into the home. How have you dealt with this in the past?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope you are well. Recently I’ve been coming across issues when lighting through windows and I was curious to get your take on two different situations I’ve come across:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. I was recently shooting in a hospital location that had big windows in each of the patient rooms. It was a daytime scene and required the windows to be in the shot, however the windows were made of lower quality glass that had a green tint which was very unflattering. Obviously, replacing the glass was not an option. Have you come across this issue before and how did you handle it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. I have an upcoming shoot at a one floor house location which has a lot of big windows around the home that get a lot of natural light. We’re shooting multiple daytime scenes in this house. My issue is that the home is surrounded by green grass and foliage that bounces a ton of undesired green light into the home. How have you dealt with this in the past?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/green-cast-when-lighting-through-windows/#post-214508",
+    "scraped_at": "2026-01-15T15:53:18.622468+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/green-cast-when-lighting-through-windows/#post-214508",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e0e79c53de027367d95d642f0d3517674a034635538ee35f360543915c2968d4",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/am-i-crazy-for-not-feeling-modern-35mm-film/#post-175975",
+  "forum_slug": "camera",
+  "topic_slug": "am-i-crazy-for-not-feeling-modern-35mm-film",
+  "title": "Am I crazy for not feeling modern 35mm film?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "173046",
+    "173072",
+    "173275",
+    "173462",
+    "175503",
+    "175566",
+    "175787",
+    "175794",
+    "175975"
+  ],
+  "reply_tree": {
+    "post_id": "173046",
+    "post_type": "topic",
+    "author": "Davinki",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "173072",
+        "post_type": "reply",
+        "author": "Frank",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "173275",
+        "post_type": "reply",
+        "author": "GeoffreyKenner",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "173462",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "175503",
+        "post_type": "reply",
+        "author": "Davinki",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "175566",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "175787",
+        "post_type": "reply",
+        "author": "GianniRanzuglia",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "175794",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "175975",
+        "post_type": "reply",
+        "author": "GianniRanzuglia",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 8,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/am-i-crazy-for-not-feeling-modern-35mm-film/#post-175975",
+    "scraped_at": "2026-01-15T15:45:11.528458+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/am-i-crazy-for-not-feeling-modern-35mm-film/#post-175975",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cdf78f868a1a505110f9c81e0abbf1f70d047720e81f41e60febfae8f88b35f9",
+    "parser_version": "bbpress-v2"
+  }
+}

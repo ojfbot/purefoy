@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215091",
+    "forum_slug": "film-talk",
+    "topic_slug": "million-dollar-baby-lighting",
+    "parent_post_id": "215068",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t think there is an interview where one of them explains their approach. As far as I know Clint is a very intuitive filmmaker. I could imagine that they based the overall look on what they both ‘felt’ was right. But I could also imagine that for some specific shots/scenes, like the last one you posted, they did dig a little deeper into light and shadow as a metaphor.",
+  "content_html": "<p>I don’t think there is an interview where one of them explains their approach. As far as I know Clint is a very intuitive filmmaker. I could imagine that they based the overall look on what they both ‘felt’ was right. But I could also imagine that for some specific shots/scenes, like the last one you posted, they did dig a little deeper into light and shadow as a metaphor.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t think there is an interview where one of them explains their approach. As far as I know Clint is a very intuitive filmmaker. I could imagine that they based the overall look on what they both ‘felt’ was right. But I could also imagine that for some specific shots/scenes, like the last one you posted, they did dig a little deeper into light and shadow as a metaphor."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/million-dollar-baby-lighting/#post-215091",
+    "scraped_at": "2026-01-15T13:40:02.198038+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/million-dollar-baby-lighting/#post-215091",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cdbaa1edce6ecbfbfadda8ff5f28208cbc854c66b3a3b48f88e7e89c560c9ee2",
+    "parser_version": "bbpress-v2"
+  }
+}

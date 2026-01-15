@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "215500",
+    "forum_slug": "post",
+    "topic_slug": "di-contrast-in-versions-of-in-time"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Timmers",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I just finished re-watching “In Time” and I’m wondering if I am misremembering my first viewing. I remember the grade being much flatter when I saw it in theaters back when it was first released, and while I understand there would be differences between streaming grade and theatrical I’m wondering if the variation is as extreme as I remember it?\nIf the difference is is as extreme as I recall it, I’m curious if someone from Team Deakins (the people, not necessarily the podcast) would care to comment on whether one version was closer than the other to the original intent. As a bonus I would be interested to hear any details of how the versions came to be.\nIf this has already been written about, I’m happy to be pointed in the right direction.\nThanks\nTim",
+  "content_html": "<p>I just finished re-watching “In Time” and I’m wondering if I am misremembering my first viewing. I remember the grade being much flatter when I saw it in theaters back when it was first released, and while I understand there would be differences between streaming grade and theatrical I’m wondering if the variation is as extreme as I remember it?</p>\n<p>If the difference is is as extreme as I recall it, I’m curious if someone from Team Deakins (the people, not necessarily the podcast) would care to comment on whether one version was closer than the other to the original intent. As a bonus I would be interested to hear any details of how the versions came to be.</p>\n<p>If this has already been written about, I’m happy to be pointed in the right direction.</p>\n<p>Thanks</p>\n<p>Tim</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I just finished re-watching “In Time” and I’m wondering if I am misremembering my first viewing. I remember the grade being much flatter when I saw it in theaters back when it was first released, and while I understand there would be differences between streaming grade and theatrical I’m wondering if the variation is as extreme as I remember it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the difference is is as extreme as I recall it, I’m curious if someone from Team Deakins (the people, not necessarily the podcast) would care to comment on whether one version was closer than the other to the original intent. As a bonus I would be interested to hear any details of how the versions came to be."
+    },
+    {
+      "type": "paragraph",
+      "text": "If this has already been written about, I’m happy to be pointed in the right direction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tim"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/di-contrast-in-versions-of-in-time/",
+    "scraped_at": "2026-01-15T12:49:02.148851+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/di-contrast-in-versions-of-in-time/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6d6a4dc9c567433e5d99f5018b420cc08625e94209cd07f16bbb1d1919727137",
+    "parser_version": "bbpress-v2"
+  }
+}

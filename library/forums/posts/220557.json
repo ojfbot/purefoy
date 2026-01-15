@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "220557",
+    "forum_slug": "film-talk",
+    "topic_slug": "mr-deakins-regarding-2049-spinner-flyover-vegas",
+    "parent_post_id": "220537",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LoFiGuy29",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Appreciate the clarification!\nDo you recall anything substantial being cut from the film? Just curious if this perception of a 4 hour cut in the possession of WB might actually be a thing. The script didn’t seem to support that.",
+  "content_html": "<p>Appreciate the clarification!</p>\n<p>Do you recall anything substantial being cut from the film? Just curious if this perception of a 4 hour cut in the possession of WB might actually be a thing. The script didn’t seem to support that.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Appreciate the clarification!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you recall anything substantial being cut from the film? Just curious if this perception of a 4 hour cut in the possession of WB might actually be a thing. The script didn’t seem to support that."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-regarding-2049-spinner-flyover-vegas/#post-220557",
+    "scraped_at": "2026-01-15T11:50:43.069232+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-regarding-2049-spinner-flyover-vegas/#post-220557",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "aa0fc808bf8fa711aef69a1aeef3fbadcc97214094cb848e81579886ba4e0f9b",
+    "parser_version": "bbpress-v2"
+  }
+}

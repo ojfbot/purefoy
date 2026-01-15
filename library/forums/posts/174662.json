@@ -1,0 +1,51 @@
+{
+  "ids": {
+    "post_id": "174662",
+    "forum_slug": "camera",
+    "topic_slug": "lens-usage-in-the-assassination-of-jesse-james",
+    "parent_post_id": "174655",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "neeraj.jain",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There’s a few times this has been brought up and you can search for it in the forums.\nIt’s now called “The Deakinizer” –\nhttps://theasc.com/blog/shot-craft/lens-test-deakinizers",
+  "content_html": "<p>There’s a few times this has been brought up and you can search for it in the forums.</p>\n<p>It’s now called “The Deakinizer” – <a href=\"https://theasc.com/blog/shot-craft/lens-test-deakinizers\" rel=\"nofollow\">https://theasc.com/blog/shot-craft/lens-test-deakinizers</a></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There’s a few times this has been brought up and you can search for it in the forums."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s now called “The Deakinizer” –\nhttps://theasc.com/blog/shot-craft/lens-test-deakinizers"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://theasc.com/blog/shot-craft/lens-test-deakinizers",
+      "text": "https://theasc.com/blog/shot-craft/lens-test-deakinizers",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lens-usage-in-the-assassination-of-jesse-james/#post-174719",
+    "scraped_at": "2026-01-15T15:45:32.540986+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lens-usage-in-the-assassination-of-jesse-james/#post-174719",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "77135320783889976ccb6e3a9d86a958ccf16af4c9cc089ab8abd537d4dc43f3",
+    "parser_version": "bbpress-v2"
+  }
+}

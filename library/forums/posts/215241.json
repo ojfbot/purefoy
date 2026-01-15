@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "215241",
+    "forum_slug": "camera",
+    "topic_slug": "tips-for-steady-handheld-shots",
+    "parent_post_id": "215217",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Summing up, since I don’t have a 6k camera I’ll try not to use the post production stabilization to avoid the cropping from 4k .\nJust to be clear, you don’t need post stabilizer with a gimbal, it just makes things ultra smooth instead of smooth.\nThe frugal tripod stabilizer hack will help reduce shake but especially micro jitter, which is the bigger evil anyways imo.",
+  "content_html": "<blockquote><p>Summing up, since I don’t have a 6k camera I’ll try not to use the post production stabilization to avoid the cropping from 4k .</p></blockquote>\n<p>Just to be clear, you don’t need post stabilizer with a gimbal, it just makes things ultra smooth instead of smooth.</p>\n<p>The frugal tripod stabilizer hack will help reduce shake but especially micro jitter, which is the bigger evil anyways imo.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Summing up, since I don’t have a 6k camera I’ll try not to use the post production stabilization to avoid the cropping from 4k ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summing up, since I don’t have a 6k camera I’ll try not to use the post production stabilization to avoid the cropping from 4k ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just to be clear, you don’t need post stabilizer with a gimbal, it just makes things ultra smooth instead of smooth."
+    },
+    {
+      "type": "paragraph",
+      "text": "The frugal tripod stabilizer hack will help reduce shake but especially micro jitter, which is the bigger evil anyways imo."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Summing up, since I don’t have a 6k camera I’ll try not to use the post production stabilization to avoid the cropping from 4k ."
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/tips-for-steady-handheld-shots/#post-215254",
+    "scraped_at": "2026-01-15T15:22:36.372196+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/tips-for-steady-handheld-shots/#post-215254",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5018d4ca4690ff65990e35fe8224b06de52ddaa71abefb1a3e65b47c6e24b66f",
+    "parser_version": "bbpress-v2"
+  }
+}

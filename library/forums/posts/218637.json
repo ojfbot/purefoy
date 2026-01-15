@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "218637",
+    "forum_slug": "team-deakins",
+    "topic_slug": "we-dont-have-chivo",
+    "parent_post_id": "216660",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "mskb",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello James!\nWow! That’s so great!\nI have been traveling. Last night, I wanted to relax and listen to the Deakins podcast. Oh my! I was caught by a complete surprise! We have got you, David and Roger, discussing TRUE GRIT! I am not fully done yet, I will post some feedback over this weekend, but easily one of the best episodes I have heard. Very focussed clearly articulated questions from the macro – to the – micro! Exactly what we all wanted!\nThank you James, Roger and David!\nKumar\nPS: We will definitely write to Chivo. I will also request the forum members to do the same! 🙂 Chivo may just think it is easier to simply be on the podcast, than go through emails asking him to join us on the Team Deakins podcast!",
+  "content_html": "<p>Hello James! </p>\n<p>Wow! That’s so great! </p>\n<p>I have been traveling. Last night, I wanted to relax and listen to the Deakins podcast. Oh my! I was caught by a complete surprise! We have got you, David and Roger, discussing TRUE GRIT! I am not fully done yet, I will post some feedback over this weekend, but easily one of the best episodes I have heard. Very focussed clearly articulated questions from the macro – to the – micro! Exactly what we all wanted!</p>\n<p>Thank you James, Roger and David!<br/>\nKumar</p>\n<p>PS: We will definitely write to Chivo. I will also request the forum members to do the same! 🙂 Chivo may just think it is easier to simply be on the podcast, than go through emails asking him to join us on the Team Deakins podcast!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello James!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wow! That’s so great!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have been traveling. Last night, I wanted to relax and listen to the Deakins podcast. Oh my! I was caught by a complete surprise! We have got you, David and Roger, discussing TRUE GRIT! I am not fully done yet, I will post some feedback over this weekend, but easily one of the best episodes I have heard. Very focussed clearly articulated questions from the macro – to the – micro! Exactly what we all wanted!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you James, Roger and David!\nKumar"
+    },
+    {
+      "type": "paragraph",
+      "text": "PS: We will definitely write to Chivo. I will also request the forum members to do the same! 🙂 Chivo may just think it is easier to simply be on the podcast, than go through emails asking him to join us on the Team Deakins podcast!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/we-dont-have-chivo/#post-218637",
+    "scraped_at": "2026-01-15T12:26:33.799397+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/we-dont-have-chivo/#post-218637",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "eb3d458002c8577e7c6a9399618457f785b63c2ce265a6181c2883a70165e269",
+    "parser_version": "bbpress-v2"
+  }
+}

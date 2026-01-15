@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "220910",
+    "forum_slug": "team-deakins",
+    "topic_slug": "cesar-charlone"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "silsurf",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank so much for talking with César Charlone.\nI am currently working with César as an operator. This experience has been the most profound look at the what it looks like to have a silent, spot on relationship with a director the confidence to allow three cameras all shooting in opposing simultaneously knowing will all be made true to his visualization in post.\nWe work fast, short days with minimal (read zero) histrionics. It can be a bit intimidating for some departments to work this way, but for me it is the opportunity of a career.\nCésar is pretty quiet on set and we tend to be pretty busy, so it was with great interest and love and mostly admiration that I listened to this episode on Team Deakins.\nMuch appreciation.",
+  "content_html": "<p>Thank so much for talking with César Charlone.</p>\n<p>I am currently working with César as an operator. This experience has been the most profound look at the what it looks like to have a silent, spot on relationship with a director the confidence to allow three cameras all shooting in opposing simultaneously knowing will all be made true to his visualization in post.</p>\n<p>We work fast, short days with minimal (read zero) histrionics. It can be a bit intimidating for some departments to work this way, but for me it is the opportunity of a career.</p>\n<p>César is pretty quiet on set and we tend to be pretty busy, so it was with great interest and love and mostly admiration that I listened to this episode on Team Deakins.</p>\n<p>Much appreciation.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank so much for talking with César Charlone."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am currently working with César as an operator. This experience has been the most profound look at the what it looks like to have a silent, spot on relationship with a director the confidence to allow three cameras all shooting in opposing simultaneously knowing will all be made true to his visualization in post."
+    },
+    {
+      "type": "paragraph",
+      "text": "We work fast, short days with minimal (read zero) histrionics. It can be a bit intimidating for some departments to work this way, but for me it is the opportunity of a career."
+    },
+    {
+      "type": "paragraph",
+      "text": "César is pretty quiet on set and we tend to be pretty busy, so it was with great interest and love and mostly admiration that I listened to this episode on Team Deakins."
+    },
+    {
+      "type": "paragraph",
+      "text": "Much appreciation."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cesar-charlone/",
+    "scraped_at": "2026-01-15T13:39:49.692619+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cesar-charlone/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5f2d76c7384bb9d9a6004ece9ba2c3c6c9bdb5e71c4363ab24e85e0ada5c0bdb",
+    "parser_version": "bbpress-v2"
+  }
+}

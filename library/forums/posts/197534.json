@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "197534",
+    "forum_slug": "camera",
+    "topic_slug": "shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter",
+    "parent_post_id": "197364",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That is an interesting question. There was a distinct shift in the shadows when you pulled an 85 and shot a tungsten balanced stock in daylight. I did this throughout ‘Shawshank’ but only for specific scenes of other films. As I understand it the Alexa was, originally, more sensitive to blue light. I certainly did some side by side tests before I shot my first film with an Alexa but I found little, if any, discernible difference between shooting for a tungsten and daylight balance.",
+  "content_html": "<p>That is an interesting question. There was a distinct shift in the shadows when you pulled an 85 and shot a tungsten balanced stock in daylight. I did this throughout ‘Shawshank’ but only for specific scenes of other films. As I understand it the Alexa was, originally, more sensitive to blue light. I certainly did some side by side tests before I shot my first film with an Alexa but I found little, if any, discernible difference between shooting for a tungsten and daylight balance.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That is an interesting question. There was a distinct shift in the shadows when you pulled an 85 and shot a tungsten balanced stock in daylight. I did this throughout ‘Shawshank’ but only for specific scenes of other films. As I understand it the Alexa was, originally, more sensitive to blue light. I certainly did some side by side tests before I shot my first film with an Alexa but I found little, if any, discernible difference between shooting for a tungsten and daylight balance."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter/#post-204122",
+    "scraped_at": "2026-01-15T15:42:19.933875+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-everything-in-tungsten-balance-the-same-as-not-using-an-85-filter/#post-204122",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "459b5e8c70efff89dd19afc53cb895a7a0d3e0096ebf82bec3e46175f456a0e8",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218196",
+    "forum_slug": "set-talk",
+    "topic_slug": "difficult-conversations",
+    "parent_post_id": "217287",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "CineCraft29",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This is a great question and would love to hear Roger’s and other DP’s responses to see if they have encountered this type of situation before and how they handled it. From my point of view every Director is different and some don’t care at all and give me freedom as a DP to shoot a scene however I see fit because they trust me. I don’t think it should be like that. But, the pendulum can swing way to far on the other side especially today’s day in age where you can just feel like a tripod and the Director doesn’t care what you have to say. I tend to never work with those Directors again because it supposed to be a collaborative process. It’s definitely a hard to situation to navigate.",
+  "content_html": "<p>This is a great question and would love to hear Roger’s and other DP’s responses to see if they have encountered this type of situation before and how they handled it. From my point of view every Director is different and some don’t care at all and give me freedom as a DP to shoot a scene however I see fit because they trust me. I don’t think it should be like that. But, the pendulum can swing way to far on the other side especially today’s day in age where you can just feel like a tripod and the Director doesn’t care what you have to say. I tend to never work with those Directors again because it supposed to be a collaborative process. It’s definitely a hard to situation to navigate.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This is a great question and would love to hear Roger’s and other DP’s responses to see if they have encountered this type of situation before and how they handled it. From my point of view every Director is different and some don’t care at all and give me freedom as a DP to shoot a scene however I see fit because they trust me. I don’t think it should be like that. But, the pendulum can swing way to far on the other side especially today’s day in age where you can just feel like a tripod and the Director doesn’t care what you have to say. I tend to never work with those Directors again because it supposed to be a collaborative process. It’s definitely a hard to situation to navigate."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/difficult-conversations/#post-220077",
+    "scraped_at": "2026-01-15T11:50:46.559124+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/difficult-conversations/#post-220077",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "832ef0730b42988cc64979eb00c9073a37fc2846cdebd81914e6a1c391174f72",
+    "parser_version": "bbpress-v2"
+  }
+}

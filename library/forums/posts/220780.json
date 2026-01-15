@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "220780",
+    "forum_slug": "forum",
+    "topic_slug": "safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings",
+    "parent_post_id": "220739",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "siva-r",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Sir,\nI am preparing a night shoot at G. M. C. Balayogi Athletic Stadium, Hyderabad, an indoor stadium with a full-size athletic field (105m × 68m).\nThe scene is set during the Asian Games, featuring a 400-meter running event. The stadium is fully established with a large cheering crowd, and spectators are waving multiple country flags — India, Sri Lanka, Pakistan, and others. The actors run continuously across long distances.\nI would like to understand your approach to lighting a sequence of this scale and energy.\nWhen lighting an indoor stadium for a night Asian Games event, how do you decide between relying on existing stadium lighting and introducing a controlled cinematic lighting design?\nFor a 400-meter race with sustained running action, how do you maintain consistent exposure and contrast across the track without the lighting becoming flat or repetitive?\nWith a large, cheering crowd and moving flags, how do you approach lighting the background so it feels alive and energetic without overpowering the athletes?\nDo you prefer lighting the entire stadium evenly for realism, or shaping light in specific zones and allowing athletes to move through varying light levels? What influences that choice?\nAt this scale, how do you manage light direction and shadow when runners move toward and away from camera, while preserving depth and separation?\nWhat types of light sources would you typically rely on for such an indoor stadium event — overhead rigging, large HMIs, or motivated practical stadium lights?\nHow do you balance realism and cinematic drama in a night sports event without losing texture in faces, track surface, grass, and crowd details?\nFrom a storytelling perspective, what visual elements become most important in a sequence like this — national identity, scale, tension, or emotional momentum — and how does lighting support that?\nThank you, sir. Your work continues to be a masterclass in handling scale, movement, and emotion through light.",
+  "content_html": "<p>Sir,</p>\n<p>I am preparing a night shoot at G. M. C. Balayogi Athletic Stadium, Hyderabad, an indoor stadium with a full-size athletic field (105m × 68m).<br/>\nThe scene is set during the Asian Games, featuring a 400-meter running event. The stadium is fully established with a large cheering crowd, and spectators are waving multiple country flags — India, Sri Lanka, Pakistan, and others. The actors run continuously across long distances.</p>\n<p>I would like to understand your approach to lighting a sequence of this scale and energy.</p>\n<p>When lighting an indoor stadium for a night Asian Games event, how do you decide between relying on existing stadium lighting and introducing a controlled cinematic lighting design?<br/>\nFor a 400-meter race with sustained running action, how do you maintain consistent exposure and contrast across the track without the lighting becoming flat or repetitive?<br/>\nWith a large, cheering crowd and moving flags, how do you approach lighting the background so it feels alive and energetic without overpowering the athletes?<br/>\nDo you prefer lighting the entire stadium evenly for realism, or shaping light in specific zones and allowing athletes to move through varying light levels? What influences that choice?<br/>\nAt this scale, how do you manage light direction and shadow when runners move toward and away from camera, while preserving depth and separation?<br/>\nWhat types of light sources would you typically rely on for such an indoor stadium event — overhead rigging, large HMIs, or motivated practical stadium lights?<br/>\nHow do you balance realism and cinematic drama in a night sports event without losing texture in faces, track surface, grass, and crowd details?<br/>\nFrom a storytelling perspective, what visual elements become most important in a sequence like this — national identity, scale, tension, or emotional momentum — and how does lighting support that?</p>\n<p>Thank you, sir. Your work continues to be a masterclass in handling scale, movement, and emotion through light.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sir,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am preparing a night shoot at G. M. C. Balayogi Athletic Stadium, Hyderabad, an indoor stadium with a full-size athletic field (105m × 68m).\nThe scene is set during the Asian Games, featuring a 400-meter running event. The stadium is fully established with a large cheering crowd, and spectators are waving multiple country flags — India, Sri Lanka, Pakistan, and others. The actors run continuously across long distances."
+    },
+    {
+      "type": "paragraph",
+      "text": "I would like to understand your approach to lighting a sequence of this scale and energy."
+    },
+    {
+      "type": "paragraph",
+      "text": "When lighting an indoor stadium for a night Asian Games event, how do you decide between relying on existing stadium lighting and introducing a controlled cinematic lighting design?\nFor a 400-meter race with sustained running action, how do you maintain consistent exposure and contrast across the track without the lighting becoming flat or repetitive?\nWith a large, cheering crowd and moving flags, how do you approach lighting the background so it feels alive and energetic without overpowering the athletes?\nDo you prefer lighting the entire stadium evenly for realism, or shaping light in specific zones and allowing athletes to move through varying light levels? What influences that choice?\nAt this scale, how do you manage light direction and shadow when runners move toward and away from camera, while preserving depth and separation?\nWhat types of light sources would you typically rely on for such an indoor stadium event — overhead rigging, large HMIs, or motivated practical stadium lights?\nHow do you balance realism and cinematic drama in a night sports event without losing texture in faces, track surface, grass, and crowd details?\nFrom a storytelling perspective, what visual elements become most important in a sequence like this — national identity, scale, tension, or emotional momentum — and how does lighting support that?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you, sir. Your work continues to be a masterclass in handling scale, movement, and emotion through light."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings/#post-220925",
+    "scraped_at": "2026-01-15T12:26:33.288323+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings/#post-220925",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6b939073caa57156c02d0e4b9329894b1e79a4d062411df37cab2a679578b88e",
+    "parser_version": "bbpress-v2"
+  }
+}

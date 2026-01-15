@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216758",
+    "forum_slug": "forum",
+    "topic_slug": "prisoners-church-cellar-scene-2",
+    "parent_post_id": "216659",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks a lot Roger! The black net is another great tip!\nI searched around and i found various silver surfaces that create interesting reflections, from the caustic of shiny surfaces to soft bounce light of  opaque silver.\nThis trick  simplified the entire scene, made the blocking way easier and gave me interesting ideas about the structure of the entire shot!",
+  "content_html": "<p>Thanks a lot Roger! The black net is another great tip!<br/>\nI searched around and i found various silver surfaces that create interesting reflections, from the caustic of shiny surfaces to soft bounce light of  opaque silver.</p>\n<p>This trick  simplified the entire scene, made the blocking way easier and gave me interesting ideas about the structure of the entire shot!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks a lot Roger! The black net is another great tip!\nI searched around and i found various silver surfaces that create interesting reflections, from the caustic of shiny surfaces to soft bounce light of  opaque silver."
+    },
+    {
+      "type": "paragraph",
+      "text": "This trick  simplified the entire scene, made the blocking way easier and gave me interesting ideas about the structure of the entire shot!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/prisoners-church-cellar-scene-2/#post-216758",
+    "scraped_at": "2026-01-15T15:23:03.955289+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/prisoners-church-cellar-scene-2/#post-216758",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "497eeb57674f490f14b3c1b9aa405368ff88ad060cd10e5399fc018f16fa0b05",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220084",
+    "forum_slug": "camera",
+    "topic_slug": "hybrid-process",
+    "parent_post_id": "220052",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Generally what they mean when they say they don’t use negative stock is that they don’t use camera negative stock, which is much higher in ISO (and grainier) than lab intermediate and print stocks.",
+  "content_html": "<p>Generally what they mean when they say they don’t use negative stock is that they don’t use camera negative stock, which is much higher in ISO (and grainier) than lab intermediate and print stocks.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Generally what they mean when they say they don’t use negative stock is that they don’t use camera negative stock, which is much higher in ISO (and grainier) than lab intermediate and print stocks."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/hybrid-process/#post-220086",
+    "scraped_at": "2026-01-15T12:26:18.461900+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/hybrid-process/#post-220086",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "869ffefd4f11acc2c5ad504052dcd81112d61d45105143626a1f75864425ccca",
+    "parser_version": "bbpress-v2"
+  }
+}

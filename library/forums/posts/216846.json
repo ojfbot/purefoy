@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216846",
+    "forum_slug": "still-photography",
+    "topic_slug": "mr-deakins-camera-recommendations",
+    "parent_post_id": "216729",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Tim J",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks Tyler,\nYes, I would have to re-invest in some new lenses for the Nikon Z9. I wouldn’t want to use the MTZII adaptor in case I would lose image quality, so I’d rather start from scratch with new lenses. I’m leaning towards this model because I feel it would cover anything I would want to pursue in photography.",
+  "content_html": "<p>Thanks Tyler,</p>\n<p>Yes, I would have to re-invest in some new lenses for the Nikon Z9. I wouldn’t want to use the MTZII adaptor in case I would lose image quality, so I’d rather start from scratch with new lenses. I’m leaning towards this model because I feel it would cover anything I would want to pursue in photography.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks Tyler,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes, I would have to re-invest in some new lenses for the Nikon Z9. I wouldn’t want to use the MTZII adaptor in case I would lose image quality, so I’d rather start from scratch with new lenses. I’m leaning towards this model because I feel it would cover anything I would want to pursue in photography."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-camera-recommendations/#post-216846",
+    "scraped_at": "2026-01-15T11:50:45.860123+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-camera-recommendations/#post-216846",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e65ffefb591e434a8bdfb43efaf2b5d40c4140e4ecf01f7fc7bb46a478fd7cc5",
+    "parser_version": "bbpress-v2"
+  }
+}

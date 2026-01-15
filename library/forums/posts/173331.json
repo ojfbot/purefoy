@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "post_id": "173331",
+    "forum_slug": "camera",
+    "topic_slug": "sensor-size-focal-length-depth-of-field",
+    "parent_post_id": "172580",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "IMO to understand lensing you have to understand the effect each lens has to you and by definition the effect you want the audience to feel.\nI know it sounds pedantic but it’s the reality. At least to me.\nYou don’t start choosing lenses by choosing the lens itself. You choose first where to put the camera relatively to the action or the thing you want to shoot.\nThe variables here are the distance to your subject and the angle you shoot from.\nThen you choose which focal length to use for your desire framing in that position.\nPosition, angle (no lens related) and framing (lens related).\nPhotographers and cinematographers who have been shooting for long time develop their own style because their approach and reaction to compose an image is usually always the same. It’s their vocabulary. Other great ones force themselves to vary project to project.\nStudy photography, look for the camera position relatively to the action. Look what they want to say and how. Look around and see what lenses they used if you like.\nBut their language and approach to create an image is way more important than to know exactly what focal lengths they used.\nIf you know this then no matter the format or sensor size you will be able to adapt it on your own work.",
+  "content_html": "<p>IMO to understand lensing you have to understand the effect each lens has to you and by definition the effect you want the audience to feel.</p>\n<p>I know it sounds pedantic but it’s the reality. At least to me.</p>\n<p>You don’t start choosing lenses by choosing the lens itself. You choose first where to put the camera relatively to the action or the thing you want to shoot.</p>\n<p>The variables here are the distance to your subject and the angle you shoot from.</p>\n<p>Then you choose which focal length to use for your desire framing in that position.</p>\n<p>Position, angle (no lens related) and framing (lens related).</p>\n<p>Photographers and cinematographers who have been shooting for long time develop their own style because their approach and reaction to compose an image is usually always the same. It’s their vocabulary. Other great ones force themselves to vary project to project.</p>\n<p>Study photography, look for the camera position relatively to the action. Look what they want to say and how. Look around and see what lenses they used if you like.</p>\n<p>But their language and approach to create an image is way more important than to know exactly what focal lengths they used.</p>\n<p>If you know this then no matter the format or sensor size you will be able to adapt it on your own work.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "IMO to understand lensing you have to understand the effect each lens has to you and by definition the effect you want the audience to feel."
+    },
+    {
+      "type": "paragraph",
+      "text": "I know it sounds pedantic but it’s the reality. At least to me."
+    },
+    {
+      "type": "paragraph",
+      "text": "You don’t start choosing lenses by choosing the lens itself. You choose first where to put the camera relatively to the action or the thing you want to shoot."
+    },
+    {
+      "type": "paragraph",
+      "text": "The variables here are the distance to your subject and the angle you shoot from."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then you choose which focal length to use for your desire framing in that position."
+    },
+    {
+      "type": "paragraph",
+      "text": "Position, angle (no lens related) and framing (lens related)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Photographers and cinematographers who have been shooting for long time develop their own style because their approach and reaction to compose an image is usually always the same. It’s their vocabulary. Other great ones force themselves to vary project to project."
+    },
+    {
+      "type": "paragraph",
+      "text": "Study photography, look for the camera position relatively to the action. Look what they want to say and how. Look around and see what lenses they used if you like."
+    },
+    {
+      "type": "paragraph",
+      "text": "But their language and approach to create an image is way more important than to know exactly what focal lengths they used."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you know this then no matter the format or sensor size you will be able to adapt it on your own work."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sensor-size-focal-length-depth-of-field/#post-173636",
+    "scraped_at": "2026-01-15T15:45:50.469537+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sensor-size-focal-length-depth-of-field/#post-173636",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a6333a085d71b668ed95aef2221af004225d704a019faaa7ecb741c56436d4df",
+    "parser_version": "bbpress-v2"
+  }
+}

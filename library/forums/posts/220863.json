@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220863",
+    "forum_slug": "forum",
+    "topic_slug": "merry-christmas-3",
+    "parent_post_id": "220835",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "And best wishes for 2026.",
+  "content_html": "<p>And best wishes for 2026.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "And best wishes for 2026."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/merry-christmas-3/#post-220872",
+    "scraped_at": "2026-01-15T12:48:55.535747+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/merry-christmas-3/#post-220872",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3d7810714e4b1897b27b25b1fa4c96ef826e8611fcdaeab7e3369a21d1fa3d94",
+    "parser_version": "bbpress-v2"
+  }
+}

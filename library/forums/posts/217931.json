@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "217931",
+    "forum_slug": "film-talk",
+    "topic_slug": "1980-1990s-film-recs",
+    "parent_post_id": "216192",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "campfirewood",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "With Mann as a specific reference, I assume you’ve checked out\nHeat\n– if not, bump that to the top of your list. Style serves the story, and it basically establishes a lot of the grammar for a lot of the neo-noirs to follow.\nNot exactly in the genre, but using an aesthetic that is pretty simpatico: Scorsese’s\nAfter Hours\n, which was his first collaboration with Michael Ballhaus (I think). Ballhaus has strong ties to the New German Cinema movement, too, which makes a nice connection to Wenders.\nHow did the shoot go, by the way?",
+  "content_html": "<p>With Mann as a specific reference, I assume you’ve checked out <em>Heat</em> – if not, bump that to the top of your list. Style serves the story, and it basically establishes a lot of the grammar for a lot of the neo-noirs to follow.</p>\n<p>Not exactly in the genre, but using an aesthetic that is pretty simpatico: Scorsese’s <em>After Hours</em>, which was his first collaboration with Michael Ballhaus (I think). Ballhaus has strong ties to the New German Cinema movement, too, which makes a nice connection to Wenders.</p>\n<p>How did the shoot go, by the way?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "With Mann as a specific reference, I assume you’ve checked out\nHeat\n– if not, bump that to the top of your list. Style serves the story, and it basically establishes a lot of the grammar for a lot of the neo-noirs to follow."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not exactly in the genre, but using an aesthetic that is pretty simpatico: Scorsese’s\nAfter Hours\n, which was his first collaboration with Michael Ballhaus (I think). Ballhaus has strong ties to the New German Cinema movement, too, which makes a nice connection to Wenders."
+    },
+    {
+      "type": "paragraph",
+      "text": "How did the shoot go, by the way?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/1980-1990s-film-recs/#post-217931",
+    "scraped_at": "2026-01-15T12:09:04.401090+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/1980-1990s-film-recs/#post-217931",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "01fc24dae7288ddad5fe6070de00b31ff03eaa2d57b58e7c6b674a75ab89a9fc",
+    "parser_version": "bbpress-v2"
+  }
+}

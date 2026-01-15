@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "175796",
+    "forum_slug": "set-talk",
+    "topic_slug": "gaining-set-experience",
+    "parent_post_id": "175763",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "● Yes, although it’s a bit different than experiencing an ‘established’ set.\n● Depends on the role. For any creative position I’d exclusively look at their work. Other than that, enthusiasms and a good personality. A good personality has much more influence on your career than you might think.\n● I don’t know but the majority of people I work with didn’t attend film school.",
+  "content_html": "<p>● Yes, although it’s a bit different than experiencing an ‘established’ set.</p>\n<p>● Depends on the role. For any creative position I’d exclusively look at their work. Other than that, enthusiasms and a good personality. A good personality has much more influence on your career than you might think.</p>\n<p>● I don’t know but the majority of people I work with didn’t attend film school.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "● Yes, although it’s a bit different than experiencing an ‘established’ set."
+    },
+    {
+      "type": "paragraph",
+      "text": "● Depends on the role. For any creative position I’d exclusively look at their work. Other than that, enthusiasms and a good personality. A good personality has much more influence on your career than you might think."
+    },
+    {
+      "type": "paragraph",
+      "text": "● I don’t know but the majority of people I work with didn’t attend film school."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/gaining-set-experience/#post-185168",
+    "scraped_at": "2026-01-15T13:39:57.226147+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/gaining-set-experience/#post-185168",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9a129a8671645a3de443327cf2c23e75d81660a1f3fb4c7bca97323fe8b45045",
+    "parser_version": "bbpress-v2"
+  }
+}

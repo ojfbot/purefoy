@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220566",
+    "forum_slug": "forum",
+    "topic_slug": "questions-reg-true-grit-greaser-bobs-lighting-breakdown",
+    "parent_post_id": "220562",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Wolfgang Illmayr",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Alright, that makes sense. Thanks again, I really appreciate it. It’s great being able to ask questions like this and see how you approach things. Wolfgang",
+  "content_html": "<p>Alright, that makes sense. Thanks again, I really appreciate it. It’s great being able to ask questions like this and see how you approach things. Wolfgang</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Alright, that makes sense. Thanks again, I really appreciate it. It’s great being able to ask questions like this and see how you approach things. Wolfgang"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/questions-reg-true-grit-greaser-bobs-lighting-breakdown/#post-220566",
+    "scraped_at": "2026-01-15T13:23:29.851081+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/questions-reg-true-grit-greaser-bobs-lighting-breakdown/#post-220566",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0e47f7757aa3a909320adf852ac9a554693babb42b04421dd7c99ef4c11d6690",
+    "parser_version": "bbpress-v2"
+  }
+}

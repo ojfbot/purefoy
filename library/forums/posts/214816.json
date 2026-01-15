@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214816",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 30
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Laurent",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger Deakins,\nI read somewhere that you don’t use ‘traditional’ 3-point lighting for interview scenes either.\nHow would you create an interview scene (interviewer and interviewee)? Instead of a traditional softbox? Bounce on unbleached muslin? Or even a curve lighting? Or just a muslin bounce on the side as a key light?\nWhat would you use as a backlight? Practical lights? So that the subject stands out slightly from the background.\nOr alternatively with 2 ring lights (each on the side of the persons, Rembrandt style)?\nThank you!",
+  "content_html": "<p>Dear Roger Deakins,<br/>\nI read somewhere that you don’t use ‘traditional’ 3-point lighting for interview scenes either.<br/>\nHow would you create an interview scene (interviewer and interviewee)? Instead of a traditional softbox? Bounce on unbleached muslin? Or even a curve lighting? Or just a muslin bounce on the side as a key light?<br/>\nWhat would you use as a backlight? Practical lights? So that the subject stands out slightly from the background.</p>\n<p>Or alternatively with 2 ring lights (each on the side of the persons, Rembrandt style)?<br/>\nThank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger Deakins,\nI read somewhere that you don’t use ‘traditional’ 3-point lighting for interview scenes either.\nHow would you create an interview scene (interviewer and interviewee)? Instead of a traditional softbox? Bounce on unbleached muslin? Or even a curve lighting? Or just a muslin bounce on the side as a key light?\nWhat would you use as a backlight? Practical lights? So that the subject stands out slightly from the background."
+    },
+    {
+      "type": "paragraph",
+      "text": "Or alternatively with 2 ring lights (each on the side of the persons, Rembrandt style)?\nThank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+    "scraped_at": "2026-01-15T15:51:27.816766+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c644bc88cdfe4053158bfd9f019cf7b1c95b8e517bafded78239f1d76d345908",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "218018",
+    "forum_slug": "forum",
+    "topic_slug": "creating-natural-looking-window-light-after-sunset",
+    "parent_post_id": "217965",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Matthew_",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Another idea I had: what if I expose the window that’s in frame so it looks right for dusk – soft and natural – and then use a different window (off-camera) to push in more light and help build exposure inside the room?\nMaybe I could also use some soft fill, bounced off the ceiling, just to gently reduce the contrast without breaking the mood.",
+  "content_html": "<p>Another idea I had: what if I expose the window that’s in frame so it looks right for dusk – soft and natural – and then use a different window (off-camera) to push in more light and help build exposure inside the room?</p>\n<p>Maybe I could also use some soft fill, bounced off the ceiling, just to gently reduce the contrast without breaking the mood.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Another idea I had: what if I expose the window that’s in frame so it looks right for dusk – soft and natural – and then use a different window (off-camera) to push in more light and help build exposure inside the room?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe I could also use some soft fill, bounced off the ceiling, just to gently reduce the contrast without breaking the mood."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/creating-natural-looking-window-light-after-sunset/#post-218018",
+    "scraped_at": "2026-01-15T15:19:45.501889+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-natural-looking-window-light-after-sunset/#post-218018",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ebfeaaa58d7d495d0782eb0269e577135fdf394c69bff2e9613001ce242dccf1",
+    "parser_version": "bbpress-v2"
+  }
+}

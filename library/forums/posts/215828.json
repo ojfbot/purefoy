@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "post_id": "215828",
+    "forum_slug": "composition",
+    "topic_slug": "empire-of-light-pan-shots-to-open-scenes"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mr Deakins and all the members of this fantastic forum. First of all, I hope you Mr. Deakins, and Mrs. James are well.\nIt’s been a while since I don’t write and asked long questions 😅 but every day I open at least once the website to check for new conversations and topics. I know you Mr. Deakins are very busy at this period but I would just try to ask my question.\nWatching and “studying” again “Empire of Light” I saw that there are two scenes that open with a pan shot that ends with the “final” composition of the shot (I attach two still frames below to recall the scenes).\nI would like to ask you, if it is possible, If this choice for these pan shots came from you or from Mr. Mendes.\nI would also like to ask, why you (or Mr. Mendes) used pan shots to open the scenes and not, for instance, directly the static shot, have these shots the function to establish location “tone” and peace of the scene?\nProbably this is a silly question, but over the technical side of lighting, composition etc. I would like to ask you what was your narrative thought behind the choice of these pan shots.\nAs you often wrote in the past, now I understand the importance of knowing the “why” over the “how”.\nAs usual, I want to thank you in advance for your time and your availability. Asking questions to you is priceless for me.\nI apologize for my bad English.\nI wish you a peaceful day,\nMax.",
+  "content_html": "<p>Hello Mr Deakins and all the members of this fantastic forum. First of all, I hope you Mr. Deakins, and Mrs. James are well.<br/>\nIt’s been a while since I don’t write and asked long questions 😅 but every day I open at least once the website to check for new conversations and topics. I know you Mr. Deakins are very busy at this period but I would just try to ask my question.</p>\n<p>Watching and “studying” again “Empire of Light” I saw that there are two scenes that open with a pan shot that ends with the “final” composition of the shot (I attach two still frames below to recall the scenes).<br/>\nI would like to ask you, if it is possible, If this choice for these pan shots came from you or from Mr. Mendes.<br/>\nI would also like to ask, why you (or Mr. Mendes) used pan shots to open the scenes and not, for instance, directly the static shot, have these shots the function to establish location “tone” and peace of the scene?</p>\n<p>Probably this is a silly question, but over the technical side of lighting, composition etc. I would like to ask you what was your narrative thought behind the choice of these pan shots.<br/>\nAs you often wrote in the past, now I understand the importance of knowing the “why” over the “how”.</p>\n<p>As usual, I want to thank you in advance for your time and your availability. Asking questions to you is priceless for me.</p>\n<p>I apologize for my bad English.</p>\n<p>I wish you a peaceful day,</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215828/1qonklh56hj8kxmjkvqenlfqbhx09a7j.jpeg\" width=\"400\"/><br/>\n<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215828/u4o18tcdpgck8jzs99tuybl23xy9kp8n.jpeg\" width=\"400\"/><br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mr Deakins and all the members of this fantastic forum. First of all, I hope you Mr. Deakins, and Mrs. James are well.\nIt’s been a while since I don’t write and asked long questions 😅 but every day I open at least once the website to check for new conversations and topics. I know you Mr. Deakins are very busy at this period but I would just try to ask my question."
+    },
+    {
+      "type": "paragraph",
+      "text": "Watching and “studying” again “Empire of Light” I saw that there are two scenes that open with a pan shot that ends with the “final” composition of the shot (I attach two still frames below to recall the scenes).\nI would like to ask you, if it is possible, If this choice for these pan shots came from you or from Mr. Mendes.\nI would also like to ask, why you (or Mr. Mendes) used pan shots to open the scenes and not, for instance, directly the static shot, have these shots the function to establish location “tone” and peace of the scene?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Probably this is a silly question, but over the technical side of lighting, composition etc. I would like to ask you what was your narrative thought behind the choice of these pan shots.\nAs you often wrote in the past, now I understand the importance of knowing the “why” over the “how”."
+    },
+    {
+      "type": "paragraph",
+      "text": "As usual, I want to thank you in advance for your time and your availability. Asking questions to you is priceless for me."
+    },
+    {
+      "type": "paragraph",
+      "text": "I apologize for my bad English."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful day,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Max."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215828/1qonklh56hj8kxmjkvqenlfqbhx09a7j.jpeg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215828/u4o18tcdpgck8jzs99tuybl23xy9kp8n.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-pan-shots-to-open-scenes/#post-215861",
+    "scraped_at": "2026-01-15T12:26:26.429343+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-pan-shots-to-open-scenes/#post-215861",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "09ed52b713d610c58b20cead2dbbb14a354089d9927789c3709548dfc6784ef0",
+    "parser_version": "bbpress-v2"
+  }
+}

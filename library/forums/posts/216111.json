@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216111",
+    "forum_slug": "camera",
+    "topic_slug": "fps-vs-iso-in-sony-f5-camera",
+    "parent_post_id": "216110",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I hope i am not saying a complete nonsense but is it possible that on “FPS variabile” the  camera tries to keep the exposure constant, so when the ISO is changed the FPS are changed accordingly by the camera to compensate?",
+  "content_html": "<p>I hope i am not saying a complete nonsense but is it possible that on “FPS variabile” the  camera tries to keep the exposure constant, so when the ISO is changed the FPS are changed accordingly by the camera to compensate?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I hope i am not saying a complete nonsense but is it possible that on “FPS variabile” the  camera tries to keep the exposure constant, so when the ISO is changed the FPS are changed accordingly by the camera to compensate?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/fps-vs-iso-in-sony-f5-camera/#post-216111",
+    "scraped_at": "2026-01-15T15:08:35.804199+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/fps-vs-iso-in-sony-f5-camera/#post-216111",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c380284dc2753b6857f48a7c8ae47d1b12c1eaf9e1f1727a040c1d5402ad32c3",
+    "parser_version": "bbpress-v2"
+  }
+}

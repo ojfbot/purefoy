@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220751",
+    "forum_slug": "team-deakins",
+    "topic_slug": "when-theres-no-work-everything-feels-like-zero-how-do-you-cope",
+    "parent_post_id": "220708",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Vittorio Storaro has told this story that after film school and even his first feature, he couldn’t find work for two years and felt like a failure. So he hung out in art museums during that time. He said that later he realized that this time of studying art on his own were the most important two years of his career.",
+  "content_html": "<p>Vittorio Storaro has told this story that after film school and even his first feature, he couldn’t find work for two years and felt like a failure. So he hung out in art museums during that time. He said that later he realized that this time of studying art on his own were the most important two years of his career.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Vittorio Storaro has told this story that after film school and even his first feature, he couldn’t find work for two years and felt like a failure. So he hung out in art museums during that time. He said that later he realized that this time of studying art on his own were the most important two years of his career."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/when-theres-no-work-everything-feels-like-zero-how-do-you-cope/#post-220751",
+    "scraped_at": "2026-01-15T11:50:52.712372+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/when-theres-no-work-everything-feels-like-zero-how-do-you-cope/#post-220751",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "29cc5538b83f1ccc0265fe73b5b217274d49bd2455199c49ec3506861c82a74e",
+    "parser_version": "bbpress-v2"
+  }
+}

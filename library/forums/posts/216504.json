@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "post_id": "216504",
+    "forum_slug": "forum",
+    "topic_slug": "motivated-daylight-with-led-fixtures"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Corran Villalobos",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Sir Roger,\nHope all is well with you and James!\nOn Empire of Light I read you used arrays of 5 or 6 Gemini LED panels to motivate daylight, specifically through the windows of the room in which Hilary and Michael care for the pigeon. I know on other films like Skyfall and Blade Runner 2049 you’d typically bounce HMIs off 20×20 ultrabounces to get a soft wash with the ultrabounce acting like a screen against the natural daylight. In the case of Empire of Light, it appears that technique wasn’t used. How did you go about balancing the punch of the LED fixtures with the natural light that came through the window? As seen in the stills attached below, we see an unobstructed view of the outside which leads me too believe the array of LEDs were strategically positioned to the left or right of the window frame or natural light was used instead. Was this the case? At any point did you tent the windows to allow the LEDs to play properly? How much of this scene was shot with natural light and how much of it was lit with Gemini array?\nAs always, thank you for your time, wisdom, and unwavering support.\nBest,\nCorran",
+  "content_html": "<p>Hi Sir Roger,</p>\n<p>Hope all is well with you and James!</p>\n<p>On Empire of Light I read you used arrays of 5 or 6 Gemini LED panels to motivate daylight, specifically through the windows of the room in which Hilary and Michael care for the pigeon. I know on other films like Skyfall and Blade Runner 2049 you’d typically bounce HMIs off 20×20 ultrabounces to get a soft wash with the ultrabounce acting like a screen against the natural daylight. In the case of Empire of Light, it appears that technique wasn’t used. How did you go about balancing the punch of the LED fixtures with the natural light that came through the window? As seen in the stills attached below, we see an unobstructed view of the outside which leads me too believe the array of LEDs were strategically positioned to the left or right of the window frame or natural light was used instead. Was this the case? At any point did you tent the windows to allow the LEDs to play properly? How much of this scene was shot with natural light and how much of it was lit with Gemini array?</p>\n<p>As always, thank you for your time, wisdom, and unwavering support.</p>\n<p>Best,</p>\n<p>Corran</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216504/do17t9qez964cypwtz4p7u1wvy9tfrvj.jpg\"/><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216504/dg3ninf43t9bd0byera58h4yuw3gjdxh.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Sir Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope all is well with you and James!"
+    },
+    {
+      "type": "paragraph",
+      "text": "On Empire of Light I read you used arrays of 5 or 6 Gemini LED panels to motivate daylight, specifically through the windows of the room in which Hilary and Michael care for the pigeon. I know on other films like Skyfall and Blade Runner 2049 you’d typically bounce HMIs off 20×20 ultrabounces to get a soft wash with the ultrabounce acting like a screen against the natural daylight. In the case of Empire of Light, it appears that technique wasn’t used. How did you go about balancing the punch of the LED fixtures with the natural light that came through the window? As seen in the stills attached below, we see an unobstructed view of the outside which leads me too believe the array of LEDs were strategically positioned to the left or right of the window frame or natural light was used instead. Was this the case? At any point did you tent the windows to allow the LEDs to play properly? How much of this scene was shot with natural light and how much of it was lit with Gemini array?"
+    },
+    {
+      "type": "paragraph",
+      "text": "As always, thank you for your time, wisdom, and unwavering support."
+    },
+    {
+      "type": "paragraph",
+      "text": "Best,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Corran"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216504/do17t9qez964cypwtz4p7u1wvy9tfrvj.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216504/dg3ninf43t9bd0byera58h4yuw3gjdxh.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/motivated-daylight-with-led-fixtures/#post-216542",
+    "scraped_at": "2026-01-15T15:24:16.159382+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/motivated-daylight-with-led-fixtures/#post-216542",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "09cfce79510ec79a2849780ee4cf3fe588475e83eb702236553ce588fe6ced9d",
+    "parser_version": "bbpress-v2"
+  }
+}

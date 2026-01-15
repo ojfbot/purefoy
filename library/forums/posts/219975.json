@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "219975",
+    "forum_slug": "forum",
+    "topic_slug": "4300k-location-with-daylight-or-tungsten-key",
+    "parent_post_id": "219974",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Any lighting package should always contain some CTO, CTB, Plus-Green, and Minus-Green gels even if just in scraps.\nWhether you used HMIs or tungsten with gels, or Kinos, with or without gels, just depended on the situation, the scale of the shot, your lighting package, etc. Keep in mind that you generally lose more output shifting tungsten towards daylight with blue gels than you do shifting HMIs towards tungsten with orange gels, plus HMIs are already more energy-efficient. So for a larger space where you are aiming for balancing to a Cool White fluorescent color (more like 4700K with some green), you would be more likely to use HMIs than tungsten.  However in a small space, you might try tungsten with gels (the color tends to be “richer” from gelled tungsten in some ways but that is subjective.)\nIf you have to get closer to 3200K, then tungsten makes more sense (and HMIs gelled to 3200K never look quite right to my eyes compared to tungsten.)\nThere are too many variables to give you a definitive answer. My only caveat is that I tend to avoid mixing techniques for whatever the key light is on the face, I wouldn’t use gelled HMIs in one spot and then gelled tungsten in another for a key (fill or backlight is less critical.)",
+  "content_html": "<p>Any lighting package should always contain some CTO, CTB, Plus-Green, and Minus-Green gels even if just in scraps.</p>\n<p>Whether you used HMIs or tungsten with gels, or Kinos, with or without gels, just depended on the situation, the scale of the shot, your lighting package, etc. Keep in mind that you generally lose more output shifting tungsten towards daylight with blue gels than you do shifting HMIs towards tungsten with orange gels, plus HMIs are already more energy-efficient. So for a larger space where you are aiming for balancing to a Cool White fluorescent color (more like 4700K with some green), you would be more likely to use HMIs than tungsten.  However in a small space, you might try tungsten with gels (the color tends to be “richer” from gelled tungsten in some ways but that is subjective.)</p>\n<p>If you have to get closer to 3200K, then tungsten makes more sense (and HMIs gelled to 3200K never look quite right to my eyes compared to tungsten.)</p>\n<p>There are too many variables to give you a definitive answer. My only caveat is that I tend to avoid mixing techniques for whatever the key light is on the face, I wouldn’t use gelled HMIs in one spot and then gelled tungsten in another for a key (fill or backlight is less critical.)</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Any lighting package should always contain some CTO, CTB, Plus-Green, and Minus-Green gels even if just in scraps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether you used HMIs or tungsten with gels, or Kinos, with or without gels, just depended on the situation, the scale of the shot, your lighting package, etc. Keep in mind that you generally lose more output shifting tungsten towards daylight with blue gels than you do shifting HMIs towards tungsten with orange gels, plus HMIs are already more energy-efficient. So for a larger space where you are aiming for balancing to a Cool White fluorescent color (more like 4700K with some green), you would be more likely to use HMIs than tungsten.  However in a small space, you might try tungsten with gels (the color tends to be “richer” from gelled tungsten in some ways but that is subjective.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have to get closer to 3200K, then tungsten makes more sense (and HMIs gelled to 3200K never look quite right to my eyes compared to tungsten.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are too many variables to give you a definitive answer. My only caveat is that I tend to avoid mixing techniques for whatever the key light is on the face, I wouldn’t use gelled HMIs in one spot and then gelled tungsten in another for a key (fill or backlight is less critical.)"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/4300k-location-with-daylight-or-tungsten-key/#post-219980",
+    "scraped_at": "2026-01-15T14:13:33.397364+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/4300k-location-with-daylight-or-tungsten-key/#post-219980",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d89fae0ea9eaccd3169509b1dfb1adde4a100399a44b192917f9369f0f14828e",
+    "parser_version": "bbpress-v2"
+  }
+}

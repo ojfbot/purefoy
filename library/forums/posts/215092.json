@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215092",
+    "forum_slug": "camera",
+    "topic_slug": "on-cleaner-anamorphics",
+    "parent_post_id": "215088",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The only reason I am “split” on the subject, as you say, is that if you reduce every optical indication that something was shot on anamorphic lenses, then why shoot on anamorphic lenses? In the pre-D.I. days of film prints, a 35mm anamorphic production used a larger negative area than Super-35 cropped for a 2.40 image plus every generation was contacted printed.  And there was somewhat less depth of field on average compared to Super-35 due to the longer focal lengths used.\nBut now with digital and larger format cameras, none of those are issues; even with 4K cinema release, the current digital cinema cameras with spherical lenses deliver enough resolution, and shallow-focus isn’t hard to get with fast spherical lenses.  So that leaves using anamorphic lenses for their unusual optical qualities.",
+  "content_html": "<p>The only reason I am “split” on the subject, as you say, is that if you reduce every optical indication that something was shot on anamorphic lenses, then why shoot on anamorphic lenses? In the pre-D.I. days of film prints, a 35mm anamorphic production used a larger negative area than Super-35 cropped for a 2.40 image plus every generation was contacted printed.  And there was somewhat less depth of field on average compared to Super-35 due to the longer focal lengths used.</p>\n<p>But now with digital and larger format cameras, none of those are issues; even with 4K cinema release, the current digital cinema cameras with spherical lenses deliver enough resolution, and shallow-focus isn’t hard to get with fast spherical lenses.  So that leaves using anamorphic lenses for their unusual optical qualities.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The only reason I am “split” on the subject, as you say, is that if you reduce every optical indication that something was shot on anamorphic lenses, then why shoot on anamorphic lenses? In the pre-D.I. days of film prints, a 35mm anamorphic production used a larger negative area than Super-35 cropped for a 2.40 image plus every generation was contacted printed.  And there was somewhat less depth of field on average compared to Super-35 due to the longer focal lengths used."
+    },
+    {
+      "type": "paragraph",
+      "text": "But now with digital and larger format cameras, none of those are issues; even with 4K cinema release, the current digital cinema cameras with spherical lenses deliver enough resolution, and shallow-focus isn’t hard to get with fast spherical lenses.  So that leaves using anamorphic lenses for their unusual optical qualities."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215102",
+    "scraped_at": "2026-01-15T15:23:21.463943+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/on-cleaner-anamorphics/#post-215102",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b5e65c86e2514f3d469e1b51a89514af730584e4ededea2275beada7a03014e2",
+    "parser_version": "bbpress-v2"
+  }
+}

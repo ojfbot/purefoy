@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/low-contrast-look-for-cinema-photography-2/#post-217380",
+  "forum_slug": "post",
+  "topic_slug": "low-contrast-look-for-cinema-photography-2",
+  "title": "Low Contrast Look For Cinema & Photography",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217379",
+    "217380"
+  ],
+  "reply_tree": {
+    "post_id": "217379",
+    "post_type": "topic",
+    "author": "torresleonpedro",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "217380",
+        "post_type": "reply",
+        "author": "torresleonpedro",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/low-contrast-look-for-cinema-photography-2/#post-217380",
+    "scraped_at": "2026-01-15T12:09:03.710210+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/low-contrast-look-for-cinema-photography-2/#post-217380",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ed316bde94a8efad90d620bc5312ac03e50b39e41c606e68f58e0b3e402885e3",
+    "parser_version": "bbpress-v2"
+  }
+}

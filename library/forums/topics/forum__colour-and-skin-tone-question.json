@@ -1,0 +1,113 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/colour-and-skin-tone-question/#post-220527",
+  "forum_slug": "forum",
+  "topic_slug": "colour-and-skin-tone-question",
+  "title": "Colour and Skin Tone Question",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220369",
+    "220426",
+    "220438",
+    "220463",
+    "220514",
+    "220516",
+    "220517",
+    "220518",
+    "220520",
+    "220521",
+    "220527"
+  ],
+  "reply_tree": {
+    "post_id": "220369",
+    "post_type": "topic",
+    "author": "D_Szasz",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "220426",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220438",
+        "post_type": "reply",
+        "author": "D_Szasz",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220463",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220514",
+        "post_type": "reply",
+        "author": "D_Szasz",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220516",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220517",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220518",
+        "post_type": "reply",
+        "author": "D_Szasz",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220520",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220521",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220527",
+        "post_type": "reply",
+        "author": "D_Szasz",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 10,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/colour-and-skin-tone-question/#post-220527",
+    "scraped_at": "2026-01-15T13:23:40.814323+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/colour-and-skin-tone-question/#post-220527",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "15f88f8fa740c54e5d74a84bb75ce958750e8f622f611074840d30b345d72024",
+    "parser_version": "bbpress-v2"
+  }
+}

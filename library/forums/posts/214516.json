@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214516",
+    "forum_slug": "camera",
+    "topic_slug": "full-frame-digital",
+    "parent_post_id": "214515",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "We used the Alexa LF on ‘1917’ because we liked the shallow depth of field as well as the increased information it gave us in comparison to the standard Alexa. The S35 did not exist at that time and we only had a look at that camera when we were in prep for ‘Empire’.\nTo compensate depth of field between the LF and the S35 wouldn’t it require closing down the iris rather than opening it up?",
+  "content_html": "<p>We used the Alexa LF on ‘1917’ because we liked the shallow depth of field as well as the increased information it gave us in comparison to the standard Alexa. The S35 did not exist at that time and we only had a look at that camera when we were in prep for ‘Empire’.</p>\n<p>To compensate depth of field between the LF and the S35 wouldn’t it require closing down the iris rather than opening it up?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "We used the Alexa LF on ‘1917’ because we liked the shallow depth of field as well as the increased information it gave us in comparison to the standard Alexa. The S35 did not exist at that time and we only had a look at that camera when we were in prep for ‘Empire’."
+    },
+    {
+      "type": "paragraph",
+      "text": "To compensate depth of field between the LF and the S35 wouldn’t it require closing down the iris rather than opening it up?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/full-frame-digital/#post-214545",
+    "scraped_at": "2026-01-15T15:25:49.126985+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/full-frame-digital/#post-214545",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ee412ca727e486f3b5bbd2d5d8d9e9bb7574f3332f83639896a0a39bf49d944b",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ids": {
+    "post_id": "215963",
+    "forum_slug": "camera",
+    "topic_slug": "akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train",
+    "parent_post_id": "215916",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "r.k.Logeshwaran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That’s a great analysis Max….\nIt seems to be an optical illusion, found out this link.\nhttps://www.psy.ritsumei.ac.jp/akitaoka/saishin61e.html?s=09",
+  "content_html": "<p>That’s a great analysis Max….</p>\n<p>It seems to be an optical illusion, found out this link.</p>\n<p><a href=\"https://www.psy.ritsumei.ac.jp/akitaoka/saishin61e.html?s=09\" rel=\"nofollow\">https://www.psy.ritsumei.ac.jp/akitaoka/saishin61e.html?s=09</a></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That’s a great analysis Max…."
+    },
+    {
+      "type": "paragraph",
+      "text": "It seems to be an optical illusion, found out this link."
+    },
+    {
+      "type": "paragraph",
+      "text": "https://www.psy.ritsumei.ac.jp/akitaoka/saishin61e.html?s=09"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.psy.ritsumei.ac.jp/akitaoka/saishin61e.html?s=09",
+      "text": "https://www.psy.ritsumei.ac.jp/akitaoka/saishin61e.html?s=09",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train/#post-215976",
+    "scraped_at": "2026-01-15T15:20:09.296229+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train/#post-215976",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d5678a6443e187998d66f55f703dc4a46ca405c51c60ce52ed464a3e3a9b4cef",
+    "parser_version": "bbpress-v2"
+  }
+}

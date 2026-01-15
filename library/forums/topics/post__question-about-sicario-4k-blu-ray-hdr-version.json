@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/question-about-sicario-4k-blu-ray-hdr-version/#post-218562",
+  "forum_slug": "post",
+  "topic_slug": "question-about-sicario-4k-blu-ray-hdr-version",
+  "title": "Question about Sicario 4K blu-ray (HDR) version.",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "218514",
+    "218540",
+    "218542",
+    "218562"
+  ],
+  "reply_tree": {
+    "post_id": "218514",
+    "post_type": "topic",
+    "author": "Jouka",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "218540",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218542",
+        "post_type": "reply",
+        "author": "Jouka",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218562",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/question-about-sicario-4k-blu-ray-hdr-version/#post-218562",
+    "scraped_at": "2026-01-15T12:08:04.696554+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/question-about-sicario-4k-blu-ray-hdr-version/#post-218562",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "950f5e89929a08611c8dc82cc5782da04a6fb2b478f066db93441c714f6616d9",
+    "parser_version": "bbpress-v2"
+  }
+}

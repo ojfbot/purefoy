@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217980",
+    "forum_slug": "team-deakins",
+    "topic_slug": "reflections-new-book",
+    "parent_post_id": "217941",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "James",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "We will be in Toronto in June. We’ll be doing a Q&A after a screening of Shawshank, introducing another film chosen by Roger and doing a book signing of BYWAYS.",
+  "content_html": "<p>We will be in Toronto in June. We’ll be doing a Q&amp;A after a screening of Shawshank, introducing another film chosen by Roger and doing a book signing of BYWAYS.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "We will be in Toronto in June. We’ll be doing a Q&A after a screening of Shawshank, introducing another film chosen by Roger and doing a book signing of BYWAYS."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/",
+    "scraped_at": "2026-01-15T11:32:34.539325+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b7722f0bda60b57d40001e53ea5f5527ee69098c62a8b3c53b873cf2fd5b6481",
+    "parser_version": "bbpress-v2"
+  }
+}

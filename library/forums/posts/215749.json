@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215749",
+    "forum_slug": "team-deakins",
+    "topic_slug": "alex-garland-guest",
+    "parent_post_id": "212290",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "katya",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Would love to bubble this to the top having just watched Civil War in IMAX and re-watched Ex Machina in IMAX. Fingers crossed",
+  "content_html": "<p>Would love to bubble this to the top having just watched Civil War in IMAX and re-watched Ex Machina in IMAX. Fingers crossed</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Would love to bubble this to the top having just watched Civil War in IMAX and re-watched Ex Machina in IMAX. Fingers crossed"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/alex-garland-guest/#post-215749",
+    "scraped_at": "2026-01-15T13:16:21.052890+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/alex-garland-guest/#post-215749",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "85d51a729c16b39ee1626bdbb5e342709cc490dffe49aa715e9a2852279b1257",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/lighting-help-big-open-windows/",
+  "forum_slug": "forum",
+  "topic_slug": "lighting-help-big-open-windows",
+  "title": "Lighting Help – Big Open Windows",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220287"
+  ],
+  "reply_tree": {
+    "post_id": "220287",
+    "post_type": "topic",
+    "author": "trevorpendleton",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-help-big-open-windows/",
+    "scraped_at": "2026-01-15T13:39:58.705352+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-help-big-open-windows/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c464b119a1e2fcc1af56944938989b153c3480fbb6cb61b85179c86fbeb0679c",
+    "parser_version": "bbpress-v2"
+  }
+}

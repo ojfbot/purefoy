@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220969",
+    "forum_slug": "forum",
+    "topic_slug": "blue-hour-lighting-tips",
+    "parent_post_id": "220934",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "We shot that sequence at dawn and at dusk, scheduling some of the shots to follow a day scene or before a night scene. Some shots were nowhere near the location where the drug deal takes place so we had to connect them to other work.",
+  "content_html": "<p>We shot that sequence at dawn and at dusk, scheduling some of the shots to follow a day scene or before a night scene. Some shots were nowhere near the location where the drug deal takes place so we had to connect them to other work.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "We shot that sequence at dawn and at dusk, scheduling some of the shots to follow a day scene or before a night scene. Some shots were nowhere near the location where the drug deal takes place so we had to connect them to other work."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/blue-hour-lighting-tips/#post-220969",
+    "scraped_at": "2026-01-15T12:26:16.547090+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-hour-lighting-tips/#post-220969",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "86f4105fbffa5a910f6a329bbec44cf4609838ed50a35ed2392ba2712f5648f6",
+    "parser_version": "bbpress-v2"
+  }
+}

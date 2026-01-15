@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "216845",
+    "forum_slug": "film-talk",
+    "topic_slug": "4k-physical-releases"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rspencerw",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’ve recently taken up the hobby of 4k disc collecting. There are many of Roger’s films that have released on 4k, and they look incredible, but some of the omissions are titles that would look stunning on an OLED tv. I’m curious if there’s any chance that we’ll ever get 4k disc releases for titles like “The Assassination of Jesse James by the Coward Robert Ford,” “Prisoners,” and “O Brother, Where Art Thou?”\nThanks a heap for any information, and thank you for the podcast, it is such a gift.",
+  "content_html": "<p>I’ve recently taken up the hobby of 4k disc collecting. There are many of Roger’s films that have released on 4k, and they look incredible, but some of the omissions are titles that would look stunning on an OLED tv. I’m curious if there’s any chance that we’ll ever get 4k disc releases for titles like “The Assassination of Jesse James by the Coward Robert Ford,” “Prisoners,” and “O Brother, Where Art Thou?”</p>\n<p>Thanks a heap for any information, and thank you for the podcast, it is such a gift.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’ve recently taken up the hobby of 4k disc collecting. There are many of Roger’s films that have released on 4k, and they look incredible, but some of the omissions are titles that would look stunning on an OLED tv. I’m curious if there’s any chance that we’ll ever get 4k disc releases for titles like “The Assassination of Jesse James by the Coward Robert Ford,” “Prisoners,” and “O Brother, Where Art Thou?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks a heap for any information, and thank you for the podcast, it is such a gift."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/4k-physical-releases/#post-217195",
+    "scraped_at": "2026-01-15T12:09:14.269053+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/4k-physical-releases/#post-217195",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6c7e3e8184de0f1dd25f7c236eb615de4d8c8559e1713417724695bc30c92309",
+    "parser_version": "bbpress-v2"
+  }
+}

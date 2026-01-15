@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "216570",
+    "forum_slug": "camera",
+    "topic_slug": "digital-still-images-development"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "CarlZand",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello, Roger.\nI´m an amateur street photographer, moved basically by intuiton. I use an old digital camera (Lumix LX100 14 mp). It is a small camera that usually goes unnoticed, but, I have ethical issues and most of the time (I am not a shy person) ask for permission for certain kinds of shots. I think that I heard you said that you process your images in Photoshop. I use Lightroom, wich is most familiar to me, on a basic level. I recently upgraded my camera to a Sony a6400, also an APSC sensor. I am not a very technical person, but I know enough to make an image that works for me. I have not used this new camera because I am waiting for a prime 30 mm 1.4 lens to use it with; that lens, for what I understand is the equivalent of a 40-45 mm on a full frame sensor. Sorry for the long digression. What I am asking, is, what suggestion you can give me, if you are so kind, as to how to consider when converting the color RAW images to B & W? I live in one of the most dangerous cities in the world: Culiacán, Sinaloa in México, so I walk the streets with caution nowadays. But I admire your still images very much and I appretiate your forums and conversations. Thank you again, and wish you the best.",
+  "content_html": "<p>Hello, Roger.</p>\n<p>I´m an amateur street photographer, moved basically by intuiton. I use an old digital camera (Lumix LX100 14 mp). It is a small camera that usually goes unnoticed, but, I have ethical issues and most of the time (I am not a shy person) ask for permission for certain kinds of shots. I think that I heard you said that you process your images in Photoshop. I use Lightroom, wich is most familiar to me, on a basic level. I recently upgraded my camera to a Sony a6400, also an APSC sensor. I am not a very technical person, but I know enough to make an image that works for me. I have not used this new camera because I am waiting for a prime 30 mm 1.4 lens to use it with; that lens, for what I understand is the equivalent of a 40-45 mm on a full frame sensor. Sorry for the long digression. What I am asking, is, what suggestion you can give me, if you are so kind, as to how to consider when converting the color RAW images to B &amp; W? I live in one of the most dangerous cities in the world: Culiacán, Sinaloa in México, so I walk the streets with caution nowadays. But I admire your still images very much and I appretiate your forums and conversations. Thank you again, and wish you the best.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello, Roger."
+    },
+    {
+      "type": "paragraph",
+      "text": "I´m an amateur street photographer, moved basically by intuiton. I use an old digital camera (Lumix LX100 14 mp). It is a small camera that usually goes unnoticed, but, I have ethical issues and most of the time (I am not a shy person) ask for permission for certain kinds of shots. I think that I heard you said that you process your images in Photoshop. I use Lightroom, wich is most familiar to me, on a basic level. I recently upgraded my camera to a Sony a6400, also an APSC sensor. I am not a very technical person, but I know enough to make an image that works for me. I have not used this new camera because I am waiting for a prime 30 mm 1.4 lens to use it with; that lens, for what I understand is the equivalent of a 40-45 mm on a full frame sensor. Sorry for the long digression. What I am asking, is, what suggestion you can give me, if you are so kind, as to how to consider when converting the color RAW images to B & W? I live in one of the most dangerous cities in the world: Culiacán, Sinaloa in México, so I walk the streets with caution nowadays. But I admire your still images very much and I appretiate your forums and conversations. Thank you again, and wish you the best."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/digital-still-images-development/#post-216574",
+    "scraped_at": "2026-01-15T14:13:00.163617+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/digital-still-images-development/#post-216574",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fab564a193740cf42c3a507f00409b4b46de474e02ea2530837463cfbb758279",
+    "parser_version": "bbpress-v2"
+  }
+}

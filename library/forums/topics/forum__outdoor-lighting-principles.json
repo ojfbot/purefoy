@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/outdoor-lighting-principles/#post-219836",
+  "forum_slug": "forum",
+  "topic_slug": "outdoor-lighting-principles",
+  "title": "Outdoor Lighting Principles",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216353",
+    "216354",
+    "216358",
+    "216374",
+    "219836"
+  ],
+  "reply_tree": {
+    "post_id": "216353",
+    "post_type": "topic",
+    "author": "William Knowles",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216354",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216358",
+        "post_type": "reply",
+        "author": "William Knowles",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216374",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219836",
+        "post_type": "reply",
+        "author": "Trickeddken",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/outdoor-lighting-principles/#post-219836",
+    "scraped_at": "2026-01-15T14:16:28.713172+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/outdoor-lighting-principles/#post-219836",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "78bce5077bf6470b2a5ae60ef19e65066f7093fe085f24b75951d245760fadf3",
+    "parser_version": "bbpress-v2"
+  }
+}

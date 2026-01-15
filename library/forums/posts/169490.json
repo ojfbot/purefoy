@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "169490",
+    "forum_slug": "website-news",
+    "topic_slug": "new-forum",
+    "parent_post_id": "169440",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "James",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Max,\nApparently, when you first post, it requires approval. And I’m not sure if this forum allows posting images when you first post a topic. Obviously, something I’m going to have to figure out how to change!! I did approve your topic and I see there were no images. Could you try posting the images in the reply and see if that works?\nThanks for your patience.\nJ.",
+  "content_html": "<p>Hi Max,</p>\n<p>Apparently, when you first post, it requires approval. And I’m not sure if this forum allows posting images when you first post a topic. Obviously, something I’m going to have to figure out how to change!! I did approve your topic and I see there were no images. Could you try posting the images in the reply and see if that works?</p>\n<p>Thanks for your patience.</p>\n<p>J.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Max,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apparently, when you first post, it requires approval. And I’m not sure if this forum allows posting images when you first post a topic. Obviously, something I’m going to have to figure out how to change!! I did approve your topic and I see there were no images. Could you try posting the images in the reply and see if that works?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks for your patience."
+    },
+    {
+      "type": "paragraph",
+      "text": "J."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/new-forum/#post-169556",
+    "scraped_at": "2026-01-15T12:48:57.912266+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/new-forum/#post-169556",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "47709e0b968e42392b6fb0e908f82608d6bb34dbba00f5cb56905e01a40988e6",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220069",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-notes",
+    "parent_post_id": "215697",
+    "parent_type": "topic",
+    "position": 12
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I wonder if Amazon will sell copies intended for sale in the States. It is a mystery!",
+  "content_html": "<p>I wonder if Amazon will sell copies intended for sale in the States. It is a mystery!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I wonder if Amazon will sell copies intended for sale in the States. It is a mystery!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-notes/#post-220270",
+    "scraped_at": "2026-01-15T13:56:35.805808+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-notes/#post-220270",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "64a2133e1e465c5b85639c8806f0501210214436f20c2d3d8925dd090e09533b",
+    "parser_version": "bbpress-v2"
+  }
+}

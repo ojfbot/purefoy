@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/normal-lens-fo-arir-large-format/#post-215297",
+  "forum_slug": "camera",
+  "topic_slug": "normal-lens-fo-arir-large-format",
+  "title": "Normal lens fo arir large format",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215293",
+    "215294",
+    "215295",
+    "215296",
+    "215297"
+  ],
+  "reply_tree": {
+    "post_id": "215293",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215294",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215295",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215296",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215297",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/normal-lens-fo-arir-large-format/#post-215297",
+    "scraped_at": "2026-01-15T15:22:24.319280+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/normal-lens-fo-arir-large-format/#post-215297",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fbfaf41b281d8bd14d3d18c3d74d4e2411435c4dca4e3a407c606996be0bab33",
+    "parser_version": "bbpress-v2"
+  }
+}

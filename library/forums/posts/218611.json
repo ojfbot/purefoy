@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218611",
+    "forum_slug": "forum",
+    "topic_slug": "white-balance-with-multiple-light-sources",
+    "parent_post_id": "218550",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You only need to be consistent shot to shot\nwithin\na scene — starting a new scene, you can chose a new color balance, etc.",
+  "content_html": "<p>You only need to be consistent shot to shot <em>within</em> a scene — starting a new scene, you can chose a new color balance, etc.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You only need to be consistent shot to shot\nwithin\na scene — starting a new scene, you can chose a new color balance, etc."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/white-balance-with-multiple-light-sources/#post-218611",
+    "scraped_at": "2026-01-15T14:50:55.318455+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-with-multiple-light-sources/#post-218611",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0cc931fd3026f4af5a7cbb26fe37fd3835bbb8edef6f6a188de48720d693ad0e",
+    "parser_version": "bbpress-v2"
+  }
+}

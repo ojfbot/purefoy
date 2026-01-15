@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214906",
+    "forum_slug": "forum",
+    "topic_slug": "is-the-craft-of-lighting-black-and-white-different-from-color",
+    "parent_post_id": "214895",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Sorry, I take back the B&W viewing finder recommendation, just tested my old one, it’s not working well enough on reds and yellows.",
+  "content_html": "<p>Sorry, I take back the B&amp;W viewing finder recommendation, just tested my old one, it’s not working well enough on reds and yellows.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sorry, I take back the B&W viewing finder recommendation, just tested my old one, it’s not working well enough on reds and yellows."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/is-the-craft-of-lighting-black-and-white-different-from-color/#post-214906",
+    "scraped_at": "2026-01-15T15:50:48.339998+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/is-the-craft-of-lighting-black-and-white-different-from-color/#post-214906",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "323ad54562512cf11ab87ee0614284b56a62623ec295433338de6cdebdc094d4",
+    "parser_version": "bbpress-v2"
+  }
+}

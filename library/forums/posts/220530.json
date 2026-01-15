@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "220530",
+    "forum_slug": "team-deakins",
+    "topic_slug": "rogers-look"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "tuddybalsamo",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "What kinds of boots and jeans does Roger wear? Is it specific? Or many different kinds?",
+  "content_html": "<p>What kinds of boots and jeans does Roger wear? Is it specific? Or many different kinds?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "What kinds of boots and jeans does Roger wear? Is it specific? Or many different kinds?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/rogers-look/#post-220696",
+    "scraped_at": "2026-01-15T12:08:01.539359+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/rogers-look/#post-220696",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8ff11f63c0c71d444152de35e3d9f18b59e0f940c1ce4d5261cf5a68ebab8f2b",
+    "parser_version": "bbpress-v2"
+  }
+}

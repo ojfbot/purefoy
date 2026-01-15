@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "169485",
+    "forum_slug": "website-news",
+    "topic_slug": "new-forum",
+    "parent_post_id": "169440",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Ms. James, Some hours ago I tried to open a topic in “lighting” section. After write and “send” the post, there was a message underneath that said: “This topic is pending moderation.” I tried to attach images maybe something went wrong.\nCan I try to re-open the topic? Or I have just wait for a moderation process?\nThank you very much for your time and for your patience.\nI wish you a peaceful day.\nMax.",
+  "content_html": "<p>Hello Ms. James, Some hours ago I tried to open a topic in “lighting” section. After write and “send” the post, there was a message underneath that said: “This topic is pending moderation.” I tried to attach images maybe something went wrong.<br/>\nCan I try to re-open the topic? Or I have just wait for a moderation process?</p>\n<p>Thank you very much for your time and for your patience.</p>\n<p>I wish you a peaceful day.<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Ms. James, Some hours ago I tried to open a topic in “lighting” section. After write and “send” the post, there was a message underneath that said: “This topic is pending moderation.” I tried to attach images maybe something went wrong.\nCan I try to re-open the topic? Or I have just wait for a moderation process?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you very much for your time and for your patience."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful day.\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/new-forum/#post-169556",
+    "scraped_at": "2026-01-15T12:48:57.911973+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/new-forum/#post-169556",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "758a0624cd15da6c0b82d1fc9bd560b49bf6f73bbe3bdae280e49091b80eddb6",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "219669",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-notes",
+    "parent_post_id": "215697",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "jijivishant",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Really appreciate this, if you ever get to organise the document it will be lovely. Thanks for this.",
+  "content_html": "<p>Really appreciate this, if you ever get to organise the document it will be lovely. Thanks for this.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Really appreciate this, if you ever get to organise the document it will be lovely. Thanks for this."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-notes/#post-220270",
+    "scraped_at": "2026-01-15T13:56:35.804497+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-notes/#post-220270",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "57c40e96cd59cb16e351e490e79633561f85e33e605acba09111473b7614afe0",
+    "parser_version": "bbpress-v2"
+  }
+}

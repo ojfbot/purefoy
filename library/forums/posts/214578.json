@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "214578",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-red-vs-red-filter"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "TheodorAdam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello,\nI would like to ask for an opinion,\nIm shooting a scene that is supposed to be completely red, a “Redroom”. I was wondering if there would be any downsides to shooting this scene with a Red Tiffen photography filter on the camera (Arri Mini) instead lighting it red with lights. Besides compensating for the light loss caused by the filter (2-3 stops).\nThank you for any feedback,",
+  "content_html": "<p>Hello,</p>\n<p>I would like to ask for an opinion,</p>\n<p>Im shooting a scene that is supposed to be completely red, a “Redroom”. I was wondering if there would be any downsides to shooting this scene with a Red Tiffen photography filter on the camera (Arri Mini) instead lighting it red with lights. Besides compensating for the light loss caused by the filter (2-3 stops).</p>\n<p>Thank you for any feedback,</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I would like to ask for an opinion,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im shooting a scene that is supposed to be completely red, a “Redroom”. I was wondering if there would be any downsides to shooting this scene with a Red Tiffen photography filter on the camera (Arri Mini) instead lighting it red with lights. Besides compensating for the light loss caused by the filter (2-3 stops)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for any feedback,"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-red-vs-red-filter/#post-214584",
+    "scraped_at": "2026-01-15T15:52:39.465780+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-red-vs-red-filter/#post-214584",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b12cb8fbc535e582052369f4ee326ddefe2919646dab1709c8519a8b3fb024ef",
+    "parser_version": "bbpress-v2"
+  }
+}

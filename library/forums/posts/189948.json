@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "post_id": "189948",
+    "forum_slug": "camera",
+    "topic_slug": "ncfom-hotel-scene"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master when Anton and Carson making conversation in hotel room. Suddenly telephone ringing then there is cut to Carson OTS. Why did you just put the Carson mysterious suggestions particularly. The whole conversations aall are singles. Except thi one. Is this conscious decision?",
+  "content_html": "<p>Dear master when Anton and Carson making conversation in hotel room. Suddenly telephone ringing then there is cut to Carson OTS. Why did you just put the Carson mysterious suggestions particularly. The whole conversations aall are singles. Except thi one. Is this conscious decision?<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/189948/khvgduwqy96r5hxui4f9cpi6pknh6r9i.png\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master when Anton and Carson making conversation in hotel room. Suddenly telephone ringing then there is cut to Carson OTS. Why did you just put the Carson mysterious suggestions particularly. The whole conversations aall are singles. Except thi one. Is this conscious decision?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/189948/khvgduwqy96r5hxui4f9cpi6pknh6r9i.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ncfom-hotel-scene/#post-189959",
+    "scraped_at": "2026-01-15T15:43:13.683798+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ncfom-hotel-scene/#post-189959",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "671f26c744f4068f150600aa01781a874b921c70e8b33610e47ddfd0b3c0f6e2",
+    "parser_version": "bbpress-v2"
+  }
+}

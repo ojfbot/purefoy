@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "post_id": "215521",
+    "forum_slug": "post",
+    "topic_slug": "regraded-no-country-for-old-men"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "awn",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A fanedit of No Country For Old Men appeared on the internet.\nIt’s 4K upscale of the Blu-Ray but they also regraded the image.\nIn the notes they say:\nthe light green teal is gone, but a light yellow-red teal was added (which is is intentional) to give the whole thing a western touch. I found the shadows on the Blu-ray too too strong, especially in night scenes they lost a lot of details.\nA comparison can be found here:\nhttps://slow.pics/c/1orXJdMK\nI’m curious if that fan edit is actually closer to the intended look than the retail release.",
+  "content_html": "<p>A fanedit of No Country For Old Men appeared on the internet.</p>\n<p>It’s 4K upscale of the Blu-Ray but they also regraded the image.</p>\n<p>In the notes they say:<br/>\nthe light green teal is gone, but a light yellow-red teal was added (which is is intentional) to give the whole thing a western touch. I found the shadows on the Blu-ray too too strong, especially in night scenes they lost a lot of details.</p>\n<p>A comparison can be found here:</p>\n<p><a href=\"https://slow.pics/c/1orXJdMK\" rel=\"nofollow\">https://slow.pics/c/1orXJdMK</a></p>\n<p>I’m curious if that fan edit is actually closer to the intended look than the retail release.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A fanedit of No Country For Old Men appeared on the internet."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s 4K upscale of the Blu-Ray but they also regraded the image."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the notes they say:\nthe light green teal is gone, but a light yellow-red teal was added (which is is intentional) to give the whole thing a western touch. I found the shadows on the Blu-ray too too strong, especially in night scenes they lost a lot of details."
+    },
+    {
+      "type": "paragraph",
+      "text": "A comparison can be found here:"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://slow.pics/c/1orXJdMK"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m curious if that fan edit is actually closer to the intended look than the retail release."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://slow.pics/c/1orXJdMK",
+      "text": "https://slow.pics/c/1orXJdMK",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/regraded-no-country-for-old-men/#post-215538",
+    "scraped_at": "2026-01-15T12:48:48.878691+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/regraded-no-country-for-old-men/#post-215538",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bcab1ea14b4c3bb3ee1c20c8614a1b3e6449b660ba131004be336b5a588372fb",
+    "parser_version": "bbpress-v2"
+  }
+}

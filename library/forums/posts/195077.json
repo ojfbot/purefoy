@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "195077",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-practical-bare-bulb",
+    "parent_post_id": "190614",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "JasonK",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "This is such a good example of masterful cinematography. Less is more … way more often than less is less… a small fix to make the perfect light.",
+  "content_html": "<p>This is such a good example of masterful cinematography. Less is more … way more often than less is less… a small fix to make the perfect light.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This is such a good example of masterful cinematography. Less is more … way more often than less is less… a small fix to make the perfect light."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-practical-bare-bulb/",
+    "scraped_at": "2026-01-15T15:55:03.849919+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-practical-bare-bulb/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4af3ef824625b14c421e92971579f5252a4778b34b75190f3e5cb7919c82b822",
+    "parser_version": "bbpress-v2"
+  }
+}

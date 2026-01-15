@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "199724",
+    "forum_slug": "forum",
+    "topic_slug": "attenuation-of-light",
+    "parent_post_id": "198716",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "jeff791107",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Max,\nI am appreciated your informative answer. You are jumping out of box, which I never thought like that. I find it really helpful. Thank you so much.",
+  "content_html": "<p>Hello Max,</p>\n<p>I am appreciated your informative answer. You are jumping out of box, which I never thought like that. I find it really helpful. Thank you so much.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Max,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am appreciated your informative answer. You are jumping out of box, which I never thought like that. I find it really helpful. Thank you so much."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/attenuation-of-light/#post-201860",
+    "scraped_at": "2026-01-15T15:54:25.124930+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/attenuation-of-light/#post-201860",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "17b837362f9d61cc544d39663757bef8ea972577d5f6904eee8d00a11a336188",
+    "parser_version": "bbpress-v2"
+  }
+}

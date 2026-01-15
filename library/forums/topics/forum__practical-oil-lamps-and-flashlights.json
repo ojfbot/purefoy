@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/practical-oil-lamps-and-flashlights/#post-220587",
+  "forum_slug": "forum",
+  "topic_slug": "practical-oil-lamps-and-flashlights",
+  "title": "Practical Oil Lamps and Flashlights",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220579",
+    "220587"
+  ],
+  "reply_tree": {
+    "post_id": "220579",
+    "post_type": "topic",
+    "author": "Luke Larsen",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "220587",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/practical-oil-lamps-and-flashlights/#post-220587",
+    "scraped_at": "2026-01-15T13:16:13.668057+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/practical-oil-lamps-and-flashlights/#post-220587",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "41a3b7a3f178e234329440431867632b68aae699eea9d581014e62ab71ba48e2",
+    "parser_version": "bbpress-v2"
+  }
+}

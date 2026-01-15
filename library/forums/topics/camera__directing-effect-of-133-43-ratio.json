@@ -1,0 +1,178 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+  "forum_slug": "camera",
+  "topic_slug": "directing-effect-of-133-43-ratio",
+  "title": "Directing effect of 1:33 (4:3) ratio",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215637",
+    "215643",
+    "215671",
+    "215673",
+    "215684",
+    "215690",
+    "215691",
+    "215694",
+    "215695",
+    "215708",
+    "215709",
+    "215710",
+    "215815",
+    "216583",
+    "216586",
+    "216588",
+    "215637",
+    "216589",
+    "216591",
+    "216615"
+  ],
+  "reply_tree": {
+    "post_id": "215637",
+    "post_type": "topic",
+    "author": "AOXEN",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215643",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215671",
+        "post_type": "reply",
+        "author": "Mr.salad",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215673",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215684",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215690",
+        "post_type": "reply",
+        "author": "BenHolt98",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215691",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215694",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215695",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215708",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215709",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215710",
+        "post_type": "reply",
+        "author": "Mike",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215815",
+        "post_type": "reply",
+        "author": "mskb",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216583",
+        "post_type": "reply",
+        "author": "Joshualawhorn",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216586",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216588",
+        "post_type": "reply",
+        "author": "Joshualawhorn",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216589",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216591",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216615",
+        "post_type": "reply",
+        "author": "amdiwani",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 18,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+    "scraped_at": "2026-01-15T13:56:40.562690+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5b71329e0e7a02bb96e89b28efabeee279e5bae4d63419b8fb526e5b0d20a47d",
+    "parser_version": "bbpress-v2"
+  }
+}

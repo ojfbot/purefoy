@@ -1,0 +1,109 @@
+{
+  "ids": {
+    "post_id": "215082",
+    "forum_slug": "forum",
+    "topic_slug": "pushing-light-through-windows"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "halfgrain",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger and all forum members,\ndue to lack of experience when it comes to lighting a series of windows from the outside with serious HMI’s, I would be excited to get a little bit of insight into your experiences with it.\nConcretely speaking, in a lot of diagrams and “looking at lighting” articles by Roger when going for a natural daylight look, I see 18k’s bouncing into large 12x’s or 20x’s, usually combined with light diffusion on the windows.\nWhat I’m surprised by, is how different the results often seem to look.\nSometimes, the resulting images seem still on the dark side, often the characters are in heavy silhouette, there seems to be very little bounce in the room and it’s almost just a beam of light coming through the windows. (for example in Bladerunner – Sappers Farm, Sicario – Silva’s son or Empire of light – living room scene)\nIn other instances, this lighting approach seem to light up the whole inside space and there is no other light needed (Unbroken – Restaurant scene, Goldfinch – bedroom scene or Prisoners – inside scene).\nIs this only due to the design of the inside space (high or low ceilings, wall color and material, size), distance of the actors to the windows and blocking or am I missing something about different ways of “pushing” light into spaces?\nI can see how in Bladerunner for example the bounces were further away from the windows and also maybe flagged on the sides, so that it would be more of a “light tunnel” effect?\nIs it also just an exposure adjustment, since the windows are blown out anyway, that you have the choice to just open up the aputure and light up the room without changing much about the texture on the windows?\nI’m excited to hear your thoughts and experiences on this!\nThank you all!",
+  "content_html": "<p>Dear Roger and all forum members,</p>\n<p>due to lack of experience when it comes to lighting a series of windows from the outside with serious HMI’s, I would be excited to get a little bit of insight into your experiences with it.</p>\n<p>Concretely speaking, in a lot of diagrams and “looking at lighting” articles by Roger when going for a natural daylight look, I see 18k’s bouncing into large 12x’s or 20x’s, usually combined with light diffusion on the windows.</p>\n<p>What I’m surprised by, is how different the results often seem to look.</p>\n<p>Sometimes, the resulting images seem still on the dark side, often the characters are in heavy silhouette, there seems to be very little bounce in the room and it’s almost just a beam of light coming through the windows. (for example in Bladerunner – Sappers Farm, Sicario – Silva’s son or Empire of light – living room scene)</p>\n<p>In other instances, this lighting approach seem to light up the whole inside space and there is no other light needed (Unbroken – Restaurant scene, Goldfinch – bedroom scene or Prisoners – inside scene).</p>\n<p>Is this only due to the design of the inside space (high or low ceilings, wall color and material, size), distance of the actors to the windows and blocking or am I missing something about different ways of “pushing” light into spaces?</p>\n<p>I can see how in Bladerunner for example the bounces were further away from the windows and also maybe flagged on the sides, so that it would be more of a “light tunnel” effect?</p>\n<p>Is it also just an exposure adjustment, since the windows are blown out anyway, that you have the choice to just open up the aputure and light up the room without changing much about the texture on the windows?</p>\n<p>I’m excited to hear your thoughts and experiences on this!</p>\n<p>Thank you all!</p>\n<p><img alt=\"bladerunner\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215082/8056nyc3wevxuinbtv4ypeplxmdsw4lf.jpg\" width=\"300\"/><img alt=\"sicario\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215082/yz4n69cvg17txsq9k6rzo8pkp6wgy436.jpg\" width=\"300\"/></p>\n<p><img alt=\"empire of light\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215082/tqtcisa0id5o2z7mgt3h7cssec8g3xsx.jpg\" width=\"300\"/></p>\n<p><img alt=\"unbroken\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215082/o6iegen31512kfor2kv7txfnfy1rzk9r.jpg\" width=\"300\"/></p>\n<p><img alt=\"goldfinch\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215082/pe2eoowak2tn28u1f4fklsd3c7ekyach.jpg\" width=\"300\"/></p>\n<p><img alt=\"prisoners\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215082/60n9bqpptgr748qg0pnb5fzuogwn1uam.jpg\" width=\"300\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger and all forum members,"
+    },
+    {
+      "type": "paragraph",
+      "text": "due to lack of experience when it comes to lighting a series of windows from the outside with serious HMI’s, I would be excited to get a little bit of insight into your experiences with it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Concretely speaking, in a lot of diagrams and “looking at lighting” articles by Roger when going for a natural daylight look, I see 18k’s bouncing into large 12x’s or 20x’s, usually combined with light diffusion on the windows."
+    },
+    {
+      "type": "paragraph",
+      "text": "What I’m surprised by, is how different the results often seem to look."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, the resulting images seem still on the dark side, often the characters are in heavy silhouette, there seems to be very little bounce in the room and it’s almost just a beam of light coming through the windows. (for example in Bladerunner – Sappers Farm, Sicario – Silva’s son or Empire of light – living room scene)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In other instances, this lighting approach seem to light up the whole inside space and there is no other light needed (Unbroken – Restaurant scene, Goldfinch – bedroom scene or Prisoners – inside scene)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Is this only due to the design of the inside space (high or low ceilings, wall color and material, size), distance of the actors to the windows and blocking or am I missing something about different ways of “pushing” light into spaces?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I can see how in Bladerunner for example the bounces were further away from the windows and also maybe flagged on the sides, so that it would be more of a “light tunnel” effect?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is it also just an exposure adjustment, since the windows are blown out anyway, that you have the choice to just open up the aputure and light up the room without changing much about the texture on the windows?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m excited to hear your thoughts and experiences on this!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you all!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215082/8056nyc3wevxuinbtv4ypeplxmdsw4lf.jpg",
+      "alt": "bladerunner",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215082/yz4n69cvg17txsq9k6rzo8pkp6wgy436.jpg",
+      "alt": "sicario",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215082/tqtcisa0id5o2z7mgt3h7cssec8g3xsx.jpg",
+      "alt": "empire of light",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215082/o6iegen31512kfor2kv7txfnfy1rzk9r.jpg",
+      "alt": "unbroken",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215082/pe2eoowak2tn28u1f4fklsd3c7ekyach.jpg",
+      "alt": "goldfinch",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215082/60n9bqpptgr748qg0pnb5fzuogwn1uam.jpg",
+      "alt": "prisoners",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/pushing-light-through-windows/#post-215124",
+    "scraped_at": "2026-01-15T15:49:03.178145+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/pushing-light-through-windows/#post-215124",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "616445fe8a402f7038d987691243a9fa21b2a76b68e0db5c0147d47eb0e42797",
+    "parser_version": "bbpress-v2"
+  }
+}

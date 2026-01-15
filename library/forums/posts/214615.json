@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214615",
+    "forum_slug": "team-deakins",
+    "topic_slug": "now-youtube-video-6-17",
+    "parent_post_id": "214606",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Very pleasant and interesting! No questions about lighting but a lot of good questions in my opinion, and very informative answers.\nIt felt to me to have a good chat while watching the whole video.\nThank you so much for sharing Mrs James!\nI wish you a peaceful Sunday,\nMax.",
+  "content_html": "<p>Very pleasant and interesting! No questions about lighting but a lot of good questions in my opinion, and very informative answers.<br/>\nIt felt to me to have a good chat while watching the whole video.</p>\n<p>Thank you so much for sharing Mrs James!</p>\n<p>I wish you a peaceful Sunday,<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Very pleasant and interesting! No questions about lighting but a lot of good questions in my opinion, and very informative answers.\nIt felt to me to have a good chat while watching the whole video."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you so much for sharing Mrs James!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful Sunday,\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/now-youtube-video-6-17/#post-214615",
+    "scraped_at": "2026-01-15T13:56:36.935516+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/now-youtube-video-6-17/#post-214615",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1de3769b3e770793fa1803791832900a1463a20f1b85d503cd73a6e4785c8238",
+    "parser_version": "bbpress-v2"
+  }
+}

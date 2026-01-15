@@ -1,0 +1,81 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/inspiration-and-diy-rigs/#post-198449",
+  "forum_slug": "camera",
+  "topic_slug": "inspiration-and-diy-rigs",
+  "title": "Inspiration and DIY rigs",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "192046",
+    "192232",
+    "192285",
+    "192312",
+    "198282",
+    "198403",
+    "198449"
+  ],
+  "reply_tree": {
+    "post_id": "192046",
+    "post_type": "topic",
+    "author": "ThompsonDP",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "192232",
+        "post_type": "reply",
+        "author": "ThompsonDP",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "192285",
+        "post_type": "reply",
+        "author": "Johannes Rauscher",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "192312",
+        "post_type": "reply",
+        "author": "ThompsonDP",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "198282",
+        "post_type": "reply",
+        "author": "James Parsons",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "198403",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "198449",
+        "post_type": "reply",
+        "author": "simon m",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 6,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inspiration-and-diy-rigs/#post-198449",
+    "scraped_at": "2026-01-15T15:43:01.146976+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inspiration-and-diy-rigs/#post-198449",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a5a7cb69b91d5261a12eecca588281d767c951e0c6ba0bd18935ad979f2a0f89",
+    "parser_version": "bbpress-v2"
+  }
+}

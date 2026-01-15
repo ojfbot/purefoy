@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "216036",
+    "forum_slug": "forum",
+    "topic_slug": "revolutionary-road-lighting-a-subject-in-an-akward-position",
+    "parent_post_id": "216031",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you very much for your reply Mr. Deakins! I think this kind of “discrepancy” in the shots are absolutely normal, only when you break down shot by shot (like me in this case to study for example) you can notice the subtle differences but the audience never saw this kind of light “discontinuity” in my opinion.\nAs you say, maybe just two feet away from the wall and the mirror can make the difference as the character has a small vertical window on his right side so in that case the light can hit his face and his body.\nIn these difficult circumstances (second floor, scissor lift-crane-condor) to light and control natural daylight how complex is to “balance” light shot-by-shot?\nI mean, to create shapes and form shadows in relationship to the character’s and camera position shot-by-shot, do you ask your electric crew to spot or flood lamps (or maybe rotate the lamp’s heads and angle) to “throw” the light where you want based on the shots? If so, I think in this location’s scenario it would be complex and stressful (in my case, as a Nobody, probably the AD would come to me to ask to be quick and therefore I would have to accept some compromise).\nRegarding the line crossing, was it a necessity in order to get the shot of the two characters and the mirror or was it a Narrative choice for the audience and so you asked for the art department to position furniture and mirror right there to obtain this kind of shot?\nI apologize for my bad English, I hope the message has a logical thread 😅.\nThank you again for your reply and your availability.\nI wish you a peaceful Sunday,\nMax.",
+  "content_html": "<p>Thank you very much for your reply Mr. Deakins! I think this kind of “discrepancy” in the shots are absolutely normal, only when you break down shot by shot (like me in this case to study for example) you can notice the subtle differences but the audience never saw this kind of light “discontinuity” in my opinion.</p>\n<p>As you say, maybe just two feet away from the wall and the mirror can make the difference as the character has a small vertical window on his right side so in that case the light can hit his face and his body.<br/>\nIn these difficult circumstances (second floor, scissor lift-crane-condor) to light and control natural daylight how complex is to “balance” light shot-by-shot?<br/>\nI mean, to create shapes and form shadows in relationship to the character’s and camera position shot-by-shot, do you ask your electric crew to spot or flood lamps (or maybe rotate the lamp’s heads and angle) to “throw” the light where you want based on the shots? If so, I think in this location’s scenario it would be complex and stressful (in my case, as a Nobody, probably the AD would come to me to ask to be quick and therefore I would have to accept some compromise).</p>\n<p>Regarding the line crossing, was it a necessity in order to get the shot of the two characters and the mirror or was it a Narrative choice for the audience and so you asked for the art department to position furniture and mirror right there to obtain this kind of shot?</p>\n<p>I apologize for my bad English, I hope the message has a logical thread 😅.</p>\n<p>Thank you again for your reply and your availability.</p>\n<p>I wish you a peaceful Sunday,<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you very much for your reply Mr. Deakins! I think this kind of “discrepancy” in the shots are absolutely normal, only when you break down shot by shot (like me in this case to study for example) you can notice the subtle differences but the audience never saw this kind of light “discontinuity” in my opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you say, maybe just two feet away from the wall and the mirror can make the difference as the character has a small vertical window on his right side so in that case the light can hit his face and his body.\nIn these difficult circumstances (second floor, scissor lift-crane-condor) to light and control natural daylight how complex is to “balance” light shot-by-shot?\nI mean, to create shapes and form shadows in relationship to the character’s and camera position shot-by-shot, do you ask your electric crew to spot or flood lamps (or maybe rotate the lamp’s heads and angle) to “throw” the light where you want based on the shots? If so, I think in this location’s scenario it would be complex and stressful (in my case, as a Nobody, probably the AD would come to me to ask to be quick and therefore I would have to accept some compromise)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Regarding the line crossing, was it a necessity in order to get the shot of the two characters and the mirror or was it a Narrative choice for the audience and so you asked for the art department to position furniture and mirror right there to obtain this kind of shot?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I apologize for my bad English, I hope the message has a logical thread 😅."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you again for your reply and your availability."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful Sunday,\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-lighting-a-subject-in-an-akward-position/#post-216050",
+    "scraped_at": "2026-01-15T15:42:11.673390+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-lighting-a-subject-in-an-akward-position/#post-216050",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "28c5158f0b1bf03620e8c8c12682dc51b7c535e03c6beda45652637b1eab6fe3",
+    "parser_version": "bbpress-v2"
+  }
+}

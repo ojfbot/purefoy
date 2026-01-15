@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "209158",
+    "forum_slug": "composition",
+    "topic_slug": "practicing-cinematography",
+    "parent_post_id": "208647",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "bardanmcguire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks a million Roger! I really appreciate your reply!",
+  "content_html": "<p>Thanks a million Roger! I really appreciate your reply!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks a million Roger! I really appreciate your reply!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/practicing-cinematography/#post-209158",
+    "scraped_at": "2026-01-15T13:23:42.323141+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/practicing-cinematography/#post-209158",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "002523842b136020848ddaf8d8451731c57838da4d7bdc26df6de1c93d936049",
+    "parser_version": "bbpress-v2"
+  }
+}

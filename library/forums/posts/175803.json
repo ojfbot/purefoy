@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "175803",
+    "forum_slug": "camera",
+    "topic_slug": "exposing-500t"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "mdjn",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger and everyone on the forum,\nI am working on a shoot film over the weekend on Kodak 500T.\nMy question is about how to exposure 500t when shooting daylight without an 85 correction filter.\nI will instead alter the white balance during the DI.\nWould I have to compensate or can i just shoot at tungsten box speed?",
+  "content_html": "<p>Hi Roger and everyone on the forum,</p>\n<p>I am working on a shoot film over the weekend on Kodak 500T.</p>\n<p>My question is about how to exposure 500t when shooting daylight without an 85 correction filter.</p>\n<p>I will instead alter the white balance during the DI.</p>\n<p>Would I have to compensate or can i just shoot at tungsten box speed?</p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger and everyone on the forum,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am working on a shoot film over the weekend on Kodak 500T."
+    },
+    {
+      "type": "paragraph",
+      "text": "My question is about how to exposure 500t when shooting daylight without an 85 correction filter."
+    },
+    {
+      "type": "paragraph",
+      "text": "I will instead alter the white balance during the DI."
+    },
+    {
+      "type": "paragraph",
+      "text": "Would I have to compensate or can i just shoot at tungsten box speed?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposing-500t/#post-175847",
+    "scraped_at": "2026-01-15T15:45:17.394822+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposing-500t/#post-175847",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "54a04774755918ff2cbd5697ba81876358356553f8181075a9efeadf50a2179b",
+    "parser_version": "bbpress-v2"
+  }
+}

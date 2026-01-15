@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "214629",
+    "forum_slug": "post",
+    "topic_slug": "exposing-a-heavy-negative-on-film"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "gcconnelly",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger!\nDuring your podcast episode with Bev Wood, you talk about how you liked to get a “heavy negative” when exposing on film, and that your printer lights usually were around 29, which I take it means that you are intentionally overexposing the film and then printing it back down. I was curious what this meant you were rating your film at.\nOn Vision 3 film for instance, I know many DPs who feel that the “box speed” ASA is too high and that rating 500T at 320 or even 250 ASA will produce more accurate results. Similarly I’ve heard that 250D is better exposed at 160 or 125ASA. On something like “No Country for Old Men,” which I believe you’ve said was shot entirely on 500T, what did you tend to rate the film at?",
+  "content_html": "<p>Hi Roger!</p>\n<p>During your podcast episode with Bev Wood, you talk about how you liked to get a “heavy negative” when exposing on film, and that your printer lights usually were around 29, which I take it means that you are intentionally overexposing the film and then printing it back down. I was curious what this meant you were rating your film at.</p>\n<p>On Vision 3 film for instance, I know many DPs who feel that the “box speed” ASA is too high and that rating 500T at 320 or even 250 ASA will produce more accurate results. Similarly I’ve heard that 250D is better exposed at 160 or 125ASA. On something like “No Country for Old Men,” which I believe you’ve said was shot entirely on 500T, what did you tend to rate the film at?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger!"
+    },
+    {
+      "type": "paragraph",
+      "text": "During your podcast episode with Bev Wood, you talk about how you liked to get a “heavy negative” when exposing on film, and that your printer lights usually were around 29, which I take it means that you are intentionally overexposing the film and then printing it back down. I was curious what this meant you were rating your film at."
+    },
+    {
+      "type": "paragraph",
+      "text": "On Vision 3 film for instance, I know many DPs who feel that the “box speed” ASA is too high and that rating 500T at 320 or even 250 ASA will produce more accurate results. Similarly I’ve heard that 250D is better exposed at 160 or 125ASA. On something like “No Country for Old Men,” which I believe you’ve said was shot entirely on 500T, what did you tend to rate the film at?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposing-a-heavy-negative-on-film/#post-214647",
+    "scraped_at": "2026-01-15T13:16:18.343962+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposing-a-heavy-negative-on-film/#post-214647",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d82e0d03c47f34b5084865d553605dc203d8fdf052067a91b80ac49be130bbc2",
+    "parser_version": "bbpress-v2"
+  }
+}

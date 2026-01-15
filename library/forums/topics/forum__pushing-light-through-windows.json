@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/pushing-light-through-windows/#post-215124",
+  "forum_slug": "forum",
+  "topic_slug": "pushing-light-through-windows",
+  "title": "Pushing light through windows",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215082",
+    "215086",
+    "215105",
+    "215106",
+    "215124"
+  ],
+  "reply_tree": {
+    "post_id": "215082",
+    "post_type": "topic",
+    "author": "halfgrain",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215086",
+        "post_type": "reply",
+        "author": "Sean Buffini",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215105",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215106",
+        "post_type": "reply",
+        "author": "halfgrain",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215124",
+        "post_type": "reply",
+        "author": "Sean Buffini",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/pushing-light-through-windows/#post-215124",
+    "scraped_at": "2026-01-15T15:49:03.193672+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/pushing-light-through-windows/#post-215124",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e599abf297cd4859fde3043caeb2c8697b2754620bd93aadca32c7eb43c4749e",
+    "parser_version": "bbpress-v2"
+  }
+}

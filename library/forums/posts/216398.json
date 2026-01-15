@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "216398",
+    "forum_slug": "camera",
+    "topic_slug": "transferring-digital-footage-to-35mm-film"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Moon Knight",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Sir Roger Deakins,\nI’m currently working on my master’s thesis, inspired by the techniques Greig Fraser employed in Dune and The Batman, where he shot digitally, transferred the footage onto 35mm film, and then projected it digitally. Given the high costs of such a hybrid process, I’m curious about your thoughts on the aesthetic benefits it might offer. Specifically, do you believe this approach creates a distinct cinematic quality that differs significantly from purely digital or film-only imagery?\nMoreover, considering advancements in digital color grading, do you think it is now possible to accurately replicate film’s grain, colors, contrast, and overall organic texture in a fully digital workflow? Lastly, Fraser has used re-housed vintage lenses to soften the “clean” look of digital footage. In your opinion, are lenses alone sufficient to lend a more filmic, organic quality to digital images, or does this hybrid method open up new creative possibilities?\nI’d greatly appreciate your insight into these techniques and the ongoing debate between clean digital images and those with a more organic, textured feel.\nThank you so much for your time.",
+  "content_html": "<p>Dear Sir Roger Deakins,</p>\n<p>I’m currently working on my master’s thesis, inspired by the techniques Greig Fraser employed in Dune and The Batman, where he shot digitally, transferred the footage onto 35mm film, and then projected it digitally. Given the high costs of such a hybrid process, I’m curious about your thoughts on the aesthetic benefits it might offer. Specifically, do you believe this approach creates a distinct cinematic quality that differs significantly from purely digital or film-only imagery?</p>\n<p>Moreover, considering advancements in digital color grading, do you think it is now possible to accurately replicate film’s grain, colors, contrast, and overall organic texture in a fully digital workflow? Lastly, Fraser has used re-housed vintage lenses to soften the “clean” look of digital footage. In your opinion, are lenses alone sufficient to lend a more filmic, organic quality to digital images, or does this hybrid method open up new creative possibilities?</p>\n<p>I’d greatly appreciate your insight into these techniques and the ongoing debate between clean digital images and those with a more organic, textured feel.</p>\n<p>Thank you so much for your time.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Sir Roger Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m currently working on my master’s thesis, inspired by the techniques Greig Fraser employed in Dune and The Batman, where he shot digitally, transferred the footage onto 35mm film, and then projected it digitally. Given the high costs of such a hybrid process, I’m curious about your thoughts on the aesthetic benefits it might offer. Specifically, do you believe this approach creates a distinct cinematic quality that differs significantly from purely digital or film-only imagery?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Moreover, considering advancements in digital color grading, do you think it is now possible to accurately replicate film’s grain, colors, contrast, and overall organic texture in a fully digital workflow? Lastly, Fraser has used re-housed vintage lenses to soften the “clean” look of digital footage. In your opinion, are lenses alone sufficient to lend a more filmic, organic quality to digital images, or does this hybrid method open up new creative possibilities?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’d greatly appreciate your insight into these techniques and the ongoing debate between clean digital images and those with a more organic, textured feel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you so much for your time."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/transferring-digital-footage-to-35mm-film/",
+    "scraped_at": "2026-01-15T14:13:29.657592+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/transferring-digital-footage-to-35mm-film/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5aca6b8648c434a790b368cf319a44bcaae49ec2ccf4059fe6cb3d107542190d",
+    "parser_version": "bbpress-v2"
+  }
+}

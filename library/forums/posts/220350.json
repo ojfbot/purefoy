@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "220350",
+    "forum_slug": "forum",
+    "topic_slug": "reflections-book-arrived"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Daniel",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "My copy of Reflections arrived in the mail this evening. I like that it’s packaged similar to Byways. They look nice together on the shelf.\nI was surprised to see interesting quotes on many pages during my quick flip through. I’ll start my read over the weekend.",
+  "content_html": "<p>My copy of Reflections arrived in the mail this evening. I like that it’s packaged similar to Byways. They look nice together on the shelf.</p>\n<p>I was surprised to see interesting quotes on many pages during my quick flip through. I’ll start my read over the weekend.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "My copy of Reflections arrived in the mail this evening. I like that it’s packaged similar to Byways. They look nice together on the shelf."
+    },
+    {
+      "type": "paragraph",
+      "text": "I was surprised to see interesting quotes on many pages during my quick flip through. I’ll start my read over the weekend."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-book-arrived/#post-220408",
+    "scraped_at": "2026-01-15T13:24:03.974533+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-book-arrived/#post-220408",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "42c9f10027f9bfde8909fb3e06215c74b3edf26baa49cc0012318ac42aa344cb",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "219229",
+    "forum_slug": "camera",
+    "topic_slug": "thicker-denser-negatives",
+    "parent_post_id": "219217",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Black density in a film print off of a negative depends on the printer lights used.\nLet’s say you shoot a roll with the lens cap on or just develop an unexposed roll… in the printer light scale of 0-50 points for RGB, with 25 being the middle, so in theory 25-25-25 would be the printer lights used to print something normally exposed to look normal in brightness (in reality, it’s not exactly that, for lots of reasons), as you go higher and higher, like 40-40-40 let’s say, the blacks will be denser in the print until you reach maximum possible for the stock (D-Max), which you can only go past if you leave silver in the print.\nSo if you expose a scene so that it needs to be printed in the high 30’s or low 40’s as opposed to the mid 25’s, then the blacks in the image will be denser unless you have some factor that is lifting them like base fog density from push-processing. Or if the overexposure is causing more flare in the image, like from an overly hot sky. There are limits because at some point if you put all of your information on the shoulder of the characteristic curve, where contrast flattens out, the image will look a bit flat with clipped highlights even if in theory the blacks are blacker.  But in general, if you rate a color negative stock slower in ASA than recommended, so that it generally prints in the high 30s / low 40s, it will have richer blacks in the print, which means a bit more saturation and feeling of contrast, “snap”.\nBut with digital color-correction and digital projection, it’s different. You can set any shadow area to “0 IRE” which is pure digital black… but whether it looks natural or artificially crushed depends on the image. And black level in digital projection depends on the technology used — today, laser projection is capable of black levels we used to see in film prints (if not more so) but before that, we’ve been living with somewhat grey-ish blacks with typical digital projection even if the signal is “zero”.",
+  "content_html": "<p>Black density in a film print off of a negative depends on the printer lights used.</p>\n<p>Let’s say you shoot a roll with the lens cap on or just develop an unexposed roll… in the printer light scale of 0-50 points for RGB, with 25 being the middle, so in theory 25-25-25 would be the printer lights used to print something normally exposed to look normal in brightness (in reality, it’s not exactly that, for lots of reasons), as you go higher and higher, like 40-40-40 let’s say, the blacks will be denser in the print until you reach maximum possible for the stock (D-Max), which you can only go past if you leave silver in the print.</p>\n<p>So if you expose a scene so that it needs to be printed in the high 30’s or low 40’s as opposed to the mid 25’s, then the blacks in the image will be denser unless you have some factor that is lifting them like base fog density from push-processing. Or if the overexposure is causing more flare in the image, like from an overly hot sky. There are limits because at some point if you put all of your information on the shoulder of the characteristic curve, where contrast flattens out, the image will look a bit flat with clipped highlights even if in theory the blacks are blacker.  But in general, if you rate a color negative stock slower in ASA than recommended, so that it generally prints in the high 30s / low 40s, it will have richer blacks in the print, which means a bit more saturation and feeling of contrast, “snap”.</p>\n<p>But with digital color-correction and digital projection, it’s different. You can set any shadow area to “0 IRE” which is pure digital black… but whether it looks natural or artificially crushed depends on the image. And black level in digital projection depends on the technology used — today, laser projection is capable of black levels we used to see in film prints (if not more so) but before that, we’ve been living with somewhat grey-ish blacks with typical digital projection even if the signal is “zero”.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Black density in a film print off of a negative depends on the printer lights used."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s say you shoot a roll with the lens cap on or just develop an unexposed roll… in the printer light scale of 0-50 points for RGB, with 25 being the middle, so in theory 25-25-25 would be the printer lights used to print something normally exposed to look normal in brightness (in reality, it’s not exactly that, for lots of reasons), as you go higher and higher, like 40-40-40 let’s say, the blacks will be denser in the print until you reach maximum possible for the stock (D-Max), which you can only go past if you leave silver in the print."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if you expose a scene so that it needs to be printed in the high 30’s or low 40’s as opposed to the mid 25’s, then the blacks in the image will be denser unless you have some factor that is lifting them like base fog density from push-processing. Or if the overexposure is causing more flare in the image, like from an overly hot sky. There are limits because at some point if you put all of your information on the shoulder of the characteristic curve, where contrast flattens out, the image will look a bit flat with clipped highlights even if in theory the blacks are blacker.  But in general, if you rate a color negative stock slower in ASA than recommended, so that it generally prints in the high 30s / low 40s, it will have richer blacks in the print, which means a bit more saturation and feeling of contrast, “snap”."
+    },
+    {
+      "type": "paragraph",
+      "text": "But with digital color-correction and digital projection, it’s different. You can set any shadow area to “0 IRE” which is pure digital black… but whether it looks natural or artificially crushed depends on the image. And black level in digital projection depends on the technology used — today, laser projection is capable of black levels we used to see in film prints (if not more so) but before that, we’ve been living with somewhat grey-ish blacks with typical digital projection even if the signal is “zero”."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/thicker-denser-negatives/#post-219234",
+    "scraped_at": "2026-01-15T12:26:27.042502+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/thicker-denser-negatives/#post-219234",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "922b0999815f9add087e0abd3d3fa8be40b5e134227137bba9432f1e322adef0",
+    "parser_version": "bbpress-v2"
+  }
+}

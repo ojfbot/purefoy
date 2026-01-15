@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/underwater-face-lighting/",
+  "forum_slug": "forum",
+  "topic_slug": "underwater-face-lighting",
+  "title": "Underwater face lighting",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217863"
+  ],
+  "reply_tree": {
+    "post_id": "217863",
+    "post_type": "topic",
+    "author": "Elliot Be",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/underwater-face-lighting/",
+    "scraped_at": "2026-01-15T15:20:09.300434+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/underwater-face-lighting/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cfa01f01e7f4204a79f405334fc364e2e723e8bd63acad5fc5edc575ff1594fc",
+    "parser_version": "bbpress-v2"
+  }
+}

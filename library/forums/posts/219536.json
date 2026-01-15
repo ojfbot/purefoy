@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "219536",
+    "forum_slug": "post",
+    "topic_slug": "a-coherent-look-among-different-scenes",
+    "parent_post_id": "219508",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks a lot Stip!\nI am using Resolve but i don’t like LUTs, i feel i have little control on them and i learn nothing from them , since for me this short it’s mainly a learning experience, not only a creative one. I tend to learn through “backward engineering”, so i try to begin with Roger’s shots in the movies going backward to (try to) understand how he shot them (and this forum and upcoming Roger’s book are like treasure for me for that).  I think Roger’s style is created by every aspect of cinematography (camera movement and placement, lens choice, lights, etc etc) and how he uses them to tell the story (and each story has its own different way to be told), something a LUT can’t create on the spot. I undersand that it’s a tempting shortcut, but i’m one of those persons that prefer the longest and hardest road to get to the peak of the mountain, ah ah ! 😀\nThis said, i need to take something usable out of my shots, so after some testing this workflow seems to work:1) i shot the scenes (and in the AI era it’s not that obvious that the images were created with a camera with real actors, ah ah!) trying to create with light and production desing the palette i wanted. Given my limitation i couldn’t create “the look” in camera for all the shots, just something vaguely close.\n2) i looked for some shots that had a similar composition, mood and lights to grade my shots. I understand a professional wouldn’t work that way but i’m not and i need some kind of guide to know the path to follow.  I grade my shot until my waveform, parade and  vectorscope are close to the reference. Of course there’s an enormous difference in the quality of referencing shot and my own, but somehow my humble shots are turning decent in this way. By dissecting the waveforms and the vectorscopes I’m slowly beginning to understand the work behind the shots, something impossible with a LUT (at least for the way i learn).\n3) I know how i want the scene to look  and i find that look working on palette , temperature, saturation, etc. In this phase i move from the reference point and i use my instinct and creativity. And this is the phase that i’m struggling with : the shots are not that bad, the scenes look more or less as planned, but i feel i need to do a step further to make them look like part of the same movie, with more harmony and coherence among the shots. So far, this made me learn that i can’t work backward (first the shots and then the look of the entire work), i need to plan how the entire work should look and then create the shots according to that. Next time i’ll improve on that : better late than never!\nEDIT: sorry for the long reply, i hope it was not too boring. I think the problem with my backward approach is that i am referencing to too different works to grade my shots. I need to study just one movie to make this approach usable, i suppose.",
+  "content_html": "<p>Thanks a lot Stip!</p>\n<p>I am using Resolve but i don’t like LUTs, i feel i have little control on them and i learn nothing from them , since for me this short it’s mainly a learning experience, not only a creative one. I tend to learn through “backward engineering”, so i try to begin with Roger’s shots in the movies going backward to (try to) understand how he shot them (and this forum and upcoming Roger’s book are like treasure for me for that).  I think Roger’s style is created by every aspect of cinematography (camera movement and placement, lens choice, lights, etc etc) and how he uses them to tell the story (and each story has its own different way to be told), something a LUT can’t create on the spot. I undersand that it’s a tempting shortcut, but i’m one of those persons that prefer the longest and hardest road to get to the peak of the mountain, ah ah ! 😀</p>\n<p>This said, i need to take something usable out of my shots, so after some testing this workflow seems to work:1) i shot the scenes (and in the AI era it’s not that obvious that the images were created with a camera with real actors, ah ah!) trying to create with light and production desing the palette i wanted. Given my limitation i couldn’t create “the look” in camera for all the shots, just something vaguely close.</p>\n<p>2) i looked for some shots that had a similar composition, mood and lights to grade my shots. I understand a professional wouldn’t work that way but i’m not and i need some kind of guide to know the path to follow.  I grade my shot until my waveform, parade and  vectorscope are close to the reference. Of course there’s an enormous difference in the quality of referencing shot and my own, but somehow my humble shots are turning decent in this way. By dissecting the waveforms and the vectorscopes I’m slowly beginning to understand the work behind the shots, something impossible with a LUT (at least for the way i learn).</p>\n<p>3) I know how i want the scene to look  and i find that look working on palette , temperature, saturation, etc. In this phase i move from the reference point and i use my instinct and creativity. And this is the phase that i’m struggling with : the shots are not that bad, the scenes look more or less as planned, but i feel i need to do a step further to make them look like part of the same movie, with more harmony and coherence among the shots. So far, this made me learn that i can’t work backward (first the shots and then the look of the entire work), i need to plan how the entire work should look and then create the shots according to that. Next time i’ll improve on that : better late than never!</p>\n<p>EDIT: sorry for the long reply, i hope it was not too boring. I think the problem with my backward approach is that i am referencing to too different works to grade my shots. I need to study just one movie to make this approach usable, i suppose.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks a lot Stip!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am using Resolve but i don’t like LUTs, i feel i have little control on them and i learn nothing from them , since for me this short it’s mainly a learning experience, not only a creative one. I tend to learn through “backward engineering”, so i try to begin with Roger’s shots in the movies going backward to (try to) understand how he shot them (and this forum and upcoming Roger’s book are like treasure for me for that).  I think Roger’s style is created by every aspect of cinematography (camera movement and placement, lens choice, lights, etc etc) and how he uses them to tell the story (and each story has its own different way to be told), something a LUT can’t create on the spot. I undersand that it’s a tempting shortcut, but i’m one of those persons that prefer the longest and hardest road to get to the peak of the mountain, ah ah ! 😀"
+    },
+    {
+      "type": "paragraph",
+      "text": "This said, i need to take something usable out of my shots, so after some testing this workflow seems to work:1) i shot the scenes (and in the AI era it’s not that obvious that the images were created with a camera with real actors, ah ah!) trying to create with light and production desing the palette i wanted. Given my limitation i couldn’t create “the look” in camera for all the shots, just something vaguely close."
+    },
+    {
+      "type": "paragraph",
+      "text": "2) i looked for some shots that had a similar composition, mood and lights to grade my shots. I understand a professional wouldn’t work that way but i’m not and i need some kind of guide to know the path to follow.  I grade my shot until my waveform, parade and  vectorscope are close to the reference. Of course there’s an enormous difference in the quality of referencing shot and my own, but somehow my humble shots are turning decent in this way. By dissecting the waveforms and the vectorscopes I’m slowly beginning to understand the work behind the shots, something impossible with a LUT (at least for the way i learn)."
+    },
+    {
+      "type": "paragraph",
+      "text": "3) I know how i want the scene to look  and i find that look working on palette , temperature, saturation, etc. In this phase i move from the reference point and i use my instinct and creativity. And this is the phase that i’m struggling with : the shots are not that bad, the scenes look more or less as planned, but i feel i need to do a step further to make them look like part of the same movie, with more harmony and coherence among the shots. So far, this made me learn that i can’t work backward (first the shots and then the look of the entire work), i need to plan how the entire work should look and then create the shots according to that. Next time i’ll improve on that : better late than never!"
+    },
+    {
+      "type": "paragraph",
+      "text": "EDIT: sorry for the long reply, i hope it was not too boring. I think the problem with my backward approach is that i am referencing to too different works to grade my shots. I need to study just one movie to make this approach usable, i suppose."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-coherent-look-among-different-scenes/#post-219538",
+    "scraped_at": "2026-01-15T11:51:06.666936+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-coherent-look-among-different-scenes/#post-219538",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "27064a8000e336dbfe85620aae8de399d9ffc6bef48d0d8cbf2e21e61d04ece5",
+    "parser_version": "bbpress-v2"
+  }
+}

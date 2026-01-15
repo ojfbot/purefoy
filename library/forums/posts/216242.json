@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216242",
+    "forum_slug": "camera",
+    "topic_slug": "emotion-of-lenses",
+    "parent_post_id": "216235",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "G.C.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Sure, most people will shoot a spying shot with a long lens. And close-ups on a wide lens creates discomfort.\nCamera position and focal length represent the point of view (but whose? The viewer? The character’s? The filmmaker’s? Not for me to answer!). How intimate or distant we are from the subject, is determined by distance from camera to the subject. The focal length may represent how “mentally focused” we are on an element of the scene.\nThe only valid answer is that there are no rules. Nothing says a wide less is less able to convey emotion than a long lens.\nFocal length, composition, position and movement of camera in space, are only tools and it’s up to the filmmaker to assign meaning to them in the context of a visual piece.",
+  "content_html": "<p>Sure, most people will shoot a spying shot with a long lens. And close-ups on a wide lens creates discomfort.</p>\n<p>Camera position and focal length represent the point of view (but whose? The viewer? The character’s? The filmmaker’s? Not for me to answer!). How intimate or distant we are from the subject, is determined by distance from camera to the subject. The focal length may represent how “mentally focused” we are on an element of the scene.</p>\n<p>The only valid answer is that there are no rules. Nothing says a wide less is less able to convey emotion than a long lens.<br/>\nFocal length, composition, position and movement of camera in space, are only tools and it’s up to the filmmaker to assign meaning to them in the context of a visual piece.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sure, most people will shoot a spying shot with a long lens. And close-ups on a wide lens creates discomfort."
+    },
+    {
+      "type": "paragraph",
+      "text": "Camera position and focal length represent the point of view (but whose? The viewer? The character’s? The filmmaker’s? Not for me to answer!). How intimate or distant we are from the subject, is determined by distance from camera to the subject. The focal length may represent how “mentally focused” we are on an element of the scene."
+    },
+    {
+      "type": "paragraph",
+      "text": "The only valid answer is that there are no rules. Nothing says a wide less is less able to convey emotion than a long lens.\nFocal length, composition, position and movement of camera in space, are only tools and it’s up to the filmmaker to assign meaning to them in the context of a visual piece."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/emotion-of-lenses/#post-216242",
+    "scraped_at": "2026-01-15T14:33:39.733992+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/emotion-of-lenses/#post-216242",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ccd741284bbd741460e19136e81259f3726fcf6509fcf83ac4b70a8d8e9a3984",
+    "parser_version": "bbpress-v2"
+  }
+}

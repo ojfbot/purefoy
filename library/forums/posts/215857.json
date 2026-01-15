@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215857",
+    "forum_slug": "camera",
+    "topic_slug": "high-iso-for-shooting-daylight-exterior",
+    "parent_post_id": "215856",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yeah, the dynamic range is redistributed toward underexposure when you lower ISO, which is often counterintuitive for the bright situations where you’d do so. The reasons to do it rather than maintaining more headroom at base ISO and using ND filters as needed would be that you want the highlights to clip sooner or you want less noise.",
+  "content_html": "<p>Yeah, the dynamic range is redistributed toward underexposure when you lower ISO, which is often counterintuitive for the bright situations where you’d do so. The reasons to do it rather than maintaining more headroom at base ISO and using ND filters as needed would be that you want the highlights to clip sooner or you want less noise.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yeah, the dynamic range is redistributed toward underexposure when you lower ISO, which is often counterintuitive for the bright situations where you’d do so. The reasons to do it rather than maintaining more headroom at base ISO and using ND filters as needed would be that you want the highlights to clip sooner or you want less noise."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/high-iso-for-shooting-daylight-exterior/",
+    "scraped_at": "2026-01-15T15:20:21.250808+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/high-iso-for-shooting-daylight-exterior/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7a273059fdf87dbe2d587a28abf8cdf9ed4fd5697f80e1d85be2fd45f7a6224b",
+    "parser_version": "bbpress-v2"
+  }
+}

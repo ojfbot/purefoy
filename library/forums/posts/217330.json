@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "217330",
+    "forum_slug": "forum",
+    "topic_slug": "car-windshield-refection"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Limbo",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi everyone,\nWhen shooting into the windshield from the front of the car in the daytime, the driver’s face is often blocked by the strong reflection outside(even when a polar is used). The simple solution might be to block the reflection with a flag and light it again, but this will limit the frame size and make the lighting look a little artificial.\nI see lots of shots in other films with wider frame size(with everything above the top of the car) and even with reflections on the window while the face of the driver is clearly seen.\nI wonder what is the best way to deal with this kind of shot, especially when the reflection is required to be seen in the script.\nI kind of realize it’s about balancing the light ratio of interior and exterior, but I want to know what the most natural way to light it is.\nMany thanks!",
+  "content_html": "<p>Hi everyone,</p>\n<p>When shooting into the windshield from the front of the car in the daytime, the driver’s face is often blocked by the strong reflection outside(even when a polar is used). The simple solution might be to block the reflection with a flag and light it again, but this will limit the frame size and make the lighting look a little artificial.</p>\n<p>I see lots of shots in other films with wider frame size(with everything above the top of the car) and even with reflections on the window while the face of the driver is clearly seen.</p>\n<p>I wonder what is the best way to deal with this kind of shot, especially when the reflection is required to be seen in the script.</p>\n<p>I kind of realize it’s about balancing the light ratio of interior and exterior, but I want to know what the most natural way to light it is.</p>\n<p>Many thanks!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi everyone,"
+    },
+    {
+      "type": "paragraph",
+      "text": "When shooting into the windshield from the front of the car in the daytime, the driver’s face is often blocked by the strong reflection outside(even when a polar is used). The simple solution might be to block the reflection with a flag and light it again, but this will limit the frame size and make the lighting look a little artificial."
+    },
+    {
+      "type": "paragraph",
+      "text": "I see lots of shots in other films with wider frame size(with everything above the top of the car) and even with reflections on the window while the face of the driver is clearly seen."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wonder what is the best way to deal with this kind of shot, especially when the reflection is required to be seen in the script."
+    },
+    {
+      "type": "paragraph",
+      "text": "I kind of realize it’s about balancing the light ratio of interior and exterior, but I want to know what the most natural way to light it is."
+    },
+    {
+      "type": "paragraph",
+      "text": "Many thanks!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/car-windshield-refection/#post-217338",
+    "scraped_at": "2026-01-15T15:21:15.762215+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/car-windshield-refection/#post-217338",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "32d4ab37bf9d57c1dad61a34e459f7e9dc6c2998271657a723d6af14839ef9b4",
+    "parser_version": "bbpress-v2"
+  }
+}

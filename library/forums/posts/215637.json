@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "215637",
+    "forum_slug": "camera",
+    "topic_slug": "directing-effect-of-133-43-ratio"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "AOXEN",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I would like to ask the directors who make films at the ratio of 1:33(4:3) why they make films at the ratio of 1:33(4:3).",
+  "content_html": "<p>I would like to ask the directors who make films at the ratio of 1:33(4:3) why they make films at the ratio of 1:33(4:3).</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I would like to ask the directors who make films at the ratio of 1:33(4:3) why they make films at the ratio of 1:33(4:3)."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/page/2/",
+    "scraped_at": "2026-01-15T13:56:40.546895+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d5779786b1650dab069dd547215b9900b82a3745b719f661f110388ba537b104",
+    "parser_version": "bbpress-v2"
+  }
+}

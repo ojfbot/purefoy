@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "216593",
+    "forum_slug": "camera",
+    "topic_slug": "camera-starter-question",
+    "parent_post_id": "169402",
+    "parent_type": "topic",
+    "position": 18
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Joshualawhorn wrote:\nA modern 4k digital camera with a Super 16mm sensor.\nTechnically you could get that by using an 8K 35mm sensor camera cropped to Super-16 area…  But sure, if a Super-16 sensor allowed one to build a particularly small camera, that could be cool using the old 16mm optics to keep things smaller overall. But I’m not sure of the market demands for a smaller sensor camera, the trends are in the opposite direction.",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/camera-starter-question/page/2/#post-216587\">Joshualawhorn wrote:</a></div>\n<p>A modern 4k digital camera with a Super 16mm sensor.</p></blockquote>\n<p>Technically you could get that by using an 8K 35mm sensor camera cropped to Super-16 area…  But sure, if a Super-16 sensor allowed one to build a particularly small camera, that could be cool using the old 16mm optics to keep things smaller overall. But I’m not sure of the market demands for a smaller sensor camera, the trends are in the opposite direction.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Joshualawhorn wrote:\nA modern 4k digital camera with a Super 16mm sensor."
+    },
+    {
+      "type": "paragraph",
+      "text": "A modern 4k digital camera with a Super 16mm sensor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Technically you could get that by using an 8K 35mm sensor camera cropped to Super-16 area…  But sure, if a Super-16 sensor allowed one to build a particularly small camera, that could be cool using the old 16mm optics to keep things smaller overall. But I’m not sure of the market demands for a smaller sensor camera, the trends are in the opposite direction."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Joshualawhorn wrote:\nA modern 4k digital camera with a Super 16mm sensor."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/page/2/#post-216587",
+      "text": "Joshualawhorn wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/page/2/",
+    "scraped_at": "2026-01-15T13:56:45.967341+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-starter-question/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a3a64695fae9d96f9aa713bcb3e8d56ef94cdd21bb12280f6eeae64e892ea0d9",
+    "parser_version": "bbpress-v2"
+  }
+}

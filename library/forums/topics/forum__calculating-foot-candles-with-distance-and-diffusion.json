@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/calculating-foot-candles-with-distance-and-diffusion/#post-220921",
+  "forum_slug": "forum",
+  "topic_slug": "calculating-foot-candles-with-distance-and-diffusion",
+  "title": "Calculating foot-candles with distance and diffusion",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "220920",
+    "220921"
+  ],
+  "reply_tree": {
+    "post_id": "220920",
+    "post_type": "topic",
+    "author": "Ragul",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "220921",
+        "post_type": "reply",
+        "author": "Tyler F",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/calculating-foot-candles-with-distance-and-diffusion/#post-220921",
+    "scraped_at": "2026-01-15T12:42:25.165040+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/calculating-foot-candles-with-distance-and-diffusion/#post-220921",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3c6cbcff28ca9d8ba68cb69af07ba611a1326595fc5f8d315c34cc6a2587b383",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "ids": {
+    "post_id": "215001",
+    "forum_slug": "camera",
+    "topic_slug": "projector-poor-mans-process"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Elliot Be",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello\nI’m a gaffer beginning the move to step up and over to DP and I have a low budget short film coming up.\n60% of the film take place in a Bedford Rascal van, some static, some in motion. The motion parts will be captured in a studio with a 20k lumen projector, displayed against a white cove cyc.\nI will also have 1 or 2 smaller projectors bounced into overhead/frames to create the feeling of motion in reflections.\nThere is a morning, day and night scene.\nShooting on Mini with promos.\nI am going to capture the footage tomorrow using GoPro 12s and was planning to angle the GPs in the rough direction the camera will be looking. There was an idea to use a 360 camera as well as a back up but this is TBD.\nI think to be safe I will also get some footage with the go pros turned parallel with the car looking out\nThe GPs will be set to cinema mode, 5.3K, 25FPS, H264, linear + horizon levelling (although might need to test that on the day).\nThe other settings I’m not 100% on such as white balance, shutter, and ISO in relation with my camera settings on the day so any advice on that will be great.\nLuckily I am getting a projector test day but would hope to get the footage right so it doesn’t have to be repeated 🙂\nOther than the above would there be any other advice on the footage capture and on the day filming to get the smoothest results?\nAlthough, the final product doesn’t need to look completely realistic as it is quite a stylised film\nCheers",
+  "content_html": "<p>Hello</p>\n<p>I’m a gaffer beginning the move to step up and over to DP and I have a low budget short film coming up.</p>\n<p>60% of the film take place in a Bedford Rascal van, some static, some in motion. The motion parts will be captured in a studio with a 20k lumen projector, displayed against a white cove cyc.</p>\n<p>I will also have 1 or 2 smaller projectors bounced into overhead/frames to create the feeling of motion in reflections.</p>\n<p>There is a morning, day and night scene.</p>\n<p>Shooting on Mini with promos.</p>\n<p>I am going to capture the footage tomorrow using GoPro 12s and was planning to angle the GPs in the rough direction the camera will be looking. There was an idea to use a 360 camera as well as a back up but this is TBD.</p>\n<p>I think to be safe I will also get some footage with the go pros turned parallel with the car looking out</p>\n<p>The GPs will be set to cinema mode, 5.3K, 25FPS, H264, linear + horizon levelling (although might need to test that on the day).</p>\n<p>The other settings I’m not 100% on such as white balance, shutter, and ISO in relation with my camera settings on the day so any advice on that will be great.</p>\n<p>Luckily I am getting a projector test day but would hope to get the footage right so it doesn’t have to be repeated 🙂</p>\n<p> </p>\n<p><strong>Other than the above would there be any other advice on the footage capture and on the day filming to get the smoothest results?</strong> Although, the final product doesn’t need to look completely realistic as it is quite a stylised film</p>\n<p>Cheers</p>\n<p> </p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215001/6wy4xdtdmra0m62nvzao0bgyrsh10j5s.png\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m a gaffer beginning the move to step up and over to DP and I have a low budget short film coming up."
+    },
+    {
+      "type": "paragraph",
+      "text": "60% of the film take place in a Bedford Rascal van, some static, some in motion. The motion parts will be captured in a studio with a 20k lumen projector, displayed against a white cove cyc."
+    },
+    {
+      "type": "paragraph",
+      "text": "I will also have 1 or 2 smaller projectors bounced into overhead/frames to create the feeling of motion in reflections."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a morning, day and night scene."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shooting on Mini with promos."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am going to capture the footage tomorrow using GoPro 12s and was planning to angle the GPs in the rough direction the camera will be looking. There was an idea to use a 360 camera as well as a back up but this is TBD."
+    },
+    {
+      "type": "paragraph",
+      "text": "I think to be safe I will also get some footage with the go pros turned parallel with the car looking out"
+    },
+    {
+      "type": "paragraph",
+      "text": "The GPs will be set to cinema mode, 5.3K, 25FPS, H264, linear + horizon levelling (although might need to test that on the day)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The other settings I’m not 100% on such as white balance, shutter, and ISO in relation with my camera settings on the day so any advice on that will be great."
+    },
+    {
+      "type": "paragraph",
+      "text": "Luckily I am getting a projector test day but would hope to get the footage right so it doesn’t have to be repeated 🙂"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other than the above would there be any other advice on the footage capture and on the day filming to get the smoothest results?\nAlthough, the final product doesn’t need to look completely realistic as it is quite a stylised film"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cheers"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215001/6wy4xdtdmra0m62nvzao0bgyrsh10j5s.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/projector-poor-mans-process/#post-215009",
+    "scraped_at": "2026-01-15T15:24:03.654589+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/projector-poor-mans-process/#post-215009",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5aef29c4912a8f3d24a5f3a3d42e655fc7230e0fc07e488c8a4e7def0f69b4d9",
+    "parser_version": "bbpress-v2"
+  }
+}

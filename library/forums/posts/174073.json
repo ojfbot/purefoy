@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "174073",
+    "forum_slug": "film-talk",
+    "topic_slug": "tarkovsky-film-stalker",
+    "parent_post_id": "173722",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "bscofano88",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Tarkovsky passed away exactly 36 years ago today (Dec 29th).\nI absolutely love to hear and read Master Deakins commenting on Tarkovsky. Makes me appreciate Andrei’s work even more.\nNot one of the previously mentioned films, but I found the final scene of “Nostalgia” to be one of the most beautiful and meaningful I have ever seen.",
+  "content_html": "<p>Tarkovsky passed away exactly 36 years ago today (Dec 29th).</p>\n<p>I absolutely love to hear and read Master Deakins commenting on Tarkovsky. Makes me appreciate Andrei’s work even more.</p>\n<p>Not one of the previously mentioned films, but I found the final scene of “Nostalgia” to be one of the most beautiful and meaningful I have ever seen.</p>\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"509\" loading=\"lazy\" src=\"https://www.youtube.com/embed/gyLnf070wGo?feature=oembed\" title=\"Nostalghia (1983) - Andrey Tarkovski Last Scene\" width=\"678\"></iframe></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Tarkovsky passed away exactly 36 years ago today (Dec 29th)."
+    },
+    {
+      "type": "paragraph",
+      "text": "I absolutely love to hear and read Master Deakins commenting on Tarkovsky. Makes me appreciate Andrei’s work even more."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not one of the previously mentioned films, but I found the final scene of “Nostalgia” to be one of the most beautiful and meaningful I have ever seen."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/tarkovsky-film-stalker/#post-175108",
+    "scraped_at": "2026-01-15T14:33:37.207713+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/tarkovsky-film-stalker/#post-175108",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9b92acd157429dd510c33ef7b54e5bf851460158827fe340f856135ba7310f1c",
+    "parser_version": "bbpress-v2"
+  }
+}

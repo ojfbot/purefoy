@@ -1,0 +1,137 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/lighting-notes/#post-220270",
+  "forum_slug": "forum",
+  "topic_slug": "lighting-notes",
+  "title": "Lighting Notes",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215697",
+    "215698",
+    "215703",
+    "215704",
+    "215705",
+    "219669",
+    "219675",
+    "219706",
+    "219830",
+    "219831",
+    "219842",
+    "219843",
+    "220069",
+    "220270"
+  ],
+  "reply_tree": {
+    "post_id": "215697",
+    "post_type": "topic",
+    "author": "AkshayYd",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215698",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215703",
+        "post_type": "reply",
+        "author": "Max A.",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215704",
+        "post_type": "reply",
+        "author": "AkshayYd",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215705",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219669",
+        "post_type": "reply",
+        "author": "jijivishant",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219675",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219706",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219830",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219831",
+        "post_type": "reply",
+        "author": "rama lingam",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219842",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219843",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220069",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "220270",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 13,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-notes/#post-220270",
+    "scraped_at": "2026-01-15T13:56:35.823145+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-notes/#post-220270",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2d84396d3a596c39bac84860e27ae8404d78293a72160b042ddc9cd662043228",
+    "parser_version": "bbpress-v2"
+  }
+}

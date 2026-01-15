@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "173921",
+    "forum_slug": "camera",
+    "topic_slug": "shooting-a-short-on-16mm",
+    "parent_post_id": "173737",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Andrew C",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you, this is all good advice!",
+  "content_html": "<p>Thank you, this is all good advice!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you, this is all good advice!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-a-short-on-16mm/#post-173926",
+    "scraped_at": "2026-01-15T15:45:44.260507+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-a-short-on-16mm/#post-173926",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e83f45322e26076c2319e2f2537b5faed3a6c609657bac894870cf9908641ab2",
+    "parser_version": "bbpress-v2"
+  }
+}

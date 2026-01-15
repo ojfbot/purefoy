@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/relationship-between-light-output-and-contrast-in-a-room/#post-215868",
+  "forum_slug": "forum",
+  "topic_slug": "relationship-between-light-output-and-contrast-in-a-room",
+  "title": "Relationship between light output and contrast in a room.",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215847",
+    "215848",
+    "215862",
+    "215868"
+  ],
+  "reply_tree": {
+    "post_id": "215847",
+    "post_type": "topic",
+    "author": "Ocon",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215848",
+        "post_type": "reply",
+        "author": "gabj3",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215862",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215868",
+        "post_type": "reply",
+        "author": "simon m",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/relationship-between-light-output-and-contrast-in-a-room/#post-215868",
+    "scraped_at": "2026-01-15T15:43:57.027156+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/relationship-between-light-output-and-contrast-in-a-room/#post-215868",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f317bc1f6a2486e6e4248797eb40875c2044190113c15484badbe3547afb630b",
+    "parser_version": "bbpress-v2"
+  }
+}

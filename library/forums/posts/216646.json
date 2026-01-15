@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216646",
+    "forum_slug": "composition",
+    "topic_slug": "inspiration-sources",
+    "parent_post_id": "216503",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "bardanmcguire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "“If you look for meaning, you’ll miss everything that happens” – Andrei Tarkovsky",
+  "content_html": "<p>“If you look for meaning, you’ll miss everything that happens” – Andrei Tarkovsky</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "“If you look for meaning, you’ll miss everything that happens” – Andrei Tarkovsky"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/",
+    "scraped_at": "2026-01-15T12:26:03.384045+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d789715c15ef8acb1b056a5e2f47e6c6172777defa8ecb0077c0e185d4610871",
+    "parser_version": "bbpress-v2"
+  }
+}

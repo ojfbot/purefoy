@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "217262",
+    "forum_slug": "forum",
+    "topic_slug": "day-interior-lighting-when-all-windows-and-doors-closed",
+    "parent_post_id": "217231",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "MarcoFerri",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Do you mean that it has to feel like is daytime? in that case I would choose a wall and call it your blind spot and then create a fake windows from there.\nOn the other hands if the boys are deliberately smoking in a dark room even tho is daytime you have to treat the scene like a night time. In this case the main source of light can be a practical light or a dim light coming from the closed windows.\nI find myself struggling when the scene doesn’t give me much hints about light sources… that is when I have to invent in my head the main source that become my keylight.\nTry not to think about the technique but find what it might be lighting the boys in real life instead and try to recreate it. Also practicals can help you solving this process.",
+  "content_html": "<p>Do you mean that it has to feel like is daytime? in that case I would choose a wall and call it your blind spot and then create a fake windows from there.</p>\n<p>On the other hands if the boys are deliberately smoking in a dark room even tho is daytime you have to treat the scene like a night time. In this case the main source of light can be a practical light or a dim light coming from the closed windows.</p>\n<p>I find myself struggling when the scene doesn’t give me much hints about light sources… that is when I have to invent in my head the main source that become my keylight.</p>\n<p>Try not to think about the technique but find what it might be lighting the boys in real life instead and try to recreate it. Also practicals can help you solving this process.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Do you mean that it has to feel like is daytime? in that case I would choose a wall and call it your blind spot and then create a fake windows from there."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hands if the boys are deliberately smoking in a dark room even tho is daytime you have to treat the scene like a night time. In this case the main source of light can be a practical light or a dim light coming from the closed windows."
+    },
+    {
+      "type": "paragraph",
+      "text": "I find myself struggling when the scene doesn’t give me much hints about light sources… that is when I have to invent in my head the main source that become my keylight."
+    },
+    {
+      "type": "paragraph",
+      "text": "Try not to think about the technique but find what it might be lighting the boys in real life instead and try to recreate it. Also practicals can help you solving this process."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/day-interior-lighting-when-all-windows-and-doors-closed/#post-217340",
+    "scraped_at": "2026-01-15T15:21:03.527942+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/day-interior-lighting-when-all-windows-and-doors-closed/#post-217340",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dd9584de9c6fbb81941719fae3c128c4f17b390db91a37a2e96aa99bfc73074d",
+    "parser_version": "bbpress-v2"
+  }
+}

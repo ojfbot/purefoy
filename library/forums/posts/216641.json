@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216641",
+    "forum_slug": "camera",
+    "topic_slug": "film-emulation-luts-deakins-lut-and-dior-lens-filter",
+    "parent_post_id": "216639",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Well, i think it’s the proof that you are a master when someone puts your name on a LUT!\nJokes apart, I am more or less in the same situation (learning, working with little or not budget, etc) and so congratulations to getting the work done, it’s not easy to create an indie production! I liked the stills in your video, they really have some Deakins’ vibe  (just a little tip for future videos: a little more showing, a little less talking!) . My doubt about LUTs in general and in particular one inspired to Roger’s works is that LUTs can do amazing things (your still show that) but they are a shortcut. In other words, one can obtain a great image but without actually knowing how he did. So, a nice shortcut to the desired look, but little learning from it (unless you analyze the values in the LUT and manually modify it to see what it does). I think it’s way more complicated but a better way on the long term to try to get to that very same look manually working on lights, camera movements, lense choices, color correction, color grading , etc etc. It took longer but you learn a lot doing that. Just my opinion! Good luck for the movie and congratulation for the movie!",
+  "content_html": "<p>Well, i think it’s the proof that you are a master when someone puts your name on a LUT!</p>\n<p>Jokes apart, I am more or less in the same situation (learning, working with little or not budget, etc) and so congratulations to getting the work done, it’s not easy to create an indie production! I liked the stills in your video, they really have some Deakins’ vibe  (just a little tip for future videos: a little more showing, a little less talking!) . My doubt about LUTs in general and in particular one inspired to Roger’s works is that LUTs can do amazing things (your still show that) but they are a shortcut. In other words, one can obtain a great image but without actually knowing how he did. So, a nice shortcut to the desired look, but little learning from it (unless you analyze the values in the LUT and manually modify it to see what it does). I think it’s way more complicated but a better way on the long term to try to get to that very same look manually working on lights, camera movements, lense choices, color correction, color grading , etc etc. It took longer but you learn a lot doing that. Just my opinion! Good luck for the movie and congratulation for the movie!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Well, i think it’s the proof that you are a master when someone puts your name on a LUT!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jokes apart, I am more or less in the same situation (learning, working with little or not budget, etc) and so congratulations to getting the work done, it’s not easy to create an indie production! I liked the stills in your video, they really have some Deakins’ vibe  (just a little tip for future videos: a little more showing, a little less talking!) . My doubt about LUTs in general and in particular one inspired to Roger’s works is that LUTs can do amazing things (your still show that) but they are a shortcut. In other words, one can obtain a great image but without actually knowing how he did. So, a nice shortcut to the desired look, but little learning from it (unless you analyze the values in the LUT and manually modify it to see what it does). I think it’s way more complicated but a better way on the long term to try to get to that very same look manually working on lights, camera movements, lense choices, color correction, color grading , etc etc. It took longer but you learn a lot doing that. Just my opinion! Good luck for the movie and congratulation for the movie!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/film-emulation-luts-deakins-lut-and-dior-lens-filter/#post-216657",
+    "scraped_at": "2026-01-15T13:39:54.171258+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/film-emulation-luts-deakins-lut-and-dior-lens-filter/#post-216657",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9dfc671d04f4022601a0e83d1cf287d4703caf2f68b90c9461d71d31c62af7ec",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "215017",
+    "forum_slug": "camera",
+    "topic_slug": "sf-extreme-conditions"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Markus CS",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello,\nI’m doing a project this winter, where we’ll be working in extreme remote conditions. Just looking for any advice anyone might have on the topic, from problems that get overlooked, to taking care of gear.\nQ2 – Specific sound recording question – Their will be multiple communication devices that the actors will be carrying. Has anyone run into any problems with sound recording/signal overlap in the field? My actors will be using a radio and carrying electronic safety devices + their lavalier’s.\nI appreciate your time, thanks",
+  "content_html": "<p>Hello,</p>\n<p>I’m doing a project this winter, where we’ll be working in extreme remote conditions. Just looking for any advice anyone might have on the topic, from problems that get overlooked, to taking care of gear.</p>\n<p>Q2 – Specific sound recording question – Their will be multiple communication devices that the actors will be carrying. Has anyone run into any problems with sound recording/signal overlap in the field? My actors will be using a radio and carrying electronic safety devices + their lavalier’s.</p>\n<p>I appreciate your time, thanks</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m doing a project this winter, where we’ll be working in extreme remote conditions. Just looking for any advice anyone might have on the topic, from problems that get overlooked, to taking care of gear."
+    },
+    {
+      "type": "paragraph",
+      "text": "Q2 – Specific sound recording question – Their will be multiple communication devices that the actors will be carrying. Has anyone run into any problems with sound recording/signal overlap in the field? My actors will be using a radio and carrying electronic safety devices + their lavalier’s."
+    },
+    {
+      "type": "paragraph",
+      "text": "I appreciate your time, thanks"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sf-extreme-conditions/",
+    "scraped_at": "2026-01-15T15:23:57.621096+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sf-extreme-conditions/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b2c5b48726455140d5cbd801935bffa738c30e86d0db15b2e140aa4b8b84e296",
+    "parser_version": "bbpress-v2"
+  }
+}

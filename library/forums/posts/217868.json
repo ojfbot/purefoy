@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "post_id": "217868",
+    "forum_slug": "forum",
+    "topic_slug": "coin-macro-videos-looking-for-feedback"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "FriendlyEagle",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Here are a few examples of vids I’ve shot recently with the rig I’m working on – would love to hear your thoughts on anything you think I should improve. I’ve been working on getting the motion smooth and am going to now work on lighting.\nThe rig right now uses addressable RGBW LEDs in kindof a dome around the lens, but they’re just not bright enough to use smaller aperture I want so the edges aren’t so out of focus when its tilted, and the LEDs illuminate the opposite side of the fixture. I have some of that magic black acrylic on the way that somehow looks dark but allows light to shine through, which should help, especially with a honeycomb between the LEDs and the acrylic. In the 3rd vid where the coin is behind plastic you can see the reflection of the light strips. Most coins I do for clients or at shows will stay in their plastic so its crucial I fix that.\nThe other option I’m considering is adding another motor and putting a more powerful light on a big ~100mm bearing so it goes in a circle for the parts where the coin is still, but I’m having trouble deciding how to do the part where the coin tilts, because it always looks bad when it tilts away from the light, but having one light source better simulates what coin collectors do at their desk under their lamp with a coin in hand. It’s hard to balance simulating that and showing every flaw, making the video most useful to potential buyers vs making the coin look as glamorous as possible so coin sellers want my vids for their web stores and auctions.\nI’m building a kiosk to make these vids at coin shows and am trying to make my workflow not require any post recording editing, though I am recording via HDMI capture and doing some things with OBS plugins. I’m also curious if anyone can guess the lens. I bought this lens without even being able to find a review of it online and was very pleasantly surprised with the quality for the price, as this is very much a low budget project until I can find some clients who want to send me coins or get the rig sturdy and professional enough looking to take to coin shows to do walk ups or eventually more like an automated kiosk or arcade game where the player can control the lights/motion for some time while its recording.\nTest Footage “The Orbital Tower” 1972 Kennedy Half Dollar – YouTube\n1976-S Silver Eisenhower Dollar DDO Doubled Die Obverse\nTest Footage: Explorer (1956 Franklin Half Dollar)\nhttps://www.youtube.com/@FriendlyEagle7",
+  "content_html": "<p>Here are a few examples of vids I’ve shot recently with the rig I’m working on – would love to hear your thoughts on anything you think I should improve. I’ve been working on getting the motion smooth and am going to now work on lighting.</p>\n<p>The rig right now uses addressable RGBW LEDs in kindof a dome around the lens, but they’re just not bright enough to use smaller aperture I want so the edges aren’t so out of focus when its tilted, and the LEDs illuminate the opposite side of the fixture. I have some of that magic black acrylic on the way that somehow looks dark but allows light to shine through, which should help, especially with a honeycomb between the LEDs and the acrylic. In the 3rd vid where the coin is behind plastic you can see the reflection of the light strips. Most coins I do for clients or at shows will stay in their plastic so its crucial I fix that.</p>\n<p>The other option I’m considering is adding another motor and putting a more powerful light on a big ~100mm bearing so it goes in a circle for the parts where the coin is still, but I’m having trouble deciding how to do the part where the coin tilts, because it always looks bad when it tilts away from the light, but having one light source better simulates what coin collectors do at their desk under their lamp with a coin in hand. It’s hard to balance simulating that and showing every flaw, making the video most useful to potential buyers vs making the coin look as glamorous as possible so coin sellers want my vids for their web stores and auctions.</p>\n<p>I’m building a kiosk to make these vids at coin shows and am trying to make my workflow not require any post recording editing, though I am recording via HDMI capture and doing some things with OBS plugins. I’m also curious if anyone can guess the lens. I bought this lens without even being able to find a review of it online and was very pleasantly surprised with the quality for the price, as this is very much a low budget project until I can find some clients who want to send me coins or get the rig sturdy and professional enough looking to take to coin shows to do walk ups or eventually more like an automated kiosk or arcade game where the player can control the lights/motion for some time while its recording.</p>\n<p> </p>\n<p><a href=\"https://www.youtube.com/watch?v=ON4FIhZmLFw&amp;t=4s\" rel=\"nofollow\">Test Footage “The Orbital Tower” 1972 Kennedy Half Dollar – YouTube</a></p>\n<p><a href=\"https://youtu.be/i_qUvvGytkc\" rel=\"noopener nofollow\" target=\"_blank\">1976-S Silver Eisenhower Dollar DDO Doubled Die Obverse</a></p>\n<p><a href=\"https://youtu.be/vm2NKp0_R1Y\" rel=\"noopener nofollow\" target=\"_blank\">Test Footage: Explorer (1956 Franklin Half Dollar)</a></p>\n<div class=\"bbp-signature\"><p>https://www.youtube.com/@FriendlyEagle7</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Here are a few examples of vids I’ve shot recently with the rig I’m working on – would love to hear your thoughts on anything you think I should improve. I’ve been working on getting the motion smooth and am going to now work on lighting."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rig right now uses addressable RGBW LEDs in kindof a dome around the lens, but they’re just not bright enough to use smaller aperture I want so the edges aren’t so out of focus when its tilted, and the LEDs illuminate the opposite side of the fixture. I have some of that magic black acrylic on the way that somehow looks dark but allows light to shine through, which should help, especially with a honeycomb between the LEDs and the acrylic. In the 3rd vid where the coin is behind plastic you can see the reflection of the light strips. Most coins I do for clients or at shows will stay in their plastic so its crucial I fix that."
+    },
+    {
+      "type": "paragraph",
+      "text": "The other option I’m considering is adding another motor and putting a more powerful light on a big ~100mm bearing so it goes in a circle for the parts where the coin is still, but I’m having trouble deciding how to do the part where the coin tilts, because it always looks bad when it tilts away from the light, but having one light source better simulates what coin collectors do at their desk under their lamp with a coin in hand. It’s hard to balance simulating that and showing every flaw, making the video most useful to potential buyers vs making the coin look as glamorous as possible so coin sellers want my vids for their web stores and auctions."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m building a kiosk to make these vids at coin shows and am trying to make my workflow not require any post recording editing, though I am recording via HDMI capture and doing some things with OBS plugins. I’m also curious if anyone can guess the lens. I bought this lens without even being able to find a review of it online and was very pleasantly surprised with the quality for the price, as this is very much a low budget project until I can find some clients who want to send me coins or get the rig sturdy and professional enough looking to take to coin shows to do walk ups or eventually more like an automated kiosk or arcade game where the player can control the lights/motion for some time while its recording."
+    },
+    {
+      "type": "paragraph",
+      "text": "Test Footage “The Orbital Tower” 1972 Kennedy Half Dollar – YouTube"
+    },
+    {
+      "type": "paragraph",
+      "text": "1976-S Silver Eisenhower Dollar DDO Doubled Die Obverse"
+    },
+    {
+      "type": "paragraph",
+      "text": "Test Footage: Explorer (1956 Franklin Half Dollar)"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://www.youtube.com/@FriendlyEagle7"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.youtube.com/watch?v=ON4FIhZmLFw&t=4s",
+      "text": "Test Footage “The Orbital Tower” 1972 Kennedy Half Dollar – YouTube",
+      "kind": "external"
+    },
+    {
+      "href": "https://youtu.be/i_qUvvGytkc",
+      "text": "1976-S Silver Eisenhower Dollar DDO Doubled Die Obverse",
+      "kind": "external"
+    },
+    {
+      "href": "https://youtu.be/vm2NKp0_R1Y",
+      "text": "Test Footage: Explorer (1956 Franklin Half Dollar)",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/coin-macro-videos-looking-for-feedback/#post-217948",
+    "scraped_at": "2026-01-15T15:19:57.130939+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/coin-macro-videos-looking-for-feedback/#post-217948",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fabe5002aa4cdada1082c3d1d813c7f93d107a949c968e81191b5ceab7d00c14",
+    "parser_version": "bbpress-v2"
+  }
+}

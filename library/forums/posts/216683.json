@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "216683",
+    "forum_slug": "camera",
+    "topic_slug": "deep-stop-with-artificial-sunlight"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "garmstro",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Roger and the forum,\nI was reading your “looking at lighting” description of the No Country hospital scene, and I noticed that you mentioned that you don’t like the look of artificial sunlight when you are shooting at a shallow stop.  I was wondering why you have this particular preference, and if you could elaborate on it, because I’ve never heard this before.\nAlso if any of the forum have any insights or thoughts in regards to this particular question, I’m interested in hearing them!\nThanks!\nGabriel",
+  "content_html": "<p>Hello Roger and the forum,</p>\n<p>I was reading your “looking at lighting” description of the No Country hospital scene, and I noticed that you mentioned that you don’t like the look of artificial sunlight when you are shooting at a shallow stop.  I was wondering why you have this particular preference, and if you could elaborate on it, because I’ve never heard this before.</p>\n<p>Also if any of the forum have any insights or thoughts in regards to this particular question, I’m interested in hearing them!</p>\n<p>Thanks!</p>\n<p>Gabriel</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Roger and the forum,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was reading your “looking at lighting” description of the No Country hospital scene, and I noticed that you mentioned that you don’t like the look of artificial sunlight when you are shooting at a shallow stop.  I was wondering why you have this particular preference, and if you could elaborate on it, because I’ve never heard this before."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also if any of the forum have any insights or thoughts in regards to this particular question, I’m interested in hearing them!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gabriel"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/deep-stop-with-artificial-sunlight/#post-216695",
+    "scraped_at": "2026-01-15T13:24:05.310968+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/deep-stop-with-artificial-sunlight/#post-216695",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "adf4de1972e1ee6290b492061b2cb4dfe5efcbfce1a76190ac0caab01e9b78c9",
+    "parser_version": "bbpress-v2"
+  }
+}

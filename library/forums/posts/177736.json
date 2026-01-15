@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "177736",
+    "forum_slug": "camera",
+    "topic_slug": "shot-design-in-prep"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "jeff791107",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger,\nI am curious about your approach to framing shots and shortlisting in your works with Directors.\nNow I am in the prep of a feature. I felt like it would take a huge amount of time on the storyboard of every frame and shot. However, it looks like we don’t have enough time for that.\nHow exactly does your working process look like? Do you do storyboarding with directors? Or is it more like the directors work in advance and then you come in to discuss the blocking and refine your shot? Do you only plan shots for some important scenes? Does the production hire storyboard artists?\nI would like to hear your advice. Thank you.",
+  "content_html": "<p>Hi Roger,</p>\n<p>I am curious about your approach to framing shots and shortlisting in your works with Directors.</p>\n<p>Now I am in the prep of a feature. I felt like it would take a huge amount of time on the storyboard of every frame and shot. However, it looks like we don’t have enough time for that.</p>\n<p>How exactly does your working process look like? Do you do storyboarding with directors? Or is it more like the directors work in advance and then you come in to discuss the blocking and refine your shot? Do you only plan shots for some important scenes? Does the production hire storyboard artists?</p>\n<p>I would like to hear your advice. Thank you.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am curious about your approach to framing shots and shortlisting in your works with Directors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now I am in the prep of a feature. I felt like it would take a huge amount of time on the storyboard of every frame and shot. However, it looks like we don’t have enough time for that."
+    },
+    {
+      "type": "paragraph",
+      "text": "How exactly does your working process look like? Do you do storyboarding with directors? Or is it more like the directors work in advance and then you come in to discuss the blocking and refine your shot? Do you only plan shots for some important scenes? Does the production hire storyboard artists?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I would like to hear your advice. Thank you."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/page/2/",
+    "scraped_at": "2026-01-15T15:44:25.840421+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8748d5e6947d847fee870f038e0b6692566d7153790a02fea924f0e79899c091",
+    "parser_version": "bbpress-v2"
+  }
+}

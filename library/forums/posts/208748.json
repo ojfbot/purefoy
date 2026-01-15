@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "208748",
+    "forum_slug": "composition",
+    "topic_slug": "psycho-singles-eye-line-curse-of-color-in-modern-cinema",
+    "parent_post_id": "206942",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "‘Eye candy’. Yes, I think color is often just ‘eye candy’ and both a distraction and an excuse for a lack of something else. On the other hand, there are great photographs as well as films shot in color.\nAs for the eye line. I can’t imagine there is a single shot in ‘Psycho’ that was not deliberate and also drawn out in advance. I’m sure there is a storyboard somewhere.",
+  "content_html": "<p>‘Eye candy’. Yes, I think color is often just ‘eye candy’ and both a distraction and an excuse for a lack of something else. On the other hand, there are great photographs as well as films shot in color.</p>\n<p>As for the eye line. I can’t imagine there is a single shot in ‘Psycho’ that was not deliberate and also drawn out in advance. I’m sure there is a storyboard somewhere.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "‘Eye candy’. Yes, I think color is often just ‘eye candy’ and both a distraction and an excuse for a lack of something else. On the other hand, there are great photographs as well as films shot in color."
+    },
+    {
+      "type": "paragraph",
+      "text": "As for the eye line. I can’t imagine there is a single shot in ‘Psycho’ that was not deliberate and also drawn out in advance. I’m sure there is a storyboard somewhere."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/psycho-singles-eye-line-curse-of-color-in-modern-cinema/#post-211113",
+    "scraped_at": "2026-01-15T13:23:32.284471+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/psycho-singles-eye-line-curse-of-color-in-modern-cinema/#post-211113",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1238d9d0d7879751fd0714883edb03261b8d88efcf563363865ed06ffd3338ad",
+    "parser_version": "bbpress-v2"
+  }
+}

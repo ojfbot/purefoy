@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "220539",
+    "forum_slug": "film-talk",
+    "topic_slug": "mr-deakins-regarding-2049-spinner-flyover-vegas",
+    "parent_post_id": "220537",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LoFiGuy29",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yes I believe so – Joe Walker (editor on 2049) stated the following in an interview back in 2017:\nFor example, there was a really magnificent aerial sequence when K and Joi fly to Las Vegas. It was one of those rare occasions when it was raining on the hills outside Las Vegas, God’s contribution to Blade Runner 2049. But it just felt more impactful to go straight to the pilot fish’s view of this strange landscape and hear K’s distorted commands, to skip ahead of the audience for a while.\nI do recall the scene from the shooting script as well, but I’m not sure if vfx was completed for it. Just curious if you had any recollection as the mention of rain, hills and your lighting would have been something to see. (Maybe one day?)\nBeyond that scene, the only other deletions (as far as I can tell from the script) seemed to be some of the Baseline Test narration, a brief scene with K in the markets and from that same interview the Deckard/K fight being longer and more slapstick so it was cut with less holograms and more silence to make it ominous (editor’s words).",
+  "content_html": "<p>Yes I believe so – Joe Walker (editor on 2049) stated the following in an interview back in 2017:</p>\n<p><em>For example, there was a really magnificent aerial sequence when K and Joi fly to Las Vegas. It was one of those rare occasions when it was raining on the hills outside Las Vegas, God’s contribution to Blade Runner 2049. But it just felt more impactful to go straight to the pilot fish’s view of this strange landscape and hear K’s distorted commands, to skip ahead of the audience for a while. </em></p>\n<p>I do recall the scene from the shooting script as well, but I’m not sure if vfx was completed for it. Just curious if you had any recollection as the mention of rain, hills and your lighting would have been something to see. (Maybe one day?)</p>\n<p>Beyond that scene, the only other deletions (as far as I can tell from the script) seemed to be some of the Baseline Test narration, a brief scene with K in the markets and from that same interview the Deckard/K fight being longer and more slapstick so it was cut with less holograms and more silence to make it ominous (editor’s words).</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yes I believe so – Joe Walker (editor on 2049) stated the following in an interview back in 2017:"
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, there was a really magnificent aerial sequence when K and Joi fly to Las Vegas. It was one of those rare occasions when it was raining on the hills outside Las Vegas, God’s contribution to Blade Runner 2049. But it just felt more impactful to go straight to the pilot fish’s view of this strange landscape and hear K’s distorted commands, to skip ahead of the audience for a while."
+    },
+    {
+      "type": "paragraph",
+      "text": "I do recall the scene from the shooting script as well, but I’m not sure if vfx was completed for it. Just curious if you had any recollection as the mention of rain, hills and your lighting would have been something to see. (Maybe one day?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Beyond that scene, the only other deletions (as far as I can tell from the script) seemed to be some of the Baseline Test narration, a brief scene with K in the markets and from that same interview the Deckard/K fight being longer and more slapstick so it was cut with less holograms and more silence to make it ominous (editor’s words)."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-regarding-2049-spinner-flyover-vegas/#post-220557",
+    "scraped_at": "2026-01-15T11:50:43.068652+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-regarding-2049-spinner-flyover-vegas/#post-220557",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bf17faabc25123cc8c5f27910791022580e75c72c96907977da602ef283aa75a",
+    "parser_version": "bbpress-v2"
+  }
+}

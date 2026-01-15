@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216466",
+    "forum_slug": "film-talk",
+    "topic_slug": "blade-runner-2049-that-was-a-good-shot",
+    "parent_post_id": "216238",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Its always more important to prioritize the fluidity of the film over any one particular shot. And film is a collaboration. I wouldn’t say it is up to one or the other.",
+  "content_html": "<p>Its always more important to prioritize the fluidity of the film over any one particular shot. And film is a collaboration. I wouldn’t say it is up to one or the other.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Its always more important to prioritize the fluidity of the film over any one particular shot. And film is a collaboration. I wouldn’t say it is up to one or the other."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/blade-runner-2049-that-was-a-good-shot/#post-216466",
+    "scraped_at": "2026-01-15T12:48:50.533878+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/blade-runner-2049-that-was-a-good-shot/#post-216466",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c0bd57b8c1a3a332c6c13dcb9352e7bf6ddd4e0aa3da7eb703bed605417acbb1",
+    "parser_version": "bbpress-v2"
+  }
+}

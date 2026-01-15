@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "post_id": "176317",
+    "forum_slug": "camera",
+    "topic_slug": "raw-compressed-format-red-patent",
+    "parent_post_id": "176198",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "To nerd,\nIt’s interesting to view the different types of image compression that occur upon acquisition and what REDRAW is/means.\nRED owns the patent for spatial compression in RAW image files; spatial information is image detail, like lines on an MTF chart. It’s the difference in values between pixels.\nRED now employs DCT 2 (no longer Wavelet) compression, the same found in ProRes, JPEG, etc. It converts spatial information to a sinusoidal wave, representing a gradient in pixel values for an 8×8 area with a corresponding coefficient chart. Thus it significantly reduces the number of values required for an area of an image.\nNote, RED itself didn’t create any of the compression algorithms used; they applied it to a RAW codec (sampling a single Y value per pixel) and patented it, and, more importantly, enforced said patent.\nNow ARRI, RED, Sony and everybody else with a RAW acquisition method generally applies a level of compression before the acquisition; however, it’s not spatial compression, it’s a compression of single pixel value, rather than delivering a 16-bit value per pixel, we provide a 10-12-bit value per pixel disregarding unnecessary information – a logarithmic container!\nSo, everybody applies compression (unless under extreme circumstances) to the range of values; RED applies compression for the number of values required to create an image, thus decreasing the bitrate further. The cleverness is, of course, taken from JPEG2000, where you have Wavelet/DCT compression and still debayer afterwards, a clever but reasonably simple addition to the complexity of DCT 2.\nNow, of course, as soon as you don’t sample a single Y value per pixel and minorly interpolate values, you’re no longer genuinely infringing on the REDs patent (BMD); ProRes RAW is almost identical to RED RAW (Apple gave RED the DCT 2 compression algorithm) and blah blah blah the rest is well known.\nNow, does it significantly hold back the potential of cinema and, therefore, cinematography? No.\nIt’s just spatial compression of a RAW image that reduces bitrate. I’m sure it hurts some independent filmmakers and lowers the possibility of RAW acquisition on some shoots, but they’re by no means limiting the potential of a camera.\nIt’s just one of the more talked about scuffles in our industry.\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>To nerd,</p>\n<p>It’s interesting to view the different types of image compression that occur upon acquisition and what REDRAW is/means.</p>\n<p>RED owns the patent for spatial compression in RAW image files; spatial information is image detail, like lines on an MTF chart. It’s the difference in values between pixels.</p>\n<p>RED now employs DCT 2 (no longer Wavelet) compression, the same found in ProRes, JPEG, etc. It converts spatial information to a sinusoidal wave, representing a gradient in pixel values for an 8×8 area with a corresponding coefficient chart. Thus it significantly reduces the number of values required for an area of an image.</p>\n<p>Note, RED itself didn’t create any of the compression algorithms used; they applied it to a RAW codec (sampling a single Y value per pixel) and patented it, and, more importantly, enforced said patent.</p>\n<p>Now ARRI, RED, Sony and everybody else with a RAW acquisition method generally applies a level of compression before the acquisition; however, it’s not spatial compression, it’s a compression of single pixel value, rather than delivering a 16-bit value per pixel, we provide a 10-12-bit value per pixel disregarding unnecessary information – a logarithmic container!</p>\n<p>So, everybody applies compression (unless under extreme circumstances) to the range of values; RED applies compression for the number of values required to create an image, thus decreasing the bitrate further. The cleverness is, of course, taken from JPEG2000, where you have Wavelet/DCT compression and still debayer afterwards, a clever but reasonably simple addition to the complexity of DCT 2.</p>\n<p>Now, of course, as soon as you don’t sample a single Y value per pixel and minorly interpolate values, you’re no longer genuinely infringing on the REDs patent (BMD); ProRes RAW is almost identical to RED RAW (Apple gave RED the DCT 2 compression algorithm) and blah blah blah the rest is well known.</p>\n<p>Now, does it significantly hold back the potential of cinema and, therefore, cinematography? No.</p>\n<p>It’s just spatial compression of a RAW image that reduces bitrate. I’m sure it hurts some independent filmmakers and lowers the possibility of RAW acquisition on some shoots, but they’re by no means limiting the potential of a camera.</p>\n<p>It’s just one of the more talked about scuffles in our industry.</p>\n<p> </p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "To nerd,"
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s interesting to view the different types of image compression that occur upon acquisition and what REDRAW is/means."
+    },
+    {
+      "type": "paragraph",
+      "text": "RED owns the patent for spatial compression in RAW image files; spatial information is image detail, like lines on an MTF chart. It’s the difference in values between pixels."
+    },
+    {
+      "type": "paragraph",
+      "text": "RED now employs DCT 2 (no longer Wavelet) compression, the same found in ProRes, JPEG, etc. It converts spatial information to a sinusoidal wave, representing a gradient in pixel values for an 8×8 area with a corresponding coefficient chart. Thus it significantly reduces the number of values required for an area of an image."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note, RED itself didn’t create any of the compression algorithms used; they applied it to a RAW codec (sampling a single Y value per pixel) and patented it, and, more importantly, enforced said patent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now ARRI, RED, Sony and everybody else with a RAW acquisition method generally applies a level of compression before the acquisition; however, it’s not spatial compression, it’s a compression of single pixel value, rather than delivering a 16-bit value per pixel, we provide a 10-12-bit value per pixel disregarding unnecessary information – a logarithmic container!"
+    },
+    {
+      "type": "paragraph",
+      "text": "So, everybody applies compression (unless under extreme circumstances) to the range of values; RED applies compression for the number of values required to create an image, thus decreasing the bitrate further. The cleverness is, of course, taken from JPEG2000, where you have Wavelet/DCT compression and still debayer afterwards, a clever but reasonably simple addition to the complexity of DCT 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, of course, as soon as you don’t sample a single Y value per pixel and minorly interpolate values, you’re no longer genuinely infringing on the REDs patent (BMD); ProRes RAW is almost identical to RED RAW (Apple gave RED the DCT 2 compression algorithm) and blah blah blah the rest is well known."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, does it significantly hold back the potential of cinema and, therefore, cinematography? No."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s just spatial compression of a RAW image that reduces bitrate. I’m sure it hurts some independent filmmakers and lowers the possibility of RAW acquisition on some shoots, but they’re by no means limiting the potential of a camera."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s just one of the more talked about scuffles in our industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/raw-compressed-format-red-patent/#post-176319",
+    "scraped_at": "2026-01-15T15:44:59.780580+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/raw-compressed-format-red-patent/#post-176319",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b3be0e8f10839e216a2af8b87f1226db7d0c13c76ffeeb3401625a2df615dbc1",
+    "parser_version": "bbpress-v2"
+  }
+}

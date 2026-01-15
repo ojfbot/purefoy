@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "211277",
+    "forum_slug": "composition",
+    "topic_slug": "was-no-country-for-old-men-initially-intended-to-be-169",
+    "parent_post_id": "211108",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The film was designed and shot to be seen at 2.39:1, full stop. What is done on YouTube is what is done on YouTube.",
+  "content_html": "<p>The film was designed and shot to be seen at 2.39:1, full stop. What is done on YouTube is what is done on YouTube.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The film was designed and shot to be seen at 2.39:1, full stop. What is done on YouTube is what is done on YouTube."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/was-no-country-for-old-men-initially-intended-to-be-169/#post-212801",
+    "scraped_at": "2026-01-15T13:23:25.982828+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/was-no-country-for-old-men-initially-intended-to-be-169/#post-212801",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "490d2d2156626df665eb59290db24c4f324c080f9ad787ddb36cb12f3540d574",
+    "parser_version": "bbpress-v2"
+  }
+}

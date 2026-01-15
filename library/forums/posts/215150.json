@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "215150",
+    "forum_slug": "forum",
+    "topic_slug": "1917-flare-scene-capturing-isolation",
+    "parent_post_id": "215116",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "nathan.b",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hey Roger,\nThanks a lot for your helpful insights, and I’ll definitely check out “Come and See.”\nI appreciate your time and knowledge!\nBest, Nathan",
+  "content_html": "<p>Hey Roger,</p>\n<p>Thanks a lot for your helpful insights, and I’ll definitely check out “Come and See.”</p>\n<p>I appreciate your time and knowledge!</p>\n<p>Best, Nathan</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hey Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks a lot for your helpful insights, and I’ll definitely check out “Come and See.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "I appreciate your time and knowledge!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Best, Nathan"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/1917-flare-scene-capturing-isolation/#post-215150",
+    "scraped_at": "2026-01-15T15:48:56.740815+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/1917-flare-scene-capturing-isolation/#post-215150",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "be6f95ed05afad3d671034e7026c0daf72d74a1d24d801622fb5e765f1284fea",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218005",
+    "forum_slug": "camera",
+    "topic_slug": "exposing-film-for-bleach-bypass",
+    "parent_post_id": "217889",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "JamesLahaise",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yes that makes sense! We do want a strong highlight and deep shadow and think I got a bit lost in the wood researching all this! While I don’t want them crazy blown out that should be manageable through lighting on set etc. Thank you for the advice!",
+  "content_html": "<p>Yes that makes sense! We do want a strong highlight and deep shadow and think I got a bit lost in the wood researching all this! While I don’t want them crazy blown out that should be manageable through lighting on set etc. Thank you for the advice!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yes that makes sense! We do want a strong highlight and deep shadow and think I got a bit lost in the wood researching all this! While I don’t want them crazy blown out that should be manageable through lighting on set etc. Thank you for the advice!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposing-film-for-bleach-bypass/#post-218005",
+    "scraped_at": "2026-01-15T13:06:00.267370+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposing-film-for-bleach-bypass/#post-218005",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "641425853760ac59a64baf950a2fb72d32115b563a985df374843e9aa55b18ef",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "post_id": "214565",
+    "forum_slug": "film-talk",
+    "topic_slug": "sicario",
+    "parent_post_id": "214551",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If I can join in this topic, I think Ganesh asked a good question and did a good subjective analysis.\nIn my opinion, first of all, art is subjective. It is subjective when someone feels and creates a piece of art and often is subjective when a human being is connecting to it and has his sensations, his reactions, and his own interior questions.\nI think, to answer to Ganesh, that Mr. Villeneuve took his risk to change the way to introduce a crucial character like Alejandro, and by doing this he changed the whole Image System of the movie and the way we as an audience perceived and followed the story.\nWhen we all do something we taking our risks, this is a process that can improve our path (passing also by brutal failures).\nI agree with Michael (Mr. Ryan) and to be honest I never analyzed the fact Kate is something like an “observer” of the story, we as the audience are Kate. This is a strong storytelling point of Sicario in my opinion and is maybe the the factor that makes the movie not “just an action movie”.\nOf course, this is my opinion, as an audience. I’m not won any awards nor feel like a movie theorist.\nIn the end, I agree with the concept to be always respectful of each other.\nI know you Vanniyan are so passionate about movies and cinematography and are a huge fan of Mr. Deakins (like us) but this doesn’t let you blame and call someone “child”.\nOften a child can teach us to see something that we never saw.\nI apologize for my bad English.\nHave a peaceful Sunday all forum members.\nMax.",
+  "content_html": "<p>If I can join in this topic, I think Ganesh asked a good question and did a good subjective analysis.</p>\n<p>In my opinion, first of all, art is subjective. It is subjective when someone feels and creates a piece of art and often is subjective when a human being is connecting to it and has his sensations, his reactions, and his own interior questions.</p>\n<p>I think, to answer to Ganesh, that Mr. Villeneuve took his risk to change the way to introduce a crucial character like Alejandro, and by doing this he changed the whole Image System of the movie and the way we as an audience perceived and followed the story.</p>\n<p>When we all do something we taking our risks, this is a process that can improve our path (passing also by brutal failures).</p>\n<p>I agree with Michael (Mr. Ryan) and to be honest I never analyzed the fact Kate is something like an “observer” of the story, we as the audience are Kate. This is a strong storytelling point of Sicario in my opinion and is maybe the the factor that makes the movie not “just an action movie”.</p>\n<p>Of course, this is my opinion, as an audience. I’m not won any awards nor feel like a movie theorist.</p>\n<p>In the end, I agree with the concept to be always respectful of each other.<br/>\nI know you Vanniyan are so passionate about movies and cinematography and are a huge fan of Mr. Deakins (like us) but this doesn’t let you blame and call someone “child”.</p>\n<p>Often a child can teach us to see something that we never saw.</p>\n<p>I apologize for my bad English.</p>\n<p>Have a peaceful Sunday all forum members.<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If I can join in this topic, I think Ganesh asked a good question and did a good subjective analysis."
+    },
+    {
+      "type": "paragraph",
+      "text": "In my opinion, first of all, art is subjective. It is subjective when someone feels and creates a piece of art and often is subjective when a human being is connecting to it and has his sensations, his reactions, and his own interior questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "I think, to answer to Ganesh, that Mr. Villeneuve took his risk to change the way to introduce a crucial character like Alejandro, and by doing this he changed the whole Image System of the movie and the way we as an audience perceived and followed the story."
+    },
+    {
+      "type": "paragraph",
+      "text": "When we all do something we taking our risks, this is a process that can improve our path (passing also by brutal failures)."
+    },
+    {
+      "type": "paragraph",
+      "text": "I agree with Michael (Mr. Ryan) and to be honest I never analyzed the fact Kate is something like an “observer” of the story, we as the audience are Kate. This is a strong storytelling point of Sicario in my opinion and is maybe the the factor that makes the movie not “just an action movie”."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of course, this is my opinion, as an audience. I’m not won any awards nor feel like a movie theorist."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the end, I agree with the concept to be always respectful of each other.\nI know you Vanniyan are so passionate about movies and cinematography and are a huge fan of Mr. Deakins (like us) but this doesn’t let you blame and call someone “child”."
+    },
+    {
+      "type": "paragraph",
+      "text": "Often a child can teach us to see something that we never saw."
+    },
+    {
+      "type": "paragraph",
+      "text": "I apologize for my bad English."
+    },
+    {
+      "type": "paragraph",
+      "text": "Have a peaceful Sunday all forum members.\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario/#post-214745",
+    "scraped_at": "2026-01-15T14:13:29.622017+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario/#post-214745",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "45d333fc61b975972216d5c9d63feb49c8cdc846ad6f292d36ae1a36d6e5dfa5",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "214966",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-dusk-dialogue",
+    "parent_post_id": "214963",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "",
+  "content_html": "<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214966/tjmcr59yyjqx89dggmxqegvzi7i7y5af.jpg\" width=\"400\"/><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214966/s8siv5y6d8iha1y5k8nbvaann58zsq77.jpg\" width=\"400\"/></p>",
+  "blocks": [],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214966/tjmcr59yyjqx89dggmxqegvzi7i7y5af.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214966/s8siv5y6d8iha1y5k8nbvaann58zsq77.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-dusk-dialogue/#post-215015",
+    "scraped_at": "2026-01-15T15:49:45.577125+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-dusk-dialogue/#post-215015",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c84a20db1fa6ba14581959755595e9acc0406e6ce3ad0526b519717e892b6a73",
+    "parser_version": "bbpress-v2"
+  }
+}

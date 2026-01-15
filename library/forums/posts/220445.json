@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "post_id": "220445",
+    "forum_slug": "team-deakins",
+    "topic_slug": "reflections-shipped-anywhere"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "James",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The ASC Bookstore is now shipping SIGNED copies of REFLECTIONS anywhere in the world! There is no extra charge for a copy that is signed.\nORDER SIGNED COPY HERE\nWe’re so glad the ASC is offering the book and is able to ship anywhere.\nThis topic was modified 2 months, 1 week ago by\nJames\n.",
+  "content_html": "<p>The ASC Bookstore is now shipping SIGNED copies of REFLECTIONS anywhere in the world! There is no extra charge for a copy that is signed.</p>\n<p><a href=\"https://store.ascmag.com/products/roger-a-deakins-reflections-on-cinematography\" rel=\"noopener nofollow\" target=\"_blank\">ORDER SIGNED COPY HERE</a></p>\n<p>We’re so glad the ASC is offering the book and is able to ship anywhere.</p>\n<ul class=\"bbp-topic-revision-log\" id=\"bbp-topic-revision-log-220445\">\n<li class=\"bbp-topic-revision-log-item\" id=\"bbp-topic-revision-log-220445-item-220451\">\n\t\tThis topic was modified 2 months, 1 week ago by <a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/daggerlily/\" title=\"View James's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-14 photo\" decoding=\"async\" height=\"14\" loading=\"lazy\" src=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/james_avatar-14x14.png\" srcset=\"https://www.rogerdeakins.com/wp-content/uploads/2022/09/james_avatar-28x28.png 2x\" width=\"14\"/></span><span class=\"bbp-author-name\">James</span></a>.\n\t</li>\n</ul>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The ASC Bookstore is now shipping SIGNED copies of REFLECTIONS anywhere in the world! There is no extra charge for a copy that is signed."
+    },
+    {
+      "type": "paragraph",
+      "text": "ORDER SIGNED COPY HERE"
+    },
+    {
+      "type": "paragraph",
+      "text": "We’re so glad the ASC is offering the book and is able to ship anywhere."
+    },
+    {
+      "type": "list",
+      "text": "This topic was modified 2 months, 1 week ago by\nJames\n."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://store.ascmag.com/products/roger-a-deakins-reflections-on-cinematography",
+      "text": "ORDER SIGNED COPY HERE",
+      "kind": "external"
+    },
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/daggerlily/",
+      "text": "James",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/2022/09/james_avatar-14x14.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-shipped-anywhere/#post-220697",
+    "scraped_at": "2026-01-15T11:51:14.413340+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-shipped-anywhere/#post-220697",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fdfc60532f7a1bc475a0a55f5c9ffacceeab66162213b6cf0cb6b018273bc141",
+    "parser_version": "bbpress-v2"
+  }
+}

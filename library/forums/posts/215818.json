@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "post_id": "215818",
+    "forum_slug": "forum",
+    "topic_slug": "how-can-i-light-like-this"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Ali Asadi skylow",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "hi everyone\ni wanna light an stage for a singer like this?\ni need these sharp lines on the floor and in the air\nand i prefer the light to sync with the songs\nwhat can i use for that? orbiter? aputure 600 with a specific lens? projection or something?\ntnx everybody",
+  "content_html": "<p>hi everyone</p>\n<p>i wanna light an stage for a singer like this?</p>\n<p>i need these sharp lines on the floor and in the air</p>\n<p>and i prefer the light to sync with the songs</p>\n<p>what can i use for that? orbiter? aputure 600 with a specific lens? projection or something?</p>\n<p>tnx everybody</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215818/66pv52n45fwr0fldnua55b1xa80p7220.jpg\"/></p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "hi everyone"
+    },
+    {
+      "type": "paragraph",
+      "text": "i wanna light an stage for a singer like this?"
+    },
+    {
+      "type": "paragraph",
+      "text": "i need these sharp lines on the floor and in the air"
+    },
+    {
+      "type": "paragraph",
+      "text": "and i prefer the light to sync with the songs"
+    },
+    {
+      "type": "paragraph",
+      "text": "what can i use for that? orbiter? aputure 600 with a specific lens? projection or something?"
+    },
+    {
+      "type": "paragraph",
+      "text": "tnx everybody"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215818/66pv52n45fwr0fldnua55b1xa80p7220.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-can-i-light-like-this/#post-215842",
+    "scraped_at": "2026-01-15T15:44:13.053114+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-can-i-light-like-this/#post-215842",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b6a70968835fd38f2b07bee63012333dacbf3a64e6f3b32b8de9860acab03e13",
+    "parser_version": "bbpress-v2"
+  }
+}

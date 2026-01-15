@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "215049",
+    "forum_slug": "camera",
+    "topic_slug": "what-information-should-a-look-book-be-included"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "jeff791107",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Good day for all the masters in this forum!\nI am wondering as stated in the title.\nIn the early stages of production, after the discussions between the director and the cinematographer, the cinematographer will put together a Look Book. I’d like to inquire about what should be included in the Look Book.\nI find that the Look Book I create lacks a professional touch, and I hope to learn how professional cinematographers typically approach it.\nCurrently, I can think of identifying appropriate visual tones for the story, including aspects of contrast, color, high key or low key style, as these are related to aesthetics. Should camera movements be described in the Look Book? (Since Look Books can’t play videos, it’s challenging to convey specific details through tex alone.)\nFurthermore, should technical information be included in the Look Book?",
+  "content_html": "<p>Good day for all the masters in this forum!</p>\n<p>I am wondering as stated in the title.</p>\n<p>In the early stages of production, after the discussions between the director and the cinematographer, the cinematographer will put together a Look Book. I’d like to inquire about what should be included in the Look Book.</p>\n<p>I find that the Look Book I create lacks a professional touch, and I hope to learn how professional cinematographers typically approach it.</p>\n<p>Currently, I can think of identifying appropriate visual tones for the story, including aspects of contrast, color, high key or low key style, as these are related to aesthetics. Should camera movements be described in the Look Book? (Since Look Books can’t play videos, it’s challenging to convey specific details through tex alone.)</p>\n<p>Furthermore, should technical information be included in the Look Book?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Good day for all the masters in this forum!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am wondering as stated in the title."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the early stages of production, after the discussions between the director and the cinematographer, the cinematographer will put together a Look Book. I’d like to inquire about what should be included in the Look Book."
+    },
+    {
+      "type": "paragraph",
+      "text": "I find that the Look Book I create lacks a professional touch, and I hope to learn how professional cinematographers typically approach it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Currently, I can think of identifying appropriate visual tones for the story, including aspects of contrast, color, high key or low key style, as these are related to aesthetics. Should camera movements be described in the Look Book? (Since Look Books can’t play videos, it’s challenging to convey specific details through tex alone.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Furthermore, should technical information be included in the Look Book?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-information-should-a-look-book-be-included/#post-215054",
+    "scraped_at": "2026-01-15T15:23:39.495782+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-information-should-a-look-book-be-included/#post-215054",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "08c834ae013d3a32e737817d996aa6eab0d1a52590bec09a317c99f1bbe4cb36",
+    "parser_version": "bbpress-v2"
+  }
+}

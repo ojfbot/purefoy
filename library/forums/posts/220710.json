@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220710",
+    "forum_slug": "camera",
+    "topic_slug": "camera-move-floor-ice",
+    "parent_post_id": "220681",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A drone would work.",
+  "content_html": "<p>A drone would work.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A drone would work."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-move-floor-ice/#post-220710",
+    "scraped_at": "2026-01-15T12:08:57.843927+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-move-floor-ice/#post-220710",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "03aae7086d07571ce8b9532c16185236f81968ee79b2ed9017a010ef037271d8",
+    "parser_version": "bbpress-v2"
+  }
+}

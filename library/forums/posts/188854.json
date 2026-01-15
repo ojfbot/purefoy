@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "188854",
+    "forum_slug": "team-deakins",
+    "topic_slug": "live-stream-this-saturday-march-11th",
+    "parent_post_id": "188586",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Sounds great!",
+  "content_html": "<p>Sounds great!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sounds great!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/live-stream-this-saturday-march-11th/#post-188854",
+    "scraped_at": "2026-01-15T13:56:45.308794+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/live-stream-this-saturday-march-11th/#post-188854",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b386892126c6764eff75e8adc2a712b38b828e708fe3fcbcb5208c62b481239e",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "post_id": "220529",
+    "forum_slug": "camera",
+    "topic_slug": "camera-letter-index"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Dixonmyaz",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mr. Deakins,\nI have a question about the camera letter index attached to the viewfinder in the photo above. Do you know if they’re generally created with a Cricut like machine or is there another method used to create them?\nThank you for your time.",
+  "content_html": "<p><img alt=\"Camera Index on Viewfinder\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/220529/vfuts3qn9ynodytqosdxkyx7egur8nj0.jpg\"/></p>\n<p>Hello Mr. Deakins,</p>\n<p>I have a question about the camera letter index attached to the viewfinder in the photo above. Do you know if they’re generally created with a Cricut like machine or is there another method used to create them?</p>\n<p>Thank you for your time.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mr. Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have a question about the camera letter index attached to the viewfinder in the photo above. Do you know if they’re generally created with a Cricut like machine or is there another method used to create them?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for your time."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/220529/vfuts3qn9ynodytqosdxkyx7egur8nj0.jpg",
+      "alt": "Camera Index on Viewfinder",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-letter-index/",
+    "scraped_at": "2026-01-15T12:09:06.759423+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-letter-index/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f40086ba79ec89322ef11ab5c0a9227d56bdb4602586d9373f4351995e90c9aa",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "215709",
+    "forum_slug": "camera",
+    "topic_slug": "directing-effect-of-133-43-ratio",
+    "parent_post_id": "215637",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Sorry wrong photo downloaded.",
+  "content_html": "<p><em>Sorry wrong photo downloaded.<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215709/nhywv7vwnh5uuf9rmedahq8chi1m8uik.jpeg\"/></em></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sorry wrong photo downloaded."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215709/nhywv7vwnh5uuf9rmedahq8chi1m8uik.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+    "scraped_at": "2026-01-15T13:56:37.696574+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/directing-effect-of-133-43-ratio/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bf447aa49760559c322bcc6c623972b4579b7d7bf63f6c142a61f25ac70e767c",
+    "parser_version": "bbpress-v2"
+  }
+}

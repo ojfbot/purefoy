@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/lens-choice-in-no-country-for-old-men/#post-214641",
+  "forum_slug": "camera",
+  "topic_slug": "lens-choice-in-no-country-for-old-men",
+  "title": "Lens Choice in “No Country for Old Men”",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "214628",
+    "214639",
+    "214640",
+    "214641"
+  ],
+  "reply_tree": {
+    "post_id": "214628",
+    "post_type": "topic",
+    "author": "gcconnelly",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "214639",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214640",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "214641",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lens-choice-in-no-country-for-old-men/#post-214641",
+    "scraped_at": "2026-01-15T15:25:40.227115+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lens-choice-in-no-country-for-old-men/#post-214641",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4aaf064c0b30669d7a26fa93945d2067aae2e2b31455d067c396a6897ec69056",
+    "parser_version": "bbpress-v2"
+  }
+}

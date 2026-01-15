@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "216717",
+    "forum_slug": "camera",
+    "topic_slug": "shooting-films-on-wider-apertures"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Karchalb",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Roger,\nAre there any films throughout your career where you have chosen to shoot consistently at a wider aperture for the purpose of maintaining a more shallow depth of field throughout the film?",
+  "content_html": "<p>Hello Roger,</p>\n<p>Are there any films throughout your career where you have chosen to shoot consistently at a wider aperture for the purpose of maintaining a more shallow depth of field throughout the film?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are there any films throughout your career where you have chosen to shoot consistently at a wider aperture for the purpose of maintaining a more shallow depth of field throughout the film?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-films-on-wider-apertures/#post-216834",
+    "scraped_at": "2026-01-15T13:23:49.407949+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-films-on-wider-apertures/#post-216834",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "93b5efb884834783f043f40d8550d4f2f71117d4a4bc2759b5c073032f530801",
+    "parser_version": "bbpress-v2"
+  }
+}

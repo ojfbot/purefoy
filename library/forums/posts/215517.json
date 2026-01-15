@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "215517",
+    "forum_slug": "team-deakins",
+    "topic_slug": "new-youtube-video-feb-9-2024"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Abraham",
+    "role": "Moderator"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello everyone,\nTomorrow, on the Team Deakins Youtube channel, we’ll be publishing a video recording of the Deakins’ second night in Atlanta. This video features a conversation between the Deakins and Millie de Chirico in front of a live audience before a screening of JESSE JAMES. The video was generously shared with us by the event organizers.\nWe hope you enjoy it!",
+  "content_html": "<p>Hello everyone,</p>\n<p>Tomorrow, on the Team Deakins Youtube channel, we’ll be publishing a video recording of the Deakins’ second night in Atlanta. This video features a conversation between the Deakins and Millie de Chirico in front of a live audience before a screening of JESSE JAMES. The video was generously shared with us by the event organizers.</p>\n<p>We hope you enjoy it!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello everyone,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tomorrow, on the Team Deakins Youtube channel, we’ll be publishing a video recording of the Deakins’ second night in Atlanta. This video features a conversation between the Deakins and Millie de Chirico in front of a live audience before a screening of JESSE JAMES. The video was generously shared with us by the event organizers."
+    },
+    {
+      "type": "paragraph",
+      "text": "We hope you enjoy it!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/new-youtube-video-feb-9-2024/",
+    "scraped_at": "2026-01-15T13:23:35.822602+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/new-youtube-video-feb-9-2024/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e108fb0fb0f7e795d7c8fc995e3e6a806f810a1003401e3d5d976a6df7aca06f",
+    "parser_version": "bbpress-v2"
+  }
+}

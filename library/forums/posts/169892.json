@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "post_id": "169892",
+    "forum_slug": "camera",
+    "topic_slug": "choosing-film-stock-based-on-contrast-curve-and-spectral-sensitivity",
+    "parent_post_id": "169879",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t work a lot with film! I have worked with film, but its organic nature is harder to quantify.\n“resulting sensitometric curve of the developed negative” I’m just going to call the SRC (Spectral Response Curve) of the Negative.\nThe SRC dictates a few things; its amplification of G and B channels showcases its tungsten balanced stock (higher gain in the blue channels to compensate for the tungsten illuminant (and I believe the aim is a D65 illuminant).\nIf you get very tech’y’ you can look at the SRC concerning the CIE standard for a tungsten illuminant, and you’ll be able to gauge its apparent colour shift and such in comparison to other illuminants.\nHowever, that is a; to quote a Cambridge professor here, ‘shit ton of math, and it’s easier to shoot it.\nWith spiky discontinuous illuminants like RGB LEDs (or spiky illuminants such as fluorescents, HMI’s and so forth), you can ensure the SPD of the illuminant aligns with the SRC of the negative in terms of producing white and mitigating unwanted colour shifts.\nUnless a photographic push defies my fundamental understanding of applying gain to channels, it amplifies all RGB values linearly, and the separation in channels becomes greater linearly in a radiometric sense.\nLet’s say you have an RGB triplet of 100, 75 and 50 in a linear space. If you push it by a stop, you should have an RGB triplet of 200, 150 and 100 in a linear space. As such, the difference between the three triplets has doubled accordingly. In a logarithmic camera container, the math becomes trickier and is dictated by linear bias and encoding.\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>I don’t work a lot with film! I have worked with film, but its organic nature is harder to quantify.</p>\n<p>“resulting sensitometric curve of the developed negative” I’m just going to call the SRC (Spectral Response Curve) of the Negative.</p>\n<p>The SRC dictates a few things; its amplification of G and B channels showcases its tungsten balanced stock (higher gain in the blue channels to compensate for the tungsten illuminant (and I believe the aim is a D65 illuminant).</p>\n<p>If you get very tech’y’ you can look at the SRC concerning the CIE standard for a tungsten illuminant, and you’ll be able to gauge its apparent colour shift and such in comparison to other illuminants.</p>\n<p>However, that is a; to quote a Cambridge professor here, ‘shit ton of math, and it’s easier to shoot it.</p>\n<p>With spiky discontinuous illuminants like RGB LEDs (or spiky illuminants such as fluorescents, HMI’s and so forth), you can ensure the SPD of the illuminant aligns with the SRC of the negative in terms of producing white and mitigating unwanted colour shifts.</p>\n<p>Unless a photographic push defies my fundamental understanding of applying gain to channels, it amplifies all RGB values linearly, and the separation in channels becomes greater linearly in a radiometric sense.</p>\n<p>Let’s say you have an RGB triplet of 100, 75 and 50 in a linear space. If you push it by a stop, you should have an RGB triplet of 200, 150 and 100 in a linear space. As such, the difference between the three triplets has doubled accordingly. In a logarithmic camera container, the math becomes trickier and is dictated by linear bias and encoding.</p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t work a lot with film! I have worked with film, but its organic nature is harder to quantify."
+    },
+    {
+      "type": "paragraph",
+      "text": "“resulting sensitometric curve of the developed negative” I’m just going to call the SRC (Spectral Response Curve) of the Negative."
+    },
+    {
+      "type": "paragraph",
+      "text": "The SRC dictates a few things; its amplification of G and B channels showcases its tungsten balanced stock (higher gain in the blue channels to compensate for the tungsten illuminant (and I believe the aim is a D65 illuminant)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you get very tech’y’ you can look at the SRC concerning the CIE standard for a tungsten illuminant, and you’ll be able to gauge its apparent colour shift and such in comparison to other illuminants."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, that is a; to quote a Cambridge professor here, ‘shit ton of math, and it’s easier to shoot it."
+    },
+    {
+      "type": "paragraph",
+      "text": "With spiky discontinuous illuminants like RGB LEDs (or spiky illuminants such as fluorescents, HMI’s and so forth), you can ensure the SPD of the illuminant aligns with the SRC of the negative in terms of producing white and mitigating unwanted colour shifts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unless a photographic push defies my fundamental understanding of applying gain to channels, it amplifies all RGB values linearly, and the separation in channels becomes greater linearly in a radiometric sense."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s say you have an RGB triplet of 100, 75 and 50 in a linear space. If you push it by a stop, you should have an RGB triplet of 200, 150 and 100 in a linear space. As such, the difference between the three triplets has doubled accordingly. In a logarithmic camera container, the math becomes trickier and is dictated by linear bias and encoding."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/choosing-film-stock-based-on-contrast-curve-and-spectral-sensitivity/#post-169892",
+    "scraped_at": "2026-01-15T15:46:38.751420+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/choosing-film-stock-based-on-contrast-curve-and-spectral-sensitivity/#post-169892",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5adfcdab03bc862e7faf94cf16725c21dd567b2c21fa489f20957a1685c37016",
+    "parser_version": "bbpress-v2"
+  }
+}

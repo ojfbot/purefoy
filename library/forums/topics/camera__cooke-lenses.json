@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/cooke-lenses/#post-216477",
+  "forum_slug": "camera",
+  "topic_slug": "cooke-lenses",
+  "title": "Cooke lenses",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216165",
+    "216168",
+    "216468",
+    "216477"
+  ],
+  "reply_tree": {
+    "post_id": "216165",
+    "post_type": "topic",
+    "author": "Niko Lopez",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216168",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216468",
+        "post_type": "reply",
+        "author": "artembirdman",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216477",
+        "post_type": "reply",
+        "author": "Juanlage",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cooke-lenses/#post-216477",
+    "scraped_at": "2026-01-15T14:13:14.560867+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cooke-lenses/#post-216477",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e400dd63314e5213e8e6b841dc9267bf9183ac856375a61cef1daa41aea8611d",
+    "parser_version": "bbpress-v2"
+  }
+}

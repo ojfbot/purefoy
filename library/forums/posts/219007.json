@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "219007",
+    "forum_slug": "camera",
+    "topic_slug": "pre-flashing-negative-effects-on-image-david",
+    "parent_post_id": "218909",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "In terms of color, adding a weak amount of overall white light on a negative will lift the blacks and wash-out the colors, it’s like mixing a tiny bit of white paint into colored paints.\nLeaving a little amount of black silver in a print will deepen the blacks and darken the colors, slightly softening them — it’s like mixing a tiny amount of black paint into colored paints.\nIt’s a bit harder to visualize the opposite — flashing a print or leaving silver in the negative.\nFlashing a print with white light fogs the highlights with density (normally a brighter area in the image is denser on the negative, more clear on the print) so your whites get a bit greyed, less intense, lowering contrast in the highlights. Does that affect saturation? Maybe… but only because contrast, black level and saturation are all tied together, so softening the highlights and lowering the contrast will make the colors seem a bit softer.\nLeaving black silver in the negative means the highlights in the subject will get denser as if overexposed (some people compensate by underexposing the stock).  So there is an increase in contrast but mostly in the highlights. There is also a larger increase in visible graininess compared to leaving silver in the print because print stock has a very low ASA so the silver grains are quite small compared to those in camera negative. Again, does leaving black silver in the negative affect saturation? Sort of, it’s a bit like having a black & white negative layered on top of your color negative.",
+  "content_html": "<p>In terms of color, adding a weak amount of overall white light on a negative will lift the blacks and wash-out the colors, it’s like mixing a tiny bit of white paint into colored paints.</p>\n<p>Leaving a little amount of black silver in a print will deepen the blacks and darken the colors, slightly softening them — it’s like mixing a tiny amount of black paint into colored paints.</p>\n<p>It’s a bit harder to visualize the opposite — flashing a print or leaving silver in the negative.</p>\n<p>Flashing a print with white light fogs the highlights with density (normally a brighter area in the image is denser on the negative, more clear on the print) so your whites get a bit greyed, less intense, lowering contrast in the highlights. Does that affect saturation? Maybe… but only because contrast, black level and saturation are all tied together, so softening the highlights and lowering the contrast will make the colors seem a bit softer.</p>\n<p>Leaving black silver in the negative means the highlights in the subject will get denser as if overexposed (some people compensate by underexposing the stock).  So there is an increase in contrast but mostly in the highlights. There is also a larger increase in visible graininess compared to leaving silver in the print because print stock has a very low ASA so the silver grains are quite small compared to those in camera negative. Again, does leaving black silver in the negative affect saturation? Sort of, it’s a bit like having a black &amp; white negative layered on top of your color negative.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In terms of color, adding a weak amount of overall white light on a negative will lift the blacks and wash-out the colors, it’s like mixing a tiny bit of white paint into colored paints."
+    },
+    {
+      "type": "paragraph",
+      "text": "Leaving a little amount of black silver in a print will deepen the blacks and darken the colors, slightly softening them — it’s like mixing a tiny amount of black paint into colored paints."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s a bit harder to visualize the opposite — flashing a print or leaving silver in the negative."
+    },
+    {
+      "type": "paragraph",
+      "text": "Flashing a print with white light fogs the highlights with density (normally a brighter area in the image is denser on the negative, more clear on the print) so your whites get a bit greyed, less intense, lowering contrast in the highlights. Does that affect saturation? Maybe… but only because contrast, black level and saturation are all tied together, so softening the highlights and lowering the contrast will make the colors seem a bit softer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Leaving black silver in the negative means the highlights in the subject will get denser as if overexposed (some people compensate by underexposing the stock).  So there is an increase in contrast but mostly in the highlights. There is also a larger increase in visible graininess compared to leaving silver in the print because print stock has a very low ASA so the silver grains are quite small compared to those in camera negative. Again, does leaving black silver in the negative affect saturation? Sort of, it’s a bit like having a black & white negative layered on top of your color negative."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/pre-flashing-negative-effects-on-image-david/#post-219162",
+    "scraped_at": "2026-01-15T12:42:19.743815+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/pre-flashing-negative-effects-on-image-david/#post-219162",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3185fd352e0f54a4c171925993ba04aa39ca30d0b30cb2f31c53bc5d5caefc5a",
+    "parser_version": "bbpress-v2"
+  }
+}

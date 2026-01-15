@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216015",
+    "forum_slug": "forum",
+    "topic_slug": "cove-light-eye-light",
+    "parent_post_id": "215968",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Laurent",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "PS:\nHave you ever compared with the work of “Muslin unbleached” and “Magic Closed” fabric in the “Cove Light” setting? Do you think one material is better? Softer?\nThank you!",
+  "content_html": "<p>PS:<br/>\nHave you ever compared with the work of “Muslin unbleached” and “Magic Closed” fabric in the “Cove Light” setting? Do you think one material is better? Softer?<br/>\nThank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PS:\nHave you ever compared with the work of “Muslin unbleached” and “Magic Closed” fabric in the “Cove Light” setting? Do you think one material is better? Softer?\nThank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-light-eye-light/#post-216019",
+    "scraped_at": "2026-01-15T15:42:42.741650+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-light-eye-light/#post-216019",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f6a03ff96602a73cb97ab929377202bb8791661662c6508e99a87ff35e0e46b9",
+    "parser_version": "bbpress-v2"
+  }
+}

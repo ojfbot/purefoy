@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214751",
+    "forum_slug": "camera",
+    "topic_slug": "whats-the-deal-with-50mm",
+    "parent_post_id": "214750",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It’s a loaded topic. The truth is that 50mm is considered “normal” in view for the 35mm still format (8-perf 35mm) which is more like a 35mm in 4-perf 35mm cine. But the 50mm was the most common lens made for early cinema cameras so most silent era movies were shot on it and built their sets to accommodate that view, meaning they had room to back up the camera to hold actors head to toe. So 50mm became the “normal” lens for cinematography too (which predates the 35mm still camera format) but is actually a bit on the long side in 4-perf 35mm.\nBut also remember silent movies were shot Full Aperture, the 50mm looked slightly tighter on the 1.37 Academy sound format and even tighter when that was cropped vertically to 1.85 in the 1950s, at which point filmmakers who were used to the 50mm view in Academy started to use a 40mm (or even 35mm) to compensate.\nI don’t know why the first lens made for cinema cameras was a 50mm, whether that was the easiest to design or because it was considered “normal”, who knows. I wouldn’t think too much about whether a lens is “normal” or not.",
+  "content_html": "<p>It’s a loaded topic. The truth is that 50mm is considered “normal” in view for the 35mm still format (8-perf 35mm) which is more like a 35mm in 4-perf 35mm cine. But the 50mm was the most common lens made for early cinema cameras so most silent era movies were shot on it and built their sets to accommodate that view, meaning they had room to back up the camera to hold actors head to toe. So 50mm became the “normal” lens for cinematography too (which predates the 35mm still camera format) but is actually a bit on the long side in 4-perf 35mm.</p>\n<p>But also remember silent movies were shot Full Aperture, the 50mm looked slightly tighter on the 1.37 Academy sound format and even tighter when that was cropped vertically to 1.85 in the 1950s, at which point filmmakers who were used to the 50mm view in Academy started to use a 40mm (or even 35mm) to compensate.</p>\n<p>I don’t know why the first lens made for cinema cameras was a 50mm, whether that was the easiest to design or because it was considered “normal”, who knows. I wouldn’t think too much about whether a lens is “normal” or not.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "It’s a loaded topic. The truth is that 50mm is considered “normal” in view for the 35mm still format (8-perf 35mm) which is more like a 35mm in 4-perf 35mm cine. But the 50mm was the most common lens made for early cinema cameras so most silent era movies were shot on it and built their sets to accommodate that view, meaning they had room to back up the camera to hold actors head to toe. So 50mm became the “normal” lens for cinematography too (which predates the 35mm still camera format) but is actually a bit on the long side in 4-perf 35mm."
+    },
+    {
+      "type": "paragraph",
+      "text": "But also remember silent movies were shot Full Aperture, the 50mm looked slightly tighter on the 1.37 Academy sound format and even tighter when that was cropped vertically to 1.85 in the 1950s, at which point filmmakers who were used to the 50mm view in Academy started to use a 40mm (or even 35mm) to compensate."
+    },
+    {
+      "type": "paragraph",
+      "text": "I don’t know why the first lens made for cinema cameras was a 50mm, whether that was the easiest to design or because it was considered “normal”, who knows. I wouldn’t think too much about whether a lens is “normal” or not."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/whats-the-deal-with-50mm/#post-214774",
+    "scraped_at": "2026-01-15T15:25:13.284538+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/whats-the-deal-with-50mm/#post-214774",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b90209d7b3f2cf42f5f97183f12ced771f5495016860d8ca5cdc994bc1ca48e5",
+    "parser_version": "bbpress-v2"
+  }
+}

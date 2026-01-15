@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "219531",
+    "forum_slug": "composition",
+    "topic_slug": "shot-list-for-group-scene-burn-after-reading",
+    "parent_post_id": "219526",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "tuckertota",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you for the reply Roger!\nAny tips for how you would prep for a scene similar to this? A group of people talking in a circle or around a table?",
+  "content_html": "<p>Thank you for the reply Roger!</p>\n<p>Any tips for how you would prep for a scene similar to this? A group of people talking in a circle or around a table?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for the reply Roger!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Any tips for how you would prep for a scene similar to this? A group of people talking in a circle or around a table?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shot-list-for-group-scene-burn-after-reading/#post-219532",
+    "scraped_at": "2026-01-15T12:07:55.397254+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shot-list-for-group-scene-burn-after-reading/#post-219532",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "eb3fa01b0a1f8aa66cc97d08571c9d9c5c50dbedbf57439b05cb06235782ff69",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "173636",
+    "forum_slug": "camera",
+    "topic_slug": "sensor-size-focal-length-depth-of-field",
+    "parent_post_id": "172580",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you very much for your answer Mr. Deakins! The lesson here for me is to trust in what I think is right about action/subjects, camera position, and lens choice related to the narrative purpose that I want for a scene.\nToo often I overthink numbers and “scientific” info, but I start thinking that it is a waste of energy and a complication for a narrative approach to images.\nThank you again for your reply Mr. Deakins, can’t wait to see ‘EOL’! The second trailer (and the article with your interview and diagrams on BSC) makes me so impatient!\nI wish you a peaceful day.\nMax.",
+  "content_html": "<p>Thank you very much for your answer Mr. Deakins! The lesson here for me is to trust in what I think is right about action/subjects, camera position, and lens choice related to the narrative purpose that I want for a scene.<br/>\nToo often I overthink numbers and “scientific” info, but I start thinking that it is a waste of energy and a complication for a narrative approach to images.<br/>\nThank you again for your reply Mr. Deakins, can’t wait to see ‘EOL’! The second trailer (and the article with your interview and diagrams on BSC) makes me so impatient!</p>\n<p>I wish you a peaceful day.<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you very much for your answer Mr. Deakins! The lesson here for me is to trust in what I think is right about action/subjects, camera position, and lens choice related to the narrative purpose that I want for a scene.\nToo often I overthink numbers and “scientific” info, but I start thinking that it is a waste of energy and a complication for a narrative approach to images.\nThank you again for your reply Mr. Deakins, can’t wait to see ‘EOL’! The second trailer (and the article with your interview and diagrams on BSC) makes me so impatient!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful day.\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sensor-size-focal-length-depth-of-field/#post-173636",
+    "scraped_at": "2026-01-15T15:45:50.470412+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sensor-size-focal-length-depth-of-field/#post-173636",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "215bb1f274aabef6a75280b4e87adcd2b64798c33dbc6c94847a256e330cfd21",
+    "parser_version": "bbpress-v2"
+  }
+}

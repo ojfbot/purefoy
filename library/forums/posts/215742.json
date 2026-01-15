@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "post_id": "215742",
+    "forum_slug": "website-news",
+    "topic_slug": "shooting-35mm-film-in-an-led-volume"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Franco Zappa",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger and everyone in the forum reading this,\nmy Name is Luis and I’m an aspiring cinematographer from Germany. I recently DPd a project that was shot on 35mm film in an LED-Volume (HYPERBOWL near Munich), in cooperation with ARRI, Studio L’Equipe and SILBERSALZ. The project was linked to my bachelors thesis, where I investigated on the topic and did various tests.\nWe developed a workflow of integrating film and an analog camera into the otherwise entirely digitized workflow of the Volume including solutions for synchronization, color calibration and so on. We investigated on the implications shooting on film has for pre and post production, how film affects moiré and color metamerism, and the unique looks you can create by combining film with LED-walls. We also developed a workflow for AI assisted post for LED Virtual Production.\nAn episode of the podcast with Greig Fraser, where Roger and Greig were discussing whether shooting film in the volume would be possible, was the inspiration for the project. Since the combination of celluloid and LED-walls is still fairly unexplored I wanted to share our learnings.\nYou can find our publishing package in the link (\nhttps://drive.google.com/file/d/1TUPO_nMbCvv4gCei3W7RZakwYh1ODgMn/view\n), it’s a snippet of what we did and what we learned. One of the things we found for example is that, interestingly enough, film deals better with the poor light spectrum of the RGB LED-walls and proves to be beneficial in the grade!\nFeel free to ask questions and share the package!\nBest regards,\nLuis Zappe",
+  "content_html": "<p>Hi Roger and everyone in the forum reading this,</p>\n<p>my Name is Luis and I’m an aspiring cinematographer from Germany. I recently DPd a project that was shot on 35mm film in an LED-Volume (HYPERBOWL near Munich), in cooperation with ARRI, Studio L’Equipe and SILBERSALZ. The project was linked to my bachelors thesis, where I investigated on the topic and did various tests.</p>\n<p>We developed a workflow of integrating film and an analog camera into the otherwise entirely digitized workflow of the Volume including solutions for synchronization, color calibration and so on. We investigated on the implications shooting on film has for pre and post production, how film affects moiré and color metamerism, and the unique looks you can create by combining film with LED-walls. We also developed a workflow for AI assisted post for LED Virtual Production.</p>\n<p>An episode of the podcast with Greig Fraser, where Roger and Greig were discussing whether shooting film in the volume would be possible, was the inspiration for the project. Since the combination of celluloid and LED-walls is still fairly unexplored I wanted to share our learnings.</p>\n<p>You can find our publishing package in the link (<a href=\"https://drive.google.com/file/d/1TUPO_nMbCvv4gCei3W7RZakwYh1ODgMn/view\" rel=\"nofollow\">https://drive.google.com/file/d/1TUPO_nMbCvv4gCei3W7RZakwYh1ODgMn/view</a>), it’s a snippet of what we did and what we learned. One of the things we found for example is that, interestingly enough, film deals better with the poor light spectrum of the RGB LED-walls and proves to be beneficial in the grade!</p>\n<p>Feel free to ask questions and share the package!</p>\n<p>Best regards,</p>\n<p>Luis Zappe</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger and everyone in the forum reading this,"
+    },
+    {
+      "type": "paragraph",
+      "text": "my Name is Luis and I’m an aspiring cinematographer from Germany. I recently DPd a project that was shot on 35mm film in an LED-Volume (HYPERBOWL near Munich), in cooperation with ARRI, Studio L’Equipe and SILBERSALZ. The project was linked to my bachelors thesis, where I investigated on the topic and did various tests."
+    },
+    {
+      "type": "paragraph",
+      "text": "We developed a workflow of integrating film and an analog camera into the otherwise entirely digitized workflow of the Volume including solutions for synchronization, color calibration and so on. We investigated on the implications shooting on film has for pre and post production, how film affects moiré and color metamerism, and the unique looks you can create by combining film with LED-walls. We also developed a workflow for AI assisted post for LED Virtual Production."
+    },
+    {
+      "type": "paragraph",
+      "text": "An episode of the podcast with Greig Fraser, where Roger and Greig were discussing whether shooting film in the volume would be possible, was the inspiration for the project. Since the combination of celluloid and LED-walls is still fairly unexplored I wanted to share our learnings."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can find our publishing package in the link (\nhttps://drive.google.com/file/d/1TUPO_nMbCvv4gCei3W7RZakwYh1ODgMn/view\n), it’s a snippet of what we did and what we learned. One of the things we found for example is that, interestingly enough, film deals better with the poor light spectrum of the RGB LED-walls and proves to be beneficial in the grade!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Feel free to ask questions and share the package!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Best regards,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Luis Zappe"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://drive.google.com/file/d/1TUPO_nMbCvv4gCei3W7RZakwYh1ODgMn/view",
+      "text": "https://drive.google.com/file/d/1TUPO_nMbCvv4gCei3W7RZakwYh1ODgMn/view",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-35mm-film-in-an-led-volume/",
+    "scraped_at": "2026-01-15T12:09:24.228931+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-35mm-film-in-an-led-volume/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d27716a90587df6d935a092e07f1610ae8afbb9fcd2209416dea9c92601bfaec",
+    "parser_version": "bbpress-v2"
+  }
+}

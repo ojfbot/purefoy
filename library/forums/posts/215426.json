@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215426",
+    "forum_slug": "set-talk",
+    "topic_slug": "happy-new-year",
+    "parent_post_id": "215423",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Happy New Year!",
+  "content_html": "<p>Happy New Year!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Happy New Year!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/happy-new-year/#post-215426",
+    "scraped_at": "2026-01-15T13:16:01.393466+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/happy-new-year/#post-215426",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7662c73fa701b07ee9b6175346286056d3dbe4905f7dcf5e23d4f333c4647ca2",
+    "parser_version": "bbpress-v2"
+  }
+}

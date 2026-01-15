@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "173393",
+    "forum_slug": "camera",
+    "topic_slug": "sensor-size-focal-length-depth-of-field",
+    "parent_post_id": "172580",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you very much for your answer quijotesco. Although your reply could appear a bit pedantic I think it is very important. I think that the fact of where to put the camera related to the action is one of the most important aspects of storytelling and often it is underrated (also by me when there is no time to shoot).\nMy question was a bit specific about technician aspects of physics and sensors, related to the field of view, perspective distortions, depth of field, and so to lens choice in order to better execute the theory that you rightly explain.\nYour point is crucial, and of course, triggers me so much interest because I really feel that is a big narrative tool for a DP and a filmmaker.\nThank you again for your reply.\nI wish you a great day.\nMax.",
+  "content_html": "<p>Thank you very much for your answer quijotesco. Although your reply could appear a bit pedantic I think it is very important. I think that the fact of where to put the camera related to the action is one of the most important aspects of storytelling and often it is underrated (also by me when there is no time to shoot).<br/>\nMy question was a bit specific about technician aspects of physics and sensors, related to the field of view, perspective distortions, depth of field, and so to lens choice in order to better execute the theory that you rightly explain.<br/>\nYour point is crucial, and of course, triggers me so much interest because I really feel that is a big narrative tool for a DP and a filmmaker.</p>\n<p>Thank you again for your reply.</p>\n<p>I wish you a great day.<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you very much for your answer quijotesco. Although your reply could appear a bit pedantic I think it is very important. I think that the fact of where to put the camera related to the action is one of the most important aspects of storytelling and often it is underrated (also by me when there is no time to shoot).\nMy question was a bit specific about technician aspects of physics and sensors, related to the field of view, perspective distortions, depth of field, and so to lens choice in order to better execute the theory that you rightly explain.\nYour point is crucial, and of course, triggers me so much interest because I really feel that is a big narrative tool for a DP and a filmmaker."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you again for your reply."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a great day.\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sensor-size-focal-length-depth-of-field/#post-173636",
+    "scraped_at": "2026-01-15T15:45:50.469966+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sensor-size-focal-length-depth-of-field/#post-173636",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ae3ac77456a57f27eb0091aeb9bc64fa0a7f455248fee010d2f0372302e3070f",
+    "parser_version": "bbpress-v2"
+  }
+}

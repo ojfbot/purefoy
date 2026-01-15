@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217126",
+    "forum_slug": "forum",
+    "topic_slug": "guiding-principals",
+    "parent_post_id": "217119",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dilljib",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I can’t speak for the other user who commented, but I definitely appreciate what you’re saying David. I asked the question as I did, because I’m curious what the direction to a colorist is for creating a show LUT. There must be value in creating one, otherwise everyone would use the standard 709 LUT, so I’m curious what are the details of those conversations and how it pushes the image in a different direction from 709. And, regarding my lighting question, I’m deeply interested in light levels and exposing to get the image out of the noise floor – especially because I feel like there are trends these days of shooting with “only existing light” and it just doesn’t seem to me that that is actually how the masters of our craft operate.",
+  "content_html": "<p>I can’t speak for the other user who commented, but I definitely appreciate what you’re saying David. I asked the question as I did, because I’m curious what the direction to a colorist is for creating a show LUT. There must be value in creating one, otherwise everyone would use the standard 709 LUT, so I’m curious what are the details of those conversations and how it pushes the image in a different direction from 709. And, regarding my lighting question, I’m deeply interested in light levels and exposing to get the image out of the noise floor – especially because I feel like there are trends these days of shooting with “only existing light” and it just doesn’t seem to me that that is actually how the masters of our craft operate.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I can’t speak for the other user who commented, but I definitely appreciate what you’re saying David. I asked the question as I did, because I’m curious what the direction to a colorist is for creating a show LUT. There must be value in creating one, otherwise everyone would use the standard 709 LUT, so I’m curious what are the details of those conversations and how it pushes the image in a different direction from 709. And, regarding my lighting question, I’m deeply interested in light levels and exposing to get the image out of the noise floor – especially because I feel like there are trends these days of shooting with “only existing light” and it just doesn’t seem to me that that is actually how the masters of our craft operate."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/guiding-principals/#post-217164",
+    "scraped_at": "2026-01-15T15:21:49.393085+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/guiding-principals/#post-217164",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "05c23570bc9ce3deeb2ec2f6988c69f0d541fd1f620b142e97fcacbf8717684a",
+    "parser_version": "bbpress-v2"
+  }
+}

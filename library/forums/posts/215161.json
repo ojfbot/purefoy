@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "post_id": "215161",
+    "forum_slug": "forum",
+    "topic_slug": "amount-of-light-and-exposure"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Ok, a stupid question…\nA difference of 1 stop means that the amount of light entering the camera is halved or doubled, according to what element of the exposure triangle is modified.\nBut does it work both ways? I mean, if the amount of lights in a scene is doubled or halved, does it translate in a stop difference (so for example i’d obtain the same exposure if i’d double the light instead of increasing 1 step in the ISO) ? I did some very simple and basic test with a light metering app and they suggest me that it’s what light  does.\nI realize that it’s a bit naive question , ah ah! but finding the link between the amount of light and the exposure is an encouraging thing for me.",
+  "content_html": "<p>Ok, a stupid question…</p>\n<p>A difference of 1 stop means that the amount of light entering the camera is halved or doubled, according to what element of the exposure triangle is modified.<br/>\nBut does it work both ways? I mean, if the amount of lights in a scene is doubled or halved, does it translate in a stop difference (so for example i’d obtain the same exposure if i’d double the light instead of increasing 1 step in the ISO) ? I did some very simple and basic test with a light metering app and they suggest me that it’s what light  does.</p>\n<p><img alt=\"\" decoding=\"async\" height=\"138\" loading=\"lazy\" src=\"https://i.kym-cdn.com/photos/images/newsfeed/000/210/119/9b3.png\" width=\"188\"/></p>\n<p>I realize that it’s a bit naive question , ah ah! but finding the link between the amount of light and the exposure is an encouraging thing for me.</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Ok, a stupid question…"
+    },
+    {
+      "type": "paragraph",
+      "text": "A difference of 1 stop means that the amount of light entering the camera is halved or doubled, according to what element of the exposure triangle is modified.\nBut does it work both ways? I mean, if the amount of lights in a scene is doubled or halved, does it translate in a stop difference (so for example i’d obtain the same exposure if i’d double the light instead of increasing 1 step in the ISO) ? I did some very simple and basic test with a light metering app and they suggest me that it’s what light  does."
+    },
+    {
+      "type": "paragraph",
+      "text": "I realize that it’s a bit naive question , ah ah! but finding the link between the amount of light and the exposure is an encouraging thing for me."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://i.kym-cdn.com/photos/images/newsfeed/000/210/119/9b3.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/amount-of-light-and-exposure/#post-215164",
+    "scraped_at": "2026-01-15T15:48:44.744940+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/amount-of-light-and-exposure/#post-215164",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7cff6ca4fdbcde2d4364e6d3fd864f1d10509383083ff3fffe314c523312c391",
+    "parser_version": "bbpress-v2"
+  }
+}

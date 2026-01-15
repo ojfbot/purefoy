@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "173621",
+    "forum_slug": "camera",
+    "topic_slug": "using-cofdm-diversity-over-teradek-on-1917"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Sir Deakins,\nA quick question. I remember listening to an interview where James mentioned the hardship of Teradek over the long shots of 1917.\nI’ve had this issue; I resorted to pulling an EIRP output from the chipset controlling a video router, and setting up multiple bolts with the video router selecting which input has the best SNR. Therefore having a seamless transition; however, it’s finicky and unreliable.\nDid you ever consider using COFDM diversity? It’s typical in broadcast to have a single receiver with multiple antenna inputs; the receiver decides which antenna has the best SNR. Therefore you can set up numerous antennas along a path, and it automatically switches to the best one. Perfect for long takes!\nOf course, it inherently has a smaller carrier size (6-8Mhz instead of 20-40MHz of Bolt; note, each time you half the carrier size (channel), you half your SNR), but I’ve never seen this technology used on film. And 1917 seemed like the perfect candidate for it! So I’m curious if you considered it.\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>Hi Sir Deakins,</p>\n<p>A quick question. I remember listening to an interview where James mentioned the hardship of Teradek over the long shots of 1917.</p>\n<p>I’ve had this issue; I resorted to pulling an EIRP output from the chipset controlling a video router, and setting up multiple bolts with the video router selecting which input has the best SNR. Therefore having a seamless transition; however, it’s finicky and unreliable.</p>\n<p>Did you ever consider using COFDM diversity? It’s typical in broadcast to have a single receiver with multiple antenna inputs; the receiver decides which antenna has the best SNR. Therefore you can set up numerous antennas along a path, and it automatically switches to the best one. Perfect for long takes!</p>\n<p>Of course, it inherently has a smaller carrier size (6-8Mhz instead of 20-40MHz of Bolt; note, each time you half the carrier size (channel), you half your SNR), but I’ve never seen this technology used on film. And 1917 seemed like the perfect candidate for it! So I’m curious if you considered it.</p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Sir Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "A quick question. I remember listening to an interview where James mentioned the hardship of Teradek over the long shots of 1917."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve had this issue; I resorted to pulling an EIRP output from the chipset controlling a video router, and setting up multiple bolts with the video router selecting which input has the best SNR. Therefore having a seamless transition; however, it’s finicky and unreliable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you ever consider using COFDM diversity? It’s typical in broadcast to have a single receiver with multiple antenna inputs; the receiver decides which antenna has the best SNR. Therefore you can set up numerous antennas along a path, and it automatically switches to the best one. Perfect for long takes!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Of course, it inherently has a smaller carrier size (6-8Mhz instead of 20-40MHz of Bolt; note, each time you half the carrier size (channel), you half your SNR), but I’ve never seen this technology used on film. And 1917 seemed like the perfect candidate for it! So I’m curious if you considered it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/using-cofdm-diversity-over-teradek-on-1917/",
+    "scraped_at": "2026-01-15T15:45:53.327810+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/using-cofdm-diversity-over-teradek-on-1917/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "02340856580abb2752b5ecb77ea12c07631336dfe391c07d6a0a04e6daa79dbd",
+    "parser_version": "bbpress-v2"
+  }
+}

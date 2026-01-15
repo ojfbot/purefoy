@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "218200",
+    "forum_slug": "forum",
+    "topic_slug": "cove-light-considerations",
+    "parent_post_id": "205389",
+    "parent_type": "topic",
+    "position": 12
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "shanku",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger, I’m interested in your approach to cove lighting for both motivated and ambient sources. When using cove lighting to shape a space, how do you decide on the placement, diffusion, and intensity to maintain naturalism while still sculpting depth? Do you favor certain types of fixtures or color temperatures to avoid flatness or overexposure, especially when balancing with practicals or motivated key sources?”\n-Shanku",
+  "content_html": "<p>Hi Roger, I’m interested in your approach to cove lighting for both motivated and ambient sources. When using cove lighting to shape a space, how do you decide on the placement, diffusion, and intensity to maintain naturalism while still sculpting depth? Do you favor certain types of fixtures or color temperatures to avoid flatness or overexposure, especially when balancing with practicals or motivated key sources?”</p>\n<p>-Shanku</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger, I’m interested in your approach to cove lighting for both motivated and ambient sources. When using cove lighting to shape a space, how do you decide on the placement, diffusion, and intensity to maintain naturalism while still sculpting depth? Do you favor certain types of fixtures or color temperatures to avoid flatness or overexposure, especially when balancing with practicals or motivated key sources?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "-Shanku"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+    "scraped_at": "2026-01-15T15:18:02.962722+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5c34a202810303f9d1a8cf50c0c98bd7565c0f5333e30d9a678d9a021f1cb943",
+    "parser_version": "bbpress-v2"
+  }
+}

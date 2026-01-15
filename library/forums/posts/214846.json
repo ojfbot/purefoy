@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214846",
+    "forum_slug": "film-talk",
+    "topic_slug": "thoughts-on-books-by-blain-brown",
+    "parent_post_id": "214833",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I can’t imagine a Civil War history fan only reading a few books on the topic, nor a baseball history fan who has avoided most of the player biographies out there, and yet I run into cinematography students who just want to read one or two books on filmmaking, a subject that they are dedicating their life to. Absorb information wherever you can find it; what matters will stick to you.",
+  "content_html": "<p>I can’t imagine a Civil War history fan only reading a few books on the topic, nor a baseball history fan who has avoided most of the player biographies out there, and yet I run into cinematography students who just want to read one or two books on filmmaking, a subject that they are dedicating their life to. Absorb information wherever you can find it; what matters will stick to you.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I can’t imagine a Civil War history fan only reading a few books on the topic, nor a baseball history fan who has avoided most of the player biographies out there, and yet I run into cinematography students who just want to read one or two books on filmmaking, a subject that they are dedicating their life to. Absorb information wherever you can find it; what matters will stick to you."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-books-by-blain-brown/#post-214886",
+    "scraped_at": "2026-01-15T13:56:41.576269+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-books-by-blain-brown/#post-214886",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "50f5100b7c73c87f0d7e5a3fa1f17c8667a471d8aba64dcacde04e402f4cbbef",
+    "parser_version": "bbpress-v2"
+  }
+}

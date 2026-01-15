@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "215886",
+    "forum_slug": "website-news",
+    "topic_slug": "happy-birthday-roger-2"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Shea",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger,\nThank you for all the time and thought you devote into helping all of us achieve our dreams. As a City fan, I hope we win the FA cup this season but maybe i’ll wish for a uh… nice goal kick for United tomorrow. Have a great day!\nShea",
+  "content_html": "<p>Dear Roger,</p>\n<p>Thank you for all the time and thought you devote into helping all of us achieve our dreams. As a City fan, I hope we win the FA cup this season but maybe i’ll wish for a uh… nice goal kick for United tomorrow. Have a great day!</p>\n<p>Shea</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for all the time and thought you devote into helping all of us achieve our dreams. As a City fan, I hope we win the FA cup this season but maybe i’ll wish for a uh… nice goal kick for United tomorrow. Have a great day!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shea"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-roger-2/#post-215890",
+    "scraped_at": "2026-01-15T12:09:20.683384+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-roger-2/#post-215890",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "119075636e9520faef9aa89e5bf23aacc90246407b11e5ce4dc4bd8d0ae5dfd2",
+    "parser_version": "bbpress-v2"
+  }
+}

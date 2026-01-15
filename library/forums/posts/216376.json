@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216376",
+    "forum_slug": "still-photography",
+    "topic_slug": "some-stills-from-today",
+    "parent_post_id": "216362",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I would love to see the figures in a landscape, some context.",
+  "content_html": "<p>I would love to see the figures in a landscape, some context.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I would love to see the figures in a landscape, some context."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/some-stills-from-today/#post-216376",
+    "scraped_at": "2026-01-15T12:07:56.476176+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/some-stills-from-today/#post-216376",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0455ad89e2dbab34fbdde584d7e93951893f492e6e8511886f9a679bd7790fe4",
+    "parser_version": "bbpress-v2"
+  }
+}

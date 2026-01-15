@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "216181",
+    "forum_slug": "camera",
+    "topic_slug": "switching-stock-or-not-kodak-5219-500t"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "johandijkstra",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Sir Deakins and team,\nI will soon be shooting my first short film on celluloid. I recall reading somewhere in the past that you preferred shooting on Kodak 5219 500T, even when the project included daylight exteriors. Is this correct?\nI currently have a package on hold consisting of 500T 5219 400ft, 250D 5207, and 50D 5203. Would it be an option, from a consistency standpoint, to shoot everything on one stock?\nWe will be primarily shooting daylight exteriors, dusk, and two interior (daylight-lit) scenes.\nWe are shooting s35 4-perf.",
+  "content_html": "<p>Dear Sir Deakins and team,</p>\n<p>I will soon be shooting my first short film on celluloid. I recall reading somewhere in the past that you preferred shooting on Kodak 5219 500T, even when the project included daylight exteriors. Is this correct?</p>\n<p>I currently have a package on hold consisting of 500T 5219 400ft, 250D 5207, and 50D 5203. Would it be an option, from a consistency standpoint, to shoot everything on one stock?</p>\n<p>We will be primarily shooting daylight exteriors, dusk, and two interior (daylight-lit) scenes.</p>\n<p>We are shooting s35 4-perf.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Sir Deakins and team,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I will soon be shooting my first short film on celluloid. I recall reading somewhere in the past that you preferred shooting on Kodak 5219 500T, even when the project included daylight exteriors. Is this correct?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I currently have a package on hold consisting of 500T 5219 400ft, 250D 5207, and 50D 5203. Would it be an option, from a consistency standpoint, to shoot everything on one stock?"
+    },
+    {
+      "type": "paragraph",
+      "text": "We will be primarily shooting daylight exteriors, dusk, and two interior (daylight-lit) scenes."
+    },
+    {
+      "type": "paragraph",
+      "text": "We are shooting s35 4-perf."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/switching-stock-or-not-kodak-5219-500t/#post-216189",
+    "scraped_at": "2026-01-15T14:50:52.882552+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/switching-stock-or-not-kodak-5219-500t/#post-216189",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4f377ce390fac7962e27d69a4c03f8ed5b3806d8bcf8e57d4be366c9105e12fc",
+    "parser_version": "bbpress-v2"
+  }
+}

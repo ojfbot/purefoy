@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/a-serious-man-larrys-office/#post-219495",
+  "forum_slug": "forum",
+  "topic_slug": "a-serious-man-larrys-office",
+  "title": "A Serious Man – Larry’s Office",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "219222",
+    "219264",
+    "219278",
+    "219487",
+    "219495"
+  ],
+  "reply_tree": {
+    "post_id": "219222",
+    "post_type": "topic",
+    "author": "jamesblann",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "219264",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219278",
+        "post_type": "reply",
+        "author": "jamesblann",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219487",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "219495",
+        "post_type": "reply",
+        "author": "jamesblann",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-serious-man-larrys-office/#post-219495",
+    "scraped_at": "2026-01-15T14:16:58.818377+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-serious-man-larrys-office/#post-219495",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "608be6291d57728abcb88fde7c16badf4c46ed79a534929d3d8e96a3fabe9adb",
+    "parser_version": "bbpress-v2"
+  }
+}

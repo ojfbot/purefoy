@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215135",
+    "forum_slug": "website-news",
+    "topic_slug": "edit-option-in-the-forum",
+    "parent_post_id": "215133",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I sometimes can’t even comment in a thread at all, mostly when I have already commented. I also sometimes have trouble logging in.\nIt’s a “too many redirects” error, not caused by my cache/cookies as I have this issue with different devices, browsers and when trying with deleted cookies/cache or even over a VPN.\nThat means it must be the website itself but is anyone else even having this issue?",
+  "content_html": "<p>I sometimes can’t even comment in a thread at all, mostly when I have already commented. I also sometimes have trouble logging in.</p>\n<p>It’s a “too many redirects” error, not caused by my cache/cookies as I have this issue with different devices, browsers and when trying with deleted cookies/cache or even over a VPN.</p>\n<p>That means it must be the website itself but is anyone else even having this issue?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I sometimes can’t even comment in a thread at all, mostly when I have already commented. I also sometimes have trouble logging in."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s a “too many redirects” error, not caused by my cache/cookies as I have this issue with different devices, browsers and when trying with deleted cookies/cache or even over a VPN."
+    },
+    {
+      "type": "paragraph",
+      "text": "That means it must be the website itself but is anyone else even having this issue?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/edit-option-in-the-forum/#post-215136",
+    "scraped_at": "2026-01-15T12:42:19.667817+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/edit-option-in-the-forum/#post-215136",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e8250368176d8823ab345f6f247cb5d18683f32c2f0d5e93962f7dcd152f78a8",
+    "parser_version": "bbpress-v2"
+  }
+}

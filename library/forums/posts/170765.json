@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "170765",
+    "forum_slug": "camera",
+    "topic_slug": "shooting-film-in-2022",
+    "parent_post_id": "170736",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gcconnelly",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "That’s very interesting about the hard versus soft light! I don’t think that’s a popular opinion since a lot of people say film handles highlights better and so hard light can be more pleasing. Why do you think that you are more likely to use soft light when shooting film?\nI’m curious also, if you think your recent digital movies would look substantially different if you had shot them on film. Obviously, Blade Runner and 1917 would be nearly impossible to do on film, but do you think something like Sicario would have a different look to it? Do you think your exposure choices would be substantially different? If I remember correctly, in that movie theres a couple of prolonged scenes at blue hour which would require a very precise underexposure and exposure adjustments in-between takes/angles to keep it consistent as the sun goes down. On digital, I assume you are placing your exposure on set exactly where you want it in post, but if that was on film, would you have chosen to underexpose less in camera and bring it down in post instead?",
+  "content_html": "<p>That’s very interesting about the hard versus soft light! I don’t think that’s a popular opinion since a lot of people say film handles highlights better and so hard light can be more pleasing. Why do you think that you are more likely to use soft light when shooting film?</p>\n<p>I’m curious also, if you think your recent digital movies would look substantially different if you had shot them on film. Obviously, Blade Runner and 1917 would be nearly impossible to do on film, but do you think something like Sicario would have a different look to it? Do you think your exposure choices would be substantially different? If I remember correctly, in that movie theres a couple of prolonged scenes at blue hour which would require a very precise underexposure and exposure adjustments in-between takes/angles to keep it consistent as the sun goes down. On digital, I assume you are placing your exposure on set exactly where you want it in post, but if that was on film, would you have chosen to underexpose less in camera and bring it down in post instead?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "That’s very interesting about the hard versus soft light! I don’t think that’s a popular opinion since a lot of people say film handles highlights better and so hard light can be more pleasing. Why do you think that you are more likely to use soft light when shooting film?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m curious also, if you think your recent digital movies would look substantially different if you had shot them on film. Obviously, Blade Runner and 1917 would be nearly impossible to do on film, but do you think something like Sicario would have a different look to it? Do you think your exposure choices would be substantially different? If I remember correctly, in that movie theres a couple of prolonged scenes at blue hour which would require a very precise underexposure and exposure adjustments in-between takes/angles to keep it consistent as the sun goes down. On digital, I assume you are placing your exposure on set exactly where you want it in post, but if that was on film, would you have chosen to underexpose less in camera and bring it down in post instead?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-film-in-2022/#post-170903",
+    "scraped_at": "2026-01-15T15:46:05.123307+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-film-in-2022/#post-170903",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "37201a48fbc00b3dac37517fbf136f36f7a36bbbc51071ea2045817e6ea159e3",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214593",
+    "forum_slug": "forum",
+    "topic_slug": "aggressive-color",
+    "parent_post_id": "214567",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "From the top of my head I mostly remember aggressive use of color being done in films that can be described as ‘visceral’. So less story and plot and more focus on mood and experience.",
+  "content_html": "<p>From the top of my head I mostly remember aggressive use of color being done in films that can be described as ‘visceral’. So less story and plot and more focus on mood and experience.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "From the top of my head I mostly remember aggressive use of color being done in films that can be described as ‘visceral’. So less story and plot and more focus on mood and experience."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/aggressive-color/#post-214607",
+    "scraped_at": "2026-01-15T15:52:21.630837+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/aggressive-color/#post-214607",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7aa0741d7f55b150eb4480d4cd15a566e34a3d6b96b673b3bcc85ddccedd08ce",
+    "parser_version": "bbpress-v2"
+  }
+}

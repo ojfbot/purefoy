@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-hdr-remasters/#post-217436",
+  "forum_slug": "post",
+  "topic_slug": "thoughts-on-hdr-remasters",
+  "title": "Thoughts on HDR remasters",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217363",
+    "217397",
+    "217426",
+    "217436"
+  ],
+  "reply_tree": {
+    "post_id": "217363",
+    "post_type": "topic",
+    "author": "gx42",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "217397",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217426",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217436",
+        "post_type": "reply",
+        "author": "gx42",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-hdr-remasters/#post-217436",
+    "scraped_at": "2026-01-15T12:08:51.688945+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-hdr-remasters/#post-217436",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a0e08a780a0abb8669f76f67738bca66726a1d25581b2e2c38995de958833de5",
+    "parser_version": "bbpress-v2"
+  }
+}

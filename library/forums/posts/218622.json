@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "218622",
+    "forum_slug": "forum",
+    "topic_slug": "how-to-use-bobbinette-to-diffuse-backings"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Gonzarelli",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I need some advice on  how bobbinette is used to diffuse backings.  There is black and white available, and I assume there is lavender too.  What is commonly used? Is it placed closer to the backing or more toward the windows of the set?   There may not be hard and fast rules but I would like any advice on what one looks for and the best way to set it up. I currently have a backing which is about 12 feet from the set and need some way to diffuse it to make it look more realistic.   Any advice on this is very welcome.  Thanks.",
+  "content_html": "<p>I need some advice on  how bobbinette is used to diffuse backings.  There is black and white available, and I assume there is lavender too.  What is commonly used? Is it placed closer to the backing or more toward the windows of the set?   There may not be hard and fast rules but I would like any advice on what one looks for and the best way to set it up. I currently have a backing which is about 12 feet from the set and need some way to diffuse it to make it look more realistic.   Any advice on this is very welcome.  Thanks.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I need some advice on  how bobbinette is used to diffuse backings.  There is black and white available, and I assume there is lavender too.  What is commonly used? Is it placed closer to the backing or more toward the windows of the set?   There may not be hard and fast rules but I would like any advice on what one looks for and the best way to set it up. I currently have a backing which is about 12 feet from the set and need some way to diffuse it to make it look more realistic.   Any advice on this is very welcome.  Thanks."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-use-bobbinette-to-diffuse-backings/#post-218650",
+    "scraped_at": "2026-01-15T14:33:52.462365+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-use-bobbinette-to-diffuse-backings/#post-218650",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "96e4a60ea4988fbbfc23ad26e86b3541c6a54a0f8161faf10c515fb80d2ed2d2",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "216138",
+    "forum_slug": "camera",
+    "topic_slug": "earliest-shot-idea-that-made-it-to-print"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Aidan Thornbury",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi all, a question for everyone and in particular Mr. Deakins.\nWhen on a project, what’s the earliest you’ve gotten an idea for a shot that ended up in the final cut of the film?\nAdditionally, overall quality of the script aside, have you ever taken a project because a scene in the script suggested the possibility of a striking visual image, or passed on one due to a lack of noticeable opportunity?\nI ask primarily because I’ve noticed that in a lot of the more recent Deakins films, I’m thinking late 90’s and onward, there is at least one scene that has a particularly striking visual as a result of the story. An example would be the Oil Fields scene in\nJarhead.\nThe first time I watched the film, I know despite the phenomenal story, the opportunity to construct those frames alone would’ve temped me to the project.\nThanks!",
+  "content_html": "<p>Hi all, a question for everyone and in particular Mr. Deakins.</p>\n<p>When on a project, what’s the earliest you’ve gotten an idea for a shot that ended up in the final cut of the film?</p>\n<p>Additionally, overall quality of the script aside, have you ever taken a project because a scene in the script suggested the possibility of a striking visual image, or passed on one due to a lack of noticeable opportunity?</p>\n<p>I ask primarily because I’ve noticed that in a lot of the more recent Deakins films, I’m thinking late 90’s and onward, there is at least one scene that has a particularly striking visual as a result of the story. An example would be the Oil Fields scene in <em>Jarhead. </em>The first time I watched the film, I know despite the phenomenal story, the opportunity to construct those frames alone would’ve temped me to the project.</p>\n<p>Thanks!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi all, a question for everyone and in particular Mr. Deakins."
+    },
+    {
+      "type": "paragraph",
+      "text": "When on a project, what’s the earliest you’ve gotten an idea for a shot that ended up in the final cut of the film?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, overall quality of the script aside, have you ever taken a project because a scene in the script suggested the possibility of a striking visual image, or passed on one due to a lack of noticeable opportunity?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I ask primarily because I’ve noticed that in a lot of the more recent Deakins films, I’m thinking late 90’s and onward, there is at least one scene that has a particularly striking visual as a result of the story. An example would be the Oil Fields scene in\nJarhead.\nThe first time I watched the film, I know despite the phenomenal story, the opportunity to construct those frames alone would’ve temped me to the project."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/earliest-shot-idea-that-made-it-to-print/#post-216139",
+    "scraped_at": "2026-01-15T14:51:06.269950+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/earliest-shot-idea-that-made-it-to-print/#post-216139",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2a079ed53c70d8c090c55c3683a7f4eb3d28c438632285bad3d98c7c4f961e1d",
+    "parser_version": "bbpress-v2"
+  }
+}

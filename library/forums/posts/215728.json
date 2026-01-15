@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "215728",
+    "forum_slug": "forum",
+    "topic_slug": "brightness-decisions",
+    "parent_post_id": "215712",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger Deakins wrote:\nYou might light the space in exactly the same way and then it is just multiples or larger lamps.\nThis is a detail I still don’t completely understand looking at the lighting schemes you put on the site: I see rows of multiple lights but how do you calculate their number (experience apart of course) ? Is it on the base of lux emitted (at a given distance) by one lamp and the total surface you have to cover (to allow you the lens aperture you want to use) ?",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/brightness-decisions/#post-215715\">Roger Deakins wrote:</a></div>\n<p>You might light the space in exactly the same way and then it is just multiples or larger lamps.</p></blockquote>\n<p>This is a detail I still don’t completely understand looking at the lighting schemes you put on the site: I see rows of multiple lights but how do you calculate their number (experience apart of course) ? Is it on the base of lux emitted (at a given distance) by one lamp and the total surface you have to cover (to allow you the lens aperture you want to use) ?</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Roger Deakins wrote:\nYou might light the space in exactly the same way and then it is just multiples or larger lamps."
+    },
+    {
+      "type": "paragraph",
+      "text": "You might light the space in exactly the same way and then it is just multiples or larger lamps."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a detail I still don’t completely understand looking at the lighting schemes you put on the site: I see rows of multiple lights but how do you calculate their number (experience apart of course) ? Is it on the base of lux emitted (at a given distance) by one lamp and the total surface you have to cover (to allow you the lens aperture you want to use) ?"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Roger Deakins wrote:\nYou might light the space in exactly the same way and then it is just multiples or larger lamps."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/brightness-decisions/#post-215715",
+      "text": "Roger Deakins wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/brightness-decisions/#post-215728",
+    "scraped_at": "2026-01-15T15:45:03.257882+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/brightness-decisions/#post-215728",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f5aed4b26d9c8392e86906b863102951376ffe0906845d59de048a2f128107d3",
+    "parser_version": "bbpress-v2"
+  }
+}

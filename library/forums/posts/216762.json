@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216762",
+    "forum_slug": "forum",
+    "topic_slug": "the-marvelous-mrs-maisel-stage-lights",
+    "parent_post_id": "216760",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "The Gaslight set was lit with black tungsten fixtures in the ceiling — 1K fresnels and 1K PARCANs with medium globes, often at 50% on the dimmer board. Sometimes I had to add a full scrim to knock them down further.\nThere was one tungsten Source-4 Leko with a 36 degree lens (I think) hung from the ceiling with an electrician in costume on a wooden ladder to operate it as a follow-spot. It had 1/2 CTB (blue) gel on it which is the bright light you are seeing in that still (on the right of it, you can see a PARCAN).  Prop department made a simple cover for the Leko so it didn’t look so modern.",
+  "content_html": "<p>The Gaslight set was lit with black tungsten fixtures in the ceiling — 1K fresnels and 1K PARCANs with medium globes, often at 50% on the dimmer board. Sometimes I had to add a full scrim to knock them down further.</p>\n<p>There was one tungsten Source-4 Leko with a 36 degree lens (I think) hung from the ceiling with an electrician in costume on a wooden ladder to operate it as a follow-spot. It had 1/2 CTB (blue) gel on it which is the bright light you are seeing in that still (on the right of it, you can see a PARCAN).  Prop department made a simple cover for the Leko so it didn’t look so modern.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The Gaslight set was lit with black tungsten fixtures in the ceiling — 1K fresnels and 1K PARCANs with medium globes, often at 50% on the dimmer board. Sometimes I had to add a full scrim to knock them down further."
+    },
+    {
+      "type": "paragraph",
+      "text": "There was one tungsten Source-4 Leko with a 36 degree lens (I think) hung from the ceiling with an electrician in costume on a wooden ladder to operate it as a follow-spot. It had 1/2 CTB (blue) gel on it which is the bright light you are seeing in that still (on the right of it, you can see a PARCAN).  Prop department made a simple cover for the Leko so it didn’t look so modern."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-marvelous-mrs-maisel-stage-lights/#post-216767",
+    "scraped_at": "2026-01-15T15:22:58.010736+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-marvelous-mrs-maisel-stage-lights/#post-216767",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ff5295f3cec7b9e12ccee9a49e175f724a62ed3aacabcfbe9d69a39da5e6f176",
+    "parser_version": "bbpress-v2"
+  }
+}

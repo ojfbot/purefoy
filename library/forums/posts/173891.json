@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "173891",
+    "forum_slug": "camera",
+    "topic_slug": "camera-knowledge",
+    "parent_post_id": "173700",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I had a chat with Richard Crudo, ASC at NAB one year about that — he said every cinematographer is different in terms of how many layers of the onion they want to peel back. There’s a vague point where, of course, it crosses the line from practical knowledge to merely satisfying intellectual curiosity. We need to know enough to identify and solve problems, or at least, know who to ask. We need to know enough to get the results we desire, or at least, hire people to help us get those results. There are plenty of technical experts in this industry to get answers from, so to some degree, it depends on how reliant you want to be on other people. Ultimately the one thing that we have to supply is the artistic idea, our visual taste, and our storytelling skills, and then we have to know enough to achieve our ideas, even if that means consulting with experts when necessary.\nCertainly one has to know the fundamentals of photography and lighting.",
+  "content_html": "<p>I had a chat with Richard Crudo, ASC at NAB one year about that — he said every cinematographer is different in terms of how many layers of the onion they want to peel back. There’s a vague point where, of course, it crosses the line from practical knowledge to merely satisfying intellectual curiosity. We need to know enough to identify and solve problems, or at least, know who to ask. We need to know enough to get the results we desire, or at least, hire people to help us get those results. There are plenty of technical experts in this industry to get answers from, so to some degree, it depends on how reliant you want to be on other people. Ultimately the one thing that we have to supply is the artistic idea, our visual taste, and our storytelling skills, and then we have to know enough to achieve our ideas, even if that means consulting with experts when necessary.</p>\n<p>Certainly one has to know the fundamentals of photography and lighting.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I had a chat with Richard Crudo, ASC at NAB one year about that — he said every cinematographer is different in terms of how many layers of the onion they want to peel back. There’s a vague point where, of course, it crosses the line from practical knowledge to merely satisfying intellectual curiosity. We need to know enough to identify and solve problems, or at least, know who to ask. We need to know enough to get the results we desire, or at least, hire people to help us get those results. There are plenty of technical experts in this industry to get answers from, so to some degree, it depends on how reliant you want to be on other people. Ultimately the one thing that we have to supply is the artistic idea, our visual taste, and our storytelling skills, and then we have to know enough to achieve our ideas, even if that means consulting with experts when necessary."
+    },
+    {
+      "type": "paragraph",
+      "text": "Certainly one has to know the fundamentals of photography and lighting."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-knowledge/#post-174075",
+    "scraped_at": "2026-01-15T15:45:38.305280+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-knowledge/#post-174075",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5d4736f1fbd0f6b2ee075319aa0af7b4f25c106907fc34d7a363c4d5370606ab",
+    "parser_version": "bbpress-v2"
+  }
+}

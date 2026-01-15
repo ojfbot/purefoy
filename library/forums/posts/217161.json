@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "217161",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-for-blackmagic-micro-studio",
+    "parent_post_id": "217115",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello!\nI believe your question is rather open-ended and would be better answered by browsing the forums, maybe reading cinematography theory and practice, reading the looking at lighting page, and then practising!\nIn terms of your BMD micro-studio, the early BMD cameras had quite a strong noise pattern at any significant digital gain, so I would recommend rating low!\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>Hello!</p>\n<p>I believe your question is rather open-ended and would be better answered by browsing the forums, maybe reading cinematography theory and practice, reading the looking at lighting page, and then practising!</p>\n<p> </p>\n<p>In terms of your BMD micro-studio, the early BMD cameras had quite a strong noise pattern at any significant digital gain, so I would recommend rating low!</p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I believe your question is rather open-ended and would be better answered by browsing the forums, maybe reading cinematography theory and practice, reading the looking at lighting page, and then practising!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In terms of your BMD micro-studio, the early BMD cameras had quite a strong noise pattern at any significant digital gain, so I would recommend rating low!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-for-blackmagic-micro-studio/#post-217162",
+    "scraped_at": "2026-01-15T15:21:54.758714+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-blackmagic-micro-studio/#post-217162",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "687aec9aa86ebbe448a1dc1fe674dc94b0181173fdc377018433a9d9e78c3b0e",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215027",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-cafe-scenes",
+    "parent_post_id": "215019",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I did use a single white bounce outside the windows for both of the scenes. I also had a solid to cut some light as well. I was only using the bounce for the shots on Michael. Inside the first cafe I used two LEDs bouncing off the ceiling to either side of the wide shot. These were set to a tungsten balance to give some warmth to the shadows. I did not use them for the closer coverage.",
+  "content_html": "<p>I did use a single white bounce outside the windows for both of the scenes. I also had a solid to cut some light as well. I was only using the bounce for the shots on Michael. Inside the first cafe I used two LEDs bouncing off the ceiling to either side of the wide shot. These were set to a tungsten balance to give some warmth to the shadows. I did not use them for the closer coverage.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I did use a single white bounce outside the windows for both of the scenes. I also had a solid to cut some light as well. I was only using the bounce for the shots on Michael. Inside the first cafe I used two LEDs bouncing off the ceiling to either side of the wide shot. These were set to a tungsten balance to give some warmth to the shadows. I did not use them for the closer coverage."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-cafe-scenes/#post-215032",
+    "scraped_at": "2026-01-15T15:49:39.361566+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-cafe-scenes/#post-215032",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "46c8842da91a74b908e1258f679a989f0d1a23b512ec774fe9457ccf02669d9f",
+    "parser_version": "bbpress-v2"
+  }
+}

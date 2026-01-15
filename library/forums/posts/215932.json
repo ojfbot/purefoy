@@ -1,0 +1,55 @@
+{
+  "ids": {
+    "post_id": "215932",
+    "forum_slug": "forum",
+    "topic_slug": "how-to-emulate-mercury-vapor-with-rgb-led-lights",
+    "parent_post_id": "215921",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think mercury vapor lamps vary somewhat in color just as Cool White fluorescents do, some have a lot more green in them. But you have to factor in how film stocks of the past reacted to that narrow wavelength in the cyan range versus how a digital sensor would react today.\nIt gets to the point where you might as well just pick a degree of cyan you like — at the saturation level you like — when using an RGB LED rather than worry about the accuracy of recreating a lamp of the past (unless you are trying to match the LED to a real mercury vapor lamp in the shot.)\nHere’s a shot from a movie I did 15 years ago which had a real mercury vapor lamp on the corner of the trailer, and one on a streetlamp, shot on Fuji 500T pushed one-stop. But the pool of light over the phone booth was a tungsten parcan gelled with cyan:",
+  "content_html": "<p>I think mercury vapor lamps vary somewhat in color just as Cool White fluorescents do, some have a lot more green in them. But you have to factor in how film stocks of the past reacted to that narrow wavelength in the cyan range versus how a digital sensor would react today.</p>\n<p>It gets to the point where you might as well just pick a degree of cyan you like — at the saturation level you like — when using an RGB LED rather than worry about the accuracy of recreating a lamp of the past (unless you are trying to match the LED to a real mercury vapor lamp in the shot.)</p>\n<p>Here’s a shot from a movie I did 15 years ago which had a real mercury vapor lamp on the corner of the trailer, and one on a streetlamp, shot on Fuji 500T pushed one-stop. But the pool of light over the phone booth was a tungsten parcan gelled with cyan:</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215932/04lbynoxnjtthtqu9rtmawi8fcy167zi.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think mercury vapor lamps vary somewhat in color just as Cool White fluorescents do, some have a lot more green in them. But you have to factor in how film stocks of the past reacted to that narrow wavelength in the cyan range versus how a digital sensor would react today."
+    },
+    {
+      "type": "paragraph",
+      "text": "It gets to the point where you might as well just pick a degree of cyan you like — at the saturation level you like — when using an RGB LED rather than worry about the accuracy of recreating a lamp of the past (unless you are trying to match the LED to a real mercury vapor lamp in the shot.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here’s a shot from a movie I did 15 years ago which had a real mercury vapor lamp on the corner of the trailer, and one on a streetlamp, shot on Fuji 500T pushed one-stop. But the pool of light over the phone booth was a tungsten parcan gelled with cyan:"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215932/04lbynoxnjtthtqu9rtmawi8fcy167zi.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-emulate-mercury-vapor-with-rgb-led-lights/#post-215934",
+    "scraped_at": "2026-01-15T15:43:20.618393+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-emulate-mercury-vapor-with-rgb-led-lights/#post-215934",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8aba3bf1ef20e4f8a9119c2d8287f7088bc92b028446c44f51f683a7d0fe2c74",
+    "parser_version": "bbpress-v2"
+  }
+}

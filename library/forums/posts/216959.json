@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "216959",
+    "forum_slug": "camera",
+    "topic_slug": "deep-focus-in-true-grit",
+    "parent_post_id": "216958",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Adding one more here also that is a bit different than the former",
+  "content_html": "<p>Adding one more here also that is a bit different than the former</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216959/0qkv3das6lu7cpag0vj6ywwi8ox8vysz.jpeg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Adding one more here also that is a bit different than the former"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216959/0qkv3das6lu7cpag0vj6ywwi8ox8vysz.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/deep-focus-in-true-grit/#post-216965",
+    "scraped_at": "2026-01-15T13:23:36.541699+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/deep-focus-in-true-grit/#post-216965",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b15d583e6a0e5c089baf9c2e1b35471111c83d851e33b67e5d0036c1db897be9",
+    "parser_version": "bbpress-v2"
+  }
+}

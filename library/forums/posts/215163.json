@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215163",
+    "forum_slug": "forum",
+    "topic_slug": "amount-of-light-and-exposure",
+    "parent_post_id": "215161",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Yes, if you go from 100 foot-candles to 200 foot-candles, you’d have twice as much light so would have to close down by 1-stop to maintain the same exposure. Or cut the ISO by half. Or close the shutter angle by half.",
+  "content_html": "<p>Yes, if you go from 100 foot-candles to 200 foot-candles, you’d have twice as much light so would have to close down by 1-stop to maintain the same exposure. Or cut the ISO by half. Or close the shutter angle by half.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yes, if you go from 100 foot-candles to 200 foot-candles, you’d have twice as much light so would have to close down by 1-stop to maintain the same exposure. Or cut the ISO by half. Or close the shutter angle by half."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/amount-of-light-and-exposure/#post-215164",
+    "scraped_at": "2026-01-15T15:48:44.745679+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/amount-of-light-and-exposure/#post-215164",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4fd56f71019a29c56f66a926faf1b684246601a1ac888e2b2ac6d1c0e59e16c1",
+    "parser_version": "bbpress-v2"
+  }
+}

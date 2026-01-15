@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/how-to-use-bobbinette-to-diffuse-backings/#post-218650",
+  "forum_slug": "forum",
+  "topic_slug": "how-to-use-bobbinette-to-diffuse-backings",
+  "title": "How to use Bobbinette to diffuse backings",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "218622",
+    "218625",
+    "218629",
+    "218636",
+    "218650"
+  ],
+  "reply_tree": {
+    "post_id": "218622",
+    "post_type": "topic",
+    "author": "Gonzarelli",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "218625",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218629",
+        "post_type": "reply",
+        "author": "Gonzarelli",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218636",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218650",
+        "post_type": "reply",
+        "author": "Gonzarelli",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-use-bobbinette-to-diffuse-backings/#post-218650",
+    "scraped_at": "2026-01-15T14:33:52.477355+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-use-bobbinette-to-diffuse-backings/#post-218650",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e084435537cd4538e7323b1cd55f575abbfede7b99c7b2a0a83dcfed4100b058",
+    "parser_version": "bbpress-v2"
+  }
+}

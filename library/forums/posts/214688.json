@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "214688",
+    "forum_slug": "forum",
+    "topic_slug": "rigging-tube-lights-to-concrete-wall"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "bradvir",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Apologies if this question is too specific or off-topic but I’m looking for some advice on rigging lights and thought maybe someone here might have some insights!\nWe’re shooting a scene of a band playing a show in a garage and I’m looking to rig a few astera titan tubes to a concrete wall to act as practicals. We’re a small team without access to a lot of resources so I’m trying to keep it simple here.\nIt doesn’t need to be super clean, the look is fairly DIY, so I’m wondering if it could be something as simple as just using white gaff tape that will blend in with the white walls, but I’m worried about it losing adhesion or needing too much tape to stay put. Maybe there are some kind of adhesive hooks I could attach to the wall and attach to the titan tube’s eyelets? Curious if anyone has any experience with something like this or any ideas!",
+  "content_html": "<p>Apologies if this question is too specific or off-topic but I’m looking for some advice on rigging lights and thought maybe someone here might have some insights!</p>\n<p>We’re shooting a scene of a band playing a show in a garage and I’m looking to rig a few astera titan tubes to a concrete wall to act as practicals. We’re a small team without access to a lot of resources so I’m trying to keep it simple here.</p>\n<p>It doesn’t need to be super clean, the look is fairly DIY, so I’m wondering if it could be something as simple as just using white gaff tape that will blend in with the white walls, but I’m worried about it losing adhesion or needing too much tape to stay put. Maybe there are some kind of adhesive hooks I could attach to the wall and attach to the titan tube’s eyelets? Curious if anyone has any experience with something like this or any ideas!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Apologies if this question is too specific or off-topic but I’m looking for some advice on rigging lights and thought maybe someone here might have some insights!"
+    },
+    {
+      "type": "paragraph",
+      "text": "We’re shooting a scene of a band playing a show in a garage and I’m looking to rig a few astera titan tubes to a concrete wall to act as practicals. We’re a small team without access to a lot of resources so I’m trying to keep it simple here."
+    },
+    {
+      "type": "paragraph",
+      "text": "It doesn’t need to be super clean, the look is fairly DIY, so I’m wondering if it could be something as simple as just using white gaff tape that will blend in with the white walls, but I’m worried about it losing adhesion or needing too much tape to stay put. Maybe there are some kind of adhesive hooks I could attach to the wall and attach to the titan tube’s eyelets? Curious if anyone has any experience with something like this or any ideas!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/rigging-tube-lights-to-concrete-wall/#post-214770",
+    "scraped_at": "2026-01-15T15:51:42.759290+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/rigging-tube-lights-to-concrete-wall/#post-214770",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bb0e9b512777ec4b697dc85561733d3379fd42b70cd80e00feba96b36894b6e7",
+    "parser_version": "bbpress-v2"
+  }
+}

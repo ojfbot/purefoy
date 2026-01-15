@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "214551",
+    "forum_slug": "film-talk",
+    "topic_slug": "sicario"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Ganesh Venkatesh",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi master Roger Deakins,\nSICARIO is one of my favourite film. I love films which have subjective experience,  which is common in most of the Denis Villeneuve films.\nwhen I read the Sicario script written by Taylor Sheridan. the opening scene is the Alejandro’s scene establishing his revenge. so everyone will easily connect to the story through Alejandro.\nBut by cutting that scene out in the film and telling the story through the eyes of Kate is a very risky choice. because the Kate character is rarely acts, she always reacts to the actions done in front of her. which is the main point in the story that Kate understands what the real world is and she understands about the Sicario.  there’s a chance that audience will bored even there are lots of questions raise in audience mind through Kate.\ntechnical aspects like cinematography, sound design, music, editing.. balanced that and kept the audience engaging for the whole film.\ndid you feel any pressure or take any choices to engage the audience through Cinematography?\ndid you and Denis ever discussed about it?",
+  "content_html": "<p>Hi master Roger Deakins,</p>\n<p>SICARIO is one of my favourite film. I love films which have subjective experience,  which is common in most of the Denis Villeneuve films.</p>\n<p>when I read the Sicario script written by Taylor Sheridan. the opening scene is the Alejandro’s scene establishing his revenge. so everyone will easily connect to the story through Alejandro.</p>\n<p>But by cutting that scene out in the film and telling the story through the eyes of Kate is a very risky choice. because the Kate character is rarely acts, she always reacts to the actions done in front of her. which is the main point in the story that Kate understands what the real world is and she understands about the Sicario.  there’s a chance that audience will bored even there are lots of questions raise in audience mind through Kate.</p>\n<p>technical aspects like cinematography, sound design, music, editing.. balanced that and kept the audience engaging for the whole film.</p>\n<p>did you feel any pressure or take any choices to engage the audience through Cinematography?</p>\n<p>did you and Denis ever discussed about it?</p>\n<p> </p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi master Roger Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "SICARIO is one of my favourite film. I love films which have subjective experience,  which is common in most of the Denis Villeneuve films."
+    },
+    {
+      "type": "paragraph",
+      "text": "when I read the Sicario script written by Taylor Sheridan. the opening scene is the Alejandro’s scene establishing his revenge. so everyone will easily connect to the story through Alejandro."
+    },
+    {
+      "type": "paragraph",
+      "text": "But by cutting that scene out in the film and telling the story through the eyes of Kate is a very risky choice. because the Kate character is rarely acts, she always reacts to the actions done in front of her. which is the main point in the story that Kate understands what the real world is and she understands about the Sicario.  there’s a chance that audience will bored even there are lots of questions raise in audience mind through Kate."
+    },
+    {
+      "type": "paragraph",
+      "text": "technical aspects like cinematography, sound design, music, editing.. balanced that and kept the audience engaging for the whole film."
+    },
+    {
+      "type": "paragraph",
+      "text": "did you feel any pressure or take any choices to engage the audience through Cinematography?"
+    },
+    {
+      "type": "paragraph",
+      "text": "did you and Denis ever discussed about it?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario/#post-214745",
+    "scraped_at": "2026-01-15T14:13:29.618809+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario/#post-214745",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8b4269a3bd1d6bb5afa3b19d90d0c13c4d74a340dcd1a4cfb7b831998947d2a5",
+    "parser_version": "bbpress-v2"
+  }
+}

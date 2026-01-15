@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214731",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-daytime-interior",
+    "parent_post_id": "214727",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I had a Par blasting through that window and a very light diffusion, I think it was a Hampshire frost, on the glass. There was no particular ‘view’ and I thought it more interesting to blow out the window. It made the contrast between the brightness outside and the shadowed interior more intense.",
+  "content_html": "<p>I had a Par blasting through that window and a very light diffusion, I think it was a Hampshire frost, on the glass. There was no particular ‘view’ and I thought it more interesting to blow out the window. It made the contrast between the brightness outside and the shadowed interior more intense.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I had a Par blasting through that window and a very light diffusion, I think it was a Hampshire frost, on the glass. There was no particular ‘view’ and I thought it more interesting to blow out the window. It made the contrast between the brightness outside and the shadowed interior more intense."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-daytime-interior/#post-214830",
+    "scraped_at": "2026-01-15T15:51:18.624540+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-daytime-interior/#post-214830",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "01aa08e922aec0e20015b353b7c0effafe6af42edce0343320fb5ad69b5b0440",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/which-episode-was-this-story-in/",
+  "forum_slug": "team-deakins",
+  "topic_slug": "which-episode-was-this-story-in",
+  "title": "which episode was this story in?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215806"
+  ],
+  "reply_tree": {
+    "post_id": "215806",
+    "post_type": "topic",
+    "author": "tomek",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/which-episode-was-this-story-in/",
+    "scraped_at": "2026-01-15T13:16:12.351971+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/which-episode-was-this-story-in/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "edb8427e90cc8d1057cfb832b938b3d9aaa217023f47a072ebafe1dc3d743738",
+    "parser_version": "bbpress-v2"
+  }
+}

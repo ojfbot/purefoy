@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "post_id": "214623",
+    "forum_slug": "camera",
+    "topic_slug": "eyes-wide-shut-moving-mirror"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "GianniRanzuglia",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi All\nIn Stanley Kubrick’s, Eyes Wide Shut, there’s a scene where Nicole Kidman’s character is staring at a mirror before she opens the mirror and retrieves a small bag of weed hidden inside the compartment. While she does this, the mirror swings open and we should see the camera but we don’t!\nHow did Stanley and his team hide the camera from the moving reflection, CGI wasn’t available back then, are there double mirrors involved?\nI’ve attached a video of the scene for reference. Note that I’m not referring to the use of spiral composition that is mentioned in the video.\nhttps://www.youtube.com/watch?v=-QWcKo2IyLU\nThank you all!",
+  "content_html": "<p>Hi All</p>\n<p>In Stanley Kubrick’s, Eyes Wide Shut, there’s a scene where Nicole Kidman’s character is staring at a mirror before she opens the mirror and retrieves a small bag of weed hidden inside the compartment. While she does this, the mirror swings open and we should see the camera but we don’t!</p>\n<p>How did Stanley and his team hide the camera from the moving reflection, CGI wasn’t available back then, are there double mirrors involved?</p>\n<p>I’ve attached a video of the scene for reference. Note that I’m not referring to the use of spiral composition that is mentioned in the video.</p>\n<p><a href=\"https://www.youtube.com/watch?v=-QWcKo2IyLU\" rel=\"nofollow\">https://www.youtube.com/watch?v=-QWcKo2IyLU</a></p>\n<p>Thank you all!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi All"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Stanley Kubrick’s, Eyes Wide Shut, there’s a scene where Nicole Kidman’s character is staring at a mirror before she opens the mirror and retrieves a small bag of weed hidden inside the compartment. While she does this, the mirror swings open and we should see the camera but we don’t!"
+    },
+    {
+      "type": "paragraph",
+      "text": "How did Stanley and his team hide the camera from the moving reflection, CGI wasn’t available back then, are there double mirrors involved?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve attached a video of the scene for reference. Note that I’m not referring to the use of spiral composition that is mentioned in the video."
+    },
+    {
+      "type": "paragraph",
+      "text": "https://www.youtube.com/watch?v=-QWcKo2IyLU"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you all!"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.youtube.com/watch?v=-QWcKo2IyLU",
+      "text": "https://www.youtube.com/watch?v=-QWcKo2IyLU",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/eyes-wide-shut-moving-mirror/page/2/",
+    "scraped_at": "2026-01-15T12:08:52.215504+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/eyes-wide-shut-moving-mirror/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "895d124736381299ece5858f373010e53b060362fdc568f926e9f331e0291b82",
+    "parser_version": "bbpress-v2"
+  }
+}

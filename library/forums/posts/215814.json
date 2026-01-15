@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215814",
+    "forum_slug": "forum",
+    "topic_slug": "day-for-night-inside",
+    "parent_post_id": "215812",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "IgorVe",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "<p style=”text-align: left;”>You can try ND’s on the windows or their cheaper analogues like construction film from supermarket. If the room is large enough you can totally cover the windows with 500g/m2 black molton (it’s pretty cheap for what it does) and fake whatever you want.</p>",
+  "content_html": "<p>&lt;p style=”text-align: left;”&gt;You can try ND’s on the windows or their cheaper analogues like construction film from supermarket. If the room is large enough you can totally cover the windows with 500g/m2 black molton (it’s pretty cheap for what it does) and fake whatever you want.&lt;/p&gt;</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "<p style=”text-align: left;”>You can try ND’s on the windows or their cheaper analogues like construction film from supermarket. If the room is large enough you can totally cover the windows with 500g/m2 black molton (it’s pretty cheap for what it does) and fake whatever you want.</p>"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/day-for-night-inside/#post-215817",
+    "scraped_at": "2026-01-15T15:44:17.739689+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/day-for-night-inside/#post-215817",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "36018be3ddcfafa75a72dd59f350e5cc23eeed76fdaee844b3b59a196f81b8b1",
+    "parser_version": "bbpress-v2"
+  }
+}

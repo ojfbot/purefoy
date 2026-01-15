@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "216112",
+    "forum_slug": "camera",
+    "topic_slug": "cinematography-advice",
+    "parent_post_id": "215720",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Just out of curiosity, may I ask you why do you want to begin working on film instead of digitally?\nI am the very less experienced among the forum users but my humble opinion is that cinematography has more to do with “how” you tell the story (with lights , camera movement, lenses, position ,  etc etc) than “on what” you record it.  A feature movie may require (apart from a good story, of course) an important budget and a lot of knowledge by itself, working on film could make things even more complicated: Just think about learning how correctly expose the film. Good luck anyway!",
+  "content_html": "<p>Just out of curiosity, may I ask you why do you want to begin working on film instead of digitally?</p>\n<p>I am the very less experienced among the forum users but my humble opinion is that cinematography has more to do with “how” you tell the story (with lights , camera movement, lenses, position ,  etc etc) than “on what” you record it.  A feature movie may require (apart from a good story, of course) an important budget and a lot of knowledge by itself, working on film could make things even more complicated: Just think about learning how correctly expose the film. Good luck anyway!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Just out of curiosity, may I ask you why do you want to begin working on film instead of digitally?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am the very less experienced among the forum users but my humble opinion is that cinematography has more to do with “how” you tell the story (with lights , camera movement, lenses, position ,  etc etc) than “on what” you record it.  A feature movie may require (apart from a good story, of course) an important budget and a lot of knowledge by itself, working on film could make things even more complicated: Just think about learning how correctly expose the film. Good luck anyway!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cinematography-advice/#post-216112",
+    "scraped_at": "2026-01-15T15:08:29.662273+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cinematography-advice/#post-216112",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5227c762f9ca5dc4d796298262591b187e881ec6e0e85aaef98fbf49756982f8",
+    "parser_version": "bbpress-v2"
+  }
+}

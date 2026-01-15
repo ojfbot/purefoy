@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "post_id": "215790",
+    "forum_slug": "film-talk",
+    "topic_slug": "a-personal-thanks-to-james-and-roger-just-wrapped-my-feature"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Baudelaire",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi, last Friday, after 9 years I finished  shooting my feature Lapin Noir . Obviously a long long way to go in Post production but I wanted to just say thanks to Roger and James. Your  podcast is one of my favourite things, and hearing so many truly great artists tell their origin story inspired me to keep going though some pretty dark moments. Merci!  (P.S the Wim Wenders episode was a cracker)",
+  "content_html": "<p>Hi, last Friday, after 9 years I finished  shooting my feature Lapin Noir . Obviously a long long way to go in Post production but I wanted to just say thanks to Roger and James. Your  podcast is one of my favourite things, and hearing so many truly great artists tell their origin story inspired me to keep going though some pretty dark moments. Merci!  (P.S the Wim Wenders episode was a cracker)<img alt=\"wrap\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215790/ky3a283te2r7bouyl2scih29iogliga5.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi, last Friday, after 9 years I finished  shooting my feature Lapin Noir . Obviously a long long way to go in Post production but I wanted to just say thanks to Roger and James. Your  podcast is one of my favourite things, and hearing so many truly great artists tell their origin story inspired me to keep going though some pretty dark moments. Merci!  (P.S the Wim Wenders episode was a cracker)"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215790/ky3a283te2r7bouyl2scih29iogliga5.jpg",
+      "alt": "wrap",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-personal-thanks-to-james-and-roger-just-wrapped-my-feature/",
+    "scraped_at": "2026-01-15T13:06:08.127499+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-personal-thanks-to-james-and-roger-just-wrapped-my-feature/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "844f74e1a4e2113688ff4be11ce752d02c4fa11f4c5156a372b168b8802a565a",
+    "parser_version": "bbpress-v2"
+  }
+}

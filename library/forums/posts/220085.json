@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "post_id": "220085",
+    "forum_slug": "composition",
+    "topic_slug": "eye-lines-for-big-dinner-scenes-feedback"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Stefan Le",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi guys,\nI recently filmed this dinner scene with 6 characters. I feel like this is a situation I’ll be running into a lot as a DP and wanted to see how others approach this scenario and if I could get some feedback on how the scene came together. The crew was just me on lighting and camera while the director recorded sound.\nLINK:\nhttps://www.youtube.com/watch?v=OFtD0ELEy_s\nFor lighting, this was a day for night so we had to black out the windows. I rigged a lantern attachment to an Amaran 60X above the table on a boom arm. Some P60C panels to splash the background and give some edge to the characters. And I replaced some of the overhead bulbs with Aputure B7Cs for consistent ambient light and an MC for some pops.\nIn terms of camera, I struggled a bit on the day with being confident about keeping the eyelines consistent and found myself worried the shots wouldn’t edit together well or that the geography of the space would feel disorienting. My assumption is that with more than 2 characters, we are able to establish multiple 180 lines between multiple pairs. What do you guys think? How are you visualizing and planning a scene with so many speaking characters, especially if they are arranged in a bit of a circle?\nThanks for reading! Any advice on lighting or composition is appreciated.\n-Stef",
+  "content_html": "<p>Hi guys,</p>\n<p>I recently filmed this dinner scene with 6 characters. I feel like this is a situation I’ll be running into a lot as a DP and wanted to see how others approach this scenario and if I could get some feedback on how the scene came together. The crew was just me on lighting and camera while the director recorded sound.</p>\n<p>LINK: <a href=\"https://www.youtube.com/watch?v=OFtD0ELEy_s\" rel=\"nofollow\">https://www.youtube.com/watch?v=OFtD0ELEy_s</a></p>\n<p>For lighting, this was a day for night so we had to black out the windows. I rigged a lantern attachment to an Amaran 60X above the table on a boom arm. Some P60C panels to splash the background and give some edge to the characters. And I replaced some of the overhead bulbs with Aputure B7Cs for consistent ambient light and an MC for some pops.</p>\n<p>In terms of camera, I struggled a bit on the day with being confident about keeping the eyelines consistent and found myself worried the shots wouldn’t edit together well or that the geography of the space would feel disorienting. My assumption is that with more than 2 characters, we are able to establish multiple 180 lines between multiple pairs. What do you guys think? How are you visualizing and planning a scene with so many speaking characters, especially if they are arranged in a bit of a circle?</p>\n<p>Thanks for reading! Any advice on lighting or composition is appreciated.</p>\n<p>-Stef</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi guys,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I recently filmed this dinner scene with 6 characters. I feel like this is a situation I’ll be running into a lot as a DP and wanted to see how others approach this scenario and if I could get some feedback on how the scene came together. The crew was just me on lighting and camera while the director recorded sound."
+    },
+    {
+      "type": "paragraph",
+      "text": "LINK:\nhttps://www.youtube.com/watch?v=OFtD0ELEy_s"
+    },
+    {
+      "type": "paragraph",
+      "text": "For lighting, this was a day for night so we had to black out the windows. I rigged a lantern attachment to an Amaran 60X above the table on a boom arm. Some P60C panels to splash the background and give some edge to the characters. And I replaced some of the overhead bulbs with Aputure B7Cs for consistent ambient light and an MC for some pops."
+    },
+    {
+      "type": "paragraph",
+      "text": "In terms of camera, I struggled a bit on the day with being confident about keeping the eyelines consistent and found myself worried the shots wouldn’t edit together well or that the geography of the space would feel disorienting. My assumption is that with more than 2 characters, we are able to establish multiple 180 lines between multiple pairs. What do you guys think? How are you visualizing and planning a scene with so many speaking characters, especially if they are arranged in a bit of a circle?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks for reading! Any advice on lighting or composition is appreciated."
+    },
+    {
+      "type": "paragraph",
+      "text": "-Stef"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.youtube.com/watch?v=OFtD0ELEy_s",
+      "text": "https://www.youtube.com/watch?v=OFtD0ELEy_s",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/eye-lines-for-big-dinner-scenes-feedback/#post-220087",
+    "scraped_at": "2026-01-15T11:51:12.669047+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/eye-lines-for-big-dinner-scenes-feedback/#post-220087",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "47abc4494b9b5b66cd3efa85de72d3c6ce02a58555f12171ab01b3e8ceaeec80",
+    "parser_version": "bbpress-v2"
+  }
+}

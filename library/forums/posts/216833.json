@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "216833",
+    "forum_slug": "forum",
+    "topic_slug": "frames-and-diffusion-questions",
+    "parent_post_id": "216826",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You might use a light diffusion closer to the shot to soften the light on a character or a specific object, while letting that emitted from the initial, heavier diffusion reach the background.\nConversely, you could use a light diffusion to spread light more evenly across a second, heavier, diffusion, which is placed nearer the subject. A light diffusion used in this way, such as a brush silk, would not substantially lower the amount of light overall, whereas to use a heavier one in the same place would.\nAgain, you might allow light to spill around a diffusion. The result would be a hard light surrounding a softer area.\nI would often adjust the distance between a lamp and a large diffusion to find the  placement that gave me the right (right to my eye) combination of hard and soft. The diffusion might be twelve feet square but the actual light source only seven feet square.",
+  "content_html": "<p>You might use a light diffusion closer to the shot to soften the light on a character or a specific object, while letting that emitted from the initial, heavier diffusion reach the background.</p>\n<p>Conversely, you could use a light diffusion to spread light more evenly across a second, heavier, diffusion, which is placed nearer the subject. A light diffusion used in this way, such as a brush silk, would not substantially lower the amount of light overall, whereas to use a heavier one in the same place would.</p>\n<p>Again, you might allow light to spill around a diffusion. The result would be a hard light surrounding a softer area.</p>\n<p>I would often adjust the distance between a lamp and a large diffusion to find the  placement that gave me the right (right to my eye) combination of hard and soft. The diffusion might be twelve feet square but the actual light source only seven feet square.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You might use a light diffusion closer to the shot to soften the light on a character or a specific object, while letting that emitted from the initial, heavier diffusion reach the background."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conversely, you could use a light diffusion to spread light more evenly across a second, heavier, diffusion, which is placed nearer the subject. A light diffusion used in this way, such as a brush silk, would not substantially lower the amount of light overall, whereas to use a heavier one in the same place would."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, you might allow light to spill around a diffusion. The result would be a hard light surrounding a softer area."
+    },
+    {
+      "type": "paragraph",
+      "text": "I would often adjust the distance between a lamp and a large diffusion to find the  placement that gave me the right (right to my eye) combination of hard and soft. The diffusion might be twelve feet square but the actual light source only seven feet square."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/frames-and-diffusion-questions/#post-216860",
+    "scraped_at": "2026-01-15T15:22:48.901010+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/frames-and-diffusion-questions/#post-216860",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0354cfc1bfd1484c4cc57b31b6ae8b3a7f4186302ad0073ec4a36daf22fcb9aa",
+    "parser_version": "bbpress-v2"
+  }
+}

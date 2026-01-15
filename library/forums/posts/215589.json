@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "215589",
+    "forum_slug": "composition",
+    "topic_slug": "intentional-visual-design-when-composing-shots"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Jason Ward",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Roger, recently I’ve been thinking a lot about what my film teachers call “visual design”, where movies use certain visual motifs throughout, some examples are using flat vs limited vs deep space to reflect what the characters are going through, putting powerful people or things in the “golden section” of the frame, the difference between moving towards the right vs the left, basically a subconscious (to the audience) way of visualizing whatever the character’s going through. I was wondering if you as the cinematographer are thinking about these things when planning and composing shots, or is that more often the director making those types of decisions, likely in pre-production?",
+  "content_html": "<p>Hi Roger, recently I’ve been thinking a lot about what my film teachers call “visual design”, where movies use certain visual motifs throughout, some examples are using flat vs limited vs deep space to reflect what the characters are going through, putting powerful people or things in the “golden section” of the frame, the difference between moving towards the right vs the left, basically a subconscious (to the audience) way of visualizing whatever the character’s going through. I was wondering if you as the cinematographer are thinking about these things when planning and composing shots, or is that more often the director making those types of decisions, likely in pre-production?</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Roger, recently I’ve been thinking a lot about what my film teachers call “visual design”, where movies use certain visual motifs throughout, some examples are using flat vs limited vs deep space to reflect what the characters are going through, putting powerful people or things in the “golden section” of the frame, the difference between moving towards the right vs the left, basically a subconscious (to the audience) way of visualizing whatever the character’s going through. I was wondering if you as the cinematographer are thinking about these things when planning and composing shots, or is that more often the director making those types of decisions, likely in pre-production?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/intentional-visual-design-when-composing-shots/#post-215612",
+    "scraped_at": "2026-01-15T12:48:52.737587+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/intentional-visual-design-when-composing-shots/#post-215612",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ab8ad4b5ec4962e918679ae63aad85990b39f698bfcc0e939dd458c55ed68042",
+    "parser_version": "bbpress-v2"
+  }
+}

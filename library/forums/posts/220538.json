@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220538",
+    "forum_slug": "film-talk",
+    "topic_slug": "mr-deakins-regarding-2049-spinner-flyover-vegas",
+    "parent_post_id": "220537",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I can’t think of a sequence that was cut from the film. Are you sure?",
+  "content_html": "<p>I can’t think of a sequence that was cut from the film. Are you sure?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I can’t think of a sequence that was cut from the film. Are you sure?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-regarding-2049-spinner-flyover-vegas/#post-220557",
+    "scraped_at": "2026-01-15T11:50:43.068340+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/mr-deakins-regarding-2049-spinner-flyover-vegas/#post-220557",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8cca3d22ad34b4ebbfd2ff5871515d1e12b0fa66247e1fde91e7797703c55435",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/what-are-your-thoughts-on-using-bounce-or-diffusion-umbrellas/",
+  "forum_slug": "forum",
+  "topic_slug": "what-are-your-thoughts-on-using-bounce-or-diffusion-umbrellas",
+  "title": "What are your thoughts on using bounce or diffusion umbrellas?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216476"
+  ],
+  "reply_tree": {
+    "post_id": "216476",
+    "post_type": "topic",
+    "author": "Davinki",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/what-are-your-thoughts-on-using-bounce-or-diffusion-umbrellas/",
+    "scraped_at": "2026-01-15T15:24:43.900519+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-are-your-thoughts-on-using-bounce-or-diffusion-umbrellas/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ce6f9c9e908359c2400bddd2e5dc7900e0f9bcf3b137cbfbe8e3be605ca52053",
+    "parser_version": "bbpress-v2"
+  }
+}

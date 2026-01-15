@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214510",
+    "forum_slug": "forum",
+    "topic_slug": "consistent-look-with-different-set-ups",
+    "parent_post_id": "212582",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "How to manage consistency? I don’t know what to advise. You decide on the look for the film, a scene or a sequence and then break it down into individual shots. You consider when and how to best shoot each shot depending on the restrictions you have regarding the existing natural light and/or your schedule. consistency is key to immersing the audience in a film and, therefore, a priority for the work of any cinematographer.",
+  "content_html": "<p>How to manage consistency? I don’t know what to advise. You decide on the look for the film, a scene or a sequence and then break it down into individual shots. You consider when and how to best shoot each shot depending on the restrictions you have regarding the existing natural light and/or your schedule. consistency is key to immersing the audience in a film and, therefore, a priority for the work of any cinematographer.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "How to manage consistency? I don’t know what to advise. You decide on the look for the film, a scene or a sequence and then break it down into individual shots. You consider when and how to best shoot each shot depending on the restrictions you have regarding the existing natural light and/or your schedule. consistency is key to immersing the audience in a film and, therefore, a priority for the work of any cinematographer."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/consistent-look-with-different-set-ups/#post-214525",
+    "scraped_at": "2026-01-15T15:53:06.858693+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/consistent-look-with-different-set-ups/#post-214525",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f08c18675df6f2f2b54b9982760da6f8e4e01b29cfa20b449bfd77119feddac5",
+    "parser_version": "bbpress-v2"
+  }
+}

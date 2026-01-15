@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216457",
+    "forum_slug": "camera",
+    "topic_slug": "the-coordination-between-camera-ei-exposure-index-and-lighting",
+    "parent_post_id": "216428",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gx42",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Very interesting and excellent information. Thank you!",
+  "content_html": "<p>Very interesting and excellent information. Thank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Very interesting and excellent information. Thank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-coordination-between-camera-ei-exposure-index-and-lighting/#post-216479",
+    "scraped_at": "2026-01-15T14:13:06.155800+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-coordination-between-camera-ei-exposure-index-and-lighting/#post-216479",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2fc596ff8e4aa02c90d67b34c55e84feffccf65bc434d8853c79b854e049a247",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "post_id": "216030",
+    "forum_slug": "still-photography",
+    "topic_slug": "itinerary-2"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Badarinath K B",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Respected master Roger and my dear forum members,\nThis is something personal. comment your valuable thoughts. Thank you for your time.\nhttps://drive.google.com/drive/folders/1OZH4xR6h84opumfYd-YleaiX4B2gG3Wq?usp=sharing",
+  "content_html": "<p>Respected master Roger and my dear forum members,</p>\n<p>This is something personal. comment your valuable thoughts. Thank you for your time.</p>\n<p><a href=\"https://drive.google.com/drive/folders/1OZH4xR6h84opumfYd-YleaiX4B2gG3Wq?usp=sharing\" rel=\"nofollow\">https://drive.google.com/drive/folders/1OZH4xR6h84opumfYd-YleaiX4B2gG3Wq?usp=sharing</a></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Respected master Roger and my dear forum members,"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is something personal. comment your valuable thoughts. Thank you for your time."
+    },
+    {
+      "type": "paragraph",
+      "text": "https://drive.google.com/drive/folders/1OZH4xR6h84opumfYd-YleaiX4B2gG3Wq?usp=sharing"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://drive.google.com/drive/folders/1OZH4xR6h84opumfYd-YleaiX4B2gG3Wq?usp=sharing",
+      "text": "https://drive.google.com/drive/folders/1OZH4xR6h84opumfYd-YleaiX4B2gG3Wq?usp=sharing",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/itinerary-2/",
+    "scraped_at": "2026-01-15T12:08:10.648582+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/itinerary-2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dfc81e42ec76e47c78eff6f0b6bd0a75734d5be8df7a6ce6ab57829cc16b5756",
+    "parser_version": "bbpress-v2"
+  }
+}

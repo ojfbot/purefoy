@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215389",
+    "forum_slug": "camera",
+    "topic_slug": "shallow-depth-of-field",
+    "parent_post_id": "215380",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Shallow focus was not only available to “large productions” in the past, it was available to low-budget productions as well.  Even if you’re talking about people limited to smaller sensors like in the early days of 2/3″ HD in 2000-2007 or so, there were tools to get shallow focus like the P&S Technik Mini-35, the Brevis35, the Letus… all spinning groundglass attachments that allowed one to use 35mm lenses and get that depth of field.",
+  "content_html": "<p>Shallow focus was not only available to “large productions” in the past, it was available to low-budget productions as well.  Even if you’re talking about people limited to smaller sensors like in the early days of 2/3″ HD in 2000-2007 or so, there were tools to get shallow focus like the P&amp;S Technik Mini-35, the Brevis35, the Letus… all spinning groundglass attachments that allowed one to use 35mm lenses and get that depth of field.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Shallow focus was not only available to “large productions” in the past, it was available to low-budget productions as well.  Even if you’re talking about people limited to smaller sensors like in the early days of 2/3″ HD in 2000-2007 or so, there were tools to get shallow focus like the P&S Technik Mini-35, the Brevis35, the Letus… all spinning groundglass attachments that allowed one to use 35mm lenses and get that depth of field."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shallow-depth-of-field/#post-215799",
+    "scraped_at": "2026-01-15T15:21:03.235123+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shallow-depth-of-field/#post-215799",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "18167a5440162bcfde76ca027be8a4b3c4ff237959efdf9f095f0d87c934b5ef",
+    "parser_version": "bbpress-v2"
+  }
+}

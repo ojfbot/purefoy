@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "218203",
+    "forum_slug": "set-talk",
+    "topic_slug": "difficult-conversations",
+    "parent_post_id": "217287",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It happens — ultimately filmmaking is an expensive business and you were hired to deliver a certain level of work within a budget for time and equipment. That’s the reality.\nYou fight for the quality of the shot\nwhen it matters\n, when you think a drop in quality will be noticeable and everyone in post will be trying to make the problematic shot work and forgetting soon why it was not shot as well as it should have been.\nIt’s frustrating and depressing when you no choice but to roll cameras on something below your standards but you try and move on because there will be other battles coming up that need your concentration. A producer once said to me (regarding a perfectionist director we were dealing with): “If you make everything equally important then nothing is important”.  The other common phrase is “Perfect is the enemy of good.”  You have to realize that if you take another ten minutes to make a shot better, you may be robbing yourself of ten minutes later in the day on something even more important.",
+  "content_html": "<p>It happens — ultimately filmmaking is an expensive business and you were hired to deliver a certain level of work within a budget for time and equipment. That’s the reality.</p>\n<p>You fight for the quality of the shot <em>when it matters</em>, when you think a drop in quality will be noticeable and everyone in post will be trying to make the problematic shot work and forgetting soon why it was not shot as well as it should have been.</p>\n<p>It’s frustrating and depressing when you no choice but to roll cameras on something below your standards but you try and move on because there will be other battles coming up that need your concentration. A producer once said to me (regarding a perfectionist director we were dealing with): “If you make everything equally important then nothing is important”.  The other common phrase is “Perfect is the enemy of good.”  You have to realize that if you take another ten minutes to make a shot better, you may be robbing yourself of ten minutes later in the day on something even more important.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "It happens — ultimately filmmaking is an expensive business and you were hired to deliver a certain level of work within a budget for time and equipment. That’s the reality."
+    },
+    {
+      "type": "paragraph",
+      "text": "You fight for the quality of the shot\nwhen it matters\n, when you think a drop in quality will be noticeable and everyone in post will be trying to make the problematic shot work and forgetting soon why it was not shot as well as it should have been."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s frustrating and depressing when you no choice but to roll cameras on something below your standards but you try and move on because there will be other battles coming up that need your concentration. A producer once said to me (regarding a perfectionist director we were dealing with): “If you make everything equally important then nothing is important”.  The other common phrase is “Perfect is the enemy of good.”  You have to realize that if you take another ten minutes to make a shot better, you may be robbing yourself of ten minutes later in the day on something even more important."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/difficult-conversations/#post-220077",
+    "scraped_at": "2026-01-15T11:50:46.559628+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/difficult-conversations/#post-220077",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "641313ffba3f4c04138ef80bf2c23998c2cea4e3a11a4c7ba4f24833a5e91535",
+    "parser_version": "bbpress-v2"
+  }
+}

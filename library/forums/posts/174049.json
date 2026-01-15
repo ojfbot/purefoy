@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "174049",
+    "forum_slug": "camera",
+    "topic_slug": "camera-knowledge",
+    "parent_post_id": "173700",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Intuition is the greatest ‘fundamental’ that I have, but it took decades for me to understand that and even longer to fully trust it.\nAs to camera knowledge, I think knowing how to best expose it is critical.",
+  "content_html": "<p>Intuition is the greatest ‘fundamental’ that I have, but it took decades for me to understand that and even longer to fully trust it.</p>\n<p>As to camera knowledge, I think knowing how to best expose it is critical.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Intuition is the greatest ‘fundamental’ that I have, but it took decades for me to understand that and even longer to fully trust it."
+    },
+    {
+      "type": "paragraph",
+      "text": "As to camera knowledge, I think knowing how to best expose it is critical."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/camera-knowledge/#post-174075",
+    "scraped_at": "2026-01-15T15:45:38.306481+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/camera-knowledge/#post-174075",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6e45b2ad2122455f1431caef98dccc0c6845902448756e414b43990d35e1c849",
+    "parser_version": "bbpress-v2"
+  }
+}

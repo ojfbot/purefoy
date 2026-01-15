@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214931",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-stephens-house",
+    "parent_post_id": "214923",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "First, the interior of Stephen’s flat was a set as the location we liked was too difficult to hold on to for the length of time we needed it. We shot a number of scenes in this set which did not end up in the final cut.\nThe overhead was all that lit the wide when Stephen and his mother are watching television. For the dinner scene I wanted the foreground table light to be stronger in relation to the background, which was not important.\nI always work closely with the production designer as well as the set dresser to make sure the placement of the windows, light fixtures and furniture work for the scenes and for camera. It is particularly important to work with a set dresser to choose practical lamps. We probably looked at dozens of different possibilities before settling on the ones in picture.",
+  "content_html": "<p>First, the interior of Stephen’s flat was a set as the location we liked was too difficult to hold on to for the length of time we needed it. We shot a number of scenes in this set which did not end up in the final cut.</p>\n<p>The overhead was all that lit the wide when Stephen and his mother are watching television. For the dinner scene I wanted the foreground table light to be stronger in relation to the background, which was not important.</p>\n<p>I always work closely with the production designer as well as the set dresser to make sure the placement of the windows, light fixtures and furniture work for the scenes and for camera. It is particularly important to work with a set dresser to choose practical lamps. We probably looked at dozens of different possibilities before settling on the ones in picture.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "First, the interior of Stephen’s flat was a set as the location we liked was too difficult to hold on to for the length of time we needed it. We shot a number of scenes in this set which did not end up in the final cut."
+    },
+    {
+      "type": "paragraph",
+      "text": "The overhead was all that lit the wide when Stephen and his mother are watching television. For the dinner scene I wanted the foreground table light to be stronger in relation to the background, which was not important."
+    },
+    {
+      "type": "paragraph",
+      "text": "I always work closely with the production designer as well as the set dresser to make sure the placement of the windows, light fixtures and furniture work for the scenes and for camera. It is particularly important to work with a set dresser to choose practical lamps. We probably looked at dozens of different possibilities before settling on the ones in picture."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-stephens-house/#post-214933",
+    "scraped_at": "2026-01-15T15:50:30.363454+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-stephens-house/#post-214933",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "269c4e5ca62caf1cc17d05e608c4bee5b70a13050264effe4ede7b99290b2f63",
+    "parser_version": "bbpress-v2"
+  }
+}

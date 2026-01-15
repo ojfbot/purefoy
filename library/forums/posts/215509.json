@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "215509",
+    "forum_slug": "forum",
+    "topic_slug": "ambiance"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Bala",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Sir\nAll talking about ambience\nYou never told or Discussed about that.\nAm being your student wonder y?",
+  "content_html": "<p>Sir</p>\n<p>All talking about ambience</p>\n<p>You never told or Discussed about that.</p>\n<p>Am being your student wonder y?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sir"
+    },
+    {
+      "type": "paragraph",
+      "text": "All talking about ambience"
+    },
+    {
+      "type": "paragraph",
+      "text": "You never told or Discussed about that."
+    },
+    {
+      "type": "paragraph",
+      "text": "Am being your student wonder y?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ambiance/#post-215510",
+    "scraped_at": "2026-01-15T15:46:53.908491+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ambiance/#post-215510",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "74c518538b6cbc402960563a0210498130485171a4f6ddf09aa6afc1be0ed9b5",
+    "parser_version": "bbpress-v2"
+  }
+}

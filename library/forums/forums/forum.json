@@ -1,0 +1,3020 @@
+{
+  "forum_url": "https://rogerdeakins.com/forums/forum/forum/",
+  "forum_slug": "forum",
+  "title": "Lighting",
+  "subforums": [],
+  "topic_refs": [
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221087",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "15 hours, 29 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "Blue color moon light vs peocock color moon light",
+      "started_by": "rama lingam"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-hour-lighting-tips/",
+      "slug": "blue-hour-lighting-tips",
+      "title": "Blue Hour Lighting Tips",
+      "started_by": "ckalcic"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-hour-lighting-tips/#post-220969",
+      "slug": "blue-hour-lighting-tips",
+      "title": "4 days, 9 hours ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/best-technique-for-slash-of-light-across-face/",
+      "slug": "best-technique-for-slash-of-light-across-face",
+      "title": "Best Technique for ‘Slash of Light’ Across Face?",
+      "started_by": "lildarkroom"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/best-technique-for-slash-of-light-across-face/#post-220950",
+      "slug": "best-technique-for-slash-of-light-across-face",
+      "title": "6 days, 12 hours ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings/",
+      "slug": "safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings",
+      "title": "Safety protocol for using high-wattage bare bulbs in studio settings",
+      "started_by": "stefanosteno"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings/#post-220925",
+      "slug": "safety-protocol-for-using-high-wattage-bare-bulbs-in-studio-settings",
+      "title": "1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/calculating-foot-candles-with-distance-and-diffusion/",
+      "slug": "calculating-foot-candles-with-distance-and-diffusion",
+      "title": "Calculating foot-candles with distance and diffusion",
+      "started_by": "Ragul"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/calculating-foot-candles-with-distance-and-diffusion/#post-220921",
+      "slug": "calculating-foot-candles-with-distance-and-diffusion",
+      "title": "1 week, 1 day ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-much-of-the-look-is-just-you/",
+      "slug": "how-much-of-the-look-is-just-you",
+      "title": "How much of the “look” is just you?",
+      "started_by": "jgeiger"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-much-of-the-look-is-just-you/#post-220918",
+      "slug": "how-much-of-the-look-is-just-you",
+      "title": "1 week, 2 days ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/merry-christmas-3/",
+      "slug": "merry-christmas-3",
+      "title": "Merry Christmas",
+      "started_by": "rama lingam"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/merry-christmas-3/#post-220872",
+      "slug": "merry-christmas-3",
+      "title": "2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/moonlit-cabin-1800s/",
+      "slug": "moonlit-cabin-1800s",
+      "title": "3 weeks, 1 day ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio-2/",
+      "slug": "contrast-ratio-2",
+      "title": "Contrast ratio",
+      "started_by": "LucaM"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio-2/#post-220820",
+      "slug": "contrast-ratio-2",
+      "title": "3 weeks, 2 days ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/calculating-light/",
+      "slug": "calculating-light",
+      "title": "Calculating Light",
+      "started_by": "kamieldoens"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/calculating-light/#post-220742",
+      "slug": "calculating-light",
+      "title": "1 month ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/baking-in-look-vs-post-production/",
+      "slug": "baking-in-look-vs-post-production",
+      "title": "Baking in look vs Post production.",
+      "started_by": "piperevans_"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/baking-in-look-vs-post-production/#post-220722",
+      "slug": "baking-in-look-vs-post-production",
+      "title": "1 month, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/dark/",
+      "slug": "dark",
+      "title": "Dark",
+      "started_by": "Yakov10"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/dark/#post-220680",
+      "slug": "dark",
+      "title": "1 month, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/practical-oil-lamps-and-flashlights/",
+      "slug": "practical-oil-lamps-and-flashlights",
+      "title": "Practical Oil Lamps and Flashlights",
+      "started_by": "Luke Larsen"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/practical-oil-lamps-and-flashlights/#post-220587",
+      "slug": "practical-oil-lamps-and-flashlights",
+      "title": "1 month, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposure-skin-tone/",
+      "slug": "exposure-skin-tone",
+      "title": "EXPOSURE SKIN TONE",
+      "started_by": "lucianosantos"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposure-skin-tone/#post-220576",
+      "slug": "exposure-skin-tone",
+      "title": "1 month, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/questions-reg-true-grit-greaser-bobs-lighting-breakdown/",
+      "slug": "questions-reg-true-grit-greaser-bobs-lighting-breakdown",
+      "title": "Questions reg. True Grit/Greaser Bob’s lighting breakdown",
+      "started_by": "Wolfgang Illmayr"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/questions-reg-true-grit-greaser-bobs-lighting-breakdown/#post-220566",
+      "slug": "questions-reg-true-grit-greaser-bobs-lighting-breakdown",
+      "title": "1 month, 4 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221087",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "15 hours, 29 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/colour-and-skin-tone-question/",
+      "slug": "colour-and-skin-tone-question",
+      "title": "Colour and Skin Tone Question",
+      "started_by": "D_Szasz"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/colour-and-skin-tone-question/#post-220527",
+      "slug": "colour-and-skin-tone-question",
+      "title": "2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/yellowish-interior-lighting/",
+      "slug": "yellowish-interior-lighting",
+      "title": "Yellowish interior lighting",
+      "started_by": "jonasg"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/yellowish-interior-lighting/#post-220505",
+      "slug": "yellowish-interior-lighting",
+      "title": "2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/anyone-try-layering-diffusion-on-ultrabounce/",
+      "slug": "anyone-try-layering-diffusion-on-ultrabounce",
+      "title": "Anyone try layering diffusion on Ultrabounce?",
+      "started_by": "gx42"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/anyone-try-layering-diffusion-on-ultrabounce/#post-220482",
+      "slug": "anyone-try-layering-diffusion-on-ultrabounce",
+      "title": "2 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-book-arrived/",
+      "slug": "reflections-book-arrived",
+      "title": "Reflections Book Arrived",
+      "started_by": "Daniel"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-book-arrived/#post-220408",
+      "slug": "reflections-book-arrived",
+      "title": "2 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/unbleached-muslin-gram-weight-for-light-bouncing/",
+      "slug": "unbleached-muslin-gram-weight-for-light-bouncing",
+      "title": "2 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/very-minimal-lighting/",
+      "slug": "very-minimal-lighting",
+      "title": "Very minimal lighting",
+      "started_by": "andy989"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/very-minimal-lighting/#post-220353",
+      "slug": "very-minimal-lighting",
+      "title": "2 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-help-big-open-windows/",
+      "slug": "lighting-help-big-open-windows",
+      "title": "3 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-notes/",
+      "slug": "lighting-notes",
+      "title": "Lighting Notes",
+      "started_by": "AkshayYd"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-notes/#post-220270",
+      "slug": "lighting-notes",
+      "title": "3 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/inverse-square-law/",
+      "slug": "inverse-square-law",
+      "title": "Inverse Square Law",
+      "started_by": "Matt Bendo CSC, AIC"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/inverse-square-law/#post-220255",
+      "slug": "inverse-square-law",
+      "title": "3 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-in-prisoners/",
+      "slug": "practical-lighting-in-prisoners",
+      "title": "Practical Lighting in Prisoners",
+      "started_by": "Corran Villalobos"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-in-prisoners/#post-220068",
+      "slug": "practical-lighting-in-prisoners",
+      "title": "3 months, 2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/texture-matter-for-bounce-material/",
+      "slug": "texture-matter-for-bounce-material",
+      "title": "Texture Matter for Bounce Material?",
+      "started_by": "coreycine"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/texture-matter-for-bounce-material/#post-220067",
+      "slug": "texture-matter-for-bounce-material",
+      "title": "3 months, 2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/4300k-location-with-daylight-or-tungsten-key/",
+      "slug": "4300k-location-with-daylight-or-tungsten-key",
+      "title": "4300k location with daylight or tungsten Key",
+      "started_by": "gx42"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/4300k-location-with-daylight-or-tungsten-key/#post-219980",
+      "slug": "4300k-location-with-daylight-or-tungsten-key",
+      "title": "3 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflected-light-and-inverse-square-law/",
+      "slug": "reflected-light-and-inverse-square-law",
+      "title": "Reflected light and inverse square law",
+      "started_by": "GarrettEckerson"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflected-light-and-inverse-square-law/#post-219976",
+      "slug": "reflected-light-and-inverse-square-law",
+      "title": "3 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/outdoor-lighting-principles/",
+      "slug": "outdoor-lighting-principles",
+      "title": "Outdoor Lighting Principles",
+      "started_by": "William Knowles"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/outdoor-lighting-principles/#post-219836",
+      "slug": "outdoor-lighting-principles",
+      "title": "4 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-a-rainy-night-scene/",
+      "slug": "lighting-a-rainy-night-scene",
+      "title": "lighting a rainy night scene",
+      "started_by": "sarii"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-a-rainy-night-scene/#post-219677",
+      "slug": "lighting-a-rainy-night-scene",
+      "title": "4 months, 2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221087",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "15 hours, 30 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-a-night-exterior/",
+      "slug": "lighting-a-night-exterior",
+      "title": "Lighting a night exterior",
+      "started_by": "KK 0055"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-a-night-exterior/#post-219676",
+      "slug": "lighting-a-night-exterior",
+      "title": "4 months, 2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/is-it-communicating-visually/",
+      "slug": "is-it-communicating-visually",
+      "title": "5 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/large-scale-sun-simulation-through-church-vitraux-feature-film-setup/",
+      "slug": "large-scale-sun-simulation-through-church-vitraux-feature-film-setup",
+      "title": "Large-Scale Sun Simulation Through church Vitraux – Feature Film Setup",
+      "started_by": "Chop13"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/large-scale-sun-simulation-through-church-vitraux-feature-film-setup/#post-219523",
+      "slug": "large-scale-sun-simulation-through-church-vitraux-feature-film-setup",
+      "title": "5 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-serious-man-larrys-office/",
+      "slug": "a-serious-man-larrys-office",
+      "title": "A Serious Man – Larry’s Office",
+      "started_by": "jamesblann"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-serious-man-larrys-office/#post-219495",
+      "slug": "a-serious-man-larrys-office",
+      "title": "5 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/filling-diffusion-in-tight-spaces/",
+      "slug": "filling-diffusion-in-tight-spaces",
+      "title": "Filling Diffusion in Tight Spaces",
+      "started_by": "Steven.M"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/filling-diffusion-in-tight-spaces/#post-219488",
+      "slug": "filling-diffusion-in-tight-spaces",
+      "title": "5 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-same-lighting-on-set-to-match-for-the-back-ground-plates/",
+      "slug": "creating-same-lighting-on-set-to-match-for-the-back-ground-plates",
+      "title": "Creating same lighting on set to match for the back ground plates",
+      "started_by": "Vasu"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-same-lighting-on-set-to-match-for-the-back-ground-plates/#post-219343",
+      "slug": "creating-same-lighting-on-set-to-match-for-the-back-ground-plates",
+      "title": "5 months, 2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/maintaining-lighting-continuity-for-outdoor-fight-scene-12hr-shoot/",
+      "slug": "maintaining-lighting-continuity-for-outdoor-fight-scene-12hr-shoot",
+      "title": "Maintaining Lighting Continuity for Outdoor Fight Scene (12hr Shoot)",
+      "started_by": "jeremiahr95"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/maintaining-lighting-continuity-for-outdoor-fight-scene-12hr-shoot/#post-219263",
+      "slug": "maintaining-lighting-continuity-for-outdoor-fight-scene-12hr-shoot",
+      "title": "5 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-is-cinema-in-the-future/",
+      "slug": "what-is-cinema-in-the-future",
+      "title": "What is Cinema in the future?",
+      "started_by": "TinTin.Wang"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-is-cinema-in-the-future/#post-219262",
+      "slug": "what-is-cinema-in-the-future",
+      "title": "5 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-day-for-night/",
+      "slug": "shooting-day-for-night",
+      "title": "Shooting DAY FOR NIGHT",
+      "started_by": "KK 0055"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-day-for-night/#post-219231",
+      "slug": "shooting-day-for-night",
+      "title": "5 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blade-runner-eyeball/",
+      "slug": "blade-runner-eyeball",
+      "title": "Blade Runner Eyeball",
+      "started_by": "elliottdeem"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blade-runner-eyeball/#post-219209",
+      "slug": "blade-runner-eyeball",
+      "title": "5 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/one-large-bounce-vs-breaking-it-small-size-bounces/",
+      "slug": "one-large-bounce-vs-breaking-it-small-size-bounces",
+      "title": "One large bounce vs breaking it small size bounces",
+      "started_by": "Bala"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/one-large-bounce-vs-breaking-it-small-size-bounces/#post-219153",
+      "slug": "one-large-bounce-vs-breaking-it-small-size-bounces",
+      "title": "6 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blowing-out-the-windows/",
+      "slug": "blowing-out-the-windows",
+      "title": "Blowing out the windows",
+      "started_by": "George"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blowing-out-the-windows/#post-219111",
+      "slug": "blowing-out-the-windows",
+      "title": "6 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-car-headlights/",
+      "slug": "sicario-car-headlights",
+      "title": "Sicario Car Headlights",
+      "started_by": "JakeFromWhatFarm"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-car-headlights/#post-218657",
+      "slug": "sicario-car-headlights",
+      "title": "6 months, 2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-choose-the-right-practical-flashlight/",
+      "slug": "how-to-choose-the-right-practical-flashlight",
+      "title": "How to choose the right practical flashlight",
+      "started_by": "aemon123"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-choose-the-right-practical-flashlight/#post-218655",
+      "slug": "how-to-choose-the-right-practical-flashlight",
+      "title": "6 months, 2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-use-bobbinette-to-diffuse-backings/",
+      "slug": "how-to-use-bobbinette-to-diffuse-backings",
+      "title": "How to use Bobbinette to diffuse backings",
+      "started_by": "Gonzarelli"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-use-bobbinette-to-diffuse-backings/#post-218650",
+      "slug": "how-to-use-bobbinette-to-diffuse-backings",
+      "title": "6 months, 2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221087",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "15 hours, 30 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-with-multiple-light-sources/",
+      "slug": "white-balance-with-multiple-light-sources",
+      "title": "White balance with multiple light sources.",
+      "started_by": "TBunker11"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-with-multiple-light-sources/#post-218611",
+      "slug": "white-balance-with-multiple-light-sources",
+      "title": "6 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/large-scale-158x100-sound-stage-lighting/",
+      "slug": "large-scale-158x100-sound-stage-lighting",
+      "title": "Large-Scale 158’x100′ Sound Stage lighting",
+      "started_by": "schaefferdop"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/large-scale-158x100-sound-stage-lighting/#post-218580",
+      "slug": "large-scale-158x100-sound-stage-lighting",
+      "title": "6 months, 4 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-to-the-legendary/",
+      "slug": "happy-birthday-to-the-legendary",
+      "title": "Happy Birthday to the legendary!",
+      "started_by": "rama lingam"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-to-the-legendary/#post-218340",
+      "slug": "happy-birthday-to-the-legendary",
+      "title": "7 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/strong-back-light/",
+      "slug": "strong-back-light",
+      "title": "Strong back light",
+      "started_by": "rama lingam"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/strong-back-light/#post-218337",
+      "slug": "strong-back-light",
+      "title": "7 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/fargo-bluray-vs-4k-which-is-the-correct-exposure/",
+      "slug": "fargo-bluray-vs-4k-which-is-the-correct-exposure",
+      "title": "Fargo Bluray vs 4k Which is the correct exposure",
+      "started_by": "sanghamithran"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/fargo-bluray-vs-4k-which-is-the-correct-exposure/#post-218329",
+      "slug": "fargo-bluray-vs-4k-which-is-the-correct-exposure",
+      "title": "7 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-3/",
+      "slug": "lighting-3",
+      "title": "7 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-end/",
+      "slug": "the-end",
+      "title": "The End",
+      "started_by": "ThatGreasyFootball"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-end/#post-218238",
+      "slug": "the-end",
+      "title": "8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/",
+      "slug": "cove-light-considerations",
+      "title": "Cove light considerations",
+      "started_by": "Davinki"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-light-considerations/#post-218202",
+      "slug": "cove-light-considerations",
+      "title": "8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/faking-daylight-on-a-small-crew/",
+      "slug": "faking-daylight-on-a-small-crew",
+      "title": "Faking Daylight on a small crew",
+      "started_by": "Indiana_Wilson"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/faking-daylight-on-a-small-crew/#post-218156",
+      "slug": "faking-daylight-on-a-small-crew",
+      "title": "8 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/matching-2-shots-in-different-locations/",
+      "slug": "matching-2-shots-in-different-locations",
+      "title": "Matching 2 shots in different locations",
+      "started_by": "LucaM"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/matching-2-shots-in-different-locations/#post-218126",
+      "slug": "matching-2-shots-in-different-locations",
+      "title": "8 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/contrast-control-in-wide-angle-lenses/",
+      "slug": "contrast-control-in-wide-angle-lenses",
+      "title": "Contrast control in wide-angle lenses",
+      "started_by": "caiyichenweg"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/contrast-control-in-wide-angle-lenses/#post-218124",
+      "slug": "contrast-control-in-wide-angle-lenses",
+      "title": "8 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-natural-looking-window-light-after-sunset/",
+      "slug": "creating-natural-looking-window-light-after-sunset",
+      "title": "Creating natural-looking window light after sunset",
+      "started_by": "Matthew_"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-natural-looking-window-light-after-sunset/#post-218018",
+      "slug": "creating-natural-looking-window-light-after-sunset",
+      "title": "8 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/soft-bounce-vs-diffusion-with-grid/",
+      "slug": "soft-bounce-vs-diffusion-with-grid",
+      "title": "Soft Bounce vs Diffusion with Grid",
+      "started_by": "christianhawkins"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/soft-bounce-vs-diffusion-with-grid/#post-217976",
+      "slug": "soft-bounce-vs-diffusion-with-grid",
+      "title": "8 months, 4 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/coin-macro-videos-looking-for-feedback/",
+      "slug": "coin-macro-videos-looking-for-feedback",
+      "title": "Coin macro videos – looking for feedback",
+      "started_by": "FriendlyEagle"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/coin-macro-videos-looking-for-feedback/#post-217948",
+      "slug": "coin-macro-videos-looking-for-feedback",
+      "title": "9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-confined-spaces/",
+      "slug": "lighting-for-confined-spaces",
+      "title": "Lighting for Confined Spaces",
+      "started_by": "Corran Villalobos"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-confined-spaces/#post-217870",
+      "slug": "lighting-for-confined-spaces",
+      "title": "9 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221087",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "15 hours, 30 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/underwater-face-lighting/",
+      "slug": "underwater-face-lighting",
+      "title": "9 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/cob-led-through-thick-diffusion-vs-panel-through-thin-diffusion/",
+      "slug": "cob-led-through-thick-diffusion-vs-panel-through-thin-diffusion",
+      "title": "9 months, 2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/johnny-coquillon-and-minimal-lighting/",
+      "slug": "johnny-coquillon-and-minimal-lighting",
+      "title": "Johnny Coquillon and minimal lighting",
+      "started_by": "arthurkent"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/johnny-coquillon-and-minimal-lighting/#post-217797",
+      "slug": "johnny-coquillon-and-minimal-lighting",
+      "title": "9 months, 2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/overhead-office-lighting/",
+      "slug": "overhead-office-lighting",
+      "title": "Overhead office lighting",
+      "started_by": "ThatGreasyFootball"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/overhead-office-lighting/#post-217521",
+      "slug": "overhead-office-lighting",
+      "title": "9 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/sillouette-with-illuminated-sunglasses/",
+      "slug": "sillouette-with-illuminated-sunglasses",
+      "title": "Sillouette with illuminated sunglasses",
+      "started_by": "ThatGreasyFootball"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/sillouette-with-illuminated-sunglasses/#post-217513",
+      "slug": "sillouette-with-illuminated-sunglasses",
+      "title": "9 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/incandescent-lamp-lighting/",
+      "slug": "incandescent-lamp-lighting",
+      "title": "9 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/combining-point-sources/",
+      "slug": "combining-point-sources",
+      "title": "Combining Point Sources",
+      "started_by": "RoberttorresDP"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/combining-point-sources/#post-217481",
+      "slug": "combining-point-sources",
+      "title": "9 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-window-shot/",
+      "slug": "revolutionary-road-window-shot",
+      "title": "Revolutionary Road: Window Shot",
+      "started_by": "benja"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-window-shot/#post-217445",
+      "slug": "revolutionary-road-window-shot",
+      "title": "10 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-a-dark-corridor/",
+      "slug": "lighting-a-dark-corridor",
+      "title": "Lighting a dark corridor",
+      "started_by": "Max2204"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-a-dark-corridor/#post-217429",
+      "slug": "lighting-a-dark-corridor",
+      "title": "10 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/70s-disco-short-film-hard-or-soft-light/",
+      "slug": "70s-disco-short-film-hard-or-soft-light",
+      "title": "70s Disco short film, Hard or soft light?",
+      "started_by": "Indiana_Wilson"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/70s-disco-short-film-hard-or-soft-light/#post-217412",
+      "slug": "70s-disco-short-film-hard-or-soft-light",
+      "title": "10 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/day-interior-lighting-when-all-windows-and-doors-closed/",
+      "slug": "day-interior-lighting-when-all-windows-and-doors-closed",
+      "title": "Day interior lighting when all windows and doors closed",
+      "started_by": "rama lingam"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/day-interior-lighting-when-all-windows-and-doors-closed/#post-217340",
+      "slug": "day-interior-lighting-when-all-windows-and-doors-closed",
+      "title": "10 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/1917-burning-church-scene-cinematography/",
+      "slug": "1917-burning-church-scene-cinematography",
+      "title": "1917, burning church scene cinematography",
+      "started_by": "yxlinnn"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/1917-burning-church-scene-cinematography/#post-217339",
+      "slug": "1917-burning-church-scene-cinematography",
+      "title": "10 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/car-windshield-refection/",
+      "slug": "car-windshield-refection",
+      "title": "Car windshield refection",
+      "started_by": "Limbo"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/car-windshield-refection/#post-217338",
+      "slug": "car-windshield-refection",
+      "title": "10 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/avoiding-multiple-shadows/",
+      "slug": "avoiding-multiple-shadows",
+      "title": "10 months, 2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-a-beach-scene-campfire-car-scene/",
+      "slug": "lighting-a-beach-scene-campfire-car-scene",
+      "title": "10 months, 2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221100",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "2 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/opening-sequence-to-skyfall/",
+      "slug": "opening-sequence-to-skyfall",
+      "title": "Opening sequence to Skyfall",
+      "started_by": "ben_r_05"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/opening-sequence-to-skyfall/#post-217204",
+      "slug": "opening-sequence-to-skyfall",
+      "title": "10 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-human-face/",
+      "slug": "the-human-face",
+      "title": "The human face",
+      "started_by": "lukas_hyrman"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-human-face/#post-217197",
+      "slug": "the-human-face",
+      "title": "10 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-differences/",
+      "slug": "lighting-differences",
+      "title": "Lighting differences",
+      "started_by": "satin"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-differences/#post-217165",
+      "slug": "lighting-differences",
+      "title": "10 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/guiding-principals/",
+      "slug": "guiding-principals",
+      "title": "Guiding Principals",
+      "started_by": "dilljib"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/guiding-principals/#post-217164",
+      "slug": "guiding-principals",
+      "title": "10 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-blackmagic-micro-studio/",
+      "slug": "lighting-for-blackmagic-micro-studio",
+      "title": "Lighting for blackmagic micro studio",
+      "started_by": "satin"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-blackmagic-micro-studio/#post-217162",
+      "slug": "lighting-for-blackmagic-micro-studio",
+      "title": "10 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lotr-trilogy-lighting-analysis/",
+      "slug": "lotr-trilogy-lighting-analysis",
+      "title": "10 months, 4 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-spaces-calculations/",
+      "slug": "lighting-spaces-calculations",
+      "title": "Lighting Spaces – Calculations",
+      "started_by": "kevinnhatbui"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-spaces-calculations/#post-217018",
+      "slug": "lighting-spaces-calculations",
+      "title": "11 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/western-saloon-lighting-from-outside/",
+      "slug": "western-saloon-lighting-from-outside",
+      "title": "Western Saloon – lighting from outside",
+      "started_by": "MartinMoll"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/western-saloon-lighting-from-outside/#post-216983",
+      "slug": "western-saloon-lighting-from-outside",
+      "title": "11 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/1917-low-key-milk-lady-scene/",
+      "slug": "1917-low-key-milk-lady-scene",
+      "title": "1917 Low key ‘milk lady’ Scene",
+      "started_by": "kasvandiepen"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/1917-low-key-milk-lady-scene/#post-216977",
+      "slug": "1917-low-key-milk-lady-scene",
+      "title": "11 months, 1 week ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/aerocrane-on-tracks-or/",
+      "slug": "aerocrane-on-tracks-or",
+      "title": "11 months, 2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/light-density/",
+      "slug": "light-density",
+      "title": "Light density",
+      "started_by": "Dmitriy.Nedria"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/light-density/#post-216962",
+      "slug": "light-density",
+      "title": "11 months, 2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/fixture-to-set-distance-purely-from-a-falloff-consideration/",
+      "slug": "fixture-to-set-distance-purely-from-a-falloff-consideration",
+      "title": "Fixture to set distance purely from a falloff consideration",
+      "started_by": "Wekblad"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/fixture-to-set-distance-purely-from-a-falloff-consideration/#post-216922",
+      "slug": "fixture-to-set-distance-purely-from-a-falloff-consideration",
+      "title": "11 months, 2 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/chiaroscuro-lighting-setup-for-a-film/",
+      "slug": "chiaroscuro-lighting-setup-for-a-film",
+      "title": "Chiaroscuro lighting setup for a film",
+      "started_by": "ThatGreasyFootball"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/chiaroscuro-lighting-setup-for-a-film/#post-216876",
+      "slug": "chiaroscuro-lighting-setup-for-a-film",
+      "title": "11 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blade-runner/",
+      "slug": "blade-runner",
+      "title": "Blade runner",
+      "started_by": "Bala"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blade-runner/#post-216871",
+      "slug": "blade-runner",
+      "title": "11 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/frames-and-diffusion-questions/",
+      "slug": "frames-and-diffusion-questions",
+      "title": "Frames and Diffusion Questions",
+      "started_by": "gx42"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/frames-and-diffusion-questions/#post-216860",
+      "slug": "frames-and-diffusion-questions",
+      "title": "11 months, 3 weeks ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221100",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "2 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-marvelous-mrs-maisel-stage-lights/",
+      "slug": "the-marvelous-mrs-maisel-stage-lights",
+      "title": "The Marvelous Mrs. Maisel stage lights",
+      "started_by": "caiyichenweg"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-marvelous-mrs-maisel-stage-lights/#post-216767",
+      "slug": "the-marvelous-mrs-maisel-stage-lights",
+      "title": "1 year ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/prisoners-church-cellar-scene-2/",
+      "slug": "prisoners-church-cellar-scene-2",
+      "title": "“Prisoners” church cellar scene",
+      "started_by": "LucaM"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/prisoners-church-cellar-scene-2/#post-216758",
+      "slug": "prisoners-church-cellar-scene-2",
+      "title": "1 year ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lightweight-portable-setups-for-learning/",
+      "slug": "lightweight-portable-setups-for-learning",
+      "title": "1 year ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/ganged-chinese-lantern-vs-roger-ring-lights/",
+      "slug": "ganged-chinese-lantern-vs-roger-ring-lights",
+      "title": "Ganged Chinese lantern vs Roger ring lights",
+      "started_by": "rama lingam"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/ganged-chinese-lantern-vs-roger-ring-lights/#post-216720",
+      "slug": "ganged-chinese-lantern-vs-roger-ring-lights",
+      "title": "1 year ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/working-with-limited-lighting/",
+      "slug": "working-with-limited-lighting",
+      "title": "Working with limited lighting",
+      "started_by": "ceciliah1738"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/working-with-limited-lighting/#post-216714",
+      "slug": "working-with-limited-lighting",
+      "title": "1 year ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/gregory-heisler/",
+      "slug": "gregory-heisler",
+      "title": "1 year ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/interior-night-time-lapse/",
+      "slug": "interior-night-time-lapse",
+      "title": "Interior night time lapse",
+      "started_by": "rama lingam"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/interior-night-time-lapse/#post-216688",
+      "slug": "interior-night-time-lapse",
+      "title": "1 year ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/skyfall-ms-apartment-prop-lighting/",
+      "slug": "skyfall-ms-apartment-prop-lighting",
+      "title": "Skyfall – M’s apartment prop lighting",
+      "started_by": "ewejeans"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/skyfall-ms-apartment-prop-lighting/#post-216686",
+      "slug": "skyfall-ms-apartment-prop-lighting",
+      "title": "1 year ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/warm-living-room-scene-lighting/",
+      "slug": "warm-living-room-scene-lighting",
+      "title": "Warm living room scene lighting",
+      "started_by": "gx42"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/warm-living-room-scene-lighting/#post-216669",
+      "slug": "warm-living-room-scene-lighting",
+      "title": "1 year ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-setup-for-high-rise-buildings-during-the-day/",
+      "slug": "lighting-setup-for-high-rise-buildings-during-the-day",
+      "title": "Lighting setup for high-rise buildings during the day.",
+      "started_by": "caiyichenweg"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-setup-for-high-rise-buildings-during-the-day/#post-216654",
+      "slug": "lighting-setup-for-high-rise-buildings-during-the-day",
+      "title": "1 year, 1 month ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/unmotivated-hair-light/",
+      "slug": "unmotivated-hair-light",
+      "title": "Unmotivated hair light",
+      "started_by": "LucaM"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/unmotivated-hair-light/#post-216653",
+      "slug": "unmotivated-hair-light",
+      "title": "1 year, 1 month ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/working-with-smoke/",
+      "slug": "working-with-smoke",
+      "title": "1 year, 1 month ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/white-balance-warm-tungsten/",
+      "slug": "white-balance-warm-tungsten",
+      "title": "1",
+      "started_by": "BlacksheepPictures"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-planning/",
+      "slug": "lighting-planning",
+      "title": "1 year, 1 month ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/skyfall-bunker-scene-overhead-square-soft-light/",
+      "slug": "skyfall-bunker-scene-overhead-square-soft-light",
+      "title": "1 year, 1 month ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221100",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "2 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/motivated-daylight-with-led-fixtures/",
+      "slug": "motivated-daylight-with-led-fixtures",
+      "title": "Motivated Daylight with LED Fixtures",
+      "started_by": "Corran Villalobos"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/motivated-daylight-with-led-fixtures/#post-216542",
+      "slug": "motivated-daylight-with-led-fixtures",
+      "title": "1 year, 1 month ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-close-up/",
+      "slug": "sicario-close-up",
+      "title": "Sicario/close up",
+      "started_by": "au"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-close-up/#post-216540",
+      "slug": "sicario-close-up",
+      "title": "1 year, 1 month ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/natural-lighting-continuity-when-a-subject-leave-the-main-light/",
+      "slug": "natural-lighting-continuity-when-a-subject-leave-the-main-light",
+      "title": "“Natural” lighting continuity when a subject leave the “main light”",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/natural-lighting-continuity-when-a-subject-leave-the-main-light/#post-216525",
+      "slug": "natural-lighting-continuity-when-a-subject-leave-the-main-light",
+      "title": "1 year, 1 month ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/decisionmaking-of-overhead-lightingrigs/",
+      "slug": "decisionmaking-of-overhead-lightingrigs",
+      "title": "Decisionmaking of overhead lightingrigs",
+      "started_by": "Julius"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/decisionmaking-of-overhead-lightingrigs/#post-216485",
+      "slug": "decisionmaking-of-overhead-lightingrigs",
+      "title": "1 year, 1 month ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/ringlights-considerations/",
+      "slug": "ringlights-considerations",
+      "title": "Ringlights considerations",
+      "started_by": "Julius"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/ringlights-considerations/#post-216484",
+      "slug": "ringlights-considerations",
+      "title": "1 year, 1 month ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-are-your-thoughts-on-using-bounce-or-diffusion-umbrellas/",
+      "slug": "what-are-your-thoughts-on-using-bounce-or-diffusion-umbrellas",
+      "title": "1 year, 1 month ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-soft-light-control-in-empire-of-light/",
+      "slug": "the-soft-light-control-in-empire-of-light",
+      "title": "The soft light control in “Empire of Light”.",
+      "started_by": "caiyichenweg"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-soft-light-control-in-empire-of-light/#post-216458",
+      "slug": "the-soft-light-control-in-empire-of-light",
+      "title": "1 year, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/in-which-situation-to-use-brush-silk-gel/",
+      "slug": "in-which-situation-to-use-brush-silk-gel",
+      "title": "In which situation to use brush silk gel?",
+      "started_by": "Valou"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/in-which-situation-to-use-brush-silk-gel/#post-216439",
+      "slug": "in-which-situation-to-use-brush-silk-gel",
+      "title": "1 year, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-light-a-kitchen-scene/",
+      "slug": "how-to-light-a-kitchen-scene",
+      "title": "How to light a Kitchen Scene?",
+      "started_by": "BlacksheepPictures"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-light-a-kitchen-scene/#post-216438",
+      "slug": "how-to-light-a-kitchen-scene",
+      "title": "1 year, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/colored-light/",
+      "slug": "colored-light",
+      "title": "Colored light",
+      "started_by": "caiyichenweg"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/colored-light/#post-216427",
+      "slug": "colored-light",
+      "title": "1 year, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-rooftop/",
+      "slug": "empire-of-light-rooftop",
+      "title": "Empire of Light – Rooftop",
+      "started_by": "Thom Yorke"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-rooftop/#post-216421",
+      "slug": "empire-of-light-rooftop",
+      "title": "1 year, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-bourne-ultimatum-lighting-streaks-during-bournes-revelation-scene/",
+      "slug": "the-bourne-ultimatum-lighting-streaks-during-bournes-revelation-scene",
+      "title": "“The Bourne Ultimatum” Lighting Streaks During Bourne’s Revelation Scene",
+      "started_by": "tiagob"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-bourne-ultimatum-lighting-streaks-during-bournes-revelation-scene/#post-216335",
+      "slug": "the-bourne-ultimatum-lighting-streaks-during-bournes-revelation-scene",
+      "title": "1 year, 3 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/when-to-bring-in-light-for-close-ups-true-grit/",
+      "slug": "when-to-bring-in-light-for-close-ups-true-grit",
+      "title": "1 year, 3 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/testing-led/",
+      "slug": "testing-led",
+      "title": "Testing LED",
+      "started_by": "simoncarlkoeber"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/testing-led/#post-216324",
+      "slug": "testing-led",
+      "title": "1 year, 3 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-are-gag-lights-and-why-use-them/",
+      "slug": "what-are-gag-lights-and-why-use-them",
+      "title": "What are ‘gag’ lights and why use them?",
+      "started_by": "Cisco Clifton"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-are-gag-lights-and-why-use-them/#post-216273",
+      "slug": "what-are-gag-lights-and-why-use-them",
+      "title": "1 year, 3 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221100",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "2 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/br2049-k-rooftop-gels/",
+      "slug": "br2049-k-rooftop-gels",
+      "title": "BR2049 K rooftop gels",
+      "started_by": "JakeFromWhatFarm"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/br2049-k-rooftop-gels/#post-216266",
+      "slug": "br2049-k-rooftop-gels",
+      "title": "1 year, 3 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/learning-lighting-practice-setups/",
+      "slug": "learning-lighting-practice-setups",
+      "title": "Learning Lighting – practice setups?",
+      "started_by": "Bgrunge"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/learning-lighting-practice-setups/#post-216264",
+      "slug": "learning-lighting-practice-setups",
+      "title": "1 year, 3 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-see-through-glass-bottle/",
+      "slug": "shooting-see-through-glass-bottle",
+      "title": "1 year, 3 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/no-country-exposing-film-lighting/",
+      "slug": "no-country-exposing-film-lighting",
+      "title": "No Country (Exposing film / lighting)",
+      "started_by": "Definate"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/no-country-exposing-film-lighting/#post-216216",
+      "slug": "no-country-exposing-film-lighting",
+      "title": "1 year, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/treating-windows/",
+      "slug": "treating-windows",
+      "title": "Treating Windows",
+      "started_by": "Tyler F"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/treating-windows/#post-216184",
+      "slug": "treating-windows",
+      "title": "1 year, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-18-gray-is-mathematically-calculated/",
+      "slug": "how-18-gray-is-mathematically-calculated",
+      "title": "how 18% gray is mathematically calculated?",
+      "started_by": "r.k.Logeshwaran"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-18-gray-is-mathematically-calculated/#post-216134",
+      "slug": "how-18-gray-is-mathematically-calculated",
+      "title": "1 year, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/bounce-lighting/",
+      "slug": "bounce-lighting",
+      "title": "Bounce Lighting",
+      "started_by": "Vasu"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/bounce-lighting/#post-216109",
+      "slug": "bounce-lighting",
+      "title": "1 year, 5 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/front-lit-shots-how-to-deal-with/",
+      "slug": "front-lit-shots-how-to-deal-with",
+      "title": "Front lit shots – how to deal with",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/front-lit-shots-how-to-deal-with/#post-216102",
+      "slug": "front-lit-shots-how-to-deal-with",
+      "title": "1 year, 5 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/doubt-lighting-the-church/",
+      "slug": "doubt-lighting-the-church",
+      "title": "Doubt – Lighting the church",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/doubt-lighting-the-church/#post-216101",
+      "slug": "doubt-lighting-the-church",
+      "title": "1 year, 5 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-lighting-a-subject-in-an-akward-position/",
+      "slug": "revolutionary-road-lighting-a-subject-in-an-akward-position",
+      "title": "Revolutionary Road – Lighting a subject in an akward position",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-lighting-a-subject-in-an-akward-position/#post-216050",
+      "slug": "revolutionary-road-lighting-a-subject-in-an-akward-position",
+      "title": "1 year, 5 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-cg-ultra-photorealistic-cg-and-vfx-work/",
+      "slug": "sicario-cg-ultra-photorealistic-cg-and-vfx-work",
+      "title": "Sicario CG ultra photorealistic CG and VFX work",
+      "started_by": "sanghamithran"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-cg-ultra-photorealistic-cg-and-vfx-work/#post-216047",
+      "slug": "sicario-cg-ultra-photorealistic-cg-and-vfx-work",
+      "title": "1 year, 5 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/magic-cloth-how-many-stops/",
+      "slug": "magic-cloth-how-many-stops",
+      "title": "Magic Cloth: How many stops?",
+      "started_by": "tomthain1"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/magic-cloth-how-many-stops/#post-216028",
+      "slug": "magic-cloth-how-many-stops",
+      "title": "1 year, 6 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/ringlight-wiring/",
+      "slug": "ringlight-wiring",
+      "title": "Ringlight wiring",
+      "started_by": "CharlieNix"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/ringlight-wiring/#post-216026",
+      "slug": "ringlight-wiring",
+      "title": "1 year, 6 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/recent-work/",
+      "slug": "recent-work",
+      "title": "Recent work",
+      "started_by": "K V Pavithran"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/recent-work/#post-216023",
+      "slug": "recent-work",
+      "title": "1 year, 6 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-light-eye-light/",
+      "slug": "cove-light-eye-light",
+      "title": "Cove Light, Eye Light",
+      "started_by": "Laurent"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-light-eye-light/#post-216019",
+      "slug": "cove-light-eye-light",
+      "title": "1 year, 6 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221100",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "2 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/br2049-exposure-metering-in-extremely-dark-scene/",
+      "slug": "br2049-exposure-metering-in-extremely-dark-scene",
+      "title": "BR2049 – Exposure Metering in extremely dark scene",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/br2049-exposure-metering-in-extremely-dark-scene/#post-215986",
+      "slug": "br2049-exposure-metering-in-extremely-dark-scene",
+      "title": "1 year, 6 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/shashank-redemption-harsh-lighting/",
+      "slug": "shashank-redemption-harsh-lighting",
+      "title": "Shashank redemption harsh lighting",
+      "started_by": "rama lingam"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/shashank-redemption-harsh-lighting/#post-215979",
+      "slug": "shashank-redemption-harsh-lighting",
+      "title": "1 year, 6 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/",
+      "slug": "meter-reading-on-overcast-days",
+      "title": "Meter reading on overcast days",
+      "started_by": "simon m"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/#post-215975",
+      "slug": "meter-reading-on-overcast-days",
+      "title": "1 year, 6 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-light-a-bottle-attached-in-front-of-the-camera/",
+      "slug": "how-to-light-a-bottle-attached-in-front-of-the-camera",
+      "title": "1 year, 6 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/high-quality-individual-addressable-leds/",
+      "slug": "high-quality-individual-addressable-leds",
+      "title": "1 year, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/corporate-cinematic/",
+      "slug": "corporate-cinematic",
+      "title": "Corporate “cinematic”",
+      "started_by": "Nate"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/corporate-cinematic/#post-215936",
+      "slug": "corporate-cinematic",
+      "title": "1 year, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-emulate-mercury-vapor-with-rgb-led-lights/",
+      "slug": "how-to-emulate-mercury-vapor-with-rgb-led-lights",
+      "title": "How to emulate mercury vapor with (RGB) LED lights?",
+      "started_by": "Stip"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-emulate-mercury-vapor-with-rgb-led-lights/#post-215934",
+      "slug": "how-to-emulate-mercury-vapor-with-rgb-led-lights",
+      "title": "1 year, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-on-small-spaces-and-exposure/",
+      "slug": "practical-lighting-on-small-spaces-and-exposure",
+      "title": "Practical lighting on small spaces and exposure",
+      "started_by": "bernaveu"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/practical-lighting-on-small-spaces-and-exposure/#post-215931",
+      "slug": "practical-lighting-on-small-spaces-and-exposure",
+      "title": "1 year, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/reducing-number-of-lights/",
+      "slug": "reducing-number-of-lights",
+      "title": "1 year, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/happy-birthday/",
+      "slug": "happy-birthday",
+      "title": "1 year, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-look-of-hail-cesar/",
+      "slug": "the-look-of-hail-cesar",
+      "title": "The “Look” of ‘Hail Cesar’",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-look-of-hail-cesar/#post-215885",
+      "slug": "the-look-of-hail-cesar",
+      "title": "1 year, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/desert-chase-at-dawn-scene-in-no-country-for-old-men/",
+      "slug": "desert-chase-at-dawn-scene-in-no-country-for-old-men",
+      "title": "Desert Chase at Dawn scene in No Country for Old Men",
+      "started_by": "gabbysp"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/desert-chase-at-dawn-scene-in-no-country-for-old-men/#post-215883",
+      "slug": "desert-chase-at-dawn-scene-in-no-country-for-old-men",
+      "title": "1 year, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-night-interior-lighting/",
+      "slug": "revolutionary-road-night-interior-lighting",
+      "title": "Revolutionary Road – Night Interior lighting",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-night-interior-lighting/#post-215869",
+      "slug": "revolutionary-road-night-interior-lighting",
+      "title": "1 year, 8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/relationship-between-light-output-and-contrast-in-a-room/",
+      "slug": "relationship-between-light-output-and-contrast-in-a-room",
+      "title": "Relationship between light output and contrast in a room.",
+      "started_by": "Ocon"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/relationship-between-light-output-and-contrast-in-a-room/#post-215868",
+      "slug": "relationship-between-light-output-and-contrast-in-a-room",
+      "title": "1 year, 8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/old-flash-photography-effect/",
+      "slug": "old-flash-photography-effect",
+      "title": "Old Flash Photography Effect",
+      "started_by": "NicolasC"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/old-flash-photography-effect/#post-215852",
+      "slug": "old-flash-photography-effect",
+      "title": "1 year, 8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221100",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "2 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-can-i-light-like-this/",
+      "slug": "how-can-i-light-like-this",
+      "title": "how can i light like this?",
+      "started_by": "Ali Asadi skylow"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-can-i-light-like-this/#post-215842",
+      "slug": "how-can-i-light-like-this",
+      "title": "1 year, 8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/day-for-night-inside/",
+      "slug": "day-for-night-inside",
+      "title": "Day for night inside?",
+      "started_by": "MickGrow"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/day-for-night-inside/#post-215817",
+      "slug": "day-for-night-inside",
+      "title": "1 year, 8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/working-with-the-gaffer/",
+      "slug": "working-with-the-gaffer",
+      "title": "1 year, 8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/continuity-with-haze/",
+      "slug": "continuity-with-haze",
+      "title": "Continuity with Haze",
+      "started_by": "adamsteadi"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/continuity-with-haze/#post-215798",
+      "slug": "continuity-with-haze",
+      "title": "1 year, 8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-mood-and-evoking-an-emotion/",
+      "slug": "lighting-for-mood-and-evoking-an-emotion",
+      "title": "Lighting for mood and evoking an emotion.",
+      "started_by": "mskb"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-mood-and-evoking-an-emotion/#post-215787",
+      "slug": "lighting-for-mood-and-evoking-an-emotion",
+      "title": "1 year, 8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/oldschool-hollywood-lighting-50s-60s/",
+      "slug": "oldschool-hollywood-lighting-50s-60s",
+      "title": "Oldschool Hollywood lighting 50s/60s",
+      "started_by": "jmixon"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/oldschool-hollywood-lighting-50s-60s/#post-215763",
+      "slug": "oldschool-hollywood-lighting-50s-60s",
+      "title": "1 year, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/multiple-lights-batten-lights-elongated-sources-array-of-individual-fixtures/",
+      "slug": "multiple-lights-batten-lights-elongated-sources-array-of-individual-fixtures",
+      "title": "Multiple lights, Batten Lights, elongated sources, array of individual fixtures",
+      "started_by": "Julius"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/multiple-lights-batten-lights-elongated-sources-array-of-individual-fixtures/#post-215762",
+      "slug": "multiple-lights-batten-lights-elongated-sources-array-of-individual-fixtures",
+      "title": "1 year, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/looking-for-good-flashlight-recommendations-for-night-shoot/",
+      "slug": "looking-for-good-flashlight-recommendations-for-night-shoot",
+      "title": "Looking for good flashlight recommendations for night shoot",
+      "started_by": "chrismjones"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/looking-for-good-flashlight-recommendations-for-night-shoot/#post-215759",
+      "slug": "looking-for-good-flashlight-recommendations-for-night-shoot",
+      "title": "1 year, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/post-production/",
+      "slug": "post-production",
+      "title": "post production",
+      "started_by": "Kaptenfisk"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/post-production/#post-215734",
+      "slug": "post-production",
+      "title": "1 year, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/brightness-decisions/",
+      "slug": "brightness-decisions",
+      "title": "Brightness Decisions",
+      "started_by": "Hammeritout"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/brightness-decisions/#post-215728",
+      "slug": "brightness-decisions",
+      "title": "1 year, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/dealing-with-direct-sunlight-in-sicario/",
+      "slug": "dealing-with-direct-sunlight-in-sicario",
+      "title": "Dealing with direct sunlight in Sicario?",
+      "started_by": "andrewdko"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/dealing-with-direct-sunlight-in-sicario/#post-215726",
+      "slug": "dealing-with-direct-sunlight-in-sicario",
+      "title": "1 year, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/documentary-lighting/",
+      "slug": "documentary-lighting",
+      "title": "Documentary Lighting",
+      "started_by": "Fakhriemir07"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/documentary-lighting/#post-215721",
+      "slug": "documentary-lighting",
+      "title": "1 year, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/inverse-square-law-perceptual-contrast/",
+      "slug": "inverse-square-law-perceptual-contrast",
+      "title": "1 year, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-crls-cine-reflect-lighting-system/",
+      "slug": "about-crls-cine-reflect-lighting-system",
+      "title": "1 year, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/unbroken-stunning-night-interior-scene/",
+      "slug": "unbroken-stunning-night-interior-scene",
+      "title": "Unbroken – Stunning night interior scene",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/unbroken-stunning-night-interior-scene/#post-215687",
+      "slug": "unbroken-stunning-night-interior-scene",
+      "title": "1 year, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221100",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "2 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-car-scene-lighting/",
+      "slug": "sicario-car-scene-lighting",
+      "title": "1 year, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/decisive-moments/",
+      "slug": "decisive-moments",
+      "title": "Decisive Moments?",
+      "started_by": "Steven Li"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/decisive-moments/#post-215670",
+      "slug": "decisive-moments",
+      "title": "1 year, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/achieving-natural-bounce-result-in-a-daylight-scenario/",
+      "slug": "achieving-natural-bounce-result-in-a-daylight-scenario",
+      "title": "Achieving “natural” bounce result in a daylight scenario",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/achieving-natural-bounce-result-in-a-daylight-scenario/#post-215667",
+      "slug": "achieving-natural-bounce-result-in-a-daylight-scenario",
+      "title": "1 year, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/with-and-without-color/",
+      "slug": "with-and-without-color",
+      "title": "With and without color",
+      "started_by": "Steven Li"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/with-and-without-color/#post-215658",
+      "slug": "with-and-without-color",
+      "title": "1 year, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-goldfinch-elevator/",
+      "slug": "the-goldfinch-elevator",
+      "title": "The Goldfinch Elevator",
+      "started_by": "rebelo05"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-goldfinch-elevator/#post-215657",
+      "slug": "the-goldfinch-elevator",
+      "title": "1 year, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/are-you-always-thinking-about-shape-when-you-create-images/",
+      "slug": "are-you-always-thinking-about-shape-when-you-create-images",
+      "title": "Are You Always Thinking About Shape When You Create Images?",
+      "started_by": "Leo Gianfagna"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/are-you-always-thinking-about-shape-when-you-create-images/#post-215640",
+      "slug": "are-you-always-thinking-about-shape-when-you-create-images",
+      "title": "1 year, 10 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/need-advice-for-filming-model-cars-more-realistic/",
+      "slug": "need-advice-for-filming-model-cars-more-realistic",
+      "title": "1 year, 10 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/question-about-5219-vision3-500t/",
+      "slug": "question-about-5219-vision3-500t",
+      "title": "Question about 5219 Vision3 500T",
+      "started_by": "JeeBoo"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/question-about-5219-vision3-500t/#post-215625",
+      "slug": "question-about-5219-vision3-500t",
+      "title": "1 year, 10 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-dark-shadows-on-subject/",
+      "slug": "creating-dark-shadows-on-subject",
+      "title": "Creating dark shadows on subject",
+      "started_by": "Joshua Clark"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-dark-shadows-on-subject/#post-215598",
+      "slug": "creating-dark-shadows-on-subject",
+      "title": "1 year, 10 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-low-key-lighting/",
+      "slug": "about-low-key-lighting",
+      "title": "1",
+      "started_by": "LucaM"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-advice-on-reducing-high-key-light-source/",
+      "slug": "lighting-advice-on-reducing-high-key-light-source",
+      "title": "Lighting advice on reducing high key light source",
+      "started_by": "talha_ashraf11"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-advice-on-reducing-high-key-light-source/#post-215572",
+      "slug": "lighting-advice-on-reducing-high-key-light-source",
+      "title": "1 year, 10 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/faking-a-dusk-look-during-daytime/",
+      "slug": "faking-a-dusk-look-during-daytime",
+      "title": "Faking a dusk look, during daytime",
+      "started_by": "aidanbrook"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/faking-a-dusk-look-during-daytime/#post-215536",
+      "slug": "faking-a-dusk-look-during-daytime",
+      "title": "1 year, 11 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/advices-for-an-exterior-scene/",
+      "slug": "advices-for-an-exterior-scene",
+      "title": "Advices for an exterior scene",
+      "started_by": "LucaM"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/advices-for-an-exterior-scene/#post-215516",
+      "slug": "advices-for-an-exterior-scene",
+      "title": "1 year, 11 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-an-overhead-shot-like-this/",
+      "slug": "lighting-an-overhead-shot-like-this",
+      "title": "Lighting an overhead shot like this",
+      "started_by": "tywiththewifi"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-an-overhead-shot-like-this/#post-215515",
+      "slug": "lighting-an-overhead-shot-like-this",
+      "title": "1 year, 11 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/ambiance/",
+      "slug": "ambiance",
+      "title": "Ambiance",
+      "started_by": "Bala"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/ambiance/#post-215510",
+      "slug": "ambiance",
+      "title": "1 year, 11 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221100",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "2 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-approach-for-daytime-interior-in-a-high-rise/",
+      "slug": "lighting-approach-for-daytime-interior-in-a-high-rise",
+      "title": "Lighting Approach for Daytime Interior in a High Rise",
+      "started_by": "ericwann"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-approach-for-daytime-interior-in-a-high-rise/#post-215484",
+      "slug": "lighting-approach-for-daytime-interior-in-a-high-rise",
+      "title": "1 year, 11 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/high-key-lighting-the-commercial-look/",
+      "slug": "high-key-lighting-the-commercial-look",
+      "title": "High Key Lighting/The Commercial Look",
+      "started_by": "HHFischer"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/high-key-lighting-the-commercial-look/#post-215474",
+      "slug": "high-key-lighting-the-commercial-look",
+      "title": "1 year, 12 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-use-of-warm-orange-lighting-and-why/",
+      "slug": "the-use-of-warm-orange-lighting-and-why",
+      "title": "The use of warm orange lighting and why?",
+      "started_by": "georgipickles"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-use-of-warm-orange-lighting-and-why/#post-215441",
+      "slug": "the-use-of-warm-orange-lighting-and-why",
+      "title": "2 years ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/split-tone-look-how-much-to-get-in-camera/",
+      "slug": "split-tone-look-how-much-to-get-in-camera",
+      "title": "split tone look- how much to get in camera?",
+      "started_by": "sea_moth"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/split-tone-look-how-much-to-get-in-camera/#post-215434",
+      "slug": "split-tone-look-how-much-to-get-in-camera",
+      "title": "2 years ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/merry-christmas/",
+      "slug": "merry-christmas",
+      "title": "Merry Christmas",
+      "started_by": "rama lingam"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/merry-christmas/#post-215402",
+      "slug": "merry-christmas",
+      "title": "2 years ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/set-lighting-diffusion-vs-size-of-the-source/",
+      "slug": "set-lighting-diffusion-vs-size-of-the-source",
+      "title": "Set lighting diffusion vs size of the source",
+      "started_by": "rama lingam"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/set-lighting-diffusion-vs-size-of-the-source/#post-215392",
+      "slug": "set-lighting-diffusion-vs-size-of-the-source",
+      "title": "2 years ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/light-strenght/",
+      "slug": "light-strenght",
+      "title": "Light Strenght",
+      "started_by": "BlacksheepPictures"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/light-strenght/#post-215320",
+      "slug": "light-strenght",
+      "title": "2 years, 1 month ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-dark-sequences/",
+      "slug": "lighting-for-dark-sequences",
+      "title": "Lighting for dark sequences",
+      "started_by": "Scottster202"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-for-dark-sequences/#post-215308",
+      "slug": "lighting-for-dark-sequences",
+      "title": "2 years, 1 month ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/considerations-when-lighting-daytime-exteriors/",
+      "slug": "considerations-when-lighting-daytime-exteriors",
+      "title": "Considerations when lighting daytime exteriors",
+      "started_by": "YeahWhiplash"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/considerations-when-lighting-daytime-exteriors/#post-215305",
+      "slug": "considerations-when-lighting-daytime-exteriors",
+      "title": "2 years, 1 month ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-2/",
+      "slug": "lighting-2",
+      "title": "2 years, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio/",
+      "slug": "contrast-ratio",
+      "title": "Contrast ratio",
+      "started_by": "LucaM"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio/#post-215259",
+      "slug": "contrast-ratio",
+      "title": "2 years, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/moon-light-for-exterior/",
+      "slug": "moon-light-for-exterior",
+      "title": "1",
+      "started_by": "rama lingam"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/poorman-process-for-night-bus-interior/",
+      "slug": "poorman-process-for-night-bus-interior",
+      "title": "Poorman process for night bus interior",
+      "started_by": "rama lingam"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/poorman-process-for-night-bus-interior/#post-215215",
+      "slug": "poorman-process-for-night-bus-interior",
+      "title": "2 years, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/br2049-green-tint-outside/",
+      "slug": "br2049-green-tint-outside",
+      "title": "BR2049 – Green tint outside",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/br2049-green-tint-outside/#post-215207",
+      "slug": "br2049-green-tint-outside",
+      "title": "2 years, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-diagrams-for-conversation-scene/",
+      "slug": "lighting-diagrams-for-conversation-scene",
+      "title": "Lighting Diagrams for Conversation Scene",
+      "started_by": "tommygreenbeans"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-diagrams-for-conversation-scene/#post-215206",
+      "slug": "lighting-diagrams-for-conversation-scene",
+      "title": "2 years, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221100",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "3 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/prisoners-basement-lighting/",
+      "slug": "prisoners-basement-lighting",
+      "title": "Prisoners basement lighting",
+      "started_by": "JasonMorebees"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/prisoners-basement-lighting/#post-215203",
+      "slug": "prisoners-basement-lighting",
+      "title": "2 years, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/choosing-between-5600-and-3200/",
+      "slug": "choosing-between-5600-and-3200",
+      "title": "Choosing between 5600 and 3200",
+      "started_by": "Omitch"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/choosing-between-5600-and-3200/#post-215170",
+      "slug": "choosing-between-5600-and-3200",
+      "title": "2 years, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/amount-of-light-and-exposure/",
+      "slug": "amount-of-light-and-exposure",
+      "title": "Amount of light and exposure",
+      "started_by": "LucaM"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/amount-of-light-and-exposure/#post-215164",
+      "slug": "amount-of-light-and-exposure",
+      "title": "2 years, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/skyfall-scotland-drive-scene/",
+      "slug": "skyfall-scotland-drive-scene",
+      "title": "Skyfall Scotland drive scene",
+      "started_by": "halfgrain"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/skyfall-scotland-drive-scene/#post-215159",
+      "slug": "skyfall-scotland-drive-scene",
+      "title": "2 years, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/1917-flare-scene-capturing-isolation/",
+      "slug": "1917-flare-scene-capturing-isolation",
+      "title": "1917 Flare Scene + Capturing Isolation",
+      "started_by": "nathan.b"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/1917-flare-scene-capturing-isolation/#post-215150",
+      "slug": "1917-flare-scene-capturing-isolation",
+      "title": "2 years, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/pushing-light-through-windows/",
+      "slug": "pushing-light-through-windows",
+      "title": "Pushing light through windows",
+      "started_by": "halfgrain"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/pushing-light-through-windows/#post-215124",
+      "slug": "pushing-light-through-windows",
+      "title": "2 years, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/led-on-film/",
+      "slug": "led-on-film",
+      "title": "LED on film",
+      "started_by": "iamjoehan"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/led-on-film/#post-215121",
+      "slug": "led-on-film",
+      "title": "2 years, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/night-exterior-lighting/",
+      "slug": "night-exterior-lighting",
+      "title": "Night Exterior Lighting",
+      "started_by": "KiranIngham"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/night-exterior-lighting/#post-215115",
+      "slug": "night-exterior-lighting",
+      "title": "2 years, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/bounce-light-challenges-on-bladerunner-sappers-farm/",
+      "slug": "bounce-light-challenges-on-bladerunner-sappers-farm",
+      "title": "Bounce light challenges on Bladerunner (Sappers Farm)",
+      "started_by": "halfgrain"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/bounce-light-challenges-on-bladerunner-sappers-farm/#post-215107",
+      "slug": "bounce-light-challenges-on-bladerunner-sappers-farm",
+      "title": "2 years, 2 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/outdoor-scenes-with-heavy-fog/",
+      "slug": "outdoor-scenes-with-heavy-fog",
+      "title": "Outdoor scenes with heavy fog",
+      "started_by": "George"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/outdoor-scenes-with-heavy-fog/#post-215073",
+      "slug": "outdoor-scenes-with-heavy-fog",
+      "title": "2 years, 3 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/bathroom-and-club-lighting-questions/",
+      "slug": "bathroom-and-club-lighting-questions",
+      "title": "Bathroom and club lighting questions",
+      "started_by": "yannl"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/bathroom-and-club-lighting-questions/#post-215039",
+      "slug": "bathroom-and-club-lighting-questions",
+      "title": "2 years, 3 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-cafe-scenes/",
+      "slug": "empire-of-light-cafe-scenes",
+      "title": "Empire of Light – Cafè scenes",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-cafe-scenes/#post-215032",
+      "slug": "empire-of-light-cafe-scenes",
+      "title": "2 years, 3 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-dusk-dialogue/",
+      "slug": "empire-of-light-dusk-dialogue",
+      "title": "Empire of Light – Dusk dialogue",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-dusk-dialogue/#post-215015",
+      "slug": "empire-of-light-dusk-dialogue",
+      "title": "2 years, 3 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/feedback-on-lighting-and-composition/",
+      "slug": "feedback-on-lighting-and-composition",
+      "title": "Feedback on lighting and composition",
+      "started_by": "HexNutty"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/feedback-on-lighting-and-composition/#post-214991",
+      "slug": "feedback-on-lighting-and-composition",
+      "title": "2 years, 3 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-trends/",
+      "slug": "lighting-trends",
+      "title": "Lighting Trends",
+      "started_by": "Tyler F"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-trends/#post-214962",
+      "slug": "lighting-trends",
+      "title": "2 years, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221100",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "19 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/phantom-thread-cafe-scene/",
+      "slug": "phantom-thread-cafe-scene",
+      "title": "Phantom Thread Cafe Scene",
+      "started_by": "GianniRanzuglia"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/phantom-thread-cafe-scene/#post-214960",
+      "slug": "phantom-thread-cafe-scene",
+      "title": "2 years, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/planning-to-shoot-a-film/",
+      "slug": "planning-to-shoot-a-film",
+      "title": "2 years, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-relaxation-room/",
+      "slug": "empire-of-light-relaxation-room",
+      "title": "Empire of Light – Relaxation Room",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-relaxation-room/#post-214958",
+      "slug": "empire-of-light-relaxation-room",
+      "title": "2 years, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-contrast-in-a-white-room-when-filming-black-and-white/",
+      "slug": "creating-contrast-in-a-white-room-when-filming-black-and-white",
+      "title": "Creating contrast in a white room when filming black and white",
+      "started_by": "Vigsod"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-contrast-in-a-white-room-when-filming-black-and-white/#post-214946",
+      "slug": "creating-contrast-in-a-white-room-when-filming-black-and-white",
+      "title": "2 years, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/bathroom-and-club-lighting-questions-2/",
+      "slug": "bathroom-and-club-lighting-questions-2",
+      "title": "2 years, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-stephens-house/",
+      "slug": "empire-of-light-stephens-house",
+      "title": "‘Empire of Light’ – Stephen’s House",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-stephens-house/#post-214933",
+      "slug": "empire-of-light-stephens-house",
+      "title": "2 years, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/bathroom-lighting-question/",
+      "slug": "bathroom-lighting-question",
+      "title": "Bathroom Lighting Question",
+      "started_by": "thomasvangool"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/bathroom-lighting-question/#post-214911",
+      "slug": "bathroom-lighting-question",
+      "title": "2 years, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/differentiating-morning-afternoon-evening-lighting/",
+      "slug": "differentiating-morning-afternoon-evening-lighting",
+      "title": "Differentiating Morning/Afternoon/Evening Lighting",
+      "started_by": "jomosadler"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/differentiating-morning-afternoon-evening-lighting/#post-214908",
+      "slug": "differentiating-morning-afternoon-evening-lighting",
+      "title": "2 years, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/is-the-craft-of-lighting-black-and-white-different-from-color/",
+      "slug": "is-the-craft-of-lighting-black-and-white-different-from-color",
+      "title": "Is the craft of lighting black and white different from color?",
+      "started_by": "Vigsod"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/is-the-craft-of-lighting-black-and-white-different-from-color/#post-214906",
+      "slug": "is-the-craft-of-lighting-black-and-white-different-from-color",
+      "title": "2 years, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/questions-to-ask-to-prepare/",
+      "slug": "questions-to-ask-to-prepare",
+      "title": "2 years, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/consistent-window-light-as-a-source/",
+      "slug": "consistent-window-light-as-a-source",
+      "title": "2 years, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-limits-of-only-using-practicals/",
+      "slug": "the-limits-of-only-using-practicals",
+      "title": "The limits of only using practicals?",
+      "started_by": "Davinki"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-limits-of-only-using-practicals/#post-214860",
+      "slug": "the-limits-of-only-using-practicals",
+      "title": "2 years, 4 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/james-scares-me-when-she-talks-about-sloppy-exposure/",
+      "slug": "james-scares-me-when-she-talks-about-sloppy-exposure",
+      "title": "James scares me when she talks about sloppy exposure",
+      "started_by": "tjwilson"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/james-scares-me-when-she-talks-about-sloppy-exposure/#post-214832",
+      "slug": "james-scares-me-when-she-talks-about-sloppy-exposure",
+      "title": "2 years, 5 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/natural-available-light/",
+      "slug": "natural-available-light",
+      "title": "Natural & available light",
+      "started_by": "keited24"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/natural-available-light/#post-214831",
+      "slug": "natural-available-light",
+      "title": "2 years, 5 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-daytime-interior/",
+      "slug": "lighting-daytime-interior",
+      "title": "Lighting Daytime Interior",
+      "started_by": "jomosadler"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-daytime-interior/#post-214830",
+      "slug": "lighting-daytime-interior",
+      "title": "2 years, 5 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221100",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "19 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+      "slug": "cove-lightning",
+      "title": "1",
+      "started_by": "Laurent"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-hitman-scene/",
+      "slug": "sicario-hitman-scene",
+      "title": "Sicario hitman scene",
+      "started_by": "GianniRanzuglia"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-hitman-scene/#post-214796",
+      "slug": "sicario-hitman-scene",
+      "title": "2 years, 5 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/rigging-tube-lights-to-concrete-wall/",
+      "slug": "rigging-tube-lights-to-concrete-wall",
+      "title": "Rigging tube lights to concrete wall",
+      "started_by": "bradvir"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/rigging-tube-lights-to-concrete-wall/#post-214770",
+      "slug": "rigging-tube-lights-to-concrete-wall",
+      "title": "2 years, 5 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/mixing-warm-and-cool-leds-on-empire-boardwalk-night-scene/",
+      "slug": "mixing-warm-and-cool-leds-on-empire-boardwalk-night-scene",
+      "title": "Mixing warm and cool LEDs on Empire boardwalk night scene",
+      "started_by": "orsini1138"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/mixing-warm-and-cool-leds-on-empire-boardwalk-night-scene/#post-214720",
+      "slug": "mixing-warm-and-cool-leds-on-empire-boardwalk-night-scene",
+      "title": "2 years, 5 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-dark-space-for-tv-cont/",
+      "slug": "lighting-dark-space-for-tv-cont",
+      "title": "Lighting dark space for TV cont",
+      "started_by": "CamillaSH"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-dark-space-for-tv-cont/#post-214704",
+      "slug": "lighting-dark-space-for-tv-cont",
+      "title": "2 years, 6 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-reflection-of-our-profession/",
+      "slug": "a-reflection-of-our-profession",
+      "title": "A reflection of our profession.",
+      "started_by": "bcortesl"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-reflection-of-our-profession/#post-214700",
+      "slug": "a-reflection-of-our-profession",
+      "title": "2 years, 6 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-set-exposure-for-an-explosion/",
+      "slug": "how-to-set-exposure-for-an-explosion",
+      "title": "How to set exposure for an explosion?",
+      "started_by": "nirbhay.kuppu"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-set-exposure-for-an-explosion/#post-214696",
+      "slug": "how-to-set-exposure-for-an-explosion",
+      "title": "2 years, 6 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting/",
+      "slug": "lighting",
+      "title": "Lighting",
+      "started_by": "Julius"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting/#post-214673",
+      "slug": "lighting",
+      "title": "2 years, 6 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-consistent-lighting-philosophy/",
+      "slug": "creating-consistent-lighting-philosophy",
+      "title": "2 years, 6 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/aggressive-color/",
+      "slug": "aggressive-color",
+      "title": "Aggressive Color",
+      "started_by": "cobfilms"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/aggressive-color/#post-214607",
+      "slug": "aggressive-color",
+      "title": "2 years, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/true-grit-courtroom-ceiling-rig/",
+      "slug": "true-grit-courtroom-ceiling-rig",
+      "title": "‘True Grit’ – Courtroom – Ceiling rig",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/true-grit-courtroom-ceiling-rig/#post-214602",
+      "slug": "true-grit-courtroom-ceiling-rig",
+      "title": "2 years, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-a-high-school-library-with-limited-resources/",
+      "slug": "lighting-a-high-school-library-with-limited-resources",
+      "title": "Lighting a High School Library with Limited Resources!",
+      "started_by": "vaughan_dop"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-a-high-school-library-with-limited-resources/#post-214601",
+      "slug": "lighting-a-high-school-library-with-limited-resources",
+      "title": "2 years, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-red-vs-red-filter/",
+      "slug": "lighting-red-vs-red-filter",
+      "title": "Lighting Red vs Red Filter",
+      "started_by": "TheodorAdam"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-red-vs-red-filter/#post-214584",
+      "slug": "lighting-red-vs-red-filter",
+      "title": "2 years, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/black-and-white-16mm/",
+      "slug": "black-and-white-16mm",
+      "title": "2 years, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-ratios/",
+      "slug": "lighting-ratios",
+      "title": "Lighting Ratios",
+      "started_by": "Mustafa Irshaid"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-ratios/#post-214561",
+      "slug": "lighting-ratios",
+      "title": "2 years, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221100",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "19 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/necessary-for-light-meter/",
+      "slug": "necessary-for-light-meter",
+      "title": "Necessary for Light Meter?",
+      "started_by": "jeff791107"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/necessary-for-light-meter/#post-214531",
+      "slug": "necessary-for-light-meter",
+      "title": "2 years, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/happy-birthday-maestro-sir-roger/",
+      "slug": "happy-birthday-maestro-sir-roger",
+      "title": "2 years, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/consistent-look-with-different-set-ups/",
+      "slug": "consistent-look-with-different-set-ups",
+      "title": "consistent look with different set ups",
+      "started_by": "cruz1"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/consistent-look-with-different-set-ups/#post-214525",
+      "slug": "consistent-look-with-different-set-ups",
+      "title": "2 years, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-future-of-lighting-control/",
+      "slug": "the-future-of-lighting-control",
+      "title": "The future of lighting control",
+      "started_by": "TinTin.Wang"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-future-of-lighting-control/#post-214509",
+      "slug": "the-future-of-lighting-control",
+      "title": "2 years, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/green-cast-when-lighting-through-windows/",
+      "slug": "green-cast-when-lighting-through-windows",
+      "title": "Green Cast When Lighting Through Windows",
+      "started_by": "gcconnelly"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/green-cast-when-lighting-through-windows/#post-214508",
+      "slug": "green-cast-when-lighting-through-windows",
+      "title": "2 years, 7 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/true-grit-close-up-moonlight/",
+      "slug": "true-grit-close-up-moonlight",
+      "title": "2 years, 8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/will-a-redhead-equivalent-through-a-lantern-softbox-be-enough-to-supplement-dayl/",
+      "slug": "will-a-redhead-equivalent-through-a-lantern-softbox-be-enough-to-supplement-dayl",
+      "title": "Will a redhead equivalent through a lantern softbox be enough to supplement dayl",
+      "started_by": "Davinki"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/will-a-redhead-equivalent-through-a-lantern-softbox-be-enough-to-supplement-dayl/#post-212178",
+      "slug": "will-a-redhead-equivalent-through-a-lantern-softbox-be-enough-to-supplement-dayl",
+      "title": "2 years, 8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/simplicity-in-lighting/",
+      "slug": "simplicity-in-lighting",
+      "title": "2 years, 8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-app-do-you-guys-use-now-that-dark-sky-doesnt-exist/",
+      "slug": "what-app-do-you-guys-use-now-that-dark-sky-doesnt-exist",
+      "title": "2 years, 8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-color-gels-to-achieve-the-teal-blue-moonlight-of-true-grit-no-country/",
+      "slug": "what-color-gels-to-achieve-the-teal-blue-moonlight-of-true-grit-no-country",
+      "title": "What color gels to achieve the teal-blue moonlight of True Grit / No Country",
+      "started_by": "umbrella"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-color-gels-to-achieve-the-teal-blue-moonlight-of-true-grit-no-country/#post-211105",
+      "slug": "what-color-gels-to-achieve-the-teal-blue-moonlight-of-true-grit-no-country",
+      "title": "2 years, 8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-tight-tricky-location-to-light/",
+      "slug": "empire-of-light-tight-tricky-location-to-light",
+      "title": "Empire of Light – Tight Tricky Location to light",
+      "started_by": "Max A."
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-tight-tricky-location-to-light/#post-209208",
+      "slug": "empire-of-light-tight-tricky-location-to-light",
+      "title": "2 years, 8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-a-black-void/",
+      "slug": "creating-a-black-void",
+      "title": "Creating a Black Void",
+      "started_by": "Jakob Webb"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-a-black-void/#post-208695",
+      "slug": "creating-a-black-void",
+      "title": "2 years, 8 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/ansel-adams-zone-system/",
+      "slug": "ansel-adams-zone-system",
+      "title": "Ansel Adams zone system",
+      "started_by": "rama lingam"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/ansel-adams-zone-system/#post-204430",
+      "slug": "ansel-adams-zone-system",
+      "title": "2 years, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/bathtube-lighting/",
+      "slug": "bathtube-lighting",
+      "title": "Bathtube Lighting",
+      "started_by": "BlacksheepPictures"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/bathtube-lighting/#post-203765",
+      "slug": "bathtube-lighting",
+      "title": "2 years, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/new-looking-at-lighting-page-up/",
+      "slug": "new-looking-at-lighting-page-up",
+      "title": "New “Looking at Lighting” page up",
+      "started_by": "James"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/new-looking-at-lighting-page-up/#post-202801",
+      "slug": "new-looking-at-lighting-page-up",
+      "title": "2 years, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/blue-color-moon-light-vs-peocock-color-moon-light/#post-221100",
+      "slug": "blue-color-moon-light-vs-peocock-color-moon-light",
+      "title": "21 minutes ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own/",
+      "slug": "what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own",
+      "title": "What is a type(s) of lighting equipment you would recommend a dp to own?",
+      "started_by": "Davinki"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own/#post-202221",
+      "slug": "what-is-a-types-of-lighting-equipment-you-would-recommend-a-dp-to-own",
+      "title": "2 years, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/attenuation-of-light/",
+      "slug": "attenuation-of-light",
+      "title": "Attenuation of light",
+      "started_by": "jeff791107"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/attenuation-of-light/#post-201860",
+      "slug": "attenuation-of-light",
+      "title": "2 years, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/1917-tracking-shots-lighting/",
+      "slug": "1917-tracking-shots-lighting",
+      "title": "1917 – Tracking shots lighting",
+      "started_by": "DuncanM"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/1917-tracking-shots-lighting/#post-199804",
+      "slug": "1917-tracking-shots-lighting",
+      "title": "2 years, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-setup-workflow/",
+      "slug": "lighting-setup-workflow",
+      "title": "Lighting setup workflow",
+      "started_by": "jeff791107"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-setup-workflow/#post-199727",
+      "slug": "lighting-setup-workflow",
+      "title": "2 years, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/moon-light-peacock-blue-vs-context/",
+      "slug": "moon-light-peacock-blue-vs-context",
+      "title": "Moon light peacock blue vs context",
+      "started_by": "rama lingam"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/moon-light-peacock-blue-vs-context/#post-199215",
+      "slug": "moon-light-peacock-blue-vs-context",
+      "title": "2 years, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/eol-luna-park-sequence/",
+      "slug": "eol-luna-park-sequence",
+      "title": "2 years, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/building-a-tunnel-of-diffusion/",
+      "slug": "building-a-tunnel-of-diffusion",
+      "title": "Building a tunnel of diffusion",
+      "started_by": "Jakob Webb"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/building-a-tunnel-of-diffusion/#post-197339",
+      "slug": "building-a-tunnel-of-diffusion",
+      "title": "2 years, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-tight-tricky-location-to-light-2/",
+      "slug": "empire-of-light-tight-tricky-location-to-light-2",
+      "title": "2 years, 9 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/diffusion-for-exterior-day-scenes/",
+      "slug": "diffusion-for-exterior-day-scenes",
+      "title": "Diffusion for exterior day scenes",
+      "started_by": "Joshua Clark"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/diffusion-for-exterior-day-scenes/#post-195984",
+      "slug": "diffusion-for-exterior-day-scenes",
+      "title": "2 years, 10 months ago",
+      "started_by": null
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-practical-bare-bulb/",
+      "slug": "empire-of-light-practical-bare-bulb",
+      "title": "Empire of Light – Practical Bare Bulb",
+      "started_by": "Ilambb_"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://rogerdeakins.com/forums/forum/forum/",
+    "scraped_at": "2026-01-15T15:55:03.865846+00:00",
+    "http": {
+      "url": "https://rogerdeakins.com/forums/forum/forum/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b8cba85ae696356f9d949cfc23f346212ace8acf598fb4d4b9256cc6290b693c",
+    "parser_version": "bbpress-v1"
+  }
+}

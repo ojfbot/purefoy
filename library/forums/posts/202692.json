@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "202692",
+    "forum_slug": "camera",
+    "topic_slug": "smoque-1-filter-for-daytime-interiors",
+    "parent_post_id": "202519",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you David!\n“It was convincing about half the time. One problem is that the filter needs a light source to hit it, like a window or a bright highlight, to really see the effect, but when someone passes between the window and the filter, the effect disappears momentarily, which is odd.”\nI think that confirms my concerns. Having to take extra care so it doesn’t behave odd isn’t efficient or worth it.\nI’ll still look into Smoque though because the way you use it on inserts makes a lot of sense, thanks for the tip!",
+  "content_html": "<p>Thank you David!</p>\n<p>“It was convincing about half the time. One problem is that the filter needs a light source to hit it, like a window or a bright highlight, to really see the effect, but when someone passes between the window and the filter, the effect disappears momentarily, which is odd.”</p>\n<p>I think that confirms my concerns. Having to take extra care so it doesn’t behave odd isn’t efficient or worth it.</p>\n<p>I’ll still look into Smoque though because the way you use it on inserts makes a lot of sense, thanks for the tip!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you David!"
+    },
+    {
+      "type": "paragraph",
+      "text": "“It was convincing about half the time. One problem is that the filter needs a light source to hit it, like a window or a bright highlight, to really see the effect, but when someone passes between the window and the filter, the effect disappears momentarily, which is odd.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "I think that confirms my concerns. Having to take extra care so it doesn’t behave odd isn’t efficient or worth it."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ll still look into Smoque though because the way you use it on inserts makes a lot of sense, thanks for the tip!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/smoque-1-filter-for-daytime-interiors/#post-202692",
+    "scraped_at": "2026-01-15T15:42:31.806012+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/smoque-1-filter-for-daytime-interiors/#post-202692",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7533194284dad457a8485a224addf946f7dff8753f2eefefeb99ea6a0a010c0a",
+    "parser_version": "bbpress-v2"
+  }
+}

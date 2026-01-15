@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214770",
+    "forum_slug": "forum",
+    "topic_slug": "rigging-tube-lights-to-concrete-wall",
+    "parent_post_id": "214688",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "sharkbait93",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If you can’t drill the wall I’d get some white gaff, tape down behind the tube taping 2 pieces of steel under the tape. Then grab a couple of ‘1/4″ Neodymium Rubber Coated Pot Magnet’ (search ebay for that, should bring them up) and put those onto the tube to magnetically attach to those bits of steel under the tape.\nEven then you have to be careful, any tape or velcro can fill you with confidence until it doesn’t! If you can ever drill the set for situations like this it’s always best.",
+  "content_html": "<p>If you can’t drill the wall I’d get some white gaff, tape down behind the tube taping 2 pieces of steel under the tape. Then grab a couple of ‘1/4″ Neodymium Rubber Coated Pot Magnet’ (search ebay for that, should bring them up) and put those onto the tube to magnetically attach to those bits of steel under the tape.</p>\n<p>Even then you have to be careful, any tape or velcro can fill you with confidence until it doesn’t! If you can ever drill the set for situations like this it’s always best.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you can’t drill the wall I’d get some white gaff, tape down behind the tube taping 2 pieces of steel under the tape. Then grab a couple of ‘1/4″ Neodymium Rubber Coated Pot Magnet’ (search ebay for that, should bring them up) and put those onto the tube to magnetically attach to those bits of steel under the tape."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even then you have to be careful, any tape or velcro can fill you with confidence until it doesn’t! If you can ever drill the set for situations like this it’s always best."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/rigging-tube-lights-to-concrete-wall/#post-214770",
+    "scraped_at": "2026-01-15T15:51:42.760615+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/rigging-tube-lights-to-concrete-wall/#post-214770",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "23bccae8f9975bf160c692bec624b79675fa6d2bb850a082bdc1e74fcf31d91e",
+    "parser_version": "bbpress-v2"
+  }
+}

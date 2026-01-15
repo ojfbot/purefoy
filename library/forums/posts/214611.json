@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214611",
+    "forum_slug": "team-deakins",
+    "topic_slug": "now-youtube-video-6-17",
+    "parent_post_id": "214606",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "One of the best Q&A with you guys so far, thanks!",
+  "content_html": "<p>One of the best Q&amp;A with you guys so far, thanks!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "One of the best Q&A with you guys so far, thanks!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/now-youtube-video-6-17/#post-214615",
+    "scraped_at": "2026-01-15T13:56:36.935097+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/now-youtube-video-6-17/#post-214615",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "86d9e0636d28cca216e87728adf923e30566358b318719da56b20e3de29cbed2",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215085",
+    "forum_slug": "camera",
+    "topic_slug": "alexa-35",
+    "parent_post_id": "215036",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Sean Buffini",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "So far I like the look of the Alexa 35. I’m very sensitive to noise and it seems to be far cleaner than the ALEV3 sensors in the older Super35 Alexa cameras. You can reintroduce some of that grain with the texture library to return some life to the image, but I’m unsure how often that function will get used vs applying a film scan in post.\nThat said, it’s increasingly apparent that many manufacturers are following a similar path, resulting in a rather homogenous landscape. If you told me Equalizer 3 was shot on the Sony Venice or Panavision DXL, I’d have no problem believing you.",
+  "content_html": "<p>So far I like the look of the Alexa 35. I’m very sensitive to noise and it seems to be far cleaner than the ALEV3 sensors in the older Super35 Alexa cameras. You can reintroduce some of that grain with the texture library to return some life to the image, but I’m unsure how often that function will get used vs applying a film scan in post.</p>\n<p>That said, it’s increasingly apparent that many manufacturers are following a similar path, resulting in a rather homogenous landscape. If you told me Equalizer 3 was shot on the Sony Venice or Panavision DXL, I’d have no problem believing you.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "So far I like the look of the Alexa 35. I’m very sensitive to noise and it seems to be far cleaner than the ALEV3 sensors in the older Super35 Alexa cameras. You can reintroduce some of that grain with the texture library to return some life to the image, but I’m unsure how often that function will get used vs applying a film scan in post."
+    },
+    {
+      "type": "paragraph",
+      "text": "That said, it’s increasingly apparent that many manufacturers are following a similar path, resulting in a rather homogenous landscape. If you told me Equalizer 3 was shot on the Sony Venice or Panavision DXL, I’d have no problem believing you."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/alexa-35/#post-215085",
+    "scraped_at": "2026-01-15T15:23:27.910493+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/alexa-35/#post-215085",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b8b3ae302ef01c51f88f0a5ab280b5f50819cd8e583afe48e2578e2afc501385",
+    "parser_version": "bbpress-v2"
+  }
+}

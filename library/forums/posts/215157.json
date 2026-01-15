@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215157",
+    "forum_slug": "forum",
+    "topic_slug": "contrast-ratio",
+    "parent_post_id": "215132",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’ve never used contrast ratios because that requires some conversion math… but in terms of measuring and noting the shadow level, if that’s done, it’s more about matching coverage. You light the wider shot by eye and create the contrast you want, but sometimes when you start covering a scene, you might take notes on the shadow level versus the key for matching purposes, especially if you are shooting VFX elements for compositing.",
+  "content_html": "<p>I’ve never used contrast ratios because that requires some conversion math… but in terms of measuring and noting the shadow level, if that’s done, it’s more about matching coverage. You light the wider shot by eye and create the contrast you want, but sometimes when you start covering a scene, you might take notes on the shadow level versus the key for matching purposes, especially if you are shooting VFX elements for compositing.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’ve never used contrast ratios because that requires some conversion math… but in terms of measuring and noting the shadow level, if that’s done, it’s more about matching coverage. You light the wider shot by eye and create the contrast you want, but sometimes when you start covering a scene, you might take notes on the shadow level versus the key for matching purposes, especially if you are shooting VFX elements for compositing."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio/#post-215259",
+    "scraped_at": "2026-01-15T15:48:00.002698+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio/#post-215259",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0b84726c98cba154288d0996054c6060248aac157d1aab214e202b9d2b74ba89",
+    "parser_version": "bbpress-v2"
+  }
+}

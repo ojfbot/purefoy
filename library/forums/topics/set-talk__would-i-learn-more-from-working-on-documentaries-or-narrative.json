@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/would-i-learn-more-from-working-on-documentaries-or-narrative/#post-215074",
+  "forum_slug": "set-talk",
+  "topic_slug": "would-i-learn-more-from-working-on-documentaries-or-narrative",
+  "title": "Would I learn more from working on documentaries or narrative?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215065",
+    "215074"
+  ],
+  "reply_tree": {
+    "post_id": "215065",
+    "post_type": "topic",
+    "author": "NarekAghazarian",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215074",
+        "post_type": "reply",
+        "author": "Sean Buffini",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/would-i-learn-more-from-working-on-documentaries-or-narrative/#post-215074",
+    "scraped_at": "2026-01-15T13:16:17.963281+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/would-i-learn-more-from-working-on-documentaries-or-narrative/#post-215074",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "930a2d64f888088b91f9830804a40d27e1545704ae43c0066fb13ddb1fe4b476",
+    "parser_version": "bbpress-v2"
+  }
+}

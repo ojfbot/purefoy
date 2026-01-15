@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216189",
+    "forum_slug": "camera",
+    "topic_slug": "switching-stock-or-not-kodak-5219-500t",
+    "parent_post_id": "216181",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "johandijkstra",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you so much!\nIn some way, I like the idea of sticking to one stock, but I’m unsure about the number of filters I’ll need and the risks that come with it when shooting in full sun during the afternoon. For a twilight scene, 500T is the only choice, right? Is it common to shoot twilight without an 85b filter to gain more stops?",
+  "content_html": "<p>Thank you so much!<br/>\nIn some way, I like the idea of sticking to one stock, but I’m unsure about the number of filters I’ll need and the risks that come with it when shooting in full sun during the afternoon. For a twilight scene, 500T is the only choice, right? Is it common to shoot twilight without an 85b filter to gain more stops?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you so much!\nIn some way, I like the idea of sticking to one stock, but I’m unsure about the number of filters I’ll need and the risks that come with it when shooting in full sun during the afternoon. For a twilight scene, 500T is the only choice, right? Is it common to shoot twilight without an 85b filter to gain more stops?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/switching-stock-or-not-kodak-5219-500t/#post-216189",
+    "scraped_at": "2026-01-15T14:50:52.884245+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/switching-stock-or-not-kodak-5219-500t/#post-216189",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "aa15579315dc2fffb29370ec489d3fa0c808e5fcb5eb284d34160c676af9a8f0",
+    "parser_version": "bbpress-v2"
+  }
+}

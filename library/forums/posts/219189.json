@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "219189",
+    "forum_slug": "team-deakins",
+    "topic_slug": "starting-out-in-cinematography-at-46-advice-welcome",
+    "parent_post_id": "219164",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think it depends on a lot of elements: family (both as time and as financial support), job opportunities in you area, links in the industry and so on . Roger, David and the others here may advice you better than me, but my opinion is that your (and mine and everybody else’s) problem is not actually the age, it is the AI. The real question is for how long cinema (and tv) will still need cinematographers, VFX artists, etc etc, no matter the age. No doubt that established professionals will keep on working (perhaps re-inventing themselves as some kind of AI cinematographers coordinators, like in animation, or i don’t know what their job will become) . But for people starting now i think there will be fewer and fewer opportunities. This doesn’t mean that people won’t do movies in the traditional way (oil painting and clay sculpture still exist today, after all), but i am afraid there will be an ongoing reduction of jobs (and it’s happening yet) . Interesting times for watching, sad times for creating.",
+  "content_html": "<p>I think it depends on a lot of elements: family (both as time and as financial support), job opportunities in you area, links in the industry and so on . Roger, David and the others here may advice you better than me, but my opinion is that your (and mine and everybody else’s) problem is not actually the age, it is the AI. The real question is for how long cinema (and tv) will still need cinematographers, VFX artists, etc etc, no matter the age. No doubt that established professionals will keep on working (perhaps re-inventing themselves as some kind of AI cinematographers coordinators, like in animation, or i don’t know what their job will become) . But for people starting now i think there will be fewer and fewer opportunities. This doesn’t mean that people won’t do movies in the traditional way (oil painting and clay sculpture still exist today, after all), but i am afraid there will be an ongoing reduction of jobs (and it’s happening yet) . Interesting times for watching, sad times for creating.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think it depends on a lot of elements: family (both as time and as financial support), job opportunities in you area, links in the industry and so on . Roger, David and the others here may advice you better than me, but my opinion is that your (and mine and everybody else’s) problem is not actually the age, it is the AI. The real question is for how long cinema (and tv) will still need cinematographers, VFX artists, etc etc, no matter the age. No doubt that established professionals will keep on working (perhaps re-inventing themselves as some kind of AI cinematographers coordinators, like in animation, or i don’t know what their job will become) . But for people starting now i think there will be fewer and fewer opportunities. This doesn’t mean that people won’t do movies in the traditional way (oil painting and clay sculpture still exist today, after all), but i am afraid there will be an ongoing reduction of jobs (and it’s happening yet) . Interesting times for watching, sad times for creating."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/starting-out-in-cinematography-at-46-advice-welcome/#post-219345",
+    "scraped_at": "2026-01-15T12:26:25.612049+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/starting-out-in-cinematography-at-46-advice-welcome/#post-219345",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6f98489254af552bc9fba2e0e9702540713bba0731bb12065aa5c549d16274cb",
+    "parser_version": "bbpress-v2"
+  }
+}

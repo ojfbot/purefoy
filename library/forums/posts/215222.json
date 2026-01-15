@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "215222",
+    "forum_slug": "set-talk",
+    "topic_slug": "storyboarding-with-locations-in-mind"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "jomosadler",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Mr. Deakins and everyone on the forum,\nI don’t know if this question would be under this category in the forum but I was curious your process of storyboarding with locations in mind.\nWhen you and the director decide to storyboard a project, do you think about a location that is in your head and draw that out in the storyboards, OR do you location scout and draw the storyboards based off of the location?\nI feel that storyboarding with the ideal location in your head restricts your creativeness later on but that’s just me. Which would you find to be a better process?\nThank you.",
+  "content_html": "<p>Hello Mr. Deakins and everyone on the forum,</p>\n<p>I don’t know if this question would be under this category in the forum but I was curious your process of storyboarding with locations in mind.</p>\n<p>When you and the director decide to storyboard a project, do you think about a location that is in your head and draw that out in the storyboards, OR do you location scout and draw the storyboards based off of the location?</p>\n<p>I feel that storyboarding with the ideal location in your head restricts your creativeness later on but that’s just me. Which would you find to be a better process?</p>\n<p>Thank you.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Mr. Deakins and everyone on the forum,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I don’t know if this question would be under this category in the forum but I was curious your process of storyboarding with locations in mind."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you and the director decide to storyboard a project, do you think about a location that is in your head and draw that out in the storyboards, OR do you location scout and draw the storyboards based off of the location?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I feel that storyboarding with the ideal location in your head restricts your creativeness later on but that’s just me. Which would you find to be a better process?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/storyboarding-with-locations-in-mind/#post-216017",
+    "scraped_at": "2026-01-15T12:48:50.850984+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/storyboarding-with-locations-in-mind/#post-216017",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "085c1a45de116b97116d4976d298e6dea307b962d38987c70dd081ef52546f13",
+    "parser_version": "bbpress-v2"
+  }
+}

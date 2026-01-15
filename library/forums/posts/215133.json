@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "215133",
+    "forum_slug": "website-news",
+    "topic_slug": "edit-option-in-the-forum"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I understand it’s not a relevant problem, but i think the forum template could include the usual “edit” function to correct posts once published. Re-reading mines i often find spelling errors (english is not my mother tongue) but i can’t edit them. Not a big issue and It’s Just a suggestion, but I’m a (science) teacher and correcting errors it’s a compulsory behaviour for me, ah ah ah. 😀",
+  "content_html": "<p>I understand it’s not a relevant problem, but i think the forum template could include the usual “edit” function to correct posts once published. Re-reading mines i often find spelling errors (english is not my mother tongue) but i can’t edit them. Not a big issue and It’s Just a suggestion, but I’m a (science) teacher and correcting errors it’s a compulsory behaviour for me, ah ah ah. 😀</p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I understand it’s not a relevant problem, but i think the forum template could include the usual “edit” function to correct posts once published. Re-reading mines i often find spelling errors (english is not my mother tongue) but i can’t edit them. Not a big issue and It’s Just a suggestion, but I’m a (science) teacher and correcting errors it’s a compulsory behaviour for me, ah ah ah. 😀"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/edit-option-in-the-forum/#post-215136",
+    "scraped_at": "2026-01-15T12:42:19.667094+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/edit-option-in-the-forum/#post-215136",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2eff965e5e9efa809818c8102597943b5a3bdd6b773fbbb1cc5aab52f126f317",
+    "parser_version": "bbpress-v2"
+  }
+}

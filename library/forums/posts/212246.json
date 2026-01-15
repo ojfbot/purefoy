@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "212246",
+    "forum_slug": "set-talk",
+    "topic_slug": "education-on-the-more-expensive-things",
+    "parent_post_id": "212118",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Whenever I can, I prepare – you can find overviews and tutorials just about everything on the internet. That at least eases my mind.\nThen, when testing or on set, I usually find that those things turn out to be much less of a mystery than I had feared (there’s also almost always someone who is already familiar and can help).",
+  "content_html": "<p>Whenever I can, I prepare – you can find overviews and tutorials just about everything on the internet. That at least eases my mind.</p>\n<p>Then, when testing or on set, I usually find that those things turn out to be much less of a mystery than I had feared (there’s also almost always someone who is already familiar and can help).</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Whenever I can, I prepare – you can find overviews and tutorials just about everything on the internet. That at least eases my mind."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then, when testing or on set, I usually find that those things turn out to be much less of a mystery than I had feared (there’s also almost always someone who is already familiar and can help)."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/education-on-the-more-expensive-things/#post-212246",
+    "scraped_at": "2026-01-15T13:23:46.163541+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/education-on-the-more-expensive-things/#post-212246",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a1658a32192ceed364f5722d88d5f8768f8b39abac4eac53b256746ab34136cc",
+    "parser_version": "bbpress-v2"
+  }
+}

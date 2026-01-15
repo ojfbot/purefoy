@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216522",
+    "forum_slug": "forum",
+    "topic_slug": "motivated-daylight-with-led-fixtures",
+    "parent_post_id": "216504",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Corran Villalobos",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’ll be shooting in a similar situation in January next year. This is most helpful. Thank you again!",
+  "content_html": "<p>I’ll be shooting in a similar situation in January next year. This is most helpful. Thank you again!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’ll be shooting in a similar situation in January next year. This is most helpful. Thank you again!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/motivated-daylight-with-led-fixtures/#post-216542",
+    "scraped_at": "2026-01-15T15:24:16.160099+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/motivated-daylight-with-led-fixtures/#post-216542",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e6ea9cde2b2ea984d88505b8525981e56cb2243810d60129ebb0c560690e9c31",
+    "parser_version": "bbpress-v2"
+  }
+}

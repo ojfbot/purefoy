@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "215297",
+    "forum_slug": "camera",
+    "topic_slug": "normal-lens-fo-arir-large-format",
+    "parent_post_id": "215293",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "From Wikipedia:\nThe f-number N is given by:\nN = f/D\nwhere f is the focal length, and D is the diameter of the entrance pupil (effective aperture). It is customary to write f-numbers preceded by “f/”, which forms a mathematical expression of the entrance pupil’s diameter in terms of f and N. For example, if a lens’s focal length were 10 mm and its entrance pupil ‘s diameter were 5 mm, the f-number would be 2. This would be expressed as “f/2” in a lens system.\nBut focal length isn’t really a measurement of the physical length of the lens, it’s the distance from the optical center to the sensor plane when the focus is at infinity, and the aperture size is not the measurement of the size of the hole by measuring the back of the lens but is the “effective aperture” size as seen through the front element. So this is why lenses can vary in size even though they might all be a 50mm.\nBut if you put a 50mm lens set to f/2 on cameras with different sized sensors, it’s still f/2 exposure-wise just as if you only had one sized sensor and then cropped in post to smaller areas.",
+  "content_html": "<p>From Wikipedia:</p>\n<p><strong>The f-number N is given by: </strong></p>\n<p><strong>N = f/D</strong></p>\n<p><strong>where f is the focal length, and D is the diameter of the entrance pupil (effective aperture). It is customary to write f-numbers preceded by “f/”, which forms a mathematical expression of the entrance pupil’s diameter in terms of f and N. For example, if a lens’s focal length were 10 mm and its entrance pupil ‘s diameter were 5 mm, the f-number would be 2. This would be expressed as “f/2” in a lens system. </strong></p>\n<p>But focal length isn’t really a measurement of the physical length of the lens, it’s the distance from the optical center to the sensor plane when the focus is at infinity, and the aperture size is not the measurement of the size of the hole by measuring the back of the lens but is the “effective aperture” size as seen through the front element. So this is why lenses can vary in size even though they might all be a 50mm.</p>\n<p>But if you put a 50mm lens set to f/2 on cameras with different sized sensors, it’s still f/2 exposure-wise just as if you only had one sized sensor and then cropped in post to smaller areas.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "From Wikipedia:"
+    },
+    {
+      "type": "paragraph",
+      "text": "The f-number N is given by:"
+    },
+    {
+      "type": "paragraph",
+      "text": "N = f/D"
+    },
+    {
+      "type": "paragraph",
+      "text": "where f is the focal length, and D is the diameter of the entrance pupil (effective aperture). It is customary to write f-numbers preceded by “f/”, which forms a mathematical expression of the entrance pupil’s diameter in terms of f and N. For example, if a lens’s focal length were 10 mm and its entrance pupil ‘s diameter were 5 mm, the f-number would be 2. This would be expressed as “f/2” in a lens system."
+    },
+    {
+      "type": "paragraph",
+      "text": "But focal length isn’t really a measurement of the physical length of the lens, it’s the distance from the optical center to the sensor plane when the focus is at infinity, and the aperture size is not the measurement of the size of the hole by measuring the back of the lens but is the “effective aperture” size as seen through the front element. So this is why lenses can vary in size even though they might all be a 50mm."
+    },
+    {
+      "type": "paragraph",
+      "text": "But if you put a 50mm lens set to f/2 on cameras with different sized sensors, it’s still f/2 exposure-wise just as if you only had one sized sensor and then cropped in post to smaller areas."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/normal-lens-fo-arir-large-format/#post-215297",
+    "scraped_at": "2026-01-15T15:22:24.305538+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/normal-lens-fo-arir-large-format/#post-215297",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bc948ffd66061319b2bd4a43ddee4d7093faf02d66e5e3ce0d8b34567d00f1b8",
+    "parser_version": "bbpress-v2"
+  }
+}

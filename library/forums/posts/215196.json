@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215196",
+    "forum_slug": "team-deakins",
+    "topic_slug": "how-to-be-a-qualified-cinematographer",
+    "parent_post_id": "215193",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Most of us work our way up in budgets so it’s partly a matter of scaling up over time in terms of crew, equipment, schedules, ambition, etc. I shot a dozen short films on my own where I was the entire crew, then I shot over 20 short films in film school with a tiny crew, then I shot over 20 small features before I even joined the union. It’s rare that someone makes a huge leap right at the start. But even if you do, you often have an experienced crew to support you.",
+  "content_html": "<p>Most of us work our way up in budgets so it’s partly a matter of scaling up over time in terms of crew, equipment, schedules, ambition, etc. I shot a dozen short films on my own where I was the entire crew, then I shot over 20 short films in film school with a tiny crew, then I shot over 20 small features before I even joined the union. It’s rare that someone makes a huge leap right at the start. But even if you do, you often have an experienced crew to support you.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Most of us work our way up in budgets so it’s partly a matter of scaling up over time in terms of crew, equipment, schedules, ambition, etc. I shot a dozen short films on my own where I was the entire crew, then I shot over 20 short films in film school with a tiny crew, then I shot over 20 small features before I even joined the union. It’s rare that someone makes a huge leap right at the start. But even if you do, you often have an experienced crew to support you."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-be-a-qualified-cinematographer/#post-215614",
+    "scraped_at": "2026-01-15T13:16:29.137026+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-be-a-qualified-cinematographer/#post-215614",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2c0be50565a676f1912aa145a69292771f934dc64871c81cc801567f5311b2ee",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "218024",
+    "forum_slug": "post",
+    "topic_slug": "subtitles",
+    "parent_post_id": "218022",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m not an expert but i’m a similar situation (mine it’s in italian but i need english subtitles to join some festivals) .  Wheat kind of problems would you like to solve?\nAs far as the technical aspect is concerned, it’s not a difficult process actually, you need to create a written file in which the words corrispond to the timestamps. A bit tedious and time consuming but not that complicated.  You attach that file in the software you are using for post production (i’m doing it in Da Vinci Resolve, for example, and it offers a tool to create subtitles automatically –  but i prefer creating them manually). Usually it’s the same file you have to submit  to festivals, when they request subtitles.\nTo translate the dialogue i’d suggest you to see how movies create subtitles, sometimes i see differences between the subtitle and the dialogue when they are in different languages: the global meaning is respected but not the actual dialogue. I find it a bit annoying, i don’t see the point in changing the script, when the phrase still makes sense in the other language. I hope that helps a little!",
+  "content_html": "<p>I’m not an expert but i’m a similar situation (mine it’s in italian but i need english subtitles to join some festivals) .  Wheat kind of problems would you like to solve?</p>\n<p>As far as the technical aspect is concerned, it’s not a difficult process actually, you need to create a written file in which the words corrispond to the timestamps. A bit tedious and time consuming but not that complicated.  You attach that file in the software you are using for post production (i’m doing it in Da Vinci Resolve, for example, and it offers a tool to create subtitles automatically –  but i prefer creating them manually). Usually it’s the same file you have to submit  to festivals, when they request subtitles.</p>\n<p>To translate the dialogue i’d suggest you to see how movies create subtitles, sometimes i see differences between the subtitle and the dialogue when they are in different languages: the global meaning is respected but not the actual dialogue. I find it a bit annoying, i don’t see the point in changing the script, when the phrase still makes sense in the other language. I hope that helps a little!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m not an expert but i’m a similar situation (mine it’s in italian but i need english subtitles to join some festivals) .  Wheat kind of problems would you like to solve?"
+    },
+    {
+      "type": "paragraph",
+      "text": "As far as the technical aspect is concerned, it’s not a difficult process actually, you need to create a written file in which the words corrispond to the timestamps. A bit tedious and time consuming but not that complicated.  You attach that file in the software you are using for post production (i’m doing it in Da Vinci Resolve, for example, and it offers a tool to create subtitles automatically –  but i prefer creating them manually). Usually it’s the same file you have to submit  to festivals, when they request subtitles."
+    },
+    {
+      "type": "paragraph",
+      "text": "To translate the dialogue i’d suggest you to see how movies create subtitles, sometimes i see differences between the subtitle and the dialogue when they are in different languages: the global meaning is respected but not the actual dialogue. I find it a bit annoying, i don’t see the point in changing the script, when the phrase still makes sense in the other language. I hope that helps a little!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/subtitles/#post-218134",
+    "scraped_at": "2026-01-15T12:08:46.777229+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/subtitles/#post-218134",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "365eecfadd4be7e89baf73dfa2a81c761745b642f49d1770625bd8041e9737ec",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/i-claudious-a-question-of-blocking/",
+  "forum_slug": "film-talk",
+  "topic_slug": "i-claudious-a-question-of-blocking",
+  "title": "I, Claudious: A Question of Blocking",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215218"
+  ],
+  "reply_tree": {
+    "post_id": "215218",
+    "post_type": "topic",
+    "author": "Jett Tessaro",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/i-claudious-a-question-of-blocking/",
+    "scraped_at": "2026-01-15T13:39:55.228626+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/i-claudious-a-question-of-blocking/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bb44dbd0c3e40af2dff8c23ee474926c16e88125ed4fd539678bd6b985e7339e",
+    "parser_version": "bbpress-v2"
+  }
+}

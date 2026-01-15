@@ -1,0 +1,56 @@
+{
+  "ids": {
+    "post_id": "220504",
+    "forum_slug": "forum",
+    "topic_slug": "yellowish-interior-lighting",
+    "parent_post_id": "220496",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I would say both and add set design (see the walls’ colour being closer to Alejandro’s suit than the white of the water tank).\nBut happy to be corrected by Roger.",
+  "content_html": "<p>I would say both and add set design (see the walls’ colour being closer to Alejandro’s suit than the white of the water tank).</p>\n<p>But happy to be corrected by Roger.</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/220504/kl2uzjpy7ewla72ro2gzwnzuw9607ut1.jpg\"/></p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/220504/0nq09laa6c25202wozltyfx4nrg1xmc3.jpg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I would say both and add set design (see the walls’ colour being closer to Alejandro’s suit than the white of the water tank)."
+    },
+    {
+      "type": "paragraph",
+      "text": "But happy to be corrected by Roger."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/220504/kl2uzjpy7ewla72ro2gzwnzuw9607ut1.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/220504/0nq09laa6c25202wozltyfx4nrg1xmc3.jpg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/yellowish-interior-lighting/#post-220505",
+    "scraped_at": "2026-01-15T13:23:47.630115+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/yellowish-interior-lighting/#post-220505",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0d163254e4c52ae009bc4cfcefe3940cd78c805016e9b39f8ec286891a84449b",
+    "parser_version": "bbpress-v2"
+  }
+}

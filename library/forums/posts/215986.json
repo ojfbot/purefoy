@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215986",
+    "forum_slug": "forum",
+    "topic_slug": "br2049-exposure-metering-in-extremely-dark-scene",
+    "parent_post_id": "215966",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks Stip! Yes, that’s my idea, that’s why i think the first Alien Is almost perfect.\nSome could insinuate that I’m actually relying on the darkness to hide the flaws of the cheap setpieces i built and that i’m trying to look smart, but it’s only a despicable lie, of course",
+  "content_html": "<p>Thanks Stip! Yes, that’s my idea, that’s why i think the first Alien Is almost perfect.</p>\n<p> </p>\n<p>Some could insinuate that I’m actually relying on the darkness to hide the flaws of the cheap setpieces i built and that i’m trying to look smart, but it’s only a despicable lie, of course</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks Stip! Yes, that’s my idea, that’s why i think the first Alien Is almost perfect."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some could insinuate that I’m actually relying on the darkness to hide the flaws of the cheap setpieces i built and that i’m trying to look smart, but it’s only a despicable lie, of course"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/br2049-exposure-metering-in-extremely-dark-scene/#post-215986",
+    "scraped_at": "2026-01-15T15:42:50.302982+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/br2049-exposure-metering-in-extremely-dark-scene/#post-215986",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "91274384cb7bde16d252adfed70bb361d19138b2a58f952dfb5f9fa87ee63565",
+    "parser_version": "bbpress-v2"
+  }
+}

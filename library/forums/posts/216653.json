@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216653",
+    "forum_slug": "forum",
+    "topic_slug": "unmotivated-hair-light",
+    "parent_post_id": "216627",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks again David, as always your tips are very useful! I’m planning to use a bit of haze to make visible the beam of light of a torchlight a characters will use at one point, so your tip could be a very interesting idea!\nThe scene won’t be actually very dark (at least not in camera) since i am trying to use a bit more light than necessary to reduce the noise (not overexposing but still  brighter than how it will look after grading) , but above all i’m afraid that with my lack of experience i could mess everything up with a very dark scene, without the freedom to modify things in post.\nThis short it’s actually just a global test (and, i hope, a showreel for fund rising) for a more complex project.   But even the test needed a story, i rewrote it almost 20 times  (i always say that if you must do something, you must do it well, ah ah!) and now i care about the characters i created, i’m trying to tell their story in a decent way. And many people are helping me, i am responsible for the result, so for this first time playing safe seems the best idea.  If i will able to manage to create something vaguely acceptable – i hope so! –  it will be in large part thanks to the tips and teachings by Roger, you and the people here on the forum! : )",
+  "content_html": "<p>Thanks again David, as always your tips are very useful! I’m planning to use a bit of haze to make visible the beam of light of a torchlight a characters will use at one point, so your tip could be a very interesting idea!</p>\n<p>The scene won’t be actually very dark (at least not in camera) since i am trying to use a bit more light than necessary to reduce the noise (not overexposing but still  brighter than how it will look after grading) , but above all i’m afraid that with my lack of experience i could mess everything up with a very dark scene, without the freedom to modify things in post.</p>\n<p>This short it’s actually just a global test (and, i hope, a showreel for fund rising) for a more complex project.   But even the test needed a story, i rewrote it almost 20 times  (i always say that if you must do something, you must do it well, ah ah!) and now i care about the characters i created, i’m trying to tell their story in a decent way. And many people are helping me, i am responsible for the result, so for this first time playing safe seems the best idea.  If i will able to manage to create something vaguely acceptable – i hope so! –  it will be in large part thanks to the tips and teachings by Roger, you and the people here on the forum! : )</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks again David, as always your tips are very useful! I’m planning to use a bit of haze to make visible the beam of light of a torchlight a characters will use at one point, so your tip could be a very interesting idea!"
+    },
+    {
+      "type": "paragraph",
+      "text": "The scene won’t be actually very dark (at least not in camera) since i am trying to use a bit more light than necessary to reduce the noise (not overexposing but still  brighter than how it will look after grading) , but above all i’m afraid that with my lack of experience i could mess everything up with a very dark scene, without the freedom to modify things in post."
+    },
+    {
+      "type": "paragraph",
+      "text": "This short it’s actually just a global test (and, i hope, a showreel for fund rising) for a more complex project.   But even the test needed a story, i rewrote it almost 20 times  (i always say that if you must do something, you must do it well, ah ah!) and now i care about the characters i created, i’m trying to tell their story in a decent way. And many people are helping me, i am responsible for the result, so for this first time playing safe seems the best idea.  If i will able to manage to create something vaguely acceptable – i hope so! –  it will be in large part thanks to the tips and teachings by Roger, you and the people here on the forum! : )"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/unmotivated-hair-light/#post-216653",
+    "scraped_at": "2026-01-15T15:23:52.238812+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/unmotivated-hair-light/#post-216653",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "24280050963ee2edd8b4d667ed5c2e43a87855f89a545501e1b1bceb1dddaa40",
+    "parser_version": "bbpress-v2"
+  }
+}

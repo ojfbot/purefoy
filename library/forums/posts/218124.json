@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218124",
+    "forum_slug": "forum",
+    "topic_slug": "contrast-control-in-wide-angle-lenses",
+    "parent_post_id": "218085",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You generally don’t switch to lighting a wide shot after you’ve lit the close-up — you light the wide shot first, which determines the feeling of the lighting, the direction & softness. Once you go in closer, you can decide how much you can alter what was established in the wide shot.",
+  "content_html": "<p>You generally don’t switch to lighting a wide shot after you’ve lit the close-up — you light the wide shot first, which determines the feeling of the lighting, the direction &amp; softness. Once you go in closer, you can decide how much you can alter what was established in the wide shot.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You generally don’t switch to lighting a wide shot after you’ve lit the close-up — you light the wide shot first, which determines the feeling of the lighting, the direction & softness. Once you go in closer, you can decide how much you can alter what was established in the wide shot."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/contrast-control-in-wide-angle-lenses/#post-218124",
+    "scraped_at": "2026-01-15T15:19:39.062860+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/contrast-control-in-wide-angle-lenses/#post-218124",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f682a10a1420bbf604c61df37b258ae0faf015261e9191c5dea09162dbada8b7",
+    "parser_version": "bbpress-v2"
+  }
+}

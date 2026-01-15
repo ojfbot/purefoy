@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "215240",
+    "forum_slug": "forum",
+    "topic_slug": "moon-light-for-exterior",
+    "parent_post_id": "215213",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Vanniyan,\nHere is the photometric chart of the M40\nI hope this can help.\nI wish you a nice day.\nMax.",
+  "content_html": "<p>Hello Vanniyan,</p>\n<p>Here is the photometric chart of the M40</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215240/mzjf9w30qsvpnr9gixiwtrpcu0t7qupe.png\"/></p>\n<p>I hope this can help.</p>\n<p>I wish you a nice day.<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Vanniyan,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is the photometric chart of the M40"
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope this can help."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a nice day.\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215240/mzjf9w30qsvpnr9gixiwtrpcu0t7qupe.png",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/moon-light-for-exterior/",
+    "scraped_at": "2026-01-15T15:48:03.217104+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/moon-light-for-exterior/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "951351995edb68e9ee6537d5d97deaa11afd11e6ac547c7ff1c6f78d4f4e8027",
+    "parser_version": "bbpress-v2"
+  }
+}

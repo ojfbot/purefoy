@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "218422",
+    "forum_slug": "film-talk",
+    "topic_slug": "looking-for-cinematographer-stephen-murphy-case-of-study-files",
+    "parent_post_id": "215813",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stephenmurphy",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If you email me mailATstephen-murphyDOTcom I can share them with you",
+  "content_html": "<p>If you email me mailATstephen-murphyDOTcom I can share them with you</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you email me mailATstephen-murphyDOTcom I can share them with you"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/looking-for-cinematographer-stephen-murphy-case-of-study-files/#post-218422",
+    "scraped_at": "2026-01-15T12:08:47.969070+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/looking-for-cinematographer-stephen-murphy-case-of-study-files/#post-218422",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6c213f84b105ee484aad43a8be7b57d94ea62672ce53b3b1ea76d00e05b699e2",
+    "parser_version": "bbpress-v2"
+  }
+}

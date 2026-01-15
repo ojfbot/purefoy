@@ -1,0 +1,73 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/projector-poor-mans-process/#post-215009",
+  "forum_slug": "camera",
+  "topic_slug": "projector-poor-mans-process",
+  "title": "Projector ‘poor mans process’",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215001",
+    "215002",
+    "215003",
+    "215006",
+    "215007",
+    "215009"
+  ],
+  "reply_tree": {
+    "post_id": "215001",
+    "post_type": "topic",
+    "author": "Elliot Be",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "215002",
+        "post_type": "reply",
+        "author": "Elliot Be",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215003",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215006",
+        "post_type": "reply",
+        "author": "Elliot Be",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215007",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "215009",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 5,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/projector-poor-mans-process/#post-215009",
+    "scraped_at": "2026-01-15T15:24:03.682432+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/projector-poor-mans-process/#post-215009",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1189a436c5d9a228fbd7769022577a587f01c660fbfc9d429bb38e37e13025df",
+    "parser_version": "bbpress-v2"
+  }
+}

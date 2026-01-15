@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216963",
+    "forum_slug": "camera",
+    "topic_slug": "deep-focus-in-true-grit",
+    "parent_post_id": "216958",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Those three shots were made in camera. The very distant details in the town were added later but nothing of consequence. True Grit was shot on film and these exteriors were exposed at around f 8/11 on the lens, probably a 27mm. Hence the depth of field.",
+  "content_html": "<p>Those three shots were made in camera. The very distant details in the town were added later but nothing of consequence. True Grit was shot on film and these exteriors were exposed at around f 8/11 on the lens, probably a 27mm. Hence the depth of field.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Those three shots were made in camera. The very distant details in the town were added later but nothing of consequence. True Grit was shot on film and these exteriors were exposed at around f 8/11 on the lens, probably a 27mm. Hence the depth of field."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/deep-focus-in-true-grit/#post-216965",
+    "scraped_at": "2026-01-15T13:23:36.541947+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/deep-focus-in-true-grit/#post-216965",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "19160277aa922f0e3ef1297bac4c6b0b50614f158c83e1fc26297e665909f1fc",
+    "parser_version": "bbpress-v2"
+  }
+}

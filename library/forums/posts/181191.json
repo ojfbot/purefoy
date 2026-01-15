@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "181191",
+    "forum_slug": "camera",
+    "topic_slug": "sony-picture-profiles-cine-s-log-hlg-and-noise"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If any of you is a Sony user or anyway has some knowledge about its picture profiles, i’d need some advice! I searched a lot on the web and i’ve found very confusing informations. I know it’s a niche subject but given the number of videos i found about it i’d say it’s a very common problem , i hope of general interest for forum readers…\nWhat i’m struggling to understand, even after a lot of internet research and personal tests, is which profile setting would help me in reducing the noise with poor lights.  From what i’ve read s-log profiles should be avoided in these scenes, requiring a lot of lights, but from my simple tests with my Sony 6400  i found no great difference noise-wise between cine, hlg and slog : with same exposure and lights they seem to produce the same amount of noise.\nEven if i am  a beginner i liked so far the result of color correction i obtained with all the profiles , but the noise is still a problem and before resorting to more lights and ND filters (or noise reduction softwares) i am looking for a better way to use the camera.\nAny advice? Thanks in advance!",
+  "content_html": "<p>If any of you is a Sony user or anyway has some knowledge about its picture profiles, i’d need some advice! I searched a lot on the web and i’ve found very confusing informations. I know it’s a niche subject but given the number of videos i found about it i’d say it’s a very common problem , i hope of general interest for forum readers…</p>\n<p>What i’m struggling to understand, even after a lot of internet research and personal tests, is which profile setting would help me in reducing the noise with poor lights.  From what i’ve read s-log profiles should be avoided in these scenes, requiring a lot of lights, but from my simple tests with my Sony 6400  i found no great difference noise-wise between cine, hlg and slog : with same exposure and lights they seem to produce the same amount of noise.</p>\n<p>Even if i am  a beginner i liked so far the result of color correction i obtained with all the profiles , but the noise is still a problem and before resorting to more lights and ND filters (or noise reduction softwares) i am looking for a better way to use the camera.</p>\n<p>Any advice? Thanks in advance!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If any of you is a Sony user or anyway has some knowledge about its picture profiles, i’d need some advice! I searched a lot on the web and i’ve found very confusing informations. I know it’s a niche subject but given the number of videos i found about it i’d say it’s a very common problem , i hope of general interest for forum readers…"
+    },
+    {
+      "type": "paragraph",
+      "text": "What i’m struggling to understand, even after a lot of internet research and personal tests, is which profile setting would help me in reducing the noise with poor lights.  From what i’ve read s-log profiles should be avoided in these scenes, requiring a lot of lights, but from my simple tests with my Sony 6400  i found no great difference noise-wise between cine, hlg and slog : with same exposure and lights they seem to produce the same amount of noise."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even if i am  a beginner i liked so far the result of color correction i obtained with all the profiles , but the noise is still a problem and before resorting to more lights and ND filters (or noise reduction softwares) i am looking for a better way to use the camera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any advice? Thanks in advance!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sony-picture-profiles-cine-s-log-hlg-and-noise/#post-185601",
+    "scraped_at": "2026-01-15T15:43:52.857206+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sony-picture-profiles-cine-s-log-hlg-and-noise/#post-185601",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "12bc549bab2e1488d956dd21229706d213c554e4b8aef3017efce4ab504c3434",
+    "parser_version": "bbpress-v2"
+  }
+}

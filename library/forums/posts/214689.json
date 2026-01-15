@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214689",
+    "forum_slug": "composition",
+    "topic_slug": "visualizing",
+    "parent_post_id": "181225",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "He answers most (or maybe all?) of these questions in the latest Q&A video on their YouTube channel, e.g. he does not visualize much of a script before having talked to the director about his/her vision.",
+  "content_html": "<p>He answers most (or maybe all?) of these questions in the latest Q&amp;A video on their YouTube channel, e.g. he does not visualize much of a script before having talked to the director about his/her vision.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "He answers most (or maybe all?) of these questions in the latest Q&A video on their YouTube channel, e.g. he does not visualize much of a script before having talked to the director about his/her vision."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/visualizing/#post-214695",
+    "scraped_at": "2026-01-15T13:06:07.647946+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/visualizing/#post-214695",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3609f270e64f18462127cd43799c0bb19d7365ea896e5475fa7facc6ee62c757",
+    "parser_version": "bbpress-v2"
+  }
+}

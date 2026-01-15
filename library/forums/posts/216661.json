@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "216661",
+    "forum_slug": "forum",
+    "topic_slug": "skyfall-ms-apartment-prop-lighting"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "ewejeans",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’ve always liked the ambiance of M’s flat with the table and floor lighting. I especially like the two small table lamps positioned on either side of the fireplace (on the bookcase shelf). Do you recall the make/model of those small table lamps? Looking to source for similar prop lighting. Thank you.",
+  "content_html": "<p>I’ve always liked the ambiance of M’s flat with the table and floor lighting. I especially like the two small table lamps positioned on either side of the fireplace (on the bookcase shelf). Do you recall the make/model of those small table lamps? Looking to source for similar prop lighting. Thank you.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’ve always liked the ambiance of M’s flat with the table and floor lighting. I especially like the two small table lamps positioned on either side of the fireplace (on the bookcase shelf). Do you recall the make/model of those small table lamps? Looking to source for similar prop lighting. Thank you."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/skyfall-ms-apartment-prop-lighting/#post-216686",
+    "scraped_at": "2026-01-15T15:23:33.952812+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/skyfall-ms-apartment-prop-lighting/#post-216686",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "97f1eac63820979070c84fb8bfe40bb57eb71f56bfaeefda654ab0c609c779ed",
+    "parser_version": "bbpress-v2"
+  }
+}

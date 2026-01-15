@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "217908",
+    "forum_slug": "team-deakins/team-deakins-podcast",
+    "topic_slug": "simon-hayes-apr-2-2025"
+  },
+  "author": {
+    "display_name": "#217908",
+    "role": "davidfu"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Participant\nI loved this episode. It gets into the brass tacks of production sound mixing in service of the story and I wish more filmmakers could speak about their craft in eloquent technical terms.",
+  "content_html": "<div class=\"bbp-reply-header\" id=\"post-217908\">\n<div class=\"bbp-meta\">\n<span class=\"bbp-reply-post-date\">April 17, 2025 at 2:08 am</span>\n<a class=\"bbp-reply-permalink\" href=\"https://www.rogerdeakins.com/forums/topic/simon-hayes-apr-2-2025/#post-217908\">#217908</a>\n<span class=\"bbp-admin-links\"></span>\n</div><!-- .bbp-meta -->\n</div> #post-217908 \n<div class=\"loop-item-0 user-id-16922 bbp-parent-forum-169247 bbp-parent-topic-217896 bbp-reply-position-1 odd post-217908 reply type-reply status-publish hentry\">\n<div class=\"bbp-reply-author\">\n<a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/davidfu/\" title=\"View davidfu's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-80 photo\" decoding=\"async\" height=\"80\" loading=\"lazy\" src=\"https://secure.gravatar.com/avatar/8cfe33aef26e955c484444ba75f1c7a5?s=80&amp;d=retro&amp;r=g\" srcset=\"https://secure.gravatar.com/avatar/8cfe33aef26e955c484444ba75f1c7a5?s=160&amp;d=retro&amp;r=g 2x\" width=\"80\"/></span><span class=\"bbp-author-name\">davidfu</span></a><div class=\"bbp-author-role\"><div class=\"\">Participant</div></div>\n<div class=\"tc_display\"><ul></ul></div>\n</div><!-- .bbp-reply-author -->\n<div class=\"bbp-reply-content\">\n<p>I loved this episode. It gets into the brass tacks of production sound mixing in service of the story and I wish more filmmakers could speak about their craft in eloquent technical terms.</p>\n</div><!-- .bbp-reply-content -->\n</div> .reply",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I loved this episode. It gets into the brass tacks of production sound mixing in service of the story and I wish more filmmakers could speak about their craft in eloquent technical terms."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/simon-hayes-apr-2-2025/#post-217908",
+      "text": "#217908",
+      "kind": "external"
+    },
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/davidfu/",
+      "text": "davidfu",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://secure.gravatar.com/avatar/8cfe33aef26e955c484444ba75f1c7a5?s=80&d=retro&r=g",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/simon-hayes-apr-2-2025/#post-217908",
+    "scraped_at": "2026-01-15T09:42:40.718889+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/simon-hayes-apr-2-2025/#post-217908",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "565bc67f8baf1681ab0be02fe6fc2c2dabec0deee795c0448d67ed1c1084d81c",
+    "parser_version": "bbpress-v1"
+  }
+}

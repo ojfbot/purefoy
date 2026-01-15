@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "208757",
+    "forum_slug": "composition",
+    "topic_slug": "if-filmmakers-could-compose-images-like-kurosawa-did",
+    "parent_post_id": "206012",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "While it may be an interesting idea to study the composition of those three great directors it could only be a very limited and personal ‘practical demonstration’ of what constitutes the greatest shots. I will not start a list of what I would consider the ‘greatest shots’ as it would take me far too much time but Sergio Leone? Tarkovsky? Zvyagintsev? …. And in 10 minutes! I wish it were that easy!",
+  "content_html": "<p>While it may be an interesting idea to study the composition of those three great directors it could only be a very limited and personal ‘practical demonstration’ of what constitutes the greatest shots. I will not start a list of what I would consider the ‘greatest shots’ as it would take me far too much time but Sergio Leone? Tarkovsky? Zvyagintsev? …. And in 10 minutes! I wish it were that easy!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "While it may be an interesting idea to study the composition of those three great directors it could only be a very limited and personal ‘practical demonstration’ of what constitutes the greatest shots. I will not start a list of what I would consider the ‘greatest shots’ as it would take me far too much time but Sergio Leone? Tarkovsky? Zvyagintsev? …. And in 10 minutes! I wish it were that easy!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/if-filmmakers-could-compose-images-like-kurosawa-did/#post-208757",
+    "scraped_at": "2026-01-15T13:23:49.313703+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/if-filmmakers-could-compose-images-like-kurosawa-did/#post-208757",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "92bb67ab1d362ea1b0c07b1b95d03443ea77aeb8b7382753a17fcdfe5074b70f",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214575",
+    "forum_slug": "forum",
+    "topic_slug": "how-to-set-exposure-for-an-explosion",
+    "parent_post_id": "214568",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Tyler F",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "A bit of a separate question for David, but when you’re designing a shot like this are you planning well before to set your framing for how the trucks will sit and the characters both in the fore & background? Like this still is incredible…",
+  "content_html": "<p>A bit of a separate question for David, but when you’re designing a shot like this are you planning well before to set your framing for how the trucks will sit and the characters both in the fore &amp; background? Like this still is incredible…</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A bit of a separate question for David, but when you’re designing a shot like this are you planning well before to set your framing for how the trucks will sit and the characters both in the fore & background? Like this still is incredible…"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-to-set-exposure-for-an-explosion/#post-214696",
+    "scraped_at": "2026-01-15T15:52:06.699082+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-to-set-exposure-for-an-explosion/#post-214696",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3024f8232a759666eabe22073e80869bc8af903f3b0e7b75133da3f8baea4e41",
+    "parser_version": "bbpress-v2"
+  }
+}

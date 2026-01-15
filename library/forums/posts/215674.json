@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "215674",
+    "forum_slug": "composition",
+    "topic_slug": "animation-films-composition-and-lighting"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "sanghamithran",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi master Roger, hope you are doing well. Could you please share detailed how and why on these queries.\nFrom your experience working on rango and wall E, could you share how you approached composition/framing and lighting.\nWas it first framed as per storyboard and characters animated for that specific frame or was characters animated and you could choose how to cover the scene later.\nHow and when was lighting done along the process.\n<li style=”text-align: left;”>How judgment of final scene was made, was the renders faster or it was expected to be turn out correct in the render judging by how lighting was imagined to be.",
+  "content_html": "<p>Hi master Roger, hope you are doing well. Could you please share detailed how and why on these queries.</p>\n<ol>\n<li>From your experience working on rango and wall E, could you share how you approached composition/framing and lighting.</li>\n<li>Was it first framed as per storyboard and characters animated for that specific frame or was characters animated and you could choose how to cover the scene later.</li>\n<li>How and when was lighting done along the process.</li>\n<p> \t&lt;li style=”text-align: left;”&gt;How judgment of final scene was made, was the renders faster or it was expected to be turn out correct in the render judging by how lighting was imagined to be.\n</p></ol>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi master Roger, hope you are doing well. Could you please share detailed how and why on these queries."
+    },
+    {
+      "type": "list",
+      "text": "From your experience working on rango and wall E, could you share how you approached composition/framing and lighting.\nWas it first framed as per storyboard and characters animated for that specific frame or was characters animated and you could choose how to cover the scene later.\nHow and when was lighting done along the process.\n<li style=”text-align: left;”>How judgment of final scene was made, was the renders faster or it was expected to be turn out correct in the render judging by how lighting was imagined to be."
+    },
+    {
+      "type": "paragraph",
+      "text": "<li style=”text-align: left;”>How judgment of final scene was made, was the renders faster or it was expected to be turn out correct in the render judging by how lighting was imagined to be."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/animation-films-composition-and-lighting/#post-215764",
+    "scraped_at": "2026-01-15T12:42:18.106757+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/animation-films-composition-and-lighting/#post-215764",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "79b86dd83fcab2f267dfbb01189b01c6fa93522587964ea09a3bfb66867a7504",
+    "parser_version": "bbpress-v2"
+  }
+}

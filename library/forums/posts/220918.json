@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "post_id": "220918",
+    "forum_slug": "forum",
+    "topic_slug": "how-much-of-the-look-is-just-you",
+    "parent_post_id": "220867",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Tyler F",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’d like to think that what you’re seeing is an effect of the specific choices being made. I don’t think that it’s as easy as, “give Jimi Hendrix a different guitar and amplifier and he’ll sound the same”–Like yea, it’ll still sound like Jimi Hendrix, but it’s not exactly what you heard on that record.\nYou know that photographers style because of the format, the lenses, the film stock, the subject matter.\nAnd it’s all the incremental decisions that add up by all the different departments that make for good cinematography as well.\nLastly I might say that cinematography can be heavily influenced by the Director they’re working with. Take Darius Khondji for example. He shot Eddington and Marty Supreme, but you would’ve never guessed it was the same cinematographer. So a cinematographers approach might/will change with different Directors.\nGear does matter to a certain degree. If you need to re-create a hard sun for a building that never faces the sun, it’s going to be VERY difficult to do it with an Aputure 600X or something unless you’re only shooting close-ups or are in a very small room with small windows.\nWork within your limits and use that as a personal challenge. It will scale.",
+  "content_html": "<p>I’d like to think that what you’re seeing is an effect of the specific choices being made. I don’t think that it’s as easy as, “give Jimi Hendrix a different guitar and amplifier and he’ll sound the same”–Like yea, it’ll still sound like Jimi Hendrix, but it’s not exactly what you heard on that record.</p>\n<p>You know that photographers style because of the format, the lenses, the film stock, the subject matter.</p>\n<p>And it’s all the incremental decisions that add up by all the different departments that make for good cinematography as well.</p>\n<p>Lastly I might say that cinematography can be heavily influenced by the Director they’re working with. Take Darius Khondji for example. He shot Eddington and Marty Supreme, but you would’ve never guessed it was the same cinematographer. So a cinematographers approach might/will change with different Directors.</p>\n<p>Gear does matter to a certain degree. If you need to re-create a hard sun for a building that never faces the sun, it’s going to be VERY difficult to do it with an Aputure 600X or something unless you’re only shooting close-ups or are in a very small room with small windows.</p>\n<p>Work within your limits and use that as a personal challenge. It will scale.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’d like to think that what you’re seeing is an effect of the specific choices being made. I don’t think that it’s as easy as, “give Jimi Hendrix a different guitar and amplifier and he’ll sound the same”–Like yea, it’ll still sound like Jimi Hendrix, but it’s not exactly what you heard on that record."
+    },
+    {
+      "type": "paragraph",
+      "text": "You know that photographers style because of the format, the lenses, the film stock, the subject matter."
+    },
+    {
+      "type": "paragraph",
+      "text": "And it’s all the incremental decisions that add up by all the different departments that make for good cinematography as well."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lastly I might say that cinematography can be heavily influenced by the Director they’re working with. Take Darius Khondji for example. He shot Eddington and Marty Supreme, but you would’ve never guessed it was the same cinematographer. So a cinematographers approach might/will change with different Directors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gear does matter to a certain degree. If you need to re-create a hard sun for a building that never faces the sun, it’s going to be VERY difficult to do it with an Aputure 600X or something unless you’re only shooting close-ups or are in a very small room with small windows."
+    },
+    {
+      "type": "paragraph",
+      "text": "Work within your limits and use that as a personal challenge. It will scale."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/how-much-of-the-look-is-just-you/#post-220918",
+    "scraped_at": "2026-01-15T12:48:47.799530+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/how-much-of-the-look-is-just-you/#post-220918",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d1dd28d231cddcbc4d4e457ae9e6351b4fd42f2fe104d69735d6bbe9d56abee2",
+    "parser_version": "bbpress-v2"
+  }
+}

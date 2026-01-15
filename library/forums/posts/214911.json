@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214911",
+    "forum_slug": "forum",
+    "topic_slug": "bathroom-lighting-question",
+    "parent_post_id": "214887",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "thomasvangool",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks to both of you, I appreciate your replies",
+  "content_html": "<p>Thanks to both of you, I appreciate your replies</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks to both of you, I appreciate your replies"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bathroom-lighting-question/#post-214911",
+    "scraped_at": "2026-01-15T15:50:36.857842+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bathroom-lighting-question/#post-214911",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fadd1bf62581b0fad217e7b6035bd90668b11cf20337698e8e70a2b07ba820f0",
+    "parser_version": "bbpress-v2"
+  }
+}

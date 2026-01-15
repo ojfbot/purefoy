@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "post_id": "215033",
+    "forum_slug": "camera",
+    "topic_slug": "different-camera-tint-between-sicario-and-prisoners"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger,\noutside of the obvious color temperature differences of the contrasting environments in ‘Sicario’ and ‘Prisoners’, the camera tint in ‘Sicario’ generally seems to lean a little towards green while in ‘Prisoners’ it seems to lean a little towards magenta.\nAm I just imagining that or do you use green/magenta tint to adjust the look for a certain story?",
+  "content_html": "<p>Dear Roger,</p>\n<p>outside of the obvious color temperature differences of the contrasting environments in ‘Sicario’ and ‘Prisoners’, the camera tint in ‘Sicario’ generally seems to lean a little towards green while in ‘Prisoners’ it seems to lean a little towards magenta.</p>\n<p>Am I just imagining that or do you use green/magenta tint to adjust the look for a certain story?</p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215033/eyf3dpkq5zuzoi61icdt4qa0z357ezw3.jpg\"/></p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215033/upovzd7372qw0kw57ozltnea28wvhq14.jpeg\"/></p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215033/53cbmbhu311ekky7wllm4ls0kkgttg80.jpg\"/></p>\n<p><img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215033/r28zzuwymnpyek7b67fgarq2u1dvxd20.jpeg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "outside of the obvious color temperature differences of the contrasting environments in ‘Sicario’ and ‘Prisoners’, the camera tint in ‘Sicario’ generally seems to lean a little towards green while in ‘Prisoners’ it seems to lean a little towards magenta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Am I just imagining that or do you use green/magenta tint to adjust the look for a certain story?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215033/eyf3dpkq5zuzoi61icdt4qa0z357ezw3.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215033/upovzd7372qw0kw57ozltnea28wvhq14.jpeg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215033/53cbmbhu311ekky7wllm4ls0kkgttg80.jpg",
+      "alt": "",
+      "kind": "image"
+    },
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/215033/r28zzuwymnpyek7b67fgarq2u1dvxd20.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/different-camera-tint-between-sicario-and-prisoners/#post-215072",
+    "scraped_at": "2026-01-15T15:23:33.542060+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/different-camera-tint-between-sicario-and-prisoners/#post-215072",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "086f169a8570b9d80834151a1064a1b8f865ee0c896da6d71653f5721c4c25fb",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215960",
+    "forum_slug": "camera",
+    "topic_slug": "akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train",
+    "parent_post_id": "215916",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Well explained Max.\nLooks like there also is some software stabilization going on that might give it a ‘manipulated’ feel.",
+  "content_html": "<p>Well explained Max.</p>\n<p>Looks like there also is some software stabilization going on that might give it a ‘manipulated’ feel.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Well explained Max."
+    },
+    {
+      "type": "paragraph",
+      "text": "Looks like there also is some software stabilization going on that might give it a ‘manipulated’ feel."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train/#post-215976",
+    "scraped_at": "2026-01-15T15:20:09.295803+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/akiyoshi-kitaoka-illusion-zoom-lens-vs-speed-of-train/#post-215976",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "35e7a8b5e06a8c8ab7940de6b526c8dce36418e794beb447043972bb16ec0781",
+    "parser_version": "bbpress-v2"
+  }
+}

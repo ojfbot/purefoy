@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "175566",
+    "forum_slug": "camera",
+    "topic_slug": "am-i-crazy-for-not-feeling-modern-35mm-film",
+    "parent_post_id": "173046",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Whether film or digital the resulting look depends on the eye behind the work. That is why the ‘film digital’ discussion seems so off the mark to me. If a film  is well shot I can’t tell the difference though some, both small and big budget films, look fake to me and that is not a problem with the technology.",
+  "content_html": "<p>Whether film or digital the resulting look depends on the eye behind the work. That is why the ‘film digital’ discussion seems so off the mark to me. If a film  is well shot I can’t tell the difference though some, both small and big budget films, look fake to me and that is not a problem with the technology.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Whether film or digital the resulting look depends on the eye behind the work. That is why the ‘film digital’ discussion seems so off the mark to me. If a film  is well shot I can’t tell the difference though some, both small and big budget films, look fake to me and that is not a problem with the technology."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/am-i-crazy-for-not-feeling-modern-35mm-film/#post-175975",
+    "scraped_at": "2026-01-15T15:45:11.513046+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/am-i-crazy-for-not-feeling-modern-35mm-film/#post-175975",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bab4a846d8ff479ca12b6884280b4033579044b4b426f97b7b377417af9fcb85",
+    "parser_version": "bbpress-v2"
+  }
+}

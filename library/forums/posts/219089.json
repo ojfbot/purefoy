@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "219089",
+    "forum_slug": "forum",
+    "topic_slug": "blowing-out-the-windows",
+    "parent_post_id": "219088",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Lots of ways to make a window hot or burned-out… you could just light the interior at a level that the exterior view is many stops overexposed.\nOr you could dirty the glass (if there is glass) and hit it with a bright light from outside. Or use a very light diffusion gel like Hampshire Frost, again, hit it with some light.\nA net stretched on a frame outside a window will also help wash-out and blur details. And you can hit the net with light to wash-out the view even more. Or you could just put a frame of white outside the window and light that for a white background.",
+  "content_html": "<p>Lots of ways to make a window hot or burned-out… you could just light the interior at a level that the exterior view is many stops overexposed.</p>\n<p>Or you could dirty the glass (if there is glass) and hit it with a bright light from outside. Or use a very light diffusion gel like Hampshire Frost, again, hit it with some light.</p>\n<p>A net stretched on a frame outside a window will also help wash-out and blur details. And you can hit the net with light to wash-out the view even more. Or you could just put a frame of white outside the window and light that for a white background.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Lots of ways to make a window hot or burned-out… you could just light the interior at a level that the exterior view is many stops overexposed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Or you could dirty the glass (if there is glass) and hit it with a bright light from outside. Or use a very light diffusion gel like Hampshire Frost, again, hit it with some light."
+    },
+    {
+      "type": "paragraph",
+      "text": "A net stretched on a frame outside a window will also help wash-out and blur details. And you can hit the net with light to wash-out the view even more. Or you could just put a frame of white outside the window and light that for a white background."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/blowing-out-the-windows/#post-219111",
+    "scraped_at": "2026-01-15T14:33:33.315780+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/blowing-out-the-windows/#post-219111",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "de35f2eb5e8c961975f8b3d6fc1ec19d64eeb4384d6f1c856f07d4e576ef7745",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/blade-runner-2049-that-was-a-good-shot/#post-216466",
+  "forum_slug": "film-talk",
+  "topic_slug": "blade-runner-2049-that-was-a-good-shot",
+  "title": "Blade Runner 2049, “That was a good shot.”",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216238",
+    "216466"
+  ],
+  "reply_tree": {
+    "post_id": "216238",
+    "post_type": "topic",
+    "author": "evandolsak",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216466",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/blade-runner-2049-that-was-a-good-shot/#post-216466",
+    "scraped_at": "2026-01-15T12:48:50.545975+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/blade-runner-2049-that-was-a-good-shot/#post-216466",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1050d8572b08c4743c4b7c4e84d36403128acdbfd066dfe377e119c035837f3f",
+    "parser_version": "bbpress-v2"
+  }
+}

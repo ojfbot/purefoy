@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "post_id": "215065",
+    "forum_slug": "set-talk",
+    "topic_slug": "would-i-learn-more-from-working-on-documentaries-or-narrative"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "NarekAghazarian",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’ll be attending film school next spring but I’m not sure which pathway I’d want to take if I want to better my cinematography and overall sense of composition and lighting, documentary or narrative film/TV?\nWhile both have their merits, I’m particularly drawn to the precision and controlled environment and nature of narrative filmmaking. On the other hand, I also appreciate the spontaneity and real-life immersion that documentary work offers.\nAny guidance, tips or recommendations anyone can provide regarding the pros and cons of each pathway would be greatly appreciated.",
+  "content_html": "<p>I’ll be attending film school next spring but I’m not sure which pathway I’d want to take if I want to better my cinematography and overall sense of composition and lighting, documentary or narrative film/TV?</p>\n<p>While both have their merits, I’m particularly drawn to the precision and controlled environment and nature of narrative filmmaking. On the other hand, I also appreciate the spontaneity and real-life immersion that documentary work offers.</p>\n<p>Any guidance, tips or recommendations anyone can provide regarding the pros and cons of each pathway would be greatly appreciated.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’ll be attending film school next spring but I’m not sure which pathway I’d want to take if I want to better my cinematography and overall sense of composition and lighting, documentary or narrative film/TV?"
+    },
+    {
+      "type": "paragraph",
+      "text": "While both have their merits, I’m particularly drawn to the precision and controlled environment and nature of narrative filmmaking. On the other hand, I also appreciate the spontaneity and real-life immersion that documentary work offers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any guidance, tips or recommendations anyone can provide regarding the pros and cons of each pathway would be greatly appreciated."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/would-i-learn-more-from-working-on-documentaries-or-narrative/#post-215074",
+    "scraped_at": "2026-01-15T13:16:17.950090+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/would-i-learn-more-from-working-on-documentaries-or-narrative/#post-215074",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "96896596fbec8b04e24f2999c915d9b9aca669bb9bfeae16899876343995cf66",
+    "parser_version": "bbpress-v2"
+  }
+}

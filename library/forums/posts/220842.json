@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220842",
+    "forum_slug": "forum",
+    "topic_slug": "merry-christmas-3",
+    "parent_post_id": "220835",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Merry Christmas and happy new year to everybody! 🙂",
+  "content_html": "<p>Merry Christmas and happy new year to everybody! 🙂</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Merry Christmas and happy new year to everybody! 🙂"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/merry-christmas-3/#post-220872",
+    "scraped_at": "2026-01-15T12:48:55.535555+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/merry-christmas-3/#post-220872",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4afcac9d5ba256b2a41512ee0da10d0f0a0db17b0e38637a232c392f3ddde77c",
+    "parser_version": "bbpress-v2"
+  }
+}

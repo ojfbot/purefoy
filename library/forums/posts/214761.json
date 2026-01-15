@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "214761",
+    "forum_slug": "forum",
+    "topic_slug": "cove-lightning",
+    "parent_post_id": "214633",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Some DPs will use 1/2 CTO to correct daylight windows to have less of a difference with tungsten practicals inside.\nThere were also blue-dipped tungsten photoflood bulbs that were in the mid-4000s in Kelvin — today you could use an RGB LED bulb for some control or a daylight LED bulb if you didn’t want any warmth.\nKeep in mind that the blue of uncorrected daylight is often less saturated than when uncorrected HMIs are used for dim moonlight because daylight is brighter in exposure, which washes out some of the blue color. A bright uncorrected daytime window on 3200K film looks less blue than if you put ND1.2 gel on it, for example, and made it a darker window.",
+  "content_html": "<p>Some DPs will use 1/2 CTO to correct daylight windows to have less of a difference with tungsten practicals inside.</p>\n<p>There were also blue-dipped tungsten photoflood bulbs that were in the mid-4000s in Kelvin — today you could use an RGB LED bulb for some control or a daylight LED bulb if you didn’t want any warmth.</p>\n<p>Keep in mind that the blue of uncorrected daylight is often less saturated than when uncorrected HMIs are used for dim moonlight because daylight is brighter in exposure, which washes out some of the blue color. A bright uncorrected daytime window on 3200K film looks less blue than if you put ND1.2 gel on it, for example, and made it a darker window.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Some DPs will use 1/2 CTO to correct daylight windows to have less of a difference with tungsten practicals inside."
+    },
+    {
+      "type": "paragraph",
+      "text": "There were also blue-dipped tungsten photoflood bulbs that were in the mid-4000s in Kelvin — today you could use an RGB LED bulb for some control or a daylight LED bulb if you didn’t want any warmth."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep in mind that the blue of uncorrected daylight is often less saturated than when uncorrected HMIs are used for dim moonlight because daylight is brighter in exposure, which washes out some of the blue color. A bright uncorrected daytime window on 3200K film looks less blue than if you put ND1.2 gel on it, for example, and made it a darker window."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+    "scraped_at": "2026-01-15T15:51:24.796102+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cove-lightning/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "24ba1cc475c06f64819ae1dc7d295bc1f8964d65bfabb81b634c0327c8bd4237",
+    "parser_version": "bbpress-v2"
+  }
+}

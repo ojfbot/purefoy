@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215206",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-diagrams-for-conversation-scene",
+    "parent_post_id": "215191",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think you have the name of the cinematographer who shot The Master wrong. Mihai Malaimare shot P. J. A’s film.\nThe lighting should reflect the scene and also fit with the location the scene takes place in. Also, I would caution not to copy someone else’s work. Your film is your film not theirs and you don’t learn by copying.",
+  "content_html": "<p>I think you have the name of the cinematographer who shot The Master wrong. Mihai Malaimare shot P. J. A’s film.</p>\n<p>The lighting should reflect the scene and also fit with the location the scene takes place in. Also, I would caution not to copy someone else’s work. Your film is your film not theirs and you don’t learn by copying.</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think you have the name of the cinematographer who shot The Master wrong. Mihai Malaimare shot P. J. A’s film."
+    },
+    {
+      "type": "paragraph",
+      "text": "The lighting should reflect the scene and also fit with the location the scene takes place in. Also, I would caution not to copy someone else’s work. Your film is your film not theirs and you don’t learn by copying."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-diagrams-for-conversation-scene/#post-215206",
+    "scraped_at": "2026-01-15T15:48:25.492432+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-diagrams-for-conversation-scene/#post-215206",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5061feed947a476aa849eb856522bd64cf4b70cd1ddf151bee85a3c6255f76a1",
+    "parser_version": "bbpress-v2"
+  }
+}

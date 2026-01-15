@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "178228",
+    "forum_slug": "camera",
+    "topic_slug": "shot-design-in-prep",
+    "parent_post_id": "177736",
+    "parent_type": "topic",
+    "position": 12
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Frank",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Did the way you worked on ‘The Hurricane’ split the difference at all, was it any worse than blocking on the day?",
+  "content_html": "<p>Did the way you worked on ‘The Hurricane’ split the difference at all, was it any worse than blocking on the day?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Did the way you worked on ‘The Hurricane’ split the difference at all, was it any worse than blocking on the day?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/",
+    "scraped_at": "2026-01-15T15:44:23.532057+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shot-design-in-prep/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "21d03872b35b2031e9a1d7741fe4bcffe94771babb1eccd92bfa332ee944fe7b",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "176319",
+    "forum_slug": "camera",
+    "topic_slug": "raw-compressed-format-red-patent",
+    "parent_post_id": "176198",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "To complement the above, I have a brief on DCT compression using more accurate terminology.\nMany other image and video formats use DCT-based compression and decompression, such as JPEG and MPEG-2. The main idea behind DCT compression is to divide the image into blocks (most commonly of 8 by 8-pixel size) which will be treated separately. Inside each block, the Discrete Cosine Transformation II is applied to obtain a series of coefficients that indicate the contribution of each of the different cosine waves that approximate the original image. These coefficients are divided by the corresponding values of a quantisation table and rounded to the nearest integer. Usually, each standard has a series of different tables which dictate the compression level; this step is where most of the lossy compression is done. Finally, the resulting block is zig-zag scanned, resulting in many sequential zeros being compressed by a Huffman encoder. As the image is converted into Y’CbCr beforehand, compression can be accompanied by chroma subsampling which reduces the bandwidth used for the chroma components, exploiting the human visual system’s lower acuity for colour differentiation compared to luminance.\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>To complement the above, I have a brief on DCT compression using more accurate terminology.</p>\n<p>Many other image and video formats use DCT-based compression and decompression, such as JPEG and MPEG-2. The main idea behind DCT compression is to divide the image into blocks (most commonly of 8 by 8-pixel size) which will be treated separately. Inside each block, the Discrete Cosine Transformation II is applied to obtain a series of coefficients that indicate the contribution of each of the different cosine waves that approximate the original image. These coefficients are divided by the corresponding values of a quantisation table and rounded to the nearest integer. Usually, each standard has a series of different tables which dictate the compression level; this step is where most of the lossy compression is done. Finally, the resulting block is zig-zag scanned, resulting in many sequential zeros being compressed by a Huffman encoder. As the image is converted into Y’CbCr beforehand, compression can be accompanied by chroma subsampling which reduces the bandwidth used for the chroma components, exploiting the human visual system’s lower acuity for colour differentiation compared to luminance.</p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "To complement the above, I have a brief on DCT compression using more accurate terminology."
+    },
+    {
+      "type": "paragraph",
+      "text": "Many other image and video formats use DCT-based compression and decompression, such as JPEG and MPEG-2. The main idea behind DCT compression is to divide the image into blocks (most commonly of 8 by 8-pixel size) which will be treated separately. Inside each block, the Discrete Cosine Transformation II is applied to obtain a series of coefficients that indicate the contribution of each of the different cosine waves that approximate the original image. These coefficients are divided by the corresponding values of a quantisation table and rounded to the nearest integer. Usually, each standard has a series of different tables which dictate the compression level; this step is where most of the lossy compression is done. Finally, the resulting block is zig-zag scanned, resulting in many sequential zeros being compressed by a Huffman encoder. As the image is converted into Y’CbCr beforehand, compression can be accompanied by chroma subsampling which reduces the bandwidth used for the chroma components, exploiting the human visual system’s lower acuity for colour differentiation compared to luminance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/raw-compressed-format-red-patent/#post-176319",
+    "scraped_at": "2026-01-15T15:44:59.780937+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/raw-compressed-format-red-patent/#post-176319",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cf043f79ae84e97bd3c210606b686c40f9d9a3f5aa21b69bc1307d8075f8bdab",
+    "parser_version": "bbpress-v2"
+  }
+}

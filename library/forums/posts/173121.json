@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "173121",
+    "forum_slug": "team-deakins",
+    "topic_slug": "live-youtube-conversation",
+    "parent_post_id": "172882",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Awesome, James!",
+  "content_html": "<p>Awesome, James!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Awesome, James!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/live-youtube-conversation/#post-173126",
+    "scraped_at": "2026-01-15T14:12:58.165565+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/live-youtube-conversation/#post-173126",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "34924ce30048788e468f2b2e75d92ffa1b24a93d8db63e996c4c008baa3cadf4",
+    "parser_version": "bbpress-v2"
+  }
+}

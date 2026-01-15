@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "215877",
+    "forum_slug": "camera",
+    "topic_slug": "high-iso-for-shooting-daylight-exterior",
+    "parent_post_id": "215856",
+    "parent_type": "topic",
+    "position": 12
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "gabj3",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "12-bit ARRIRAW stores no more dynamic range or latitude than 12-bit ProRes.\nBoth use logarithmic encoding to maximize dynamic range.\nHowever, ARRIRAW’s primary advantage lies in its flexibility in post-processing, thanks to its retention of more of the sensor’s original data and metadata.\nThis has zero impact on rating at a higher ISO and retaining more highlight information due to the above-explained process.\nInfinityvision.tv\nGabriel Devereux - Engineer",
+  "content_html": "<p>12-bit ARRIRAW stores no more dynamic range or latitude than 12-bit ProRes.</p>\n<p>Both use logarithmic encoding to maximize dynamic range.</p>\n<p>However, ARRIRAW’s primary advantage lies in its flexibility in post-processing, thanks to its retention of more of the sensor’s original data and metadata.</p>\n<p>This has zero impact on rating at a higher ISO and retaining more highlight information due to the above-explained process.</p>\n<div class=\"bbp-signature\"><p>Infinityvision.tv<br/>\nGabriel Devereux - Engineer</p>\n</div>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "12-bit ARRIRAW stores no more dynamic range or latitude than 12-bit ProRes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both use logarithmic encoding to maximize dynamic range."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, ARRIRAW’s primary advantage lies in its flexibility in post-processing, thanks to its retention of more of the sensor’s original data and metadata."
+    },
+    {
+      "type": "paragraph",
+      "text": "This has zero impact on rating at a higher ISO and retaining more highlight information due to the above-explained process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infinityvision.tv\nGabriel Devereux - Engineer"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/high-iso-for-shooting-daylight-exterior/",
+    "scraped_at": "2026-01-15T15:20:21.254116+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/high-iso-for-shooting-daylight-exterior/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5fd1e1f876fd2fda49acddbb0c8a35d6d05b438225ac94b3ee0b62b883c93a26",
+    "parser_version": "bbpress-v2"
+  }
+}

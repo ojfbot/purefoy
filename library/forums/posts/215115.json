@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215115",
+    "forum_slug": "forum",
+    "topic_slug": "night-exterior-lighting",
+    "parent_post_id": "215113",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Like for any scene you need to consider what you want it to look like and what would motivate the light. A park could have existing lamps on posts or you may want to add some. You may want the scene to play in ‘moonlight’, in which case you may be turning light off rather than adding them.",
+  "content_html": "<p>Like for any scene you need to consider what you want it to look like and what would motivate the light. A park could have existing lamps on posts or you may want to add some. You may want the scene to play in ‘moonlight’, in which case you may be turning light off rather than adding them.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Like for any scene you need to consider what you want it to look like and what would motivate the light. A park could have existing lamps on posts or you may want to add some. You may want the scene to play in ‘moonlight’, in which case you may be turning light off rather than adding them."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/night-exterior-lighting/#post-215115",
+    "scraped_at": "2026-01-15T15:49:15.262012+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/night-exterior-lighting/#post-215115",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "eabcedd9caf340ab7a0de0d685b268cc118fdfac18795b7ee889cbf6b94cc716",
+    "parser_version": "bbpress-v2"
+  }
+}

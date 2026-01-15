@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215362",
+    "forum_slug": "camera",
+    "topic_slug": "multi-camera-coverage-disadvantages",
+    "parent_post_id": "215282",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "i have used double cameras on simple conversations when it is unscripted and I’ve used more than that on numerous scenes when it would be expensive to do a second take. So, I am not against multi camera just don’t think it helps for every scene.",
+  "content_html": "<p>i have used double cameras on simple conversations when it is unscripted and I’ve used more than that on numerous scenes when it would be expensive to do a second take. So, I am not against multi camera just don’t think it helps for every scene.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "i have used double cameras on simple conversations when it is unscripted and I’ve used more than that on numerous scenes when it would be expensive to do a second take. So, I am not against multi camera just don’t think it helps for every scene."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/multi-camera-coverage-disadvantages/#post-215369",
+    "scraped_at": "2026-01-15T15:22:06.405144+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/multi-camera-coverage-disadvantages/#post-215369",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4b3bb2361cf571d6a660a501e9f28be2e3adc04f2a442fc69fa631a3974756a1",
+    "parser_version": "bbpress-v2"
+  }
+}

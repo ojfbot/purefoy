@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "175961",
+    "forum_slug": "set-talk",
+    "topic_slug": "gaining-set-experience",
+    "parent_post_id": "175763",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think you will find in the podcast there are many ways to get into the industry. Film School is not a must and certainly not the best course for everyone. For myself, the National Film School helped me gain some level of confidence.",
+  "content_html": "<p>I think you will find in the podcast there are many ways to get into the industry. Film School is not a must and certainly not the best course for everyone. For myself, the National Film School helped me gain some level of confidence.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think you will find in the podcast there are many ways to get into the industry. Film School is not a must and certainly not the best course for everyone. For myself, the National Film School helped me gain some level of confidence."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/gaining-set-experience/#post-185168",
+    "scraped_at": "2026-01-15T13:39:57.226564+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/gaining-set-experience/#post-185168",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bc50897d6f87907fe4231a544316c0eb59bd1c971bb562066138bb05d2d150ae",
+    "parser_version": "bbpress-v2"
+  }
+}

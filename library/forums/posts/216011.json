@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216011",
+    "forum_slug": "still-photography",
+    "topic_slug": "leica-lenses",
+    "parent_post_id": "215993",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Tyler F",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I think there is a photo floating around somewhere where roger has a Asph. Summicron 35/2 on an M9 digi body. Not saying that’s his ‘favorite’ though…",
+  "content_html": "<p>I think there is a photo floating around somewhere where roger has a Asph. Summicron 35/2 on an M9 digi body. Not saying that’s his ‘favorite’ though…</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think there is a photo floating around somewhere where roger has a Asph. Summicron 35/2 on an M9 digi body. Not saying that’s his ‘favorite’ though…"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/leica-lenses/#post-216011",
+    "scraped_at": "2026-01-15T12:09:21.214099+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/leica-lenses/#post-216011",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "082573b7b4e36d1488fc71ae7c37204de1a9bbee535886c4f6f53e4106755277",
+    "parser_version": "bbpress-v2"
+  }
+}

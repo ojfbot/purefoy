@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215203",
+    "forum_slug": "forum",
+    "topic_slug": "prisoners-basement-lighting",
+    "parent_post_id": "215202",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I used just the flashlight in the basement itself and a warm bounce coming down from above. The camera saw the entire space so there was no way to use anything else, not that I needed it.",
+  "content_html": "<p>I used just the flashlight in the basement itself and a warm bounce coming down from above. The camera saw the entire space so there was no way to use anything else, not that I needed it.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I used just the flashlight in the basement itself and a warm bounce coming down from above. The camera saw the entire space so there was no way to use anything else, not that I needed it."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/prisoners-basement-lighting/#post-215203",
+    "scraped_at": "2026-01-15T15:48:32.967882+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/prisoners-basement-lighting/#post-215203",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "20cb6a33f07be9e2d4fd17c64e1921c25f9d31452bf6105c0d4f5967ffe2a2e8",
+    "parser_version": "bbpress-v2"
+  }
+}

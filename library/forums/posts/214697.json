@@ -1,0 +1,37 @@
+{
+  "ids": {
+    "post_id": "214697",
+    "forum_slug": "team-deakins/byways",
+    "topic_slug": "a-brief-thank-you"
+  },
+  "author": {
+    "display_name": "#214697"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "",
+  "content_html": "<div class=\"bbp-meta\">\n<span class=\"bbp-reply-post-date\">July 6, 2023 at 5:48 pm</span>\n<a class=\"bbp-reply-permalink\" href=\"https://www.rogerdeakins.com/forums/topic/a-brief-thank-you/#post-214697\">#214697</a>\n<span class=\"bbp-admin-links\"></span>\n</div> .bbp-meta",
+  "blocks": [],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/a-brief-thank-you/#post-214697",
+      "text": "#214697",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-brief-thank-you/#post-214697",
+    "scraped_at": "2026-01-15T09:42:46.932012+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-brief-thank-you/#post-214697",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8555f3855d3474c222416b66065c79abbe3735d3a33d8602e0992f6ce4dd6235",
+    "parser_version": "bbpress-v1"
+  }
+}

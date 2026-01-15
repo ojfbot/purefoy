@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "217445",
+    "forum_slug": "forum",
+    "topic_slug": "revolutionary-road-window-shot",
+    "parent_post_id": "217375",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Benja and Mr. Deakins, I wonder If I can ask you some other questions about this shot.\nSpecifically, I would like to ask you if these kinds of shots (like glass reflections) are something storyboarded in pre-production or something that comes from you (or maybe from Sam Mendes on this movie) on the day during the shooting of a scene.\nIn my poor experience, I’m a very meticulous guy about pre-production and shot-list but on set sometimes things call my attention in framing so with the script “in mind” I let some inspiration come to life and present those to the director.\nI write this because this kind of shot, since you don’t light it with an artificial point source, is something that I think has to be planned to have the sun in that specific position to create this kind of quality in her face but also in the building behind.\nEven if I think it is a noon light, this is something that (if storyboarded and planned) has a little window of time to set up and shoot, considering also the other shots of the scene (since it is not a single shot like part of a montage but the end of a previous scene), so in a quite big set with great actors, etc. this can sound “scary” for a cinematographer to miss the moment.\nI apologize for my bad English. I wish you a nice day.\nMax.",
+  "content_html": "<p>Hello Benja and Mr. Deakins, I wonder If I can ask you some other questions about this shot.</p>\n<p>Specifically, I would like to ask you if these kinds of shots (like glass reflections) are something storyboarded in pre-production or something that comes from you (or maybe from Sam Mendes on this movie) on the day during the shooting of a scene.</p>\n<p>In my poor experience, I’m a very meticulous guy about pre-production and shot-list but on set sometimes things call my attention in framing so with the script “in mind” I let some inspiration come to life and present those to the director.<br/>\nI write this because this kind of shot, since you don’t light it with an artificial point source, is something that I think has to be planned to have the sun in that specific position to create this kind of quality in her face but also in the building behind.<br/>\nEven if I think it is a noon light, this is something that (if storyboarded and planned) has a little window of time to set up and shoot, considering also the other shots of the scene (since it is not a single shot like part of a montage but the end of a previous scene), so in a quite big set with great actors, etc. this can sound “scary” for a cinematographer to miss the moment.</p>\n<p>I apologize for my bad English. I wish you a nice day.<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Benja and Mr. Deakins, I wonder If I can ask you some other questions about this shot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Specifically, I would like to ask you if these kinds of shots (like glass reflections) are something storyboarded in pre-production or something that comes from you (or maybe from Sam Mendes on this movie) on the day during the shooting of a scene."
+    },
+    {
+      "type": "paragraph",
+      "text": "In my poor experience, I’m a very meticulous guy about pre-production and shot-list but on set sometimes things call my attention in framing so with the script “in mind” I let some inspiration come to life and present those to the director.\nI write this because this kind of shot, since you don’t light it with an artificial point source, is something that I think has to be planned to have the sun in that specific position to create this kind of quality in her face but also in the building behind.\nEven if I think it is a noon light, this is something that (if storyboarded and planned) has a little window of time to set up and shoot, considering also the other shots of the scene (since it is not a single shot like part of a montage but the end of a previous scene), so in a quite big set with great actors, etc. this can sound “scary” for a cinematographer to miss the moment."
+    },
+    {
+      "type": "paragraph",
+      "text": "I apologize for my bad English. I wish you a nice day.\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-window-shot/#post-217445",
+    "scraped_at": "2026-01-15T15:20:45.546483+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/revolutionary-road-window-shot/#post-217445",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "89a01165d6935d20d837189b73e2d3efd91ffd3b820797bb3faeb1e9000595e5",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "215577",
+    "forum_slug": "camera",
+    "topic_slug": "arri-alexa-35-in-camera-texturing-thesis-survey",
+    "parent_post_id": "215576",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "pbwinters",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Eamonn,\nInteresting.\nI was going to ask Roger and the forum members what they thought of the in-camera textures in the Arri Alexa 35 also. I’ve shot two films on the Arri Alexa 35 just recently and I am about to shoot another. For the first two I didn’t use the texture feature, but on this one, I am going to. I will be happy to do the survey. I look forward to hearing what Roger and others think. I like the textures feature.\nPaul",
+  "content_html": "<p>Hello Eamonn,</p>\n<p>Interesting. </p>\n<p>I was going to ask Roger and the forum members what they thought of the in-camera textures in the Arri Alexa 35 also. I’ve shot two films on the Arri Alexa 35 just recently and I am about to shoot another. For the first two I didn’t use the texture feature, but on this one, I am going to. I will be happy to do the survey. I look forward to hearing what Roger and others think. I like the textures feature.</p>\n<p>Paul</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Eamonn,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Interesting."
+    },
+    {
+      "type": "paragraph",
+      "text": "I was going to ask Roger and the forum members what they thought of the in-camera textures in the Arri Alexa 35 also. I’ve shot two films on the Arri Alexa 35 just recently and I am about to shoot another. For the first two I didn’t use the texture feature, but on this one, I am going to. I will be happy to do the survey. I look forward to hearing what Roger and others think. I like the textures feature."
+    },
+    {
+      "type": "paragraph",
+      "text": "Paul"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/arri-alexa-35-in-camera-texturing-thesis-survey/#post-215583",
+    "scraped_at": "2026-01-15T15:21:48.484336+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/arri-alexa-35-in-camera-texturing-thesis-survey/#post-215583",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4a97a889f5a18d42a01fb1dfeee5452e9bcdd0de8f77c4431e3790a537221783",
+    "parser_version": "bbpress-v2"
+  }
+}

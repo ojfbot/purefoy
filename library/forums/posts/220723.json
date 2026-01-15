@@ -1,0 +1,55 @@
+{
+  "ids": {
+    "post_id": "220723",
+    "forum_slug": "camera",
+    "topic_slug": "bowling-ball-pov-shot-in-the-big-lebowski"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "EraserheadBaby",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello,\nI’m designing a rig for a rolling POV shot, similar to the one in The Big Lebowski. I’m referring to the shot where the camera takes on the POV of the bowling ball as it rolls down the lane. (it’s at the 2:15 mark in this video.  https://m.youtube.com/watch?v=9G9kicC6pTU )\nIf you happen to remember how you were able to rotate the camera 360 degrees without catching the rig in frame, please let me know!!\nThank you so much for your time",
+  "content_html": "<p>Hello,</p>\n<p>I’m designing a rig for a rolling POV shot, similar to the one in The Big Lebowski. I’m referring to the shot where the camera takes on the POV of the bowling ball as it rolls down the lane. (it’s at the 2:15 mark in this video.  https://m.youtube.com/watch?v=9G9kicC6pTU )</p>\n<p>If you happen to remember how you were able to rotate the camera 360 degrees without catching the rig in frame, please let me know!!</p>\n<p>Thank you so much for your time</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m designing a rig for a rolling POV shot, similar to the one in The Big Lebowski. I’m referring to the shot where the camera takes on the POV of the bowling ball as it rolls down the lane. (it’s at the 2:15 mark in this video.  https://m.youtube.com/watch?v=9G9kicC6pTU )"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you happen to remember how you were able to rotate the camera 360 degrees without catching the rig in frame, please let me know!!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you so much for your time"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://m.youtube.com/watch?v=9G9kicC6pTU",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/bowling-ball-pov-shot-in-the-big-lebowski/#post-220913",
+    "scraped_at": "2026-01-15T12:08:12.891410+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/bowling-ball-pov-shot-in-the-big-lebowski/#post-220913",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "67a97526ecc94a6c2aa7e9d749deab316d509011a79a2474b1fa4fdd18fb5726",
+    "parser_version": "bbpress-v2"
+  }
+}

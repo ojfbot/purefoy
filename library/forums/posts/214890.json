@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "214890",
+    "forum_slug": "camera",
+    "topic_slug": "daylight-balanced-film-stocks-for-interiors"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Karchalb",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger has previously written on this forum about how he “timed a cold negative” for The Shawshank Redemption, i.e. shot exteriors on tungsten balanced stocks without an 85 filter and then corrected the color in the timing process. Does anyone on here know any instances of a D.P. doing the opposite, i.e. shooting an interior (non mixed lighting) on a daylight balanced stock without an 80A filter and then correcting the color during timing? If so why might a filmmaker choose to do so?",
+  "content_html": "<p>Roger has previously written on this forum about how he “timed a cold negative” for The Shawshank Redemption, i.e. shot exteriors on tungsten balanced stocks without an 85 filter and then corrected the color in the timing process. Does anyone on here know any instances of a D.P. doing the opposite, i.e. shooting an interior (non mixed lighting) on a daylight balanced stock without an 80A filter and then correcting the color during timing? If so why might a filmmaker choose to do so?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Roger has previously written on this forum about how he “timed a cold negative” for The Shawshank Redemption, i.e. shot exteriors on tungsten balanced stocks without an 85 filter and then corrected the color in the timing process. Does anyone on here know any instances of a D.P. doing the opposite, i.e. shooting an interior (non mixed lighting) on a daylight balanced stock without an 80A filter and then correcting the color during timing? If so why might a filmmaker choose to do so?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/daylight-balanced-film-stocks-for-interiors/#post-214901",
+    "scraped_at": "2026-01-15T15:24:33.754714+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/daylight-balanced-film-stocks-for-interiors/#post-214901",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1303264fed6aed467c702662286f2f91146f1809865083857154adbd76cb3bb0",
+    "parser_version": "bbpress-v2"
+  }
+}

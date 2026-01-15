@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "216205",
+    "forum_slug": "camera",
+    "topic_slug": "look-of-film-in-2024",
+    "parent_post_id": "216197",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Ryan Jackson",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks for your insight David, as always they are second to none and I stand corrected!\nI was under the impression that a modern film photographed on film would simply have the negatives scanned directly on something like an Arriscan and then be inverted and graded in the DI.\n@BHGoddard\n, all good hijak away mate!\nI’m more getting at the differences at least to my eye between two movies, shot on 35mm and released say, one in the 1990’s compared with one released in 2024. I know that the final look will depend on a whole lot more factors than just the capture technology but I figured it would be at least partly down to the different treatment of the footage in post production. A predominately chemical process vs predominately digital. I’m only 23 and never got to experience the practice of cinematography before the digital era so this is the reason for my interest and lack of knowledge in the subject.",
+  "content_html": "<p>Thanks for your insight David, as always they are second to none and I stand corrected!</p>\n<p>I was under the impression that a modern film photographed on film would simply have the negatives scanned directly on something like an Arriscan and then be inverted and graded in the DI.</p>\n<p><a class=\"bbp-user-mention bbp-user-id-96356\" href=\"https://www.rogerdeakins.com/forums/users/bhgoddard/\"><br/>\n@BHGoddard</a>, all good hijak away mate!</p>\n<p>I’m more getting at the differences at least to my eye between two movies, shot on 35mm and released say, one in the 1990’s compared with one released in 2024. I know that the final look will depend on a whole lot more factors than just the capture technology but I figured it would be at least partly down to the different treatment of the footage in post production. A predominately chemical process vs predominately digital. I’m only 23 and never got to experience the practice of cinematography before the digital era so this is the reason for my interest and lack of knowledge in the subject.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks for your insight David, as always they are second to none and I stand corrected!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was under the impression that a modern film photographed on film would simply have the negatives scanned directly on something like an Arriscan and then be inverted and graded in the DI."
+    },
+    {
+      "type": "paragraph",
+      "text": "@BHGoddard\n, all good hijak away mate!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m more getting at the differences at least to my eye between two movies, shot on 35mm and released say, one in the 1990’s compared with one released in 2024. I know that the final look will depend on a whole lot more factors than just the capture technology but I figured it would be at least partly down to the different treatment of the footage in post production. A predominately chemical process vs predominately digital. I’m only 23 and never got to experience the practice of cinematography before the digital era so this is the reason for my interest and lack of knowledge in the subject."
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/bhgoddard/",
+      "text": "@BHGoddard",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+    "scraped_at": "2026-01-15T14:33:45.473324+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/look-of-film-in-2024/#post-216217",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f3a7e640f703fe46dbe5e721283727cce0958bd8ebff4cf65d393bcc00f3766b",
+    "parser_version": "bbpress-v2"
+  }
+}

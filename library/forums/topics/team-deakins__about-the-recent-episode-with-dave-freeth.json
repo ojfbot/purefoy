@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/about-the-recent-episode-with-dave-freeth/#post-219678",
+  "forum_slug": "team-deakins",
+  "topic_slug": "about-the-recent-episode-with-dave-freeth",
+  "title": "About the recent episode with Dave Freeth",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "219652",
+    "219678"
+  ],
+  "reply_tree": {
+    "post_id": "219652",
+    "post_type": "topic",
+    "author": "sanjaya137",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "219678",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/about-the-recent-episode-with-dave-freeth/#post-219678",
+    "scraped_at": "2026-01-15T12:09:22.583818+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/about-the-recent-episode-with-dave-freeth/#post-219678",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b47fd6f1cde3ca2cc47e196983d327136ff1487d2b18c19f949730776a32fc2d",
+    "parser_version": "bbpress-v2"
+  }
+}

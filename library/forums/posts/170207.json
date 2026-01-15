@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "170207",
+    "forum_slug": "post",
+    "topic_slug": "changing-the-cinematographers-exposure-values-in-post",
+    "parent_post_id": "170152",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’d also say it depends. On the scale of the production and the ‘culture’. I’ve had colorists crank up my exposure to ‘see more’ despite killing all of the – clearly intended –  mood. I don’t even know who’s decision it was because in many productions I am out of the process once shooting is done.\nRoger said in this forum that he sits with the colorist through every single shot and overviews the decisions (very minor tweaks in general).",
+  "content_html": "<p>I’d also say it depends. On the scale of the production and the ‘culture’. I’ve had colorists crank up my exposure to ‘see more’ despite killing all of the – clearly intended –  mood. I don’t even know who’s decision it was because in many productions I am out of the process once shooting is done.</p>\n<p>Roger said in this forum that he sits with the colorist through every single shot and overviews the decisions (very minor tweaks in general).</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’d also say it depends. On the scale of the production and the ‘culture’. I’ve had colorists crank up my exposure to ‘see more’ despite killing all of the – clearly intended –  mood. I don’t even know who’s decision it was because in many productions I am out of the process once shooting is done."
+    },
+    {
+      "type": "paragraph",
+      "text": "Roger said in this forum that he sits with the colorist through every single shot and overviews the decisions (very minor tweaks in general)."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/changing-the-cinematographers-exposure-values-in-post/#post-214706",
+    "scraped_at": "2026-01-15T13:16:10.627648+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/changing-the-cinematographers-exposure-values-in-post/#post-214706",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dd28b4fcade882f1e3f448308c7af906dda0a7616b253a208c748ef362ded944",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "220720",
+    "forum_slug": "forum",
+    "topic_slug": "baking-in-look-vs-post-production",
+    "parent_post_id": "220661",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "If you get the look in camera, then why do you need the flexibility to enhance the look in post? You already have the look. There’s nothing wrong with taking advantage of post tools to create a look… but one would hope the primary reason isn’t that you want to be able to change your mind later.  Hedging your bets like that isn’t the most effective way to learn and grow as an artist because you never risk failure.\nEvery technique has its limits so you just have to learn what they are.\nNow of course most cinematographers want\nsome\npost flexibility to deal with sub-optimal things that happen on sets, which is why one shoots raw or log. For example, outdoors changes in weather can shift colors and contrast around, sometimes shot to shot.  It’s one reason (of many) in the past that most filmmakers would rather shoot color negative than color reversal.  Having almost no margin for error can be a bit too challenging on some projects. But on the flip side, a cinematographer is hesitant to hand in footage with no look at all — with maximum flexibility to create any look — and hope that control over that image will be given to them throughout the post chain.\nI think a lot of cinematographers opt for a hybrid approach, creating the look in terms of light and shadow, mood, composition, etc. in camera knowing that it will go through a post color-correction step so recording raw or log to make adjustments easier. Some looks can only be created in post (or by live-grading on set perhaps but you run into time issues then) — like adding film grain, or selectively correcting portions of the frame or halating the blacks, etc. You just have to pick the best methods to create your look — but the hope is that you know that look in advance, not that you’ll figure it out later.",
+  "content_html": "<p>If you get the look in camera, then why do you need the flexibility to enhance the look in post? You already have the look. There’s nothing wrong with taking advantage of post tools to create a look… but one would hope the primary reason isn’t that you want to be able to change your mind later.  Hedging your bets like that isn’t the most effective way to learn and grow as an artist because you never risk failure.</p>\n<p>Every technique has its limits so you just have to learn what they are.</p>\n<p>Now of course most cinematographers want <em>some</em> post flexibility to deal with sub-optimal things that happen on sets, which is why one shoots raw or log. For example, outdoors changes in weather can shift colors and contrast around, sometimes shot to shot.  It’s one reason (of many) in the past that most filmmakers would rather shoot color negative than color reversal.  Having almost no margin for error can be a bit too challenging on some projects. But on the flip side, a cinematographer is hesitant to hand in footage with no look at all — with maximum flexibility to create any look — and hope that control over that image will be given to them throughout the post chain.</p>\n<p>I think a lot of cinematographers opt for a hybrid approach, creating the look in terms of light and shadow, mood, composition, etc. in camera knowing that it will go through a post color-correction step so recording raw or log to make adjustments easier. Some looks can only be created in post (or by live-grading on set perhaps but you run into time issues then) — like adding film grain, or selectively correcting portions of the frame or halating the blacks, etc. You just have to pick the best methods to create your look — but the hope is that you know that look in advance, not that you’ll figure it out later.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you get the look in camera, then why do you need the flexibility to enhance the look in post? You already have the look. There’s nothing wrong with taking advantage of post tools to create a look… but one would hope the primary reason isn’t that you want to be able to change your mind later.  Hedging your bets like that isn’t the most effective way to learn and grow as an artist because you never risk failure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Every technique has its limits so you just have to learn what they are."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now of course most cinematographers want\nsome\npost flexibility to deal with sub-optimal things that happen on sets, which is why one shoots raw or log. For example, outdoors changes in weather can shift colors and contrast around, sometimes shot to shot.  It’s one reason (of many) in the past that most filmmakers would rather shoot color negative than color reversal.  Having almost no margin for error can be a bit too challenging on some projects. But on the flip side, a cinematographer is hesitant to hand in footage with no look at all — with maximum flexibility to create any look — and hope that control over that image will be given to them throughout the post chain."
+    },
+    {
+      "type": "paragraph",
+      "text": "I think a lot of cinematographers opt for a hybrid approach, creating the look in terms of light and shadow, mood, composition, etc. in camera knowing that it will go through a post color-correction step so recording raw or log to make adjustments easier. Some looks can only be created in post (or by live-grading on set perhaps but you run into time issues then) — like adding film grain, or selectively correcting portions of the frame or halating the blacks, etc. You just have to pick the best methods to create your look — but the hope is that you know that look in advance, not that you’ll figure it out later."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/baking-in-look-vs-post-production/#post-220722",
+    "scraped_at": "2026-01-15T13:15:56.120416+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/baking-in-look-vs-post-production/#post-220722",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "268e08835c0a78a5e6ed5abd64cfd6257cc0b14b5df215edac6ad57e4f3ba921",
+    "parser_version": "bbpress-v2"
+  }
+}

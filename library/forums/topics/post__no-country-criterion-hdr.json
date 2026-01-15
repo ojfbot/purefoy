@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/no-country-criterion-hdr/#post-216282",
+  "forum_slug": "post",
+  "topic_slug": "no-country-criterion-hdr",
+  "title": "No Country Criterion HDR",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216272",
+    "216276",
+    "216282"
+  ],
+  "reply_tree": {
+    "post_id": "216272",
+    "post_type": "topic",
+    "author": "Nrm461",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216276",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216282",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/no-country-criterion-hdr/#post-216282",
+    "scraped_at": "2026-01-15T12:26:30.072068+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/no-country-criterion-hdr/#post-216282",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5bbc3b42123ea9616f28327f90351c2d828226ec7b60b9c46bb2ed8083b3f07d",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/skyfall-ms-apartment-prop-lighting/#post-216686",
+  "forum_slug": "forum",
+  "topic_slug": "skyfall-ms-apartment-prop-lighting",
+  "title": "Skyfall – M’s apartment prop lighting",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216661",
+    "216679",
+    "216686"
+  ],
+  "reply_tree": {
+    "post_id": "216661",
+    "post_type": "topic",
+    "author": "ewejeans",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216679",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216686",
+        "post_type": "reply",
+        "author": "LucaM",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 2,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/skyfall-ms-apartment-prop-lighting/#post-216686",
+    "scraped_at": "2026-01-15T15:23:33.965242+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/skyfall-ms-apartment-prop-lighting/#post-216686",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "5acaea53d5a4ab5c0ada82f04586193ced9f7dbaf1b5e7d9868658211bac0e34",
+    "parser_version": "bbpress-v2"
+  }
+}

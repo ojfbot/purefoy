@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/ringlights-considerations/#post-216484",
+  "forum_slug": "forum",
+  "topic_slug": "ringlights-considerations",
+  "title": "Ringlights considerations",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216482",
+    "216484"
+  ],
+  "reply_tree": {
+    "post_id": "216482",
+    "post_type": "topic",
+    "author": "Julius",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216484",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ringlights-considerations/#post-216484",
+    "scraped_at": "2026-01-15T15:24:40.235411+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ringlights-considerations/#post-216484",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d751471de0a03dbcd1f3aa40b9b239bbeba798199ded3fd962837826e411dcfe",
+    "parser_version": "bbpress-v2"
+  }
+}

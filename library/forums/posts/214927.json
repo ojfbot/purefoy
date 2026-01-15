@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214927",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-stephens-house",
+    "parent_post_id": "214923",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Mike",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Have you tried emptying your ‘Cashe’. That can cause uploading issues.",
+  "content_html": "<p>Have you tried emptying your ‘Cashe’. That can cause uploading issues.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Have you tried emptying your ‘Cashe’. That can cause uploading issues."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-stephens-house/#post-214933",
+    "scraped_at": "2026-01-15T15:50:30.362983+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-stephens-house/#post-214933",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "21e0f91c3bd9df88281bcb1ecff0642580f3018d35a766c78baec6c0ff46320e",
+    "parser_version": "bbpress-v2"
+  }
+}

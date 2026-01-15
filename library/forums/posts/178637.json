@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "178637",
+    "forum_slug": "camera",
+    "topic_slug": "master-anamorphics",
+    "parent_post_id": "169631",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Davinki",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Oh, I thought that since the master anamorphics seemed to have solved every issue you have with anamorphic lenses that they would be your first choice but I guess not",
+  "content_html": "<p>Oh, I thought that since the master anamorphics seemed to have solved every issue you have with anamorphic lenses that they would be your first choice but I guess not</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Oh, I thought that since the master anamorphics seemed to have solved every issue you have with anamorphic lenses that they would be your first choice but I guess not"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-178888",
+    "scraped_at": "2026-01-15T15:44:20.044910+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/master-anamorphics/#post-178888",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a2695043d079ce59ade81d736df86c0803679002a8ade8591e6b1f050c7f6363",
+    "parser_version": "bbpress-v2"
+  }
+}

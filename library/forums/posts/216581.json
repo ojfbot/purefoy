@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "216581",
+    "forum_slug": "film-talk",
+    "topic_slug": "sicario-a-question-regarding-shot-terminology"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Greg Westfall",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger, James, Team Deakins, and Friends,\nThe establishing shot that kicks off the ambush scene at the border crossing is clearly “coming from” a surveillance camera on one of the helicopters. The audience understands, maybe subconsciously, they’re seeing what the camera in the story world is seeing. This keeps the viewer inside the scene, connected to the action, and further establishes the scope of the operation and “the Beast”. Is this considered a “diegetic” visual story element? Or is there a more correct way of describing this kind of shot? I don’t think it’s considered found footage because it’s taking place in the “now” of the story. It’s perfect for the scene and it’s not in Sheridan’s screenplay so I’m also curious as to how it came about.\nTotally Unrelated to the Above: I got hooked on Cormac McCarthy years ago after hearing Roger mention him on one of the podcasts. Are there any specific scenes or scene types you especially like or is it his overall storytelling style? I know you and the team have many other favourite writers. What is it about their work that really speaks to a cinematographer? And what writers present action scenes particularly well?\nThank you Roger, James and Team Deakins for this forum and the great podcast. It’s just wonderful and very generous that you take the time to do all of this.\nBest Regards,\nGreg Westfall",
+  "content_html": "<p>Dear Roger, James, Team Deakins, and Friends,</p>\n<p>The establishing shot that kicks off the ambush scene at the border crossing is clearly “coming from” a surveillance camera on one of the helicopters. The audience understands, maybe subconsciously, they’re seeing what the camera in the story world is seeing. This keeps the viewer inside the scene, connected to the action, and further establishes the scope of the operation and “the Beast”. Is this considered a “diegetic” visual story element? Or is there a more correct way of describing this kind of shot? I don’t think it’s considered found footage because it’s taking place in the “now” of the story. It’s perfect for the scene and it’s not in Sheridan’s screenplay so I’m also curious as to how it came about.</p>\n<p>Totally Unrelated to the Above: I got hooked on Cormac McCarthy years ago after hearing Roger mention him on one of the podcasts. Are there any specific scenes or scene types you especially like or is it his overall storytelling style? I know you and the team have many other favourite writers. What is it about their work that really speaks to a cinematographer? And what writers present action scenes particularly well?</p>\n<p>Thank you Roger, James and Team Deakins for this forum and the great podcast. It’s just wonderful and very generous that you take the time to do all of this.</p>\n<p>Best Regards,</p>\n<p>Greg Westfall</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger, James, Team Deakins, and Friends,"
+    },
+    {
+      "type": "paragraph",
+      "text": "The establishing shot that kicks off the ambush scene at the border crossing is clearly “coming from” a surveillance camera on one of the helicopters. The audience understands, maybe subconsciously, they’re seeing what the camera in the story world is seeing. This keeps the viewer inside the scene, connected to the action, and further establishes the scope of the operation and “the Beast”. Is this considered a “diegetic” visual story element? Or is there a more correct way of describing this kind of shot? I don’t think it’s considered found footage because it’s taking place in the “now” of the story. It’s perfect for the scene and it’s not in Sheridan’s screenplay so I’m also curious as to how it came about."
+    },
+    {
+      "type": "paragraph",
+      "text": "Totally Unrelated to the Above: I got hooked on Cormac McCarthy years ago after hearing Roger mention him on one of the podcasts. Are there any specific scenes or scene types you especially like or is it his overall storytelling style? I know you and the team have many other favourite writers. What is it about their work that really speaks to a cinematographer? And what writers present action scenes particularly well?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you Roger, James and Team Deakins for this forum and the great podcast. It’s just wonderful and very generous that you take the time to do all of this."
+    },
+    {
+      "type": "paragraph",
+      "text": "Best Regards,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Greg Westfall"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/sicario-a-question-regarding-shot-terminology/#post-216590",
+    "scraped_at": "2026-01-15T12:26:31.352868+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/sicario-a-question-regarding-shot-terminology/#post-216590",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d4c48c06e413ca63eb78500200ecef26423e6b1fe494cda42df9f5ad69054130",
+    "parser_version": "bbpress-v2"
+  }
+}

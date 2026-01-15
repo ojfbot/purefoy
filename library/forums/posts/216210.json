@@ -1,0 +1,56 @@
+{
+  "ids": {
+    "post_id": "216210",
+    "forum_slug": "forum",
+    "topic_slug": "no-country-exposing-film-lighting"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Definate",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Sir Deakins,\nFor this shot and others in dark environments would you still use 100/200T or is this an instance of using 500T?  Also would you use a light meter to get a specific ratio 3:1 or more drastic on this shot and did you over expose it any amount of stops?  I know you love using practicals as I really do too so wondering is there another bounce or light keying and what is creating the eye light.\nP.S I won a signed copy of Shawshank DVD when I took the ASC Masterclass still one of my favorite things..\n-James DeFina",
+  "content_html": "<p><img alt=\"No country dark\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216210/468mbjple8c1js3fxp2o64rsh18oljmu.jpeg\"/><br/>\nSir Deakins,</p>\n<p>For this shot and others in dark environments would you still use 100/200T or is this an instance of using 500T?  Also would you use a light meter to get a specific ratio 3:1 or more drastic on this shot and did you over expose it any amount of stops?  I know you love using practicals as I really do too so wondering is there another bounce or light keying and what is creating the eye light.</p>\n<p>P.S I won a signed copy of Shawshank DVD when I took the ASC Masterclass still one of my favorite things..</p>\n<p> </p>\n<p>-James DeFina</p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sir Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "For this shot and others in dark environments would you still use 100/200T or is this an instance of using 500T?  Also would you use a light meter to get a specific ratio 3:1 or more drastic on this shot and did you over expose it any amount of stops?  I know you love using practicals as I really do too so wondering is there another bounce or light keying and what is creating the eye light."
+    },
+    {
+      "type": "paragraph",
+      "text": "P.S I won a signed copy of Shawshank DVD when I took the ASC Masterclass still one of my favorite things.."
+    },
+    {
+      "type": "paragraph",
+      "text": "-James DeFina"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/216210/468mbjple8c1js3fxp2o64rsh18oljmu.jpeg",
+      "alt": "No country dark",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/no-country-exposing-film-lighting/#post-216216",
+    "scraped_at": "2026-01-15T15:25:58.952471+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/no-country-exposing-film-lighting/#post-216216",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8d398930ea9dc95511900dd6c18256ccaa93b87191e428a291820286c944c774",
+    "parser_version": "bbpress-v2"
+  }
+}

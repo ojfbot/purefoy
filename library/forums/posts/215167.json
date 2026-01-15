@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "post_id": "215167",
+    "forum_slug": "camera",
+    "topic_slug": "documentary-advice-for-student"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Tom. G",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello there,\nI’m studying film at University and have been given a documentary project in which I’m the DOP. I would love to ask for any advice on documentary cinematography. For example, what are the fundamental must-do’s?\nAny recommendations would be greatly appreciated!\nThank you,\nTom.",
+  "content_html": "<p>Hello there,</p>\n<p>I’m studying film at University and have been given a documentary project in which I’m the DOP. I would love to ask for any advice on documentary cinematography. For example, what are the fundamental must-do’s?</p>\n<p>Any recommendations would be greatly appreciated!</p>\n<p>Thank you,<br/>\nTom.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello there,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m studying film at University and have been given a documentary project in which I’m the DOP. I would love to ask for any advice on documentary cinematography. For example, what are the fundamental must-do’s?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Any recommendations would be greatly appreciated!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you,\nTom."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/documentary-advice-for-student/#post-215184",
+    "scraped_at": "2026-01-15T15:23:00.571460+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/documentary-advice-for-student/#post-215184",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "8f542b80ff4dac63a53d63026957879a5c4ebff85e44889a323f221b87dd4174",
+    "parser_version": "bbpress-v2"
+  }
+}

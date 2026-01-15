@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216171",
+    "forum_slug": "team-deakins",
+    "topic_slug": "ivan-sen",
+    "parent_post_id": "216167",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "charlielyons",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Great. Thank you. I’m currently listening to your talk with Lukasz Zal. Also wonderful.",
+  "content_html": "<p>Great. Thank you. I’m currently listening to your talk with Lukasz Zal. Also wonderful.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Great. Thank you. I’m currently listening to your talk with Lukasz Zal. Also wonderful."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/ivan-sen/#post-216171",
+    "scraped_at": "2026-01-15T13:15:59.357726+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/ivan-sen/#post-216171",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f3c2d05ddf6a3048984ec3967bbae03a092da9187ee327178839476d7cb17b5b",
+    "parser_version": "bbpress-v2"
+  }
+}

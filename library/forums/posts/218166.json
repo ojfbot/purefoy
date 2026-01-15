@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "post_id": "218166",
+    "forum_slug": "team-deakins",
+    "topic_slug": "can-we-get-pta-on"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "thomasvangool",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I would love to see Paul Thomas Anderson on. He is one of the few contemporary filmmakers that really excites me.\nI imagine he will be doing interviews and press for his upcoming film.",
+  "content_html": "<p>I would love to see Paul Thomas Anderson on. He is one of the few contemporary filmmakers that really excites me.</p>\n<p>I imagine he will be doing interviews and press for his upcoming film.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I would love to see Paul Thomas Anderson on. He is one of the few contemporary filmmakers that really excites me."
+    },
+    {
+      "type": "paragraph",
+      "text": "I imagine he will be doing interviews and press for his upcoming film."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/can-we-get-pta-on/",
+    "scraped_at": "2026-01-15T12:48:46.559460+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/can-we-get-pta-on/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "576a1bbdb35fd32b76dd464f6ba1fcb34690880ce49a6ecc8a88646876d9ee75",
+    "parser_version": "bbpress-v2"
+  }
+}

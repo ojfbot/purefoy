@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "216930",
+    "forum_slug": "composition",
+    "topic_slug": "inspiration-sources",
+    "parent_post_id": "216503",
+    "parent_type": "topic",
+    "position": 17
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger Deakins wrote:\nThe third category – inspire and suggest emotions without looking for meaning – is that not what film can do at its best? I think that understanding should be your approach to where top put the camera or how to compose the shot. It’s what you feel it should be.\nUhm, I think i’m beginning to understand why the expressionists (and similar painters) and your appreciation for Tarkovskij’s works or movies like L’Avventura  .  It’s not a matter of looking for inspiration for composition, palettes, etc etc in other existing images like paintings, photos or movie frames like everybody would do, it’s a matter of instinct and emotions to be created on the spot.",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/inspiration-sources/page/2/#post-216907\">Roger Deakins wrote:</a></div>\n<p>The third category – inspire and suggest emotions without looking for meaning – is that not what film can do at its best? I think that understanding should be your approach to where top put the camera or how to compose the shot. It’s what you feel it should be.</p></blockquote>\n<p>Uhm, I think i’m beginning to understand why the expressionists (and similar painters) and your appreciation for Tarkovskij’s works or movies like L’Avventura  .  It’s not a matter of looking for inspiration for composition, palettes, etc etc in other existing images like paintings, photos or movie frames like everybody would do, it’s a matter of instinct and emotions to be created on the spot.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Roger Deakins wrote:\nThe third category – inspire and suggest emotions without looking for meaning – is that not what film can do at its best? I think that understanding should be your approach to where top put the camera or how to compose the shot. It’s what you feel it should be."
+    },
+    {
+      "type": "paragraph",
+      "text": "The third category – inspire and suggest emotions without looking for meaning – is that not what film can do at its best? I think that understanding should be your approach to where top put the camera or how to compose the shot. It’s what you feel it should be."
+    },
+    {
+      "type": "paragraph",
+      "text": "Uhm, I think i’m beginning to understand why the expressionists (and similar painters) and your appreciation for Tarkovskij’s works or movies like L’Avventura  .  It’s not a matter of looking for inspiration for composition, palettes, etc etc in other existing images like paintings, photos or movie frames like everybody would do, it’s a matter of instinct and emotions to be created on the spot."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Roger Deakins wrote:\nThe third category – inspire and suggest emotions without looking for meaning – is that not what film can do at its best? I think that understanding should be your approach to where top put the camera or how to compose the shot. It’s what you feel it should be."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/page/2/#post-216907",
+      "text": "Roger Deakins wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/page/2/",
+    "scraped_at": "2026-01-15T12:26:05.887497+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/inspiration-sources/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "27741e155112369b9a4eedbf17730e374cb2579e0c6a1479d3baddb19c08a387",
+    "parser_version": "bbpress-v2"
+  }
+}

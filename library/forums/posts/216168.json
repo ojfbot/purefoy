@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216168",
+    "forum_slug": "camera",
+    "topic_slug": "cooke-lenses",
+    "parent_post_id": "216165",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "My main set of lenses were the Arri Signature primes on Empire. Cooke are superb lenses. Sure I would use them in the right situation and I often do if I need a zoom, for instance.",
+  "content_html": "<p>My main set of lenses were the Arri Signature primes on Empire. Cooke are superb lenses. Sure I would use them in the right situation and I often do if I need a zoom, for instance.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "My main set of lenses were the Arri Signature primes on Empire. Cooke are superb lenses. Sure I would use them in the right situation and I often do if I need a zoom, for instance."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/cooke-lenses/#post-216477",
+    "scraped_at": "2026-01-15T14:13:14.547361+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/cooke-lenses/#post-216477",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cbe71af473f4a7cdd71b5e7af116f8d013da07c8ac25d8103f45edd5deb0aaae",
+    "parser_version": "bbpress-v2"
+  }
+}

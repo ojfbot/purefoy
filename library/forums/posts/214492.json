@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214492",
+    "forum_slug": "camera",
+    "topic_slug": "focal-lengths",
+    "parent_post_id": "214488",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Cinematographer Reggie A Brown",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "It’s pretty well documented that Roger most often shoot with and prefer the 32mm.",
+  "content_html": "<p>It’s pretty well documented that Roger most often shoot with and prefer the 32mm.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "It’s pretty well documented that Roger most often shoot with and prefer the 32mm."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/focal-lengths/#post-214517",
+    "scraped_at": "2026-01-15T15:26:01.413136+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/focal-lengths/#post-214517",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "48ab91dea016f8088141856524cc50041044d893a9b2a7e5b7289112afe47c51",
+    "parser_version": "bbpress-v2"
+  }
+}

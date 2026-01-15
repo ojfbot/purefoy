@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215265",
+    "forum_slug": "forum",
+    "topic_slug": "desert-chase-at-dawn-scene-in-no-country-for-old-men",
+    "parent_post_id": "215246",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I tried again — I give up! I guess it doesn’t like me putting images into the text.",
+  "content_html": "<p>I tried again — I give up! I guess it doesn’t like me putting images into the text.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I tried again — I give up! I guess it doesn’t like me putting images into the text."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/desert-chase-at-dawn-scene-in-no-country-for-old-men/#post-215883",
+    "scraped_at": "2026-01-15T15:43:44.760360+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/desert-chase-at-dawn-scene-in-no-country-for-old-men/#post-215883",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "95e2b0104250b4dbf8f2f4f6d530824fac5fa77fb3ec693be94957869834ab83",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "215959",
+    "forum_slug": "forum",
+    "topic_slug": "meter-reading-on-overcast-days",
+    "parent_post_id": "215925",
+    "parent_type": "topic",
+    "position": 9
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Tyler F",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I own one, mostly use as a backup to my Sekonic, but I think they are extremely easy to use, thanks to the fact that it uses a null (zeroing) system. You essentially get to see how far over/under exposure you want to be once your settings are set. It’s a bit chunky and if you’re used to using a Sekonic\\Spectra where the dome is facing you, you have to hold the Gossen in a bit different of a way, then it’s pretty decent.\nI would just make sure it’s calibrated to either a known calibrated meter or using Sunny 16 method.\nAlso make sure you’re getting the 9V battery one!",
+  "content_html": "<p>I own one, mostly use as a backup to my Sekonic, but I think they are extremely easy to use, thanks to the fact that it uses a null (zeroing) system. You essentially get to see how far over/under exposure you want to be once your settings are set. It’s a bit chunky and if you’re used to using a Sekonic\\Spectra where the dome is facing you, you have to hold the Gossen in a bit different of a way, then it’s pretty decent.</p>\n<p>I would just make sure it’s calibrated to either a known calibrated meter or using Sunny 16 method.</p>\n<p>Also make sure you’re getting the 9V battery one!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I own one, mostly use as a backup to my Sekonic, but I think they are extremely easy to use, thanks to the fact that it uses a null (zeroing) system. You essentially get to see how far over/under exposure you want to be once your settings are set. It’s a bit chunky and if you’re used to using a Sekonic\\Spectra where the dome is facing you, you have to hold the Gossen in a bit different of a way, then it’s pretty decent."
+    },
+    {
+      "type": "paragraph",
+      "text": "I would just make sure it’s calibrated to either a known calibrated meter or using Sunny 16 method."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also make sure you’re getting the 9V battery one!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/#post-215975",
+    "scraped_at": "2026-01-15T15:43:02.749930+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/meter-reading-on-overcast-days/#post-215975",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1b37c98e73f268b7501dcdd8230185120ecb0b3bf4fc323c7bec71b1ef3e54b6",
+    "parser_version": "bbpress-v2"
+  }
+}

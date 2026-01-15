@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "215198",
+    "forum_slug": "camera",
+    "topic_slug": "advantages-and-disadvantages-of-feature-film-live-sound"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger and forum members what’s the advantage and disadvantage of movie sound live recording?",
+  "content_html": "<p>Dear master Roger and forum members what’s the advantage and disadvantage of movie sound live recording?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger and forum members what’s the advantage and disadvantage of movie sound live recording?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/advantages-and-disadvantages-of-feature-film-live-sound/#post-215227",
+    "scraped_at": "2026-01-15T15:22:48.281712+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/advantages-and-disadvantages-of-feature-film-live-sound/#post-215227",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "66117a293c2bf9a09eb6ea326221c94e1b180d27e616613501a237b6e0fd66a3",
+    "parser_version": "bbpress-v2"
+  }
+}

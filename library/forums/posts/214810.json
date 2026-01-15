@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "214810",
+    "forum_slug": "camera",
+    "topic_slug": "breaking-the-rules-consistently",
+    "parent_post_id": "214798",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t think there is a “rule” about always shooting at f/2.8, it’s just a practical stop to light to — it’s sort of “aspirational”; sometimes you hear that lighting to f/4 for an anamorphic movie was a good idea. But I’ve also heard older cinematographers from the 1960s and 1970s saying that they always tried to light to an f/4 in case the director wanted to use a zoom lens. Anyway, f/2.8 is a pleasant stop to shoot at, gives the focus-puller a chance, the lenses behave well, etc. — but I don’t think of it as a rule.\nTechnical and visual consistency is a common goal unless the story has a design that allows for shifts in look, like flashbacks for example, or a story that cuts between two different worlds. But then within those unique sections, there tends to be consistency. But even that’s not really a rule — there may be a story that would benefit from visual inconsistency, even deliberate sloppiness, to create a rough feeling that matches the emotions of the scene or character. There is a lot of roughness in some of the Wong Kar-wei movies shot by Christopher Doyle, like “Fallen Angels” or “Happy Together” that create a certain chaotic feeling that matches what the characters are going through.",
+  "content_html": "<p>I don’t think there is a “rule” about always shooting at f/2.8, it’s just a practical stop to light to — it’s sort of “aspirational”; sometimes you hear that lighting to f/4 for an anamorphic movie was a good idea. But I’ve also heard older cinematographers from the 1960s and 1970s saying that they always tried to light to an f/4 in case the director wanted to use a zoom lens. Anyway, f/2.8 is a pleasant stop to shoot at, gives the focus-puller a chance, the lenses behave well, etc. — but I don’t think of it as a rule.</p>\n<p>Technical and visual consistency is a common goal unless the story has a design that allows for shifts in look, like flashbacks for example, or a story that cuts between two different worlds. But then within those unique sections, there tends to be consistency. But even that’s not really a rule — there may be a story that would benefit from visual inconsistency, even deliberate sloppiness, to create a rough feeling that matches the emotions of the scene or character. There is a lot of roughness in some of the Wong Kar-wei movies shot by Christopher Doyle, like “Fallen Angels” or “Happy Together” that create a certain chaotic feeling that matches what the characters are going through.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t think there is a “rule” about always shooting at f/2.8, it’s just a practical stop to light to — it’s sort of “aspirational”; sometimes you hear that lighting to f/4 for an anamorphic movie was a good idea. But I’ve also heard older cinematographers from the 1960s and 1970s saying that they always tried to light to an f/4 in case the director wanted to use a zoom lens. Anyway, f/2.8 is a pleasant stop to shoot at, gives the focus-puller a chance, the lenses behave well, etc. — but I don’t think of it as a rule."
+    },
+    {
+      "type": "paragraph",
+      "text": "Technical and visual consistency is a common goal unless the story has a design that allows for shifts in look, like flashbacks for example, or a story that cuts between two different worlds. But then within those unique sections, there tends to be consistency. But even that’s not really a rule — there may be a story that would benefit from visual inconsistency, even deliberate sloppiness, to create a rough feeling that matches the emotions of the scene or character. There is a lot of roughness in some of the Wong Kar-wei movies shot by Christopher Doyle, like “Fallen Angels” or “Happy Together” that create a certain chaotic feeling that matches what the characters are going through."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/breaking-the-rules-consistently/#post-214815",
+    "scraped_at": "2026-01-15T15:25:07.040432+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/breaking-the-rules-consistently/#post-214815",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "beb9728660544a27c1a831c6a0b5b14cd4e3149e9724978a23b5b21313dff7d7",
+    "parser_version": "bbpress-v2"
+  }
+}

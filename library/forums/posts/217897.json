@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "217897",
+    "forum_slug": "team-deakins/team-deakins-podcast",
+    "topic_slug": "judy-becker-apr-9-2025"
+  },
+  "author": {
+    "display_name": "#217897",
+    "role": "Abraham"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Moderator\nHello everyone,\nLast week, on a new episode of the Team Deakins Podcast, production designer Judy Becker was the featured guest. Judy most recently worked on THE BRUTALIST, and you can also see her work on television in a number of shows created by producer Ryan Murphy.\nAfter listening, feel free to discuss the episode with each other below!",
+  "content_html": "<div class=\"bbp-topic-header\">\n<div class=\"bbp-meta\">\n<span class=\"bbp-topic-post-date\">April 15, 2025 at 1:40 pm</span>\n<a class=\"bbp-topic-permalink\" href=\"https://www.rogerdeakins.com/forums/topic/judy-becker-apr-9-2025/\">#217897</a>\n<span class=\"bbp-admin-links\"></span>\n</div><!-- .bbp-meta -->\n</div> .bbp-topic-header \n<div class=\"loop-item--1 user-id-47801 bbp-parent-forum-169247 even post-217897 topic type-topic status-publish hentry\" id=\"post-217897\">\n<div class=\"bbp-topic-author\">\n<a class=\"bbp-author-link\" href=\"https://www.rogerdeakins.com/forums/users/abraham-z/\" title=\"View Abraham's profile\"><span class=\"bbp-author-avatar\"><img alt=\"\" class=\"avatar avatar-80 photo\" decoding=\"async\" height=\"80\" loading=\"lazy\" src=\"https://secure.gravatar.com/avatar/9646f12844cf9dfbbe18029c85577ec0?s=80&amp;d=retro&amp;r=g\" srcset=\"https://secure.gravatar.com/avatar/9646f12844cf9dfbbe18029c85577ec0?s=160&amp;d=retro&amp;r=g 2x\" width=\"80\"/></span><span class=\"bbp-author-name\">Abraham</span></a><div class=\"bbp-author-role\"><div class=\"\">Moderator</div></div>\n<div class=\"tc_display\"><ul></ul></div>\n</div><!-- .bbp-topic-author -->\n<div class=\"bbp-topic-content\">\n<p>Hello everyone,</p>\n<p>Last week, on a new episode of the Team Deakins Podcast, production designer Judy Becker was the featured guest. Judy most recently worked on THE BRUTALIST, and you can also see her work on television in a number of shows created by producer Ryan Murphy.</p>\n<p>After listening, feel free to discuss the episode with each other below!</p>\n</div><!-- .bbp-topic-content -->\n</div> #post-217897",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello everyone,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Last week, on a new episode of the Team Deakins Podcast, production designer Judy Becker was the featured guest. Judy most recently worked on THE BRUTALIST, and you can also see her work on television in a number of shows created by producer Ryan Murphy."
+    },
+    {
+      "type": "paragraph",
+      "text": "After listening, feel free to discuss the episode with each other below!"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/judy-becker-apr-9-2025/",
+      "text": "#217897",
+      "kind": "external"
+    },
+    {
+      "href": "https://www.rogerdeakins.com/forums/users/abraham-z/",
+      "text": "Abraham",
+      "kind": "external"
+    }
+  ],
+  "media": [
+    {
+      "src": "https://secure.gravatar.com/avatar/9646f12844cf9dfbbe18029c85577ec0?s=80&d=retro&r=g",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/judy-becker-apr-9-2025/",
+    "scraped_at": "2026-01-15T09:42:46.085666+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/judy-becker-apr-9-2025/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d76603990c2ba595c85be8ee16fdf63624d5ed033382ae1d3320d84232e33dfb",
+    "parser_version": "bbpress-v1"
+  }
+}

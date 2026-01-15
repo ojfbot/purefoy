@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "214491",
+    "forum_slug": "composition",
+    "topic_slug": "editor-modifying-composition-in-post"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Ganesh Venkatesh",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi everyone,\nI shot with a particular image system and compositions\nsometimes the editor changes them (scaling, cropping).\n->maybe I think the main problem is working as a director and cinematographer myself. I’m always thinking as a cinematographer and trying to save my compositions from editor. I think it is not right.  everybody have their own creativity we can’t restrict them. so, I give editor to make changes. but at the end I had lot of thoughts on changes whether it makes the film better or not.\ndid anyone have this problem with the editor, give me any suggestions to deal with it.\nthank you",
+  "content_html": "<p>Hi everyone,</p>\n<p>I shot with a particular image system and compositions<br/>\nsometimes the editor changes them (scaling, cropping).</p>\n<p>-&gt;maybe I think the main problem is working as a director and cinematographer myself. I’m always thinking as a cinematographer and trying to save my compositions from editor. I think it is not right.  everybody have their own creativity we can’t restrict them. so, I give editor to make changes. but at the end I had lot of thoughts on changes whether it makes the film better or not.</p>\n<p> did anyone have this problem with the editor, give me any suggestions to deal with it.</p>\n<p>thank you</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi everyone,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I shot with a particular image system and compositions\nsometimes the editor changes them (scaling, cropping)."
+    },
+    {
+      "type": "paragraph",
+      "text": "->maybe I think the main problem is working as a director and cinematographer myself. I’m always thinking as a cinematographer and trying to save my compositions from editor. I think it is not right.  everybody have their own creativity we can’t restrict them. so, I give editor to make changes. but at the end I had lot of thoughts on changes whether it makes the film better or not."
+    },
+    {
+      "type": "paragraph",
+      "text": "did anyone have this problem with the editor, give me any suggestions to deal with it."
+    },
+    {
+      "type": "paragraph",
+      "text": "thank you"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/editor-modifying-composition-in-post/#post-214495",
+    "scraped_at": "2026-01-15T13:16:18.980052+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/editor-modifying-composition-in-post/#post-214495",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "9f69fbb84e085ace80977d28f064d757116caf61ee26230d012b3f129c1f9798",
+    "parser_version": "bbpress-v2"
+  }
+}

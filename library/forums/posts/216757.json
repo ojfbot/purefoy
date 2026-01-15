@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "216757",
+    "forum_slug": "composition",
+    "topic_slug": "thoughts-on-a-short-film-i-made-one-minute",
+    "parent_post_id": "215568",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "bardanmcguire wrote:\nAll of the shots in that film except that shot was taken with my Blackmagic Pocket 4k on Blackmagic raw\nMay I ask you what’s your opinion about that camera? The price dropped a bit  and i’m considering it for my next short movie. I know there are way better cameras around, but still it’s a step up on my present camera and, well,  i’m the kind of “one step at the time” person…",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/thoughts-on-a-short-film-i-made-one-minute/#post-215820\">bardanmcguire wrote:</a></div>\n<p>All of the shots in that film except that shot was taken with my Blackmagic Pocket 4k on Blackmagic raw </p></blockquote>\n<p>May I ask you what’s your opinion about that camera? The price dropped a bit  and i’m considering it for my next short movie. I know there are way better cameras around, but still it’s a step up on my present camera and, well,  i’m the kind of “one step at the time” person…</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "bardanmcguire wrote:\nAll of the shots in that film except that shot was taken with my Blackmagic Pocket 4k on Blackmagic raw"
+    },
+    {
+      "type": "paragraph",
+      "text": "All of the shots in that film except that shot was taken with my Blackmagic Pocket 4k on Blackmagic raw"
+    },
+    {
+      "type": "paragraph",
+      "text": "May I ask you what’s your opinion about that camera? The price dropped a bit  and i’m considering it for my next short movie. I know there are way better cameras around, but still it’s a step up on my present camera and, well,  i’m the kind of “one step at the time” person…"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "bardanmcguire wrote:\nAll of the shots in that film except that shot was taken with my Blackmagic Pocket 4k on Blackmagic raw"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/thoughts-on-a-short-film-i-made-one-minute/#post-215820",
+      "text": "bardanmcguire wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-a-short-film-i-made-one-minute/#post-216759",
+    "scraped_at": "2026-01-15T12:26:17.742960+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-a-short-film-i-made-one-minute/#post-216759",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "85310845d17e1b99445d0b3115b112eaac8a259a283c567bf27b85c3335b3475",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "post_id": "215129",
+    "forum_slug": "forum",
+    "topic_slug": "skyfall-scotland-drive-scene"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "halfgrain",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger,\nI absolutely love the shot when James and M take a break during their drive to the old house in Scotland. I’ve got 2 questions, if I may:\n1) Was the fog that morning somewhat reliable due to time of year and location or were you lucky, as it seems to sometimes be the case when shooting. I can’t imagine that you were able to pick or move the day of the shoot much, in the overall schedule.\n2) In the still attached I’m surprised to see such dark cheek bones on Daniel’s face. I saw in a behind the scenes, that you did not use any neg on those shots. Was this done by the makeup team? I was wondering suddenly, if it might be common for the makeup artist to contour the face a lot more when shooting in overcast conditions? Or is this just an illusion and his makeup wasn’t any different than usual?\nAlso in the shot from behind the two, their backs look quite dark. Did you have a large neg here or was this done in timing?\nThank you so much for taking the time to answer these admittedly not very relevant details, it is a privilege to be able to ask these things here!",
+  "content_html": "<p>Dear Roger,</p>\n<p>I absolutely love the shot when James and M take a break during their drive to the old house in Scotland. I’ve got 2 questions, if I may:</p>\n<p>1) Was the fog that morning somewhat reliable due to time of year and location or were you lucky, as it seems to sometimes be the case when shooting. I can’t imagine that you were able to pick or move the day of the shoot much, in the overall schedule.</p>\n<p>2) In the still attached I’m surprised to see such dark cheek bones on Daniel’s face. I saw in a behind the scenes, that you did not use any neg on those shots. Was this done by the makeup team? I was wondering suddenly, if it might be common for the makeup artist to contour the face a lot more when shooting in overcast conditions? Or is this just an illusion and his makeup wasn’t any different than usual?</p>\n<p>Also in the shot from behind the two, their backs look quite dark. Did you have a large neg here or was this done in timing?</p>\n<p>Thank you so much for taking the time to answer these admittedly not very relevant details, it is a privilege to be able to ask these things here!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I absolutely love the shot when James and M take a break during their drive to the old house in Scotland. I’ve got 2 questions, if I may:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1) Was the fog that morning somewhat reliable due to time of year and location or were you lucky, as it seems to sometimes be the case when shooting. I can’t imagine that you were able to pick or move the day of the shoot much, in the overall schedule."
+    },
+    {
+      "type": "paragraph",
+      "text": "2) In the still attached I’m surprised to see such dark cheek bones on Daniel’s face. I saw in a behind the scenes, that you did not use any neg on those shots. Was this done by the makeup team? I was wondering suddenly, if it might be common for the makeup artist to contour the face a lot more when shooting in overcast conditions? Or is this just an illusion and his makeup wasn’t any different than usual?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also in the shot from behind the two, their backs look quite dark. Did you have a large neg here or was this done in timing?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you so much for taking the time to answer these admittedly not very relevant details, it is a privilege to be able to ask these things here!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/skyfall-scotland-drive-scene/#post-215159",
+    "scraped_at": "2026-01-15T15:48:50.888014+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/skyfall-scotland-drive-scene/#post-215159",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6b83987a2ce7ef6f5854f5c3c71cc9292c70451b8dfb4c9ba586ec208a43bea5",
+    "parser_version": "bbpress-v2"
+  }
+}

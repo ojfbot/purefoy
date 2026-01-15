@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216017",
+    "forum_slug": "set-talk",
+    "topic_slug": "storyboarding-with-locations-in-mind",
+    "parent_post_id": "215222",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Leopold",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi Jomo,\nI do both, based on the production needs.\nProduction boards can be location specific.\nLike when you wamt to squeeze in more sets into the same studio space and want to save space (and rent). Then it can be good to know how much of a set will actually been seen from various angles and lenses based on everyones visuall ideas and ambitions. Film Directing Shot by Shot has a demo at the end on how to draw to various lenses and to scale floor plans.\nPitch and prep boards can be looser, more blue sky ideas about what kind of compositions and rythms we are after. These can be more visionary ambitious, compositionally but I like to get as specific as possible as soon as possible.\nLeopold",
+  "content_html": "<p>Hi Jomo,<br/>\nI do both, based on the production needs.</p>\n<p>Production boards can be location specific.<br/>\nLike when you wamt to squeeze in more sets into the same studio space and want to save space (and rent). Then it can be good to know how much of a set will actually been seen from various angles and lenses based on everyones visuall ideas and ambitions. Film Directing Shot by Shot has a demo at the end on how to draw to various lenses and to scale floor plans.</p>\n<p>Pitch and prep boards can be looser, more blue sky ideas about what kind of compositions and rythms we are after. These can be more visionary ambitious, compositionally but I like to get as specific as possible as soon as possible.<br/>\nLeopold</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi Jomo,\nI do both, based on the production needs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Production boards can be location specific.\nLike when you wamt to squeeze in more sets into the same studio space and want to save space (and rent). Then it can be good to know how much of a set will actually been seen from various angles and lenses based on everyones visuall ideas and ambitions. Film Directing Shot by Shot has a demo at the end on how to draw to various lenses and to scale floor plans."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pitch and prep boards can be looser, more blue sky ideas about what kind of compositions and rythms we are after. These can be more visionary ambitious, compositionally but I like to get as specific as possible as soon as possible.\nLeopold"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/storyboarding-with-locations-in-mind/#post-216017",
+    "scraped_at": "2026-01-15T12:48:50.851385+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/storyboarding-with-locations-in-mind/#post-216017",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a7c705b193a214d3a08ef8cacee51c442b294dc647ff88e6012233d888434c1a",
+    "parser_version": "bbpress-v2"
+  }
+}

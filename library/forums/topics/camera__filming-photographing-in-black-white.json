@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/filming-photographing-in-black-white/",
+  "forum_slug": "camera",
+  "topic_slug": "filming-photographing-in-black-white",
+  "title": "Filming/Photographing in Black & White",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "181602"
+  ],
+  "reply_tree": {
+    "post_id": "181602",
+    "post_type": "topic",
+    "author": "GianniRanzuglia",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/filming-photographing-in-black-white/",
+    "scraped_at": "2026-01-15T15:44:01.823522+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/filming-photographing-in-black-white/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "7ef4a9f0a1fb86c3e5187f81fce72af5e242f7a67325835bd61401a79dcf5a9c",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "215677",
+    "forum_slug": "forum",
+    "topic_slug": "unbroken-stunning-night-interior-scene",
+    "parent_post_id": "215662",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thank you very much for your reply Mr. Deakins! The shot (as for the entire movie) is fantastic!\nIt seems to me (and maybe it is something that I would do in this case) that the two practicals at the center are the “strongest” ones and make possible the pool of light, the one on the left frame in the background seems to me less bright that the one in the center. Do you remember if you put the 1k clear bulbs in the center practicals? I also love the color quality of the tungsten source, do you remember if, during the DI process, you reduced the red channel?\nAnd If I can ask another question, for the other shots of the scene (I attach frames below) do you still use only the practical lights (maybe dimming or turning off some to create shadows area), or did you “argument” those practical lights with external sources (maybe the overhead close-up have some “special” lighting)?\nThank you again for your reply Mr. Deakins and I apologize for my bad English.\nI wish you a peaceful day.\nMax.",
+  "content_html": "<p>Thank you very much for your reply Mr. Deakins! The shot (as for the entire movie) is fantastic!<br/>\nIt seems to me (and maybe it is something that I would do in this case) that the two practicals at the center are the “strongest” ones and make possible the pool of light, the one on the left frame in the background seems to me less bright that the one in the center. Do you remember if you put the 1k clear bulbs in the center practicals? I also love the color quality of the tungsten source, do you remember if, during the DI process, you reduced the red channel?</p>\n<p>And If I can ask another question, for the other shots of the scene (I attach frames below) do you still use only the practical lights (maybe dimming or turning off some to create shadows area), or did you “argument” those practical lights with external sources (maybe the overhead close-up have some “special” lighting)?</p>\n<p>Thank you again for your reply Mr. Deakins and I apologize for my bad English.</p>\n<p>I wish you a peaceful day.<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you very much for your reply Mr. Deakins! The shot (as for the entire movie) is fantastic!\nIt seems to me (and maybe it is something that I would do in this case) that the two practicals at the center are the “strongest” ones and make possible the pool of light, the one on the left frame in the background seems to me less bright that the one in the center. Do you remember if you put the 1k clear bulbs in the center practicals? I also love the color quality of the tungsten source, do you remember if, during the DI process, you reduced the red channel?"
+    },
+    {
+      "type": "paragraph",
+      "text": "And If I can ask another question, for the other shots of the scene (I attach frames below) do you still use only the practical lights (maybe dimming or turning off some to create shadows area), or did you “argument” those practical lights with external sources (maybe the overhead close-up have some “special” lighting)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you again for your reply Mr. Deakins and I apologize for my bad English."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a peaceful day.\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/unbroken-stunning-night-interior-scene/#post-215687",
+    "scraped_at": "2026-01-15T15:45:27.114390+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/unbroken-stunning-night-interior-scene/#post-215687",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "73a340d0b4ef42a74d456e1069fb91e7b59aabf9a312a6692c030448245e9815",
+    "parser_version": "bbpress-v2"
+  }
+}

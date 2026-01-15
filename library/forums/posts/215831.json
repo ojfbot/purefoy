@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215831",
+    "forum_slug": "camera",
+    "topic_slug": "could-i-integrate-a-cheap-long-lens-into-a-shoot-without-incident",
+    "parent_post_id": "215830",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’ve a (quite) similar problem and doubt, but i think that while you could quite easily match in post some difference (for example in the colors) , other differencies could be more noticeable (chromatic aberration, type of “bokeh” if you blur the background, sharpness, breathing of the Lens, etc etc). Perhaps the result of integration changes from lens to lens?",
+  "content_html": "<p>I’ve a (quite) similar problem and doubt, but i think that while you could quite easily match in post some difference (for example in the colors) , other differencies could be more noticeable (chromatic aberration, type of “bokeh” if you blur the background, sharpness, breathing of the Lens, etc etc). Perhaps the result of integration changes from lens to lens?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’ve a (quite) similar problem and doubt, but i think that while you could quite easily match in post some difference (for example in the colors) , other differencies could be more noticeable (chromatic aberration, type of “bokeh” if you blur the background, sharpness, breathing of the Lens, etc etc). Perhaps the result of integration changes from lens to lens?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/could-i-integrate-a-cheap-long-lens-into-a-shoot-without-incident/#post-215835",
+    "scraped_at": "2026-01-15T15:20:30.044469+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/could-i-integrate-a-cheap-long-lens-into-a-shoot-without-incident/#post-215835",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "939394b1eeac34d9f5458be4fd4797a104a7644604cc6a0fb91fb0cf5c16c0c6",
+    "parser_version": "bbpress-v2"
+  }
+}

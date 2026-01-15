@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "post_id": "214845",
+    "forum_slug": "film-talk",
+    "topic_slug": "thoughts-on-books-by-blain-brown",
+    "parent_post_id": "214833",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I love filmmaking books — I have two tall bookshelves full of them!  It’s just knowledge that you can choose to use or not use, but I don’t see any reason to avoid reading books. One of my favorites was written in the early 1970s about British cinematography practices and probably most of the information is outdated and yet it’s a window on a period of filmmaking that I love.",
+  "content_html": "<p>I love filmmaking books — I have two tall bookshelves full of them!  It’s just knowledge that you can choose to use or not use, but I don’t see any reason to avoid reading books. One of my favorites was written in the early 1970s about British cinematography practices and probably most of the information is outdated and yet it’s a window on a period of filmmaking that I love.<img alt=\"\" decoding=\"async\" src=\"https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214845/ahon81x30xtmcfjshvz3dn9iasyjm3xl.jpeg\"/></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I love filmmaking books — I have two tall bookshelves full of them!  It’s just knowledge that you can choose to use or not use, but I don’t see any reason to avoid reading books. One of my favorites was written in the early 1970s about British cinematography practices and probably most of the information is outdated and yet it’s a window on a period of filmmaking that I love."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [
+    {
+      "src": "https://www.rogerdeakins.com/wp-content/uploads/hm_bbpui/214845/ahon81x30xtmcfjshvz3dn9iasyjm3xl.jpeg",
+      "alt": "",
+      "kind": "image"
+    }
+  ],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-books-by-blain-brown/#post-214886",
+    "scraped_at": "2026-01-15T13:56:41.576084+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/thoughts-on-books-by-blain-brown/#post-214886",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "06292cd4caf117f8d1d8b08cd8851e3b347cdd0ab2b2161e4fef2737f5b9424c",
+    "parser_version": "bbpress-v2"
+  }
+}

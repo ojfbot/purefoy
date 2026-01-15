@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "post_id": "216633",
+    "forum_slug": "forum",
+    "topic_slug": "working-with-smoke"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "Hongqi",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello everyone,\nI recently worked on a project where I realized how challenging it can be to work with smoke. Maintaining consistent intensity and waiting for it to settle.\nAnother issue I encountered was that whenever someone walked through the smoke, it would swirl around and disrupt the atmosphere.\nI’ve tried using both haze and fog, but I’m really curious\nIs moving smoke acceptable in the final picture, or does it usually distract from the scene?\nDo you guys have any tips or tricks for working with smoke to achieve better control and consistency?\nThank you!",
+  "content_html": "<p>Hello everyone,</p>\n<p>I recently worked on a project where I realized how challenging it can be to work with smoke. Maintaining consistent intensity and waiting for it to settle.</p>\n<p>Another issue I encountered was that whenever someone walked through the smoke, it would swirl around and disrupt the atmosphere.</p>\n<p>I’ve tried using both haze and fog, but I’m really curious</p>\n<p>Is moving smoke acceptable in the final picture, or does it usually distract from the scene?</p>\n<p>Do you guys have any tips or tricks for working with smoke to achieve better control and consistency?</p>\n<p>Thank you!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello everyone,"
+    },
+    {
+      "type": "paragraph",
+      "text": "I recently worked on a project where I realized how challenging it can be to work with smoke. Maintaining consistent intensity and waiting for it to settle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another issue I encountered was that whenever someone walked through the smoke, it would swirl around and disrupt the atmosphere."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve tried using both haze and fog, but I’m really curious"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is moving smoke acceptable in the final picture, or does it usually distract from the scene?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you guys have any tips or tricks for working with smoke to achieve better control and consistency?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/working-with-smoke/",
+    "scraped_at": "2026-01-15T15:23:55.045359+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/working-with-smoke/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "14511bd5574c28e59f15ed3cc483575365bfa84900014de917eadb56dfbb9bc4",
+    "parser_version": "bbpress-v2"
+  }
+}

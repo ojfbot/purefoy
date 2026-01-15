@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220823",
+    "forum_slug": "camera",
+    "topic_slug": "eyes-wide-shut-moving-mirror",
+    "parent_post_id": "214623",
+    "parent_type": "topic",
+    "position": 20
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I would like to point out that one shot in 2001, the scene in which they discover the obelisks, involved the compositing of some 28 separate elements onto a single piece of negative. Imagine passing that same negative through an optical printer 28 times to overlay these elements in perfect registration. And you don’t think Kubrick would have loved to use CGI?",
+  "content_html": "<p>I would like to point out that one shot in 2001, the scene in which they discover the obelisks, involved the compositing of some 28 separate elements onto a single piece of negative. Imagine passing that same negative through an optical printer 28 times to overlay these elements in perfect registration. And you don’t think Kubrick would have loved to use CGI?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I would like to point out that one shot in 2001, the scene in which they discover the obelisks, involved the compositing of some 28 separate elements onto a single piece of negative. Imagine passing that same negative through an optical printer 28 times to overlay these elements in perfect registration. And you don’t think Kubrick would have loved to use CGI?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/eyes-wide-shut-moving-mirror/page/2/",
+    "scraped_at": "2026-01-15T12:08:52.216715+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/eyes-wide-shut-moving-mirror/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "eed6f111f7b238f2d75290f46f8380a52d6fb2f12cf1337173b7f6beffb63688",
+    "parser_version": "bbpress-v2"
+  }
+}

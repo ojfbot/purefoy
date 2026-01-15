@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "218032",
+    "forum_slug": "post",
+    "topic_slug": "subtitles",
+    "parent_post_id": "218022",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Stip wrote:\nIf you want to do it yourself you can use the Studio Version of Davinci Resolve. It automatically creates subtitles from your audio tracks. If you have the English subtitles created, you can use ChatGPT to translate them to French and replace the original. I can’t include YouTube links, otherwise it won’t let me post this comment, so I’ll try to add them in a second post.\nI don’t know how good are translations from ChatGPT but in general i try to avoid automatic translations, sometimes i checked languages i know and translations were a bit odd at best (but they are improving everyday of course). To quickly understand what a website talks about they are fine, but i wouldn’t trust them for subtitles. Just my opinion of course!",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/subtitles/#post-218025\">Stip wrote:</a></div>\n<p>If you want to do it yourself you can use the Studio Version of Davinci Resolve. It automatically creates subtitles from your audio tracks. If you have the English subtitles created, you can use ChatGPT to translate them to French and replace the original. I can’t include YouTube links, otherwise it won’t let me post this comment, so I’ll try to add them in a second post.</p></blockquote>\n<p>I don’t know how good are translations from ChatGPT but in general i try to avoid automatic translations, sometimes i checked languages i know and translations were a bit odd at best (but they are improving everyday of course). To quickly understand what a website talks about they are fine, but i wouldn’t trust them for subtitles. Just my opinion of course!</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Stip wrote:\nIf you want to do it yourself you can use the Studio Version of Davinci Resolve. It automatically creates subtitles from your audio tracks. If you have the English subtitles created, you can use ChatGPT to translate them to French and replace the original. I can’t include YouTube links, otherwise it won’t let me post this comment, so I’ll try to add them in a second post."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to do it yourself you can use the Studio Version of Davinci Resolve. It automatically creates subtitles from your audio tracks. If you have the English subtitles created, you can use ChatGPT to translate them to French and replace the original. I can’t include YouTube links, otherwise it won’t let me post this comment, so I’ll try to add them in a second post."
+    },
+    {
+      "type": "paragraph",
+      "text": "I don’t know how good are translations from ChatGPT but in general i try to avoid automatic translations, sometimes i checked languages i know and translations were a bit odd at best (but they are improving everyday of course). To quickly understand what a website talks about they are fine, but i wouldn’t trust them for subtitles. Just my opinion of course!"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Stip wrote:\nIf you want to do it yourself you can use the Studio Version of Davinci Resolve. It automatically creates subtitles from your audio tracks. If you have the English subtitles created, you can use ChatGPT to translate them to French and replace the original. I can’t include YouTube links, otherwise it won’t let me post this comment, so I’ll try to add them in a second post."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/subtitles/#post-218025",
+      "text": "Stip wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/subtitles/#post-218134",
+    "scraped_at": "2026-01-15T12:08:46.778514+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/subtitles/#post-218134",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "ebac92cf2d23e3338572bdd7fee4de42dac4ad7db63796fefa8f76b26af2bc3d",
+    "parser_version": "bbpress-v2"
+  }
+}

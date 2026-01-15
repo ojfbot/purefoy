@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/script-breakdown-question-am-i-doing-it-right/",
+  "forum_slug": "set-talk",
+  "topic_slug": "script-breakdown-question-am-i-doing-it-right",
+  "title": "Script breakdown question — am I doing it right?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216223"
+  ],
+  "reply_tree": {
+    "post_id": "216223",
+    "post_type": "topic",
+    "author": "acmdop",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/script-breakdown-question-am-i-doing-it-right/",
+    "scraped_at": "2026-01-15T12:26:31.550569+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/script-breakdown-question-am-i-doing-it-right/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e06d1b10b6614836e0409c739aa94500940fc80d964c0e9bc065e7e3daf7c736",
+    "parser_version": "bbpress-v2"
+  }
+}

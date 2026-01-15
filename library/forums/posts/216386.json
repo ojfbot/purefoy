@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216386",
+    "forum_slug": "composition",
+    "topic_slug": "composition-and-symmetry",
+    "parent_post_id": "216380",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I believe the camera was level in that yellow room. Maybe a mistake! I really compose instinctively. On ‘Kundun’ I was aware that Marty wanted the shots to be quite formal, and I have conversations about the overall approach with any director, but, for the most part, the composition is usually arrived at instinctively on the day.",
+  "content_html": "<p>I believe the camera was level in that yellow room. Maybe a mistake! I really compose instinctively. On ‘Kundun’ I was aware that Marty wanted the shots to be quite formal, and I have conversations about the overall approach with any director, but, for the most part, the composition is usually arrived at instinctively on the day.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I believe the camera was level in that yellow room. Maybe a mistake! I really compose instinctively. On ‘Kundun’ I was aware that Marty wanted the shots to be quite formal, and I have conversations about the overall approach with any director, but, for the most part, the composition is usually arrived at instinctively on the day."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/composition-and-symmetry/#post-217506",
+    "scraped_at": "2026-01-15T12:09:26.085873+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/composition-and-symmetry/#post-217506",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "cf823333f94f385afd35faf800cc5cc3debae8aaf483428eae3900646594fe91",
+    "parser_version": "bbpress-v2"
+  }
+}

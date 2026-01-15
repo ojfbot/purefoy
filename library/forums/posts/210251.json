@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "210251",
+    "forum_slug": "camera",
+    "topic_slug": "exposure-with-changing-light",
+    "parent_post_id": "208973",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Exposure is an artistic value, so it’s open to many interpretations and there is no wrong or right.\nIn the scenarios you explain you could expose for a base exposure and let the flashes, thunders or flashlights completely overexposed. You could exposed for those and let the base exposure very under, so you only see characters when they get hit by light. You could split the difference and be at midway. You could overexpose characters like crazy if you want too, which brings me to that Trent Parke famous photo of an old man dressing white and very overexpose.\nIt’s up to you to choose how to expose and your guideline should be the script or story you want to tell.",
+  "content_html": "<p>Exposure is an artistic value, so it’s open to many interpretations and there is no wrong or right.<br/>\nIn the scenarios you explain you could expose for a base exposure and let the flashes, thunders or flashlights completely overexposed. You could exposed for those and let the base exposure very under, so you only see characters when they get hit by light. You could split the difference and be at midway. You could overexpose characters like crazy if you want too, which brings me to that Trent Parke famous photo of an old man dressing white and very overexpose.<br/>\nIt’s up to you to choose how to expose and your guideline should be the script or story you want to tell.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Exposure is an artistic value, so it’s open to many interpretations and there is no wrong or right.\nIn the scenarios you explain you could expose for a base exposure and let the flashes, thunders or flashlights completely overexposed. You could exposed for those and let the base exposure very under, so you only see characters when they get hit by light. You could split the difference and be at midway. You could overexpose characters like crazy if you want too, which brings me to that Trent Parke famous photo of an old man dressing white and very overexpose.\nIt’s up to you to choose how to expose and your guideline should be the script or story you want to tell."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposure-with-changing-light/#post-210251",
+    "scraped_at": "2026-01-15T15:41:58.763233+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposure-with-changing-light/#post-210251",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "872a0be794cca0cefdc04c266cd142106633c2ec5958507cb58516350fccc636",
+    "parser_version": "bbpress-v2"
+  }
+}

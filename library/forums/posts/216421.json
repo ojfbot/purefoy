@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216421",
+    "forum_slug": "forum",
+    "topic_slug": "empire-of-light-rooftop",
+    "parent_post_id": "216419",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Well, we did add a very light smoke haze and back lit this with lamps below the parapet. We had rigged the festoon lights along the promenade (the town had them in the past and most seaside towns have them now) and this was the main source that allowed the separation between the characters silhouettes and the background. Our lamps enhanced the effect. Of course, without the festoon, the smoke and the lamps there would have been little separation.",
+  "content_html": "<p>Well, we did add a very light smoke haze and back lit this with lamps below the parapet. We had rigged the festoon lights along the promenade (the town had them in the past and most seaside towns have them now) and this was the main source that allowed the separation between the characters silhouettes and the background. Our lamps enhanced the effect. Of course, without the festoon, the smoke and the lamps there would have been little separation.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Well, we did add a very light smoke haze and back lit this with lamps below the parapet. We had rigged the festoon lights along the promenade (the town had them in the past and most seaside towns have them now) and this was the main source that allowed the separation between the characters silhouettes and the background. Our lamps enhanced the effect. Of course, without the festoon, the smoke and the lamps there would have been little separation."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-rooftop/#post-216421",
+    "scraped_at": "2026-01-15T15:25:13.442502+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-rooftop/#post-216421",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3dfb3497eb7f16457da61e54e8ca5fd92df019dd30ff195b396e5d2842f50467",
+    "parser_version": "bbpress-v2"
+  }
+}

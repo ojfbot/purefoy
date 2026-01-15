@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "217231",
+    "forum_slug": "forum",
+    "topic_slug": "day-interior-lighting-when-all-windows-and-doors-closed"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "rama lingam",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear master Roger how to light a day interior when doors and windows closed. The scene call for two doors and windows closed. Groupe of teen age boys smoking cigar and drinking without their parents know Anything. There is no window source and door way to light the subject. Where to start? May I hung some lights on ceiling. But it’s not logical source when door and windows closed. I am gonna use nano prime lenses and sony fx3 camera. We don’t have enough budgets.",
+  "content_html": "<p>Dear master Roger how to light a day interior when doors and windows closed. The scene call for two doors and windows closed. Groupe of teen age boys smoking cigar and drinking without their parents know Anything. There is no window source and door way to light the subject. Where to start? May I hung some lights on ceiling. But it’s not logical source when door and windows closed. I am gonna use nano prime lenses and sony fx3 camera. We don’t have enough budgets.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear master Roger how to light a day interior when doors and windows closed. The scene call for two doors and windows closed. Groupe of teen age boys smoking cigar and drinking without their parents know Anything. There is no window source and door way to light the subject. Where to start? May I hung some lights on ceiling. But it’s not logical source when door and windows closed. I am gonna use nano prime lenses and sony fx3 camera. We don’t have enough budgets."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/day-interior-lighting-when-all-windows-and-doors-closed/#post-217340",
+    "scraped_at": "2026-01-15T15:21:03.527565+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/day-interior-lighting-when-all-windows-and-doors-closed/#post-217340",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f724f1e8885e001a05bf5a05cecc9c57f08fa52b54d22934dcb3f148988d6fb6",
+    "parser_version": "bbpress-v2"
+  }
+}

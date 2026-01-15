@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214746",
+    "forum_slug": "camera",
+    "topic_slug": "long-lenses-and-emotions-they-convey",
+    "parent_post_id": "214730",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "ravikantrai",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Haha Stip, that reminds me also of a quote attributed to Einstein, which goes “Everything should be made as simple as possible, but not simpler”.",
+  "content_html": "<p>Haha Stip, that reminds me also of a quote attributed to Einstein, which goes “Everything should be made as simple as possible, but not simpler”.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Haha Stip, that reminds me also of a quote attributed to Einstein, which goes “Everything should be made as simple as possible, but not simpler”."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/long-lenses-and-emotions-they-convey/#post-214749",
+    "scraped_at": "2026-01-15T15:25:19.318185+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/long-lenses-and-emotions-they-convey/#post-214749",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a343912f75df4991fe5b03483f1422e6ebc219712716d066da327417f5318879",
+    "parser_version": "bbpress-v2"
+  }
+}

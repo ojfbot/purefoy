@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-editing-error/",
+  "forum_slug": "film-talk",
+  "topic_slug": "empire-of-light-editing-error",
+  "title": "Empire of Light – Editing Error?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "209477"
+  ],
+  "reply_tree": {
+    "post_id": "209477",
+    "post_type": "topic",
+    "author": "Luca_HC_Gruber",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-editing-error/",
+    "scraped_at": "2026-01-15T14:16:59.938571+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/empire-of-light-editing-error/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "03d241d1e4197ecbc3151a455e127060f40b93894718a6527e0c8dd0d7209af6",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ids": {
+    "post_id": "214708",
+    "forum_slug": "film-talk",
+    "topic_slug": "low-no-budget-movies-with-intriguing-cinematography",
+    "parent_post_id": "206257",
+    "parent_type": "topic",
+    "position": 15
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "harshad.mori",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Salvation at sunrise  its indie feature film and  available on youtube. i have shot this film.\nteaser of that film\nhttps://www.youtube.com/watch?v=136-GjSqODE",
+  "content_html": "<p>Salvation at sunrise  its indie feature film and  available on youtube. i have shot this film.</p>\n<p>teaser of that film</p>\n<p><a href=\"https://www.youtube.com/watch?v=136-GjSqODE\" rel=\"nofollow\">https://www.youtube.com/watch?v=136-GjSqODE</a></p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Salvation at sunrise  its indie feature film and  available on youtube. i have shot this film."
+    },
+    {
+      "type": "paragraph",
+      "text": "teaser of that film"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://www.youtube.com/watch?v=136-GjSqODE"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://www.youtube.com/watch?v=136-GjSqODE",
+      "text": "https://www.youtube.com/watch?v=136-GjSqODE",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/low-no-budget-movies-with-intriguing-cinematography/",
+    "scraped_at": "2026-01-15T14:13:32.890740+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/low-no-budget-movies-with-intriguing-cinematography/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "24d32b441bea25f5e5dbdc8b5d2c11f427d26751ac371ebd82d8f3da719d3dbb",
+    "parser_version": "bbpress-v2"
+  }
+}

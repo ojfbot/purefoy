@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216456",
+    "forum_slug": "forum",
+    "topic_slug": "the-soft-light-control-in-empire-of-light",
+    "parent_post_id": "216450",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "You control soft light through placement/distance (i.e. fall-off rate), flagging (including light control tools), and to some degree, art direction (a dark wall will need less flagging that a light one.)\nThere are pros and cons to using grids in front of lights. They are fine if the subject is centered on the soft light but they may fall-off too quickly as they move forward and back.  And if it is an overhead soft light, often you want the subject to be nearer to one edge so that they are more 3/4 frontal top lit, so a grid would be cutting off too much light that is ahead of their position. A skirt might be better in this case.\nRoger has talked in the past about using vertical flags as louvers rather than use a grid.",
+  "content_html": "<p>You control soft light through placement/distance (i.e. fall-off rate), flagging (including light control tools), and to some degree, art direction (a dark wall will need less flagging that a light one.)</p>\n<p>There are pros and cons to using grids in front of lights. They are fine if the subject is centered on the soft light but they may fall-off too quickly as they move forward and back.  And if it is an overhead soft light, often you want the subject to be nearer to one edge so that they are more 3/4 frontal top lit, so a grid would be cutting off too much light that is ahead of their position. A skirt might be better in this case.</p>\n<p>Roger has talked in the past about using vertical flags as louvers rather than use a grid.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "You control soft light through placement/distance (i.e. fall-off rate), flagging (including light control tools), and to some degree, art direction (a dark wall will need less flagging that a light one.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are pros and cons to using grids in front of lights. They are fine if the subject is centered on the soft light but they may fall-off too quickly as they move forward and back.  And if it is an overhead soft light, often you want the subject to be nearer to one edge so that they are more 3/4 frontal top lit, so a grid would be cutting off too much light that is ahead of their position. A skirt might be better in this case."
+    },
+    {
+      "type": "paragraph",
+      "text": "Roger has talked in the past about using vertical flags as louvers rather than use a grid."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-soft-light-control-in-empire-of-light/#post-216458",
+    "scraped_at": "2026-01-15T15:24:49.219402+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-soft-light-control-in-empire-of-light/#post-216458",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "c98d5edf4e8e813c64ef1e83ade6543c41e221335000da0e082195c6fbc9cb1d",
+    "parser_version": "bbpress-v2"
+  }
+}

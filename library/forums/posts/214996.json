@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "214996",
+    "forum_slug": "camera",
+    "topic_slug": "subjects-appear-in-the-frame",
+    "parent_post_id": "214978",
+    "parent_type": "topic",
+    "position": 8
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Bernard LIm",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hi everyone, to sir Roger and all, how do you make a decisive choice lets say between a 18 or 24, or a 28 or 35 (s35 term), without getting overwhelmed by option of focal length\nI remember reading master of light where John Alonzo mentioned he’s very deliberate with focal length, difference between 29 & 35 is just moving forward or backward two steps, to get same field size.\nHope i explain my frustration well, thank you for reading\nBernard Lim from Malaysia",
+  "content_html": "<p>Hi everyone, to sir Roger and all, how do you make a decisive choice lets say between a 18 or 24, or a 28 or 35 (s35 term), without getting overwhelmed by option of focal length</p>\n<p>I remember reading master of light where John Alonzo mentioned he’s very deliberate with focal length, difference between 29 &amp; 35 is just moving forward or backward two steps, to get same field size.</p>\n<p>Hope i explain my frustration well, thank you for reading</p>\n<p>Bernard Lim from Malaysia</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hi everyone, to sir Roger and all, how do you make a decisive choice lets say between a 18 or 24, or a 28 or 35 (s35 term), without getting overwhelmed by option of focal length"
+    },
+    {
+      "type": "paragraph",
+      "text": "I remember reading master of light where John Alonzo mentioned he’s very deliberate with focal length, difference between 29 & 35 is just moving forward or backward two steps, to get same field size."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope i explain my frustration well, thank you for reading"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bernard Lim from Malaysia"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/subjects-appear-in-the-frame/#post-214997",
+    "scraped_at": "2026-01-15T15:24:09.902631+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/subjects-appear-in-the-frame/#post-214997",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "46b02d3f84e835aae3b2762b4f12fa017617f0007f6376e2450e5e92942dcfc3",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "post_id": "214945",
+    "forum_slug": "forum",
+    "topic_slug": "creating-contrast-in-a-white-room-when-filming-black-and-white",
+    "parent_post_id": "214934",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Vigsod",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger Deakins wrote:\nYour idea of using mirrors to lessen the falloff should help. You might want to try silver stipple and a lighter diffusion, such as a brush silk, which will make the source a little softer but somewhat directional. A heavy diffusion near the window will tend to spread the light wider. The light level imbalance can be reduced by pulling stop but it could also be nice that things fall off into deep shadow away from the windows. That really depends on the scene and the location and impossible to make a judgement from here!\nOhh interesting, the idea of using brushed silk vertically sounds like a good way to soften the light while not spreading the light too much horizontally onto the white walls.\nI’m often reminded while listening to your podcasts that it’s always about telling a story, which I agree with. It’s very easy getting carried away when you get so few opportunities to prove yourself that you want it to look good, but then lose sight of the story.\nAs much as it is intuition, personal taste and style that goes in to telling the story through the camera I find it hard finding my own voice. How to translate the story to the picture you’re capturing. I was wondering if perhaps you could elaborate more specifically about your process how you make those decisions on set and even in prep?\nI know I strayed away from the topic a bit but the thought hit me and would love to hear if you’ve any musings about finding your own voice behind the camera?",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/creating-contrast-in-a-white-room-when-filming-black-and-white/#post-214935\">Roger Deakins wrote:</a></div>\n<p>Your idea of using mirrors to lessen the falloff should help. You might want to try silver stipple and a lighter diffusion, such as a brush silk, which will make the source a little softer but somewhat directional. A heavy diffusion near the window will tend to spread the light wider. The light level imbalance can be reduced by pulling stop but it could also be nice that things fall off into deep shadow away from the windows. That really depends on the scene and the location and impossible to make a judgement from here!</p></blockquote>\n<p>Ohh interesting, the idea of using brushed silk vertically sounds like a good way to soften the light while not spreading the light too much horizontally onto the white walls.</p>\n<p>I’m often reminded while listening to your podcasts that it’s always about telling a story, which I agree with. It’s very easy getting carried away when you get so few opportunities to prove yourself that you want it to look good, but then lose sight of the story.</p>\n<p>As much as it is intuition, personal taste and style that goes in to telling the story through the camera I find it hard finding my own voice. How to translate the story to the picture you’re capturing. I was wondering if perhaps you could elaborate more specifically about your process how you make those decisions on set and even in prep?</p>\n<p>I know I strayed away from the topic a bit but the thought hit me and would love to hear if you’ve any musings about finding your own voice behind the camera?</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Roger Deakins wrote:\nYour idea of using mirrors to lessen the falloff should help. You might want to try silver stipple and a lighter diffusion, such as a brush silk, which will make the source a little softer but somewhat directional. A heavy diffusion near the window will tend to spread the light wider. The light level imbalance can be reduced by pulling stop but it could also be nice that things fall off into deep shadow away from the windows. That really depends on the scene and the location and impossible to make a judgement from here!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your idea of using mirrors to lessen the falloff should help. You might want to try silver stipple and a lighter diffusion, such as a brush silk, which will make the source a little softer but somewhat directional. A heavy diffusion near the window will tend to spread the light wider. The light level imbalance can be reduced by pulling stop but it could also be nice that things fall off into deep shadow away from the windows. That really depends on the scene and the location and impossible to make a judgement from here!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohh interesting, the idea of using brushed silk vertically sounds like a good way to soften the light while not spreading the light too much horizontally onto the white walls."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m often reminded while listening to your podcasts that it’s always about telling a story, which I agree with. It’s very easy getting carried away when you get so few opportunities to prove yourself that you want it to look good, but then lose sight of the story."
+    },
+    {
+      "type": "paragraph",
+      "text": "As much as it is intuition, personal taste and style that goes in to telling the story through the camera I find it hard finding my own voice. How to translate the story to the picture you’re capturing. I was wondering if perhaps you could elaborate more specifically about your process how you make those decisions on set and even in prep?"
+    },
+    {
+      "type": "paragraph",
+      "text": "I know I strayed away from the topic a bit but the thought hit me and would love to hear if you’ve any musings about finding your own voice behind the camera?"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Roger Deakins wrote:\nYour idea of using mirrors to lessen the falloff should help. You might want to try silver stipple and a lighter diffusion, such as a brush silk, which will make the source a little softer but somewhat directional. A heavy diffusion near the window will tend to spread the light wider. The light level imbalance can be reduced by pulling stop but it could also be nice that things fall off into deep shadow away from the windows. That really depends on the scene and the location and impossible to make a judgement from here!"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/creating-contrast-in-a-white-room-when-filming-black-and-white/#post-214935",
+      "text": "Roger Deakins wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/creating-contrast-in-a-white-room-when-filming-black-and-white/#post-214946",
+    "scraped_at": "2026-01-15T15:50:21.629074+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/creating-contrast-in-a-white-room-when-filming-black-and-white/#post-214946",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "89075287090ba11216d2de5d8d7ae09f593986d20200535ba89c1740fdfd31e4",
+    "parser_version": "bbpress-v2"
+  }
+}

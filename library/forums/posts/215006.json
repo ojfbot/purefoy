@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "post_id": "215006",
+    "forum_slug": "camera",
+    "topic_slug": "projector-poor-mans-process",
+    "parent_post_id": "215001",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Elliot Be",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Correcting some fast typing and no checking\nI will be shooting the footage at the time of day specific to the film so I will capture the driving footage at 56k (or cool it a bit to make it warmer for the morning).\nAnd I am guessing I should fix the ISO to get the correct exposure per shot.\nHi Roger, good to hear I’m thinking in the right direction then. Can I ask what your thinking was behind that as I was mainly going on instinct on this one?\nInteresting on the lenses. I was hoping just to use the GoPros linear mode which says its 19-39mm, although that should cover me on lens choice.\nCan I ask what you did with the shutter on the capture cameras? Kept it the same as main action or added more motion?\nAlso if you don’t mind me asking, what were your lighting tricks for lighting motions through trees etc that I saw in ‘The man who wasn’t there’?\nCheers\nE",
+  "content_html": "<p><em>Correcting some fast typing and no checking</em></p>\n<p><em>I will be shooting the footage at the time of day specific to the film so I will capture the driving footage at 56k (or cool it a bit to make it warmer for the morning).</em></p>\n<p><em>And I am guessing I should fix the ISO to get the correct exposure per shot.</em></p>\n<p> </p>\n<p>Hi Roger, good to hear I’m thinking in the right direction then. Can I ask what your thinking was behind that as I was mainly going on instinct on this one?</p>\n<p>Interesting on the lenses. I was hoping just to use the GoPros linear mode which says its 19-39mm, although that should cover me on lens choice.</p>\n<p>Can I ask what you did with the shutter on the capture cameras? Kept it the same as main action or added more motion?</p>\n<p>Also if you don’t mind me asking, what were your lighting tricks for lighting motions through trees etc that I saw in ‘The man who wasn’t there’?</p>\n<p> </p>\n<p>Cheers</p>\n<p>E</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Correcting some fast typing and no checking"
+    },
+    {
+      "type": "paragraph",
+      "text": "I will be shooting the footage at the time of day specific to the film so I will capture the driving footage at 56k (or cool it a bit to make it warmer for the morning)."
+    },
+    {
+      "type": "paragraph",
+      "text": "And I am guessing I should fix the ISO to get the correct exposure per shot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hi Roger, good to hear I’m thinking in the right direction then. Can I ask what your thinking was behind that as I was mainly going on instinct on this one?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Interesting on the lenses. I was hoping just to use the GoPros linear mode which says its 19-39mm, although that should cover me on lens choice."
+    },
+    {
+      "type": "paragraph",
+      "text": "Can I ask what you did with the shutter on the capture cameras? Kept it the same as main action or added more motion?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also if you don’t mind me asking, what were your lighting tricks for lighting motions through trees etc that I saw in ‘The man who wasn’t there’?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cheers"
+    },
+    {
+      "type": "paragraph",
+      "text": "E"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/projector-poor-mans-process/#post-215009",
+    "scraped_at": "2026-01-15T15:24:03.655757+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/projector-poor-mans-process/#post-215009",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "21e585033239adfb46db2198b4e36be1060301700460cc32fe1c130aa12f24ed",
+    "parser_version": "bbpress-v2"
+  }
+}

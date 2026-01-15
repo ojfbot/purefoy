@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "post_id": "215653",
+    "forum_slug": "film-talk",
+    "topic_slug": "kurosawas-high-and-low"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "tommygreenbeans",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I had the great pleasure to finally watch High and Low in January, and oh my lord did it blow me away.\nIm simply obsessed over the amount of detail and care put into its blocking in the first half in the apartment. Theres just so much\nvisual info and tension being constructed\nbetween like 6 characters in one room, yet its all perfectly legible and understandable. And its done with just the placement of the actors!\ni also deeply in love with the camera movement and those deeply expressive images in the 2nd half too! where they descend into the depths of hell (aka 60s tokyo) and the lighting and images becomes literally and figuratively darker and surreal.\nAs fas as Im concerned, its one of the few movies that fully utilizes everything that the widescreen frame has to offer (although close encounters of the third kind comes in close at 2nd place imo).\nwhat other movies do u think use the widescreen frame to its fullest potential?\nps-how does one learn to block cinematic drama like that anyway and where can i sign up???",
+  "content_html": "<p>I had the great pleasure to finally watch High and Low in January, and oh my lord did it blow me away.</p>\n<p>Im simply obsessed over the amount of detail and care put into its blocking in the first half in the apartment. Theres just so much <em><strong><a href=\"https://youtu.be/LC8KYm85zig?si=_oTXHHj9tVPh9dmj\" rel=\"nofollow\">visual info and tension being constructed</a> </strong></em>between like 6 characters in one room, yet its all perfectly legible and understandable. And its done with just the placement of the actors!</p>\n<p>i also deeply in love with the camera movement and those deeply expressive images in the 2nd half too! where they descend into the depths of hell (aka 60s tokyo) and the lighting and images becomes literally and figuratively darker and surreal.</p>\n<p>As fas as Im concerned, its one of the few movies that fully utilizes everything that the widescreen frame has to offer (although close encounters of the third kind comes in close at 2nd place imo).</p>\n<p>what other movies do u think use the widescreen frame to its fullest potential?</p>\n<p>ps-how does one learn to block cinematic drama like that anyway and where can i sign up???</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I had the great pleasure to finally watch High and Low in January, and oh my lord did it blow me away."
+    },
+    {
+      "type": "paragraph",
+      "text": "Im simply obsessed over the amount of detail and care put into its blocking in the first half in the apartment. Theres just so much\nvisual info and tension being constructed\nbetween like 6 characters in one room, yet its all perfectly legible and understandable. And its done with just the placement of the actors!"
+    },
+    {
+      "type": "paragraph",
+      "text": "i also deeply in love with the camera movement and those deeply expressive images in the 2nd half too! where they descend into the depths of hell (aka 60s tokyo) and the lighting and images becomes literally and figuratively darker and surreal."
+    },
+    {
+      "type": "paragraph",
+      "text": "As fas as Im concerned, its one of the few movies that fully utilizes everything that the widescreen frame has to offer (although close encounters of the third kind comes in close at 2nd place imo)."
+    },
+    {
+      "type": "paragraph",
+      "text": "what other movies do u think use the widescreen frame to its fullest potential?"
+    },
+    {
+      "type": "paragraph",
+      "text": "ps-how does one learn to block cinematic drama like that anyway and where can i sign up???"
+    }
+  ],
+  "quotes": [],
+  "links": [
+    {
+      "href": "https://youtu.be/LC8KYm85zig?si=_oTXHHj9tVPh9dmj",
+      "text": "visual info and tension being constructed",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/kurosawas-high-and-low/#post-215755",
+    "scraped_at": "2026-01-15T13:16:10.526851+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/kurosawas-high-and-low/#post-215755",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "0f2ce9853fdad0eefe495d31bbad16effc610bfd605111790c2713cf826d7048",
+    "parser_version": "bbpress-v2"
+  }
+}

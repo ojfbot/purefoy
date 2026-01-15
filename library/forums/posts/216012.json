@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216012",
+    "forum_slug": "camera",
+    "topic_slug": "manipulating-the-image",
+    "parent_post_id": "215997",
+    "parent_type": "topic",
+    "position": 4
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "dmullenasc",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Generally no, I shoot on the Alexa and stick to a ISO 500 to 1000 range, mostly to control depth of field more than anything. Otherwise I’m mostly at ISO 800. I control my highlights or shadows by exposure and lighting. I control contrast through lighting and by adjusting the LUT using ASC-CDL, mainly for dailies (an adjustment might be to match two cameras or lenses for example, or to deal with a hazy set, etc.)",
+  "content_html": "<p>Generally no, I shoot on the Alexa and stick to a ISO 500 to 1000 range, mostly to control depth of field more than anything. Otherwise I’m mostly at ISO 800. I control my highlights or shadows by exposure and lighting. I control contrast through lighting and by adjusting the LUT using ASC-CDL, mainly for dailies (an adjustment might be to match two cameras or lenses for example, or to deal with a hazy set, etc.)</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Generally no, I shoot on the Alexa and stick to a ISO 500 to 1000 range, mostly to control depth of field more than anything. Otherwise I’m mostly at ISO 800. I control my highlights or shadows by exposure and lighting. I control contrast through lighting and by adjusting the LUT using ASC-CDL, mainly for dailies (an adjustment might be to match two cameras or lenses for example, or to deal with a hazy set, etc.)"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/manipulating-the-image/#post-216014",
+    "scraped_at": "2026-01-15T15:18:09.761391+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/manipulating-the-image/#post-216014",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "eb1345d4da623a79bf83023fcb0429c7b834615a06f23217c4ebe9763297a345",
+    "parser_version": "bbpress-v2"
+  }
+}

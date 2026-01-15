@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "post_id": "215189",
+    "forum_slug": "camera",
+    "topic_slug": "luts",
+    "parent_post_id": "215179",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Ryan Jackson",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There’s a great episode of the podcast with Joachim Zell from Company 3 where they discuss LUTs. All it is a file that tells the grading software to change one set of values to another. Hue, Saturation, and Contrast usually being the main ones targeted. Most manufacturers will release a LUT on their website for their cameras to correct the Log image to an image that looks “correct” on the monitor you are viewing on. For example Arri Log-C to Rec.709 LUT converts the values of Log-C to values that look correct on a Rec.709 monitor.\nOn set LUTs are used to correct the image so that anyone viewing the feed on a monitor will see a corrected version of what is being captured by the camera.\nIn a grade, they can be used for either a basic correction or for a specific look. It all depends on the DP and colorist’s way of working.\nThey are just a tool.",
+  "content_html": "<p>There’s a great episode of the podcast with Joachim Zell from Company 3 where they discuss LUTs. All it is a file that tells the grading software to change one set of values to another. Hue, Saturation, and Contrast usually being the main ones targeted. Most manufacturers will release a LUT on their website for their cameras to correct the Log image to an image that looks “correct” on the monitor you are viewing on. For example Arri Log-C to Rec.709 LUT converts the values of Log-C to values that look correct on a Rec.709 monitor.</p>\n<p>On set LUTs are used to correct the image so that anyone viewing the feed on a monitor will see a corrected version of what is being captured by the camera.</p>\n<p>In a grade, they can be used for either a basic correction or for a specific look. It all depends on the DP and colorist’s way of working.</p>\n<p>They are just a tool.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There’s a great episode of the podcast with Joachim Zell from Company 3 where they discuss LUTs. All it is a file that tells the grading software to change one set of values to another. Hue, Saturation, and Contrast usually being the main ones targeted. Most manufacturers will release a LUT on their website for their cameras to correct the Log image to an image that looks “correct” on the monitor you are viewing on. For example Arri Log-C to Rec.709 LUT converts the values of Log-C to values that look correct on a Rec.709 monitor."
+    },
+    {
+      "type": "paragraph",
+      "text": "On set LUTs are used to correct the image so that anyone viewing the feed on a monitor will see a corrected version of what is being captured by the camera."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a grade, they can be used for either a basic correction or for a specific look. It all depends on the DP and colorist’s way of working."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are just a tool."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/luts/",
+    "scraped_at": "2026-01-15T15:22:39.354701+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/luts/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e046be6d27031ec733f236f63e8f21162dcea2a95dd68218d9f1a24a02a472a3",
+    "parser_version": "bbpress-v2"
+  }
+}

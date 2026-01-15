@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216617",
+    "forum_slug": "camera",
+    "topic_slug": "geared-head-vs-fluid-head",
+    "parent_post_id": "216341",
+    "parent_type": "topic",
+    "position": 6
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Hongqi",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hahaha, Newton at work! Glad you grabbed the magazine. Do you have a preference on which head to use?",
+  "content_html": "<p>Hahaha, Newton at work! Glad you grabbed the magazine. Do you have a preference on which head to use?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hahaha, Newton at work! Glad you grabbed the magazine. Do you have a preference on which head to use?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/geared-head-vs-fluid-head/#post-216617",
+    "scraped_at": "2026-01-15T13:40:00.514317+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/geared-head-vs-fluid-head/#post-216617",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "2af98563d98d6e2fc6236b87cac3db3ecba5c3325cabee0d68ab560487a54a2d",
+    "parser_version": "bbpress-v2"
+  }
+}

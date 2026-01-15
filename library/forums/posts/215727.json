@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215727",
+    "forum_slug": "forum",
+    "topic_slug": "the-look-of-hail-cesar",
+    "parent_post_id": "215700",
+    "parent_type": "topic",
+    "position": 5
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Max A.",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Hello Stip, thank you very much for your suggestion! Yes, I use Davinci Resolve, I tend to try to do the same process you mention with tools in Resolve but good to know that there is another tool to try! I love to tweak color densities in Resolve, but of course, a skilled color scientist can use specific tools over others (also in Resolve) to achieve more “scientific” results, but this is another topic to talk about 😄.\nEverything is interesting and comparison is something I love, but I haven’t always been able to find “colleagues” willing to discuss.\nI wish you a nice day.\nMax.",
+  "content_html": "<p>Hello Stip, thank you very much for your suggestion! Yes, I use Davinci Resolve, I tend to try to do the same process you mention with tools in Resolve but good to know that there is another tool to try! I love to tweak color densities in Resolve, but of course, a skilled color scientist can use specific tools over others (also in Resolve) to achieve more “scientific” results, but this is another topic to talk about 😄.<br/>\nEverything is interesting and comparison is something I love, but I haven’t always been able to find “colleagues” willing to discuss.</p>\n<p>I wish you a nice day.<br/>\nMax.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hello Stip, thank you very much for your suggestion! Yes, I use Davinci Resolve, I tend to try to do the same process you mention with tools in Resolve but good to know that there is another tool to try! I love to tweak color densities in Resolve, but of course, a skilled color scientist can use specific tools over others (also in Resolve) to achieve more “scientific” results, but this is another topic to talk about 😄.\nEverything is interesting and comparison is something I love, but I haven’t always been able to find “colleagues” willing to discuss."
+    },
+    {
+      "type": "paragraph",
+      "text": "I wish you a nice day.\nMax."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-look-of-hail-cesar/#post-215885",
+    "scraped_at": "2026-01-15T15:43:38.596706+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-look-of-hail-cesar/#post-215885",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "dcf00f0d2ec2273d6fa0e043c9c8ef33550375e27edd161d9428fb75ca29fa58",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "post_id": "217149",
+    "forum_slug": "forum",
+    "topic_slug": "the-human-face"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "lukas_hyrman",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Mr. Deakins,\nthank you for putting these resources together its a real brain feast\nI am curious how you approach lighting a new face.  For example, one person with a motivated soft light like a window off to the side say, how do you approach structuring your cove of bounces?\nJohn Alton wrote that he would move a test lamp around his subjects face first in order to fine the interesting angles for his light.  Do you do this?  Do you use the angle’s of a person’s jaw line, etc. to inspire your lighting direction?\nthank you sincerely for all you have shared, its very thought provoking material.\n-Lukáš",
+  "content_html": "<p>Dear Mr. Deakins,</p>\n<p>thank you for putting these resources together its a real brain feast</p>\n<p>I am curious how you approach lighting a new face.  For example, one person with a motivated soft light like a window off to the side say, how do you approach structuring your cove of bounces?</p>\n<p>John Alton wrote that he would move a test lamp around his subjects face first in order to fine the interesting angles for his light.  Do you do this?  Do you use the angle’s of a person’s jaw line, etc. to inspire your lighting direction?</p>\n<p>thank you sincerely for all you have shared, its very thought provoking material.<br/>\n-Lukáš</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Mr. Deakins,"
+    },
+    {
+      "type": "paragraph",
+      "text": "thank you for putting these resources together its a real brain feast"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am curious how you approach lighting a new face.  For example, one person with a motivated soft light like a window off to the side say, how do you approach structuring your cove of bounces?"
+    },
+    {
+      "type": "paragraph",
+      "text": "John Alton wrote that he would move a test lamp around his subjects face first in order to fine the interesting angles for his light.  Do you do this?  Do you use the angle’s of a person’s jaw line, etc. to inspire your lighting direction?"
+    },
+    {
+      "type": "paragraph",
+      "text": "thank you sincerely for all you have shared, its very thought provoking material.\n-Lukáš"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-human-face/#post-217197",
+    "scraped_at": "2026-01-15T15:21:36.809366+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-human-face/#post-217197",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fe48972f07dc765c5670f0e57301e90d54e4e464af77a1f9f2a42af8b78e0edd",
+    "parser_version": "bbpress-v2"
+  }
+}

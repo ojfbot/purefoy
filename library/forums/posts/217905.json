@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "post_id": "217905",
+    "forum_slug": "forum",
+    "topic_slug": "matching-2-shots-in-different-locations"
+  },
+  "post_type": "topic",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "For my little project i will shoot (for practical reasons but also to shoot the scene almost entirely with natural light) two angles of the same scene in two different locations, that should represent 2 different walls of the same room (i considered every possible alternative, green screen included, but this is the only option that preserve the natural light in both shots). They both face (more or less) north and the direct sun won’t be visibile. I’ll shoot them one after the other so i hope the natural light won’t change a lot in a little time. By matching set decorations and planning the camera movements i should be able to make them look like two angles of the same room. The focal lenght and the aperture will be the same. Am i missing something? Any tips to make this thing easier will be greatly appreciated!",
+  "content_html": "<p>For my little project i will shoot (for practical reasons but also to shoot the scene almost entirely with natural light) two angles of the same scene in two different locations, that should represent 2 different walls of the same room (i considered every possible alternative, green screen included, but this is the only option that preserve the natural light in both shots). They both face (more or less) north and the direct sun won’t be visibile. I’ll shoot them one after the other so i hope the natural light won’t change a lot in a little time. By matching set decorations and planning the camera movements i should be able to make them look like two angles of the same room. The focal lenght and the aperture will be the same. Am i missing something? Any tips to make this thing easier will be greatly appreciated!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "For my little project i will shoot (for practical reasons but also to shoot the scene almost entirely with natural light) two angles of the same scene in two different locations, that should represent 2 different walls of the same room (i considered every possible alternative, green screen included, but this is the only option that preserve the natural light in both shots). They both face (more or less) north and the direct sun won’t be visibile. I’ll shoot them one after the other so i hope the natural light won’t change a lot in a little time. By matching set decorations and planning the camera movements i should be able to make them look like two angles of the same room. The focal lenght and the aperture will be the same. Am i missing something? Any tips to make this thing easier will be greatly appreciated!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/matching-2-shots-in-different-locations/#post-218126",
+    "scraped_at": "2026-01-15T15:18:14.884403+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/matching-2-shots-in-different-locations/#post-218126",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b1c3a5c2718c0a82a5dca069cc33bd4acddf82053cda2cc27e10b6d1adfe005a",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/a-i-and-concept-development/#post-216980",
+  "forum_slug": "post",
+  "topic_slug": "a-i-and-concept-development",
+  "title": "A.I and concept development",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "216472",
+    "216473",
+    "216483",
+    "216545",
+    "216980"
+  ],
+  "reply_tree": {
+    "post_id": "216472",
+    "post_type": "topic",
+    "author": "Baudelaire",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "216473",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216483",
+        "post_type": "reply",
+        "author": "Baudelaire",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216545",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "216980",
+        "post_type": "reply",
+        "author": "ravikantrai",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 4,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/a-i-and-concept-development/#post-216980",
+    "scraped_at": "2026-01-15T12:09:13.283524+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/a-i-and-concept-development/#post-216980",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "a67373616dfc2f79387934cd54f1218cd00a9cf343d1d5aca055c0b865e9dcb9",
+    "parser_version": "bbpress-v2"
+  }
+}

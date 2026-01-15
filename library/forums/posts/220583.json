@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "post_id": "220583",
+    "forum_slug": "team-deakins",
+    "topic_slug": "reflections-new-book",
+    "parent_post_id": "217941",
+    "parent_type": "topic",
+    "position": 28
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Stip",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Also, gutted to report that my Amazon pre-order (placed ~6 months ago) just got cancelled out of the blue.\nMine too. Amazon Germany.\nOrdered April, yesterday it said it would arrive today, today it suddenly says ‘order canceled’.",
+  "content_html": "<blockquote><p>Also, gutted to report that my Amazon pre-order (placed ~6 months ago) just got cancelled out of the blue.</p></blockquote>\n<p>Mine too. Amazon Germany.</p>\n<p>Ordered April, yesterday it said it would arrive today, today it suddenly says ‘order canceled’.</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Also, gutted to report that my Amazon pre-order (placed ~6 months ago) just got cancelled out of the blue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, gutted to report that my Amazon pre-order (placed ~6 months ago) just got cancelled out of the blue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mine too. Amazon Germany."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ordered April, yesterday it said it would arrive today, today it suddenly says ‘order canceled’."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Also, gutted to report that my Amazon pre-order (placed ~6 months ago) just got cancelled out of the blue."
+    }
+  ],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/2/",
+    "scraped_at": "2026-01-15T11:50:40.148691+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/reflections-new-book/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "87ef10a79d92af9106c182f28a4bf9b6bd26f5891530d16489fcbaa9ce7b695a",
+    "parser_version": "bbpress-v2"
+  }
+}

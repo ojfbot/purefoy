@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215145",
+    "forum_slug": "forum",
+    "topic_slug": "contrast-ratio",
+    "parent_post_id": "215132",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I consider contrast when I am staring a project and when I light a scene but mine is not a mathematical approach. Some cinematographers my work from a ratio when they light but I just use my eye, judge the way I want a shot to look by looking at it.\nWhether you maintain the contrast of the image through the whole film is up to the individual and the script. Its impossible to give one sweeping answer.",
+  "content_html": "<p>I consider contrast when I am staring a project and when I light a scene but mine is not a mathematical approach. Some cinematographers my work from a ratio when they light but I just use my eye, judge the way I want a shot to look by looking at it.</p>\n<p>Whether you maintain the contrast of the image through the whole film is up to the individual and the script. Its impossible to give one sweeping answer.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I consider contrast when I am staring a project and when I light a scene but mine is not a mathematical approach. Some cinematographers my work from a ratio when they light but I just use my eye, judge the way I want a shot to look by looking at it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether you maintain the contrast of the image through the whole film is up to the individual and the script. Its impossible to give one sweeping answer."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio/#post-215259",
+    "scraped_at": "2026-01-15T15:48:00.001442+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/contrast-ratio/#post-215259",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "607b42e57d94706789446f7bc7d2ca1c9a9ee4270c267c6ab9354e7b8620e07c",
+    "parser_version": "bbpress-v2"
+  }
+}

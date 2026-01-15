@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "post_id": "215802",
+    "forum_slug": "camera",
+    "topic_slug": "exposure",
+    "parent_post_id": "215560",
+    "parent_type": "topic",
+    "position": 10
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "IgorVe",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Roger Deakins wrote:\nShoot it the way you want it to appear on screen.\nIs this your constant approach, regardless of the circumstances, or does it happen that you shoot in such a way that you can then “tweak” the exposure later? For example, moving the camera out of a dark basement on a sunny afternoon. Sorry for this amateurish question, but modern 15+ stops sensors and compositing tools can do wonders. Is it worth making the filming process as complicated and expensive if, at least, 20% of the final image can be “adjusted” without consequences? Or do you always try to shoot with 100% even spontaneous improvisation?",
+  "content_html": "<blockquote class=\"d4pbbc-quote\">\n<div class=\"d4p-bbt-quote-title\"><a href=\"https://www.rogerdeakins.com/forums/topic/exposure/#post-215641\">Roger Deakins wrote:</a></div>\n<p>Shoot it the way you want it to appear on screen.</p></blockquote>\n<p>Is this your constant approach, regardless of the circumstances, or does it happen that you shoot in such a way that you can then “tweak” the exposure later? For example, moving the camera out of a dark basement on a sunny afternoon. Sorry for this amateurish question, but modern 15+ stops sensors and compositing tools can do wonders. Is it worth making the filming process as complicated and expensive if, at least, 20% of the final image can be “adjusted” without consequences? Or do you always try to shoot with 100% even spontaneous improvisation?</p>",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Roger Deakins wrote:\nShoot it the way you want it to appear on screen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shoot it the way you want it to appear on screen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Is this your constant approach, regardless of the circumstances, or does it happen that you shoot in such a way that you can then “tweak” the exposure later? For example, moving the camera out of a dark basement on a sunny afternoon. Sorry for this amateurish question, but modern 15+ stops sensors and compositing tools can do wonders. Is it worth making the filming process as complicated and expensive if, at least, 20% of the final image can be “adjusted” without consequences? Or do you always try to shoot with 100% even spontaneous improvisation?"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Roger Deakins wrote:\nShoot it the way you want it to appear on screen."
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215641",
+      "text": "Roger Deakins wrote:",
+      "kind": "external"
+    }
+  ],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+    "scraped_at": "2026-01-15T15:20:45.308387+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/exposure/#post-215802",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "fea00990da616a766493792054a5dd525d94ef3a6348d6b402764108056eab80",
+    "parser_version": "bbpress-v2"
+  }
+}

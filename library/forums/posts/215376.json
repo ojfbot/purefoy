@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "215376",
+    "forum_slug": "camera",
+    "topic_slug": "in-camera-lens-corrections",
+    "parent_post_id": "215347",
+    "parent_type": "topic",
+    "position": 7
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "quijotesco24",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Dear Roger,\nYes. 20k is the average price for an Arri, Zeiss, Angenieux or Cooke prime lens nowadays.",
+  "content_html": "<p>Dear Roger,</p>\n<p>Yes. 20k is the average price for an Arri, Zeiss, Angenieux or Cooke prime lens nowadays.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Dear Roger,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes. 20k is the average price for an Arri, Zeiss, Angenieux or Cooke prime lens nowadays."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/in-camera-lens-corrections/#post-216194",
+    "scraped_at": "2026-01-15T14:33:52.632930+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/in-camera-lens-corrections/#post-216194",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "eca95bf1ac6b8462e0dbebb2f7c93bf06cabaeced04c9ba951e939617dda0859",
+    "parser_version": "bbpress-v2"
+  }
+}

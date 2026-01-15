@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215477",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-approach-for-daytime-interior-in-a-high-rise",
+    "parent_post_id": "215472",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Your location photo looks good. Nice large windows. When you are shooting somewhere like that its a matter of scheduling your shots so that you don’t suddenly get a shaft of sunlight in the middle of an. otherwise soft scene. The overheads could help, if you want to soften the look but I might just leave them off and use small daylight balanced lamps if really necessary.",
+  "content_html": "<p>Your location photo looks good. Nice large windows. When you are shooting somewhere like that its a matter of scheduling your shots so that you don’t suddenly get a shaft of sunlight in the middle of an. otherwise soft scene. The overheads could help, if you want to soften the look but I might just leave them off and use small daylight balanced lamps if really necessary.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Your location photo looks good. Nice large windows. When you are shooting somewhere like that its a matter of scheduling your shots so that you don’t suddenly get a shaft of sunlight in the middle of an. otherwise soft scene. The overheads could help, if you want to soften the look but I might just leave them off and use small daylight balanced lamps if really necessary."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-approach-for-daytime-interior-in-a-high-rise/#post-215484",
+    "scraped_at": "2026-01-15T15:47:02.977155+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-approach-for-daytime-interior-in-a-high-rise/#post-215484",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "e2255fb365410f1f9d264f0ec6c97c7a3320a5644db662052aa5a3cf8fb6178e",
+    "parser_version": "bbpress-v2"
+  }
+}

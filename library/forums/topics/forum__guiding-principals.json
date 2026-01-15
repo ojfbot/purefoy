@@ -1,0 +1,81 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/guiding-principals/#post-217164",
+  "forum_slug": "forum",
+  "topic_slug": "guiding-principals",
+  "title": "Guiding Principals",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217119",
+    "217121",
+    "217124",
+    "217126",
+    "217134",
+    "217148",
+    "217164"
+  ],
+  "reply_tree": {
+    "post_id": "217119",
+    "post_type": "topic",
+    "author": "dilljib",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "217121",
+        "post_type": "reply",
+        "author": "Stip",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217124",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217126",
+        "post_type": "reply",
+        "author": "dilljib",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217134",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217148",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "217164",
+        "post_type": "reply",
+        "author": "dilljib",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 6,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/guiding-principals/#post-217164",
+    "scraped_at": "2026-01-15T15:21:49.408638+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/guiding-principals/#post-217164",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "1a816e65101e20937c42160d40a2d7259bc62cc667a802a692ec83daa6416219",
+    "parser_version": "bbpress-v2"
+  }
+}

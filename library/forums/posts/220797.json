@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "220797",
+    "forum_slug": "camera",
+    "topic_slug": "eyes-wide-shut-moving-mirror",
+    "parent_post_id": "214623",
+    "parent_type": "topic",
+    "position": 18
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Shorsh",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Es obvio que la cámara está debajo del eje de visión. Por eso no se refleja en el espejo.",
+  "content_html": "<p>Es obvio que la cámara está debajo del eje de visión. Por eso no se refleja en el espejo.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Es obvio que la cámara está debajo del eje de visión. Por eso no se refleja en el espejo."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/eyes-wide-shut-moving-mirror/page/2/",
+    "scraped_at": "2026-01-15T12:08:52.216126+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/eyes-wide-shut-moving-mirror/page/2/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "149321e88debbb736b5741b0cdf16f946e2a962e9c0b138bc8aba6ef94a40c48",
+    "parser_version": "bbpress-v2"
+  }
+}

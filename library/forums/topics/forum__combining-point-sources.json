@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/combining-point-sources/#post-217481",
+  "forum_slug": "forum",
+  "topic_slug": "combining-point-sources",
+  "title": "Combining Point Sources",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "217447",
+    "217481"
+  ],
+  "reply_tree": {
+    "post_id": "217447",
+    "post_type": "topic",
+    "author": "RoberttorresDP",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "217481",
+        "post_type": "reply",
+        "author": "James Parsons",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/combining-point-sources/#post-217481",
+    "scraped_at": "2026-01-15T15:20:39.681788+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/combining-point-sources/#post-217481",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "b4ea0ae2227608e2532dd41e274acbd93b7ab06ee0131266b9961c21be710de6",
+    "parser_version": "bbpress-v2"
+  }
+}

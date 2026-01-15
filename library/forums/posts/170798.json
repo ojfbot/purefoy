@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "170798",
+    "forum_slug": "camera",
+    "topic_slug": "shooting-film-in-2022",
+    "parent_post_id": "170736",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t think I would do things very differently on ‘Sicario’ or that any films I have shot would have looked substantially different if they had been shot on film. I know I would have used a little more light for the night scenes but that would have been just using slightly brighter bulbs or units in the same places. I would always allow myself a thick negative for dusk work so I would have underexposed some and printed down some which is not necessary shooting with the Alexa. There is a similar extended ‘magic hour’ sequence in ‘No Country for Old Men’, which was shot on film. Certainly that was difficult but it was also more complex than the sequence in “Sicario’.\nIt was true that film used to handle highlights better than digital but that certainly isn’t the case with the higher end cameras today.",
+  "content_html": "<p>I don’t think I would do things very differently on ‘Sicario’ or that any films I have shot would have looked substantially different if they had been shot on film. I know I would have used a little more light for the night scenes but that would have been just using slightly brighter bulbs or units in the same places. I would always allow myself a thick negative for dusk work so I would have underexposed some and printed down some which is not necessary shooting with the Alexa. There is a similar extended ‘magic hour’ sequence in ‘No Country for Old Men’, which was shot on film. Certainly that was difficult but it was also more complex than the sequence in “Sicario’.</p>\n<p>It was true that film used to handle highlights better than digital but that certainly isn’t the case with the higher end cameras today.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t think I would do things very differently on ‘Sicario’ or that any films I have shot would have looked substantially different if they had been shot on film. I know I would have used a little more light for the night scenes but that would have been just using slightly brighter bulbs or units in the same places. I would always allow myself a thick negative for dusk work so I would have underexposed some and printed down some which is not necessary shooting with the Alexa. There is a similar extended ‘magic hour’ sequence in ‘No Country for Old Men’, which was shot on film. Certainly that was difficult but it was also more complex than the sequence in “Sicario’."
+    },
+    {
+      "type": "paragraph",
+      "text": "It was true that film used to handle highlights better than digital but that certainly isn’t the case with the higher end cameras today."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/shooting-film-in-2022/#post-170903",
+    "scraped_at": "2026-01-15T15:46:05.123672+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/shooting-film-in-2022/#post-170903",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "4003b1064bdbabffbf923ad1cadf885d77aa5c5f4013c7d21c181830962104c9",
+    "parser_version": "bbpress-v2"
+  }
+}

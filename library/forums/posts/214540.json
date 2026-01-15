@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "214540",
+    "forum_slug": "forum",
+    "topic_slug": "lighting-ratios",
+    "parent_post_id": "214539",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "halfgrain",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I’m not sure what exactly your question is. Using  a light meter or false color will make it fairly easy to adjust your ratio as desired in every shot. So if you want to stick to the same ratio in every shot, that’s how to do it. But I don’t see why a DP would want to stick to such a hard rule. Every shot is different and might need a different feel and therefor lighting and lighting ratio.",
+  "content_html": "<p>I’m not sure what exactly your question is. Using  a light meter or false color will make it fairly easy to adjust your ratio as desired in every shot. So if you want to stick to the same ratio in every shot, that’s how to do it. But I don’t see why a DP would want to stick to such a hard rule. Every shot is different and might need a different feel and therefor lighting and lighting ratio.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I’m not sure what exactly your question is. Using  a light meter or false color will make it fairly easy to adjust your ratio as desired in every shot. So if you want to stick to the same ratio in every shot, that’s how to do it. But I don’t see why a DP would want to stick to such a hard rule. Every shot is different and might need a different feel and therefor lighting and lighting ratio."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/lighting-ratios/#post-214561",
+    "scraped_at": "2026-01-15T15:52:49.042722+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting-ratios/#post-214561",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "07ba898f336b012d214cbacb81187dc31f53005403594bf2f7a5dfcf3d3c29c9",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "215657",
+    "forum_slug": "forum",
+    "topic_slug": "the-goldfinch-elevator",
+    "parent_post_id": "215655",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I believe I had a small ring light above the frame. It was probably skirted to control the walls but its not something I remember well.",
+  "content_html": "<p>I believe I had a small ring light above the frame. It was probably skirted to control the walls but its not something I remember well.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I believe I had a small ring light above the frame. It was probably skirted to control the walls but its not something I remember well."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/the-goldfinch-elevator/#post-215657",
+    "scraped_at": "2026-01-15T15:45:56.706161+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/the-goldfinch-elevator/#post-215657",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "05ba38c9ff39c4059be895ff876ce1a9999694e7d333202858e22aceea8d8cf8",
+    "parser_version": "bbpress-v2"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/fargo-bluray-vs-4k-which-is-the-correct-exposure/#post-218329",
+  "forum_slug": "forum",
+  "topic_slug": "fargo-bluray-vs-4k-which-is-the-correct-exposure",
+  "title": "Fargo Bluray vs 4k Which is the correct exposure",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "218275",
+    "218288",
+    "218324",
+    "218329"
+  ],
+  "reply_tree": {
+    "post_id": "218275",
+    "post_type": "topic",
+    "author": "sanghamithran",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "218288",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218324",
+        "post_type": "reply",
+        "author": "Roger Deakins",
+        "timestamp": null,
+        "children": []
+      },
+      {
+        "post_id": "218329",
+        "post_type": "reply",
+        "author": "sanghamithran",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 3,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/fargo-bluray-vs-4k-which-is-the-correct-exposure/#post-218329",
+    "scraped_at": "2026-01-15T15:08:32.537009+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/fargo-bluray-vs-4k-which-is-the-correct-exposure/#post-218329",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "f153614eb482267906d78f6cfdcde06eb41a083011efb242e584439615afaaad",
+    "parser_version": "bbpress-v2"
+  }
+}

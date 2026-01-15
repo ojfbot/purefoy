@@ -1,0 +1,32 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/happy-birthday/",
+  "forum_slug": "forum",
+  "topic_slug": "happy-birthday",
+  "title": "Happy birthday!",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "215891"
+  ],
+  "reply_tree": {
+    "post_id": "215891",
+    "post_type": "topic",
+    "author": "rama lingam",
+    "timestamp": null,
+    "children": []
+  },
+  "reply_count": 0,
+  "max_depth": 0,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/happy-birthday/",
+    "scraped_at": "2026-01-15T15:43:32.735727+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/happy-birthday/",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "703c86332353ce2329cb87ea7b1a3f2c3fb84b7ba7c82cb1a34919573fd8f6ee",
+    "parser_version": "bbpress-v2"
+  }
+}

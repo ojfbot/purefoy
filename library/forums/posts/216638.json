@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "post_id": "216638",
+    "forum_slug": "forum",
+    "topic_slug": "unmotivated-hair-light",
+    "parent_post_id": "216627",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "LucaM",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "Thanks a lot David! I really love the elegance of your shots, Mrs Maisel has a fantastic style! The effect on the nun’s veil is wonderful.\nMy scene has the exact same structure of your first shot, the one with the man and the window on his left side, of course with a completely different mood: think to the very same scene but with just the moonlight from the window (it’s a low key scene in a horror short.  Later in the scene, to create a bit of variety, i’ll add a lantern to create more contrast and a rim light or a backlight on the actor).\nIn such a situation would you use  a dim hair light (the light from the window bouncing on the ceiling and then on the actor) to add a bit of elegance and separate a bit the actor from the background or no hair light at all, to increase the dramatic factor?",
+  "content_html": "<p>Thanks a lot David! I really love the elegance of your shots, Mrs Maisel has a fantastic style! The effect on the nun’s veil is wonderful.</p>\n<p>My scene has the exact same structure of your first shot, the one with the man and the window on his left side, of course with a completely different mood: think to the very same scene but with just the moonlight from the window (it’s a low key scene in a horror short.  Later in the scene, to create a bit of variety, i’ll add a lantern to create more contrast and a rim light or a backlight on the actor).</p>\n<p>In such a situation would you use  a dim hair light (the light from the window bouncing on the ceiling and then on the actor) to add a bit of elegance and separate a bit the actor from the background or no hair light at all, to increase the dramatic factor?</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thanks a lot David! I really love the elegance of your shots, Mrs Maisel has a fantastic style! The effect on the nun’s veil is wonderful."
+    },
+    {
+      "type": "paragraph",
+      "text": "My scene has the exact same structure of your first shot, the one with the man and the window on his left side, of course with a completely different mood: think to the very same scene but with just the moonlight from the window (it’s a low key scene in a horror short.  Later in the scene, to create a bit of variety, i’ll add a lantern to create more contrast and a rim light or a backlight on the actor)."
+    },
+    {
+      "type": "paragraph",
+      "text": "In such a situation would you use  a dim hair light (the light from the window bouncing on the ceiling and then on the actor) to add a bit of elegance and separate a bit the actor from the background or no hair light at all, to increase the dramatic factor?"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/unmotivated-hair-light/#post-216653",
+    "scraped_at": "2026-01-15T15:23:52.238406+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/unmotivated-hair-light/#post-216653",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "3818fa073295c29026a3c60b6cba81e9be41ed7addefaaff165a64e3043f02e7",
+    "parser_version": "bbpress-v2"
+  }
+}

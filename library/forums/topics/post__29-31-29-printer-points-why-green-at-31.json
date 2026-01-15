@@ -1,0 +1,41 @@
+{
+  "topic_url": "https://www.rogerdeakins.com/forums/topic/29-31-29-printer-points-why-green-at-31/#post-219729",
+  "forum_slug": "post",
+  "topic_slug": "29-31-29-printer-points-why-green-at-31",
+  "title": "29 – 31 – 29 Printer Points, Why Green at 31?",
+  "breadcrumb": [],
+  "tags": [],
+  "post_ids": [
+    "219689",
+    "219729"
+  ],
+  "reply_tree": {
+    "post_id": "219689",
+    "post_type": "topic",
+    "author": "dharmawanwilly",
+    "timestamp": null,
+    "children": [
+      {
+        "post_id": "219729",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": null,
+        "children": []
+      }
+    ]
+  },
+  "reply_count": 1,
+  "max_depth": 1,
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/29-31-29-printer-points-why-green-at-31/#post-219729",
+    "scraped_at": "2026-01-15T11:50:48.518192+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/29-31-29-printer-points-why-green-at-31/#post-219729",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "d007ee536cfd6675a58d3f9df04915f30a15814d5c4f67f187f1a7bf17e7b6b8",
+    "parser_version": "bbpress-v2"
+  }
+}

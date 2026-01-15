@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "217340",
+    "forum_slug": "forum",
+    "topic_slug": "day-interior-lighting-when-all-windows-and-doors-closed",
+    "parent_post_id": "217231",
+    "parent_type": "topic",
+    "position": 3
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I would choose a window treatment, curtains or blinds, that let me silhouette a figure against them. Also, if a curtain, and it can be bunched up, I have even more control over what is seen. That is the same technique as I used for a night scene in ‘Empire of Light’. Otherwise, for you, its just a TV, which is fine but will not inform an audience as to the time of day.",
+  "content_html": "<p>I would choose a window treatment, curtains or blinds, that let me silhouette a figure against them. Also, if a curtain, and it can be bunched up, I have even more control over what is seen. That is the same technique as I used for a night scene in ‘Empire of Light’. Otherwise, for you, its just a TV, which is fine but will not inform an audience as to the time of day.</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I would choose a window treatment, curtains or blinds, that let me silhouette a figure against them. Also, if a curtain, and it can be bunched up, I have even more control over what is seen. That is the same technique as I used for a night scene in ‘Empire of Light’. Otherwise, for you, its just a TV, which is fine but will not inform an audience as to the time of day."
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/day-interior-lighting-when-all-windows-and-doors-closed/#post-217340",
+    "scraped_at": "2026-01-15T15:21:03.528322+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/day-interior-lighting-when-all-windows-and-doors-closed/#post-217340",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "bab230466401d47455259148bebf43ff50e0d5aee7494cc0ffa156ec06f4ee21",
+    "parser_version": "bbpress-v2"
+  }
+}

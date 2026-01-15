@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "post_id": "170085",
+    "forum_slug": "camera",
+    "topic_slug": "1917-camera-setups",
+    "parent_post_id": "170023",
+    "parent_type": "topic",
+    "position": 2
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "GianniRanzuglia",
+    "role": "Participant"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "I don’t think I could come up with a better idea, nonetheless, that was an amazing work done by you and the crew considering it helped tell the story, and none of the work seemed noticeable enough to disturb the scene. Up until I heard your commentary, I thought the scene was done sorely through a steadicam rig.\nThanks for your answer!",
+  "content_html": "<p>I don’t think I could come up with a better idea, nonetheless, that was an amazing work done by you and the crew considering it helped tell the story, and none of the work seemed noticeable enough to disturb the scene. Up until I heard your commentary, I thought the scene was done sorely through a steadicam rig.</p>\n<p>Thanks for your answer!</p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I don’t think I could come up with a better idea, nonetheless, that was an amazing work done by you and the crew considering it helped tell the story, and none of the work seemed noticeable enough to disturb the scene. Up until I heard your commentary, I thought the scene was done sorely through a steadicam rig."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks for your answer!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/1917-camera-setups/#post-170085",
+    "scraped_at": "2026-01-15T15:46:26.611320+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/1917-camera-setups/#post-170085",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "6b7a303762656fd2af2c25b0950c08c0714c0b437c0bc6cc0e6b8ed485545689",
+    "parser_version": "bbpress-v2"
+  }
+}

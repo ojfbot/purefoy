@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "post_id": "216779",
+    "forum_slug": "film-talk",
+    "topic_slug": "skyfall-vfx-continuity-question",
+    "parent_post_id": "216697",
+    "parent_type": "topic",
+    "position": 1
+  },
+  "post_type": "reply",
+  "author": {
+    "display_name": "Roger Deakins",
+    "role": "Keymaster"
+  },
+  "timestamps": {
+    "parse_confidence": "none"
+  },
+  "content_text": "There is a funny story. I forget what it is!",
+  "content_html": "<p>There is a funny story. I forget what it is!</p>\n<p> </p>\n<p> </p>",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "There is a funny story. I forget what it is!"
+    }
+  ],
+  "quotes": [],
+  "links": [],
+  "media": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/forums/topic/skyfall-vfx-continuity-question/#post-216779",
+    "scraped_at": "2026-01-15T12:09:27.454963+00:00",
+    "http": {
+      "url": "https://www.rogerdeakins.com/forums/topic/skyfall-vfx-continuity-question/#post-216779",
+      "status": 200
+    }
+  },
+  "integrity": {
+    "content_hash": "db088d5575a26bbfa64206f9b85f45487711a94cf97d5ee4e8a2e910c2423b12",
+    "parser_version": "bbpress-v2"
+  }
+}
