@@ -109,6 +109,9 @@ credentials/
 *_key.txt
 api_keys.json
 
+# Browser session cookies (never commit)
+**/session_cookies.json
+
 # ============================================
 # Runtime State & Logs
 # ============================================
