@@ -1,40 +1,47 @@
 {
-  "ids": {
-    "forum_slug": "team-deakins",
-    "topic_slug": "lighting-natural-light-discussion",
-    "topic_url": "https://rogerdeakins.com/forums/topic/lighting-natural-light-discussion/"
+  "_schema": "TopicLeaf v2 (bbpress-v2)",
+  "_note": "Illustrative example — fictional content showing schema shape. Actual scraped data is gitignored (library/forums/topics/).",
+  "topic_url": "https://rogerdeakins.com/forums/topic/shooting-day-for-night/",
+  "topic_slug": "shooting-day-for-night",
+  "forum_slug": "camera",
+  "title": "Shooting Day-for-Night",
+  "post_ids": ["175700", "175710", "175763"],
+  "reply_tree": {
+    "post_id": "175700",
+    "post_type": "topic",
+    "author": "FilmStudent_A",
+    "timestamp": "2023-01-10T09:00:00",
+    "children": [
+      {
+        "post_id": "175710",
+        "post_type": "reply",
+        "author": "dmullenasc",
+        "timestamp": "2023-01-12T14:22:00",
+        "children": []
+      },
+      {
+        "post_id": "175763",
+        "post_type": "reply",
+        "author": "Roger A. Deakins",
+        "timestamp": "2023-01-18T15:32:00",
+        "children": []
+      }
+    ]
   },
-  "title": "Natural Light Discussion",
-  "author": {
-    "display_name": "John Doe",
-    "role": "Participant"
-  },
-  "timestamps": {
-    "created_raw": "January 10, 2023",
-    "created_iso": "2023-01-10",
-    "last_activity_raw": "January 18, 2023",
-    "last_activity_iso": "2023-01-18"
-  },
-  "stats": {
-    "replies": 12,
-    "voices": 5,
-    "views": 450
-  },
-  "post_ids": [
-    "175700",
-    "175710",
-    "175763"
-  ],
+  "reply_count": 2,
+  "max_depth": 1,
   "provenance": {
-    "source_url": "https://rogerdeakins.com/forums/topic/lighting-natural-light-discussion/",
-    "scraped_at": "2026-01-15T03:45:00Z",
+    "source_url": "https://rogerdeakins.com/forums/topic/shooting-day-for-night/",
+    "scraped_at": "2026-01-15T03:45:00.123456+00:00",
     "http": {
-      "etag": "\"xyz789\"",
-      "last_modified": "Tue, 14 Jan 2025 12:00:00 GMT"
+      "url": "https://rogerdeakins.com/forums/topic/shooting-day-for-night/",
+      "status": 200,
+      "etag": "\"xyz789abc\"",
+      "last_modified": "Tue, 18 Jan 2023 15:32:00 GMT"
     }
   },
   "integrity": {
-    "content_hash": "sha256:def456...",
-    "parser_version": "bbpress-v1"
+    "content_hash": "sha256:def456abc789...",
+    "parser_version": "bbpress-v2"
   }
 }

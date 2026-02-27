@@ -1,10 +1,16 @@
 {
+  "_schema": "PostLeaf v2 (bbpress-v2)",
+  "_note": "Illustrative example — fictional content showing schema shape. Actual scraped data is gitignored (library/forums/posts/).",
   "ids": {
     "post_id": "175763",
-    "forum_slug": "team-deakins",
-    "topic_slug": "lighting-natural-light-discussion",
-    "reply_permalink": "https://rogerdeakins.com/forums/topic/lighting-natural-light-discussion/#post-175763"
+    "forum_slug": "camera",
+    "topic_slug": "shooting-day-for-night",
+    "reply_permalink": "https://rogerdeakins.com/forums/topic/shooting-day-for-night/#post-175763",
+    "parent_post_id": "175700",
+    "parent_type": "topic",
+    "position": 2
   },
+  "post_type": "reply",
   "author": {
     "display_name": "Roger A. Deakins",
     "role": "Keymaster"
@@ -14,55 +20,40 @@
     "parsed_iso": "2023-01-18T15:32:00",
     "parse_confidence": "medium"
   },
-  "content_text": "Plain text content of the post extracted from HTML...",
-  "content_html": "<p>Original HTML content if available...</p>",
+  "content_text": "If it's overcast it should work well for day-for-night. You might consider a heavy ND to shoot closer to f2.8, which is more typical of real night photography.",
+  "content_html": "<p>If it's overcast it should work well for day-for-night. You might consider a heavy ND to shoot closer to f2.8, which is more typical of real night photography.</p>",
   "blocks": [
     {
       "type": "paragraph",
-      "text": "First paragraph of content..."
-    },
-    {
-      "type": "quote",
-      "text": "A quoted section from another post..."
+      "text": "If it's overcast it should work well for day-for-night. You might consider a heavy ND to shoot closer to f2.8, which is more typical of real night photography."
     }
   ],
   "quotes": [
     {
-      "text": "Quoted text from another user...",
-      "attributed_to": "John Doe"
+      "text": "Would an overcast sky work for day-for-night?",
+      "attributed_to": "FilmStudent_A"
     }
   ],
   "links": [
     {
-      "href": "https://example.com/article",
-      "text": "Link text",
-      "kind": "external"
-    },
-    {
-      "href": "/forums/topic/another-topic",
-      "text": "Related discussion",
+      "href": "https://rogerdeakins.com/forums/topic/mad-max-fury-road-look/",
+      "text": "Mad Max: Fury Road day-for-night discussion",
       "kind": "internal"
     }
   ],
-  "media": [
-    {
-      "src": "https://example.com/image.jpg",
-      "alt": "Description of image",
-      "kind": "image"
-    }
-  ],
+  "media": [],
   "provenance": {
-    "source_url": "https://rogerdeakins.com/forums/topic/lighting-natural-light-discussion/",
+    "source_url": "https://rogerdeakins.com/forums/topic/shooting-day-for-night/#post-175763",
     "scraped_at": "2026-01-15T03:45:00.123456+00:00",
     "http": {
-      "url": "https://rogerdeakins.com/forums/topic/lighting-natural-light-discussion/",
+      "url": "https://rogerdeakins.com/forums/topic/shooting-day-for-night/",
       "status": 200,
       "etag": "\"abc123def456\"",
       "last_modified": "Tue, 14 Jan 2025 12:00:00 GMT"
     }
   },
   "integrity": {
-    "content_hash": "sha256:abc123...",
-    "parser_version": "bbpress-v1"
+    "content_hash": "sha256:abc123def456...",
+    "parser_version": "bbpress-v2"
   }
 }

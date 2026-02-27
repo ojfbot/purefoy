@@ -11,6 +11,22 @@ This is a **Team Deakins Podcast and Forum Knowledge Base** project. It contains
 
 All content is for **personal research and educational purposes only** under fair use principles. Commercial use requires explicit permission from copyright holders.
 
+## Git Data Policy
+
+**What is committed to git:**
+- All source code (`deakins_forums/`, `deakins_articles/`, scripts)
+- Schema examples with fictional/illustrative content (`documentation/examples-schemas/`)
+- Documentation and configuration files
+
+**What is gitignored (on disk only):**
+- `library/` — actual scraped content (forum posts, articles, images). This is the canonical data store but needs curation before committing. When ready, commit only the canonical subdirectories: `library/forums/posts/`, `library/forums/topics/`, `library/forums/forums/`, `library/articles/articles/`, `library/articles/films/`
+- `library/forums/_site/` — derived runtime state (SQLite index, HTTP cache, coverage tracking). Always regenerable.
+- `library/forums/_curated/` — derived curation views. Lives in `analysis/curated/` instead.
+- `analysis/` — export outputs and curated views (regenerable from library/)
+- `downloads/` — podcast MP3s and episode directories
+
+**Schema examples vs. actual data:** The `documentation/examples-schemas/` directory is the git-committed representation of the data layer. Each file shows the shape of a record type with fictional illustrative content — not real scraped data. See `documentation/examples-schemas/README.md` for field-level documentation.
+
 ## Project Structure
 
 ```

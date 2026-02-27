@@ -1,0 +1,28 @@
+{
+  "_schema": "FilmSectionLeaf v1.0.0",
+  "_note": "Illustrative example — fictional content showing schema shape. One file per film in the LAL collection. Actual data is gitignored (library/articles/films/).",
+  "film_id": "prisoners",
+  "film_slug": "prisoners",
+  "film_title": "Prisoners",
+  "description": "Lighting analysis articles for Prisoners (2013, dir. Denis Villeneuve)",
+  "article_refs": [
+    {
+      "article_id": "prisoners-natural-light",
+      "article_slug": "prisoners-natural-light",
+      "article_url": "https://www.rogerdeakins.com/lal-prisoners-natural-light/",
+      "title": "Prisoners — Natural Light and Window Sources",
+      "image_count": 12
+    },
+    {
+      "article_id": "prisoners-night-exteriors",
+      "article_slug": "prisoners-night-exteriors",
+      "article_url": "https://www.rogerdeakins.com/lal-prisoners-night-exteriors/",
+      "title": "Prisoners — Night Exteriors",
+      "image_count": 8
+    }
+  ],
+  "article_count": 2,
+  "total_images": 20,
+  "scraped_at": "2026-01-15T05:14:17.660820+00:00",
+  "source_menu_url": "https://www.rogerdeakins.com/looks-at-lighting/"
+}

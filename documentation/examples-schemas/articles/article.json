@@ -1,0 +1,62 @@
+{
+  "_schema": "ArticleLeaf v1.0.0",
+  "_note": "Illustrative example — fictional content showing schema shape. Actual scraped articles are gitignored (library/articles/). Requires member authentication to scrape.",
+  "ids": {
+    "article_id": "prisoners-natural-light",
+    "film_slug": "prisoners",
+    "article_slug": "prisoners-natural-light",
+    "article_url": "https://www.rogerdeakins.com/lal-prisoners-natural-light/"
+  },
+  "metadata": {
+    "title": "Prisoners — Natural Light and Window Sources",
+    "description": "An examination of the lighting approach for the interior scenes in Prisoners, focusing on motivated window sources and overcast exterior light.",
+    "excerpt": null,
+    "featured_image": "https://www.rogerdeakins.com/wp-content/uploads/prisoners-hero.jpg",
+    "author": "Roger Deakins",
+    "published_date": "2020-03-15",
+    "modified_date": "2021-06-01",
+    "word_count": 420,
+    "reading_time_minutes": null,
+    "tags": [],
+    "categories": []
+  },
+  "content_html": "<p>The light in the Loki scenes was designed to feel cold and institutional...</p>",
+  "content_text": "The light in the Loki scenes was designed to feel cold and institutional...",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The light in the Loki scenes was designed to feel cold and institutional."
+    },
+    {
+      "type": "paragraph",
+      "text": "We used the overcast sky as a large soft source through the windows, supplemented with very little fill."
+    }
+  ],
+  "images": [
+    {
+      "src_url": "https://www.rogerdeakins.com/wp-content/uploads/prisoners-001.jpg",
+      "local_path": "images/a4ef839c6174010c-83a4faba8981da86.jpg",
+      "alt_text": "Prisoners — Alcon Entertainment",
+      "caption": "Prisoners — Alcon Entertainment. Interior scene with window source.",
+      "width": 600,
+      "height": 400,
+      "size_bytes": 18885
+    }
+  ],
+  "links": [],
+  "quotes": [],
+  "provenance": {
+    "source_url": "https://www.rogerdeakins.com/lal-prisoners-natural-light/",
+    "scraped_at": "2026-01-15T05:14:17.660820+00:00",
+    "http": {
+      "status_code": 200,
+      "etag": null,
+      "last_modified": null,
+      "content_length": 130860
+    }
+  },
+  "integrity": {
+    "content_hash": "sha256:1a2b3c4d5e6f...",
+    "parser_version": "1.0.0"
+  }
+}
