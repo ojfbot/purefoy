@@ -1,0 +1,1 @@
+../../node-template/domain-knowledge/workbench-architecture.md

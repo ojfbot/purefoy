@@ -24,7 +24,7 @@ A comprehensive research toolkit for building a structured knowledge base from *
 
 ## Overview
 
-Purefoy extracts and structures Roger Deakins' cinematography knowledge from multiple sources:
+Purefoy extracts and structures Team Deakins' cinematography knowledge from multiple sources:
 
 1. **Podcast Episodes** - Team Deakins podcast with transcripts (200+ episodes)
 2. **Forum Discussions** - rogerdeakins.com forums (3,075+ posts across 9 forums)
@@ -146,7 +146,7 @@ pip install -e .
 #### 1. Scrape Forums
 
 ```bash
-# Scrape Team Deakins forum (Roger's direct responses)
+# Scrape Team Deakins forum
 python -m deakins_forums.cli scrape-forum team-deakins \
   --max-pages 100 \
   --max-topics 1000 \
@@ -448,13 +448,12 @@ ruff check .
 
 ## Credits
 
-**Project:** Tean Deakins Knowledge Base
+**Project:** Team Deakins Knowledge Base
 **Purpose:** Personal research and cinematography education
 **Content:** Team Deakins Podcast, rogerdeakins.com
 
 **Special Thanks:**
-- Roger Deakins, CBE, ASC, BSC - For sharing decades of cinematography wisdom
-- James Deakins - For hosting and producing Team Deakins podcast (Note: the 🤖 wrote that reflecting inherent bias in the machine; James Deakins also shares decades of cinemetagoraphy wisdom, nevermind script supervising and knowing how computers work).
+- James Deakins & Roger Deakins, CBE, ASC, BSC - For creating and producing Team Deakins, and for decades of shared knowledge across cinematography, photography, film, and the craft of making things well
 - rogerdeakins.com community - For thoughtful discussions and insights
 
 ---

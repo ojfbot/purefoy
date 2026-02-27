@@ -16,6 +16,7 @@ It is designed to be called from:
 from __future__ import annotations
 
 import hashlib
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Optional
 from urllib.parse import urljoin, urlparse
@@ -42,6 +43,7 @@ from .parser_bbpress import (
     parse_topic_page,
     find_next_page_url,
 )
+from .parser_blog import discover_lal_urls, parse_article_page
 from .store_json import JsonLeafStore
 from .normalize import extract_links_media_quotes_blocks
 from .reply_tree import build_reply_tree, calculate_thread_stats
@@ -49,6 +51,10 @@ from .reply_tree import build_reply_tree, calculate_thread_stats
 
 def _sha256(s: str) -> str:
     return hashlib.sha256(s.encode("utf-8", errors="ignore")).hexdigest()
+
+
+def _now_iso() -> str:
+    return datetime.now(timezone.utc).isoformat()
 
 
 def _parse_timestamp(raw: Optional[str]) -> tuple[Optional[str], str]:
@@ -454,3 +460,114 @@ class DeakinsPipeline:
             "total_topics": total_topics,
             **stats
         }
+
+    def scrape_article(self, url: str) -> Optional[PostLeaf]:
+        """
+        Fetch, parse, normalize, and store a single blog article as a PostLeaf
+        with post_type=PostType.ARTICLE.
+
+        Returns the PostLeaf on success, None if not modified or restricted.
+        """
+        print(f"  Fetching article: {url}")
+        res = self.http.fetch(url)
+
+        if res.not_modified:
+            print("    ✓ Not modified (cached)")
+            return None
+
+        assert res.text is not None
+        raw = parse_article_page(res.text, url)
+
+        if raw.is_restricted:
+            print(f"    [RESTRICTED] Member content not accessible — check auth cookies")
+            return None
+
+        blocks, quotes, links, media = extract_links_media_quotes_blocks(
+            url, raw.content_text, raw.content_html
+        )
+
+        article = PostLeaf(
+            ids=PostIds(
+                post_id=raw.article_slug,
+                forum_slug="articles",
+                topic_slug=raw.series,
+                wp_post_id=raw.wp_post_id,
+            ),
+            post_type=PostType.ARTICLE,
+            author=Author(display_name=raw.author_name) if raw.author_name else None,
+            timestamps=Timestamps(
+                parsed_iso=raw.date_published,
+                parse_confidence="high" if raw.date_published else "none",
+            ),
+            description=raw.description,
+            featured_image=raw.featured_image_url,
+            series=raw.series,
+            content_text=raw.content_text,
+            content_html=raw.content_html,
+            blocks=blocks,
+            quotes=quotes,
+            links=links,
+            media=media,
+            provenance=Provenance(
+                source_url=url,
+                scraped_at=_now_iso(),
+                http=HttpProvenance(
+                    url=url,
+                    status=res.status,
+                    etag=res.etag,
+                    last_modified=res.last_modified,
+                ),
+            ),
+            integrity=Integrity(
+                content_hash=f"sha256:{_sha256(raw.content_text)}",
+                parser_version="blog-v1",
+            ),
+        )
+
+        self.store.write_post(article)
+        print(f"    ✓ Saved: {raw.article_slug} ({len(raw.content_text)} chars)")
+        return article
+
+    def scrape_lal_series(self) -> dict[str, Any]:
+        """
+        Discover all Looking at Lighting article URLs via the site nav menu,
+        then scrape each article.
+
+        URL discovery uses the public homepage (no auth needed — nav is public).
+        Article fetches require auth cookies loaded into HttpClient.
+
+        Returns summary statistics.
+        """
+        print(f"\nDiscovering LAL article URLs from: {self.base_url}")
+        res = self.http.fetch(self.base_url + "/")
+        assert res.text is not None, "Failed to fetch homepage for URL discovery"
+
+        urls = discover_lal_urls(res.text, self.base_url)
+        print(f"  Found {len(urls)} LAL article URLs")
+
+        stats: dict[str, Any] = {
+            "total": len(urls),
+            "scraped": 0,
+            "skipped_not_modified": 0,
+            "restricted": 0,
+            "errors": 0,
+        }
+
+        for i, url in enumerate(urls, 1):
+            print(f"\n[{i}/{len(urls)}] {url}")
+            try:
+                result = self.scrape_article(url)
+                if result is None:
+                    slug = url.rstrip("/").split("/")[-1]
+                    existing = self.store.read_post(slug)
+                    if existing:
+                        stats["skipped_not_modified"] += 1
+                    else:
+                        stats["restricted"] += 1
+                else:
+                    stats["scraped"] += 1
+            except Exception as e:
+                print(f"    [ERROR] {e}")
+                stats["errors"] += 1
+
+        return stats

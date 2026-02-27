@@ -6,6 +6,9 @@ Each entity is stored as a separate JSON file:
 - topics/<topic_slug>.json
 - forums/<forum_slug>.json
 - _site/forums_index.json (main forum list)
+
+Articles (LAL series etc.) are stored as PostLeaf with post_type="article"
+in the same posts/ directory.
 """
 
 from __future__ import annotations
@@ -26,7 +29,7 @@ class JsonLeafStore:
     ```
     out_dir/
       posts/
-        <post_id>.json
+        <post_id>.json          # forum posts AND articles (post_type differentiates)
       topics/
         <forum_slug>__<topic_slug>.json
       forums/

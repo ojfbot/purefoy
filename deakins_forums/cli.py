@@ -189,28 +189,67 @@ def cmd_build_index(args):
     """Build or rebuild the search index."""
     pipeline, store, index, settings = build_app()
 
+    use_curated = getattr(args, 'use_curated', False)
+
     print("=" * 70)
-    print("Building Search Index")
+    print(f"Building Search Index{' (Curated Data)' if use_curated else ''}")
     print("=" * 70)
 
-    stats = index.rebuild_from_json_leafs(settings.out_dir)
+    if use_curated:
+        print(f"Indexing from: {settings.out_dir / '_curated' / 'personas'}")
+    else:
+        print(f"Indexing from: {settings.out_dir / 'posts'}")
+
+    stats = index.rebuild_from_json_leafs(settings.out_dir, use_curated=use_curated)
 
     print(f"✓ Indexed {stats['posts_indexed']} posts")
     print(f"Database: {settings.out_dir / '_site' / 'kb.sqlite'}")
+
+    # Print curation stats if using curated data
+    if use_curated:
+        index_stats = index.get_stats()
+        print("\nCuration Statistics:")
+        print(f"  Cinematography posts: {index_stats.get('cinematography_posts', 0)}")
+        print(f"  Housekeeping posts: {index_stats.get('housekeeping_posts', 0)}")
+
+        if index_stats.get('persona_distribution'):
+            print("\n  Persona Distribution:")
+            for tier in ['S', 'A', 'B', 'C', 'D']:
+                count = index_stats['persona_distribution'].get(tier, 0)
+                if count > 0:
+                    print(f"    {tier}-Tier: {count} posts")
 
 
 def cmd_search(args):
     """Search the indexed posts."""
     pipeline, store, index, settings = build_app()
 
+    # Build filter description
+    filters = []
+    if args.forum:
+        filters.append(f"forum={args.forum}")
+    if args.author:
+        filters.append(f"author={args.author}")
+    if getattr(args, 'persona', None):
+        filters.append(f"persona={args.persona}")
+    if getattr(args, 'cinematography_only', False):
+        filters.append("cinematography-only")
+    if getattr(args, 'exclude_housekeeping', False):
+        filters.append("no-housekeeping")
+
     print("=" * 70)
     print(f"Search: {args.query}")
+    if filters:
+        print(f"Filters: {', '.join(filters)}")
     print("=" * 70)
 
     results = index.search_posts(
         query=args.query,
         forum_slug=args.forum,
         author=args.author,
+        persona_tier=getattr(args, 'persona', None),
+        cinematography_only=getattr(args, 'cinematography_only', False),
+        exclude_housekeeping=getattr(args, 'exclude_housekeeping', False),
         limit=args.limit
     )
 
@@ -220,11 +259,32 @@ def cmd_search(args):
 
     for i, result in enumerate(results, 1):
         print(f"\n[{i}] Post #{result['post_id']}")
-        print(f"    Author: {result['author']} ({result['author_role']})")
+        print(f"    Author: {result['author']} ({result['author_role']})", end="")
+
+        # Show persona tier if available
+        if result.get('author_persona_tier'):
+            tier_name = {
+                'S': 'Master', 'A': 'Professional', 'B': 'Student',
+                'C': 'Enthusiast', 'D': 'Visitor'
+            }.get(result['author_persona_tier'], '')
+            print(f" [{result['author_persona_tier']}-{tier_name}]")
+        else:
+            print()
+
         print(f"    Forum: {result['forum_slug']} / Topic: {result['topic_slug']}")
         if result['timestamp_iso']:
             print(f"    Date: {result['timestamp_iso']}")
         print(f"    URL: {result['reply_permalink'] or result['topic_url']}")
+
+        # Show curation flags if present
+        flags = []
+        if result.get('is_housekeeping'):
+            flags.append("housekeeping")
+        if not result.get('filtered_from_cinematography'):
+            flags.append("cinematography")
+        if flags:
+            print(f"    Tags: {', '.join(flags)}")
+
         print(f"    Snippet: {result['snippet']}")
 
     print(f"\n{len(results)} results")
@@ -253,8 +313,48 @@ def cmd_stats(args):
         print(f"  Forums:         {index_stats['total_forums']}")
         print(f"  Topics:         {index_stats['total_topics']}")
         print(f"  Authors:        {index_stats['total_authors']}")
+
+        # Curation statistics (if available)
+        if index_stats.get('persona_distribution'):
+            print(f"\nCuration Metadata:")
+            print(f"  Cinematography posts: {index_stats.get('cinematography_posts', 0)}")
+            print(f"  Housekeeping posts:   {index_stats.get('housekeeping_posts', 0)}")
+
+            print(f"\n  Persona Distribution:")
+            tier_names = {
+                'S': 'Master Cinematographers',
+                'A': 'Working Professionals',
+                'B': 'Serious Students & Emerging DPs',
+                'C': 'Enthusiasts & Hobbyists',
+                'D': 'One-Time Visitors'
+            }
+            for tier in ['S', 'A', 'B', 'C', 'D']:
+                count = index_stats['persona_distribution'].get(tier, 0)
+                if count > 0:
+                    print(f"    {tier}-Tier ({tier_names[tier][:25]:25s}): {count:4d} posts")
     except Exception as e:
         print(f"\nSearch Index: Not built yet (run 'build-index')")
+
+    # Check for curated data
+    curated_dir = settings.out_dir / "_curated"
+    if curated_dir.exists():
+        print(f"\nCurated Data:")
+        print(f"  Location: {curated_dir}")
+
+        # Check for metadata file
+        metadata_file = curated_dir / "metadata.json"
+        if metadata_file.exists():
+            import json
+            with open(metadata_file) as f:
+                metadata = json.load(f)
+
+            stats = metadata.get('statistics', {})
+            print(f"  Generated: {metadata.get('generated_at', 'Unknown')[:10]}")
+            print(f"  Cinematography posts: {stats.get('cinematography_posts', 0)}")
+            print(f"  Housekeeping filtered: {stats.get('housekeeping_filtered', 0)}")
+            print(f"  High-engagement topics: {stats.get('high_engagement_topics', 0)}")
+            print(f"  Consolidated buckets: {stats.get('consolidation_buckets', 0)}")
+            print(f"  Topics consolidated: {stats.get('consolidated_topics', 0)}")
 
     print(f"\nOutput directory: {settings.out_dir}")
 
@@ -403,6 +503,58 @@ def cmd_validate(args):
     return 0 if total_errors == 0 else 1
 
 
+def cmd_auth_setup(args):
+    """Run Playwright to extract and save member session cookies."""
+    from .auth_playwright import save_session_cookies
+    print("=" * 70)
+    print("Deakins Forums - Auth Setup")
+    print("=" * 70)
+    print("Extracting rogerdeakins.com session cookies via Playwright...")
+    print("(Saved to session_cookies.json — gitignored, never committed)")
+    print()
+    save_session_cookies(project_root=Path("."))
+
+
+def cmd_scrape_articles(args):
+    """Scrape the Looking at Lighting article series."""
+    cookies_path = Path("session_cookies.json")
+    if not cookies_path.exists():
+        print("ERROR: session_cookies.json not found.")
+        print("  Run 'deakins-forums auth-setup' first to save your member session cookies.")
+        return 1
+
+    pipeline, store, index, settings = build_app()
+    pipeline.http.load_cookies(cookies_path)
+
+    print("=" * 70)
+    print("Deakins Forums - Scrape Articles (Looking at Lighting)")
+    print("=" * 70)
+    print(f"Cookies: {cookies_path}")
+    print(f"Output:  {settings.out_dir / 'posts'} (unified with forum posts)")
+    print("=" * 70)
+
+    stats = pipeline.scrape_lal_series()
+
+    print("\n" + "=" * 70)
+    print("Article Scrape Complete!")
+    print("=" * 70)
+    print(f"  Total URLs discovered: {stats['total']}")
+    print(f"  Scraped (new/updated): {stats['scraped']}")
+    print(f"  Not modified (cached): {stats['skipped_not_modified']}")
+    print(f"  Restricted (auth):     {stats['restricted']}")
+    print(f"  Errors:                {stats['errors']}")
+    print("=" * 70)
+
+    if stats["restricted"] > 0:
+        print("\nWARNING: Some articles were restricted. Your session cookies may have expired.")
+        print("  Re-run 'deakins-forums auth-setup' to refresh them.")
+
+    if args.build_index:
+        print("\nBuilding unified search index...")
+        index_stats = index.rebuild_from_json_leafs(settings.out_dir)
+        print(f"  ✓ Indexed {index_stats['posts_indexed']} items (forum posts + articles)")
+
+
 def main():
     """Main CLI entry point."""
     parser = argparse.ArgumentParser(
@@ -437,12 +589,16 @@ def main():
 
     # build-index command
     p_build_index = subparsers.add_parser("build-index", help="Build search index")
+    p_build_index.add_argument("--use-curated", action="store_true", help="Index from curated persona data instead of original posts")
 
     # search command
     p_search = subparsers.add_parser("search", help="Search indexed posts")
     p_search.add_argument("query", help="Search query")
     p_search.add_argument("--forum", help="Filter by forum slug")
     p_search.add_argument("--author", help="Filter by author name")
+    p_search.add_argument("--persona", choices=['S', 'A', 'B', 'C', 'D'], help="Filter by persona tier (S=Master, A=Professional, B=Student, C=Enthusiast, D=Visitor)")
+    p_search.add_argument("--cinematography-only", action="store_true", help="Only include pure cinematography posts (exclude housekeeping)")
+    p_search.add_argument("--exclude-housekeeping", action="store_true", help="Exclude housekeeping posts")
     p_search.add_argument("--limit", type=int, default=20, help="Max results")
 
     # stats command
@@ -468,6 +624,13 @@ def main():
     # validate command
     p_validate = subparsers.add_parser("validate", help="Validate data integrity")
     p_validate.add_argument("--verbose", "-v", action="store_true", help="Print all validation errors")
+
+    # auth-setup command
+    subparsers.add_parser("auth-setup", help="Save browser session cookies for member-only content (requires playwright)")
+
+    # scrape-articles command
+    p_scrape_articles = subparsers.add_parser("scrape-articles", help="Scrape Looking at Lighting articles (requires auth-setup first)")
+    p_scrape_articles.add_argument("--build-index", action="store_true", help="Rebuild unified search index after scraping")
 
     args = parser.parse_args()
 
@@ -496,6 +659,10 @@ def main():
             cmd_provenance(args)
         elif args.command == "validate":
             return cmd_validate(args)
+        elif args.command == "auth-setup":
+            cmd_auth_setup(args)
+        elif args.command == "scrape-articles":
+            return cmd_scrape_articles(args) or 0
         else:
             parser.print_help()
             return 1

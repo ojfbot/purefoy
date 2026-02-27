@@ -72,9 +72,9 @@ downloads/
 # Extracted Transcripts - Generated data
 teamdeakins_transcripts/
 
-# Forum Scraped Data - NOW INCLUDED in private repo
-# The forum JSON data will be tracked for private use
-# library/ folder IS tracked (removed from gitignore)
+# Forum Scraped Data - EXCLUDED pending cleanup
+# library/ needs curation before being committed to version control
+library/
 
 # Analysis/Export Output - Generated files (can be regenerated)
 analysis/

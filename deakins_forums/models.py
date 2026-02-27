@@ -18,6 +18,7 @@ class PostType(str, Enum):
     """Distinguish topic starters from replies."""
     TOPIC = "topic"      # Original post that starts a thread
     REPLY = "reply"      # Response to a topic or another reply
+    ARTICLE = "article"  # Blog/LAL article (rogerdeakins.com)
 
 
 class HttpProvenance(BaseModel):
@@ -68,12 +69,15 @@ class PostIds(BaseModel):
     topic_slug: Optional[str] = None
     reply_permalink: Optional[str] = None
 
-    # NEW: Parent relationship for reply threading
+    # Parent relationship for reply threading
     parent_post_id: Optional[str] = None  # ID of post this replies to (None for topic starters)
     parent_type: Optional[PostType] = None  # Whether parent is topic or reply
 
-    # NEW: Position tracking for chronological ordering
+    # Position tracking for chronological ordering
     position: Optional[int] = None  # Reply position within thread (0 for topic, 1+ for replies)
+
+    # WordPress post ID (articles only)
+    wp_post_id: Optional[str] = None
 
 
 class Author(BaseModel):
@@ -99,7 +103,7 @@ class PostLeaf(BaseModel):
     """A single post leaf JSON file with full threading context."""
     ids: PostIds
 
-    # NEW: Explicit post type classification
+    # Explicit post type classification
     post_type: PostType = PostType.TOPIC  # Default to TOPIC for backward compatibility
 
     author: Optional[Author] = None
@@ -110,6 +114,12 @@ class PostLeaf(BaseModel):
     quotes: list[Quote] = Field(default_factory=list)
     links: list[Link] = Field(default_factory=list)
     media: list[Media] = Field(default_factory=list)
+
+    # Article-only fields (None for forum posts)
+    description: Optional[str] = None       # Meta description / excerpt
+    featured_image: Optional[str] = None    # Featured image URL
+    series: Optional[str] = None            # Series slug, e.g. "lal"
+
     provenance: Provenance
     integrity: Integrity
 

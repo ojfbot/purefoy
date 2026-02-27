@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Roger Deakins Forum Scraper
+Team Deakins Forum Scraper
 
 FAIR USE NOTICE:
 This script is intended for personal research, educational, and creative coding
@@ -53,7 +53,7 @@ PROGRESS_FILE = OUTPUT_DIR / "scrape_progress.json"
 VISITED_URLS_FILE = OUTPUT_DIR / "visited_urls.json"
 
 class ForumScraper:
-    """Scraper for Roger Deakins forum content."""
+    """Scraper for Team Deakins forum content."""
 
     def __init__(self):
         self.session = self._setup_session()
@@ -405,7 +405,7 @@ class ForumScraper:
     def scrape_forum(self):
         """Main scraping function."""
         print(f"\n{'='*70}")
-        print("Roger Deakins Forum Scraper")
+        print("Team Deakins Forum Scraper")
         print(f"{'='*70}")
         print("\nFAIR USE NOTICE:")
         print("This script is for personal research and educational purposes only.")

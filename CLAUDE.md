@@ -107,7 +107,7 @@ python -m deakins_forums.cli scrape-forum team-deakins \
   --querier-role "Cinematographer" \
   --querier-department "Camera" \
   --query-context "TV miniseries prep" \
-  --query-intent "Find Roger's advice on using natural light"
+  --query-intent "Find Team Deakins insights on natural light"
 
 python -m deakins_forums.cli provenance --topic "team-deakins__topic-slug"
 python -m deakins_forums.cli coverage --format full

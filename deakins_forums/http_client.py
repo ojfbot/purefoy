@@ -57,6 +57,7 @@ class HttpClient:
         timeout_s: int,
         state_path: Path,
         max_retries: int = 3,
+        cookies_path: Optional[Path] = None,
     ) -> None:
         self.delay_s = delay_s
         self.timeout_s = timeout_s
@@ -67,6 +68,9 @@ class HttpClient:
         self.session = requests.Session()
         self.session.headers.update({"User-Agent": user_agent})
 
+        if cookies_path is not None and cookies_path.exists():
+            self._load_cookies_from_file(cookies_path)
+
         retry = Retry(
             total=max_retries,
             backoff_factor=2,
@@ -76,6 +80,22 @@ class HttpClient:
         adapter = HTTPAdapter(max_retries=retry)
         self.session.mount("https://", adapter)
         self.session.mount("http://", adapter)
+
+    def _load_cookies_from_file(self, cookies_path: Path) -> None:
+        """Load session cookies from a JSON file (e.g., session_cookies.json)."""
+        cookies = json.loads(cookies_path.read_text(encoding="utf-8"))
+        for c in cookies:
+            self.session.cookies.set(
+                c["name"],
+                c["value"],
+                domain=c.get("domain", ""),
+                path=c.get("path", "/"),
+            )
+
+    def load_cookies(self, cookies_path: Path) -> None:
+        """Load or reload cookies at runtime (e.g., after auth-setup)."""
+        if cookies_path.exists():
+            self._load_cookies_from_file(cookies_path)
 
     def _load_state(self) -> dict:
         if self.state_path.exists():
