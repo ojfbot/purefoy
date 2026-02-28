@@ -8,11 +8,10 @@ in a multi-agent system with the same interface as CLI commands.
 
 import json
 import sys
-from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any
 
 # MCP tool definitions matching CLI interface
-MCP_TOOLS = [
+MCP_TOOLS: list[dict[str, Any]] = [
     {
         "name": "scrape_deakins_forum",
         "description": "Scrape a Deakins forum with query provenance tracking. Captures who is querying, why, and tracks all topic access for research lineage.",
@@ -96,25 +95,20 @@ MCP_TOOLS = [
 class MCPServer:
     """MCP server wrapping the Deakins Forums scraper."""
 
-    def __init__(self):
-        self.tools = MCP_TOOLS
+    def __init__(self) -> None:
+        self.tools: list[dict[str, Any]] = MCP_TOOLS
 
-    def list_tools(self) -> List[Dict[str, Any]]:
+    def list_tools(self) -> list[dict[str, Any]]:
         """List available MCP tools."""
         return self.tools
 
-    def call_tool(self, tool_name: str, arguments: Dict[str, Any]) -> Dict[str, Any]:
+    def call_tool(self, tool_name: str, arguments: dict[str, Any]) -> dict[str, Any]:
         """
         Call a tool with given arguments.
 
         This executes the actual CLI command and returns results.
         Interface is identical whether called by AI prompt or MCP agent.
         """
-        from .cli import build_app
-        from .pipeline import DeakinsPipeline
-        from .coverage import CoverageTracker
-        from .report import print_coverage_report, print_quick_stats
-        from .query_tracker import QueryTracker
 
         if tool_name == "scrape_deakins_forum":
             return self._scrape_forum(arguments)
@@ -125,7 +119,7 @@ class MCPServer:
         else:
             raise ValueError(f"Unknown tool: {tool_name}")
 
-    def _scrape_forum(self, args: Dict[str, Any]) -> Dict[str, Any]:
+    def _scrape_forum(self, args: dict[str, Any]) -> dict[str, Any]:
         """Execute forum scraping with query tracking."""
         from .cli import build_app
         from .query_tracker import QueryTracker
@@ -204,7 +198,7 @@ class MCPServer:
             "posts_indexed": index_stats.get("posts_indexed", 0)
         }
 
-    def _get_coverage(self, args: Dict[str, Any]) -> Dict[str, Any]:
+    def _get_coverage(self, args: dict[str, Any]) -> dict[str, Any]:
         """Get coverage report."""
         from .cli import build_app
         from .coverage import CoverageTracker
@@ -238,7 +232,7 @@ class MCPServer:
             "delta": delta
         }
 
-    def _get_provenance(self, args: Dict[str, Any]) -> Dict[str, Any]:
+    def _get_provenance(self, args: dict[str, Any]) -> dict[str, Any]:
         """Get provenance report."""
         from .cli import build_app
         from .query_tracker import QueryTracker

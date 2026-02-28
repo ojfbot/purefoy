@@ -6,13 +6,13 @@ Builds hierarchical reply trees from flat post lists for agent-friendly traversa
 
 from __future__ import annotations
 
-from typing import Any, Optional
+from typing import Any
 
 from .models import PostLeaf, PostType
 from .store_json import JsonLeafStore
 
 
-def build_reply_tree(post_ids: list[str], store: JsonLeafStore) -> Optional[dict[str, Any]]:
+def build_reply_tree(post_ids: list[str], store: JsonLeafStore) -> dict[str, Any] | None:
     """
     Build a nested reply tree from a flat list of post IDs.
 
@@ -100,7 +100,7 @@ def build_reply_tree(post_ids: list[str], store: JsonLeafStore) -> Optional[dict
     return build_node(root_post)
 
 
-def calculate_thread_stats(reply_tree: Optional[dict[str, Any]]) -> dict[str, int]:
+def calculate_thread_stats(reply_tree: dict[str, Any] | None) -> dict[str, int]:
     """
     Calculate statistics from a reply tree.
 
@@ -145,7 +145,7 @@ def calculate_thread_stats(reply_tree: Optional[dict[str, Any]]) -> dict[str, in
     }
 
 
-def extract_post_ids_from_tree(reply_tree: Optional[dict[str, Any]]) -> list[str]:
+def extract_post_ids_from_tree(reply_tree: dict[str, Any] | None) -> list[str]:
     """
     Extract flat list of post IDs from reply tree.
 
@@ -175,7 +175,7 @@ def extract_post_ids_from_tree(reply_tree: Optional[dict[str, Any]]) -> list[str
 
 
 def find_author_posts_in_tree(
-    reply_tree: Optional[dict[str, Any]],
+    reply_tree: dict[str, Any] | None,
     author_name: str,
     case_sensitive: bool = False
 ) -> list[dict[str, Any]]:
@@ -200,7 +200,7 @@ def find_author_posts_in_tree(
 
     matches = []
 
-    def matches_author(node_author: Optional[str]) -> bool:
+    def matches_author(node_author: str | None) -> bool:
         if not node_author:
             return False
         if case_sensitive:
@@ -236,7 +236,7 @@ def find_direct_replies_to_post(
     -------
     List of direct child nodes (not recursive - just immediate children)
     """
-    def traverse(node: dict[str, Any]) -> Optional[list[dict[str, Any]]]:
+    def traverse(node: dict[str, Any]) -> list[dict[str, Any]] | None:
         if node["post_id"] == target_post_id:
             return node.get("children", [])
 

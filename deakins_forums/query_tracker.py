@@ -6,11 +6,13 @@ Tracks which queries touched which topics, when, and by whom.
 Provides research activity lineage and query-to-content mapping.
 """
 
-from dataclasses import dataclass, field, asdict
-from datetime import datetime, timezone
-from pathlib import Path
-from typing import Optional, Dict, List, Any
+from __future__ import annotations
+
 import json
+from dataclasses import asdict, dataclass, field
+from datetime import UTC, datetime
+from pathlib import Path
+from typing import Any, cast
 
 
 @dataclass
@@ -28,13 +30,13 @@ class QueryMetadata:
     query_name: str  # human-readable name
     querier: QuerierPersona
     intent: str  # research objective/question
-    target_forums: List[str]
+    target_forums: list[str]
     timestamp: str
-    topics_accessed: List[str] = field(default_factory=list)  # topic slugs
-    topics_newly_scraped: List[str] = field(default_factory=list)
-    topics_revisited: List[str] = field(default_factory=list)
+    topics_accessed: list[str] = field(default_factory=list)  # topic slugs
+    topics_newly_scraped: list[str] = field(default_factory=list)
+    topics_revisited: list[str] = field(default_factory=list)
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         """Convert to dictionary for JSON serialization."""
         data = asdict(self)
         return data
@@ -58,7 +60,7 @@ class QueryTracker:
         self.query_log_file = self.storage_path / "_site" / "query_log.json"
         self.query_log_file.parent.mkdir(parents=True, exist_ok=True)
 
-    def load_query_log(self) -> Dict[str, Any]:
+    def load_query_log(self) -> dict[str, Any]:
         """Load existing query log."""
         if not self.query_log_file.exists():
             return {
@@ -66,10 +68,10 @@ class QueryTracker:
                 "topic_access_index": {}  # topic_slug -> [access_records]
             }
 
-        with open(self.query_log_file, 'r') as f:
-            return json.load(f)
+        with open(self.query_log_file) as f:
+            return cast(dict[str, Any], json.load(f))
 
-    def save_query_log(self, log: Dict[str, Any]):
+    def save_query_log(self, log: dict[str, Any]):
         """Save query log to disk."""
         with open(self.query_log_file, 'w') as f:
             json.dump(log, f, indent=2)
@@ -81,14 +83,14 @@ class QueryTracker:
         querier_department: str,
         query_context: str,
         query_intent: str,
-        target_forums: List[str]
+        target_forums: list[str]
     ) -> QueryMetadata:
         """
         Start tracking a new query.
 
         Returns a QueryMetadata object with a unique query_id.
         """
-        timestamp = datetime.now(timezone.utc).isoformat()
+        timestamp = datetime.now(UTC).isoformat()
         query_id = f"{querier_role.lower().replace(' ', '-')}_{timestamp[:19].replace(':', '-')}"
 
         querier = QuerierPersona(
@@ -141,7 +143,7 @@ class QueryTracker:
             query_id=query_metadata.query_id,
             query_name=query_metadata.query_name,
             querier_role=query_metadata.querier.role,
-            timestamp=datetime.now(timezone.utc).isoformat(),
+            timestamp=datetime.now(UTC).isoformat(),
             was_new_scrape=was_new_scrape
         )
 
@@ -168,7 +170,7 @@ class QueryTracker:
         # Save updated log
         self.save_query_log(log)
 
-    def get_topic_provenance(self, topic_slug: str, forum_slug: str) -> List[Dict[str, Any]]:
+    def get_topic_provenance(self, topic_slug: str, forum_slug: str) -> list[dict[str, Any]]:
         """
         Get all queries that have accessed a specific topic.
 
@@ -176,17 +178,17 @@ class QueryTracker:
         """
         log = self.load_query_log()
         full_topic_id = f"{forum_slug}__{topic_slug}"
-        return log["topic_access_index"].get(full_topic_id, [])
+        return cast(list[dict[str, Any]], log["topic_access_index"].get(full_topic_id, []))
 
-    def get_query_summary(self, query_id: str) -> Optional[Dict[str, Any]]:
+    def get_query_summary(self, query_id: str) -> dict[str, Any] | None:
         """Get summary of a specific query's activity."""
         log = self.load_query_log()
-        return log["queries"].get(query_id)
+        return cast(dict[str, Any] | None, log["queries"].get(query_id))
 
-    def get_all_queries(self) -> Dict[str, Any]:
+    def get_all_queries(self) -> dict[str, Any]:
         """Get all queries in the log."""
         log = self.load_query_log()
-        return log["queries"]
+        return cast(dict[str, Any], log["queries"])
 
     def generate_provenance_report(self) -> str:
         """Generate a human-readable provenance report."""
@@ -226,7 +228,7 @@ class QueryTracker:
         lines.append("─" * 80)
         lines.append("TOPIC ACCESS INDEX")
         lines.append("─" * 80)
-        lines.append(f"\nShowing topics with multiple accesses:")
+        lines.append("\nShowing topics with multiple accesses:")
         lines.append("")
 
         # Show topics accessed by multiple queries

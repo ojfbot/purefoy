@@ -12,9 +12,13 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = [
-    "pytest>=7.4.0",
-    "black>=23.0.0",
-    "ruff>=0.1.0",
+    "pytest>=8.0",
+    "pytest-asyncio>=0.23",
+    "ruff>=0.6",
+    "mypy>=1.10",
+    "types-requests",
+    "types-python-dateutil",
+    "types-beautifulsoup4",
 ]
 
 [project.scripts]
@@ -28,10 +32,37 @@ build-backend = "setuptools.build_meta"
 where = ["."]
 include = ["deakins_forums*"]
 
-[tool.black]
-line-length = 120
-target-version = ["py311"]
-
 [tool.ruff]
 line-length = 120
 target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "UP"]
+ignore = [
+    "E501",   # Line too long — formatter handles wrapping; long strings are acceptable
+]
+
+[tool.mypy]
+python_version = "3.11"
+ignore_missing_imports = true
+warn_return_any = true
+warn_unused_ignores = true
+# Progressive strictness: these modules have known type issues to be resolved incrementally.
+# Remove an entry from this list when you fix that module's type errors.
+[[tool.mypy.overrides]]
+module = [
+    "deakins_forums.coverage",
+    "deakins_forums.export",
+    "deakins_forums.http_client",
+    "deakins_forums.index_sqlite",
+    "deakins_forums.normalize",
+    "deakins_forums.parser_bbpress",
+    "deakins_forums.parser_blog",
+    "deakins_forums.pipeline",
+    "deakins_forums.reply_tree",
+]
+ignore_errors = true
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]

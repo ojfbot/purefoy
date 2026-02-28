@@ -6,11 +6,13 @@ Tracks which forums/topics have been scraped and generates
 coverage reports similar to test coverage tools.
 """
 
+from __future__ import annotations
+
+import json
 from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
-from typing import Optional, Dict, List, Any
-import json
+from typing import Any
 
 
 @dataclass
@@ -21,8 +23,8 @@ class ForumCoverage:
     total_topics_available: int
     topics_scraped: int
     posts_scraped: int
-    last_scraped: Optional[str] = None
-    first_scraped: Optional[str] = None
+    last_scraped: str | None = None
+    first_scraped: str | None = None
 
     @property
     def coverage_percent(self) -> float:
@@ -41,8 +43,8 @@ class ForumCoverage:
 class QueryCoverage:
     """Coverage for a specific research query."""
     query_name: str
-    target_forums: List[str]
-    keywords: List[str]
+    target_forums: list[str]
+    keywords: list[str]
     posts_matching: int = 0
     coverage_complete: bool = False
     notes: str = ""
@@ -57,8 +59,8 @@ class CoverageReport:
     total_topics: int = 0
     topics_scraped: int = 0
     total_posts: int = 0
-    forums: Dict[str, ForumCoverage] = field(default_factory=dict)
-    queries: Dict[str, QueryCoverage] = field(default_factory=dict)
+    forums: dict[str, ForumCoverage] = field(default_factory=dict)
+    queries: dict[str, QueryCoverage] = field(default_factory=dict)
 
     @property
     def overall_coverage_percent(self) -> float:
@@ -74,15 +76,15 @@ class CoverageTracker:
     def __init__(self, storage_path: Path):
         self.storage_path = storage_path
         self.coverage_file = storage_path / "_site" / "coverage.json"
-        self.previous_report: Optional[CoverageReport] = None
+        self.previous_report: CoverageReport | None = None
 
-    def load_previous_coverage(self) -> Optional[CoverageReport]:
+    def load_previous_coverage(self) -> CoverageReport | None:
         """Load previous coverage report if it exists."""
         if not self.coverage_file.exists():
             return None
 
         try:
-            with open(self.coverage_file, 'r', encoding='utf-8') as f:
+            with open(self.coverage_file, encoding='utf-8') as f:
                 data = json.load(f)
 
             report = CoverageReport(
@@ -150,10 +152,6 @@ class CoverageTracker:
 
     def generate_report(self, storage_path: Path) -> CoverageReport:
         """Generate current coverage report by scanning stored data."""
-        from .store_json import JsonLeafStore
-
-        store = JsonLeafStore(storage_path)
-
         report = CoverageReport(
             timestamp=datetime.utcnow().isoformat()
         )
@@ -166,7 +164,7 @@ class CoverageTracker:
         if topics_dir.exists():
             for topic_file in topics_dir.glob("*.json"):
                 try:
-                    with open(topic_file, 'r', encoding='utf-8') as f:
+                    with open(topic_file, encoding='utf-8') as f:
                         topic_data = json.load(f)
 
                     # Handle both formats: direct fields or nested in ids
@@ -204,7 +202,7 @@ class CoverageTracker:
         if forums_dir.exists():
             for forum_file in forums_dir.glob("*.json"):
                 try:
-                    with open(forum_file, 'r', encoding='utf-8') as f:
+                    with open(forum_file, encoding='utf-8') as f:
                         forum_data = json.load(f)
 
                     slug = forum_data.get('forum_slug', forum_data.get('ids', {}).get('forum_slug'))
@@ -245,7 +243,7 @@ class CoverageTracker:
 
         return report
 
-    def _analyze_query_coverage(self, storage_path: Path, report: CoverageReport) -> Dict[str, QueryCoverage]:
+    def _analyze_query_coverage(self, storage_path: Path, report: CoverageReport) -> dict[str, QueryCoverage]:
         """Analyze which queries can be answered with current data."""
         from .index_sqlite import SqliteIndex
 
@@ -343,7 +341,7 @@ class CoverageTracker:
 
         return queries
 
-    def calculate_delta(self, current: CoverageReport) -> Dict[str, Any]:
+    def calculate_delta(self, current: CoverageReport) -> dict[str, Any]:
         """Calculate changes since previous report."""
         if not self.previous_report:
             return {

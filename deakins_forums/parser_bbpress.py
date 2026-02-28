@@ -13,7 +13,6 @@ from __future__ import annotations
 
 import re
 from dataclasses import dataclass
-from typing import Optional
 from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup
@@ -39,24 +38,24 @@ class TopicRef:
     url: str
     slug: str
     title: str
-    started_by: Optional[str] = None
+    started_by: str | None = None
 
 
 @dataclass(frozen=True)
 class RawPost:
     post_id: str
-    author: Optional[str]
-    role: Optional[str]
-    timestamp_raw: Optional[str]
+    author: str | None
+    role: str | None
+    timestamp_raw: str | None
     content_text: str
-    content_html: Optional[str]
-    reply_permalink: Optional[str]
+    content_html: str | None
+    reply_permalink: str | None
 
     # NEW: Threading information
     post_type: str = "topic"  # "topic" or "reply"
-    parent_post_id: Optional[str] = None  # ID of post this replies to
-    parent_type: Optional[str] = None  # "topic" or "reply"
-    position: Optional[int] = None  # Reply position within thread
+    parent_post_id: str | None = None  # ID of post this replies to
+    parent_type: str | None = None  # "topic" or "reply"
+    position: int | None = None  # Reply position within thread
 
 
 @dataclass(frozen=True)
@@ -89,7 +88,7 @@ def parse_forums_index(base_url: str, html: str) -> list[ForumRef]:
     return list(out.values())
 
 
-def extract_pagination(soup: BeautifulSoup) -> Optional[PaginationInfo]:
+def extract_pagination(soup: BeautifulSoup) -> PaginationInfo | None:
     """Extract pagination info from 'Viewing X topics/replies - Y through Z (of N total)' text."""
     text = soup.get_text(" ", strip=True)
     m = PAGINATION_RE.search(text)
@@ -108,7 +107,7 @@ def extract_pagination(soup: BeautifulSoup) -> Optional[PaginationInfo]:
     )
 
 
-def find_next_page_url(base_url: str, soup: BeautifulSoup, current_url: str) -> Optional[str]:
+def find_next_page_url(base_url: str, soup: BeautifulSoup, current_url: str) -> str | None:
     """Find the 'Next' pagination link."""
     # Look for pagination links
     for a in soup.find_all("a", href=True):
@@ -144,7 +143,7 @@ def find_next_page_url(base_url: str, soup: BeautifulSoup, current_url: str) -> 
     return None
 
 
-def parse_forum_page(base_url: str, forum_slug: str, html: str) -> tuple[list[ForumRef], list[TopicRef], Optional[PaginationInfo]]:
+def parse_forum_page(base_url: str, forum_slug: str, html: str) -> tuple[list[ForumRef], list[TopicRef], PaginationInfo | None]:
     """
     Parse a forum page.
 
@@ -204,7 +203,7 @@ def parse_forum_page(base_url: str, forum_slug: str, html: str) -> tuple[list[Fo
     return list(subforums.values()), list(topics.values()), pagination
 
 
-def parse_topic_page(base_url: str, html: str) -> tuple[Optional[str], list[RawPost], Optional[PaginationInfo]]:
+def parse_topic_page(base_url: str, html: str) -> tuple[str | None, list[RawPost], PaginationInfo | None]:
     """
     Parse a topic page and return title + RawPost list + pagination.
 
@@ -334,7 +333,6 @@ def parse_topic_page(base_url: str, html: str) -> tuple[Optional[str], list[RawP
         # Choose the best node for content extraction
         # Priority: loop-item div (has correct author/content) > article (has #XXXXX but may have wrong content)
         extraction_node = None
-        node_with_text = None
 
         # First, try to find a loop-item div (best source for content)
         for node in nodes:
@@ -353,7 +351,6 @@ def parse_topic_page(base_url: str, html: str) -> tuple[Optional[str], list[RawP
             for node in nodes:
                 text = node.get_text(" ", strip=True)
                 if POST_ID_RE.search(text):
-                    node_with_text = node
                     extraction_node = node
                     break
 
@@ -361,8 +358,7 @@ def parse_topic_page(base_url: str, html: str) -> tuple[Optional[str], list[RawP
             continue
 
         # Extract text from extraction node (for #XXXXX verification if needed)
-        node_text_lines = [l.strip() for l in extraction_node.get_text("\n", strip=True).splitlines() if l.strip()]
-        joined = " ".join(node_text_lines)
+        node_text_lines = [line.strip() for line in extraction_node.get_text("\n", strip=True).splitlines() if line.strip()]
 
         # Merge all classes from ALL candidate nodes to get parent info
         all_classes = []

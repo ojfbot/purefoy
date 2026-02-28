@@ -8,7 +8,7 @@ from __future__ import annotations
 
 import sqlite3
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any
 
 from .store_json import JsonLeafStore
 
@@ -151,9 +151,9 @@ class SqliteIndex:
     def search_posts(
         self,
         query: str,
-        forum_slug: Optional[str] = None,
-        author: Optional[str] = None,
-        persona_tier: Optional[str] = None,
+        forum_slug: str | None = None,
+        author: str | None = None,
+        persona_tier: str | None = None,
         cinematography_only: bool = False,
         exclude_housekeeping: bool = False,
         limit: int = 20
