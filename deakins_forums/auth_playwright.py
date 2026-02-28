@@ -17,9 +17,7 @@ from __future__ import annotations
 
 import json
 import sys
-import time
 from pathlib import Path
-from typing import Optional
 
 # macOS default Chrome user data directory (contains your existing logged-in session)
 CHROME_PROFILE_MACOS = Path.home() / "Library" / "Application Support" / "Google" / "Chrome"
@@ -35,7 +33,7 @@ COOKIE_DOMAIN = "rogerdeakins.com"
 AUTH_TIMEOUT_MS = 300_000  # 5 minutes for manual login if needed
 
 
-def _find_chrome_profile() -> Optional[Path]:
+def _find_chrome_profile() -> Path | None:
     for candidate in (CHROME_PROFILE_MACOS, CHROME_PROFILE_LINUX, CHROME_PROFILE_WIN):
         if candidate.exists():
             return candidate
@@ -49,7 +47,8 @@ def save_session_cookies(project_root: Path = Path(".")) -> Path:
     Returns the path to the written session_cookies.json file.
     """
     try:
-        from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
+        from playwright.sync_api import TimeoutError as PWTimeout
+        from playwright.sync_api import sync_playwright
     except ImportError:
         print("ERROR: playwright is not installed.")
         print("  Run: pip install playwright && playwright install chromium")
@@ -98,8 +97,8 @@ def save_session_cookies(project_root: Path = Path(".")) -> Path:
             print("\nLaunching interactive browser for manual login...")
             print(f"  Please log in at: {LOGIN_URL}")
             print(f"  After logging in, navigate to: {MEMBER_VERIFY_URL}")
-            print(f"  The script will automatically detect when you're in and save your cookies.")
-            print(f"  You have 5 minutes. Press Ctrl+C to abort.\n")
+            print("  The script will automatically detect when you're in and save your cookies.")
+            print("  You have 5 minutes. Press Ctrl+C to abort.\n")
 
             browser = pw.chromium.launch(headless=False)
             context = browser.new_context()

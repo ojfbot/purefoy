@@ -16,11 +16,10 @@ It is designed to be called from:
 from __future__ import annotations
 
 import hashlib
-from datetime import datetime, timezone
-from pathlib import Path
-from typing import Any, Optional
-from urllib.parse import urljoin, urlparse
 import re
+from datetime import UTC, datetime
+from pathlib import Path
+from typing import Any
 
 from dateutil import parser as dtparser
 
@@ -37,16 +36,16 @@ from .models import (
     Timestamps,
     TopicLeaf,
 )
-from .parser_bbpress import (
-    parse_forums_index,
-    parse_forum_page,
-    parse_topic_page,
-    find_next_page_url,
-)
-from .parser_blog import discover_lal_urls, parse_article_page
-from .store_json import JsonLeafStore
 from .normalize import extract_links_media_quotes_blocks
+from .parser_bbpress import (
+    find_next_page_url,
+    parse_forum_page,
+    parse_forums_index,
+    parse_topic_page,
+)
+from .parser_blog import discover_article_urls, parse_article_page
 from .reply_tree import build_reply_tree, calculate_thread_stats
+from .store_json import JsonLeafStore
 
 
 def _sha256(s: str) -> str:
@@ -54,10 +53,38 @@ def _sha256(s: str) -> str:
 
 
 def _now_iso() -> str:
-    return datetime.now(timezone.utc).isoformat()
+    return datetime.now(UTC).isoformat()
 
 
-def _parse_timestamp(raw: Optional[str]) -> tuple[Optional[str], str]:
+def _download_image(src: str, images_dir: Path, http) -> str | None:
+    """
+    Download an image to local storage.
+
+    Returns the relative path within the library/forums/ tree (e.g. "images/abc.jpg"),
+    or None on failure. Skips download if the file already exists.
+    """
+    import hashlib as _hl
+    from urllib.parse import urlparse as _up
+
+    url_hash = _hl.md5(src.encode()).hexdigest()
+    ext = Path(_up(src).path).suffix.lower() or ".jpg"
+    if ext not in (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"):
+        ext = ".jpg"
+    filename = f"{url_hash}{ext}"
+    out_path = images_dir / filename
+
+    if out_path.exists():
+        return f"images/{filename}"
+
+    images_dir.mkdir(parents=True, exist_ok=True)
+    data = http.fetch_bytes(src)
+    if data:
+        out_path.write_bytes(data)
+        return f"images/{filename}"
+    return None
+
+
+def _parse_timestamp(raw: str | None) -> tuple[str | None, str]:
     """
     Parse the forum timestamp string into ISO 8601 when possible.
 
@@ -79,7 +106,7 @@ def _parse_timestamp(raw: Optional[str]) -> tuple[Optional[str], str]:
         return None, "low"
 
 
-def _extract_slug_from_url(url: str, pattern: str) -> Optional[str]:
+def _extract_slug_from_url(url: str, pattern: str) -> str | None:
     """Extract slug from URL using regex pattern."""
     m = re.search(pattern, url)
     return m.group(1) if m else None
@@ -118,8 +145,8 @@ class DeakinsPipeline:
     def scrape_topic(
         self,
         topic_url: str,
-        forum_slug: Optional[str] = None,
-        topic_slug: Optional[str] = None,
+        forum_slug: str | None = None,
+        topic_slug: str | None = None,
         max_pages: int = 50
     ) -> TopicLeaf:
         """
@@ -274,7 +301,7 @@ class DeakinsPipeline:
     def scrape_forum(
         self,
         forum_url: str,
-        forum_slug: Optional[str] = None,
+        forum_slug: str | None = None,
         max_pages: int = 20,
         max_topics: int = 1000
     ) -> ForumLeaf:
@@ -410,7 +437,7 @@ class DeakinsPipeline:
     def scrape_all_forums(
         self,
         forums_index_url: str,
-        max_forums: Optional[int] = None,
+        max_forums: int | None = None,
         max_topics_per_forum: int = 1000
     ) -> dict[str, Any]:
         """
@@ -461,7 +488,7 @@ class DeakinsPipeline:
             **stats
         }
 
-    def scrape_article(self, url: str) -> Optional[PostLeaf]:
+    def scrape_article(self, url: str) -> PostLeaf | None:
         """
         Fetch, parse, normalize, and store a single blog article as a PostLeaf
         with post_type=PostType.ARTICLE.
@@ -479,12 +506,23 @@ class DeakinsPipeline:
         raw = parse_article_page(res.text, url)
 
         if raw.is_restricted:
-            print(f"    [RESTRICTED] Member content not accessible — check auth cookies")
+            print("    [RESTRICTED] Member content not accessible — check auth cookies")
             return None
 
-        blocks, quotes, links, media = extract_links_media_quotes_blocks(
+        blocks, quotes, links, media_raw = extract_links_media_quotes_blocks(
             url, raw.content_text, raw.content_html
         )
+
+        # Download images and update media items with local_path
+        images_dir = self.store.out_dir / "images"
+        media = []
+        for m in media_raw:
+            local_path = _download_image(m.src, images_dir, self.http)
+            if local_path:
+                from .models import Media as _Media
+                media.append(_Media(src=m.src, alt=m.alt, kind=m.kind, local_path=local_path))
+            else:
+                media.append(m)
 
         article = PostLeaf(
             ids=PostIds(
@@ -494,6 +532,7 @@ class DeakinsPipeline:
                 wp_post_id=raw.wp_post_id,
             ),
             post_type=PostType.ARTICLE,
+            title=raw.title,
             author=Author(display_name=raw.author_name) if raw.author_name else None,
             timestamps=Timestamps(
                 parsed_iso=raw.date_published,
@@ -520,30 +559,64 @@ class DeakinsPipeline:
             ),
             integrity=Integrity(
                 content_hash=f"sha256:{_sha256(raw.content_text)}",
-                parser_version="blog-v1",
+                parser_version="blog-v2",
             ),
         )
 
         self.store.write_post(article)
-        print(f"    ✓ Saved: {raw.article_slug} ({len(raw.content_text)} chars)")
+        downloaded = sum(1 for m in media if m.local_path)
+        print(f"    ✓ Saved: {raw.article_slug} ({len(raw.content_text)} chars, {downloaded}/{len(media)} images downloaded)")
         return article
 
-    def scrape_lal_series(self) -> dict[str, Any]:
+    def scrape_articles(self, urls: list[str]) -> dict[str, Any]:
         """
-        Discover all Looking at Lighting article URLs via the site nav menu,
-        then scrape each article.
+        Scrape a list of article URLs, downloading images for each.
 
-        URL discovery uses the public homepage (no auth needed — nav is public).
-        Article fetches require auth cookies loaded into HttpClient.
+        URLs that don't require auth (non-LAL) are fetched as-is;
+        LAL articles require auth cookies already loaded into HttpClient.
 
         Returns summary statistics.
         """
-        print(f"\nDiscovering LAL article URLs from: {self.base_url}")
+        stats: dict[str, Any] = {
+            "total": len(urls),
+            "scraped": 0,
+            "skipped_not_modified": 0,
+            "restricted": 0,
+            "errors": 0,
+        }
+
+        for i, url in enumerate(urls, 1):
+            print(f"\n[{i}/{len(urls)}] {url}")
+            try:
+                result = self.scrape_article(url)
+                if result is None:
+                    slug = url.rstrip("/").split("/")[-1]
+                    existing = self.store.read_post(slug)
+                    if existing:
+                        stats["skipped_not_modified"] += 1
+                    else:
+                        stats["restricted"] += 1
+                else:
+                    stats["scraped"] += 1
+            except Exception as e:
+                print(f"    [ERROR] {e}")
+                stats["errors"] += 1
+
+        return stats
+
+    def scrape_lal_series(self) -> dict[str, Any]:
+        """
+        Discover ALL article URLs from the site nav (LAL + other series),
+        then scrape each. LAL articles require auth cookies already loaded.
+
+        Returns summary statistics.
+        """
+        print(f"\nDiscovering article URLs from: {self.base_url}")
         res = self.http.fetch(self.base_url + "/")
         assert res.text is not None, "Failed to fetch homepage for URL discovery"
 
-        urls = discover_lal_urls(res.text, self.base_url)
-        print(f"  Found {len(urls)} LAL article URLs")
+        urls = discover_article_urls(res.text, self.base_url)
+        print(f"  Found {len(urls)} article URLs")
 
         stats: dict[str, Any] = {
             "total": len(urls),

@@ -302,6 +302,8 @@ def authenticate_from_settings(settings) -> WordPressAuthHandler:
     """
     Create and authenticate using ArticlesSettings.
 
+    Uses cached session if available and valid; otherwise requires credentials.
+
     Args:
         settings: ArticlesSettings instance with credentials
 
@@ -311,19 +313,29 @@ def authenticate_from_settings(settings) -> WordPressAuthHandler:
     Raises:
         AuthenticationError: If authentication fails
     """
-    if not settings.username or not settings.password:
-        raise AuthenticationError(
-            "Username and password required for authentication. "
-            "Set DEAKINS_ARTICLES_USERNAME and DEAKINS_ARTICLES_PASSWORD "
-            "or provide via CLI arguments."
-        )
-
     auth_handler = WordPressAuthHandler(
         base_url=settings.base_url,
         login_url=settings.login_url,
         session_file=settings.session_cookie_file,
         user_agent=settings.user_agent,
     )
+
+    # Use cached session if timestamp is still fresh AND server accepts the cookies
+    if auth_handler.is_authenticated():
+        if auth_handler._verify_authenticated():
+            print(f"✓ Using valid cached session (server verified)")
+            return auth_handler
+        else:
+            print(f"⚠ Cached session expired on server — re-authentication required")
+
+    # Cached session missing, locally expired, or server-rejected — require credentials
+    if not settings.username or not settings.password:
+        raise AuthenticationError(
+            "No valid cached session found. Credentials required.\n"
+            "Set DEAKINS_ARTICLES_USERNAME and DEAKINS_ARTICLES_PASSWORD "
+            "or provide via --username/--password.\n"
+            f"Session file checked: {settings.session_cookie_file}"
+        )
 
     auth_handler.authenticate(settings.username, settings.password)
 
