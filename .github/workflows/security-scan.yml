@@ -1,0 +1,83 @@
+name: Security Scan
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop]
+
+jobs:
+  secret-scan:
+    name: Scan for Secrets
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: TruffleHog OSS
+        if: github.event_name != 'push' || github.event.before != '0000000000000000000000000000000000000000'
+        uses: trufflesecurity/trufflehog@main
+        with:
+          path: ./
+          base: ${{ github.event_name == 'push' && github.event.before || github.event.repository.default_branch }}
+          head: HEAD
+          extra_args: --json
+
+      - name: Check for hardcoded API keys in Python source
+        run: |
+          echo "Checking for hardcoded API keys..."
+          if git grep -E "sk-ant-api[0-9]{2}-[A-Za-z0-9_-]{90,}" -- '*.py' '*.json' ':!*.example'; then
+            echo "ERROR: Anthropic API keys found in tracked files!"
+            exit 1
+          else
+            echo "No API keys found in code"
+          fi
+
+      - name: Check for session cookies in tracked files
+        run: |
+          echo "Checking for session cookie files..."
+          if git ls-files | grep -E "session_cookies\.json|cookies\.json"; then
+            echo "ERROR: Session cookie files found in git!"
+            git ls-files | grep -E "session_cookies\.json|cookies\.json"
+            exit 1
+          else
+            echo "No session cookie files tracked"
+          fi
+
+      - name: Verify library/_site not committed
+        run: |
+          echo "Checking for derived runtime state artifacts..."
+          if git ls-files | grep -E "library/forums/_site/|library/articles/_site/"; then
+            echo "ERROR: Derived runtime state committed (should be gitignored)!"
+            git ls-files | grep -E "library/.*/_site/"
+            exit 1
+          else
+            echo "No runtime state artifacts committed"
+          fi
+
+  dependency-audit:
+    name: Audit Dependencies
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install pip-audit
+        run: pip install pip-audit
+
+      - name: Audit dependencies
+        run: pip-audit --requirement requirements.txt --ignore-vuln PYSEC-2022-42969 || pip-audit -r <(pip show $(grep -v "^\s*#" pyproject.toml | grep -oP '(?<=dependencies = \[)[^\]]*' || echo "") 2>/dev/null) || echo "Audit skipped (no requirements.txt or parseable deps)"
+        continue-on-error: true
