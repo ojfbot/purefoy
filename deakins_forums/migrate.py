@@ -12,9 +12,8 @@ import sys
 from pathlib import Path
 
 from .config import Settings
-from .models import PostType, Integrity
-from .store_json import JsonLeafStore
 from .reply_tree import build_reply_tree, calculate_thread_stats
+from .store_json import JsonLeafStore
 
 
 def migrate_v1_to_v2(store: JsonLeafStore, dry_run: bool = False) -> dict:
@@ -65,7 +64,7 @@ def migrate_v1_to_v2(store: JsonLeafStore, dry_run: bool = False) -> dict:
         try:
             # Check if already migrated (has reply_tree)
             if topic.reply_tree is not None and topic.provenance.http:
-                print(f"  ✓ Already has reply tree, skipping")
+                print("  ✓ Already has reply tree, skipping")
                 stats["topics_skipped"] += 1
                 continue
 
@@ -80,14 +79,14 @@ def migrate_v1_to_v2(store: JsonLeafStore, dry_run: bool = False) -> dict:
                         stats["posts_with_parents"] += 1
 
             if not posts_have_parents:
-                print(f"  ⚠ Posts don't have parent fields - need to re-scrape topic")
+                print("  ⚠ Posts don't have parent fields - need to re-scrape topic")
                 stats["topics_skipped"] += 1
                 continue
 
             # Build reply tree
             reply_tree = build_reply_tree(topic.post_ids, store)
             if not reply_tree:
-                print(f"  ✗ Failed to build reply tree (no root post found)")
+                print("  ✗ Failed to build reply tree (no root post found)")
                 stats["errors"] += 1
                 continue
 
@@ -172,7 +171,7 @@ def rebuild_all_reply_trees(store: JsonLeafStore, dry_run: bool = False) -> dict
             # Always rebuild
             reply_tree = build_reply_tree(topic.post_ids, store)
             if not reply_tree:
-                print(f"  ✗ Failed to build reply tree")
+                print("  ✗ Failed to build reply tree")
                 stats["errors"] += 1
                 continue
 

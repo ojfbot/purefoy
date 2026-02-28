@@ -6,6 +6,9 @@ import argparse
 import sys
 from pathlib import Path
 
+from dotenv import load_dotenv
+load_dotenv()
+
 from .config import load_settings
 from .pipeline import build_pipeline
 from .store import ArticleJsonStore

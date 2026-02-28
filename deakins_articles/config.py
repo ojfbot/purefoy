@@ -161,13 +161,6 @@ class ArticlesSettings:
         if self.max_image_size_mb <= 0:
             errors.append("max_image_size_mb must be positive")
 
-        # Authentication warning (not an error, just a note)
-        if not self.username or not self.password:
-            errors.append(
-                "WARNING: username/password not set - "
-                "will only be able to scrape public metadata"
-            )
-
         return errors
 
 

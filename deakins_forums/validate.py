@@ -6,17 +6,15 @@ Validates forum scrape data for consistency, completeness, and correctness.
 
 from __future__ import annotations
 
-from typing import Optional
-
-from .models import PostLeaf, TopicLeaf, PostType
-from .store_json import JsonLeafStore
+from .models import PostLeaf, PostType, TopicLeaf
 from .reply_tree import extract_post_ids_from_tree
+from .store_json import JsonLeafStore
 
 
 class ValidationError:
     """Represents a validation error with severity and context."""
 
-    def __init__(self, severity: str, message: str, context: Optional[dict] = None):
+    def __init__(self, severity: str, message: str, context: dict | None = None):
         self.severity = severity  # "error", "warning", "info"
         self.message = message
         self.context = context or {}
@@ -214,7 +212,7 @@ def validate_topic(topic: TopicLeaf, store: JsonLeafStore) -> list[ValidationErr
     return errors
 
 
-def detect_circular_references(post_ids: list[str], store: JsonLeafStore) -> Optional[list[str]]:
+def detect_circular_references(post_ids: list[str], store: JsonLeafStore) -> list[str] | None:
     """
     Detect circular references in parent relationships.
 
@@ -231,7 +229,7 @@ def detect_circular_references(post_ids: list[str], store: JsonLeafStore) -> Opt
     -------
     List representing the cycle (e.g., ["A", "B", "C", "A"]) if found, None otherwise
     """
-    def find_cycle_from(start_id: str, visited: set[str], path: list[str]) -> Optional[list[str]]:
+    def find_cycle_from(start_id: str, visited: set[str], path: list[str]) -> list[str] | None:
         if start_id in visited:
             # Found cycle - return the cyclic portion
             cycle_start = path.index(start_id)

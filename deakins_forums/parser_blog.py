@@ -5,8 +5,9 @@ Handles the "Looking at Lighting" (LAL) series and any other article series
 with the same WordPress Page structure.
 
 Key functions:
-- discover_lal_urls(html, base_url)   -- find all /lal-*/ URLs from the nav menu
-- parse_article_page(html, url)        -- extract content from a WordPress article page
+- discover_article_urls(html, base_url)  -- find ALL article URLs from the nav menu
+- discover_lal_urls(html, base_url)      -- find /lal-*/ URLs only (kept for compat)
+- parse_article_page(html, url)          -- extract content from a WordPress article page
 """
 
 from __future__ import annotations
@@ -14,10 +15,20 @@ from __future__ import annotations
 import json
 import re
 from dataclasses import dataclass
-from typing import Optional
 from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup
+
+# Site-structure paths to EXCLUDE from article discovery.
+# Anything not in this set that is a top-level slug with a hyphen is
+# treated as a potential article and scraped.
+_EXCLUDE_PATHS = {
+    "forums", "lighting", "filmography", "members", "members-only",
+    "contact", "store", "byways", "byways-press", "byways_giveaway",
+    "team-deakins-podcast-2", "registration-query", "website-questionsideas",
+    "terms-of-use", "link-page", "rad", "reflections",
+    "wp-login.php", "wp-admin", "feed", "sitemap.xml",
+}
 
 
 @dataclass(frozen=True)
@@ -26,15 +37,15 @@ class RawArticle:
     url: str
     article_slug: str           # e.g., "lal-sicario-tunnel-and-alejandros-revenge"
     series: str                 # e.g., "lal"
-    wp_post_id: Optional[str]   # WordPress post ID from article element ID (e.g., "post-1234")
+    wp_post_id: str | None   # WordPress post ID from article element ID (e.g., "post-1234")
     title: str
-    author_name: Optional[str]
-    date_published: Optional[str]   # ISO 8601, from JSON-LD or <time> element
-    date_modified: Optional[str]    # ISO 8601, from JSON-LD
-    description: Optional[str]      # Meta description or JSON-LD description
-    featured_image_url: Optional[str]
-    content_text: str               # Plain text of article body
-    content_html: str               # Raw HTML of article body
+    author_name: str | None
+    date_published: str | None   # ISO 8601, from JSON-LD or <time> element
+    date_modified: str | None    # ISO 8601, from JSON-LD
+    description: str | None      # Meta description or JSON-LD description
+    featured_image_url: str | None
+    content_text: str               # Plain text of article body (nav stripped)
+    content_html: str               # Raw HTML of article body (nav stripped)
     is_restricted: bool             # True if WP-Members gate detected (not logged in)
 
 
@@ -51,11 +62,39 @@ def _series_from_slug(slug: str) -> str:
     Examples:
         "lal-sicario-tunnel-and-alejandros-revenge"  -> "lal"
         "empire-of-light-lighting"                    -> "empire-of-light"
+        "prisoners-1"                                 -> "prisoners"
+        "bladerunner-2049-police-station"             -> "bladerunner"
+        "skyfall-1"                                   -> "skyfall"
+        "tmwwt-bank"                                  -> "tmwwt"
     """
-    if slug.startswith("lal-"):
-        return "lal"
-    # Add more series as discovered
-    return "blog"
+    prefix_map = [
+        ("lal-", "lal"),
+        ("looking-at-lighting", "lal-early"),
+        ("roger-deakins-looks-at-lighting", "lal-early"),
+        ("empire-of-light", "empire-of-light"),
+        ("prisoners", "prisoners"),
+        ("bladerunner", "bladerunner"),
+        ("br-", "bladerunner"),
+        ("blade-runner", "bladerunner"),
+        ("hail-caesar", "hail-caesar"),
+        ("jesse-james", "jesse-james"),
+        ("skyfall", "skyfall"),
+        ("spectre-", "spectre"),
+        ("ncfom", "ncfom"),
+        ("no-country", "ncfom"),
+        ("tmwwt-", "tmwwt"),
+        ("unbroken-", "unbroken"),
+        ("1984-", "1984"),
+        ("true-grit", "true-grit"),
+        ("1917-", "1917"),
+        ("sicario-", "sicario"),
+    ]
+    for prefix, series in prefix_map:
+        if slug.startswith(prefix):
+            return series
+    # Strip trailing -N to get base series name
+    base = re.sub(r"-\d+$", "", slug)
+    return base if base else "blog"
 
 
 def _extract_json_ld(soup: BeautifulSoup) -> dict:
@@ -76,55 +115,99 @@ def _extract_json_ld(soup: BeautifulSoup) -> dict:
     return {}
 
 
-def discover_lal_urls(html: str, base_url: str) -> list[str]:
+def _strip_nav_elements(content_el) -> None:
     """
-    Parse the site navigation menu for /lal-*/ article links.
+    Remove navigation/index elements from the content element in-place.
 
-    The main nav menu is public (no auth required) and lists all LAL articles
-    as submenu items under "Looking at Lighting".
+    The rogerdeakins.com articles embed a TablePress table at the end of
+    every article that lists all other articles in the series. This is
+    navigation, not content. We also strip any standalone nav wrappers.
+    """
+    # TablePress plugin: <table class="tablepress ...">
+    for table in content_el.find_all("table", class_=re.compile(r"tablepress")):
+        table.decompose()
+
+    # Any surrounding <div class="tablepress-table-description"> or similar
+    for div in content_el.find_all("div", class_=re.compile(r"tablepress")):
+        div.decompose()
+
+    # WP-Members restriction forms
+    for rm in content_el.find_all(id=re.compile(r"wpmem")):
+        rm.decompose()
+
+
+def discover_article_urls(html: str, base_url: str) -> list[str]:
+    """
+    Parse all links on the page for article URLs (any series).
+
+    Strategy: include all same-domain top-level paths (no subdirectory slash)
+    that are NOT in the explicit exclusion list and contain a hyphen
+    (all article slugs are hyphenated; site-section pages are single words).
 
     Returns a deduplicated, sorted list of absolute article URLs.
     """
     soup = BeautifulSoup(html, "html.parser")
     found: set[str] = set()
+    # base_netloc may be "rogerdeakins.com" while links use "www.rogerdeakins.com"
+    base_netloc = urlparse(base_url).netloc.lstrip("www.")
 
-    # Primary: site header nav menu
-    nav_candidates = [
-        soup.select("#site-header-menu-primary a"),
-        soup.select("nav a"),
-        soup.select(".menu a"),
-        soup.select("ul.menu a"),
-    ]
+    for a in soup.find_all("a", href=True):
+        href = a.get("href", "")
+        if not href or href.startswith("#") or href.startswith("mailto:"):
+            continue
+        abs_url = urljoin(base_url, href)
+        parsed = urlparse(abs_url)
 
-    for links in nav_candidates:
-        for a in links:
-            href = a.get("href", "")
-            if not href:
-                continue
-            abs_url = urljoin(base_url, href)
-            path = urlparse(abs_url).path.strip("/")
-            # Match /lal-*/ pattern
-            if path.startswith("lal-") or re.match(r"lal-.+", path):
-                found.add(abs_url.rstrip("/") + "/")
+        # Only same-domain (handles www. prefix mismatch)
+        if parsed.netloc and base_netloc not in parsed.netloc:
+            continue
 
-    # Fallback: any anchor link containing /lal- in the href
-    if not found:
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            if "/lal-" in href:
-                abs_url = urljoin(base_url, href)
-                found.add(abs_url.rstrip("/") + "/")
+        path = parsed.path.strip("/")
+
+        # Skip paths with a subdirectory (forum topics, WP pages etc.)
+        if "/" in path:
+            continue
+
+        # Skip empty and excluded paths
+        if not path or path in _EXCLUDE_PATHS:
+            continue
+
+        # All article slugs contain a hyphen; single-word paths are site sections
+        if "-" not in path and "_" not in path:
+            continue
+
+        # Skip wp-* paths
+        if path.startswith("wp-") or path.startswith("feed"):
+            continue
+
+        found.add(abs_url.rstrip("/") + "/")
+
+    return sorted(found)
+
+
+def discover_lal_urls(html: str, base_url: str) -> list[str]:
+    """
+    Parse the site navigation menu for /lal-*/ article links only.
+
+    Kept for backward compatibility. Use discover_article_urls() for broader discovery.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    found: set[str] = set()
+
+    for a in soup.find_all("a", href=True):
+        href = a.get("href", "")
+        if not href:
+            continue
+        abs_url = urljoin(base_url, href)
+        path = urlparse(abs_url).path.strip("/")
+        if path.startswith("lal-"):
+            found.add(abs_url.rstrip("/") + "/")
 
     return sorted(found)
 
 
 def discover_series_urls(html: str, base_url: str, series_prefix: str) -> list[str]:
-    """
-    Generic version of discover_lal_urls for other series.
-
-    Args:
-        series_prefix: URL path prefix to match, e.g. "empire-of-light"
-    """
+    """Generic article URL discovery by path prefix."""
     soup = BeautifulSoup(html, "html.parser")
     found: set[str] = set()
 
@@ -143,6 +226,7 @@ def parse_article_page(html: str, url: str) -> RawArticle:
     Extract structured content from a WordPress article page.
 
     Handles both authenticated (full content) and restricted (login wall) states.
+    Strips navigation tables (TablePress) embedded in .entry-content.
     """
     soup = BeautifulSoup(html, "html.parser")
     article_slug = _slug_from_url(url)
@@ -156,7 +240,7 @@ def parse_article_page(html: str, url: str) -> RawArticle:
     )
 
     # --- WordPress post ID from article element ---
-    wp_post_id: Optional[str] = None
+    wp_post_id: str | None = None
     article_el = soup.find("article")
     if article_el:
         el_id = article_el.get("id", "")
@@ -164,25 +248,26 @@ def parse_article_page(html: str, url: str) -> RawArticle:
         if m:
             wp_post_id = m.group(1)
 
-    # --- Title ---
+    # --- Title: prefer og:title or JSON-LD over .entry-title (which may be
+    #     the page slug rather than the readable article title) ---
     title = ""
-    title_el = soup.find(class_="entry-title") or soup.find("h1")
-    if title_el:
-        title = title_el.get_text(" ", strip=True)
+    og_title = soup.find("meta", property="og:title")
+    if og_title:
+        title = og_title.get("content", "").strip()
     if not title:
-        og_title = soup.find("meta", property="og:title")
-        if og_title:
-            title = og_title.get("content", "").strip()
+        title_el = soup.find(class_="entry-title") or soup.find("h1")
+        if title_el:
+            title = title_el.get_text(" ", strip=True)
     if not title:
         title_tag = soup.find("title")
         title = title_tag.get_text(strip=True) if title_tag else article_slug
 
     # --- JSON-LD metadata (richer than HTML elements) ---
     ld = _extract_json_ld(soup)
-    date_published: Optional[str] = ld.get("datePublished")
-    date_modified: Optional[str] = ld.get("dateModified")
-    description: Optional[str] = ld.get("description")
-    featured_image_url: Optional[str] = None
+    date_published: str | None = ld.get("datePublished")
+    date_modified: str | None = ld.get("dateModified")
+    description: str | None = ld.get("description")
+    featured_image_url: str | None = None
 
     # JSON-LD image can be a string or object
     ld_image = ld.get("image")
@@ -193,6 +278,12 @@ def parse_article_page(html: str, url: str) -> RawArticle:
     elif isinstance(ld_image, list) and ld_image:
         first = ld_image[0]
         featured_image_url = first if isinstance(first, str) else first.get("url")
+
+    # --- Fallback: og:image ---
+    if not featured_image_url:
+        og_img = soup.find("meta", property="og:image")
+        if og_img:
+            featured_image_url = og_img.get("content") or None
 
     # --- Fallback: <time> element for date ---
     if not date_published:
@@ -210,14 +301,8 @@ def parse_article_page(html: str, url: str) -> RawArticle:
             if og_desc:
                 description = og_desc.get("content", "").strip() or None
 
-    # --- Fallback: featured image from og:image ---
-    if not featured_image_url:
-        og_img = soup.find("meta", property="og:image")
-        if og_img:
-            featured_image_url = og_img.get("content") or None
-
     # --- Author ---
-    author_name: Optional[str] = None
+    author_name: str | None = None
     author_el = soup.find(class_="author") or soup.find(rel="author")
     if author_el:
         author_name = author_el.get_text(" ", strip=True) or None
@@ -228,15 +313,13 @@ def parse_article_page(html: str, url: str) -> RawArticle:
         elif isinstance(author_data, list) and author_data:
             author_name = author_data[0].get("name") if isinstance(author_data[0], dict) else None
 
-    # --- Content ---
+    # --- Content: strip nav tables before extracting ---
     content_html = ""
     content_text = ""
 
     content_el = soup.find(class_="entry-content")
     if content_el:
-        # Remove the WP-Members restriction form if present (not content)
-        for rm in content_el.find_all(id=re.compile(r"wpmem")):
-            rm.decompose()
+        _strip_nav_elements(content_el)
         content_html = str(content_el)
         content_text = content_el.get_text("\n", strip=True)
     elif is_restricted:

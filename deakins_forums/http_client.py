@@ -16,7 +16,6 @@ import json
 import time
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Optional
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -28,9 +27,9 @@ class FetchResult:
     """Return object for fetches with provenance useful for downstream storage."""
     url: str
     status: int
-    text: Optional[str]
-    etag: Optional[str]
-    last_modified: Optional[str]
+    text: str | None
+    etag: str | None
+    last_modified: str | None
     not_modified: bool = False
 
 
@@ -57,7 +56,7 @@ class HttpClient:
         timeout_s: int,
         state_path: Path,
         max_retries: int = 3,
-        cookies_path: Optional[Path] = None,
+        cookies_path: Path | None = None,
     ) -> None:
         self.delay_s = delay_s
         self.timeout_s = timeout_s
@@ -153,3 +152,22 @@ class HttpClient:
             etag=etag,
             last_modified=last_mod
         )
+
+    def fetch_bytes(self, url: str) -> bytes | None:
+        """
+        Fetch a binary resource (e.g. image) with rate limiting.
+
+        No ETag caching — callers should check for a local file first.
+        Returns None on any error.
+        """
+        elapsed = time.time() - self._last_request_time
+        if elapsed < self.delay_s:
+            time.sleep(self.delay_s - elapsed)
+        self._last_request_time = time.time()
+
+        try:
+            resp = self.session.get(url, timeout=self.timeout_s)
+            resp.raise_for_status()
+            return resp.content
+        except Exception:
+            return None
