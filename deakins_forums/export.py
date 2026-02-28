@@ -10,7 +10,7 @@ from __future__ import annotations
 import csv
 import json
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any
 
 from .store_json import JsonLeafStore
 
@@ -349,6 +349,7 @@ class TextExporter:
 def main():
     """CLI for text export utilities."""
     import argparse
+
     from .config import Settings
 
     parser = argparse.ArgumentParser(description="Export forum text data")

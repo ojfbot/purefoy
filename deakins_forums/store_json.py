@@ -14,9 +14,9 @@ in the same posts/ directory.
 from __future__ import annotations
 
 import json
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any, cast
 
 from .models import ForumLeaf, PostLeaf, TopicLeaf
 
@@ -56,7 +56,7 @@ class JsonLeafStore:
     @staticmethod
     def now_iso() -> str:
         """Return current timestamp in ISO 8601 format."""
-        return datetime.now(timezone.utc).isoformat()
+        return datetime.now(UTC).isoformat()
 
     def write_post(self, post: PostLeaf) -> Path:
         """Write a post leaf to disk."""
@@ -67,7 +67,7 @@ class JsonLeafStore:
         )
         return filepath
 
-    def read_post(self, post_id: str) -> Optional[PostLeaf]:
+    def read_post(self, post_id: str) -> PostLeaf | None:
         """Read a post leaf from disk."""
         filepath = self.posts_dir / f"{post_id}.json"
         if not filepath.exists():
@@ -95,7 +95,7 @@ class JsonLeafStore:
         )
         return filepath
 
-    def read_topic(self, forum_slug: str, topic_slug: str) -> Optional[TopicLeaf]:
+    def read_topic(self, forum_slug: str, topic_slug: str) -> TopicLeaf | None:
         """Read a topic leaf by forum and topic slugs."""
         filename = f"{forum_slug}__{topic_slug}.json"
         filepath = self.topics_dir / filename
@@ -104,7 +104,7 @@ class JsonLeafStore:
         data = json.loads(filepath.read_text(encoding="utf-8"))
         return TopicLeaf(**data)
 
-    def read_topic_by_url(self, topic_url: str) -> Optional[TopicLeaf]:
+    def read_topic_by_url(self, topic_url: str) -> TopicLeaf | None:
         """Read a topic by searching for matching URL."""
         for filepath in self.topics_dir.glob("*.json"):
             data = json.loads(filepath.read_text(encoding="utf-8"))
@@ -121,7 +121,7 @@ class JsonLeafStore:
         )
         return filepath
 
-    def read_forum(self, forum_slug: str) -> Optional[ForumLeaf]:
+    def read_forum(self, forum_slug: str) -> ForumLeaf | None:
         """Read a forum leaf from disk."""
         filepath = self.forums_dir / f"{forum_slug}.json"
         if not filepath.exists():
@@ -140,13 +140,13 @@ class JsonLeafStore:
         filepath.write_text(json.dumps(payload, indent=2), encoding="utf-8")
         return filepath
 
-    def read_forums_index(self) -> Optional[list[dict[str, Any]]]:
+    def read_forums_index(self) -> list[dict[str, Any]] | None:
         """Read the forums index."""
         filepath = self.site_dir / "forums_index.json"
         if not filepath.exists():
             return None
         data = json.loads(filepath.read_text(encoding="utf-8"))
-        return data.get("forums", [])
+        return cast(list[dict[str, Any]], data.get("forums", []))
 
     def list_all_posts(self) -> list[PostLeaf]:
         """List all post leafs."""

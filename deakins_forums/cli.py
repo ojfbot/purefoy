@@ -11,24 +11,25 @@ Usage:
     python -m deakins_forums.cli stats
 """
 
+from __future__ import annotations
+
 import argparse
 import sys
 from pathlib import Path
-from typing import Optional
 
 from .config import Settings
+from .coverage import CoverageTracker
+from .export import TextExporter
 from .http_client import HttpClient
 from .index_sqlite import SqliteIndex
 from .pipeline import DeakinsPipeline
-from .store_json import JsonLeafStore
-from .export import TextExporter
-from .coverage import CoverageTracker
-from .report import print_coverage_report, print_quick_stats
 from .query_tracker import QueryTracker
-from .validate import validate_all_topics, validate_all_posts
+from .report import print_coverage_report, print_quick_stats
+from .store_json import JsonLeafStore
+from .validate import validate_all_posts, validate_all_topics
 
 
-def build_app(settings: Optional[Settings] = None):
+def build_app(settings: Settings | None = None):
     """Wire dependencies."""
     if settings is None:
         settings = Settings.from_env()
@@ -134,7 +135,6 @@ def cmd_scrape_forum(args):
         }
 
         newly_scraped = topics_after - topics_before
-        revisited = topics_before & topics_after
 
         # Log all accessed topics
         for topic_file in topics_dir.iterdir():
@@ -151,7 +151,7 @@ def cmd_scrape_forum(args):
         # Finalize query
         query_tracker.finalize_query(query_metadata)
 
-        print(f"\n📊 Query Stats:")
+        print("\n📊 Query Stats:")
         print(f"  Topics Accessed: {len(query_metadata.topics_accessed)}")
         print(f"  Newly Scraped: {len(query_metadata.topics_newly_scraped)}")
         print(f"  Revisited: {len(query_metadata.topics_revisited)}")
@@ -169,7 +169,7 @@ def cmd_scrape_topic(args):
     pipeline, store, index, settings = build_app()
 
     print("=" * 70)
-    print(f"Deakins Forums - Scrape Topic")
+    print("Deakins Forums - Scrape Topic")
     print("=" * 70)
 
     topic_leaf = pipeline.scrape_topic(
@@ -300,7 +300,7 @@ def cmd_stats(args):
 
     # Storage stats
     storage_stats = store.get_stats()
-    print(f"\nStorage (JSON leafs):")
+    print("\nStorage (JSON leafs):")
     print(f"  Posts:  {storage_stats['posts']}")
     print(f"  Topics: {storage_stats['topics']}")
     print(f"  Forums: {storage_stats['forums']}")
@@ -308,7 +308,7 @@ def cmd_stats(args):
     # Index stats
     try:
         index_stats = index.get_stats()
-        print(f"\nSearch Index:")
+        print("\nSearch Index:")
         print(f"  Indexed posts:  {index_stats['total_posts']}")
         print(f"  Forums:         {index_stats['total_forums']}")
         print(f"  Topics:         {index_stats['total_topics']}")
@@ -316,11 +316,11 @@ def cmd_stats(args):
 
         # Curation statistics (if available)
         if index_stats.get('persona_distribution'):
-            print(f"\nCuration Metadata:")
+            print("\nCuration Metadata:")
             print(f"  Cinematography posts: {index_stats.get('cinematography_posts', 0)}")
             print(f"  Housekeeping posts:   {index_stats.get('housekeeping_posts', 0)}")
 
-            print(f"\n  Persona Distribution:")
+            print("\n  Persona Distribution:")
             tier_names = {
                 'S': 'Master Cinematographers',
                 'A': 'Working Professionals',
@@ -332,13 +332,13 @@ def cmd_stats(args):
                 count = index_stats['persona_distribution'].get(tier, 0)
                 if count > 0:
                     print(f"    {tier}-Tier ({tier_names[tier][:25]:25s}): {count:4d} posts")
-    except Exception as e:
-        print(f"\nSearch Index: Not built yet (run 'build-index')")
+    except Exception:
+        print("\nSearch Index: Not built yet (run 'build-index')")
 
     # Check for curated data
     curated_dir = settings.out_dir / "_curated"
     if curated_dir.exists():
-        print(f"\nCurated Data:")
+        print("\nCurated Data:")
         print(f"  Location: {curated_dir}")
 
         # Check for metadata file
@@ -602,7 +602,7 @@ def main():
     p_search.add_argument("--limit", type=int, default=20, help="Max results")
 
     # stats command
-    p_stats = subparsers.add_parser("stats", help="Show statistics")
+    subparsers.add_parser("stats", help="Show statistics")
 
     # export command
     p_export = subparsers.add_parser("export", help="Export text data")

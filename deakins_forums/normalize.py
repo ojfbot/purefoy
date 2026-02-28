@@ -11,7 +11,6 @@ Extracts structured information from post content:
 from __future__ import annotations
 
 import re
-from typing import Optional
 from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup
@@ -22,7 +21,7 @@ from .models import ContentBlock, Link, Media, Quote
 def extract_links_media_quotes_blocks(
     base_url: str,
     content_text: str,
-    content_html: Optional[str]
+    content_html: str | None
 ) -> tuple[list[ContentBlock], list[Quote], list[Link], list[Media]]:
     """
     Extract structured content from post text/HTML.

@@ -5,8 +5,11 @@ Colored CLI reporting for forum coverage.
 Generates test-coverage-style reports with colors and progress bars.
 """
 
-from typing import Dict, Any, Optional
-from .coverage import CoverageReport, ForumCoverage, QueryCoverage
+from __future__ import annotations
+
+from typing import Any
+
+from .coverage import CoverageReport
 
 
 class Colors:
@@ -89,7 +92,7 @@ def print_section(title: str):
     print(f"\n{Colors.BOLD}{Colors.BLUE}━━━ {title} {Colors.DIM}{'━' * (75 - len(title))}{Colors.RESET}")
 
 
-def print_coverage_report(report: CoverageReport, delta: Optional[Dict[str, Any]] = None):
+def print_coverage_report(report: CoverageReport, delta: dict[str, Any] | None = None):
     """Print a comprehensive coverage report with colors."""
 
     print_header("DEAKINS FORUMS COVERAGE REPORT")
@@ -210,7 +213,6 @@ def print_recommendations(report: CoverageReport):
 
     for forum in incomplete_forums[:5]:  # Top 5
         remaining = forum.total_topics_available - forum.topics_scraped
-        pct = format_percent(forum.coverage_percent, show_color=False)
 
         print(f"    • {Colors.BOLD}{forum.forum_name}{Colors.RESET}")
         print(f"      Coverage: {format_percent(forum.coverage_percent)} ({forum.topics_scraped}/{forum.total_topics_available} topics)")
