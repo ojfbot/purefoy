@@ -1,1 +1,0 @@
-../../node-template/domain-knowledge/shared-stack.md
