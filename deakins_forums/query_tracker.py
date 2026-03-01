@@ -18,6 +18,7 @@ from typing import Any, cast
 @dataclass
 class QuerierPersona:
     """Metadata about who is performing the query."""
+
     role: str  # e.g., "Director", "DP", "Gaffer"
     department: str  # e.g., "Camera", "Lighting", "Production"
     context: str  # e.g., "TV miniseries development", "Feature pre-production"
@@ -26,6 +27,7 @@ class QuerierPersona:
 @dataclass
 class QueryMetadata:
     """Complete metadata for a research query."""
+
     query_id: str  # unique identifier
     query_name: str  # human-readable name
     querier: QuerierPersona
@@ -45,6 +47,7 @@ class QueryMetadata:
 @dataclass
 class TopicAccessRecord:
     """Record of a single topic access."""
+
     query_id: str
     query_name: str
     querier_role: str
@@ -65,7 +68,7 @@ class QueryTracker:
         if not self.query_log_file.exists():
             return {
                 "queries": {},
-                "topic_access_index": {}  # topic_slug -> [access_records]
+                "topic_access_index": {},  # topic_slug -> [access_records]
             }
 
         with open(self.query_log_file) as f:
@@ -73,7 +76,7 @@ class QueryTracker:
 
     def save_query_log(self, log: dict[str, Any]):
         """Save query log to disk."""
-        with open(self.query_log_file, 'w') as f:
+        with open(self.query_log_file, "w") as f:
             json.dump(log, f, indent=2)
 
     def start_query(
@@ -83,7 +86,7 @@ class QueryTracker:
         querier_department: str,
         query_context: str,
         query_intent: str,
-        target_forums: list[str]
+        target_forums: list[str],
     ) -> QueryMetadata:
         """
         Start tracking a new query.
@@ -93,11 +96,7 @@ class QueryTracker:
         timestamp = datetime.now(UTC).isoformat()
         query_id = f"{querier_role.lower().replace(' ', '-')}_{timestamp[:19].replace(':', '-')}"
 
-        querier = QuerierPersona(
-            role=querier_role,
-            department=querier_department,
-            context=query_context
-        )
+        querier = QuerierPersona(role=querier_role, department=querier_department, context=query_context)
 
         metadata = QueryMetadata(
             query_id=query_id,
@@ -105,18 +104,12 @@ class QueryTracker:
             querier=querier,
             intent=query_intent,
             target_forums=target_forums,
-            timestamp=timestamp
+            timestamp=timestamp,
         )
 
         return metadata
 
-    def log_topic_access(
-        self,
-        query_metadata: QueryMetadata,
-        topic_slug: str,
-        forum_slug: str,
-        was_new_scrape: bool
-    ):
+    def log_topic_access(self, query_metadata: QueryMetadata, topic_slug: str, forum_slug: str, was_new_scrape: bool):
         """
         Log that a query accessed a specific topic.
 
@@ -144,7 +137,7 @@ class QueryTracker:
             query_name=query_metadata.query_name,
             querier_role=query_metadata.querier.role,
             timestamp=datetime.now(UTC).isoformat(),
-            was_new_scrape=was_new_scrape
+            was_new_scrape=was_new_scrape,
         )
 
         # Add to topic access index
@@ -233,15 +226,11 @@ class QueryTracker:
 
         # Show topics accessed by multiple queries
         multi_access_topics = {
-            topic: accesses
-            for topic, accesses in log["topic_access_index"].items()
-            if len(accesses) > 1
+            topic: accesses for topic, accesses in log["topic_access_index"].items() if len(accesses) > 1
         }
 
         if multi_access_topics:
-            for topic, accesses in sorted(multi_access_topics.items(),
-                                         key=lambda x: len(x[1]),
-                                         reverse=True)[:20]:
+            for topic, accesses in sorted(multi_access_topics.items(), key=lambda x: len(x[1]), reverse=True)[:20]:
                 lines.append(f"{topic} ({len(accesses)} accesses)")
                 for access in accesses[:3]:  # Show first 3 accesses
                     lines.append(f"  - {access['querier_role']}: {access['query_name']} ({access['timestamp'][:10]})")

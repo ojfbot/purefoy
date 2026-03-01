@@ -26,7 +26,7 @@ CHROME_PROFILE_WIN = Path.home() / "AppData" / "Local" / "Google" / "Chrome" / "
 
 # A member-only LAL page used to verify authentication
 MEMBER_VERIFY_URL = "https://www.rogerdeakins.com/lal-sicario-tunnel-and-alejandros-revenge/"
-AUTH_SELECTOR = ".entry-content"           # Present when logged in and content is accessible
+AUTH_SELECTOR = ".entry-content"  # Present when logged in and content is accessible
 RESTRICTED_SELECTOR = "#wpmem_restricted_msg"  # Present when NOT logged in
 LOGIN_URL = "https://www.rogerdeakins.com/wp-login.php"
 COOKIE_DOMAIN = "rogerdeakins.com"

@@ -23,30 +23,47 @@ from bs4 import BeautifulSoup
 # Anything not in this set that is a top-level slug with a hyphen is
 # treated as a potential article and scraped.
 _EXCLUDE_PATHS = {
-    "forums", "lighting", "filmography", "members", "members-only",
-    "contact", "store", "byways", "byways-press", "byways_giveaway",
-    "team-deakins-podcast-2", "registration-query", "website-questionsideas",
-    "terms-of-use", "link-page", "rad", "reflections",
-    "wp-login.php", "wp-admin", "feed", "sitemap.xml",
+    "forums",
+    "lighting",
+    "filmography",
+    "members",
+    "members-only",
+    "contact",
+    "store",
+    "byways",
+    "byways-press",
+    "byways_giveaway",
+    "team-deakins-podcast-2",
+    "registration-query",
+    "website-questionsideas",
+    "terms-of-use",
+    "link-page",
+    "rad",
+    "reflections",
+    "wp-login.php",
+    "wp-admin",
+    "feed",
+    "sitemap.xml",
 }
 
 
 @dataclass(frozen=True)
 class RawArticle:
     """Parsed article data extracted from a WordPress page."""
+
     url: str
-    article_slug: str           # e.g., "lal-sicario-tunnel-and-alejandros-revenge"
-    series: str                 # e.g., "lal"
-    wp_post_id: str | None   # WordPress post ID from article element ID (e.g., "post-1234")
+    article_slug: str  # e.g., "lal-sicario-tunnel-and-alejandros-revenge"
+    series: str  # e.g., "lal"
+    wp_post_id: str | None  # WordPress post ID from article element ID (e.g., "post-1234")
     title: str
     author_name: str | None
-    date_published: str | None   # ISO 8601, from JSON-LD or <time> element
-    date_modified: str | None    # ISO 8601, from JSON-LD
-    description: str | None      # Meta description or JSON-LD description
+    date_published: str | None  # ISO 8601, from JSON-LD or <time> element
+    date_modified: str | None  # ISO 8601, from JSON-LD
+    description: str | None  # Meta description or JSON-LD description
     featured_image_url: str | None
-    content_text: str               # Plain text of article body (nav stripped)
-    content_html: str               # Raw HTML of article body (nav stripped)
-    is_restricted: bool             # True if WP-Members gate detected (not logged in)
+    content_text: str  # Plain text of article body (nav stripped)
+    content_html: str  # Raw HTML of article body (nav stripped)
+    is_restricted: bool  # True if WP-Members gate detected (not logged in)
 
 
 def _slug_from_url(url: str) -> str:
@@ -234,9 +251,7 @@ def parse_article_page(html: str, url: str) -> RawArticle:
 
     # --- Auth check: WP-Members restriction gate ---
     is_restricted = bool(
-        soup.find(id="wpmem_restricted_msg")
-        or soup.find(id="wpmem_login_form")
-        or soup.find(class_="wpmem_restricted")
+        soup.find(id="wpmem_restricted_msg") or soup.find(id="wpmem_login_form") or soup.find(class_="wpmem_restricted")
     )
 
     # --- WordPress post ID from article element ---

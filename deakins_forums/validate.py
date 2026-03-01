@@ -52,53 +52,59 @@ def validate_post(post: PostLeaf, store: JsonLeafStore) -> list[ValidationError]
 
     # Check: posts with parent_post_id should be type REPLY
     if post.ids.parent_post_id and post.post_type != PostType.REPLY:
-        errors.append(ValidationError(
-            "error",
-            f"Post {post.ids.post_id} has parent but is type '{post.post_type.value}' (should be 'reply')",
-            {"post_id": post.ids.post_id, "parent_post_id": post.ids.parent_post_id}
-        ))
+        errors.append(
+            ValidationError(
+                "error",
+                f"Post {post.ids.post_id} has parent but is type '{post.post_type.value}' (should be 'reply')",
+                {"post_id": post.ids.post_id, "parent_post_id": post.ids.parent_post_id},
+            )
+        )
 
     # Check: posts without parent should be type TOPIC
     if not post.ids.parent_post_id and post.post_type != PostType.TOPIC:
-        errors.append(ValidationError(
-            "warning",
-            f"Post {post.ids.post_id} has no parent but is type '{post.post_type.value}' (expected 'topic')",
-            {"post_id": post.ids.post_id}
-        ))
+        errors.append(
+            ValidationError(
+                "warning",
+                f"Post {post.ids.post_id} has no parent but is type '{post.post_type.value}' (expected 'topic')",
+                {"post_id": post.ids.post_id},
+            )
+        )
 
     # Check: parent reference is valid (post exists)
     if post.ids.parent_post_id:
         parent = store.read_post(post.ids.parent_post_id)
         if not parent:
-            errors.append(ValidationError(
-                "error",
-                f"Post {post.ids.post_id} references missing parent {post.ids.parent_post_id}",
-                {"post_id": post.ids.post_id, "parent_post_id": post.ids.parent_post_id}
-            ))
+            errors.append(
+                ValidationError(
+                    "error",
+                    f"Post {post.ids.post_id} references missing parent {post.ids.parent_post_id}",
+                    {"post_id": post.ids.post_id, "parent_post_id": post.ids.parent_post_id},
+                )
+            )
 
     # Check: replies should have position set
     if post.post_type == PostType.REPLY and post.ids.position is None:
-        errors.append(ValidationError(
-            "warning",
-            f"Reply post {post.ids.post_id} has no position set",
-            {"post_id": post.ids.post_id}
-        ))
+        errors.append(
+            ValidationError(
+                "warning", f"Reply post {post.ids.post_id} has no position set", {"post_id": post.ids.post_id}
+            )
+        )
 
     # Check: author should be present
     if not post.author or not post.author.display_name:
-        errors.append(ValidationError(
-            "warning",
-            f"Post {post.ids.post_id} has no author",
-            {"post_id": post.ids.post_id}
-        ))
+        errors.append(
+            ValidationError("warning", f"Post {post.ids.post_id} has no author", {"post_id": post.ids.post_id})
+        )
 
     # Check: timestamp should be parsed
     if not post.timestamps.parsed_iso:
-        errors.append(ValidationError(
-            "info",
-            f"Post {post.ids.post_id} has no parsed timestamp (confidence: {post.timestamps.parse_confidence})",
-            {"post_id": post.ids.post_id, "raw": post.timestamps.raw}
-        ))
+        errors.append(
+            ValidationError(
+                "info",
+                f"Post {post.ids.post_id} has no parsed timestamp (confidence: {post.timestamps.parse_confidence})",
+                {"post_id": post.ids.post_id, "raw": post.timestamps.raw},
+            )
+        )
 
     return errors
 
@@ -129,11 +135,11 @@ def validate_topic(topic: TopicLeaf, store: JsonLeafStore) -> list[ValidationErr
 
     # Check: topic should have posts
     if not topic.post_ids:
-        errors.append(ValidationError(
-            "warning",
-            f"Topic {topic.topic_slug or topic.topic_url} has no posts",
-            {"topic_url": topic.topic_url}
-        ))
+        errors.append(
+            ValidationError(
+                "warning", f"Topic {topic.topic_slug or topic.topic_url} has no posts", {"topic_url": topic.topic_url}
+            )
+        )
         return errors
 
     # Check: all post_ids have corresponding files
@@ -144,28 +150,34 @@ def validate_topic(topic: TopicLeaf, store: JsonLeafStore) -> list[ValidationErr
             missing_posts.append(post_id)
 
     if missing_posts:
-        errors.append(ValidationError(
-            "error",
-            f"Topic {topic.topic_slug} has {len(missing_posts)} missing post files",
-            {"topic_url": topic.topic_url, "missing": missing_posts[:5]}  # Show first 5
-        ))
+        errors.append(
+            ValidationError(
+                "error",
+                f"Topic {topic.topic_slug} has {len(missing_posts)} missing post files",
+                {"topic_url": topic.topic_url, "missing": missing_posts[:5]},  # Show first 5
+            )
+        )
 
     # Check: first post should be topic type (no parent)
     first_post = store.read_post(topic.post_ids[0])
     if first_post:
         if first_post.ids.parent_post_id is not None:
-            errors.append(ValidationError(
-                "error",
-                f"First post {first_post.ids.post_id} has parent {first_post.ids.parent_post_id} (should be root)",
-                {"topic_url": topic.topic_url, "first_post": first_post.ids.post_id}
-            ))
+            errors.append(
+                ValidationError(
+                    "error",
+                    f"First post {first_post.ids.post_id} has parent {first_post.ids.parent_post_id} (should be root)",
+                    {"topic_url": topic.topic_url, "first_post": first_post.ids.post_id},
+                )
+            )
 
         if first_post.post_type != PostType.TOPIC:
-            errors.append(ValidationError(
-                "warning",
-                f"First post {first_post.ids.post_id} is type '{first_post.post_type.value}' (expected 'topic')",
-                {"topic_url": topic.topic_url}
-            ))
+            errors.append(
+                ValidationError(
+                    "warning",
+                    f"First post {first_post.ids.post_id} is type '{first_post.post_type.value}' (expected 'topic')",
+                    {"topic_url": topic.topic_url},
+                )
+            )
 
     # Check: reply tree matches flat post list
     if topic.reply_tree:
@@ -177,37 +189,45 @@ def validate_topic(topic: TopicLeaf, store: JsonLeafStore) -> list[ValidationErr
             extra_in_tree = tree_posts - flat_posts
 
             if missing_in_tree:
-                errors.append(ValidationError(
-                    "error",
-                    f"Topic {topic.topic_slug}: {len(missing_in_tree)} posts missing from reply tree",
-                    {"topic_url": topic.topic_url, "missing": list(missing_in_tree)[:5]}
-                ))
+                errors.append(
+                    ValidationError(
+                        "error",
+                        f"Topic {topic.topic_slug}: {len(missing_in_tree)} posts missing from reply tree",
+                        {"topic_url": topic.topic_url, "missing": list(missing_in_tree)[:5]},
+                    )
+                )
 
             if extra_in_tree:
-                errors.append(ValidationError(
-                    "error",
-                    f"Topic {topic.topic_slug}: {len(extra_in_tree)} extra posts in reply tree",
-                    {"topic_url": topic.topic_url, "extra": list(extra_in_tree)[:5]}
-                ))
+                errors.append(
+                    ValidationError(
+                        "error",
+                        f"Topic {topic.topic_slug}: {len(extra_in_tree)} extra posts in reply tree",
+                        {"topic_url": topic.topic_url, "extra": list(extra_in_tree)[:5]},
+                    )
+                )
 
     # Check: no circular references
     circular = detect_circular_references(topic.post_ids, store)
     if circular:
-        errors.append(ValidationError(
-            "error",
-            f"Topic {topic.topic_slug} has circular reference: {' -> '.join(circular)}",
-            {"topic_url": topic.topic_url, "cycle": circular}
-        ))
+        errors.append(
+            ValidationError(
+                "error",
+                f"Topic {topic.topic_slug} has circular reference: {' -> '.join(circular)}",
+                {"topic_url": topic.topic_url, "cycle": circular},
+            )
+        )
 
     # Check: reply_count matches actual replies
     if topic.reply_tree:
         actual_reply_count = len(topic.post_ids) - 1  # Exclude topic starter
         if topic.reply_count != actual_reply_count:
-            errors.append(ValidationError(
-                "warning",
-                f"Topic {topic.topic_slug}: reply_count is {topic.reply_count} but found {actual_reply_count} replies",
-                {"topic_url": topic.topic_url}
-            ))
+            errors.append(
+                ValidationError(
+                    "warning",
+                    f"Topic {topic.topic_slug}: reply_count is {topic.reply_count} but found {actual_reply_count} replies",
+                    {"topic_url": topic.topic_url},
+                )
+            )
 
     return errors
 
@@ -229,6 +249,7 @@ def detect_circular_references(post_ids: list[str], store: JsonLeafStore) -> lis
     -------
     List representing the cycle (e.g., ["A", "B", "C", "A"]) if found, None otherwise
     """
+
     def find_cycle_from(start_id: str, visited: set[str], path: list[str]) -> list[str] | None:
         if start_id in visited:
             # Found cycle - return the cyclic portion

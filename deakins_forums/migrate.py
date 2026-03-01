@@ -74,7 +74,7 @@ def migrate_v1_to_v2(store: JsonLeafStore, dry_run: bool = False) -> dict:
                 post = store.read_post(post_id)
                 if post:
                     stats["posts_checked"] += 1
-                    if hasattr(post.ids, 'parent_post_id') and post.ids.parent_post_id:
+                    if hasattr(post.ids, "parent_post_id") and post.ids.parent_post_id:
                         posts_have_parents = True
                         stats["posts_with_parents"] += 1
 
@@ -103,7 +103,9 @@ def migrate_v1_to_v2(store: JsonLeafStore, dry_run: bool = False) -> dict:
                 store.write_topic(topic)
                 print(f"  ✓ Updated: {thread_stats['reply_count']} replies, depth {thread_stats['max_depth']}")
             else:
-                print(f"  [DRY RUN] Would update: {thread_stats['reply_count']} replies, depth {thread_stats['max_depth']}")
+                print(
+                    f"  [DRY RUN] Would update: {thread_stats['reply_count']} replies, depth {thread_stats['max_depth']}"
+                )
 
             stats["topics_updated"] += 1
 
@@ -187,7 +189,9 @@ def rebuild_all_reply_trees(store: JsonLeafStore, dry_run: bool = False) -> dict
                 store.write_topic(topic)
                 print(f"  ✓ Rebuilt: {thread_stats['reply_count']} replies, depth {thread_stats['max_depth']}")
             else:
-                print(f"  [DRY RUN] Would rebuild: {thread_stats['reply_count']} replies, depth {thread_stats['max_depth']}")
+                print(
+                    f"  [DRY RUN] Would rebuild: {thread_stats['reply_count']} replies, depth {thread_stats['max_depth']}"
+                )
 
             stats["topics_rebuilt"] += 1
 
@@ -213,30 +217,12 @@ def rebuild_all_reply_trees(store: JsonLeafStore, dry_run: bool = False) -> dict
 
 def main():
     """CLI entry point for migrations."""
-    parser = argparse.ArgumentParser(
-        description="Migrate Deakins Forums data to new schema versions"
-    )
+    parser = argparse.ArgumentParser(description="Migrate Deakins Forums data to new schema versions")
 
-    parser.add_argument(
-        "--rebuild-trees",
-        action="store_true",
-        help="Rebuild all reply trees (force regeneration)"
-    )
-    parser.add_argument(
-        "--migrate-v2",
-        action="store_true",
-        help="Migrate from v1 to v2 schema (adds reply trees)"
-    )
-    parser.add_argument(
-        "--dry-run",
-        action="store_true",
-        help="Show what would be done without making changes"
-    )
-    parser.add_argument(
-        "--out-dir",
-        type=Path,
-        help="Output directory (default: from config)"
-    )
+    parser.add_argument("--rebuild-trees", action="store_true", help="Rebuild all reply trees (force regeneration)")
+    parser.add_argument("--migrate-v2", action="store_true", help="Migrate from v1 to v2 schema (adds reply trees)")
+    parser.add_argument("--dry-run", action="store_true", help="Show what would be done without making changes")
+    parser.add_argument("--out-dir", type=Path, help="Output directory (default: from config)")
 
     args = parser.parse_args()
 
@@ -267,6 +253,7 @@ def main():
     except Exception as e:
         print(f"\n✗ Error: {e}", file=sys.stderr)
         import traceback
+
         traceback.print_exc()
         return 1
 

@@ -29,7 +29,7 @@ class TextExporter:
         """
         posts = self.store.list_all_posts()
 
-        with open(output_file, 'w', encoding='utf-8') as f:
+        with open(output_file, "w", encoding="utf-8") as f:
             for post in posts:
                 f.write("=" * 80 + "\n")
                 f.write(f"POST ID: {post.ids.post_id}\n")
@@ -42,10 +42,7 @@ class TextExporter:
                 f.write(post.content_text)
                 f.write("\n\n")
 
-        return {
-            "total_posts": len(posts),
-            "output_file": str(output_file)
-        }
+        return {"total_posts": len(posts), "output_file": str(output_file)}
 
     def export_posts_csv(self, output_file: Path) -> dict[str, int]:
         """
@@ -55,34 +52,44 @@ class TextExporter:
         """
         posts = self.store.list_all_posts()
 
-        with open(output_file, 'w', encoding='utf-8', newline='') as f:
+        with open(output_file, "w", encoding="utf-8", newline="") as f:
             writer = csv.writer(f)
-            writer.writerow([
-                'post_id', 'author', 'role', 'forum_slug', 'topic_slug',
-                'timestamp_iso', 'timestamp_raw', 'content_text',
-                'num_quotes', 'num_links', 'num_media', 'source_url'
-            ])
+            writer.writerow(
+                [
+                    "post_id",
+                    "author",
+                    "role",
+                    "forum_slug",
+                    "topic_slug",
+                    "timestamp_iso",
+                    "timestamp_raw",
+                    "content_text",
+                    "num_quotes",
+                    "num_links",
+                    "num_media",
+                    "source_url",
+                ]
+            )
 
             for post in posts:
-                writer.writerow([
-                    post.ids.post_id,
-                    post.author.display_name if post.author else '',
-                    post.author.role if post.author else '',
-                    post.ids.forum_slug or '',
-                    post.ids.topic_slug or '',
-                    post.timestamps.parsed_iso or '',
-                    post.timestamps.raw or '',
-                    post.content_text,
-                    len(post.quotes),
-                    len(post.links),
-                    len(post.media),
-                    post.provenance.source_url
-                ])
+                writer.writerow(
+                    [
+                        post.ids.post_id,
+                        post.author.display_name if post.author else "",
+                        post.author.role if post.author else "",
+                        post.ids.forum_slug or "",
+                        post.ids.topic_slug or "",
+                        post.timestamps.parsed_iso or "",
+                        post.timestamps.raw or "",
+                        post.content_text,
+                        len(post.quotes),
+                        len(post.links),
+                        len(post.media),
+                        post.provenance.source_url,
+                    ]
+                )
 
-        return {
-            "total_posts": len(posts),
-            "output_file": str(output_file)
-        }
+        return {"total_posts": len(posts), "output_file": str(output_file)}
 
     def export_by_author(self, output_dir: Path) -> dict[str, Any]:
         """
@@ -104,10 +111,10 @@ class TextExporter:
         # Write one file per author
         for author, author_posts in by_author.items():
             # Sanitize filename
-            safe_author = "".join(c if c.isalnum() or c in (' ', '-', '_') else '_' for c in author)
+            safe_author = "".join(c if c.isalnum() or c in (" ", "-", "_") else "_" for c in author)
             filename = output_dir / f"{safe_author}.txt"
 
-            with open(filename, 'w', encoding='utf-8') as f:
+            with open(filename, "w", encoding="utf-8") as f:
                 f.write(f"AUTHOR: {author}\n")
                 f.write(f"TOTAL POSTS: {len(author_posts)}\n")
                 f.write("=" * 80 + "\n\n")
@@ -120,11 +127,7 @@ class TextExporter:
                     f.write(post.content_text)
                     f.write("\n\n" + "=" * 80 + "\n\n")
 
-        return {
-            "total_authors": len(by_author),
-            "total_posts": len(posts),
-            "output_dir": str(output_dir)
-        }
+        return {"total_authors": len(by_author), "total_posts": len(posts), "output_dir": str(output_dir)}
 
     def export_by_topic(self, output_dir: Path) -> dict[str, Any]:
         """
@@ -140,10 +143,10 @@ class TextExporter:
         for topic in topics:
             # Sanitize filename
             topic_name = topic.topic_slug or "unknown"
-            safe_topic = "".join(c if c.isalnum() or c in (' ', '-', '_') else '_' for c in topic_name)
+            safe_topic = "".join(c if c.isalnum() or c in (" ", "-", "_") else "_" for c in topic_name)
             filename = output_dir / f"{safe_topic}.txt"
 
-            with open(filename, 'w', encoding='utf-8') as f:
+            with open(filename, "w", encoding="utf-8") as f:
                 f.write(f"TOPIC: {topic.title or topic.topic_slug}\n")
                 f.write(f"FORUM: {topic.forum_slug or 'N/A'}\n")
                 f.write(f"URL: {topic.topic_url}\n")
@@ -165,11 +168,7 @@ class TextExporter:
                         f.write(post.content_text)
                         f.write("\n\n" + "=" * 80 + "\n\n")
 
-        return {
-            "total_topics": len(topics),
-            "total_posts": total_posts,
-            "output_dir": str(output_dir)
-        }
+        return {"total_topics": len(topics), "total_posts": total_posts, "output_dir": str(output_dir)}
 
     def export_quotes_only(self, output_file: Path) -> dict[str, int]:
         """
@@ -178,7 +177,7 @@ class TextExporter:
         posts = self.store.list_all_posts()
 
         total_quotes = 0
-        with open(output_file, 'w', encoding='utf-8') as f:
+        with open(output_file, "w", encoding="utf-8") as f:
             for post in posts:
                 if post.quotes:
                     for quote in post.quotes:
@@ -195,7 +194,7 @@ class TextExporter:
         return {
             "total_quotes": total_quotes,
             "total_posts_with_quotes": sum(1 for p in posts if p.quotes),
-            "output_file": str(output_file)
+            "output_file": str(output_file),
         }
 
     def export_links(self, output_file: Path) -> dict[str, int]:
@@ -205,37 +204,33 @@ class TextExporter:
         posts = self.store.list_all_posts()
 
         total_links = 0
-        with open(output_file, 'w', encoding='utf-8', newline='') as f:
+        with open(output_file, "w", encoding="utf-8", newline="") as f:
             writer = csv.writer(f)
-            writer.writerow(['post_id', 'author', 'link_href', 'link_text', 'link_kind'])
+            writer.writerow(["post_id", "author", "link_href", "link_text", "link_kind"])
 
             for post in posts:
                 for link in post.links:
                     total_links += 1
-                    writer.writerow([
-                        post.ids.post_id,
-                        post.author.display_name if post.author else '',
-                        link.href,
-                        link.text or '',
-                        link.kind
-                    ])
+                    writer.writerow(
+                        [
+                            post.ids.post_id,
+                            post.author.display_name if post.author else "",
+                            link.href,
+                            link.text or "",
+                            link.kind,
+                        ]
+                    )
 
-        return {
-            "total_links": total_links,
-            "output_file": str(output_file)
-        }
+        return {"total_links": total_links, "output_file": str(output_file)}
 
     def export_roger_deakins_only(self, output_file: Path) -> dict[str, int]:
         """
         Export only posts by Roger Deakins.
         """
         posts = self.store.list_all_posts()
-        roger_posts = [
-            p for p in posts
-            if p.author and p.author.role and 'Roger Deakins' in p.author.role
-        ]
+        roger_posts = [p for p in posts if p.author and p.author.role and "Roger Deakins" in p.author.role]
 
-        with open(output_file, 'w', encoding='utf-8') as f:
+        with open(output_file, "w", encoding="utf-8") as f:
             f.write("ROGER DEAKINS POSTS\n")
             f.write("=" * 80 + "\n\n")
 
@@ -249,11 +244,7 @@ class TextExporter:
                 f.write(post.content_text)
                 f.write("\n\n" + "=" * 80 + "\n\n")
 
-        return {
-            "roger_posts": len(roger_posts),
-            "total_posts": len(posts),
-            "output_file": str(output_file)
-        }
+        return {"roger_posts": len(roger_posts), "total_posts": len(posts), "output_file": str(output_file)}
 
     def export_content_blocks(self, output_file: Path) -> dict[str, int]:
         """
@@ -261,7 +252,7 @@ class TextExporter:
         """
         posts = self.store.list_all_posts()
 
-        with open(output_file, 'w', encoding='utf-8') as f:
+        with open(output_file, "w", encoding="utf-8") as f:
             for post in posts:
                 if post.blocks:
                     f.write("=" * 80 + "\n")
@@ -280,7 +271,7 @@ class TextExporter:
         return {
             "total_posts_with_blocks": sum(1 for p in posts if p.blocks),
             "total_blocks": sum(len(p.blocks) for p in posts),
-            "output_file": str(output_file)
+            "output_file": str(output_file),
         }
 
     def export_statistics(self, output_file: Path) -> dict[str, Any]:
@@ -332,15 +323,15 @@ class TextExporter:
                 "total_quotes": total_quotes,
                 "total_links": total_links,
                 "total_media": total_media,
-                "total_content_blocks": total_blocks
+                "total_content_blocks": total_blocks,
             },
             "top_authors": sorted(posts_by_author.items(), key=lambda x: x[1], reverse=True)[:20],
             "authors_list": sorted(list(authors)),
             "forums_list": sorted(list(forum_slugs)),
-            "topics_list": sorted(list(topic_slugs))
+            "topics_list": sorted(list(topic_slugs)),
         }
 
-        with open(output_file, 'w', encoding='utf-8') as f:
+        with open(output_file, "w", encoding="utf-8") as f:
             json.dump(stats, f, indent=2, ensure_ascii=False)
 
         return stats
@@ -353,10 +344,10 @@ def main():
     from .config import Settings
 
     parser = argparse.ArgumentParser(description="Export forum text data")
-    parser.add_argument("command", choices=[
-        "all-text", "csv", "by-author", "by-topic",
-        "quotes", "links", "roger-only", "blocks", "stats"
-    ])
+    parser.add_argument(
+        "command",
+        choices=["all-text", "csv", "by-author", "by-topic", "quotes", "links", "roger-only", "blocks", "stats"],
+    )
     parser.add_argument("--output", "-o", required=True, help="Output file or directory")
 
     args = parser.parse_args()
@@ -397,4 +388,5 @@ def main():
 
 if __name__ == "__main__":
     import sys
+
     sys.exit(main())

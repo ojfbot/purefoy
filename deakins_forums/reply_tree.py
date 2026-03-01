@@ -87,7 +87,7 @@ def build_reply_tree(post_ids: list[str], store: JsonLeafStore) -> dict[str, Any
             "post_type": post.post_type.value,
             "author": post.author.display_name if post.author else None,
             "timestamp": post.timestamps.parsed_iso,
-            "children": []
+            "children": [],
         }
 
         # Recursively build children
@@ -175,9 +175,7 @@ def extract_post_ids_from_tree(reply_tree: dict[str, Any] | None) -> list[str]:
 
 
 def find_author_posts_in_tree(
-    reply_tree: dict[str, Any] | None,
-    author_name: str,
-    case_sensitive: bool = False
+    reply_tree: dict[str, Any] | None, author_name: str, case_sensitive: bool = False
 ) -> list[dict[str, Any]]:
     """
     Find all posts by a specific author in the reply tree.
@@ -218,10 +216,7 @@ def find_author_posts_in_tree(
     return matches
 
 
-def find_direct_replies_to_post(
-    reply_tree: dict[str, Any],
-    target_post_id: str
-) -> list[dict[str, Any]]:
+def find_direct_replies_to_post(reply_tree: dict[str, Any], target_post_id: str) -> list[dict[str, Any]]:
     """
     Find all direct replies to a specific post.
 
@@ -236,6 +231,7 @@ def find_direct_replies_to_post(
     -------
     List of direct child nodes (not recursive - just immediate children)
     """
+
     def traverse(node: dict[str, Any]) -> list[dict[str, Any]] | None:
         if node["post_id"] == target_post_id:
             return node.get("children", [])

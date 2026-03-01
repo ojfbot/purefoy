@@ -61,10 +61,7 @@ class JsonLeafStore:
     def write_post(self, post: PostLeaf) -> Path:
         """Write a post leaf to disk."""
         filepath = self.posts_dir / f"{post.ids.post_id}.json"
-        filepath.write_text(
-            post.model_dump_json(indent=2, exclude_none=True),
-            encoding="utf-8"
-        )
+        filepath.write_text(post.model_dump_json(indent=2, exclude_none=True), encoding="utf-8")
         return filepath
 
     def read_post(self, post_id: str) -> PostLeaf | None:
@@ -85,14 +82,12 @@ class JsonLeafStore:
         else:
             # Fallback: use hash of URL
             import hashlib
+
             url_hash = hashlib.md5(topic.topic_url.encode()).hexdigest()[:12]
             filename = f"topic_{url_hash}.json"
 
         filepath = self.topics_dir / filename
-        filepath.write_text(
-            topic.model_dump_json(indent=2, exclude_none=True),
-            encoding="utf-8"
-        )
+        filepath.write_text(topic.model_dump_json(indent=2, exclude_none=True), encoding="utf-8")
         return filepath
 
     def read_topic(self, forum_slug: str, topic_slug: str) -> TopicLeaf | None:
@@ -115,10 +110,7 @@ class JsonLeafStore:
     def write_forum(self, forum: ForumLeaf) -> Path:
         """Write a forum leaf to disk."""
         filepath = self.forums_dir / f"{forum.forum_slug}.json"
-        filepath.write_text(
-            forum.model_dump_json(indent=2, exclude_none=True),
-            encoding="utf-8"
-        )
+        filepath.write_text(forum.model_dump_json(indent=2, exclude_none=True), encoding="utf-8")
         return filepath
 
     def read_forum(self, forum_slug: str) -> ForumLeaf | None:
@@ -132,11 +124,7 @@ class JsonLeafStore:
     def write_forums_index(self, forums: list[dict[str, Any]], content_hash: str) -> Path:
         """Write the main forums index."""
         filepath = self.site_dir / "forums_index.json"
-        payload = {
-            "scraped_at": self.now_iso(),
-            "content_hash": content_hash,
-            "forums": forums
-        }
+        payload = {"scraped_at": self.now_iso(), "content_hash": content_hash, "forums": forums}
         filepath.write_text(json.dumps(payload, indent=2), encoding="utf-8")
         return filepath
 

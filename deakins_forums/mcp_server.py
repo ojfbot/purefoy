@@ -21,41 +21,54 @@ MCP_TOOLS: list[dict[str, Any]] = [
                 "forum_slug": {
                     "type": "string",
                     "description": "Forum slug to scrape (e.g., 'forum', 'camera', 'team-deakins', 'post', 'composition', 'film-talk', 'set-talk', 'still-photography')",
-                    "enum": ["forum", "camera", "team-deakins", "post", "composition", "film-talk", "set-talk", "still-photography"]
+                    "enum": [
+                        "forum",
+                        "camera",
+                        "team-deakins",
+                        "post",
+                        "composition",
+                        "film-talk",
+                        "set-talk",
+                        "still-photography",
+                    ],
                 },
                 "max_topics": {
                     "type": "integer",
                     "description": "Maximum number of topics to scrape. Use higher numbers to increase coverage towards 100%.",
-                    "default": 1000
+                    "default": 1000,
                 },
-                "query_name": {
-                    "type": "string",
-                    "description": "Human-readable name of the research query"
-                },
+                "query_name": {"type": "string", "description": "Human-readable name of the research query"},
                 "querier_role": {
                     "type": "string",
-                    "description": "Role of the person/agent making the query (e.g., 'Director', 'DP', 'Studio Head', 'Producer')"
+                    "description": "Role of the person/agent making the query (e.g., 'Director', 'DP', 'Studio Head', 'Producer')",
                 },
                 "querier_department": {
                     "type": "string",
-                    "description": "Department (e.g., 'Camera', 'Lighting', 'Production', 'Executive')"
+                    "description": "Department (e.g., 'Camera', 'Lighting', 'Production', 'Executive')",
                 },
                 "query_context": {
                     "type": "string",
-                    "description": "Context of the query (e.g., 'Feature film development', 'TV series pre-production', 'Studio slate planning')"
+                    "description": "Context of the query (e.g., 'Feature film development', 'TV series pre-production', 'Studio slate planning')",
                 },
                 "query_intent": {
                     "type": "string",
-                    "description": "Research objective/question - what specific information is being sought"
+                    "description": "Research objective/question - what specific information is being sought",
                 },
                 "build_index": {
                     "type": "boolean",
                     "description": "Whether to rebuild the search index after scraping",
-                    "default": True
-                }
+                    "default": True,
+                },
             },
-            "required": ["forum_slug", "query_name", "querier_role", "querier_department", "query_context", "query_intent"]
-        }
+            "required": [
+                "forum_slug",
+                "query_name",
+                "querier_role",
+                "querier_department",
+                "query_context",
+                "query_intent",
+            ],
+        },
     },
     {
         "name": "get_coverage_report",
@@ -67,10 +80,10 @@ MCP_TOOLS: list[dict[str, Any]] = [
                     "type": "string",
                     "description": "Report format: 'full' for detailed report, 'quick' for one-line summary",
                     "enum": ["full", "quick"],
-                    "default": "full"
+                    "default": "full",
                 }
-            }
-        }
+            },
+        },
     },
     {
         "name": "get_provenance_report",
@@ -80,15 +93,12 @@ MCP_TOOLS: list[dict[str, Any]] = [
             "properties": {
                 "topic": {
                     "type": "string",
-                    "description": "Optional: Show provenance for specific topic (format: 'forum__topic-slug')"
+                    "description": "Optional: Show provenance for specific topic (format: 'forum__topic-slug')",
                 },
-                "query_id": {
-                    "type": "string",
-                    "description": "Optional: Show details for specific query ID"
-                }
-            }
-        }
-    }
+                "query_id": {"type": "string", "description": "Optional: Show details for specific query ID"},
+            },
+        },
+    },
 ]
 
 
@@ -138,7 +148,7 @@ class MCPServer:
             querier_department=args["querier_department"],
             query_context=args["query_context"],
             query_intent=args["query_intent"],
-            target_forums=[forum_slug]
+            target_forums=[forum_slug],
         )
 
         # Track existing topics before scraping
@@ -146,8 +156,7 @@ class MCPServer:
         topics_dir = settings.out_dir / "topics"
         if topics_dir.exists():
             topics_before = {
-                f.stem for f in topics_dir.iterdir()
-                if f.name.startswith(f"{forum_slug}__") and f.suffix == ".json"
+                f.stem for f in topics_dir.iterdir() if f.name.startswith(f"{forum_slug}__") and f.suffix == ".json"
             }
 
         # Execute scraping
@@ -155,13 +164,12 @@ class MCPServer:
             forum_url=forum_url,
             forum_slug=forum_slug,
             max_pages=args.get("max_pages", 20),
-            max_topics=args.get("max_topics", 1000)
+            max_topics=args.get("max_topics", 1000),
         )
 
         # Track topic access
         topics_after = {
-            f.stem for f in topics_dir.iterdir()
-            if f.name.startswith(f"{forum_slug}__") and f.suffix == ".json"
+            f.stem for f in topics_dir.iterdir() if f.name.startswith(f"{forum_slug}__") and f.suffix == ".json"
         }
 
         newly_scraped = topics_after - topics_before
@@ -172,10 +180,7 @@ class MCPServer:
                 topic_slug = topic_file.stem.replace(f"{forum_slug}__", "")
                 was_new = topic_file.stem in newly_scraped
                 query_tracker.log_topic_access(
-                    query_metadata=query_metadata,
-                    topic_slug=topic_slug,
-                    forum_slug=forum_slug,
-                    was_new_scrape=was_new
+                    query_metadata=query_metadata, topic_slug=topic_slug, forum_slug=forum_slug, was_new_scrape=was_new
                 )
 
         # Finalize query
@@ -195,7 +200,7 @@ class MCPServer:
             "topics_accessed": len(query_metadata.topics_accessed),
             "topics_newly_scraped": len(query_metadata.topics_newly_scraped),
             "topics_revisited": len(query_metadata.topics_revisited),
-            "posts_indexed": index_stats.get("posts_indexed", 0)
+            "posts_indexed": index_stats.get("posts_indexed", 0),
         }
 
     def _get_coverage(self, args: dict[str, Any]) -> dict[str, Any]:
@@ -214,7 +219,9 @@ class MCPServer:
         # Return structured data
         return {
             "timestamp": current.timestamp,
-            "overall_coverage_percent": round((current.topics_scraped / current.total_topics * 100) if current.total_topics > 0 else 0, 1),
+            "overall_coverage_percent": round(
+                (current.topics_scraped / current.total_topics * 100) if current.total_topics > 0 else 0, 1
+            ),
             "total_forums": current.total_forums,
             "topics_scraped": current.topics_scraped,
             "total_topics": current.total_topics,
@@ -225,11 +232,11 @@ class MCPServer:
                     "coverage_percent": round(forum.coverage_percent, 1),
                     "topics_scraped": forum.topics_scraped,
                     "total_topics": forum.total_topics_available,
-                    "posts": forum.posts_scraped
+                    "posts": forum.posts_scraped,
                 }
                 for slug, forum in current.forums.items()
             },
-            "delta": delta
+            "delta": delta,
         }
 
     def _get_provenance(self, args: dict[str, Any]) -> dict[str, Any]:
@@ -245,11 +252,7 @@ class MCPServer:
             forum_slug, topic_slug = args["topic"].split("__", 1) if "__" in args["topic"] else (args["topic"], None)
             if topic_slug:
                 accesses = query_tracker.get_topic_provenance(topic_slug, forum_slug)
-                return {
-                    "topic": args["topic"],
-                    "access_count": len(accesses),
-                    "accesses": accesses
-                }
+                return {"topic": args["topic"], "access_count": len(accesses), "accesses": accesses}
             else:
                 return {"error": "Invalid topic format. Use: forum__topic-slug"}
 
@@ -268,7 +271,7 @@ class MCPServer:
                 "total_queries": len(log["queries"]),
                 "unique_topics_accessed": len(log["topic_access_index"]),
                 "queries": log["queries"],
-                "topic_access_index": log["topic_access_index"]
+                "topic_access_index": log["topic_access_index"],
             }
 
 
@@ -282,11 +285,7 @@ def serve():
             request = json.loads(line)
 
             if request["method"] == "tools/list":
-                response = {
-                    "jsonrpc": "2.0",
-                    "id": request["id"],
-                    "result": {"tools": server.list_tools()}
-                }
+                response = {"jsonrpc": "2.0", "id": request["id"], "result": {"tools": server.list_tools()}}
 
             elif request["method"] == "tools/call":
                 tool_name = request["params"]["name"]
@@ -296,24 +295,20 @@ def serve():
                 response = {
                     "jsonrpc": "2.0",
                     "id": request["id"],
-                    "result": {"content": [{"type": "text", "text": json.dumps(result, indent=2)}]}
+                    "result": {"content": [{"type": "text", "text": json.dumps(result, indent=2)}]},
                 }
 
             else:
                 response = {
                     "jsonrpc": "2.0",
                     "id": request["id"],
-                    "error": {"code": -32601, "message": "Method not found"}
+                    "error": {"code": -32601, "message": "Method not found"},
                 }
 
             print(json.dumps(response), flush=True)
 
         except Exception as e:
-            response = {
-                "jsonrpc": "2.0",
-                "id": request.get("id"),
-                "error": {"code": -32603, "message": str(e)}
-            }
+            response = {"jsonrpc": "2.0", "id": request.get("id"), "error": {"code": -32603, "message": str(e)}}
             print(json.dumps(response), flush=True)
 
 

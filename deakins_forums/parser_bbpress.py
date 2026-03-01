@@ -23,7 +23,9 @@ TOPIC_URL_RE = re.compile(r"^/forums/topic/([^/]+)/?$")
 REPLY_URL_RE = re.compile(r"^/forums/reply/(\d+)/?$")
 
 POST_ID_RE = re.compile(r"#(?P<id>\d{3,})\b")
-PAGINATION_RE = re.compile(r"Viewing\s+\d+\s+(?:topics?|replies?)\s+-\s+(\d+)\s+through\s+(\d+)\s+\(of\s+(\d+)\s+total\)", re.IGNORECASE)
+PAGINATION_RE = re.compile(
+    r"Viewing\s+\d+\s+(?:topics?|replies?)\s+-\s+(\d+)\s+through\s+(\d+)\s+\(of\s+(\d+)\s+total\)", re.IGNORECASE
+)
 
 
 @dataclass(frozen=True)
@@ -61,6 +63,7 @@ class RawPost:
 @dataclass(frozen=True)
 class PaginationInfo:
     """Pagination metadata extracted from forum/topic pages."""
+
     current_start: int
     current_end: int
     total_items: int
@@ -99,12 +102,7 @@ def extract_pagination(soup: BeautifulSoup) -> PaginationInfo | None:
     end = int(m.group(2))
     total = int(m.group(3))
 
-    return PaginationInfo(
-        current_start=start,
-        current_end=end,
-        total_items=total,
-        has_next=end < total
-    )
+    return PaginationInfo(current_start=start, current_end=end, total_items=total, has_next=end < total)
 
 
 def find_next_page_url(base_url: str, soup: BeautifulSoup, current_url: str) -> str | None:
@@ -143,7 +141,9 @@ def find_next_page_url(base_url: str, soup: BeautifulSoup, current_url: str) -> 
     return None
 
 
-def parse_forum_page(base_url: str, forum_slug: str, html: str) -> tuple[list[ForumRef], list[TopicRef], PaginationInfo | None]:
+def parse_forum_page(
+    base_url: str, forum_slug: str, html: str
+) -> tuple[list[ForumRef], list[TopicRef], PaginationInfo | None]:
     """
     Parse a forum page.
 
@@ -236,9 +236,7 @@ def parse_topic_page(base_url: str, html: str) -> tuple[str | None, list[RawPost
             # Skip class check for header divs (they don't have useful classes)
             # but don't skip the whole node - they may have id="post-X"
             is_header = any(
-                cls in ["bbp-reply-header", "bbp-topic-header"]
-                for cls in node_classes
-                if isinstance(cls, str)
+                cls in ["bbp-reply-header", "bbp-topic-header"] for cls in node_classes if isinstance(cls, str)
             )
             if not is_header:
                 # Check for post-XXXXX class
@@ -267,9 +265,7 @@ def parse_topic_page(base_url: str, html: str) -> tuple[str | None, list[RawPost
             node_classes = node.get("class", [])
             if isinstance(node_classes, list):
                 is_header = any(
-                    cls in ["bbp-reply-header", "bbp-topic-header"]
-                    for cls in node_classes
-                    if isinstance(cls, str)
+                    cls in ["bbp-reply-header", "bbp-topic-header"] for cls in node_classes if isinstance(cls, str)
                 )
                 if is_header:
                     continue
@@ -323,9 +319,7 @@ def parse_topic_page(base_url: str, html: str) -> tuple[str | None, list[RawPost
     posts: list[RawPost] = []
     seen: set[str] = set()
 
-
     for post_id, nodes in post_to_nodes.items():
-
         if post_id in seen:
             continue
         seen.add(post_id)
@@ -338,10 +332,7 @@ def parse_topic_page(base_url: str, html: str) -> tuple[str | None, list[RawPost
         for node in nodes:
             node_classes = node.get("class", [])
             if isinstance(node_classes, list):
-                has_loop_item = any(
-                    isinstance(cls, str) and cls.startswith("loop-item")
-                    for cls in node_classes
-                )
+                has_loop_item = any(isinstance(cls, str) and cls.startswith("loop-item") for cls in node_classes)
                 if has_loop_item:
                     extraction_node = node
                     break
@@ -358,7 +349,9 @@ def parse_topic_page(base_url: str, html: str) -> tuple[str | None, list[RawPost
             continue
 
         # Extract text from extraction node (for #XXXXX verification if needed)
-        node_text_lines = [line.strip() for line in extraction_node.get_text("\n", strip=True).splitlines() if line.strip()]
+        node_text_lines = [
+            line.strip() for line in extraction_node.get_text("\n", strip=True).splitlines() if line.strip()
+        ]
 
         # Merge all classes from ALL candidate nodes to get parent info
         all_classes = []
@@ -368,7 +361,6 @@ def parse_topic_page(base_url: str, html: str) -> tuple[str | None, list[RawPost
                 all_classes.extend(node_classes)
             elif isinstance(node_classes, str):
                 all_classes.append(node_classes)
-
 
         # reply permalink if present
         reply_permalink = None
@@ -460,10 +452,10 @@ def parse_topic_page(base_url: str, html: str) -> tuple[str | None, list[RawPost
             # Be careful: author name might appear in content legitimately
             # Only remove if it's at the very beginning
             if content_text.startswith(author):
-                content_text = content_text[len(author):].strip()
+                content_text = content_text[len(author) :].strip()
         if content_text and role and role in content_text:
             if content_text.startswith(role):
-                content_text = content_text[len(role):].strip()
+                content_text = content_text[len(role) :].strip()
 
         posts.append(
             RawPost(

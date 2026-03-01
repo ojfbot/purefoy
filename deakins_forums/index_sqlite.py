@@ -105,19 +105,23 @@ class SqliteIndex:
             content_text = f"{title}\n{description}\n{content_text}".strip()
 
         # Insert into FTS table
-        self.conn.execute("""
+        self.conn.execute(
+            """
             INSERT OR REPLACE INTO posts_fts (post_id, author, forum_slug, topic_slug, content_text)
             VALUES (?, ?, ?, ?, ?)
-        """, (
-            post_id,
-            author.get("display_name"),
-            ids.get("forum_slug"),
-            ids.get("topic_slug"),
-            content_text,
-        ))
+        """,
+            (
+                post_id,
+                author.get("display_name"),
+                ids.get("forum_slug"),
+                ids.get("topic_slug"),
+                content_text,
+            ),
+        )
 
         # Insert into metadata table
-        self.conn.execute("""
+        self.conn.execute(
+            """
             INSERT OR REPLACE INTO posts_meta (
                 post_id, author, author_role, forum_slug, topic_slug,
                 timestamp_raw, timestamp_iso, reply_permalink, topic_url,
@@ -126,25 +130,27 @@ class SqliteIndex:
                 author_persona_tier, author_persona_score, curated_at
             )
             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        """, (
-            post_id,
-            author.get("display_name"),
-            author.get("role"),
-            ids.get("forum_slug"),
-            ids.get("topic_slug"),
-            timestamps.get("raw"),
-            timestamps.get("parsed_iso"),
-            ids.get("reply_permalink"),
-            provenance.get("source_url"),
-            provenance.get("scraped_at"),
-            integrity.get("content_hash"),
-            content_type,
-            1 if curation.get("is_housekeeping") else 0,
-            1 if curation.get("filtered_from_cinematography") else 0,
-            curation.get("author_persona_tier"),
-            curation.get("author_persona_score"),
-            curation.get("curated_at"),
-        ))
+        """,
+            (
+                post_id,
+                author.get("display_name"),
+                author.get("role"),
+                ids.get("forum_slug"),
+                ids.get("topic_slug"),
+                timestamps.get("raw"),
+                timestamps.get("parsed_iso"),
+                ids.get("reply_permalink"),
+                provenance.get("source_url"),
+                provenance.get("scraped_at"),
+                integrity.get("content_hash"),
+                content_type,
+                1 if curation.get("is_housekeeping") else 0,
+                1 if curation.get("filtered_from_cinematography") else 0,
+                curation.get("author_persona_tier"),
+                curation.get("author_persona_score"),
+                curation.get("curated_at"),
+            ),
+        )
 
         self.conn.commit()
 
@@ -156,7 +162,7 @@ class SqliteIndex:
         persona_tier: str | None = None,
         cinematography_only: bool = False,
         exclude_housekeeping: bool = False,
-        limit: int = 20
+        limit: int = 20,
     ) -> list[dict[str, Any]]:
         """
         Search posts with optional filters.
@@ -226,22 +232,24 @@ class SqliteIndex:
         results = []
 
         for row in cursor:
-            results.append({
-                "post_id": row["post_id"],
-                "author": row["author"],
-                "author_role": row["author_role"],
-                "forum_slug": row["forum_slug"],
-                "topic_slug": row["topic_slug"],
-                "timestamp_iso": row["timestamp_iso"],
-                "reply_permalink": row["reply_permalink"],
-                "topic_url": row["topic_url"],
-                "is_housekeeping": bool(row["is_housekeeping"]),
-                "filtered_from_cinematography": bool(row["filtered_from_cinematography"]),
-                "author_persona_tier": row["author_persona_tier"],
-                "author_persona_score": row["author_persona_score"],
-                "snippet": row["snippet"],
-                "rank": row["rank"]
-            })
+            results.append(
+                {
+                    "post_id": row["post_id"],
+                    "author": row["author"],
+                    "author_role": row["author_role"],
+                    "forum_slug": row["forum_slug"],
+                    "topic_slug": row["topic_slug"],
+                    "timestamp_iso": row["timestamp_iso"],
+                    "reply_permalink": row["reply_permalink"],
+                    "topic_url": row["topic_url"],
+                    "is_housekeeping": bool(row["is_housekeeping"]),
+                    "filtered_from_cinematography": bool(row["filtered_from_cinematography"]),
+                    "author_persona_tier": row["author_persona_tier"],
+                    "author_persona_score": row["author_persona_score"],
+                    "snippet": row["snippet"],
+                    "rank": row["rank"],
+                }
+            )
 
         return results
 
@@ -277,6 +285,7 @@ class SqliteIndex:
                 for post_file in posts_dir.glob("*.json"):
                     try:
                         import json
+
                         with open(post_file) as f:
                             post_data = json.load(f)
                         self.index_post(post_data)
@@ -304,13 +313,17 @@ class SqliteIndex:
         cursor = self.conn.execute("SELECT COUNT(*) as count FROM posts_meta")
         total_posts = cursor.fetchone()["count"]
 
-        cursor = self.conn.execute("SELECT COUNT(DISTINCT forum_slug) as count FROM posts_meta WHERE forum_slug IS NOT NULL")
+        cursor = self.conn.execute(
+            "SELECT COUNT(DISTINCT forum_slug) as count FROM posts_meta WHERE forum_slug IS NOT NULL"
+        )
         total_forums = cursor.fetchone()["count"]
 
         cursor = self.conn.execute("SELECT COUNT(DISTINCT author) as count FROM posts_meta WHERE author IS NOT NULL")
         total_authors = cursor.fetchone()["count"]
 
-        cursor = self.conn.execute("SELECT COUNT(DISTINCT topic_slug) as count FROM posts_meta WHERE topic_slug IS NOT NULL")
+        cursor = self.conn.execute(
+            "SELECT COUNT(DISTINCT topic_slug) as count FROM posts_meta WHERE topic_slug IS NOT NULL"
+        )
         total_topics = cursor.fetchone()["count"]
 
         # Curation statistics
@@ -337,7 +350,7 @@ class SqliteIndex:
             "total_authors": total_authors,
             "housekeeping_posts": housekeeping_posts,
             "cinematography_posts": cinematography_posts,
-            "persona_distribution": persona_distribution
+            "persona_distribution": persona_distribution,
         }
 
     def get_posts_by_persona(self, tier: str, limit: int = 100) -> list[dict[str, Any]]:
@@ -365,18 +378,20 @@ class SqliteIndex:
         results = []
 
         for row in cursor:
-            results.append({
-                "post_id": row["post_id"],
-                "author": row["author"],
-                "author_role": row["author_role"],
-                "forum_slug": row["forum_slug"],
-                "topic_slug": row["topic_slug"],
-                "timestamp_iso": row["timestamp_iso"],
-                "reply_permalink": row["reply_permalink"],
-                "topic_url": row["topic_url"],
-                "author_persona_tier": row["author_persona_tier"],
-                "author_persona_score": row["author_persona_score"]
-            })
+            results.append(
+                {
+                    "post_id": row["post_id"],
+                    "author": row["author"],
+                    "author_role": row["author_role"],
+                    "forum_slug": row["forum_slug"],
+                    "topic_slug": row["topic_slug"],
+                    "timestamp_iso": row["timestamp_iso"],
+                    "reply_permalink": row["reply_permalink"],
+                    "topic_url": row["topic_url"],
+                    "author_persona_tier": row["author_persona_tier"],
+                    "author_persona_score": row["author_persona_score"],
+                }
+            )
 
         return results
 
@@ -404,18 +419,20 @@ class SqliteIndex:
         results = []
 
         for row in cursor:
-            results.append({
-                "post_id": row["post_id"],
-                "author": row["author"],
-                "author_role": row["author_role"],
-                "forum_slug": row["forum_slug"],
-                "topic_slug": row["topic_slug"],
-                "timestamp_iso": row["timestamp_iso"],
-                "reply_permalink": row["reply_permalink"],
-                "topic_url": row["topic_url"],
-                "author_persona_tier": row["author_persona_tier"],
-                "author_persona_score": row["author_persona_score"]
-            })
+            results.append(
+                {
+                    "post_id": row["post_id"],
+                    "author": row["author"],
+                    "author_role": row["author_role"],
+                    "forum_slug": row["forum_slug"],
+                    "topic_slug": row["topic_slug"],
+                    "timestamp_iso": row["timestamp_iso"],
+                    "reply_permalink": row["reply_permalink"],
+                    "topic_url": row["topic_url"],
+                    "author_persona_tier": row["author_persona_tier"],
+                    "author_persona_score": row["author_persona_score"],
+                }
+            )
 
         return results
 

@@ -25,6 +25,7 @@ from urllib3.util.retry import Retry
 @dataclass
 class FetchResult:
     """Return object for fetches with provenance useful for downstream storage."""
+
     url: str
     status: int
     text: str | None
@@ -130,14 +131,7 @@ class HttpClient:
         last_mod = resp.headers.get("Last-Modified")
 
         if resp.status_code == 304:
-            return FetchResult(
-                url=url,
-                status=304,
-                text=None,
-                etag=etag,
-                last_modified=last_mod,
-                not_modified=True
-            )
+            return FetchResult(url=url, status=304, text=None, etag=etag, last_modified=last_mod, not_modified=True)
 
         resp.raise_for_status()
 
@@ -145,13 +139,7 @@ class HttpClient:
         self._state["urls"][url] = {"etag": etag, "last_modified": last_mod}
         self._save_state()
 
-        return FetchResult(
-            url=url,
-            status=resp.status_code,
-            text=resp.text,
-            etag=etag,
-            last_modified=last_mod
-        )
+        return FetchResult(url=url, status=resp.status_code, text=resp.text, etag=etag, last_modified=last_mod)
 
     def fetch_bytes(self, url: str) -> bytes | None:
         """

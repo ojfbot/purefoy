@@ -60,9 +60,7 @@ def cmd_scrape_all(args):
     print("=" * 70)
 
     stats = pipeline.scrape_all_forums(
-        forums_index_url=settings.forums_index_url,
-        max_forums=args.max_forums,
-        max_topics_per_forum=args.max_topics
+        forums_index_url=settings.forums_index_url, max_forums=args.max_forums, max_topics_per_forum=args.max_topics
     )
 
     print("\n" + "=" * 70)
@@ -89,7 +87,7 @@ def cmd_scrape_forum(args):
     query_metadata = None
     query_tracker = None
 
-    if hasattr(args, 'query_name') and args.query_name:
+    if hasattr(args, "query_name") and args.query_name:
         query_tracker = QueryTracker(settings.out_dir)
         query_metadata = query_tracker.start_query(
             query_name=args.query_name,
@@ -97,7 +95,7 @@ def cmd_scrape_forum(args):
             querier_department=args.querier_department or "Unknown",
             query_context=args.query_context or "General research",
             query_intent=args.query_intent or "Forum exploration",
-            target_forums=[args.forum_slug]
+            target_forums=[args.forum_slug],
         )
 
         print("=" * 70)
@@ -116,22 +114,17 @@ def cmd_scrape_forum(args):
     topics_dir = settings.out_dir / "topics"
     if topics_dir.exists():
         topics_before = {
-            f.stem for f in topics_dir.iterdir()
-            if f.name.startswith(f"{args.forum_slug}__") and f.suffix == ".json"
+            f.stem for f in topics_dir.iterdir() if f.name.startswith(f"{args.forum_slug}__") and f.suffix == ".json"
         }
 
     forum_leaf = pipeline.scrape_forum(
-        forum_url=forum_url,
-        forum_slug=args.forum_slug,
-        max_pages=args.max_pages,
-        max_topics=args.max_topics
+        forum_url=forum_url, forum_slug=args.forum_slug, max_pages=args.max_pages, max_topics=args.max_topics
     )
 
     # Track which topics were accessed and which are new
     if query_tracker and query_metadata:
         topics_after = {
-            f.stem for f in topics_dir.iterdir()
-            if f.name.startswith(f"{args.forum_slug}__") and f.suffix == ".json"
+            f.stem for f in topics_dir.iterdir() if f.name.startswith(f"{args.forum_slug}__") and f.suffix == ".json"
         }
 
         newly_scraped = topics_after - topics_before
@@ -145,7 +138,7 @@ def cmd_scrape_forum(args):
                     query_metadata=query_metadata,
                     topic_slug=topic_slug,
                     forum_slug=args.forum_slug,
-                    was_new_scrape=was_new
+                    was_new_scrape=was_new,
                 )
 
         # Finalize query
@@ -172,10 +165,7 @@ def cmd_scrape_topic(args):
     print("Deakins Forums - Scrape Topic")
     print("=" * 70)
 
-    topic_leaf = pipeline.scrape_topic(
-        topic_url=args.topic_url,
-        max_pages=args.max_pages
-    )
+    topic_leaf = pipeline.scrape_topic(topic_url=args.topic_url, max_pages=args.max_pages)
 
     print(f"\n✓ Complete: {len(topic_leaf.post_ids)} posts")
 
@@ -189,7 +179,7 @@ def cmd_build_index(args):
     """Build or rebuild the search index."""
     pipeline, store, index, settings = build_app()
 
-    use_curated = getattr(args, 'use_curated', False)
+    use_curated = getattr(args, "use_curated", False)
 
     print("=" * 70)
     print(f"Building Search Index{' (Curated Data)' if use_curated else ''}")
@@ -212,10 +202,10 @@ def cmd_build_index(args):
         print(f"  Cinematography posts: {index_stats.get('cinematography_posts', 0)}")
         print(f"  Housekeeping posts: {index_stats.get('housekeeping_posts', 0)}")
 
-        if index_stats.get('persona_distribution'):
+        if index_stats.get("persona_distribution"):
             print("\n  Persona Distribution:")
-            for tier in ['S', 'A', 'B', 'C', 'D']:
-                count = index_stats['persona_distribution'].get(tier, 0)
+            for tier in ["S", "A", "B", "C", "D"]:
+                count = index_stats["persona_distribution"].get(tier, 0)
                 if count > 0:
                     print(f"    {tier}-Tier: {count} posts")
 
@@ -230,11 +220,11 @@ def cmd_search(args):
         filters.append(f"forum={args.forum}")
     if args.author:
         filters.append(f"author={args.author}")
-    if getattr(args, 'persona', None):
+    if getattr(args, "persona", None):
         filters.append(f"persona={args.persona}")
-    if getattr(args, 'cinematography_only', False):
+    if getattr(args, "cinematography_only", False):
         filters.append("cinematography-only")
-    if getattr(args, 'exclude_housekeeping', False):
+    if getattr(args, "exclude_housekeeping", False):
         filters.append("no-housekeeping")
 
     print("=" * 70)
@@ -247,10 +237,10 @@ def cmd_search(args):
         query=args.query,
         forum_slug=args.forum,
         author=args.author,
-        persona_tier=getattr(args, 'persona', None),
-        cinematography_only=getattr(args, 'cinematography_only', False),
-        exclude_housekeeping=getattr(args, 'exclude_housekeeping', False),
-        limit=args.limit
+        persona_tier=getattr(args, "persona", None),
+        cinematography_only=getattr(args, "cinematography_only", False),
+        exclude_housekeeping=getattr(args, "exclude_housekeeping", False),
+        limit=args.limit,
     )
 
     if not results:
@@ -262,25 +252,24 @@ def cmd_search(args):
         print(f"    Author: {result['author']} ({result['author_role']})", end="")
 
         # Show persona tier if available
-        if result.get('author_persona_tier'):
-            tier_name = {
-                'S': 'Master', 'A': 'Professional', 'B': 'Student',
-                'C': 'Enthusiast', 'D': 'Visitor'
-            }.get(result['author_persona_tier'], '')
+        if result.get("author_persona_tier"):
+            tier_name = {"S": "Master", "A": "Professional", "B": "Student", "C": "Enthusiast", "D": "Visitor"}.get(
+                result["author_persona_tier"], ""
+            )
             print(f" [{result['author_persona_tier']}-{tier_name}]")
         else:
             print()
 
         print(f"    Forum: {result['forum_slug']} / Topic: {result['topic_slug']}")
-        if result['timestamp_iso']:
+        if result["timestamp_iso"]:
             print(f"    Date: {result['timestamp_iso']}")
         print(f"    URL: {result['reply_permalink'] or result['topic_url']}")
 
         # Show curation flags if present
         flags = []
-        if result.get('is_housekeeping'):
+        if result.get("is_housekeeping"):
             flags.append("housekeeping")
-        if not result.get('filtered_from_cinematography'):
+        if not result.get("filtered_from_cinematography"):
             flags.append("cinematography")
         if flags:
             print(f"    Tags: {', '.join(flags)}")
@@ -315,21 +304,21 @@ def cmd_stats(args):
         print(f"  Authors:        {index_stats['total_authors']}")
 
         # Curation statistics (if available)
-        if index_stats.get('persona_distribution'):
+        if index_stats.get("persona_distribution"):
             print("\nCuration Metadata:")
             print(f"  Cinematography posts: {index_stats.get('cinematography_posts', 0)}")
             print(f"  Housekeeping posts:   {index_stats.get('housekeeping_posts', 0)}")
 
             print("\n  Persona Distribution:")
             tier_names = {
-                'S': 'Master Cinematographers',
-                'A': 'Working Professionals',
-                'B': 'Serious Students & Emerging DPs',
-                'C': 'Enthusiasts & Hobbyists',
-                'D': 'One-Time Visitors'
+                "S": "Master Cinematographers",
+                "A": "Working Professionals",
+                "B": "Serious Students & Emerging DPs",
+                "C": "Enthusiasts & Hobbyists",
+                "D": "One-Time Visitors",
             }
-            for tier in ['S', 'A', 'B', 'C', 'D']:
-                count = index_stats['persona_distribution'].get(tier, 0)
+            for tier in ["S", "A", "B", "C", "D"]:
+                count = index_stats["persona_distribution"].get(tier, 0)
                 if count > 0:
                     print(f"    {tier}-Tier ({tier_names[tier][:25]:25s}): {count:4d} posts")
     except Exception:
@@ -345,10 +334,11 @@ def cmd_stats(args):
         metadata_file = curated_dir / "metadata.json"
         if metadata_file.exists():
             import json
+
             with open(metadata_file) as f:
                 metadata = json.load(f)
 
-            stats = metadata.get('statistics', {})
+            stats = metadata.get("statistics", {})
             print(f"  Generated: {metadata.get('generated_at', 'Unknown')[:10]}")
             print(f"  Cinematography posts: {stats.get('cinematography_posts', 0)}")
             print(f"  Housekeeping filtered: {stats.get('housekeeping_filtered', 0)}")
@@ -391,6 +381,7 @@ def cmd_export(args):
 
     print("\n✓ Export complete!")
     import json
+
     print(json.dumps(result, indent=2))
 
 
@@ -450,6 +441,7 @@ def cmd_provenance(args):
         query_data = query_tracker.get_query_summary(args.query_id)
         if query_data:
             import json
+
             print(json.dumps(query_data, indent=2))
         else:
             print(f"Query ID not found: {args.query_id}")
@@ -487,8 +479,8 @@ def cmd_validate(args):
 
     # Summary
     print("\n" + "=" * 70)
-    total_errors = topic_results['errors'] + post_results['errors']
-    total_warnings = topic_results['warnings'] + post_results['warnings']
+    total_errors = topic_results["errors"] + post_results["errors"]
+    total_warnings = topic_results["warnings"] + post_results["warnings"]
 
     if total_errors == 0 and total_warnings == 0:
         print("✓ All validation checks passed!")
@@ -506,6 +498,7 @@ def cmd_validate(args):
 def cmd_auth_setup(args):
     """Run Playwright to extract and save member session cookies."""
     from .auth_playwright import save_session_cookies
+
     print("=" * 70)
     print("Deakins Forums - Auth Setup")
     print("=" * 70)
@@ -557,9 +550,7 @@ def cmd_scrape_articles(args):
 
 def main():
     """Main CLI entry point."""
-    parser = argparse.ArgumentParser(
-        description="Deakins Forums scraper and knowledge base builder"
-    )
+    parser = argparse.ArgumentParser(description="Deakins Forums scraper and knowledge base builder")
     subparsers = parser.add_subparsers(dest="command", help="Command to run")
 
     # scrape-all command
@@ -589,15 +580,25 @@ def main():
 
     # build-index command
     p_build_index = subparsers.add_parser("build-index", help="Build search index")
-    p_build_index.add_argument("--use-curated", action="store_true", help="Index from curated persona data instead of original posts")
+    p_build_index.add_argument(
+        "--use-curated", action="store_true", help="Index from curated persona data instead of original posts"
+    )
 
     # search command
     p_search = subparsers.add_parser("search", help="Search indexed posts")
     p_search.add_argument("query", help="Search query")
     p_search.add_argument("--forum", help="Filter by forum slug")
     p_search.add_argument("--author", help="Filter by author name")
-    p_search.add_argument("--persona", choices=['S', 'A', 'B', 'C', 'D'], help="Filter by persona tier (S=Master, A=Professional, B=Student, C=Enthusiast, D=Visitor)")
-    p_search.add_argument("--cinematography-only", action="store_true", help="Only include pure cinematography posts (exclude housekeeping)")
+    p_search.add_argument(
+        "--persona",
+        choices=["S", "A", "B", "C", "D"],
+        help="Filter by persona tier (S=Master, A=Professional, B=Student, C=Enthusiast, D=Visitor)",
+    )
+    p_search.add_argument(
+        "--cinematography-only",
+        action="store_true",
+        help="Only include pure cinematography posts (exclude housekeeping)",
+    )
     p_search.add_argument("--exclude-housekeeping", action="store_true", help="Exclude housekeeping posts")
     p_search.add_argument("--limit", type=int, default=20, help="Max results")
 
@@ -606,10 +607,11 @@ def main():
 
     # export command
     p_export = subparsers.add_parser("export", help="Export text data")
-    p_export.add_argument("format", choices=[
-        "all-text", "csv", "by-author", "by-topic",
-        "quotes", "links", "roger-only", "blocks", "stats"
-    ], help="Export format")
+    p_export.add_argument(
+        "format",
+        choices=["all-text", "csv", "by-author", "by-topic", "quotes", "links", "roger-only", "blocks", "stats"],
+        help="Export format",
+    )
     p_export.add_argument("--output", "-o", required=True, help="Output file or directory")
 
     # coverage command
@@ -626,11 +628,17 @@ def main():
     p_validate.add_argument("--verbose", "-v", action="store_true", help="Print all validation errors")
 
     # auth-setup command
-    subparsers.add_parser("auth-setup", help="Save browser session cookies for member-only content (requires playwright)")
+    subparsers.add_parser(
+        "auth-setup", help="Save browser session cookies for member-only content (requires playwright)"
+    )
 
     # scrape-articles command
-    p_scrape_articles = subparsers.add_parser("scrape-articles", help="Scrape Looking at Lighting articles (requires auth-setup first)")
-    p_scrape_articles.add_argument("--build-index", action="store_true", help="Rebuild unified search index after scraping")
+    p_scrape_articles = subparsers.add_parser(
+        "scrape-articles", help="Scrape Looking at Lighting articles (requires auth-setup first)"
+    )
+    p_scrape_articles.add_argument(
+        "--build-index", action="store_true", help="Rebuild unified search index after scraping"
+    )
 
     args = parser.parse_args()
 
@@ -675,6 +683,7 @@ def main():
     except Exception as e:
         print(f"\n✗ Error: {e}", file=sys.stderr)
         import traceback
+
         traceback.print_exc()
         return 1
 

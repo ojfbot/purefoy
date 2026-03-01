@@ -19,9 +19,7 @@ from .models import ContentBlock, Link, Media, Quote
 
 
 def extract_links_media_quotes_blocks(
-    base_url: str,
-    content_text: str,
-    content_html: str | None
+    base_url: str, content_text: str, content_html: str | None
 ) -> tuple[list[ContentBlock], list[Quote], list[Link], list[Media]]:
     """
     Extract structured content from post text/HTML.
@@ -117,7 +115,7 @@ def extract_links_media_quotes_blocks(
                 wrote_match = re.search(r"([^\n]+)\s+wrote:", para)
                 if wrote_match:
                     attribution = wrote_match.group(1).strip()
-                    quote_text = para[wrote_match.end():].strip()
+                    quote_text = para[wrote_match.end() :].strip()
 
                 quotes.append(Quote(text=quote_text, attributed_to=attribution))
                 blocks.append(ContentBlock(type="quote", text=quote_text))
@@ -127,7 +125,7 @@ def extract_links_media_quotes_blocks(
     # Extract markdown-style links from text if no HTML
     if not links and content_text:
         # Find [text](url) patterns
-        markdown_links = re.findall(r'\[([^\]]+)\]\(([^\)]+)\)', content_text)
+        markdown_links = re.findall(r"\[([^\]]+)\]\(([^\)]+)\)", content_text)
         for text, href in markdown_links:
             full_href = urljoin(base_url, href)
             parsed = urlparse(full_href)
