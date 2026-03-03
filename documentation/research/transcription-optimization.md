@@ -1,7 +1,7 @@
 # Transcription Pipeline Optimization Research
 
 **Status:** Open research — not yet implemented
-**Related:** [ADR-004](../adr/ADR-004-transcription-pipeline.md), [Transcription Guide](../guides/transcription-pipeline.md)
+**Related:** [ADR-005](../../decisions/adr/ADR-005-transcription-optimization.md) (decision + cost estimates), [ADR-004](../../decisions/adr/ADR-004-transcription-pipeline.md), [Transcription Guide](../guides/transcription-pipeline.md)
 **Branch:** `research/transcription-optimization`
 
 ---
