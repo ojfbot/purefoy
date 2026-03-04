@@ -5,6 +5,7 @@
 **Deciders:** Jim Green
 **Supersedes:** ADR-004 §§2–3 (diarization and chapter detection)
 **Research doc:** [`documentation/research/transcription-optimization.md`](../../documentation/research/transcription-optimization.md)
+**Audit:** [`documentation/research/transcription-audit-2026-03-03.md`](../../documentation/research/transcription-audit-2026-03-03.md)
 
 ---
 
@@ -181,19 +182,48 @@ embedding cosine similarity. Keep TF-IDF as fallback.
 
 ### Phase B3 — Speaker diarization + name resolution
 
-**Dependencies:** `pyannote.audio>=3.3`, `resemblyzer>=0.1.4`, HuggingFace token
+**Dependencies:** `pyannote.audio>=3.3`, `speechbrain>=1.0.0` (ECAPA-TDNN embeddings), HuggingFace token
+
+> **Zero-label constraint:** No manual audio clipping or hand-labeled training data.
+> Speaker identity is derived entirely from automated cross-episode embedding clustering
+> and structural heuristics. See audit finding §2.3 for context.
 
 **New file:** `scripts/tools/identify_speakers.py`
 
-- Input: audio file + diarization output + episode metadata
-- Output: updated `transcript.json` with `speaker` field per segment
-- Builds `library/speaker_profiles/` (Roger + James reference embeddings)
-- Run on existing 5 episodes first for validation
+**Algorithm (fully automated, no manual labels):**
+
+1. Run `pyannote/speaker-diarization-3.1` on each episode → per-episode `SPEAKER_XX` clusters.
+2. For each per-episode cluster, extract an average d-vector embedding (ECAPA-TDNN via speechbrain).
+3. Collect all per-episode per-cluster embeddings across all processed episodes.
+4. Run agglomerative clustering (target k=3) across the full embedding set.
+5. Two clusters that appear in nearly every episode → Roger Deakins + James Deakins (hosts).
+6. One cluster that appears in exactly one episode per guest → guest.
+7. Distinguish Roger from James: the speaker dominant in the **first 90 s** of each episode is James (consistent intro anchor — verified in audit).
+8. Name the guest from `metadata.json → itunes.summary`.
+
+**Storage schema (`library/speaker_profiles/`):**
+
+```
+library/speaker_profiles/
+  index.json                       # {episode_id: {SPEAKER_XX: canonical_name}}
+  embeddings/
+    S00E001_SPEAKER_00.npy         # per-episode per-cluster d-vector
+    S00E001_SPEAKER_01.npy
+    ...
+  global_clusters.json             # {cluster_id: {name, episodes, centroid_path}}
+  roger_deakins_centroid.npy       # global Roger centroid (from clustering)
+  james_deakins_centroid.npy       # global James centroid
+```
+
+- Input: audio files + diarization output + episode metadata (all existing)
+- Output: updated `transcript.json` with `speaker` field per segment; speaker registry files above
+- Run on existing 5 episodes first for validation; then batch over remaining episodes
 
 **Acceptance criteria:**
-- [ ] Roger correctly identified in ≥4/5 existing episodes (manual spot-check)
+- [ ] Roger correctly identified in ≥4/5 existing episodes (manual spot-check of output — no labeling required to *run*)
 - [ ] James correctly identified in all 5 (intro anchor should be ~100%)
 - [ ] Guest name matches `metadata.json` in all 5
+- [ ] No manual audio clipping required at any step
 
 ---
 
