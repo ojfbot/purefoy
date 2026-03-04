@@ -56,20 +56,27 @@ single most reliable anchor for speaker fingerprinting:
 
 Roger is present in every episode. Approaches:
 
-**Option A — Cross-episode speaker embedding clustering**
-Run pyannote's `wespeaker` or `speechbrain/spkrec-ecapa-voxceleb` on the 5
-already-transcribed episodes. Cluster embeddings across episodes; the cluster
-that appears in all 5 and is distinct from the episode-specific guest cluster
-is Roger (and James).
+**Cross-episode speaker embedding clustering (adopted approach)**
 
-**Option B — Reference audio extraction**
-Manually clip 30–60 s of clean Roger speech from a known episode (e.g.
-`S00E001__beginnings`). Use as a fixed embedding reference for cosine-similarity
-matching against diarized speaker clusters in subsequent episodes. One-time
-human effort, then fully automated.
+Run pyannote diarization on all episodes → per-episode `SPEAKER_XX` clusters.
+Extract per-cluster average d-vector embeddings (ECAPA-TDNN via speechbrain).
+Cluster across all episodes (agglomerative, k=3 target):
 
-**Option B is recommended for first implementation** — lower complexity, no
-cross-episode state management, works on a single episode in isolation.
+- Two clusters appearing in nearly every episode = Roger + James (hosts)
+- One cluster appearing in exactly one episode = guest
+- Distinguish Roger from James: speaker dominant in the first 90 s = James (intro anchor)
+- Guest name from `metadata.json → itunes.summary`
+
+This is fully zero-label — no manual audio clipping or review required at any step.
+
+**Option B — Reference audio extraction (rejected)**
+
+Manually clip 30–60 s of clean Roger speech from a known episode. Use as a
+fixed embedding reference. One-time human effort, then automated.
+
+**Rejected:** violates the zero-label constraint ("no hand-labeled training
+data"). The cross-episode clustering approach achieves the same result without
+any manual labeling. See audit §2.3 and ADR-005 Phase B3.
 
 ### 1.5 Guest identification
 
@@ -80,36 +87,35 @@ remaining speaker(s) are the guest by elimination. Multi-guest episodes
 
 ### 1.6 Implementation sketch
 
+Two-phase design:
+
+**Phase 1 — per-episode diarization + embedding extraction** (run per episode):
+
 ```python
-# In transcribe_episodes.py, after diarization produces {SPEAKER_00, SPEAKER_01, ...}
-
-def resolve_speaker_names(
-    diarized_segments: list[Segment],
-    episode_metadata: dict,
-    roger_embedding: np.ndarray,          # pre-computed reference
+def extract_episode_embeddings(
     audio_path: Path,
-) -> dict[str, str]:
-    """Return {diarization_label: real_name} mapping."""
+    diarization_output: Annotation,
+) -> dict[str, np.ndarray]:
+    """Return {SPEAKER_XX: mean_d_vector} for one episode."""
+    # Uses speechbrain ECAPA-TDNN to extract per-cluster average embeddings
+    ...
+```
 
-    # 1. Find James: dominant speaker in first 90 s
-    early = [s for s in diarized_segments if s.start < 90]
-    james_label = Counter(s.speaker for s in early).most_common(1)[0][0]
+**Phase 2 — cross-episode clustering + name resolution** (run once after all episodes diarized):
 
-    # 2. Find Roger: closest embedding to reference
-    embeddings = compute_speaker_embeddings(diarized_segments, audio_path)
-    roger_label = min(
-        (lbl for lbl in embeddings if lbl != james_label),
-        key=lambda lbl: cosine_distance(embeddings[lbl], roger_embedding),
-    )
+```python
+def resolve_all_speakers(
+    per_episode_embeddings: dict[str, dict[str, np.ndarray]],  # {ep_id: {SPEAKER_XX: vec}}
+    episode_metadata: dict[str, dict],                          # {ep_id: metadata}
+) -> dict[str, dict[str, str]]:
+    """Return {ep_id: {SPEAKER_XX: canonical_name}} for all episodes."""
 
-    # 3. Remaining = guest(s)
-    guest_name = extract_guest_name(episode_metadata)
-    mapping = {james_label: "James Deakins", roger_label: "Roger Deakins"}
-    for lbl in embeddings:
-        if lbl not in mapping:
-            mapping[lbl] = guest_name
-
-    return mapping
+    # 1. Stack all embeddings for global clustering
+    # 2. Agglomerative clustering (k=3) → two recurring = hosts, one-off = guest
+    # 3. Identify James: dominant speaker in first 90s of each episode
+    # 4. Assign Roger to the other recurring cluster
+    # 5. Assign guest name from metadata.json → itunes.summary
+    ...
 ```
 
 ### 1.7 Dependencies required
@@ -261,10 +267,10 @@ This depends on speaker identification being implemented first (§1).
 
 ---
 
-## 3. Roger Reference Corpus — Next Steps
+## 3. Cross-Episode Clustering Bootstrap — Next Steps
 
-The 5 already-transcribed episodes are enough to start building a Roger voice
-reference:
+The 5 already-transcribed episodes are sufficient to validate the clustering approach
+before running the full 344-episode diarization batch.
 
 | Episode | Duration | Status |
 |---|---|---|
@@ -274,17 +280,18 @@ reference:
 | S00E002 working-together | ~47 min | ✓ transcript on disk |
 | S00E003 location-scouting | ~38 min | ✓ transcript on disk |
 
-Proposed workflow:
-1. Run diarization (without name resolution) on all 5 episodes.
-2. Manually review 2 min of output from each to identify which diarization
-   label corresponds to Roger.
-3. Extract 30 s clean clips of Roger speech from each → average embeddings →
-   save as `library/speaker_profiles/roger_deakins.npy`.
-4. Repeat for James using the intro segments (no manual review needed).
-5. This profile then drives automated name resolution for all remaining 339
-   episodes.
+**Zero-label validation workflow (no manual audio review needed):**
 
-Estimated effort: 2–3 hours (mostly automated, 30 min human review).
+1. Run `pyannote/speaker-diarization-3.1` on all 5 episodes → per-episode `SPEAKER_XX` clusters.
+2. Extract per-cluster ECAPA-TDNN d-vectors (average over each cluster's segments).
+3. Run agglomerative clustering (k=3) across the 5 episodes' embeddings.
+4. Assign James to the cluster dominant in each episode's first 90 s.
+5. Assign Roger to the other recurring cluster.
+6. Verify: spot-check 2–3 segment texts per episode to confirm assignment. This is *verification*, not labeling — no audio editing required.
+7. Save centroids to `library/speaker_profiles/` for use in the full batch.
+
+Estimated compute: ~4 min GPU × 5 episodes = ~20 min diarization. Clustering: seconds.
+No manual audio clipping or review loop required.
 
 ---
 
