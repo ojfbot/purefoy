@@ -174,6 +174,92 @@ class RemoteWorker:
         result = subprocess.run(full, capture_output=True, text=True, timeout=timeout)
         return result.returncode, result.stdout, result.stderr
 
+    def _launch_detached(self, remote_cmd: str, log_path: str) -> str:
+        """
+        Launch remote_cmd detached via nohup; return the remote PID.
+
+        The process survives SSH disconnect. stdout+stderr are written to
+        log_path on the remote host for later inspection.
+        """
+        self._ssh(f"mkdir -p $(dirname {shlex.quote(log_path)})", timeout=15)
+        # Use 'sh -c' so env-var prefixes (HF_TOKEN=...) are honoured by the shell.
+        launch = (
+            f"nohup sh -c {shlex.quote(remote_cmd)} "
+            f">{shlex.quote(log_path)} 2>&1 & echo $!"
+        )
+        rc, out, err = self._ssh(launch, timeout=30)
+        pid = out.strip()
+        if rc != 0 or not pid.isdigit():
+            raise RuntimeError(
+                f"Failed to launch detached job on {self.host}: {err[:300] or out!r}"
+            )
+        return pid
+
+    def _poll_until_done(
+        self,
+        done_marker: str,
+        pid: str,
+        ep_name: str,
+        log_path: str,
+        timeout: int = 7200,
+        poll_interval: int = 60,
+    ) -> None:
+        """
+        Block until done_marker file exists on the remote host.
+
+        Polls every poll_interval seconds via short SSH commands.  Handles
+        transient SSH failures (network blips, brief disconnects) with
+        exponential back-off up to 10 minutes.  On reconnect after a gap
+        it re-checks the done_marker before re-checking the PID, so a job
+        that completed while we were disconnected is recognised immediately.
+
+        Raises RuntimeError if the remote process exits without writing the
+        marker, or TimeoutError if timeout is exceeded.
+        """
+        deadline = time.monotonic() + timeout
+        backoff = 30
+
+        while time.monotonic() < deadline:
+            time.sleep(poll_interval)
+            try:
+                # Primary check: completion marker written by transcribe_episodes.py
+                rc, _, _ = self._ssh(f"test -f {shlex.quote(done_marker)}", timeout=15)
+                if rc == 0:
+                    return  # ✓ done
+
+                # Secondary check: is the process still alive?
+                rc2, _, _ = self._ssh(f"kill -0 {pid} 2>/dev/null", timeout=15)
+                if rc2 != 0:
+                    # Process exited without writing the done marker — transcription failed.
+                    # Read last 40 lines of log for diagnosis.
+                    _, tail, _ = self._ssh(
+                        f"tail -40 {shlex.quote(log_path)} 2>/dev/null", timeout=15
+                    )
+                    raise RuntimeError(
+                        f"Remote job PID {pid} exited without writing "
+                        f"completion marker.\nLast log lines:\n{tail}"
+                    )
+
+                backoff = 30  # reset after a successful check
+                logger.debug(
+                    "[%s] Job PID %s still running (%s)...",
+                    self.host, pid, ep_name,
+                )
+
+            except subprocess.TimeoutExpired:
+                logger.warning(
+                    "[%s] SSH check timed out for %s — retrying in %ds...",
+                    self.host, ep_name, backoff,
+                )
+                time.sleep(backoff)
+                backoff = min(backoff * 2, 600)  # cap at 10 min
+
+        raise TimeoutError(
+            f"Episode {ep_name} did not complete within {timeout // 60} min. "
+            f"Remote log: ssh -i {self.key_path} {self.user}@{self.host} "
+            f"tail -100 {log_path}"
+        )
+
     def _rsync_up(self, local: Path, remote_path: str, timeout: int = 600) -> None:
         """Upload local path → remote."""
         ssh_cmd = "ssh " + " ".join(shlex.quote(o) for o in self._ssh_opts)
@@ -365,16 +451,47 @@ class RemoteWorker:
 
         Flow:
           1. rsync audio.mp3 + metadata.json  →  /tmp/td_transcribe/episodes/EPISODE/
-          2. ssh: run transcribe_episodes.py --device cuda --compute-type float16
-          3. rsync transcript/ output  →  local downloads/EPISODE/transcript/
-          4. ssh: rm -rf /tmp/td_transcribe/episodes/EPISODE/  (always, even on error)
+          2. Launch transcribe_episodes.py detached via nohup (survives SSH disconnect)
+          3. Poll for completion via short SSH heartbeats; reconnects transparently
+          4. rsync transcript/ output  →  local downloads/EPISODE/transcript/
+          5. rm -rf remote episode dir  (only after successful rsync)
+
+        On disconnect: the remote job continues running.  On reconnect (--hosts
+        <same-ip> --skip-setup), discover_episodes() skips already-completed
+        episodes and process_episode() checks for an existing done marker before
+        launching a new job, so no work is duplicated.
         """
         ep_name = episode_dir.name
         remote_ep = f"{self.remote_base}/episodes/{ep_name}"
+        remote_log = f"{self.remote_base}/logs/{ep_name}.log"
+        done_marker = (
+            f"{remote_ep}/transcript/runs/{self.run_id}/extraction_report.json"
+            if self.run_id
+            else f"{remote_ep}/transcript/extraction_report.json"
+        )
 
         try:
+            # ── 0. Check if already done on remote (reconnect scenario) ───
+            rc, _, _ = self._ssh(f"test -f {shlex.quote(done_marker)}", timeout=15)
+            if rc == 0:
+                logger.info(
+                    "[%s] Found existing remote results for %s — skipping transcription",
+                    self.host, ep_name,
+                )
+                # Jump straight to rsync
+                remote_transcript = f"{remote_ep}/transcript"
+                local_transcript = local_downloads / ep_name / "transcript"
+                logger.info("[%s] ↓ Fetching transcript output for %s...", self.host, ep_name)
+                self._rsync_down(remote_transcript, local_transcript.parent, timeout=120)
+                self._finish_local(local_downloads, ep_name, model)
+                try:
+                    self._ssh(f"rm -rf {shlex.quote(remote_ep)}", timeout=30)
+                except Exception:
+                    pass
+                return True, None
+
             # ── 1. Prepare remote dir ──────────────────────────────────────
-            rc, _, err = self._ssh(f"mkdir -p {remote_ep}", timeout=15)
+            rc, _, err = self._ssh(f"mkdir -p {shlex.quote(remote_ep)}", timeout=15)
             if rc != 0:
                 return False, f"Failed to create remote dir: {err[:200]}"
 
@@ -392,11 +509,13 @@ class RemoteWorker:
             if metadata_path.exists():
                 self._rsync_up(metadata_path, f"{remote_ep}/", timeout=30)
 
-            # ── 3. Run transcription ───────────────────────────────────────
+            # ── 3. Build transcription command ────────────────────────────
             remote_downloads = f"{self.remote_base}/episodes"
             remote_library = f"{self.remote_base}/library"
             remote_script = f"{self.remote_base}/scripts/transcribe_episodes.py"
 
+            # HF_TOKEN is an env-var prefix rather than a --flag so it does not
+            # appear in /proc/{pid}/cmdline on the remote host.
             env_prefix = f"HF_TOKEN={self.hf_token} " if self.hf_token else ""
             cmd_parts = [
                 f"PYTHONPATH={self.remote_base}/scripts",
@@ -420,26 +539,30 @@ class RemoteWorker:
                 cmd_parts.append("--force")
 
             remote_cmd = env_prefix + " ".join(cmd_parts)
-            logger.info("[%s] ⚡ Transcribing %s on %s...", self.host, ep_name, self.device.upper())
-            t0 = time.monotonic()
 
+            # ── 4. Launch detached + poll ──────────────────────────────────
             # GPU transcription: ~11 min; + GPU diarization: ~5 min; total ~16 min typical.
             # CPU transcription: ~30 min; + CPU diarization: ~30 min; total ~60 min.
-            # Budget 2 hrs for GPU+diarize, 4 hrs for CPU, to handle longer episodes.
             if self.device == "cuda":
-                ssh_timeout = 7200   # 2 hrs — covers GPU transcription + GPU diarization
+                job_timeout = 7200    # 2 hrs
             else:
-                ssh_timeout = 14400  # 4 hrs — CPU transcription + CPU diarization
-            rc, stdout, stderr = self._ssh(remote_cmd, timeout=ssh_timeout)
+                job_timeout = 14400   # 4 hrs
+
+            logger.info("[%s] ⚡ Transcribing %s on %s (detached)...", self.host, ep_name, self.device.upper())
+            t0 = time.monotonic()
+
+            pid = self._launch_detached(remote_cmd, remote_log)
+            logger.info(
+                "[%s] Job PID %s | log: ssh -i %s %s@%s tail -f %s",
+                self.host, pid, self.key_path, self.user, self.host, remote_log,
+            )
+
+            self._poll_until_done(done_marker, pid, ep_name, remote_log, timeout=job_timeout)
 
             elapsed = time.monotonic() - t0
-            if rc != 0:
-                return False, f"Transcription failed (rc={rc}): {stderr[-500:]}"
             logger.info("[%s] ✓ Transcription done in %.0f s", self.host, elapsed)
 
-            # ── 4. Retrieve output ─────────────────────────────────────────
-            # rsync the entire transcript/ tree (includes runs/{run_id}/ subdirectory).
-            # Using local_transcript.parent so rsync creates transcript/ inside the ep dir.
+            # ── 5. Retrieve output ─────────────────────────────────────────
             remote_transcript = f"{remote_ep}/transcript"
             local_transcript = local_downloads / ep_name / "transcript"
             local_transcript.mkdir(parents=True, exist_ok=True)
@@ -447,31 +570,49 @@ class RemoteWorker:
             logger.info("[%s] ↓ Fetching transcript output for %s...", self.host, ep_name)
             self._rsync_down(remote_transcript, local_transcript.parent, timeout=120)
 
-            # Update local run_manifest.json
-            if self.run_id:
-                _update_run_manifest(
-                    local_downloads / ep_name,
-                    self.run_id,
-                    {
-                        "whisper_model": model,
-                        "diarization": self.diarize,
-                        "speaker_embeddings": self.embed_speakers and self.diarize,
-                        "pipeline_version": PIPELINE_VERSION,
-                    },
+            self._finish_local(local_downloads, ep_name, model)
+
+            # ── 6. Cleanup remote dir (only after successful rsync) ────────
+            try:
+                self._ssh(f"rm -rf {shlex.quote(remote_ep)}", timeout=30)
+                logger.debug("[%s] Remote %s cleaned up", self.host, ep_name)
+            except Exception as cleanup_err:
+                logger.warning(
+                    "[%s] Cleanup warning for %s: %s — remote dir left on instance",
+                    self.host, ep_name, cleanup_err,
                 )
 
             return True, None
 
+        except (TimeoutError, RuntimeError) as e:
+            # Job monitoring failed or remote job died.  DO NOT clean up the
+            # remote dir — partial results may be present and recoverable via
+            # --hosts <same-ip> --skip-setup on reconnect.
+            logger.warning(
+                "[%s] Episode %s failed: %s", self.host, ep_name, e
+            )
+            logger.warning(
+                "[%s] Remote data preserved at %s — rerun with --hosts %s --skip-setup to recover",
+                self.host, remote_ep, self.host,
+            )
+            return False, str(e)
+
         except Exception as e:
             return False, f"{type(e).__name__}: {e}"
 
-        finally:
-            # ── 5. Cleanup remote dir (always, no permanent storage) ───────
-            try:
-                self._ssh(f"rm -rf {remote_ep}", timeout=30)
-                logger.debug("[%s] Remote %s cleaned up", self.host, ep_name)
-            except Exception as cleanup_err:
-                logger.warning("[%s] Cleanup warning for %s: %s", self.host, ep_name, cleanup_err)
+    def _finish_local(self, local_downloads: Path, ep_name: str, model: str) -> None:
+        """Update run_manifest.json after a successful rsync."""
+        if self.run_id:
+            _update_run_manifest(
+                local_downloads / ep_name,
+                self.run_id,
+                {
+                    "whisper_model": model,
+                    "diarization": self.diarize,
+                    "speaker_embeddings": self.embed_speakers and self.diarize,
+                    "pipeline_version": PIPELINE_VERSION,
+                },
+            )
 
 
 # ---------------------------------------------------------------------------
