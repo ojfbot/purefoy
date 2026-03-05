@@ -28,7 +28,19 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
-          plugin_marketplaces: 'https://github.com/anthropics/claude-code.git'
-          plugins: 'code-review@claude-code-plugins'
-          prompt: '/code-review:code-review ${{ github.repository }}/pull/${{ github.event.inputs.pr_number }}'
+          show_full_output: 'true'
+          prompt: |
+            REPO: ${{ github.repository }}
+            PR NUMBER: ${{ github.event.inputs.pr_number }}
 
+            Review this pull request and provide feedback on:
+            - Code quality and best practices
+            - Potential bugs or issues
+            - Type safety (mypy compliance)
+            - Security concerns (hardcoded secrets, PII in scraped data)
+            - Test coverage
+
+            Use CLAUDE.md for project conventions.
+            Post your complete review as a PR comment:
+              gh pr comment ${{ github.event.inputs.pr_number }} --body "YOUR REVIEW HERE"
+          claude_args: '--allowed-tools "Bash(gh pr view:*),Bash(gh pr diff:*),Bash(gh pr comment:*),Bash(gh pr list:*),Bash(gh issue view:*),Bash(cat:*),Bash(head:*)"'
