@@ -257,7 +257,7 @@ class TestMakeRunId:
         """Run IDs must be unique across batch launches to avoid directory collisions."""
         import time
         id1 = aws_runner.make_run_id("large-v3", diarize=True)
-        time.sleep(1.01)  # ensure timestamps differ
+        time.sleep(1.01)  # run_id timestamp is second-resolution; sleep > 1s guarantees different ts
         id2 = aws_runner.make_run_id("large-v3", diarize=True)
         assert id1 != id2, (
             "Two run_id calls must produce different values — "

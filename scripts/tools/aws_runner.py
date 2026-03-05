@@ -91,7 +91,7 @@ PIPELINE_VERSION = "aws-v2.0"
 def make_run_id(model: str, diarize: bool) -> str:
     """Generate a deterministic run identifier shared across all episodes in a batch."""
     ts = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
-    model_slug = model.replace("-", "").replace(".", "")[:4]  # "lv3" from "large-v3"
+    model_slug = model.replace("-", "").replace(".", "")[:4]  # e.g. "larg" from "large-v3"
     flags = "dz" if diarize else "nd"
     return f"run_{ts}__{model_slug}__{flags}"
 
@@ -275,16 +275,16 @@ class RemoteWorker:
                 timeout=3600,
             )
             if rc != 0:
-                logger.warning("[%s] pyannote/speechbrain install may have issues: %s", self.host, err[:200])
+                raise RuntimeError(
+                    f"[{self.host}] pyannote/speechbrain install FAILED — "
+                    f"diarization would silently produce speakers_detected=0. "
+                    f"stderr: {err[:400]}"
+                )
             else:
                 logger.info("[%s] pyannote.audio + speechbrain ready", self.host)
-
-            if self.hf_token:
-                logger.info("[%s] Caching HuggingFace credentials...", self.host)
-                self._ssh(
-                    f"echo 'HF_TOKEN={self.hf_token}' >> ~/.profile",
-                    timeout=10,
-                )
+            # HF_TOKEN is passed as an env-var prefix on each remote command (env_prefix in
+            # process_episode). Writing it to ~/.profile is unnecessary and leaks the token
+            # to disk across reboots / snapshots.
 
         # 3. Create remote directory tree
         self._ssh(
@@ -539,7 +539,7 @@ def discover_episodes(
         elif diarize:
             # Re-run if existing transcript has no speaker diarization
             report = _latest_run_report(entry)
-            if report.get("speakers_detected", -1) == 0:
+            if report.get("speakers_detected") == 0:
                 logger.debug("Re-queuing %s (undiarized run)", entry.name)
                 episodes.append((entry, True))
 
@@ -895,14 +895,18 @@ def update_sg_ssh_rule() -> None:
         logger.info("SG SSH rule already allows %s — no update needed", cidr)
         return
 
-    # Revoke stale rules
+    # Revoke only CIDRs that are not the current IP — leave any other team member rules intact.
     for perm in existing_ssh:
-        if perm.get("IpRanges"):
-            _aws(["ec2", "revoke-security-group-ingress",
-                  "--group-id", sg_id,
-                  "--ip-permissions", json.dumps([perm])])
-            for r in perm["IpRanges"]:
-                logger.info("Revoked stale SSH rule: %s", r["CidrIp"])
+        stale = [r for r in perm.get("IpRanges", []) if r["CidrIp"] != cidr]
+        if not stale:
+            continue
+        stale_perm = dict(perm)
+        stale_perm["IpRanges"] = stale
+        _aws(["ec2", "revoke-security-group-ingress",
+              "--group-id", sg_id,
+              "--ip-permissions", json.dumps([stale_perm])])
+        for r in stale:
+            logger.info("Revoked stale SSH rule: %s", r["CidrIp"])
 
     # Authorize current IP
     _aws(["ec2", "authorize-security-group-ingress",
@@ -1187,13 +1191,7 @@ def main() -> None:
                 "containing apple_podcasts_cache entry in %s", args.downloads,
             )
             sys.exit(1)
-        # Prepend Edgar Wright episode at front of queue (priority transcription)
-        edgar_wright = args.downloads / "S02E169__2025-11-26__edgar-wright-director__libsyn_f6853474de"
-        if edgar_wright.exists() and edgar_wright not in raw_eps:
-            raw_eps = [edgar_wright] + raw_eps
-            logger.info("Test mode: %d episodes queued (Edgar Wright prepended)", len(raw_eps))
-        else:
-            logger.info("Test mode: %d Apple-transcribed episodes queued", len(raw_eps))
+        logger.info("Test mode: %d Apple-transcribed episodes queued", len(raw_eps))
         episodes = [(ep, args.force) for ep in raw_eps]
 
     elif args.mode == "episode":
