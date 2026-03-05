@@ -1,7 +1,8 @@
 # ADR-005: Transcription Quality Improvements — Speaker ID, Semantic Chunking, Resource Planning
 
-**Status:** Proposed — pending batch completion and human eval
+**Status:** Accepted — first-pass pipeline implemented 2026-03-04; B3 clustering pending
 **Date:** 2026-03-03
+**Updated:** 2026-03-04
 **Deciders:** Jim Green
 **Supersedes:** ADR-004 §§2–3 (diarization and chapter detection)
 **Research doc:** [`documentation/research/transcription-optimization.md`](../../documentation/research/transcription-optimization.md)
@@ -78,11 +79,30 @@ the compute already spent.
 
 ## Decision
 
-**Adopt Option B** — implement as post-processing phases, ordered B1 → B2 → B3.
+**Adopt Option C (revised)** — fresh first-pass batch with diarization, segment
+tagging, and embedding export baked in. Post-processing phases B2 and B3
+clustering run afterwards.
 
-Each phase produces a standalone script in `scripts/tools/` that reads existing
-outputs and writes improved versions. Schema additions are additive (new fields
-only) so downstream consumers don't break.
+**2026-03-04 revision:** Rather than treating B1/B3 as post-processing only, the
+audit revealed that running a clean first pass with diarization and intro/outro
+tagging in-pipeline is more cost-effective than re-reading audio files in a
+second pass. The decision to do "full fresh captures" supersedes the original
+Option B phasing for the first batch.
+
+**Implemented in this first pass:**
+- `segment_type` field (intro/outro time-window tagging, B1) — baked into `transcribe_episodes.py`
+- `chapter_id` backfill per segment — baked in
+- VAD tuning (800 ms) — baked in
+- pyannote diarization (`--diarize`) — baked into `aws_runner.py` batch command
+- ECAPA-TDNN speaker embedding export per cluster (`--embed-speakers`) — baked in
+- Multi-run directory layout (`transcript/runs/{run_id}/`) — baked in
+- `transcript/run_manifest.json` tracking canonical run — baked in
+
+**Remaining as post-processing:**
+- B2: MiniLM semantic chunking (still pending; sentence-transformers not yet added)
+- B3: Cross-episode speaker clustering → canonical name assignment (`identify_speakers.py`)
+
+Schema additions are additive (new fields only) so downstream consumers don't break.
 
 ---
 
@@ -113,9 +133,12 @@ Compute:
 |---|---|---|---|---|---|---|---|
 | **CPU baseline** (current) | c5.4xlarge | 16 | ~1× RT | 17 | $0.07 | 20 days (1 inst) | $33 |
 | **CPU ×8** (128 vCPU quota) | c5.4xlarge ×8 | 128 | ~1× RT | 17 | $0.07 | ~2.5 days | $34 |
-| **GPU baseline** | g4dn.xlarge | 4 | ~8× RT | 130 | $0.16 | ~2.6 days (1 inst) | $10 |
-| **GPU ×2** (8 G/VT vCPUs) | g4dn.xlarge ×2 | 8 | ~8× RT | 130 | $0.16 | ~1.3 days | $10 |
-| **GPU ×4** (pending quota) | g4dn.xlarge ×4 | 16 | ~8× RT | 130 | $0.16 | ~0.65 days | $10 |
+| **GPU baseline** | g4dn.xlarge | 4 | ~8× RT | 130 | $0.197 | ~2.6 days (1 inst) | $10 |
+| **GPU ×2** (8 G/VT vCPUs) | g4dn.xlarge ×2 | 8 | ~8× RT | 130 | $0.197 | ~1.3 days | $10 |
+| **GPU ×4** (pending quota) | g4dn.xlarge ×4 | 16 | ~8× RT | 130 | $0.197 | ~0.65 days | $10 |
+| **GPU ×3 + diarize** (adopted) | g4dn.xlarge ×3 | 12 | ~7× RT* | ~110 | $0.197 | ~25 hrs | ~$14 |
+
+\* ~7× RT effective when pyannote diarization runs on CPU concurrently with GPU Whisper.
 
 ### Phase B post-processing estimates (local Mac, no EC2)
 
@@ -183,10 +206,15 @@ embedding cosine similarity. Keep TF-IDF as fallback.
 ### Phase B3 — Speaker diarization + name resolution
 
 **Dependencies:** `pyannote.audio>=3.3`, `speechbrain>=1.0.0` (ECAPA-TDNN embeddings), HuggingFace token
+(all now listed in `requirements-transcription.txt`; pre-installed on DLAMI)
 
-> **Zero-label constraint:** No manual audio clipping or hand-labeled training data.
-> Speaker identity is derived entirely from automated cross-episode embedding clustering
-> and structural heuristics. See audit finding §2.3 for context.
+> **Zero-label constraint (binding):** No manual audio clipping, hand-labeled training
+> data, or one-off reference clips. Speaker identity is derived entirely from:
+> (a) per-episode pyannote diarization, (b) ECAPA-TDNN embeddings exported per cluster
+> into `transcript/runs/{run_id}/speaker_embeddings/`, and (c) global agglomerative
+> clustering to discover Roger/James/Guest labels — no human annotation required to *run*.
+> The research doc §3 "manually clip Roger speech" option (Option B in that doc) is
+> **rejected**; only Option A (cross-episode clustering) is implemented.
 
 **New file:** `scripts/tools/identify_speakers.py`
 
@@ -201,19 +229,26 @@ embedding cosine similarity. Keep TF-IDF as fallback.
 7. Distinguish Roger from James: the speaker dominant in the **first 90 s** of each episode is James (consistent intro anchor — verified in audit).
 8. Name the guest from `metadata.json → itunes.summary`.
 
-**Storage schema (`library/speaker_profiles/`):**
+**Storage schema (as implemented):**
 
+Per-episode embeddings are written into the run directory by `--embed-speakers`:
+```
+downloads/{episode}/transcript/runs/{run_id}/speaker_embeddings/
+  SPEAKER_00.npy
+  SPEAKER_01.npy
+  clusters.json        # {SPEAKER_XX: {duration_s, segment_count, embedding_path}}
+```
+
+Global clustering outputs (written by future `identify_speakers.py`):
 ```
 library/speaker_profiles/
-  index.json                       # {episode_id: {SPEAKER_XX: canonical_name}}
-  embeddings/
-    S00E001_SPEAKER_00.npy         # per-episode per-cluster d-vector
-    S00E001_SPEAKER_01.npy
-    ...
-  global_clusters.json             # {cluster_id: {name, episodes, centroid_path}}
-  roger_deakins_centroid.npy       # global Roger centroid (from clustering)
-  james_deakins_centroid.npy       # global James centroid
+  global_registry.json             # {cluster_id: {name, role, episode_count}}
+  centroids/
+    james.npy                      # global James centroid
+    roger.npy                      # global Roger centroid
 ```
+
+See `library/speaker_profiles/README.md` for the B3 algorithm specification.
 
 - Input: audio files + diarization output + episode metadata (all existing)
 - Output: updated `transcript.json` with `speaker` field per segment; speaker registry files above
