@@ -50,14 +50,17 @@ import argparse
 import concurrent.futures
 import json
 import logging
+import os
 import shlex
 import subprocess
 import sys
 import threading
 import time
+import urllib.request
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Any
 
 # ---------------------------------------------------------------------------
 # EC2 provisioning constants (pre-configured for this account)
@@ -82,7 +85,38 @@ LOG_FORMAT = "%(asctime)s [%(levelname)s] %(name)s — %(message)s"
 logging.basicConfig(level=logging.INFO, format=LOG_FORMAT, datefmt="%H:%M:%S")
 logger = logging.getLogger("aws_runner")
 
-PIPELINE_VERSION = "aws-v1.0"
+PIPELINE_VERSION = "aws-v2.0"
+
+
+def make_run_id(model: str, diarize: bool) -> str:
+    """Generate a deterministic run identifier shared across all episodes in a batch."""
+    ts = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
+    model_slug = model.replace("-", "").replace(".", "")[:4]  # "lv3" from "large-v3"
+    flags = "dz" if diarize else "nd"
+    return f"run_{ts}__{model_slug}__{flags}"
+
+
+def _update_run_manifest(episode_dir: Path, run_id: str, meta: dict[str, Any]) -> None:
+    """Write or update transcript/run_manifest.json with the given run entry."""
+    manifest_path = episode_dir / "transcript" / "run_manifest.json"
+    try:
+        if manifest_path.exists():
+            data: dict[str, Any] = json.loads(manifest_path.read_text(encoding="utf-8"))
+        else:
+            data = {"canonical": run_id, "runs": []}
+        existing_ids = {r["run_id"] for r in data.get("runs", [])}
+        if run_id not in existing_ids:
+            data["runs"].append({
+                "run_id": run_id,
+                "created_at": datetime.now(timezone.utc).isoformat(),
+                **meta,
+            })
+        data["canonical"] = run_id
+        manifest_path.parent.mkdir(parents=True, exist_ok=True)
+        manifest_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+    except Exception as e:
+        logger.debug("Failed to update run manifest for %s: %s", episode_dir.name, e)
+
 
 # Scripts that must be present on the remote instance alongside
 # transcribe_episodes.py (it imports them at runtime).
@@ -115,6 +149,11 @@ class RemoteWorker:
     device: str = "cuda"
     compute_type: str = "float16"
     cpu_threads: int = 0  # 0 = let faster-whisper choose
+    # Run versioning and diarization
+    run_id: str = ""
+    diarize: bool = False
+    hf_token: str | None = None
+    embed_speakers: bool = False
 
     # ── SSH / rsync helpers ───────────────────────────────────────────────
 
@@ -227,6 +266,26 @@ class RemoteWorker:
             raise RuntimeError(f"pip install failed on {self.host}: {err[:300]}")
         logger.info("[%s] faster-whisper ready", self.host)
 
+        if self.diarize:
+            logger.info("[%s] Installing pyannote.audio + speechbrain...", self.host)
+            rc, _, err = self._ssh(
+                # Pin exact known-working versions to skip pip's resolver.
+                # Remove -q so we can see what's being compiled/downloaded if slow.
+                f"set -o pipefail; {py} -m pip install 'pyannote.audio==4.0.4' 'speechbrain==1.0.3' 2>&1 | tail -20",
+                timeout=3600,
+            )
+            if rc != 0:
+                logger.warning("[%s] pyannote/speechbrain install may have issues: %s", self.host, err[:200])
+            else:
+                logger.info("[%s] pyannote.audio + speechbrain ready", self.host)
+
+            if self.hf_token:
+                logger.info("[%s] Caching HuggingFace credentials...", self.host)
+                self._ssh(
+                    f"echo 'HF_TOKEN={self.hf_token}' >> ~/.profile",
+                    timeout=10,
+                )
+
         # 3. Create remote directory tree
         self._ssh(
             f"mkdir -p {self.remote_base}/scripts {self.remote_base}/library",
@@ -271,6 +330,24 @@ class RemoteWorker:
                 )
             else:
                 logger.info("[%s] Model warmed and cached ✓", self.host)
+
+            if self.embed_speakers:
+                logger.info("[%s] Pre-downloading ECAPA-TDNN embedding model (~200 MB)...", self.host)
+                warm_ecapa = (
+                    f"{py} -c \""
+                    f"from speechbrain.inference.classifiers import EncoderClassifier; "
+                    f"import pathlib; "
+                    f"EncoderClassifier.from_hparams("
+                    f"source='speechbrain/spkrec-ecapa-voxceleb', "
+                    f"savedir=str(pathlib.Path.home() / '.cache' / 'speechbrain'), "
+                    f"run_opts={{'device': 'cpu'}})"
+                    f"\""
+                )
+                rc, _, err = self._ssh(warm_ecapa, timeout=300)
+                if rc != 0:
+                    logger.warning("[%s] ECAPA model pre-download failed: %s", self.host, err[:200])
+                else:
+                    logger.info("[%s] ECAPA model cached ✓", self.host)
 
         logger.info("[%s] Setup complete", self.host)
 
@@ -320,6 +397,7 @@ class RemoteWorker:
             remote_library = f"{self.remote_base}/library"
             remote_script = f"{self.remote_base}/scripts/transcribe_episodes.py"
 
+            env_prefix = f"HF_TOKEN={self.hf_token} " if self.hf_token else ""
             cmd_parts = [
                 f"PYTHONPATH={self.remote_base}/scripts",
                 self.python, remote_script,
@@ -330,17 +408,28 @@ class RemoteWorker:
                 "--device", self.device,
                 "--compute-type", self.compute_type,
             ]
+            if self.run_id:
+                cmd_parts += ["--run-id", self.run_id]
+            if self.diarize:
+                cmd_parts.append("--diarize")
+            if self.embed_speakers:
+                cmd_parts.append("--embed-speakers")
             if self.cpu_threads > 0:
                 cmd_parts += ["--cpu-threads", str(self.cpu_threads)]
             if force:
                 cmd_parts.append("--force")
 
-            remote_cmd = " ".join(cmd_parts)
+            remote_cmd = env_prefix + " ".join(cmd_parts)
             logger.info("[%s] ⚡ Transcribing %s on %s...", self.host, ep_name, self.device.upper())
             t0 = time.monotonic()
 
-            # GPU: ~11 min for 90-min episode (8× RT). CPU int8: ~30 min (3× RT). Use 3 hrs for safety.
-            ssh_timeout = 2400 if self.device == "cuda" else 10800
+            # GPU transcription: ~11 min; + GPU diarization: ~5 min; total ~16 min typical.
+            # CPU transcription: ~30 min; + CPU diarization: ~30 min; total ~60 min.
+            # Budget 2 hrs for GPU+diarize, 4 hrs for CPU, to handle longer episodes.
+            if self.device == "cuda":
+                ssh_timeout = 7200   # 2 hrs — covers GPU transcription + GPU diarization
+            else:
+                ssh_timeout = 14400  # 4 hrs — CPU transcription + CPU diarization
             rc, stdout, stderr = self._ssh(remote_cmd, timeout=ssh_timeout)
 
             elapsed = time.monotonic() - t0
@@ -349,13 +438,27 @@ class RemoteWorker:
             logger.info("[%s] ✓ Transcription done in %.0f s", self.host, elapsed)
 
             # ── 4. Retrieve output ─────────────────────────────────────────
+            # rsync the entire transcript/ tree (includes runs/{run_id}/ subdirectory).
+            # Using local_transcript.parent so rsync creates transcript/ inside the ep dir.
             remote_transcript = f"{remote_ep}/transcript"
             local_transcript = local_downloads / ep_name / "transcript"
             local_transcript.mkdir(parents=True, exist_ok=True)
 
             logger.info("[%s] ↓ Fetching transcript output for %s...", self.host, ep_name)
-            self._rsync_down(remote_transcript, local_transcript.parent, timeout=60)
-            # rsync_down writes into local_transcript.parent/transcript/ — correct.
+            self._rsync_down(remote_transcript, local_transcript.parent, timeout=120)
+
+            # Update local run_manifest.json
+            if self.run_id:
+                _update_run_manifest(
+                    local_downloads / ep_name,
+                    self.run_id,
+                    {
+                        "whisper_model": model,
+                        "diarization": self.diarize,
+                        "speaker_embeddings": self.embed_speakers and self.diarize,
+                        "pipeline_version": PIPELINE_VERSION,
+                    },
+                )
 
             return True, None
 
@@ -376,24 +479,70 @@ class RemoteWorker:
 # ---------------------------------------------------------------------------
 
 
-def discover_episodes(downloads_dir: Path, force: bool = False) -> list[Path]:
-    """Return episode dirs that still need transcription."""
-    episodes: list[Path] = []
+def _latest_run_report(episode_dir: Path) -> dict:
+    """Return extraction_report dict from the most recent run, or {}."""
+    runs_dir = episode_dir / "transcript" / "runs"
+    if not runs_dir.exists():
+        return {}
+    candidates = sorted(
+        (r for r in runs_dir.iterdir() if r.is_dir() and (r / "extraction_report.json").exists()),
+        key=lambda r: r.name,
+        reverse=True,
+    )
+    if not candidates:
+        return {}
+    try:
+        return json.loads((candidates[0] / "extraction_report.json").read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+
+
+def discover_episodes(
+    downloads_dir: Path,
+    force: bool = False,
+    diarize: bool = False,
+) -> list[tuple[Path, bool]]:
+    """Return (episode_dir, per_episode_force) pairs that need transcription.
+
+    When diarize=True, episodes whose latest run has speakers_detected=0 are
+    included with force=True so diarization is re-run even if a transcript exists.
+    """
+    episodes: list[tuple[Path, bool]] = []
     for entry in sorted(downloads_dir.iterdir()):
         if not entry.is_dir():
             continue
         audio = entry / "audio.mp3"
-        transcript_json = entry / "transcript" / "transcript.json"
         if not audio.exists():
             continue
-        if not force and transcript_json.exists():
+        if force:
+            episodes.append((entry, True))
+            continue
+
+        transcript_json = entry / "transcript" / "transcript.json"
+        runs_dir = entry / "transcript" / "runs"
+        has_transcript = False
+        if transcript_json.exists():
             try:
                 data = json.loads(transcript_json.read_text(encoding="utf-8"))
                 if data.get("status") != "placeholder":
-                    continue
+                    has_transcript = True
             except Exception:
                 pass
-        episodes.append(entry)
+        if not has_transcript and runs_dir.exists() and any(
+            r.is_dir() and (r / "transcript.json").exists()
+            for r in runs_dir.iterdir()
+        ):
+            has_transcript = True
+
+        if not has_transcript:
+            episodes.append((entry, False))
+        elif diarize:
+            # Re-run if existing transcript has no speaker diarization
+            report = _latest_run_report(entry)
+            if report.get("speakers_detected", -1) == 0:
+                logger.debug("Re-queuing %s (undiarized run)", entry.name)
+                episodes.append((entry, True))
+
     return episodes
 
 
@@ -465,7 +614,7 @@ def save_status(status: BatchStatus, path: Path) -> None:
 
 def run_aws_batch(
     workers: list[RemoteWorker],
-    episodes: list[Path],
+    episodes: list[tuple[Path, bool]],
     local_downloads: Path,
     model: str = "large-v3",
     force: bool = True,
@@ -491,7 +640,7 @@ def run_aws_batch(
     state_lock = threading.Lock()
 
     # Shared queue — any free worker picks the next episode
-    episode_queue = list(episodes)
+    episode_queue: list[tuple[Path, bool]] = list(episodes)
     queue_lock = threading.Lock()
 
     logger.info("=" * 70)
@@ -505,7 +654,7 @@ def run_aws_batch(
             with queue_lock:
                 if not episode_queue:
                     break
-                ep = episode_queue.pop(0)
+                ep, ep_force = episode_queue.pop(0)
                 idx = status.total_processed + len(episode_queue) + 1  # approximate
 
             with state_lock:
@@ -518,7 +667,7 @@ def run_aws_batch(
                 episode_dir=ep,
                 local_downloads=local_downloads,
                 model=model,
-                force=force,
+                force=force or ep_force,
             )
             elapsed = time.monotonic() - t0
 
@@ -596,28 +745,30 @@ def provision_spot_instances(
     instance_type = instance_type or EC2_DEFAULTS["instance_type"]
     vpc_id = _get_default_vpc()
 
-    # If az is specified (or defaulted), filter to that AZ's subnet.
-    # Pass --provision-az "" to let AWS pick any AZ (better for spot capacity).
+    # Collect subnets to try. If az is specified, filter to that AZ only.
+    # Otherwise collect all VPC subnets and sort best_az first (spot capacity
+    # varies by AZ — we retry each in turn on InsufficientInstanceCapacity).
     subnet_filters = [f"Name=vpc-id,Values={vpc_id}"]
-    az_label = "any AZ"
     if az:
         subnet_filters.append(f"Name=availabilityZone,Values={az}")
-        az_label = az
-    logger.info("Requesting %d × %s spot instance(s) in %s...", count, instance_type, az_label)
-
-    subnets = _aws(["ec2", "describe-subnets", "--filters"] + subnet_filters)
-    if not subnets.get("Subnets"):
+    all_subnets_resp = _aws(["ec2", "describe-subnets", "--filters"] + subnet_filters)
+    all_subnets = all_subnets_resp.get("Subnets", [])
+    if not all_subnets:
         raise RuntimeError(f"No subnet found (vpc={vpc_id}, az={az or 'any'})")
-    subnet_id = subnets["Subnets"][0]["SubnetId"]
-    logger.info("Using subnet %s (%s)", subnet_id, az_label)
+    # Sort: prefer best_az first, then alphabetical for determinism.
+    best_az = EC2_DEFAULTS.get("best_az", "")
+    all_subnets.sort(key=lambda s: (0 if s.get("AvailabilityZone") == best_az else 1,
+                                    s.get("AvailabilityZone", "")))
+    logger.info("Requesting %d × %s spot instance(s) — will try %d AZ(s): %s",
+                count, instance_type, len(all_subnets),
+                [s["AvailabilityZone"] for s in all_subnets])
 
-    result = _aws([
+    run_instances_args = [
         "ec2", "run-instances",
         "--image-id", EC2_DEFAULTS["ami_id"],
         "--instance-type", instance_type,
         "--key-name", EC2_DEFAULTS["key_name"],
         "--security-group-ids", EC2_DEFAULTS["security_group_id"],
-        "--subnet-id", subnet_id,
         "--count", str(count),
         "--block-device-mappings",
         json.dumps([{
@@ -640,7 +791,28 @@ def provision_spot_instances(
                 {"Key": "Project", "Value": "purefoy"},
             ],
         }]),
-    ])
+    ]
+
+    result = None
+    last_err: Exception | None = None
+    for subnet in all_subnets:
+        subnet_id = subnet["SubnetId"]
+        subnet_az = subnet.get("AvailabilityZone", "?")
+        logger.info("Trying subnet %s (%s)...", subnet_id, subnet_az)
+        try:
+            result = _aws(run_instances_args + ["--subnet-id", subnet_id])
+            logger.info("Launched in %s", subnet_az)
+            break
+        except RuntimeError as exc:
+            if "InsufficientInstanceCapacity" in str(exc):
+                logger.warning("No capacity in %s, trying next AZ...", subnet_az)
+                last_err = exc
+                continue
+            raise
+    if result is None:
+        raise RuntimeError(
+            f"InsufficientInstanceCapacity in all AZs tried. Last error: {last_err}"
+        )
 
     instance_ids = [i["InstanceId"] for i in result.get("Instances", [])]
     if not instance_ids:
@@ -696,8 +868,52 @@ def _get_default_vpc() -> str:
     return vpcs[0]["VpcId"]
 
 
+def update_sg_ssh_rule() -> None:
+    """Update the td-transcription SG to allow SSH from the current public IP."""
+    sg_id = EC2_DEFAULTS["security_group_id"]
+    try:
+        resp = urllib.request.urlopen("https://checkip.amazonaws.com", timeout=10)
+        my_ip = resp.read().decode().strip()
+    except Exception as exc:
+        logger.warning("Could not determine public IP — skipping SG update: %s", exc)
+        return
+
+    cidr = f"{my_ip}/32"
+    # Get existing SSH ingress rules
+    sg_info = _aws(["ec2", "describe-security-groups", "--group-ids", sg_id])
+    existing_ssh = [
+        r for r in sg_info["SecurityGroups"][0]["IpPermissions"]
+        if r.get("FromPort") == 22 and r.get("IpProtocol") == "tcp"
+    ]
+    existing_cidrs = {
+        r["CidrIp"]
+        for perm in existing_ssh
+        for r in perm.get("IpRanges", [])
+    }
+
+    if cidr in existing_cidrs:
+        logger.info("SG SSH rule already allows %s — no update needed", cidr)
+        return
+
+    # Revoke stale rules
+    for perm in existing_ssh:
+        if perm.get("IpRanges"):
+            _aws(["ec2", "revoke-security-group-ingress",
+                  "--group-id", sg_id,
+                  "--ip-permissions", json.dumps([perm])])
+            for r in perm["IpRanges"]:
+                logger.info("Revoked stale SSH rule: %s", r["CidrIp"])
+
+    # Authorize current IP
+    _aws(["ec2", "authorize-security-group-ingress",
+          "--group-id", sg_id,
+          "--protocol", "tcp", "--port", "22",
+          "--cidr", cidr])
+    logger.info("SG updated — SSH allowed from %s", cidr)
+
+
 def wait_for_ssh(ips: list[str], key_path: Path, user: str = "ubuntu",
-                 timeout_s: int = 180) -> None:
+                 timeout_s: int = 360) -> None:
     """Poll SSH connectivity until all instances accept connections."""
     logger.info("Waiting for SSH to become available on %d instance(s)...", len(ips))
     deadline = time.monotonic() + timeout_s
@@ -778,6 +994,10 @@ def build_parser() -> argparse.ArgumentParser:
         help="Skip episodes that already have a transcript.json",
     )
     p.add_argument(
+        "--limit", type=int, default=0, metavar="N",
+        help="Cap the episode queue at N episodes (0 = no limit). Applied after discovery.",
+    )
+    p.add_argument(
         "--device", default="cuda", choices=["cuda", "cpu", "auto"],
         help="Compute device on remote instance (default: cuda). Use cpu for non-GPU instances.",
     )
@@ -822,6 +1042,21 @@ def build_parser() -> argparse.ArgumentParser:
         help="Path to write status JSON (default: analysis/transcription/aws_status.json)",
     )
     p.add_argument(
+        "--diarize", action="store_true",
+        help="Enable speaker diarization via pyannote (runs on CPU alongside GPU Whisper). "
+             "Requires --hf-token or HF_TOKEN env var.",
+    )
+    p.add_argument(
+        "--hf-token", default=None,
+        help="HuggingFace token for pyannote model access. "
+             "Defaults to HF_TOKEN environment variable.",
+    )
+    p.add_argument(
+        "--embed-speakers", action="store_true",
+        help="Export ECAPA-TDNN speaker embeddings per cluster after diarization. "
+             "Requires --diarize. Enables cross-episode speaker clustering (B3).",
+    )
+    p.add_argument(
         "--verbose", "-v", action="store_true",
         help="Enable DEBUG logging",
     )
@@ -839,6 +1074,17 @@ def main() -> None:
     if not args.hosts and not args.provision:
         logger.error("Either --hosts or --provision N is required")
         sys.exit(1)
+
+    # Resolve HF token (CLI arg > env var)
+    hf_token: str | None = args.hf_token or os.environ.get("HF_TOKEN")
+    if args.diarize and not hf_token:
+        logger.error("--diarize requires a HuggingFace token. "
+                     "Pass --hf-token or set HF_TOKEN environment variable.")
+        sys.exit(1)
+
+    # Generate a single run_id shared across all episodes in this batch
+    run_id = make_run_id(args.model, args.diarize)
+    logger.info("Batch run_id: %s", run_id)
 
     # ── Auto-provision mode ──────────────────────────────────────────────────
     provisioned_ids: list[str] = []
@@ -860,6 +1106,7 @@ def main() -> None:
             ips = provision_spot_instances(
                 args.provision, az=args.provision_az, instance_type=args.instance_type,
             )
+            update_sg_ssh_rule()
             wait_for_ssh(ips, key_path, user=args.user)
             # Patch args.hosts so the rest of main() uses the provisioned IPs
             args.hosts = ",".join(ips)
@@ -879,6 +1126,10 @@ def main() -> None:
             device=args.device,
             compute_type=args.compute_type,
             cpu_threads=args.cpu_threads,
+            run_id=run_id,
+            diarize=args.diarize,
+            hf_token=hf_token,
+            embed_speakers=args.embed_speakers,
         )
         for h in hosts
     ]
@@ -918,6 +1169,9 @@ def main() -> None:
                     logger.error("Setup failed for %s: %s", w.host, e)
                     setup_ok = False
         if not setup_ok:
+            if args.provision:
+                logger.info("Setup failed — terminating provisioned instance(s)...")
+                terminate_instances_by_tag()
             sys.exit(1)
 
     if args.setup_only:
@@ -926,14 +1180,21 @@ def main() -> None:
 
     # Discover episodes
     if args.mode == "test":
-        episodes = discover_test_episodes(args.downloads)
-        if not episodes:
+        raw_eps = discover_test_episodes(args.downloads)
+        if not raw_eps:
             logger.error(
                 "No test episodes found — expected episodes with sources.json "
                 "containing apple_podcasts_cache entry in %s", args.downloads,
             )
             sys.exit(1)
-        logger.info("Test mode: %d Apple-transcribed episodes queued", len(episodes))
+        # Prepend Edgar Wright episode at front of queue (priority transcription)
+        edgar_wright = args.downloads / "S02E169__2025-11-26__edgar-wright-director__libsyn_f6853474de"
+        if edgar_wright.exists() and edgar_wright not in raw_eps:
+            raw_eps = [edgar_wright] + raw_eps
+            logger.info("Test mode: %d episodes queued (Edgar Wright prepended)", len(raw_eps))
+        else:
+            logger.info("Test mode: %d Apple-transcribed episodes queued", len(raw_eps))
+        episodes = [(ep, args.force) for ep in raw_eps]
 
     elif args.mode == "episode":
         if not args.episode:
@@ -943,15 +1204,19 @@ def main() -> None:
         if not ep_path.exists():
             logger.error("Episode directory not found: %s", ep_path)
             sys.exit(1)
-        episodes = [ep_path]
+        episodes = [(ep_path, args.force)]
         logger.info("Single episode mode: %s", args.episode)
 
     else:  # full
-        episodes = discover_episodes(args.downloads, force=args.force)
+        episodes = discover_episodes(args.downloads, force=args.force, diarize=args.diarize)
         if not episodes:
             logger.info("No episodes pending transcription.")
             return
-        logger.info("Full mode: %d episodes queued", len(episodes))
+        if args.limit > 0:
+            episodes = episodes[:args.limit]
+        rerun_count = sum(1 for _, f in episodes if f)
+        logger.info("Full mode: %d episodes queued%s", len(episodes),
+                    f" ({rerun_count} undiarized re-runs)" if rerun_count else "")
 
     # Run — always terminate provisioned instances on exit (success or error)
     try:
