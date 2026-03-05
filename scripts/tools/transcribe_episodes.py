@@ -61,7 +61,7 @@ import traceback
 from dataclasses import asdict, dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any
+from typing import Any, Literal
 
 # Make sibling scripts importable when run as a script
 sys.path.insert(0, str(Path(__file__).parent))
@@ -106,7 +106,7 @@ class SegmentResult:
     end: float
     text: str
     speaker: str | None = None
-    segment_type: str = "content"  # "intro", "outro", "content"
+    segment_type: Literal["intro", "outro", "content"] = "content"
     chapter_id: int | None = None
     confidence: float = 0.0
     words: list[dict[str, Any]] = field(default_factory=list)
@@ -498,7 +498,9 @@ class TranscriptionEngine:
 
     def _load_diarization(self) -> None:
         try:
-            # torchaudio 2.10+ removed list_audio_backends(); pyannote 3.3 still calls it.
+            # torchaudio ≥2.6 removed list_audio_backends(); pyannote.audio calls it on import.
+            # Patched against: torchaudio==2.10.0+cu128 (DLAMI), pyannote.audio==4.0.4.
+            # TODO: remove once pyannote drops the call (track: pyannote-audio issue #1724).
             # Patch it back before the pyannote import.
             import torchaudio as _ta
             if not hasattr(_ta, "list_audio_backends"):
@@ -674,9 +676,6 @@ class TranscriptionEngine:
             finally:
                 Path(_wav_path).unlink(missing_ok=True)
 
-            if _audio_input is None:
-                raise RuntimeError("Audio WAV conversion failed — cannot diarize")
-
             raw = self._diarization_pipeline(
                 _audio_input,
                 min_speakers=self.min_speakers,
@@ -755,7 +754,14 @@ class TranscriptionEngine:
         for speaker, info in clusters.items():
             try:
                 chunks: list[np.ndarray] = []
-                for start, end in info["segments"][:30]:  # cap at 30 chunks
+                all_segs = info["segments"]
+                if len(all_segs) > 30:
+                    logger.debug(
+                        "Speaker %s has %d segments; capping embedding extraction at 30 "
+                        "(may under-represent long speakers)",
+                        speaker, len(all_segs),
+                    )
+                for start, end in all_segs[:30]:
                     duration = end - start
                     if duration < 0.5:
                         continue
@@ -1135,7 +1141,7 @@ def process_episode(
             return result
 
         # Stage 1b: Tag intro/outro time windows
-        tag_segment_types(segments, total_duration_s=result.total_audio_duration)
+        tag_segment_types(segments, total_duration_s=result.total_audio_duration or 0.0)
         intro_count = sum(1 for s in segments if s.segment_type == "intro")
         outro_count = sum(1 for s in segments if s.segment_type == "outro")
         if intro_count or outro_count:

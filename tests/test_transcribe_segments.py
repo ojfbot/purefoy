@@ -19,13 +19,13 @@ import transcribe_episodes as te  # noqa: E402
 # Helpers
 # ---------------------------------------------------------------------------
 
-def _seg(id: int, start: float, end: float, speaker: str | None = None) -> te.SegmentResult:
+def _seg(seg_id: int, start: float, end: float, speaker: str | None = None) -> te.SegmentResult:
     """Build a minimal SegmentResult for testing."""
     return te.SegmentResult(
-        id=id,
+        id=seg_id,
         start=start,
         end=end,
-        text=f"segment {id}",
+        text=f"segment {seg_id}",
         speaker=speaker,
     )
 
