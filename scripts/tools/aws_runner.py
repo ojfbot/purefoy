@@ -836,26 +836,16 @@ def provision_spot_instances(
                 logger.warning("Instance %s has no public IP", inst["InstanceId"])
 
     logger.info("Instance IPs: %s", ips)
-    return ips
+    return ips, instance_ids
 
 
-def terminate_instances_by_tag(tag_value: str = "td-transcription") -> None:
-    """Terminate all instances tagged Name=td-transcription."""
-    desc = _aws([
-        "ec2", "describe-instances",
-        "--filters",
-        f"Name=tag:Name,Values={tag_value}",
-        "Name=instance-state-name,Values=running,pending,stopping,stopped",
-    ])
-    ids: list[str] = []
-    for res in desc.get("Reservations", []):
-        for inst in res["Instances"]:
-            ids.append(inst["InstanceId"])
-    if not ids:
-        logger.info("No instances tagged %s to terminate", tag_value)
+def terminate_instances(instance_ids: list[str]) -> None:
+    """Terminate a specific list of instances (only those launched in this run)."""
+    if not instance_ids:
+        logger.info("No instances to terminate")
         return
-    logger.info("Terminating %d instance(s): %s", len(ids), ids)
-    _aws(["ec2", "terminate-instances", "--instance-ids"] + ids)
+    logger.info("Terminating %d instance(s): %s", len(instance_ids), instance_ids)
+    _aws(["ec2", "terminate-instances", "--instance-ids"] + instance_ids)
     logger.info("Termination requested — instances will shut down shortly")
 
 
@@ -1106,8 +1096,9 @@ def main() -> None:
                 logger.error("Key not found at %s — specify --key or run aws_runner.py setup", key_path)
                 sys.exit(1)
 
+        provisioned_ids: list[str] = []
         try:
-            ips = provision_spot_instances(
+            ips, provisioned_ids = provision_spot_instances(
                 args.provision, az=args.provision_az, instance_type=args.instance_type,
             )
             update_sg_ssh_rule()
@@ -1116,7 +1107,7 @@ def main() -> None:
             args.hosts = ",".join(ips)
         except Exception as e:
             logger.error("Provisioning failed: %s", e)
-            terminate_instances_by_tag()
+            terminate_instances(provisioned_ids)
             sys.exit(1)
 
     # ── Build workers from host list ─────────────────────────────────────────
@@ -1149,7 +1140,7 @@ def main() -> None:
             bad.append(w.host)
     if bad:
         if args.provision:
-            terminate_instances_by_tag()
+            terminate_instances(provisioned_ids)
         sys.exit(1)
 
     # Setup (idempotent; skippable)
@@ -1175,7 +1166,7 @@ def main() -> None:
         if not setup_ok:
             if args.provision:
                 logger.info("Setup failed — terminating provisioned instance(s)...")
-                terminate_instances_by_tag()
+                terminate_instances(provisioned_ids)
             sys.exit(1)
 
     if args.setup_only:
@@ -1230,7 +1221,7 @@ def main() -> None:
     finally:
         if args.provision:
             logger.info("Batch complete — terminating %d provisioned instance(s)...", args.provision)
-            terminate_instances_by_tag()
+            terminate_instances(provisioned_ids)
 
 
 if __name__ == "__main__":
