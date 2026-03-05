@@ -501,10 +501,20 @@ class TranscriptionEngine:
             # torchaudio ≥2.6 removed list_audio_backends(); pyannote.audio calls it on import.
             # Patched against: torchaudio==2.10.0+cu128 (DLAMI), pyannote.audio==4.0.4.
             # TODO: remove once pyannote drops the call (track: pyannote-audio issue #1724).
-            # Patch it back before the pyannote import.
             import torchaudio as _ta
             if not hasattr(_ta, "list_audio_backends"):
                 _ta.list_audio_backends = lambda: ["soundfile", "sox_io"]
+            # speechbrain 1.0.3 uses hf_hub_download(use_auth_token=) which was renamed to
+            # token= in huggingface_hub ≥0.21. Patch it globally so both pyannote and
+            # speechbrain work without changing their source.
+            # Patched against: speechbrain==1.0.3, huggingface_hub==0.29.x (DLAMI).
+            import huggingface_hub as _hfhub
+            _orig_hf_dl = _hfhub.hf_hub_download
+            def _patched_hf_dl(*args: Any, **kw: Any) -> Any:
+                if "use_auth_token" in kw:
+                    kw["token"] = kw.pop("use_auth_token")
+                return _orig_hf_dl(*args, **kw)
+            _hfhub.hf_hub_download = _patched_hf_dl
             from pyannote.audio import Pipeline as PyannotePipeline
         except ImportError:
             logger.warning(
@@ -732,14 +742,26 @@ class TranscriptionEngine:
 
         out_dir.mkdir(parents=True, exist_ok=True)
 
+        ecapa_savedir = Path.home() / ".cache" / "speechbrain"
+        ecapa_savedir.mkdir(parents=True, exist_ok=True)
+        # speechbrain from_hparams tries to download custom.py for user-defined modules;
+        # spkrec-ecapa-voxceleb has no custom.py, so create a stub to avoid 404.
+        stub = ecapa_savedir / "custom.py"
+        if not stub.exists():
+            stub.write_text("# placeholder\n", encoding="utf-8")
         try:
             classifier = EncoderClassifier.from_hparams(
                 source="speechbrain/spkrec-ecapa-voxceleb",
-                savedir=str(Path.home() / ".cache" / "speechbrain"),
+                savedir=str(ecapa_savedir),
                 run_opts={"device": "cpu"},
             )
         except Exception as e:
-            logger.warning("Failed to load ECAPA model: %s — skipping embedding export", e)
+            err_msg = f"{type(e).__name__}: {e}"
+            logger.warning("Failed to load ECAPA model: %s — skipping embedding export", err_msg)
+            (out_dir / "clusters.json").write_text(
+                json.dumps({"error": err_msg, "stage": "ecapa_load"}, indent=2),
+                encoding="utf-8",
+            )
             return
 
         # Collect segments per speaker cluster from pyannote output
