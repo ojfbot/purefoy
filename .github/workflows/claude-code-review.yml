@@ -43,4 +43,4 @@ jobs:
             Use CLAUDE.md for project conventions.
             Post your complete review as a PR comment:
               gh pr comment ${{ github.event.inputs.pr_number }} --body "YOUR REVIEW HERE"
-          claude_args: '--allowed-tools "Bash(gh pr view:*),Bash(gh pr diff:*),Bash(gh pr comment:*),Bash(gh pr list:*),Bash(gh issue view:*),Bash(cat:*),Bash(head:*)"'
+          claude_args: '--allowed-tools "Bash(gh pr view:*),Bash(gh pr diff:*),Bash(gh pr comment:*),Bash(gh pr list:*),Bash(gh issue view:*),Bash(cat:*),Bash(head:*),Write,Read"'
