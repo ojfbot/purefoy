@@ -73,7 +73,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger("transcribe")
 
-PIPELINE_VERSION = "1.0.0"
+PIPELINE_VERSION = "2.0.0"
 
 
 # ---------------------------------------------------------------------------
@@ -106,6 +106,8 @@ class SegmentResult:
     end: float
     text: str
     speaker: str | None = None
+    segment_type: str = "content"  # "intro", "outro", "content"
+    chapter_id: int | None = None
     confidence: float = 0.0
     words: list[dict[str, Any]] = field(default_factory=list)
     topics: list[dict[str, Any]] = field(default_factory=list)
@@ -213,7 +215,9 @@ def get_system_info() -> dict[str, Any]:
         info["cuda_available"] = torch.cuda.is_available()
         if torch.cuda.is_available():
             info["cuda_device"] = torch.cuda.get_device_name(0)
-            info["cuda_memory_gb"] = round(torch.cuda.get_device_properties(0).total_mem / 1e9, 1)
+            props = torch.cuda.get_device_properties(0)
+            mem = getattr(props, "total_memory", None) or getattr(props, "total_mem", 0)
+            info["cuda_memory_gb"] = round(mem / 1e9, 1)
     except ImportError:
         info["torch_version"] = None
         info["cuda_available"] = False
@@ -266,7 +270,17 @@ def discover_episodes(
                     existing_type = "pipeline"
             except Exception:
                 pass
-        elif transcript_txt.exists():
+
+        if not has_existing:
+            runs_dir = entry / "transcript" / "runs"
+            if runs_dir.exists() and any(
+                r.is_dir() and (r / "transcript.json").exists()
+                for r in runs_dir.iterdir()
+            ):
+                has_existing = True
+                existing_type = "pipeline"
+
+        if not has_existing and transcript_txt.exists():
             txt = transcript_txt.read_text(encoding="utf-8", errors="replace")
             if "TRANSCRIPT PLACEHOLDER" in txt:
                 existing_type = "placeholder"
@@ -484,6 +498,11 @@ class TranscriptionEngine:
 
     def _load_diarization(self) -> None:
         try:
+            # torchaudio 2.10+ removed list_audio_backends(); pyannote 3.3 still calls it.
+            # Patch it back before the pyannote import.
+            import torchaudio as _ta
+            if not hasattr(_ta, "list_audio_backends"):
+                _ta.list_audio_backends = lambda: ["soundfile", "sox_io"]
             from pyannote.audio import Pipeline as PyannotePipeline
         except ImportError:
             logger.warning(
@@ -505,17 +524,23 @@ class TranscriptionEngine:
             return
 
         try:
+            import torch as _torch_dz
             logger.info("Loading speaker diarization model...")
             self._diarization_pipeline = PyannotePipeline.from_pretrained(
                 "pyannote/speaker-diarization-3.1",
-                use_auth_token=self.hf_token,
+                token=self.hf_token,
             )
-            logger.info("Diarization model loaded successfully")
+            # Move to GPU if available — reduces per-episode time from ~30 min to ~4 min
+            if _torch_dz.cuda.is_available():
+                self._diarization_pipeline.to(_torch_dz.device("cuda"))
+                logger.info("Diarization model loaded and moved to CUDA")
+            else:
+                logger.info("Diarization model loaded (CPU)")
         except Exception as e:
             logger.warning("Failed to load diarization model: %s — continuing without", e)
             self.diarize = False
 
-    def transcribe(self, audio_path: Path) -> tuple[list[SegmentResult], dict[str, Any]]:
+    def transcribe(self, audio_path: Path, embeddings_dir: Path | None = None) -> tuple[list[SegmentResult], dict[str, Any]]:
         """Transcribe an audio file. Returns (segments, info_dict)."""
         if self._model is None:
             raise RuntimeError("Model not loaded. Call load_model() first.")
@@ -525,7 +550,7 @@ class TranscriptionEngine:
         transcribe_kwargs: dict[str, Any] = {
             "word_timestamps": True,
             "vad_filter": True,
-            "vad_parameters": {"min_silence_duration_ms": 500, "speech_pad_ms": 200},
+            "vad_parameters": {"min_silence_duration_ms": 800, "speech_pad_ms": 200},
             "beam_size": self.beam_size,
             "compression_ratio_threshold": self.compression_ratio_threshold,
         }
@@ -572,7 +597,7 @@ class TranscriptionEngine:
         results = self._filter_hallucinations(results)
 
         if self.diarize and self._diarization_pipeline:
-            results = self._apply_diarization(audio_path, results)
+            results = self._apply_diarization(audio_path, results, embeddings_dir=embeddings_dir)
 
         return results, info_dict
 
@@ -612,18 +637,53 @@ class TranscriptionEngine:
 
         return filtered
 
-    def _apply_diarization(self, audio_path: Path, segments: list[SegmentResult]) -> list[SegmentResult]:
+    def _apply_diarization(
+        self,
+        audio_path: Path,
+        segments: list[SegmentResult],
+        embeddings_dir: Path | None = None,
+    ) -> list[SegmentResult]:
         """Apply speaker diarization labels to transcription segments."""
         if not self._diarization_pipeline:
             return segments
 
         try:
             logger.info("Running speaker diarization...")
-            diarization = self._diarization_pipeline(
-                str(audio_path),
+            # torchcodec on DLAMI PyTorch 2.10 can't find FFmpeg .so files, so
+            # pyannote can't load audio from a file path directly. Work around
+            # by converting to 16kHz mono WAV with the ffmpeg executable, loading
+            # with scipy.io.wavfile (no extra deps), and passing in-memory tensor.
+            import subprocess as _sp
+            import tempfile as _tf
+            import scipy.io.wavfile as _wfio
+            import torch as _torch
+            _audio_input: Any = None
+            with _tf.NamedTemporaryFile(suffix=".wav", delete=False) as _tmp:
+                _wav_path = _tmp.name
+            try:
+                _sp.run(
+                    ["ffmpeg", "-i", str(audio_path),
+                     "-ac", "1", "-ar", "16000", "-y", _wav_path],
+                    capture_output=True, check=True,
+                )
+                _sr, _data = _wfio.read(_wav_path)
+                _waveform = _torch.from_numpy(
+                    _data.astype("float32") / 32768.0
+                ).unsqueeze(0)
+                _audio_input = {"waveform": _waveform, "sample_rate": _sr}
+            finally:
+                Path(_wav_path).unlink(missing_ok=True)
+
+            if _audio_input is None:
+                raise RuntimeError("Audio WAV conversion failed — cannot diarize")
+
+            raw = self._diarization_pipeline(
+                _audio_input,
                 min_speakers=self.min_speakers,
                 max_speakers=self.max_speakers,
             )
+            # pyannote ≥ 4.0 wraps the Annotation in DiarizeOutput.speaker_diarization
+            diarization = getattr(raw, "speaker_diarization", raw)
 
             speaker_timeline: list[tuple[float, float, str]] = []
             for turn, _, speaker in diarization.itertracks(yield_label=True):
@@ -644,10 +704,139 @@ class TranscriptionEngine:
 
             logger.info("Diarization complete: %d speakers detected", len(speakers_found))
 
+            if embeddings_dir is not None:
+                self._export_speaker_embeddings(audio_path, diarization, embeddings_dir)
+
         except Exception as e:
             logger.warning("Diarization failed: %s — continuing without speaker labels", e)
 
         return segments
+
+    def _export_speaker_embeddings(
+        self,
+        audio_path: Path,
+        diarization: Any,
+        out_dir: Path,
+    ) -> None:
+        """Extract and save ECAPA-TDNN embedding per speaker cluster via ffmpeg + speechbrain."""
+        try:
+            import subprocess as _sp
+            import numpy as np
+            import torch
+            try:
+                from speechbrain.inference.classifiers import EncoderClassifier
+            except ImportError:
+                from speechbrain.pretrained import EncoderClassifier  # type: ignore[no-redef]
+        except ImportError:
+            logger.warning("speechbrain not installed — skipping speaker embedding export")
+            return
+
+        out_dir.mkdir(parents=True, exist_ok=True)
+
+        try:
+            classifier = EncoderClassifier.from_hparams(
+                source="speechbrain/spkrec-ecapa-voxceleb",
+                savedir=str(Path.home() / ".cache" / "speechbrain"),
+                run_opts={"device": "cpu"},
+            )
+        except Exception as e:
+            logger.warning("Failed to load ECAPA model: %s — skipping embedding export", e)
+            return
+
+        # Collect segments per speaker cluster from pyannote output
+        clusters: dict[str, dict[str, Any]] = {}
+        for turn, _, speaker in diarization.itertracks(yield_label=True):
+            if speaker not in clusters:
+                clusters[speaker] = {"segments": [], "total_duration": 0.0}
+            clusters[speaker]["segments"].append((turn.start, turn.end))
+            clusters[speaker]["total_duration"] += turn.end - turn.start
+
+        clusters_meta: dict[str, Any] = {}
+        for speaker, info in clusters.items():
+            try:
+                chunks: list[np.ndarray] = []
+                for start, end in info["segments"][:30]:  # cap at 30 chunks
+                    duration = end - start
+                    if duration < 0.5:
+                        continue
+                    cmd = [
+                        "ffmpeg", "-i", str(audio_path),
+                        "-ss", str(start), "-t", str(duration),
+                        "-ac", "1", "-ar", "16000", "-f", "f32le",
+                        "-loglevel", "quiet", "pipe:1",
+                    ]
+                    result = _sp.run(cmd, capture_output=True, timeout=30)
+                    if result.returncode == 0 and result.stdout:
+                        chunks.append(np.frombuffer(result.stdout, dtype=np.float32))
+
+                if not chunks:
+                    continue
+
+                audio_np = np.concatenate(chunks)
+                waveform = torch.from_numpy(audio_np).unsqueeze(0)
+                embedding = classifier.encode_batch(waveform)
+                embedding_np = embedding.squeeze().cpu().numpy()
+
+                emb_path = out_dir / f"{speaker}.npy"
+                np.save(str(emb_path), embedding_np)
+                clusters_meta[speaker] = {
+                    "duration_s": round(info["total_duration"], 2),
+                    "segment_count": len(info["segments"]),
+                    "embedding_path": emb_path.name,
+                }
+            except Exception as e:
+                logger.warning("Failed to export embedding for %s: %s", speaker, e)
+
+        (out_dir / "clusters.json").write_text(
+            json.dumps(clusters_meta, indent=2, ensure_ascii=False), encoding="utf-8"
+        )
+        logger.info("Speaker embeddings exported: %d clusters → %s", len(clusters_meta), out_dir)
+
+
+# ---------------------------------------------------------------------------
+# Segment annotation helpers
+# ---------------------------------------------------------------------------
+
+def tag_segment_types(
+    segments: list[SegmentResult],
+    intro_window_s: float = 90.0,
+    outro_window_s: float = 120.0,
+    total_duration_s: float = 0.0,
+) -> None:
+    """
+    Mark segments in intro/outro time windows in-place.
+
+    Segments whose end time falls within the first intro_window_s seconds are
+    tagged "intro". Segments whose start time falls within the last
+    outro_window_s seconds are tagged "outro". Everything else is "content".
+    total_duration_s is required for outro detection; if 0, outro is skipped.
+    """
+    for seg in segments:
+        if seg.end <= intro_window_s:
+            seg.segment_type = "intro"
+        elif total_duration_s > 0 and seg.start >= (total_duration_s - outro_window_s):
+            seg.segment_type = "outro"
+        # else: stays "content" (default)
+
+
+def _update_run_manifest(episode_dir: Path, run_id: str, meta: dict[str, Any]) -> None:
+    """Write or update transcript/run_manifest.json with the given run entry."""
+    manifest_path = episode_dir / "transcript" / "run_manifest.json"
+    try:
+        if manifest_path.exists():
+            data: dict[str, Any] = json.loads(manifest_path.read_text(encoding="utf-8"))
+        else:
+            data = {"canonical": run_id, "runs": []}
+
+        existing_ids = {r["run_id"] for r in data.get("runs", [])}
+        if run_id not in existing_ids:
+            data["runs"].append({"run_id": run_id, "created_at": now_iso(), **meta})
+        data["canonical"] = run_id
+
+        manifest_path.parent.mkdir(parents=True, exist_ok=True)
+        manifest_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+    except Exception as e:
+        logger.debug("Failed to update run manifest: %s", e)
 
 
 # ---------------------------------------------------------------------------
@@ -708,6 +897,8 @@ def write_transcript_json(
                 "end": s.end,
                 "text": s.text,
                 "speaker": s.speaker,
+                "segment_type": s.segment_type,
+                "chapter_id": s.chapter_id,
                 "confidence": s.confidence,
                 "words": s.words,
                 "topics": s.topics,
@@ -823,6 +1014,8 @@ def write_segments_jsonl(segments: list[SegmentResult], output_dir: Path) -> Pat
                 "end": seg.end,
                 "text": seg.text,
                 "speaker": seg.speaker,
+                "segment_type": seg.segment_type,
+                "chapter_id": seg.chapter_id,
                 "confidence": seg.confidence,
                 "topics": [t["topic"] for t in seg.topics] if seg.topics else [],
             }, ensure_ascii=False)
@@ -899,6 +1092,8 @@ def process_episode(
     engine: TranscriptionEngine,
     topic_tagger: Any | None,
     chapter_generator: Any | None = None,
+    run_id: str | None = None,
+    embed_speakers: bool = False,
 ) -> TranscriptionResult:
     """
     Process a single episode through the full pipeline.
@@ -908,6 +1103,12 @@ def process_episode(
     """
     result = TranscriptionResult(success=False, episode_dir=episode.dir_name)
     start_time = time.monotonic()
+
+    # Resolve output dir early so it is available in the finally block
+    if run_id:
+        output_dir = episode.dir_path / "transcript" / "runs" / run_id
+    else:
+        output_dir = episode.dir_path / "transcript"
 
     try:
         if not episode.audio_path.exists():
@@ -919,8 +1120,9 @@ def process_episode(
             result.error = f"Audio file too small ({file_size} bytes) — likely corrupt"
             return result
 
-        # Stage 1: Transcribe
-        segments, info_dict = engine.transcribe(episode.audio_path)
+        # Stage 1: Transcribe (with optional diarization + embedding export)
+        embeddings_dir = (output_dir / "speaker_embeddings") if (embed_speakers and engine.diarize) else None
+        segments, info_dict = engine.transcribe(episode.audio_path, embeddings_dir=embeddings_dir)
 
         result.language = info_dict.get("language")
         result.language_probability = info_dict.get("language_probability")
@@ -931,6 +1133,14 @@ def process_episode(
         if not segments:
             result.error = "Transcription produced zero segments"
             return result
+
+        # Stage 1b: Tag intro/outro time windows
+        tag_segment_types(segments, total_duration_s=result.total_audio_duration)
+        intro_count = sum(1 for s in segments if s.segment_type == "intro")
+        outro_count = sum(1 for s in segments if s.segment_type == "outro")
+        if intro_count or outro_count:
+            logger.info("Segment types tagged: %d intro, %d outro, %d content",
+                        intro_count, outro_count, len(segments) - intro_count - outro_count)
 
         # Stage 2: Topic tagging
         topic_summary: dict[str, Any] = {"topics": [], "films_mentioned": []}
@@ -981,11 +1191,19 @@ def process_episode(
                     chapter_set.chapter_count,
                     info_dict.get("duration", 0) / max(chapter_set.chapter_count, 1),
                 )
+                # Backfill chapter_id on each segment using chapter.segment_range
+                for ch in chapter_set.chapters:
+                    lo, hi = ch.segment_range
+                    for i in range(lo, hi + 1):
+                        if i < len(segments):
+                            segments[i].chapter_id = ch.index
             except Exception as e:
                 logger.warning("Chapter generation failed: %s — continuing without", e)
 
         # Stage 5: Write outputs
-        output_dir = episode.dir_path / "transcript"
+        # output_dir was resolved above (supports --run-id for multi-run layout)
+        # sources.json stays in the base transcript/ dir (episode-level provenance)
+        base_transcript_dir = episode.dir_path / "transcript"
         engine_config = {
             "model_size": engine.model_size,
             "device": engine.device,
@@ -996,7 +1214,7 @@ def process_episode(
         write_transcript_json(episode, segments, info_dict, topic_summary, engine_config, output_dir, chapter_set)
         write_transcript_txt(episode, segments, info_dict, output_dir, chapter_set)
         write_segments_jsonl(segments, output_dir)
-        update_sources_json(output_dir, engine_config, now_iso())
+        update_sources_json(base_transcript_dir, engine_config, now_iso())
 
         if chapter_set is not None and chapter_set.chapter_count > 0:
             try:
@@ -1015,6 +1233,14 @@ def process_episode(
 
         result.success = True
         logger.info("✓ %s — %d segments, %d words", episode.dir_name, len(segments), result.word_count)
+
+        if run_id:
+            _update_run_manifest(episode.dir_path, run_id, {
+                "whisper_model": engine.model_size,
+                "diarization": engine.diarize,
+                "speaker_embeddings": embed_speakers and engine.diarize,
+                "pipeline_version": PIPELINE_VERSION,
+            })
 
     except MemoryError:
         result.error = (
@@ -1036,7 +1262,7 @@ def process_episode(
     finally:
         result.processing_time_seconds = time.monotonic() - start_time
         try:
-            write_extraction_report(episode, result, episode.dir_path / "transcript")
+            write_extraction_report(episode, result, output_dir)
         except Exception as e:
             logger.debug("Failed to write extraction report: %s", e)
 
@@ -1164,7 +1390,11 @@ def run_pipeline(args: argparse.Namespace) -> BatchReport:
             sep, i, len(episodes), episode.dir_name, episode.title or "(no title)", dur_str, sep,
         )
 
-        result = process_episode(episode, engine, topic_tagger, chapter_generator)
+        result = process_episode(
+            episode, engine, topic_tagger, chapter_generator,
+            run_id=getattr(args, "run_id", None),
+            embed_speakers=getattr(args, "embed_speakers", False),
+        )
 
         if result.success:
             report.total_succeeded += 1
@@ -1291,6 +1521,11 @@ Requirements:
 
     p.add_argument("--diarize", action="store_true")
     p.add_argument("--hf-token", default=None)
+    p.add_argument("--run-id", default=None,
+                   help="Versioned run identifier. Output goes to transcript/runs/{run-id}/. "
+                        "If omitted, writes to transcript/ (legacy mode).")
+    p.add_argument("--embed-speakers", action="store_true",
+                   help="Export ECAPA-TDNN speaker embeddings per cluster (requires --diarize).")
     p.add_argument("--min-speakers", type=int, default=2)
     p.add_argument("--max-speakers", type=int, default=4)
     p.add_argument("--cpu-threads", type=int, default=0,
