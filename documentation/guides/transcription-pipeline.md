@@ -1,8 +1,10 @@
 # Podcast Transcription Pipeline
 
 **Created:** 2026-02-28
-**Status:** Implementation Ready
-**ADR:** [ADR-004](../../decisions/adr/ADR-004-transcription-pipeline.md)
+**Updated:** 2026-03-04 (v2.0.0 — multi-run layout, inline diarization, intro/outro tagging)
+**Status:** Active
+**ADR:** [ADR-004](../../decisions/adr/ADR-004-transcription-pipeline.md), [ADR-005](../../decisions/adr/ADR-005-transcription-optimization.md)
+**Progress:** [transcription-batch-status.md](./transcription-batch-status.md)
 
 ---
 
@@ -19,14 +21,15 @@ Scripts live in `scripts/tools/`.
 ## Architecture
 
 ```
-Discovery → Transcription → Topic Tagging → Chapter Detection → Output → Reporting
-    ↓            ↓               ↓               ↓                ↓          ↓
- Find MPs    faster-whisper   Forum corpus   Sliding-window    JSON/TXT  Gap report
- needing     word timestamps  keyword match  TF-IDF coherence   per-ep    batch log
- work        segment times    TF-IDF         + 4 aux signals
+Discovery → Transcription → Diarization → Seg Tagging → Chapter Detection → Output → Reporting
+    ↓            ↓               ↓             ↓               ↓               ↓          ↓
+ Find eps    faster-whisper  pyannote.audio  intro/outro    Sliding-window  runs/{id}  Gap report
+ needing     large-v3 GPU    speaker labels  time windows   TF-IDF coherence JSON/TXT   manifest
+ work        float16 CUDA    CUDA (4 min/ep) + chapter_id   + 4 aux signals  per-run    batch log
 ```
 
-Diarization (optional, via pyannote.audio) runs between Transcription and Topic Tagging.
+v2.0.0 runs diarization **inline** (not post-processing) so audio is read once. Each run lands in
+`transcript/runs/{run_id}/` — multiple runs per episode are supported and tracked via `run_manifest.json`.
 
 ### Design Principles
 
@@ -110,29 +113,42 @@ python scripts/tools/chapter_generator.py downloads/S02E169_.../transcript/trans
 
 ## Output Schema
 
-### Per-Episode Output
+### Per-Episode Output (v2.0.0 — multi-run layout)
 
 ```
-downloads/<episode>/transcript/
-├── transcript.json              ← primary: timecoded segments, topics, chapters, stats
-├── transcript.txt               ← human-readable with timecodes and chapter markers
-├── transcript_segments.jsonl    ← streaming: one JSON object per segment
-├── extraction_report.json       ← pipeline provenance and diagnostics
-├── chapters.json                ← Purefoy internal chapter format
-├── chapters_podcastns.json      ← Podcasting 2.0 JSON Chapters spec
-├── chapters.txt                 ← human-readable chapter list
-└── chapters.ffmeta              ← FFmpeg metadata (embeddable into MP3)
+downloads/<episode>/
+├── audio.mp3
+├── metadata.json
+└── transcript/
+    ├── run_manifest.json              ← canonical pointer + run history
+    └── runs/
+        └── run_20260304__larg__dz/   ← one directory per pipeline run
+            ├── transcript.json        ← primary: timecoded segments, topics, chapters
+            ├── transcript.txt         ← human-readable with timecodes + chapter markers
+            ├── transcript_segments.jsonl  ← streaming: one segment per line
+            ├── extraction_report.json ← pipeline provenance and diagnostics
+            ├── chapters.json          ← Purefoy internal chapter format
+            ├── chapters_podcastns.json ← Podcasting 2.0 JSON Chapters spec
+            ├── chapters.txt           ← human-readable chapter list
+            ├── chapters.ffmeta        ← FFmpeg metadata (embeddable into MP3)
+            └── speaker_embeddings/    ← present if --embed-speakers
+                ├── SPEAKER_00.npy     ← ECAPA-TDNN embedding for this cluster
+                ├── SPEAKER_01.npy
+                └── clusters.json      ← {SPEAKER_XX: {duration_s, segment_count}}
 ```
 
-### `transcript.json` Structure
+**run_id format:** `run_{YYYYMMDDHHMMSS}__{model4}__{dz|nd}`
+e.g. `run_20260304203440__larg__dz` = large-v3, diarized, 2026-03-04 20:34 UTC.
+
+### `transcript.json` Structure (v2.0.0)
 
 ```json
 {
   "meta": {
     "episode_title": "EDGAR WRIGHT - Director",
     "audio_duration_seconds": 4213.5,
-    "transcribed_at": "2026-02-28T12:00:00Z",
-    "pipeline_version": "1.0.0",
+    "transcribed_at": "2026-03-04T12:00:00Z",
+    "pipeline_version": "2.0.0",
     "whisper_model": "large-v3",
     "language": "en",
     "language_probability": 0.98
@@ -140,7 +156,7 @@ downloads/<episode>/transcript/
   "statistics": {
     "total_segments": 342,
     "total_words": 14500,
-    "speakers_detected": 2,
+    "speakers_detected": 3,
     "topics_tagged": 18,
     "chapters_generated": 8
   },
@@ -152,6 +168,8 @@ downloads/<episode>/transcript/
       "end": 4.52,
       "text": "Welcome to Team Deakins.",
       "speaker": "SPEAKER_00",
+      "segment_type": "intro",
+      "chapter_id": null,
       "confidence": 0.95,
       "words": [{"word": "Welcome", "start": 0.0, "end": 0.42, "probability": 0.98}],
       "topics": [{"topic": "storytelling", "confidence": 0.6, "keywords_matched": [...]}],
@@ -162,6 +180,11 @@ downloads/<episode>/transcript/
   "films_summary": [...]
 }
 ```
+
+**New fields in v2.0.0:**
+- `segment_type` — `"intro"` (first 90s), `"outro"` (last 120s), or `"content"` (everything else)
+- `chapter_id` — index of the chapter this segment belongs to; `null` for intro/outro segments
+- `pipeline_version: "2.0.0"`
 
 ---
 
