@@ -18,6 +18,7 @@ Idiom primer for Python-testing newcomers:
 
 import json
 import re
+import subprocess
 import sys
 from pathlib import Path
 from unittest.mock import MagicMock, patch
@@ -460,3 +461,462 @@ class TestUpdateSgSshRule:
             assert mock_aws.call_count == 0, (
                 "If IP lookup fails, no AWS calls should be made"
             )
+
+
+# ===========================================================================
+# _launch_detached — detached SSH process launch
+# ===========================================================================
+
+class TestLaunchDetached:
+    """
+    _launch_detached() sends a nohup command to the remote host and returns
+    the remote PID as a string.  The job must survive SSH disconnect.
+    """
+
+    def _make_worker(self) -> aws_runner.RemoteWorker:
+        return aws_runner.RemoteWorker(host="1.2.3.4", key_path=Path("/tmp/test.pem"))
+
+    def test_returns_pid_on_success(self):
+        """When SSH launches the job and echoes a numeric PID, the PID string is returned."""
+        worker = self._make_worker()
+        with patch.object(worker, "_ssh", side_effect=[
+            (0, "", ""),         # mkdir -p log dir
+            (0, "12345\n", ""),  # nohup ... & echo $!
+        ]):
+            pid = worker._launch_detached("echo hello", "/tmp/test.log")
+        assert pid == "12345", f"Expected '12345', got '{pid!r}'"
+
+    def test_raises_runtime_error_on_nonzero_ssh_exit(self):
+        """When SSH returns a non-zero exit code on launch, RuntimeError is raised."""
+        worker = self._make_worker()
+        with patch.object(worker, "_ssh", side_effect=[
+            (0, "", ""),                   # mkdir
+            (1, "", "permission denied"),  # launch fails
+        ]):
+            with pytest.raises(RuntimeError, match="Failed to launch"):
+                worker._launch_detached("echo hello", "/tmp/test.log")
+
+    def test_raises_runtime_error_when_stdout_is_not_a_digit(self):
+        """
+        If SSH exits 0 but stdout is non-numeric (e.g. 'nohup: ignoring input'),
+        the PID is ambiguous — RuntimeError must be raised.
+        """
+        worker = self._make_worker()
+        with patch.object(worker, "_ssh", side_effect=[
+            (0, "", ""),
+            (0, "nohup: ignoring input\n", ""),
+        ]):
+            with pytest.raises(RuntimeError, match="Failed to launch"):
+                worker._launch_detached("echo hello", "/tmp/test.log")
+
+    def test_mkdir_is_called_before_nohup_launch(self):
+        """
+        The log directory must be created before nohup redirects stdout there —
+        otherwise nohup will fail trying to open a non-existent directory.
+        """
+        worker = self._make_worker()
+        calls = []
+
+        def track(cmd, **kw):
+            calls.append(cmd)
+            return (0, "99\n", "") if len(calls) > 1 else (0, "", "")
+
+        with patch.object(worker, "_ssh", side_effect=track):
+            worker._launch_detached("my_cmd", "/tmp/logs/ep.log")
+
+        assert len(calls) >= 2, "Expected at least 2 SSH calls"
+        assert "mkdir" in calls[0], (
+            f"First SSH call must create the log dir via mkdir, got: {calls[0]!r}"
+        )
+
+    def test_launch_command_uses_nohup_and_echoes_pid(self):
+        """
+        The remote command must be wrapped with nohup and '& echo $!' so it
+        survives SSH disconnect and the caller can poll the specific PID.
+        """
+        worker = self._make_worker()
+        launch_cmd = None
+
+        def capture(cmd, **kw):
+            nonlocal launch_cmd
+            if "nohup" in cmd:
+                launch_cmd = cmd
+                return (0, "42\n", "")
+            return (0, "", "")
+
+        with patch.object(worker, "_ssh", side_effect=capture):
+            worker._launch_detached("my_transcribe_cmd", "/tmp/logs/ep.log")
+
+        assert launch_cmd is not None, "No nohup command was sent to the remote"
+        assert "nohup" in launch_cmd, "Command must use nohup to survive disconnect"
+        assert "echo $!" in launch_cmd, "Command must echo the PID after '&'"
+
+
+# ===========================================================================
+# _poll_until_done — heartbeat loop watching for remote job completion
+# ===========================================================================
+
+class TestPollUntilDone:
+    """
+    _poll_until_done() polls the remote host every poll_interval seconds until
+    the done marker file appears.  It handles transient SSH failures with
+    exponential backoff and raises TimeoutError if the deadline is exceeded.
+    """
+
+    def _make_worker(self) -> aws_runner.RemoteWorker:
+        return aws_runner.RemoteWorker(host="1.2.3.4", key_path=Path("/tmp/test.pem"))
+
+    def test_returns_when_done_marker_found_on_first_poll(self):
+        """Happy path: done marker exists on the first poll → return immediately."""
+        worker = self._make_worker()
+        with patch.object(worker, "_ssh", return_value=(0, "", "")), \
+             patch("time.sleep"), \
+             patch("time.monotonic", return_value=0.0):
+            # Does not raise
+            worker._poll_until_done("/tmp/done", "123", "ep", "/tmp/ep.log",
+                                    timeout=3600, poll_interval=1)
+
+    def test_keeps_polling_until_done_marker_appears(self):
+        """
+        If the done marker is absent for the first two polls but present on the third,
+        the method must keep waiting and return normally (not raise).
+        """
+        worker = self._make_worker()
+        # 2 miss cycles (marker absent, PID alive) then 1 hit
+        ssh_responses = [
+            (1, "", ""),  # poll 1: test -f → absent
+            (0, "", ""),  # poll 1: kill -0 → alive
+            (1, "", ""),  # poll 2: test -f → absent
+            (0, "", ""),  # poll 2: kill -0 → alive
+            (0, "", ""),  # poll 3: test -f → found!
+        ]
+        with patch.object(worker, "_ssh", side_effect=ssh_responses), \
+             patch("time.sleep"), \
+             patch("time.monotonic", return_value=0.0):
+            worker._poll_until_done("/tmp/done", "123", "ep", "/tmp/ep.log",
+                                    timeout=3600, poll_interval=1)
+
+    def test_raises_runtime_error_when_process_dies_without_marker(self):
+        """
+        If kill -0 fails (process is gone) but the done marker was never written,
+        the transcription crashed — RuntimeError must be raised.
+        """
+        worker = self._make_worker()
+        ssh_responses = [
+            (1, "", ""),            # test -f → absent
+            (1, "", ""),            # kill -0 → process gone
+            (0, "CRASH LOG\n", ""), # tail -40 for diagnosis
+        ]
+        with patch.object(worker, "_ssh", side_effect=ssh_responses), \
+             patch("time.sleep"), \
+             patch("time.monotonic", return_value=0.0):
+            with pytest.raises(RuntimeError, match="exited without writing"):
+                worker._poll_until_done("/tmp/done", "123", "ep", "/tmp/ep.log",
+                                        timeout=3600, poll_interval=1)
+
+    def test_runtime_error_includes_log_tail_for_diagnosis(self):
+        """
+        The RuntimeError message must embed the last log lines so the operator
+        can diagnose the failure without manually SSH-ing to the (now dead) instance.
+        """
+        worker = self._make_worker()
+        ssh_responses = [
+            (1, "", ""),
+            (1, "", ""),
+            (0, "CUDA OOM at segment 412\n", ""),
+        ]
+        with patch.object(worker, "_ssh", side_effect=ssh_responses), \
+             patch("time.sleep"), \
+             patch("time.monotonic", return_value=0.0):
+            with pytest.raises(RuntimeError) as exc_info:
+                worker._poll_until_done("/tmp/done", "123", "ep", "/tmp/ep.log",
+                                        timeout=3600, poll_interval=1)
+        assert "CUDA OOM at segment 412" in str(exc_info.value), (
+            "RuntimeError must include the remote log tail for diagnosis"
+        )
+
+    def test_raises_timeout_error_when_deadline_exceeded(self):
+        """
+        If the episode hasn't finished within `timeout` seconds, TimeoutError is raised.
+        The job may still be running — this is distinct from RuntimeError (job crashed).
+        """
+        worker = self._make_worker()
+        # First monotonic() call sets deadline (0 + 3600 = 3600).
+        # Second call (while condition) returns 3601 → loop body never executes.
+        with patch.object(worker, "_ssh", return_value=(1, "", "")), \
+             patch("time.sleep"), \
+             patch("time.monotonic", side_effect=[0.0, 3601.0]):
+            with pytest.raises(TimeoutError):
+                worker._poll_until_done("/tmp/done", "123", "ep", "/tmp/ep.log",
+                                        timeout=3600, poll_interval=1)
+
+    def test_timeout_error_includes_ssh_recovery_command(self):
+        """
+        The TimeoutError message must include a full 'ssh ... tail -100 <log>' command
+        so the operator knows exactly how to inspect what's happening remotely.
+        """
+        worker = self._make_worker()
+        with patch.object(worker, "_ssh", return_value=(1, "", "")), \
+             patch("time.sleep"), \
+             patch("time.monotonic", side_effect=[0.0, 9999.0]):
+            with pytest.raises(TimeoutError) as exc_info:
+                worker._poll_until_done("/tmp/done", "123", "ep", "/tmp/ep.log",
+                                        timeout=3600, poll_interval=1)
+        msg = str(exc_info.value)
+        assert "ssh" in msg.lower(), "TimeoutError must include an ssh recovery command"
+        assert "/tmp/ep.log" in msg, "TimeoutError must name the log file path"
+
+    def test_exponential_backoff_after_ssh_timeout(self):
+        """
+        Transient SSH timeouts (network blip, lid close) must trigger exponential
+        backoff so the polling doesn't hammer a temporarily unreachable host.
+        First backoff is 30s; second is 60s (2×).
+        """
+        worker = self._make_worker()
+        sleep_calls: list[float] = []
+
+        def fake_sleep(secs):
+            sleep_calls.append(secs)
+
+        call_count = [0]
+
+        def flaky_ssh(cmd, **kw):
+            call_count[0] += 1
+            if call_count[0] <= 2:
+                raise subprocess.TimeoutExpired(cmd="ssh", timeout=15)
+            return (0, "", "")  # done marker found on 3rd call
+
+        with patch.object(worker, "_ssh", side_effect=flaky_ssh), \
+             patch("time.sleep", side_effect=fake_sleep), \
+             patch("time.monotonic", return_value=0.0):
+            worker._poll_until_done("/tmp/done", "123", "ep", "/tmp/ep.log",
+                                    timeout=999999, poll_interval=1)
+
+        backoff_sleeps = [s for s in sleep_calls if s > 1]
+        assert 30 in backoff_sleeps, (
+            f"First SSH timeout must trigger 30s backoff; got sleeps: {sleep_calls}"
+        )
+        assert 60 in backoff_sleeps, (
+            f"Second SSH timeout must trigger 60s backoff (2×30); got sleeps: {sleep_calls}"
+        )
+
+    def test_backoff_is_capped_at_600_seconds(self):
+        """
+        After many consecutive SSH timeouts the backoff must not grow beyond 600s —
+        otherwise the operator waits too long between status updates.
+        """
+        worker = self._make_worker()
+        sleep_calls: list[float] = []
+
+        def fake_sleep(secs):
+            sleep_calls.append(secs)
+
+        call_count = [0]
+
+        def mostly_flaky_ssh(cmd, **kw):
+            call_count[0] += 1
+            if call_count[0] <= 15:
+                raise subprocess.TimeoutExpired(cmd="ssh", timeout=15)
+            return (0, "", "")  # eventually done
+
+        with patch.object(worker, "_ssh", side_effect=mostly_flaky_ssh), \
+             patch("time.sleep", side_effect=fake_sleep), \
+             patch("time.monotonic", return_value=0.0):
+            worker._poll_until_done("/tmp/done", "123", "ep", "/tmp/ep.log",
+                                    timeout=999999, poll_interval=1)
+
+        assert max(sleep_calls) <= 600, (
+            f"Backoff must be capped at 600s; got max={max(sleep_calls)}: {sleep_calls}"
+        )
+
+
+# ===========================================================================
+# process_episode — reconnect and error-handling behaviour
+# ===========================================================================
+
+class TestProcessEpisodeReconnect:
+    """
+    process_episode() must handle the reconnect scenario (done marker already on
+    remote) and must NOT delete remote data when the job monitoring fails, since
+    partial results may be recoverable.
+    """
+
+    def _make_worker(self, run_id: str = "run_20260304__larg__dz") -> aws_runner.RemoteWorker:
+        return aws_runner.RemoteWorker(
+            host="1.2.3.4",
+            key_path=Path("/tmp/test.pem"),
+            run_id=run_id,
+            diarize=True,
+        )
+
+    def test_skips_transcription_when_done_marker_exists_on_remote(self, tmp_path):
+        """
+        Reconnect scenario: we lost SSH mid-episode but the remote job finished.
+        process_episode() must detect the done marker and NOT re-launch the job.
+        """
+        worker = self._make_worker()
+        ep = _ep(tmp_path, "S02E001__test")
+
+        with patch.object(worker, "_ssh", return_value=(0, "", "")), \
+             patch.object(worker, "_rsync_down"), \
+             patch.object(worker, "_launch_detached") as mock_launch, \
+             patch.object(worker, "_finish_local"):
+            worker.process_episode(ep, tmp_path)
+
+        assert mock_launch.call_count == 0, (
+            "_launch_detached must NOT be called when done marker already exists on remote; "
+            "re-launching would overwrite the completed transcript"
+        )
+
+    def test_rsyncs_results_on_reconnect(self, tmp_path):
+        """On reconnect, rsync must still be called to retrieve the remote results."""
+        worker = self._make_worker()
+        ep = _ep(tmp_path, "S02E001__test")
+
+        with patch.object(worker, "_ssh", return_value=(0, "", "")), \
+             patch.object(worker, "_rsync_down") as mock_rsync, \
+             patch.object(worker, "_launch_detached"), \
+             patch.object(worker, "_finish_local"):
+            worker.process_episode(ep, tmp_path)
+
+        assert mock_rsync.call_count >= 1, (
+            "_rsync_down must be called on reconnect to retrieve the finished transcript"
+        )
+
+    def test_remote_dir_is_not_deleted_on_timeout_error(self, tmp_path):
+        """
+        On TimeoutError (job still running), the remote episode directory must be
+        preserved — the job may finish later and can be recovered via --hosts <ip> --skip-setup.
+        """
+        worker = self._make_worker()
+        ep = _ep(tmp_path, "S02E001__test")
+        cleanup_calls: list[str] = []
+
+        def mock_ssh(cmd, **kw):
+            if "rm -rf" in cmd:
+                cleanup_calls.append(cmd)
+            if "test -f" in cmd:
+                return (1, "", "")  # not done yet
+            return (0, "", "")
+
+        with patch.object(worker, "_ssh", side_effect=mock_ssh), \
+             patch.object(worker, "_rsync_up"), \
+             patch.object(worker, "_launch_detached", return_value="999"), \
+             patch.object(worker, "_poll_until_done",
+                          side_effect=TimeoutError("timed out")):
+            success, _ = worker.process_episode(ep, tmp_path)
+
+        assert success is False
+        assert not cleanup_calls, (
+            "Remote dir must NOT be deleted on TimeoutError — "
+            "job may still be running and results are recoverable"
+        )
+
+    def test_remote_dir_is_not_deleted_on_runtime_error(self, tmp_path):
+        """
+        On RuntimeError (remote job crashed), the remote directory must be preserved
+        so partial transcripts can be manually inspected or recovered.
+        """
+        worker = self._make_worker()
+        ep = _ep(tmp_path, "S02E001__test")
+        cleanup_calls: list[str] = []
+
+        def mock_ssh(cmd, **kw):
+            if "rm -rf" in cmd:
+                cleanup_calls.append(cmd)
+            if "test -f" in cmd:
+                return (1, "", "")
+            return (0, "", "")
+
+        with patch.object(worker, "_ssh", side_effect=mock_ssh), \
+             patch.object(worker, "_rsync_up"), \
+             patch.object(worker, "_launch_detached", return_value="999"), \
+             patch.object(worker, "_poll_until_done",
+                          side_effect=RuntimeError("remote job exited")):
+            success, _ = worker.process_episode(ep, tmp_path)
+
+        assert success is False
+        assert not cleanup_calls, (
+            "Remote dir must NOT be deleted on RuntimeError — "
+            "partial results may be recoverable manually"
+        )
+
+    def test_done_marker_path_includes_run_id_when_set(self, tmp_path):
+        """
+        With a run_id set, the done marker must live inside runs/{run_id}/ so
+        each versioned run has its own independent completion signal.
+        """
+        run_id = "run_20260304__larg__dz"
+        worker = self._make_worker(run_id=run_id)
+        ep = _ep(tmp_path, "S02E001__test")
+        checked_paths: list[str] = []
+
+        def track_ssh(cmd, **kw):
+            if "test -f" in cmd:
+                checked_paths.append(cmd)
+            return (1, "", "")  # force early exit via mkdir failure
+
+        with patch.object(worker, "_ssh", side_effect=track_ssh), \
+             patch.object(worker, "_rsync_up", side_effect=Exception("bail")):
+            worker.process_episode(ep, tmp_path)
+
+        assert checked_paths, "No 'test -f' SSH call was made"
+        assert run_id in checked_paths[0], (
+            f"Done marker path must include run_id '{run_id}'; got: {checked_paths[0]!r}"
+        )
+
+    def test_done_marker_path_without_run_id_uses_legacy_location(self, tmp_path):
+        """
+        Without a run_id (legacy mode), the done marker falls back to
+        transcript/extraction_report.json rather than a versioned runs/ path.
+        """
+        worker = self._make_worker(run_id="")
+        ep = _ep(tmp_path, "S02E001__test")
+        checked_paths: list[str] = []
+
+        def track_ssh(cmd, **kw):
+            if "test -f" in cmd:
+                checked_paths.append(cmd)
+            return (1, "", "")
+
+        with patch.object(worker, "_ssh", side_effect=track_ssh), \
+             patch.object(worker, "_rsync_up", side_effect=Exception("bail")):
+            worker.process_episode(ep, tmp_path)
+
+        assert checked_paths, "No 'test -f' SSH call was made"
+        assert "runs/" not in checked_paths[0], (
+            f"Without run_id, done marker must NOT be inside a runs/ dir; "
+            f"got: {checked_paths[0]!r}"
+        )
+        assert "extraction_report.json" in checked_paths[0]
+
+    def test_finish_local_writes_run_manifest_when_run_id_is_set(self, tmp_path):
+        """
+        _finish_local() must update run_manifest.json when run_id is set —
+        this is how the local machine tracks which runs have been completed.
+        """
+        ep = _ep(tmp_path, "S02E001__test")
+        (ep / "transcript").mkdir()
+        worker = self._make_worker(run_id="run_20260304__larg__dz")
+
+        worker._finish_local(tmp_path, ep.name, "large-v3")
+
+        manifest = ep / "transcript" / "run_manifest.json"
+        assert manifest.exists(), "_finish_local must create run_manifest.json"
+        data = json.loads(manifest.read_text())
+        assert data["canonical"] == "run_20260304__larg__dz"
+
+    def test_finish_local_is_noop_without_run_id(self, tmp_path):
+        """
+        Without a run_id (legacy mode), _finish_local() must be a no-op —
+        no manifest is written and no exception is raised.
+        """
+        ep = _ep(tmp_path, "S02E001__test")
+        worker = self._make_worker(run_id="")
+
+        worker._finish_local(tmp_path, ep.name, "large-v3")
+
+        manifest = ep / "transcript" / "run_manifest.json"
+        assert not manifest.exists(), (
+            "_finish_local must not create run_manifest.json when run_id is empty (legacy mode)"
+        )
