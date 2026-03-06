@@ -294,6 +294,30 @@ class TestExportSpeakerEmbeddingsErrorHandling:
     These tests verify the fixes without importing torch or speechbrain.
     """
 
+    def _mock_heavy_deps(self, monkeypatch, ecapa_side_effect=None):
+        """
+        Inject fake numpy, torch, and speechbrain into sys.modules so that
+        _export_speaker_embeddings() passes the outer `except ImportError` guard.
+
+        Without this, numpy/torch (not installed in the Python 3.13 test env)
+        trigger the early-return before any speechbrain code runs.
+        """
+        import types
+        from unittest.mock import MagicMock
+
+        monkeypatch.setitem(sys.modules, "numpy", types.ModuleType("numpy"))
+        monkeypatch.setitem(sys.modules, "torch", MagicMock())
+
+        fake_sb_cls = MagicMock()
+        if ecapa_side_effect is not None:
+            fake_sb_cls.from_hparams.side_effect = ecapa_side_effect
+        fake_classifiers = types.ModuleType("speechbrain.inference.classifiers")
+        fake_classifiers.EncoderClassifier = fake_sb_cls
+        monkeypatch.setitem(sys.modules, "speechbrain", types.ModuleType("speechbrain"))
+        monkeypatch.setitem(sys.modules, "speechbrain.inference", types.ModuleType("speechbrain.inference"))
+        monkeypatch.setitem(sys.modules, "speechbrain.inference.classifiers", fake_classifiers)
+        return fake_sb_cls
+
     def _make_engine(self, tmp_path):
         """Return a TranscriptionEngine with diarize=True and a fake pipeline."""
         engine = te.TranscriptionEngine.__new__(te.TranscriptionEngine)
@@ -323,28 +347,7 @@ class TestExportSpeakerEmbeddingsErrorHandling:
         that request.
         """
         monkeypatch.setattr(Path, "home", lambda: tmp_path)
-
-        # Make from_hparams raise immediately to isolate stub-creation logic
-        import unittest.mock as mock
-        with mock.patch("transcribe_episodes.EncoderClassifier") as mock_cls:
-            mock_cls.from_hparams.side_effect = RuntimeError("boom")
-            with mock.patch("builtins.__import__", side_effect=lambda n, *a, **k: (
-                __import__(n, *a, **k) if n not in ("speechbrain", "speechbrain.inference.classifiers")
-                else type(sys)("speechbrain")
-            )):
-                pass  # can't easily mock the internal import; test via filesystem only
-
-        # Call _export_speaker_embeddings with speechbrain mocked at sys.modules level
-        import types, importlib
-        fake_sb_cls = mock.MagicMock()
-        fake_sb_cls.from_hparams.side_effect = RuntimeError("intentional")
-        fake_sb_module = types.ModuleType("speechbrain")
-        fake_inference = types.ModuleType("speechbrain.inference")
-        fake_classifiers = types.ModuleType("speechbrain.inference.classifiers")
-        fake_classifiers.EncoderClassifier = fake_sb_cls
-        monkeypatch.setitem(sys.modules, "speechbrain", fake_sb_module)
-        monkeypatch.setitem(sys.modules, "speechbrain.inference", fake_inference)
-        monkeypatch.setitem(sys.modules, "speechbrain.inference.classifiers", fake_classifiers)
+        self._mock_heavy_deps(monkeypatch, ecapa_side_effect=RuntimeError("intentional"))
 
         out_dir = tmp_path / "speaker_embeddings"
         out_dir.mkdir()
@@ -366,15 +369,7 @@ class TestExportSpeakerEmbeddingsErrorHandling:
         existing = cache_dir / "custom.py"
         existing.write_text("# existing content", encoding="utf-8")
 
-        import types
-        from unittest.mock import MagicMock
-        fake_sb_cls = MagicMock()
-        fake_sb_cls.from_hparams.side_effect = RuntimeError("stop")
-        fake_classifiers = types.ModuleType("speechbrain.inference.classifiers")
-        fake_classifiers.EncoderClassifier = fake_sb_cls
-        monkeypatch.setitem(sys.modules, "speechbrain", types.ModuleType("speechbrain"))
-        monkeypatch.setitem(sys.modules, "speechbrain.inference", types.ModuleType("speechbrain.inference"))
-        monkeypatch.setitem(sys.modules, "speechbrain.inference.classifiers", fake_classifiers)
+        self._mock_heavy_deps(monkeypatch, ecapa_side_effect=RuntimeError("stop"))
 
         out_dir = tmp_path / "speaker_embeddings"
         out_dir.mkdir()
@@ -391,17 +386,9 @@ class TestExportSpeakerEmbeddingsErrorHandling:
         Now it must write clusters.json with diagnostic info so failures are
         visible without SSH access to the EC2 instance.
         """
-        import json as _json, types
-        from unittest.mock import MagicMock
-
+        import json as _json
         monkeypatch.setattr(Path, "home", lambda: tmp_path)
-        fake_sb_cls = MagicMock()
-        fake_sb_cls.from_hparams.side_effect = RuntimeError("model not found")
-        fake_classifiers = types.ModuleType("speechbrain.inference.classifiers")
-        fake_classifiers.EncoderClassifier = fake_sb_cls
-        monkeypatch.setitem(sys.modules, "speechbrain", types.ModuleType("speechbrain"))
-        monkeypatch.setitem(sys.modules, "speechbrain.inference", types.ModuleType("speechbrain.inference"))
-        monkeypatch.setitem(sys.modules, "speechbrain.inference.classifiers", fake_classifiers)
+        self._mock_heavy_deps(monkeypatch, ecapa_side_effect=RuntimeError("model not found"))
 
         out_dir = tmp_path / "speaker_embeddings"
         out_dir.mkdir()
@@ -419,17 +406,9 @@ class TestExportSpeakerEmbeddingsErrorHandling:
 
     def test_clusters_json_error_includes_exception_type_and_message(self, tmp_path, monkeypatch):
         """The error field must be human-readable, not just a generic 'error'."""
-        import json as _json, types
-        from unittest.mock import MagicMock
-
+        import json as _json
         monkeypatch.setattr(Path, "home", lambda: tmp_path)
-        fake_sb_cls = MagicMock()
-        fake_sb_cls.from_hparams.side_effect = RuntimeError("model not found")
-        fake_classifiers = types.ModuleType("speechbrain.inference.classifiers")
-        fake_classifiers.EncoderClassifier = fake_sb_cls
-        monkeypatch.setitem(sys.modules, "speechbrain", types.ModuleType("speechbrain"))
-        monkeypatch.setitem(sys.modules, "speechbrain.inference", types.ModuleType("speechbrain.inference"))
-        monkeypatch.setitem(sys.modules, "speechbrain.inference.classifiers", fake_classifiers)
+        self._mock_heavy_deps(monkeypatch, ecapa_side_effect=RuntimeError("model not found"))
 
         out_dir = tmp_path / "speaker_embeddings"
         out_dir.mkdir()
