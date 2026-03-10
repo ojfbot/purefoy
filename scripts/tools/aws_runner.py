@@ -860,15 +860,49 @@ def run_aws_batch(
 # ---------------------------------------------------------------------------
 
 
+class SSOTokenExpiredError(RuntimeError):
+    """Raised when the AWS SSO token has expired and needs manual refresh."""
+
+
 def _aws(args: list[str], check: bool = True) -> dict | list | str:
     """Run an AWS CLI command and return parsed JSON output."""
     cmd = ["aws"] + args + ["--output", "json", "--region", EC2_DEFAULTS["region"]]
     result = subprocess.run(cmd, capture_output=True, text=True)
     if check and result.returncode != 0:
-        raise RuntimeError(f"aws {args[0]} failed: {result.stderr[:400]}")
+        stderr = result.stderr[:400]
+        if "token has expired" in stderr.lower():
+            raise SSOTokenExpiredError(f"aws {args[0]} failed: {stderr}")
+        raise RuntimeError(f"aws {args[0]} failed: {stderr}")
     if result.stdout.strip():
         return json.loads(result.stdout)
     return {}
+
+
+def _aws_r(args: list[str], check: bool = True, max_wait_s: int = 7200) -> dict | list | str:
+    """Like _aws() but waits up to max_wait_s for manual SSO refresh on token expiry.
+
+    When the SSO token expires the function logs a prominent warning every 60 s
+    and retries automatically once the user runs ``aws sso login`` in a terminal.
+    All in-flight AWS calls in other threads will also block, which is correct —
+    every AWS operation needs valid credentials.
+    """
+    wait = 60
+    deadline = time.monotonic() + max_wait_s
+    while True:
+        try:
+            return _aws(args, check=check)
+        except SSOTokenExpiredError:
+            remaining = deadline - time.monotonic()
+            if remaining <= 0:
+                raise
+            logger.warning(
+                "AWS SSO token expired — run 'aws sso login' in a terminal to refresh. "
+                "Retrying in %d s (will keep trying for %.0f more min).",
+                wait,
+                remaining / 60,
+            )
+            time.sleep(min(wait, remaining))
+            wait = min(wait * 2, 300)
 
 
 def provision_spot_instances(
@@ -892,7 +926,7 @@ def provision_spot_instances(
     subnet_filters = [f"Name=vpc-id,Values={vpc_id}"]
     if az:
         subnet_filters.append(f"Name=availabilityZone,Values={az}")
-    all_subnets_resp = _aws(["ec2", "describe-subnets", "--filters"] + subnet_filters)
+    all_subnets_resp = _aws_r(["ec2", "describe-subnets", "--filters"] + subnet_filters)
     all_subnets = all_subnets_resp.get("Subnets", [])
     if not all_subnets:
         raise RuntimeError(f"No subnet found (vpc={vpc_id}, az={az or 'any'})")
@@ -941,7 +975,7 @@ def provision_spot_instances(
         subnet_az = subnet.get("AvailabilityZone", "?")
         logger.info("Trying subnet %s (%s)...", subnet_id, subnet_az)
         try:
-            result = _aws(run_instances_args + ["--subnet-id", subnet_id])
+            result = _aws_r(run_instances_args + ["--subnet-id", subnet_id])
             logger.info("Launched in %s", subnet_az)
             break
         except RuntimeError as exc:
@@ -962,11 +996,11 @@ def provision_spot_instances(
 
     # Wait until running
     logger.info("Waiting for instances to reach 'running' state...")
-    _aws(["ec2", "wait", "instance-running", "--instance-ids"] + instance_ids, check=True)
+    _aws_r(["ec2", "wait", "instance-running", "--instance-ids"] + instance_ids, check=True)
     logger.info("All instances running")
 
     # Get public IPs
-    desc = _aws(["ec2", "describe-instances", "--instance-ids"] + instance_ids)
+    desc = _aws_r(["ec2", "describe-instances", "--instance-ids"] + instance_ids)
     ips: list[str] = []
     for res in desc["Reservations"]:
         for inst in res["Instances"]:
@@ -986,13 +1020,13 @@ def terminate_instances(instance_ids: list[str]) -> None:
         logger.info("No instances to terminate")
         return
     logger.info("Terminating %d instance(s): %s", len(instance_ids), instance_ids)
-    _aws(["ec2", "terminate-instances", "--instance-ids"] + instance_ids)
+    _aws_r(["ec2", "terminate-instances", "--instance-ids"] + instance_ids)
     logger.info("Termination requested — instances will shut down shortly")
 
 
 def _get_default_vpc() -> str:
     """Return the default VPC ID for the configured region."""
-    result = _aws(["ec2", "describe-vpcs", "--filters", "Name=isDefault,Values=true"])
+    result = _aws_r(["ec2", "describe-vpcs", "--filters", "Name=isDefault,Values=true"])
     vpcs = result.get("Vpcs", [])
     if not vpcs:
         raise RuntimeError("No default VPC found in " + EC2_DEFAULTS["region"])
@@ -1011,7 +1045,7 @@ def update_sg_ssh_rule() -> None:
 
     cidr = f"{my_ip}/32"
     # Get existing SSH ingress rules
-    sg_info = _aws(["ec2", "describe-security-groups", "--group-ids", sg_id])
+    sg_info = _aws_r(["ec2", "describe-security-groups", "--group-ids", sg_id])
     existing_ssh = [
         r for r in sg_info["SecurityGroups"][0]["IpPermissions"]
         if r.get("FromPort") == 22 and r.get("IpProtocol") == "tcp"
@@ -1033,17 +1067,17 @@ def update_sg_ssh_rule() -> None:
             continue
         stale_perm = dict(perm)
         stale_perm["IpRanges"] = stale
-        _aws(["ec2", "revoke-security-group-ingress",
-              "--group-id", sg_id,
-              "--ip-permissions", json.dumps([stale_perm])])
+        _aws_r(["ec2", "revoke-security-group-ingress",
+               "--group-id", sg_id,
+               "--ip-permissions", json.dumps([stale_perm])])
         for r in stale:
             logger.info("Revoked stale SSH rule: %s", r["CidrIp"])
 
     # Authorize current IP
-    _aws(["ec2", "authorize-security-group-ingress",
-          "--group-id", sg_id,
-          "--protocol", "tcp", "--port", "22",
-          "--cidr", cidr])
+    _aws_r(["ec2", "authorize-security-group-ingress",
+            "--group-id", sg_id,
+            "--protocol", "tcp", "--port", "22",
+            "--cidr", cidr])
     logger.info("SG updated — SSH allowed from %s", cidr)
 
 
