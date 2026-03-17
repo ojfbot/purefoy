@@ -83,7 +83,7 @@ async function buildEpisodeItem(slug: string, episodeDir: string): Promise<Episo
   }
 }
 
-async function buildEpisodeDetail(slug: string, episodeDir: string, listItem: EpisodeListItem): Promise<EpisodeDetail | null> {
+async function buildEpisodeDetail(_slug: string, episodeDir: string, listItem: EpisodeListItem): Promise<EpisodeDetail | null> {
   const metaPath = path.join(episodeDir, 'metadata.json')
   const meta = await readJson<EpisodeMetadata>(metaPath)
   if (!meta) return null
@@ -115,11 +115,8 @@ export class EpisodeCache {
   private cache = new Map<string, EpisodeListItem>()
   private watcher: fs.FSWatcher | null = null
   private downloadsDir = ''
-  private warming = false
-
   async warm(downloadsDir: string): Promise<void> {
     this.downloadsDir = downloadsDir
-    this.warming = true
     const start = Date.now()
 
     try {
@@ -146,7 +143,7 @@ export class EpisodeCache {
         (failed ? ` (${failed} dirs skipped)` : '')
       )
     } finally {
-      this.warming = false
+      // warm complete
     }
 
     this.startWatcher()

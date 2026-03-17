@@ -1,7 +1,7 @@
-import { Router } from 'express'
+import { Router, type IRouter } from 'express'
 import type { ToolsManifest } from '../types.js'
 
-export const toolsRouter = Router()
+export const toolsRouter: IRouter = Router()
 
 // GET /api/tools — Frame OS capability manifest (ADR-0007)
 // The MetaOrchestratorAgent in frame-agent calls this at startup to discover
