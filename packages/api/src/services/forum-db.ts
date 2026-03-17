@@ -57,7 +57,7 @@ export async function listTopics(topicsDir: string): Promise<ForumTopicSummary[]
           topicUrl: data.topic_url,
           replyCount: data.reply_count,
           maxDepth: data.max_depth,
-          postIds: data.post_ids,
+          postIds: data.post_ids ?? [],
           scrapedAt: data.provenance.scraped_at,
         }
         return summary
@@ -80,19 +80,21 @@ export async function getTopicDetail(
   const data = await readJson<TopicLeaf>(path.join(topicsDir, `${slug}.json`))
   if (!data) return null
 
+  const postIds = data.post_ids ?? []
+
   const topic: ForumTopicSummary = {
     slug: data.topic_slug ?? slug,
     title: data.title ?? slug,
     topicUrl: data.topic_url,
     replyCount: data.reply_count,
     maxDepth: data.max_depth,
-    postIds: data.post_ids,
+    postIds,
     scrapedAt: data.provenance.scraped_at,
   }
 
   // Read posts in parallel — missing posts are silently skipped
   const postResults = await Promise.allSettled(
-    data.post_ids.map(postId => readJson<PostLeaf>(path.join(postsDir, `${postId}.json`)))
+    postIds.map(postId => readJson<PostLeaf>(path.join(postsDir, `${postId}.json`)))
   )
 
   const posts: ForumPostSummary[] = postResults
@@ -106,7 +108,7 @@ export async function getTopicDetail(
       postType: post.post_type,
       author: post.author?.display_name ?? 'Unknown',
       authorRole: post.author?.role ?? null,
-      timestamp: post.timestamps.parsed_iso ?? null,
+      timestamp: post.timestamps?.parsed_iso ?? null,
       contentText: post.content_text,
       position: post.ids.position ?? null,
     }))

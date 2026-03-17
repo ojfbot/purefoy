@@ -146,9 +146,9 @@ export function TranscriptViewer({ slug, visible, seekToTime }: TranscriptViewer
                 {seg.speaker}
               </Tag>
               <span className="purefoy-transcript__time">{formatTime(seg.start)}</span>
-              {seg.topics.length > 0 && (
+              {(seg.topics?.length ?? 0) > 0 && (
                 <span className="purefoy-transcript__topics">
-                  {seg.topics.slice(0, 2).map(t => (
+                  {seg.topics!.slice(0, 2).map(t => (
                     <Tag key={t} size="sm" type="gray">{t}</Tag>
                   ))}
                 </span>

@@ -28,8 +28,5 @@ export type {
   ChapterResult,
   SegmentResult,
   SegmentCompact,
-  TranscriptJson,
-  TranscriptMeta,
-  TranscriptStatistics,
-  SpeakerCluster,
+  WordTimestamp,
 } from '@purefoy/shared'
