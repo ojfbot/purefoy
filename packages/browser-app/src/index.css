@@ -1,0 +1,9 @@
+/* SCAFFOLD: Carbon design system tokens will be imported here */
+/* TODO: import Carbon SCSS via sass — see cv-builder src/styles/carbon.scss pattern */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  /* Prevent FOUC — matches Carbon dark theme background */
+  background-color: var(--cds-background, #161616);
+}
