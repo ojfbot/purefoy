@@ -57,9 +57,9 @@ async function buildEpisodeItem(slug: string, episodeDir: string): Promise<Episo
       // Note: extraction_report doesn't directly list topics/films arrays —
       // those live in transcript.json chapters. For the list view we use counts only.
       stats = {
-        chapters: report.chapters_generated,
-        words: report.word_count,
-        speakers: report.speakers_detected,
+        chapters: report.chapters_generated ?? 0,
+        words: report.word_count ?? 0,
+        speakers: report.speakers_detected ?? 0,
         // topics/films arrays require reading full transcript.json (too expensive for list).
         // For filtering, populate lazily from chapters.json instead (see episodesApi.list filter).
         topics: [],

@@ -4,7 +4,8 @@
 //
 // Python on-disk data shapes live in generated/schema.ts.
 
-import type { PostType } from './generated/schema.js'
+import type { components } from './generated/schema.js'
+type PostType = components['schemas']['PostType']
 
 // ── Pagination ────────────────────────────────────────────────────────────────
 
