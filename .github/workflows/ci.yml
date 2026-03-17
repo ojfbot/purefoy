@@ -62,3 +62,70 @@ jobs:
 
       - name: Run tests
         run: pytest --tb=short -q
+
+  ts-typecheck:
+    name: TypeScript type-check & tests
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Type-check
+        run: pnpm type-check
+
+      - name: Test (API)
+        run: pnpm --filter @purefoy/api test --run
+
+  codegen-guard:
+    name: Codegen schema drift check
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: |
+          pip install pydantic
+          pnpm install
+
+      - name: Regenerate schema
+        run: pnpm codegen
+
+      - name: Fail if schema has uncommitted changes
+        run: |
+          git diff --exit-code openapi.json packages/shared/src/generated/schema.ts \
+            || (echo "Schema drift detected — run 'pnpm codegen' and commit the result" && exit 1)
