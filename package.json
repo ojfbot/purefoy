@@ -1,0 +1,30 @@
+{
+  "name": "purefoy",
+  "version": "0.1.0",
+  "description": "Team Deakins cinematography knowledge browser — Frame OS sub-app",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@9.15.4",
+  "engines": {
+    "node": ">=24.11.1",
+    "pnpm": ">=9.0.0"
+  },
+  "scripts": {
+    "dev:api": "pnpm --filter @purefoy/api dev",
+    "dev:app": "pnpm --filter @purefoy/browser-app dev",
+    "dev:app:mf": "pnpm --filter @purefoy/browser-app dev:mf",
+    "dev:all": "concurrently \"pnpm dev:api\" \"pnpm dev:app:mf\"",
+    "dev:headless": "pnpm dev:api",
+    "start:api": "pnpm --filter @purefoy/api start",
+    "build": "pnpm --recursive --if-present build",
+    "preview": "pnpm --filter @purefoy/browser-app preview",
+    "type-check": "pnpm --recursive --if-present type-check",
+    "test": "pnpm --recursive --if-present test",
+    "codegen": "node scripts/codegen.mjs"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1",
+    "@reduxjs/toolkit": "^2.10.1",
+    "react-redux": "^9.2.0"
+  }
+}
