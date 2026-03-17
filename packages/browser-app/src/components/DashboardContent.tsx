@@ -25,7 +25,7 @@ export function DashboardContent({ shellMode }: DashboardContentProps) {
   const [visited, setVisited] = useState<Set<number>>(new Set([0]))
 
   useEffect(() => {
-    dispatch(fetchEpisodes({ page: 1, limit: 20 }))
+    dispatch(fetchEpisodes({ page: 1, limit: 500 }))
   }, [dispatch])
 
   const handleTabChange = ({ selectedIndex }: { selectedIndex: number }) => {

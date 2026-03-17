@@ -1,10 +1,10 @@
-import { Router } from 'express'
+import { Router, type IRouter } from 'express'
 import type { Request, Response } from 'express'
 import type { ForumTopicSummary, PaginatedResponse } from '../types.js'
 import { config } from '../config.js'
 import { listTopics, getTopicDetail, searchPosts } from '../services/forum-db.js'
 
-export const forumRouter = Router()
+export const forumRouter: IRouter = Router()
 
 // ── GET /api/forum/topics ─────────────────────────────────────────────────────
 forumRouter.get('/topics', async (_req: Request, res: Response) => {

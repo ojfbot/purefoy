@@ -8,16 +8,19 @@ import {
   TableCell,
   DataTableSkeleton,
   InlineNotification,
+  Button,
 } from '@carbon/react'
 import { useAppSelector, useAppDispatch } from '../store/hooks'
-import { setSelectedSlug } from '../store/slices/episodesSlice'
+import { setSelectedSlug, fetchEpisodes } from '../store/slices/episodesSlice'
 import { EpisodeDetail } from './EpisodeDetail'
 
-// TODO: implement — connect to episodes Redux state, render list, handle selection
 export function EpisodeBrowser() {
   const dispatch = useAppDispatch()
   const status = useAppSelector(s => s.episodes.status)
   const items = useAppSelector(s => s.episodes.items)
+  const total = useAppSelector(s => s.episodes.total)
+  const hasMore = useAppSelector(s => s.episodes.hasMore)
+  const currentPage = useAppSelector(s => s.episodes.filters.page)
   const selectedSlug = useAppSelector(s => s.episodes.selectedSlug)
 
   if (status === 'loading') {
@@ -61,36 +64,52 @@ export function EpisodeBrowser() {
   }))
 
   return (
-    <DataTable rows={rows} headers={headers}>
-      {({ rows: tableRows, headers: tableHeaders, getTableProps, getHeaderProps, getRowProps }) => (
-        <Table {...getTableProps()}>
-          <TableHead>
-            <TableRow>
-              {tableHeaders.map(header => (
-                // eslint-disable-next-line @typescript-eslint/no-explicit-any
-                <TableHeader {...getHeaderProps({ header } as any)} key={header.key}>
-                  {header.header}
-                </TableHeader>
-              ))}
-            </TableRow>
-          </TableHead>
-          <TableBody>
-            {tableRows.map(row => (
-              <TableRow
-                // eslint-disable-next-line @typescript-eslint/no-explicit-any
-                {...getRowProps({ row } as any)}
-                key={row.id}
-                onClick={() => dispatch(setSelectedSlug(row.id))}
-                style={{ cursor: 'pointer' }}
-              >
-                {row.cells.map(cell => (
-                  <TableCell key={cell.id}>{cell.value}</TableCell>
+    <>
+      <p style={{ margin: '0 0 0.75rem', fontSize: '0.875rem', color: 'var(--cds-text-secondary)' }}>
+        Showing {items.length} of {total} episodes
+      </p>
+      <DataTable rows={rows} headers={headers}>
+        {({ rows: tableRows, headers: tableHeaders, getTableProps, getHeaderProps, getRowProps }) => (
+          <Table {...getTableProps()}>
+            <TableHead>
+              <TableRow>
+                {tableHeaders.map(header => (
+                  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+                  <TableHeader {...getHeaderProps({ header } as any)} key={header.key}>
+                    {header.header}
+                  </TableHeader>
                 ))}
               </TableRow>
-            ))}
-          </TableBody>
-        </Table>
+            </TableHead>
+            <TableBody>
+              {tableRows.map(row => (
+                <TableRow
+                  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+                  {...getRowProps({ row } as any)}
+                  key={row.id}
+                  onClick={() => dispatch(setSelectedSlug(row.id))}
+                  style={{ cursor: 'pointer' }}
+                >
+                  {row.cells.map(cell => (
+                    <TableCell key={cell.id}>{cell.value}</TableCell>
+                  ))}
+                </TableRow>
+              ))}
+            </TableBody>
+          </Table>
+        )}
+      </DataTable>
+      {hasMore && (
+        <div style={{ marginTop: '1rem', textAlign: 'center' }}>
+          <Button
+            kind="ghost"
+            size="sm"
+            onClick={() => dispatch(fetchEpisodes({ page: currentPage + 1, limit: 500 }))}
+          >
+            {`Load more (${total - items.length} remaining)`}
+          </Button>
+        </div>
       )}
-    </DataTable>
+    </>
   )
 }

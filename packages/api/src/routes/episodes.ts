@@ -1,16 +1,16 @@
-import { Router } from 'express'
+import { Router, type IRouter } from 'express'
 import type { Request, Response } from 'express'
 import { createReadStream, existsSync } from 'fs'
 import type { EpisodeListItem, PaginatedResponse } from '../types.js'
 import { episodeCache } from '../services/episode-cache.js'
 
-export const episodesRouter = Router()
+export const episodesRouter: IRouter = Router()
 
 // ── GET /api/episodes ─────────────────────────────────────────────────────────
 // Query params: page, limit, topic, film, season
 episodesRouter.get('/', (req: Request, res: Response) => {
   const page  = Math.max(1, parseInt(String(req.query.page ?? '1'), 10) || 1)
-  const limit = Math.min(100, Math.max(1, parseInt(String(req.query.limit ?? '20'), 10) || 20))
+  const limit = Math.min(500, Math.max(1, parseInt(String(req.query.limit ?? '20'), 10) || 20))
   const topicFilter  = (req.query.topic  as string | undefined)?.toLowerCase() ?? null
   const filmFilter   = (req.query.film   as string | undefined)?.toLowerCase() ?? null
   const seasonFilter = req.query.season != null ? parseInt(String(req.query.season), 10) : null

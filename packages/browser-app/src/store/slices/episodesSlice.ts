@@ -85,9 +85,15 @@ export const episodesSlice = createSlice({
       .addCase(fetchEpisodes.pending, (state) => { state.status = 'loading'; state.error = null })
       .addCase(fetchEpisodes.fulfilled, (state, action) => {
         state.status = 'idle'
-        state.items = action.payload.items
+        // page > 1 = "load more" — append; page 1 = fresh load — replace
+        if (action.meta.arg.page && action.meta.arg.page > 1) {
+          state.items = [...state.items, ...action.payload.items]
+        } else {
+          state.items = action.payload.items
+        }
         state.total = action.payload.total
         state.hasMore = action.payload.hasMore
+        if (action.meta.arg.page) state.filters.page = action.meta.arg.page
       })
       .addCase(fetchEpisodes.rejected, (state, action) => {
         state.status = 'error'
