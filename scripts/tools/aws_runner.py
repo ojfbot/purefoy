@@ -1155,7 +1155,7 @@ def build_parser() -> argparse.ArgumentParser:
         help="Specific episode directory name — required for --mode episode",
     )
     p.add_argument(
-        "--force", action="store_true", default=True,
+        "--force", action="store_true", default=False,
         help="Re-transcribe even if transcript.json already exists",
     )
     p.add_argument(
