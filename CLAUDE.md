@@ -8,7 +8,7 @@ This is a **Team Deakins Podcast and Forum Knowledge Base** project. It contains
 
 1. **Podcast Episode Downloader & Ingest**: Scripts to download MP3s from RSS feeds and organize them into structured episode directories with metadata and transcripts.
 2. **Forum Scraper (`deakins_forums`)**: A modular, ultra-structured Python package for scraping rogerdeakins.com forums into a searchable JSON-based knowledge base.
-
+3. **TypeScript UI Layer (`packages/`)**: A read-only knowledge browser (React/Vite micro-frontend on port 3020 + Express API on port 3021) for exploring podcast and forum data locally. Architecture decisions documented in ADR-006 through ADR-009.
 All content is for **personal research and educational purposes only** under fair use principles. Commercial use requires explicit permission from copyright holders.
 
 ## Git Data Policy
@@ -45,6 +45,10 @@ purefoy/
 │   ├── query_tracker.py    # Query provenance/lineage tracking
 │   ├── report.py           # Reporting utilities
 │   └── config.py           # Settings with env var overrides
+├── packages/                # TypeScript UI layer (pnpm workspace)
+│   ├── browser-app/        # React/Vite micro-frontend remote (port 3020)
+│   ├── api/                # Express read-only API over flat JSON + SQLite (port 3021)
+│   └── shared/             # @purefoy/shared — generated OpenAPI schema + API type contracts
 ├── download_episodes.py     # Podcast RSS feed downloader (standalone)
 ├── ingest_teamdeakins_downloads.py  # Episode ingest with metadata & transcripts
 ├── scrape_forum.py          # Legacy forum scraper (standalone)
@@ -60,7 +64,9 @@ purefoy/
 │       ├── metadata.json
 │       └── transcript/
 ├── analysis/                # Export output (CSV, text dumps, stats)
-└── pyproject.toml           # Package metadata
+├── package.json             # pnpm workspace root
+└── pyproject.toml           # Python package metadata
+```
 ```
 
 ## Common Commands
@@ -334,8 +340,8 @@ export DEAKINS_OUT_DIR="./library/forums"
 
 ## Testing Notes
 
-- No formal test suite currently exists
-- Manual testing via CLI commands and dry-run flags
+- **TypeScript layer**: CI runs TypeScript type-check, test, and codegen drift guard jobs (see `packages/`)
+- **Python layer**: Manual testing via CLI commands and dry-run flags; no formal Python test suite yet
 - Incremental updates can be verified by running scrapes twice and checking for "Not modified" messages
 
 ## Important Fair Use Reminders
