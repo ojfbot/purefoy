@@ -47,7 +47,15 @@ from deakins_forums.models import (  # noqa: E402
 
 
 def pydantic_schemas() -> dict:
-    """Export JSON schemas from all Pydantic v2 models."""
+    """Export JSON schemas from all Pydantic v2 models.
+
+    Uses ref_template='#/components/schemas/{model}' so that $ref values point
+    to the OpenAPI components/schemas path rather than the Pydantic default
+    '#/$defs/{model}', which openapi-typescript 7.x cannot resolve.
+
+    Any $defs nested inside individual model schemas are hoisted to the top-level
+    schemas dict so all $refs resolve correctly.
+    """
     models = [
         PostLeaf,
         TopicLeaf,
@@ -65,8 +73,14 @@ def pydantic_schemas() -> dict:
     ]
     schemas: dict = {}
     for model in models:
-        schema = model.model_json_schema()
+        schema = model.model_json_schema(ref_template="#/components/schemas/{model}")
         name = schema.get("title", model.__name__)
+        # Hoist any $defs from within this schema up to the top-level schemas dict.
+        # Pydantic v2 sometimes emits $defs even when ref_template is set (for
+        # self-referential models or models with shared sub-schemas).
+        for def_name, def_schema in schema.pop("$defs", {}).items():
+            if def_name not in schemas:
+                schemas[def_name] = def_schema
         schemas[name] = schema
     # Also include the enum
     schemas["PostType"] = {

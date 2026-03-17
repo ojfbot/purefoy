@@ -1,0 +1,1089 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Purefoy Data Schema",
+    "version": "2.0.0",
+    "description": "JSON schemas for on-disk data produced by the Purefoy Python pipeline. These types are consumed by the Node.js purefoy-api and the browser-app. Source: deakins_forums/models.py (Pydantic v2) and scripts/tools/transcribe_episodes.py (dataclasses)."
+  },
+  "paths": {},
+  "components": {
+    "schemas": {
+      "Author": {
+        "description": "Represents a forum author as displayed on the site.",
+        "properties": {
+          "display_name": {
+            "title": "Display Name",
+            "type": "string"
+          },
+          "role": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Role"
+          }
+        },
+        "required": [
+          "display_name"
+        ],
+        "title": "Author",
+        "type": "object"
+      },
+      "ContentBlock": {
+        "description": "A structured content block for agent-friendly reconstruction.",
+        "properties": {
+          "type": {
+            "default": "unknown",
+            "enum": [
+              "paragraph",
+              "quote",
+              "list",
+              "code",
+              "heading",
+              "unknown"
+            ],
+            "title": "Type",
+            "type": "string"
+          },
+          "text": {
+            "title": "Text",
+            "type": "string"
+          }
+        },
+        "required": [
+          "text"
+        ],
+        "title": "ContentBlock",
+        "type": "object"
+      },
+      "HttpProvenance": {
+        "description": "HTTP-level provenance for a fetched page or extracted entity.",
+        "properties": {
+          "url": {
+            "title": "Url",
+            "type": "string"
+          },
+          "status": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Status"
+          },
+          "etag": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Etag"
+          },
+          "last_modified": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Last Modified"
+          }
+        },
+        "required": [
+          "url"
+        ],
+        "title": "HttpProvenance",
+        "type": "object"
+      },
+      "Integrity": {
+        "description": "Integrity metadata for incremental update detection.",
+        "properties": {
+          "content_hash": {
+            "title": "Content Hash",
+            "type": "string"
+          },
+          "parser_version": {
+            "default": "bbpress-v1",
+            "title": "Parser Version",
+            "type": "string"
+          }
+        },
+        "required": [
+          "content_hash"
+        ],
+        "title": "Integrity",
+        "type": "object"
+      },
+      "Link": {
+        "description": "A hyperlink extracted from post content.",
+        "properties": {
+          "href": {
+            "title": "Href",
+            "type": "string"
+          },
+          "text": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Text"
+          },
+          "kind": {
+            "enum": [
+              "internal",
+              "external"
+            ],
+            "title": "Kind",
+            "type": "string"
+          }
+        },
+        "required": [
+          "href",
+          "kind"
+        ],
+        "title": "Link",
+        "type": "object"
+      },
+      "Media": {
+        "description": "Media reference extracted from a post (images first; extend for attachments later).",
+        "properties": {
+          "src": {
+            "title": "Src",
+            "type": "string"
+          },
+          "alt": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Alt"
+          },
+          "kind": {
+            "default": "image",
+            "enum": [
+              "image",
+              "attachment"
+            ],
+            "title": "Kind",
+            "type": "string"
+          },
+          "local_path": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Local Path"
+          }
+        },
+        "required": [
+          "src"
+        ],
+        "title": "Media",
+        "type": "object"
+      },
+      "PostIds": {
+        "description": "Identifiers that allow stable joins across leafs and threading.",
+        "properties": {
+          "post_id": {
+            "title": "Post Id",
+            "type": "string"
+          },
+          "forum_slug": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Forum Slug"
+          },
+          "topic_slug": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Topic Slug"
+          },
+          "reply_permalink": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Reply Permalink"
+          },
+          "parent_post_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Parent Post Id"
+          },
+          "parent_type": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/PostType"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          },
+          "position": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Position"
+          },
+          "wp_post_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Wp Post Id"
+          }
+        },
+        "required": [
+          "post_id"
+        ],
+        "title": "PostIds",
+        "type": "object"
+      },
+      "PostType": {
+        "title": "PostType",
+        "type": "string",
+        "enum": [
+          "topic",
+          "reply",
+          "article"
+        ],
+        "description": "Distinguishes topic starters from replies"
+      },
+      "Provenance": {
+        "description": "Provenance metadata used for auditability and incremental refresh.",
+        "properties": {
+          "source_url": {
+            "title": "Source Url",
+            "type": "string"
+          },
+          "scraped_at": {
+            "title": "Scraped At",
+            "type": "string"
+          },
+          "http": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/HttpProvenance"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          }
+        },
+        "required": [
+          "source_url",
+          "scraped_at"
+        ],
+        "title": "Provenance",
+        "type": "object"
+      },
+      "Quote": {
+        "description": "A quoted block, optionally attributed (best-effort).",
+        "properties": {
+          "text": {
+            "title": "Text",
+            "type": "string"
+          },
+          "attributed_to": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Attributed To"
+          }
+        },
+        "required": [
+          "text"
+        ],
+        "title": "Quote",
+        "type": "object"
+      },
+      "Timestamps": {
+        "description": "Captures raw timestamp plus parsed version when possible.",
+        "properties": {
+          "raw": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Raw"
+          },
+          "parsed_iso": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Parsed Iso"
+          },
+          "parse_confidence": {
+            "default": "none",
+            "enum": [
+              "high",
+              "medium",
+              "low",
+              "none"
+            ],
+            "title": "Parse Confidence",
+            "type": "string"
+          }
+        },
+        "title": "Timestamps",
+        "type": "object"
+      },
+      "PostLeaf": {
+        "description": "A single post leaf JSON file with full threading context.",
+        "properties": {
+          "ids": {
+            "$ref": "#/components/schemas/PostIds"
+          },
+          "post_type": {
+            "$ref": "#/components/schemas/PostType",
+            "default": "topic"
+          },
+          "author": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/Author"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          },
+          "timestamps": {
+            "$ref": "#/components/schemas/Timestamps"
+          },
+          "content_text": {
+            "title": "Content Text",
+            "type": "string"
+          },
+          "content_html": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Content Html"
+          },
+          "blocks": {
+            "items": {
+              "$ref": "#/components/schemas/ContentBlock"
+            },
+            "title": "Blocks",
+            "type": "array"
+          },
+          "quotes": {
+            "items": {
+              "$ref": "#/components/schemas/Quote"
+            },
+            "title": "Quotes",
+            "type": "array"
+          },
+          "links": {
+            "items": {
+              "$ref": "#/components/schemas/Link"
+            },
+            "title": "Links",
+            "type": "array"
+          },
+          "media": {
+            "items": {
+              "$ref": "#/components/schemas/Media"
+            },
+            "title": "Media",
+            "type": "array"
+          },
+          "title": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Title"
+          },
+          "description": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Description"
+          },
+          "featured_image": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Featured Image"
+          },
+          "series": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Series"
+          },
+          "provenance": {
+            "$ref": "#/components/schemas/Provenance"
+          },
+          "integrity": {
+            "$ref": "#/components/schemas/Integrity"
+          }
+        },
+        "required": [
+          "ids",
+          "content_text",
+          "provenance",
+          "integrity"
+        ],
+        "title": "PostLeaf",
+        "type": "object"
+      },
+      "TopicLeaf": {
+        "description": "Topic metadata + post index with structured reply tree.",
+        "properties": {
+          "topic_url": {
+            "title": "Topic Url",
+            "type": "string"
+          },
+          "forum_slug": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Forum Slug"
+          },
+          "topic_slug": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Topic Slug"
+          },
+          "title": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Title"
+          },
+          "breadcrumb": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Breadcrumb",
+            "type": "array"
+          },
+          "tags": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Tags",
+            "type": "array"
+          },
+          "post_ids": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Post Ids",
+            "type": "array"
+          },
+          "reply_tree": {
+            "anyOf": [
+              {},
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Reply Tree"
+          },
+          "reply_count": {
+            "default": 0,
+            "title": "Reply Count",
+            "type": "integer"
+          },
+          "max_depth": {
+            "default": 0,
+            "title": "Max Depth",
+            "type": "integer"
+          },
+          "provenance": {
+            "$ref": "#/components/schemas/Provenance"
+          },
+          "integrity": {
+            "$ref": "#/components/schemas/Integrity"
+          }
+        },
+        "required": [
+          "topic_url",
+          "provenance",
+          "integrity"
+        ],
+        "title": "TopicLeaf",
+        "type": "object"
+      },
+      "ForumLeaf": {
+        "description": "Forum metadata + topic index.",
+        "properties": {
+          "forum_url": {
+            "title": "Forum Url",
+            "type": "string"
+          },
+          "forum_slug": {
+            "title": "Forum Slug",
+            "type": "string"
+          },
+          "title": {
+            "title": "Title",
+            "type": "string"
+          },
+          "description": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Description"
+          },
+          "subforums": {
+            "items": {},
+            "title": "Subforums",
+            "type": "array"
+          },
+          "topic_refs": {
+            "items": {},
+            "title": "Topic Refs",
+            "type": "array"
+          },
+          "provenance": {
+            "$ref": "#/components/schemas/Provenance"
+          },
+          "integrity": {
+            "$ref": "#/components/schemas/Integrity"
+          }
+        },
+        "required": [
+          "forum_url",
+          "forum_slug",
+          "title",
+          "provenance",
+          "integrity"
+        ],
+        "title": "ForumLeaf",
+        "type": "object"
+      },
+      "WordTimestamp": {
+        "type": "object",
+        "properties": {
+          "word": {
+            "type": "string"
+          },
+          "start": {
+            "type": "number"
+          },
+          "end": {
+            "type": "number"
+          },
+          "probability": {
+            "type": "number"
+          }
+        },
+        "required": [
+          "word",
+          "start",
+          "end",
+          "probability"
+        ]
+      },
+      "SegmentResult": {
+        "type": "object",
+        "description": "Full segment in transcript.json segments[]",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "start": {
+            "type": "number"
+          },
+          "end": {
+            "type": "number"
+          },
+          "text": {
+            "type": "string"
+          },
+          "speaker": {
+            "type": "string",
+            "description": "e.g. SPEAKER_00"
+          },
+          "segment_type": {
+            "type": "string",
+            "enum": [
+              "intro",
+              "outro",
+              "content"
+            ]
+          },
+          "chapter_id": {
+            "type": "integer"
+          },
+          "confidence": {
+            "type": "number"
+          },
+          "words": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/WordTimestamp"
+            }
+          },
+          "topics": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "films": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "id",
+          "start",
+          "end",
+          "text",
+          "speaker",
+          "segment_type",
+          "chapter_id"
+        ]
+      },
+      "SegmentCompact": {
+        "type": "object",
+        "description": "Compact segment in transcript_segments.jsonl (no word data)",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "start": {
+            "type": "number"
+          },
+          "end": {
+            "type": "number"
+          },
+          "text": {
+            "type": "string"
+          },
+          "speaker": {
+            "type": "string"
+          },
+          "segment_type": {
+            "type": "string",
+            "enum": [
+              "intro",
+              "outro",
+              "content"
+            ]
+          },
+          "chapter_id": {
+            "type": "integer"
+          },
+          "confidence": {
+            "type": "number"
+          },
+          "topics": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "id",
+          "start",
+          "end",
+          "text",
+          "speaker",
+          "segment_type",
+          "chapter_id"
+        ]
+      },
+      "ChapterResult": {
+        "type": "object",
+        "properties": {
+          "index": {
+            "type": "integer"
+          },
+          "title": {
+            "type": "string"
+          },
+          "start_time": {
+            "type": "number"
+          },
+          "end_time": {
+            "type": "number"
+          },
+          "duration": {
+            "type": "number"
+          },
+          "summary": {
+            "type": "string"
+          },
+          "segment_range": {
+            "type": "array",
+            "items": {
+              "type": "integer"
+            },
+            "minItems": 2,
+            "maxItems": 2
+          },
+          "word_count": {
+            "type": "integer"
+          },
+          "topics": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "films": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "speakers": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "key_phrases": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "break_score": {
+            "type": "number"
+          },
+          "break_signals": {
+            "type": "object"
+          }
+        },
+        "required": [
+          "index",
+          "title",
+          "start_time",
+          "end_time",
+          "duration"
+        ]
+      },
+      "ExtractionReport": {
+        "type": "object",
+        "properties": {
+          "episode_dir": {
+            "type": "string"
+          },
+          "episode_title": {
+            "type": "string"
+          },
+          "success": {
+            "type": "boolean"
+          },
+          "error": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "transcribed_at": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "pipeline_version": {
+            "type": "string"
+          },
+          "processing_time_seconds": {
+            "type": "number"
+          },
+          "audio_duration_seconds": {
+            "type": "number"
+          },
+          "segment_count": {
+            "type": "integer"
+          },
+          "word_count": {
+            "type": "integer"
+          },
+          "language": {
+            "type": "string"
+          },
+          "speakers_detected": {
+            "type": "integer"
+          },
+          "topics_tagged": {
+            "type": "integer"
+          },
+          "films_mentioned": {
+            "type": "integer"
+          },
+          "chapters_generated": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "episode_dir",
+          "episode_title",
+          "success"
+        ]
+      },
+      "RunManifest": {
+        "type": "object",
+        "properties": {
+          "canonical": {
+            "type": "string"
+          },
+          "runs": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/RunManifestEntry"
+            }
+          }
+        },
+        "required": [
+          "canonical",
+          "runs"
+        ]
+      },
+      "RunManifestEntry": {
+        "type": "object",
+        "properties": {
+          "run_id": {
+            "type": "string"
+          },
+          "created_at": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "whisper_model": {
+            "type": "string"
+          },
+          "diarization": {
+            "type": "boolean"
+          },
+          "speaker_embeddings": {
+            "type": "boolean"
+          },
+          "pipeline_version": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "run_id",
+          "created_at",
+          "whisper_model",
+          "diarization",
+          "speaker_embeddings"
+        ]
+      },
+      "EpisodeMetadata": {
+        "type": "object",
+        "description": "metadata.json at episode root \u2014 sourced from RSS XML",
+        "properties": {
+          "guid": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "pub_date_iso": {
+            "type": "string",
+            "format": "date"
+          },
+          "enclosure_url": {
+            "type": "string"
+          },
+          "enclosure_filename": {
+            "type": "string"
+          },
+          "enclosure_length": {
+            "type": "integer"
+          },
+          "enclosure_type": {
+            "type": "string"
+          },
+          "description_html": {
+            "type": "string"
+          },
+          "itunes": {
+            "type": "object",
+            "properties": {
+              "season": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "episode": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "duration": {
+                "type": "string"
+              },
+              "summary": {
+                "type": "string"
+              },
+              "image": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "season",
+              "episode",
+              "duration"
+            ]
+          }
+        },
+        "required": [
+          "guid",
+          "title",
+          "pub_date_iso"
+        ]
+      }
+    }
+  }
+}
