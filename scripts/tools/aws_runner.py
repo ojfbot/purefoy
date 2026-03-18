@@ -516,7 +516,13 @@ class RemoteWorker:
 
             # HF_TOKEN is an env-var prefix rather than a --flag so it does not
             # appear in /proc/{pid}/cmdline on the remote host.
-            env_prefix = f"HF_TOKEN={self.hf_token} " if self.hf_token else ""
+            # PATH is set explicitly because nohup sh -c runs a non-interactive,
+            # non-login shell whose PATH may not include /usr/bin (where apt
+            # installs ffmpeg). Sourcing .bashrc in a nohup context is unreliable.
+            std_path = "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+            env_prefix = f"PATH={std_path} "
+            if self.hf_token:
+                env_prefix += f"HF_TOKEN={self.hf_token} "
             cmd_parts = [
                 f"PYTHONPATH={self.remote_base}/scripts",
                 self.python, remote_script,
