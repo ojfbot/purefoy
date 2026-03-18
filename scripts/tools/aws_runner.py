@@ -343,6 +343,22 @@ class RemoteWorker:
             raise RuntimeError(f"ffmpeg install failed on {self.host}: {err[:300]}")
         logger.info("[%s] ffmpeg ready", self.host)
 
+        # g4dn.xlarge has 16 GB RAM; transcribe_episodes.py peaks at ~14.5 GB anon-RSS
+        # during ECAPA speaker-embedding load (whisper model + pyannote results + full
+        # episode waveform all in-memory simultaneously). Add a 16 GB swapfile so the
+        # kernel can page rather than OOM-kill the process.
+        logger.info("[%s] Enabling swap (16 GB)...", self.host)
+        self._ssh(
+            "if ! swapon --show | grep -q /swapfile; then "
+            "  sudo fallocate -l 16G /swapfile && "
+            "  sudo chmod 600 /swapfile && "
+            "  sudo mkswap /swapfile && "
+            "  sudo swapon /swapfile; "
+            "fi",
+            timeout=60,
+        )
+        logger.info("[%s] Swap ready", self.host)
+
         logger.info("[%s] Installing faster-whisper...", self.host)
         rc, _, err = self._ssh(
             f"{py} -m pip install -q faster-whisper 2>&1 | tail -5",
