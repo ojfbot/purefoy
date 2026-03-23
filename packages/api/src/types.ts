@@ -14,6 +14,8 @@ export type {
   ForumTopicSummary,
   ForumPostSummary,
   ForumSearchResult,
+  GoalManifest,
+  ReviewProgress,
   // Python on-disk data shapes (generated from Pydantic/dataclasses)
   PostLeaf,
   TopicLeaf,
