@@ -2,7 +2,7 @@
 
 A comprehensive research toolkit for building a structured knowledge base from **Team Deakins podcast episodes**, **rogerdeakins.com forum discussions**, and **cinematography articles**.
 
-**Current Status:** Production-ready v2.0 with threading support, 3,075+ forum posts indexed, ready for AI/MCP integration.
+**Current Status:** Production-ready v2.0 with threading support, 3,075+ forum posts indexed, **348/348 podcast episodes fully transcribed**, standalone Flask knowledge browser, and transcript editing UI in Frame.
 
 > **⚠️ IMPORTANT**: This project is for **personal research and educational purposes only**. All content remains property of its copyright holders. See [Legal & Fair Use](#legal--fair-use) below.
 
@@ -26,7 +26,7 @@ A comprehensive research toolkit for building a structured knowledge base from *
 
 Purefoy extracts and structures Team Deakins' cinematography knowledge from multiple sources:
 
-1. **Podcast Episodes** - Team Deakins podcast with transcripts (200+ episodes)
+1. **Podcast Episodes** - Team Deakins podcast with transcripts (348 episodes, fully transcribed)
 2. **Forum Discussions** - rogerdeakins.com forums (3,075+ posts across 9 forums)
 3. **Articles** - Technical articles from rogerdeakins.com (upcoming)
 
@@ -208,15 +208,15 @@ python ingest_teamdeakins_downloads.py \
 
 | Component | Status | Coverage | Notes |
 |-----------|--------|----------|-------|
-| **Podcast Transcripts** | 🟡 Beta | 5 test episodes | Tools exist, automation pending |
+| **Podcast Transcripts** | ✅ Complete | 348/348 episodes | Full corpus transcribed; transcript editing UI in Frame; standalone Flask browser at localhost:5050 |
 | **Articles Scraper** | 🟡 Prototype | 3 sample articles | Parser complete, needs integration |
-
+### 📋 Planned
 ### 📋 Planned
 
-- Full transcript automation (200+ episodes)
 - Article scraper integration
 - MCP server implementation
 - Enhanced analytics and visualization
+- Cross-reference linking (forums ↔ podcasts ↔ articles)
 - Cross-reference linking (forums ↔ podcasts ↔ articles)
 
 See [ROADMAP.md](documentation/roadmap/ROADMAP.md) for detailed plans.
@@ -481,4 +481,4 @@ For commercial use or public distribution, contact:
 
 **Version:** 2.0.0
 **Status:** Production Ready
-**Last Updated:** 2026-01-15
+**Last Updated:** 2026-03-23
