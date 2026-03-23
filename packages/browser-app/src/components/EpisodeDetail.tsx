@@ -84,6 +84,9 @@ export function EpisodeDetail({ slug, onBack }: EpisodeDetailProps) {
         style={{ marginTop: '1rem' }}
       >
         {transcriptVisible ? 'Hide Transcript' : 'View Transcript'}
+        {!transcriptVisible && detail.hasGoal && (
+          <Tag size="sm" type="green" style={{ marginLeft: '0.5rem' }}>Goal</Tag>
+        )}
       </Button>
 
       <TranscriptViewer slug={slug} visible={transcriptVisible} seekToTime={seekToTime} />
