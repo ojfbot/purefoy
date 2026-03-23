@@ -154,6 +154,8 @@ class RemoteWorker:
     diarize: bool = False
     hf_token: str | None = None
     embed_speakers: bool = False
+    # Actual ffmpeg bin directory discovered during setup (may differ from /usr/bin on DLAMI)
+    ffmpeg_dir: str = ""
 
     # ── SSH / rsync helpers ───────────────────────────────────────────────
 
@@ -335,13 +337,30 @@ class RemoteWorker:
 
         # 2. Install system deps (ffmpeg) + faster-whisper
         logger.info("[%s] Installing ffmpeg...", self.host)
-        rc, _, err = self._ssh(
-            "sudo apt-get install -y ffmpeg 2>&1 | tail -3",
-            timeout=120,
+        # Fresh EC2 instances may have a stale apt cache or a lock held by unattended-upgrades.
+        # Update first, then install with a 300s lock timeout.
+        rc_upd, upd_out, _ = self._ssh(
+            "sudo apt-get -o DPkg::Lock::Timeout=300 update -qq 2>&1 | tail -3",
+            timeout=360,
         )
-        if rc != 0:
-            raise RuntimeError(f"ffmpeg install failed on {self.host}: {err[:300]}")
-        logger.info("[%s] ffmpeg ready", self.host)
+        if rc_upd != 0:
+            logger.warning("[%s] apt-get update returned %d: %s", self.host, rc_upd, upd_out.strip())
+        rc_inst, inst_out, _ = self._ssh(
+            "sudo apt-get -o DPkg::Lock::Timeout=300 install -y ffmpeg 2>&1 | tail -5",
+            timeout=360,
+        )
+        if rc_inst != 0:
+            logger.warning("[%s] apt-get install ffmpeg returned %d: %s", self.host, rc_inst, inst_out.strip())
+        # Verify and capture actual ffmpeg path (DLAMI may have it in conda, not /usr/bin)
+        rc2, ffmpeg_path, _ = self._ssh("which ffmpeg", timeout=10)
+        if rc2 != 0 or not ffmpeg_path.strip():
+            raise RuntimeError(
+                f"ffmpeg not found on {self.host} after install attempt. "
+                f"apt update rc={rc_upd}, apt install rc={rc_inst}. "
+                f"Install output: {inst_out.strip()[:200]}"
+            )
+        self.ffmpeg_dir = ffmpeg_path.strip().rsplit("/", 1)[0]
+        logger.info("[%s] ffmpeg ready at %s", self.host, ffmpeg_path.strip())
 
         # g4dn.xlarge has 16 GB RAM; transcribe_episodes.py peaks at ~14.5 GB anon-RSS
         # during ECAPA speaker-embedding load (whisper model + pyannote results + full
@@ -535,7 +554,11 @@ class RemoteWorker:
             # PATH is set explicitly because nohup sh -c runs a non-interactive,
             # non-login shell whose PATH may not include /usr/bin (where apt
             # installs ffmpeg). Sourcing .bashrc in a nohup context is unreliable.
+            # self.ffmpeg_dir is discovered during setup — prepend it so the detached
+            # process finds ffmpeg even if it lives in a conda bin (common on DLAMI).
             std_path = "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+            if self.ffmpeg_dir and self.ffmpeg_dir not in std_path:
+                std_path = f"{self.ffmpeg_dir}:{std_path}"
             env_prefix = f"PATH={std_path} "
             if self.hf_token:
                 env_prefix += f"HF_TOKEN={self.hf_token} "
