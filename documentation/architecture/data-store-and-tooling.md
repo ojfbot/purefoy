@@ -12,7 +12,7 @@ The knowledge base has two independent data domains:
 
 | Domain | Source | Location | Status |
 |---|---|---|---|
-| **Podcast transcripts** | 347 MP3 episodes from Team Deakins RSS | `downloads/` | 290/347 transcribed (57 in progress) |
+| **Podcast transcripts** | 348 MP3 episodes from Team Deakins RSS | `downloads/` | 348/348 transcribed (all complete as of 2026-03-18) |
 | **Forum posts** | rogerdeakins.com bbPress forums | `library/forums/` | Partial (278 posts, 45 topics) |
 
 Both domains are flat-file JSON stores — no database required for reading. SQLite FTS5 index
@@ -60,8 +60,8 @@ Examples:
 
 Season `00` = early unnumbered episodes. Season `86` = bonus/special.
 
-**Total episode directories:** 347
-**With completed transcripts:** 290 (57 in progress as of 2026-03-16)
+**Total episode directories:** 348
+**With completed transcripts:** 348 (all complete as of 2026-03-18)
 
 ### 2c. run_id naming
 
@@ -290,9 +290,10 @@ Located at `speaker_embeddings/` within each run directory.
 merge pass not yet implemented). Speaker cluster labels are not named — cross-episode
 clustering to identify Roger/James/guest is future work (B3 phase).
 
-**~65 episodes** from the first overnight batch (run_20260305192707) have empty
+**~11 episodes** from the first overnight batch (run_20260305192707) have empty
 `speaker_embeddings/` directories due to an ECAPA bug fixed mid-batch. Their transcripts
-and diarization labels are correct — only the `.npy` files are missing.
+and diarization labels are correct — only the `.npy` files are missing. Re-embed pass
+running 2026-03-18 (12-episode batch including S02E176 re-run).
 
 ---
 
@@ -300,11 +301,11 @@ and diarization labels are correct — only the `.npy` files are missing.
 
 | Metric | Value |
 |---|---|
-| Episodes with transcripts | 290 (57 in progress) |
-| Total audio transcribed | ~696 hours |
-| Total segments | ~689,000 |
-| Total words | ~7,280,000 |
-| Total chapters | ~15,600 |
+| Episodes with transcripts | 348 (all complete) |
+| Total audio transcribed | ~837 hours |
+| Total segments | ~830,000 |
+| Total words | ~8,760,000 |
+| Total chapters | ~18,800 |
 | Avg episode duration | ~72 min |
 | Avg segments per episode | ~1,183 |
 | Avg chapters per episode | ~26 |
@@ -494,11 +495,10 @@ python -m deakins_forums.cli export roger-only -o analysis/roger_posts.txt
 
 | Issue | Scope | Status |
 |---|---|---|
-| Empty `speaker_embeddings/` | ~65 episodes (run_20260305192707) | Needs `--reembed-only` pass |
+| Empty `speaker_embeddings/` | ~11 episodes (run_20260305192707 batch) | Re-embed pass running as of 2026-03-18 (12-episode batch on EC2) |
 | Over-diarization (4 clusters when 2–3 expected) | All diarized episodes | Post-processing merge pass needed (cosine sim > 0.85) |
 | Speaker clusters not named (SPEAKER_00/01/02) | All diarized episodes | B3 cross-episode clustering not yet implemented |
 | Forum scrape partial (~278 posts) | library/forums/ | Full scrape not yet run |
-| 57 episodes not yet transcribed | downloads/ | Batch in progress |
 
 ---
 
@@ -509,5 +509,5 @@ python -m deakins_forums.cli export roger-only -o analysis/roger_posts.txt
 | Global speaker registry | `library/speaker_profiles/global_registry.json` | Maps cluster IDs to named individuals (Roger, James, guest) across all episodes |
 | Speaker centroids | `library/speaker_profiles/centroids/` | Per-person mean ECAPA-TDNN embedding `.npy` files |
 
-These will be written by a future `identify_speakers.py` B3 pass once all 347 episodes
-are transcribed.
+These will be written by a future `identify_speakers.py` B3 pass. All 348 episodes are
+now transcribed — this pass can begin once the embedding re-run completes (~2026-03-18).
