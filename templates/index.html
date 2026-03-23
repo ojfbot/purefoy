@@ -1,0 +1,1092 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Team Deakins</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<!-- NAV -->
+<nav id="nav">
+  <div class="nav-left">
+    <span class="logo">TEAM DEAKINS</span>
+    <button class="nav-tab active" data-view="episodes">Episodes</button>
+    <button class="nav-tab" data-view="forum">Forum</button>
+  </div>
+  <div class="nav-right">
+    <input type="text" id="search" placeholder="Search episodes..." autocomplete="off">
+  </div>
+</nav>
+
+<!-- MAIN CONTENT (full viewport, no vertical scroll) -->
+<main id="app">
+
+  <!-- EPISODES VIEW -->
+  <section id="view-episodes" class="view active">
+    <!-- Hero / feature area -->
+    <div id="hero">
+      <div id="hero-bg"></div>
+      <div id="hero-content">
+        <h1 id="hero-title"></h1>
+        <p id="hero-meta"></p>
+        <p id="hero-desc"></p>
+        <div id="hero-actions">
+          <button id="hero-play" class="btn-primary">Transcript</button>
+          <button id="hero-info" class="btn-secondary">More Info</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Carousels -->
+    <div id="carousels"></div>
+  </section>
+
+  <!-- FORUM VIEW -->
+  <section id="view-forum" class="view">
+    <div id="forum-carousels"></div>
+  </section>
+
+  <!-- DETAIL MODAL -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-backdrop"></div>
+    <div class="modal-content">
+      <button class="modal-close">&times;</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+</main>
+
+<script>
+// ---- State ----
+let allEpisodes = [];
+let forumTopics = [];
+let activeSlug = null;
+
+// ---- Bootstrap ----
+document.addEventListener('DOMContentLoaded', async () => {
+  const [epsRes, forumRes] = await Promise.all([
+    fetch('/api/episodes'),
+    fetch('/api/forum/topics'),
+  ]);
+  allEpisodes = await epsRes.json();
+  forumTopics = await forumRes.json();
+
+  renderEpisodes(allEpisodes);
+  renderForumCarousels(forumTopics);
+  setupNav();
+  setupSearch();
+});
+
+// ---- Nav tabs ----
+function setupNav() {
+  document.querySelectorAll('.nav-tab').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.nav-tab').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const view = btn.dataset.view;
+      document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+      document.getElementById('view-' + view).classList.add('active');
+    });
+  });
+}
+
+// ---- Search ----
+function setupSearch() {
+  const input = document.getElementById('search');
+  input.addEventListener('input', () => {
+    const q = input.value.toLowerCase().trim();
+    if (!q) {
+      renderEpisodes(allEpisodes);
+      return;
+    }
+    const filtered = allEpisodes.filter(ep =>
+      ep.title.toLowerCase().includes(q) ||
+      ep.guest_slug.replace(/-/g, ' ').includes(q) ||
+      (ep.topics || []).some(t => t.includes(q)) ||
+      (ep.films || []).some(f => f.toLowerCase().includes(q))
+    );
+    renderEpisodes(filtered);
+  });
+}
+
+// ---- Episode rendering ----
+function renderEpisodes(eps) {
+  // Set hero to latest episode
+  if (eps.length > 0) setHero(eps[0]);
+
+  const container = document.getElementById('carousels');
+  container.innerHTML = '';
+
+  // Group: Recent, by season, by topic
+  addCarousel(container, 'Recently Added', eps.slice(0, 30));
+
+  // Seasons
+  const seasons = new Map();
+  eps.forEach(ep => {
+    const s = ep.season ?? -1;
+    if (!seasons.has(s)) seasons.set(s, []);
+    seasons.get(s).push(ep);
+  });
+  // Sort seasons descending
+  [...seasons.keys()].sort((a, b) => b - a).forEach(s => {
+    const label = s === 0 ? 'Season 0 — Foundations' : s === 1 ? 'Season 1' : s === 2 ? 'Season 2' : `Season ${s}`;
+    addCarousel(container, label, seasons.get(s));
+  });
+
+  // Topic carousels (top topics)
+  const topicMap = new Map();
+  eps.forEach(ep => {
+    (ep.topics || []).forEach(t => {
+      if (!topicMap.has(t)) topicMap.set(t, []);
+      topicMap.get(t).push(ep);
+    });
+  });
+  const topTopics = [...topicMap.entries()]
+    .sort((a, b) => b[1].length - a[1].length)
+    .slice(0, 6);
+  topTopics.forEach(([topic, topicEps]) => {
+    const label = topic.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+    addCarousel(container, label, topicEps);
+  });
+
+  // Films
+  const filmMap = new Map();
+  eps.forEach(ep => {
+    (ep.films || []).forEach(f => {
+      if (!filmMap.has(f)) filmMap.set(f, []);
+      filmMap.get(f).push(ep);
+    });
+  });
+  const topFilms = [...filmMap.entries()]
+    .filter(([, v]) => v.length >= 2)
+    .sort((a, b) => b[1].length - a[1].length)
+    .slice(0, 4);
+  topFilms.forEach(([film, filmEps]) => {
+    addCarousel(container, `Discussing: ${film}`, filmEps);
+  });
+}
+
+function setHero(ep) {
+  activeSlug = ep.slug;
+  const bg = document.getElementById('hero-bg');
+  // Generate a color from the guest slug for visual variety
+  const hue = hashStr(ep.guest_slug) % 360;
+  bg.style.background = `linear-gradient(135deg, hsl(${hue}, 40%, 15%) 0%, #141414 70%)`;
+
+  document.getElementById('hero-title').textContent = ep.title;
+  document.getElementById('hero-meta').textContent =
+    `S${String(ep.season).padStart(2,'0')}E${String(ep.episode).padStart(3,'0')} · ${ep.pub_date} · ${ep.duration}` +
+    (ep.has_transcript ? ` · ${ep.chapter_count} chapters` : '');
+
+  const desc = document.getElementById('hero-desc');
+  // Strip HTML from description, truncate
+  const tmp = document.createElement('div');
+  tmp.innerHTML = ep.description || '';
+  const text = tmp.textContent || '';
+  desc.textContent = text.length > 280 ? text.slice(0, 280) + '...' : text;
+
+  document.getElementById('hero-play').onclick = () => openTranscript(ep.slug);
+  document.getElementById('hero-info').onclick = () => openDetail(ep.slug);
+}
+
+function addCarousel(container, title, eps) {
+  if (eps.length === 0) return;
+  const row = document.createElement('div');
+  row.className = 'carousel-row';
+  row.innerHTML = `<h2 class="row-title">${title}</h2>`;
+  const track = document.createElement('div');
+  track.className = 'carousel-track';
+  eps.forEach(ep => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    const hue = hashStr(ep.guest_slug) % 360;
+    card.innerHTML = `
+      <div class="card-thumb" style="background: linear-gradient(160deg, hsl(${hue}, 50%, 25%), hsl(${(hue+40)%360}, 30%, 12%))">
+        <span class="card-ep">S${ep.season ?? '?'}E${ep.episode ?? '?'}</span>
+        ${ep.has_transcript ? '<span class="card-badge">CC</span>' : ''}
+      </div>
+      <div class="card-info">
+        <div class="card-title">${ep.title}</div>
+        <div class="card-sub">${ep.pub_date} · ${ep.duration || ''}</div>
+      </div>
+    `;
+    card.addEventListener('click', () => {
+      setHero(ep);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    card.addEventListener('dblclick', () => openDetail(ep.slug));
+    track.appendChild(card);
+  });
+  row.appendChild(track);
+  container.appendChild(row);
+}
+
+// ---- Forum rendering ----
+function renderForumCarousels(topics) {
+  const container = document.getElementById('forum-carousels');
+  container.innerHTML = '<h2 class="row-title" style="padding:24px 60px 0">Roger Deakins Forum</h2>';
+
+  // Group by forum_slug
+  const groups = new Map();
+  topics.forEach(t => {
+    const g = t.forum_slug || 'general';
+    if (!groups.has(g)) groups.set(g, []);
+    groups.get(g).push(t);
+  });
+
+  // "Most Active" carousel
+  const active = [...topics].sort((a, b) => b.reply_count - a.reply_count);
+  addForumCarousel(container, 'Most Active Discussions', active);
+
+  groups.forEach((groupTopics, slug) => {
+    const label = slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+    addForumCarousel(container, label, groupTopics);
+  });
+}
+
+function addForumCarousel(container, title, topics) {
+  if (topics.length === 0) return;
+  const row = document.createElement('div');
+  row.className = 'carousel-row';
+  row.innerHTML = `<h2 class="row-title">${title}</h2>`;
+  const track = document.createElement('div');
+  track.className = 'carousel-track';
+  topics.forEach(t => {
+    const card = document.createElement('div');
+    card.className = 'card card-forum';
+    const hue = hashStr(t.slug) % 360;
+    card.innerHTML = `
+      <div class="card-thumb card-thumb-forum" style="background: linear-gradient(160deg, hsl(${hue}, 35%, 20%), hsl(${(hue+60)%360}, 20%, 10%))">
+        <span class="card-reply-count">${t.reply_count}</span>
+        <span class="card-reply-label">replies</span>
+      </div>
+      <div class="card-info">
+        <div class="card-title">${t.title}</div>
+        <div class="card-sub">${t.post_ids.length} posts</div>
+      </div>
+    `;
+    card.addEventListener('click', () => openForumTopic(t.slug));
+    track.appendChild(card);
+  });
+  row.appendChild(track);
+  container.appendChild(row);
+}
+
+// ---- Modal / detail ----
+function openModal(html) {
+  const modal = document.getElementById('modal');
+  document.getElementById('modal-body').innerHTML = html;
+  modal.classList.remove('hidden');
+  modal.querySelector('.modal-close').onclick = closeModal;
+  modal.querySelector('.modal-backdrop').onclick = closeModal;
+}
+function closeModal() {
+  // Flush review progress if we were in edit mode
+  if (_trState && _trState.isEditing) _flushReviewProgress();
+  if (_reviewObserver) { _reviewObserver.disconnect(); _reviewObserver = null; }
+  document.getElementById('modal').classList.add('hidden');
+}
+
+async function openDetail(slug) {
+  const ep = allEpisodes.find(e => e.slug === slug);
+  if (!ep) return;
+  let chaptersHtml = '';
+  if (ep.has_transcript) {
+    const res = await fetch(`/api/episodes/${slug}/chapters`);
+    const chapters = await res.json();
+    if (chapters.length > 0) {
+      chaptersHtml = `
+        <h3>Chapters</h3>
+        <div class="chapter-list">
+          ${chapters.map(ch => `
+            <div class="chapter-item">
+              <span class="ch-time">${fmtTime(ch.start_time)}</span>
+              <div class="ch-body">
+                <div class="ch-title">${ch.title}</div>
+                <div class="ch-summary">${ch.summary || ''}</div>
+                ${ch.films && ch.films.length ? `<div class="ch-films">${ch.films.join(', ')}</div>` : ''}
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      `;
+    }
+  }
+  const topicsHtml = ep.topics.length
+    ? `<div class="tag-row">${ep.topics.map(t => `<span class="tag">${t.replace(/_/g,' ')}</span>`).join('')}</div>`
+    : '';
+  const filmsHtml = ep.films.length
+    ? `<div class="tag-row">${ep.films.map(f => `<span class="tag tag-film">${f}</span>`).join('')}</div>`
+    : '';
+  openModal(`
+    <h2>${ep.full_title || ep.title}</h2>
+    <p class="modal-meta">S${ep.season}E${ep.episode} · ${ep.pub_date} · ${ep.duration}</p>
+    ${topicsHtml}
+    ${filmsHtml}
+    <div class="modal-desc">${ep.description || ''}</div>
+    ${ep.has_transcript ? `<button class="btn-primary" onclick="openTranscript('${slug}')">View Transcript</button>` : ''}
+    ${chaptersHtml}
+  `);
+}
+
+// Speaker color palette — distinct, readable on dark bg
+const SPEAKER_COLORS = [
+  { name: 'Roger',  color: '#e5737f', bg: 'rgba(229,115,127,0.08)' },
+  { name: 'James',  color: '#73b8e5', bg: 'rgba(115,184,229,0.08)' },
+  { name: 'Guest',  color: '#73e5a0', bg: 'rgba(115,229,160,0.08)' },
+  { name: 'Speaker 4', color: '#e5c873', bg: 'rgba(229,200,115,0.08)' },
+];
+
+function speakerStyle(idx) {
+  return SPEAKER_COLORS[idx % SPEAKER_COLORS.length];
+}
+
+// ---- Transcript state (persists across view/edit toggles within one modal) ----
+let _trState = null; // { slug, originalSegments, editSegments, speakerOrder, speakerIdx, hasGoal, isEditing, isDirty, viewingGoal }
+
+async function _fetchSegments(url) {
+  const res = await fetch(url);
+  if (!res.ok) return [];
+  const text = await res.text();
+  return text.trim().split('\n').map(l => {
+    try { return JSON.parse(l); } catch { return null; }
+  }).filter(Boolean);
+}
+
+function _buildSpeakerIndex(segments) {
+  const order = [];
+  segments.forEach(s => {
+    if (s.speaker && !order.includes(s.speaker)) order.push(s.speaker);
+  });
+  const idx = {};
+  order.forEach((sp, i) => { idx[sp] = i; });
+  return { order, idx };
+}
+
+function _groupTurns(segments) {
+  const turns = [];
+  let current = null;
+  segments.forEach((seg, i) => {
+    if (!current || current.speaker !== seg.speaker) {
+      current = { speaker: seg.speaker || 'Unknown', start: seg.start, end: seg.end, texts: [seg.text], firstSegIdx: i };
+      turns.push(current);
+    } else {
+      current.end = seg.end;
+      current.texts.push(seg.text);
+    }
+  });
+  return turns;
+}
+
+function _renderConvoView(segments, speakerOrder, speakerIdx) {
+  const turns = _groupTurns(segments);
+  let legendHtml = '<div class="tr-legend">';
+  speakerOrder.forEach((sp, i) => {
+    const style = speakerStyle(i);
+    legendHtml += `<span class="tr-legend-item" style="color:${style.color}">${sp}</span>`;
+  });
+  legendHtml += `<span class="tr-legend-count">${turns.length} turns · ${segments.length} segments</span>`;
+  legendHtml += '</div>';
+
+  let convoHtml = '<div class="transcript-convo">';
+  turns.forEach(turn => {
+    const idx = speakerIdx[turn.speaker] ?? 0;
+    const style = speakerStyle(idx);
+    convoHtml += `
+      <div class="tr-turn tr-turn-clickable" data-start="${turn.start}" style="border-left-color:${style.color}; background:${style.bg}" onclick="jumpToEdit(${turn.firstSegIdx})" title="Click to edit this turn">
+        <div class="tr-turn-header">
+          <span class="tr-turn-speaker" style="color:${style.color}">${turn.speaker}</span>
+          <span class="tr-turn-time">${fmtTime(turn.start)}</span>
+        </div>
+        <div class="tr-turn-text">${turn.texts.join(' ')}</div>
+      </div>`;
+  });
+  convoHtml += '</div>';
+  return legendHtml + convoHtml;
+}
+
+function _renderEditView() {
+  const st = _trState;
+  const segs = st.editSegments;
+  // Review progress bar
+  const totalSegs = segs.length;
+  const reviewedCount = st.reviewedSegs ? st.reviewedSegs.size : 0;
+  const reviewPct = totalSegs ? Math.round((reviewedCount / totalSegs) * 100) : 0;
+  let html = `<div class="review-progress-bar">
+    <div class="review-progress-fill" style="width:${reviewPct}%"></div>
+    <span class="review-progress-label">${reviewedCount}/${totalSegs} segments reviewed (${reviewPct}%)</span>
+  </div>`;
+
+  html += '<div class="edit-segments">';
+  const base = st.editBase || st.originalSegments;
+  segs.forEach((seg, i) => {
+    const orig = base.find(o => o._origIdx === seg._origIdx);
+    const isSplit = !!seg._splitFrom;
+    const speakerChanged = orig && seg.speaker !== orig.speaker;
+    const textChanged = orig && seg.text !== orig.text;
+    const modified = speakerChanged || textChanged || isSplit;
+    const isReviewed = st.reviewedSegs && st.reviewedSegs.has(i);
+
+    // Speaker color for left border
+    const spIdx = st.speakerIdx[seg.speaker] ?? 0;
+    const spStyle = speakerStyle(spIdx);
+    const borderColor = modified ? '#e5c873' : spStyle.color;
+
+    html += `<div class="edit-seg ${modified ? 'modified' : ''} ${isSplit ? 'split-child' : ''} ${isReviewed ? 'reviewed' : ''}" data-idx="${i}" style="border-left: 3px solid ${borderColor}">`;
+    html += `<span class="edit-seg-time">${fmtTime(seg.start)}</span>`;
+
+    // Speaker dropdown
+    html += `<select class="${speakerChanged ? 'changed' : ''}" onchange="onEditSpeaker(${i}, this.value)">`;
+    st.speakerOrder.forEach(sp => {
+      html += `<option value="${sp}" ${seg.speaker === sp ? 'selected' : ''}>${sp}</option>`;
+    });
+    html += `<option value="__new__">+ New speaker...</option>`;
+    html += `</select>`;
+
+    // Text area: render as clickable words with multi-split support
+    const words = (seg.text || '').split(/\s+/).filter(Boolean);
+    const splits = _trState.pendingSplits && _trState.pendingSplits.segIdx === i
+      ? _trState.pendingSplits.wordIndices : null;
+    const hasPendingSplits = splits && splits.length > 0;
+
+    html += `<div class="edit-seg-text-wrap ${textChanged ? 'changed' : ''}">`;
+    html += `<div class="edit-seg-words" data-idx="${i}">`;
+    words.forEach((w, wi) => {
+      const escaped = w.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+      if (wi > 0) {
+        const isMarked = splits && splits.includes(wi);
+        html += `<button class="split-btn ${isMarked ? 'split-marked' : ''}" onclick="toggleSplitMark(${i}, ${wi})" title="${isMarked ? 'Remove split mark' : 'Mark split point here'}">|</button>`;
+      }
+      html += `<span class="edit-word" data-seg="${i}" data-wi="${wi}">${escaped}</span> `;
+    });
+    html += `</div>`;
+    // Apply splits button (shown when marks exist)
+    if (hasPendingSplits) {
+      html += `<div class="split-actions">`;
+      html += `<button class="btn-apply-splits" onclick="applyMultiSplit(${i})">Split into ${splits.length + 1} pieces</button>`;
+      html += `<button class="btn-clear-splits" onclick="clearSplitMarks()">Clear</button>`;
+      html += `</div>`;
+    }
+    // Pencil toggle for full text editing
+    html += `<button class="edit-text-toggle" onclick="showTextEditor(${i})" title="Edit text">&#9998;</button>`;
+    html += `<div class="edit-seg-textinput hidden" data-idx="${i}">`;
+    const fullEscaped = (seg.text || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    html += `<textarea data-idx="${i}" onblur="onEditTextArea(${i}, this)">${fullEscaped}</textarea>`;
+    html += `</div>`;
+    html += `</div>`;
+
+    html += `</div>`;
+  });
+  html += '</div>';
+  return html;
+}
+
+function showTextEditor(idx) {
+  const wrap = document.querySelector(`.edit-seg-textinput[data-idx="${idx}"]`);
+  const words = document.querySelector(`.edit-seg-words[data-idx="${idx}"]`);
+  if (wrap && words) {
+    wrap.classList.remove('hidden');
+    words.classList.add('hidden');
+    wrap.querySelector('textarea').focus();
+  }
+}
+
+function onEditTextArea(idx, el) {
+  if (!_trState) return;
+  const newText = el.value.trim();
+  if (_trState.editSegments[idx].text !== newText) {
+    _trState.editSegments[idx].text = newText;
+    _trState.isDirty = true;
+  }
+  // Re-render to sync word view
+  _renderTranscriptModal();
+  const editDiv = document.querySelector('.edit-segments');
+  if (editDiv) {
+    const row = editDiv.querySelector(`[data-idx="${idx}"]`);
+    if (row) row.scrollIntoView({ block: 'center' });
+  }
+}
+
+// ---- Multi-split: mark multiple split points, then apply at once ----
+
+function toggleSplitMark(segIdx, wordIdx) {
+  if (!_trState) return;
+  // If switching to a different segment, clear previous marks
+  if (!_trState.pendingSplits || _trState.pendingSplits.segIdx !== segIdx) {
+    _trState.pendingSplits = { segIdx, wordIndices: [] };
+  }
+  const marks = _trState.pendingSplits.wordIndices;
+  const pos = marks.indexOf(wordIdx);
+  if (pos >= 0) {
+    marks.splice(pos, 1); // unmark
+  } else {
+    marks.push(wordIdx);
+    marks.sort((a, b) => a - b);
+  }
+  // Re-render just the word area (no full re-render to keep scroll)
+  _renderTranscriptModal();
+  // Scroll back to this segment
+  requestAnimationFrame(() => {
+    const editDiv = document.querySelector('.edit-segments');
+    if (editDiv) {
+      const row = editDiv.querySelector(`.edit-seg[data-idx="${segIdx}"]`);
+      if (row) row.scrollIntoView({ block: 'center' });
+    }
+  });
+}
+
+function clearSplitMarks() {
+  if (!_trState) return;
+  _trState.pendingSplits = null;
+  _renderTranscriptModal();
+}
+
+function applyMultiSplit(segIdx) {
+  if (!_trState || !_trState.pendingSplits) return;
+  const marks = _trState.pendingSplits.wordIndices;
+  if (marks.length === 0) return;
+
+  const seg = _trState.editSegments[segIdx];
+  const words = (seg.text || '').split(/\s+/).filter(Boolean);
+  const duration = (seg.end || 0) - (seg.start || 0);
+  const totalWords = words.length;
+
+  // Build pieces: [0..mark1), [mark1..mark2), ..., [markN..end)
+  const cutPoints = [0, ...marks, totalWords];
+  const pieces = [];
+  for (let p = 0; p < cutPoints.length - 1; p++) {
+    const from = cutPoints[p];
+    const to = cutPoints[p + 1];
+    const ratio0 = from / totalWords;
+    const ratio1 = to / totalWords;
+    pieces.push({
+      text: words.slice(from, to).join(' '),
+      start: (seg.start || 0) + duration * ratio0,
+      end: (seg.start || 0) + duration * ratio1,
+    });
+  }
+
+  // Assign speakers to each piece
+  // Show an inline assignment UI — for now use a prompt-based approach
+  // that's fast and handles any number of pieces
+  const speakers = _trState.speakerOrder;
+  const assignments = [];
+
+  // Build speaker lookup by short key: extract trailing number from label, or use full name
+  const spKeys = {};  // key → full speaker name
+  const spLabels = []; // display strings for prompt
+  speakers.forEach(sp => {
+    const m = sp.match(/(\d+)$/);
+    const key = m ? m[1] : sp;
+    spKeys[key] = sp;
+    spKeys[sp] = sp; // also accept full name
+    spLabels.push(`${key}=${sp}`);
+  });
+
+  // Build a preview + prompt
+  let preview = `Splitting into ${pieces.length} pieces. Assign speaker to each:\n\n`;
+  preview += `Speakers: ${spLabels.join(', ')}\n\n`;
+  pieces.forEach((pc, pi) => {
+    const truncText = pc.text.length > 60 ? pc.text.slice(0, 60) + '...' : pc.text;
+    preview += `  "${truncText}"\n`;
+  });
+  preview += `\nEnter speaker IDs separated by spaces:`;
+
+  // Default: alternating between current speaker and the other
+  let defaultPattern = '';
+  if (speakers.length >= 2) {
+    const curKey = (seg.speaker.match(/(\d+)$/) || [, seg.speaker])[1];
+    const otherSp = speakers.find(sp => sp !== seg.speaker) || speakers[0];
+    const otherKey = (otherSp.match(/(\d+)$/) || [, otherSp])[1];
+    defaultPattern = pieces.map((_, pi) => pi % 2 === 0 ? curKey : otherKey).join(' ');
+  }
+
+  const input = prompt(preview, defaultPattern);
+  if (!input) {
+    _trState.pendingSplits = null;
+    _renderTranscriptModal();
+    return;
+  }
+
+  const keys = input.trim().split(/\s+/);
+  const resolved = keys.map(k => spKeys[k]);
+  if (keys.length !== pieces.length || resolved.some(r => !r)) {
+    alert(`Expected ${pieces.length} speaker IDs. Valid: ${Object.keys(spKeys).join(', ')}`);
+    return;
+  }
+
+  // Apply: replace original segment with N new segments
+  const newSegs = pieces.map((pc, pi) => ({
+    id: seg.id + pi * 0.1,
+    start: pc.start,
+    end: pc.end,
+    text: pc.text,
+    speaker: resolved[pi],
+    segment_type: seg.segment_type,
+    chapter_id: seg.chapter_id,
+    confidence: 0.0,
+    topics: seg.topics ? [...seg.topics] : [],
+    _origIdx: seg._origIdx,
+    _splitFrom: pi === 0 ? undefined : segIdx,
+  }));
+
+  _trState.editSegments.splice(segIdx, 1, ...newSegs);
+  _trState.pendingSplits = null;
+  _trState.isDirty = true;
+
+  _renderTranscriptModal();
+  requestAnimationFrame(() => {
+    const editDiv = document.querySelector('.edit-segments');
+    if (editDiv) {
+      const row = editDiv.querySelector(`.edit-seg[data-idx="${segIdx}"]`);
+      if (row) row.scrollIntoView({ block: 'center' });
+    }
+  });
+}
+
+function _renderToolbar() {
+  const st = _trState;
+  const ep = allEpisodes.find(e => e.slug === st.slug);
+  let html = '<div class="tr-toolbar">';
+
+  // Source toggle (only if goal data exists)
+  if (st.hasGoal && !st.isEditing) {
+    html += `<div class="tr-source-toggle">
+      <button class="${!st.viewingGoal ? 'active' : ''}" onclick="toggleTranscriptSource(false)">Original</button>
+      <button class="${st.viewingGoal ? 'active' : ''}" onclick="toggleTranscriptSource(true)">Goal</button>
+    </div>`;
+  }
+  if (st.viewingGoal && !st.isEditing) {
+    html += `<span class="goal-badge">Goal Data</span>`;
+  }
+
+  // Edit / Save / Discard buttons
+  if (st.isEditing) {
+    html += `<button class="btn-edit active" onclick="toggleEditMode()">Editing</button>`;
+    html += `<button class="btn-save" onclick="saveGoalData()" ${st.isDirty ? '' : 'disabled'}>Save as Goal Data</button>`;
+    html += `<button class="btn-discard" onclick="discardEdits()">Discard</button>`;
+    // Stats
+    let sc = 0, te = 0, sp = 0;
+    const base = st.editBase || st.originalSegments;
+    st.editSegments.forEach(seg => {
+      if (seg._splitFrom != null) { sp++; return; }
+      const orig = base.find(o => o._origIdx === seg._origIdx);
+      if (orig) {
+        if (seg.speaker !== orig.speaker) sc++;
+        if (seg.text !== orig.text) te++;
+      }
+    });
+    const parts = [];
+    if (sc) parts.push(`${sc} speaker`);
+    if (te) parts.push(`${te} text`);
+    if (sp) parts.push(`${sp} split`);
+    if (parts.length) {
+      html += `<span class="edit-stats">${parts.join(' · ')}</span>`;
+    }
+    // Review coverage in toolbar
+    const revCount = st.reviewedSegs ? st.reviewedSegs.size : 0;
+    const totalSegs = st.editSegments ? st.editSegments.length : 0;
+    if (totalSegs) {
+      const pct = Math.round((revCount / totalSegs) * 100);
+      html += `<span class="edit-stats">${pct}% reviewed</span>`;
+    }
+  } else {
+    html += `<button class="btn-edit" onclick="toggleEditMode()">Edit</button>`;
+  }
+
+  html += '</div>';
+  return html;
+}
+
+function _renderTranscriptModal() {
+  const st = _trState;
+  const ep = allEpisodes.find(e => e.slug === st.slug);
+  const title = ep ? ep.title : 'Transcript';
+
+  let body = `<h2>${title}</h2>`;
+  body += _renderToolbar();
+
+  if (st.isEditing) {
+    body += _renderEditView();
+  } else {
+    const segs = st.viewingGoal ? (st.goalSegments || st.originalSegments) : st.originalSegments;
+    const { order, idx } = _buildSpeakerIndex(segs);
+    body += _renderConvoView(segs, order, idx);
+  }
+
+  document.getElementById('modal-body').innerHTML = body;
+
+  // Restore scroll position when returning from edit to convo view
+  if (!st.isEditing && st._returnToTime != null) {
+    _scrollConvoToTime(st._returnToTime);
+    st._returnToTime = null;
+  }
+}
+
+function toggleTranscriptSource(viewGoal) {
+  if (!_trState) return;
+  _trState.viewingGoal = viewGoal;
+  _renderTranscriptModal();
+}
+
+function _getVisibleEditSegIdx() {
+  const container = document.querySelector('.edit-segments');
+  if (!container) return null;
+  const rows = container.querySelectorAll('.edit-seg');
+  const containerRect = container.getBoundingClientRect();
+  const midY = containerRect.top + containerRect.height / 2;
+  let closest = null, closestDist = Infinity;
+  rows.forEach(row => {
+    const rect = row.getBoundingClientRect();
+    const dist = Math.abs(rect.top + rect.height / 2 - midY);
+    if (dist < closestDist) { closestDist = dist; closest = row; }
+  });
+  return closest ? parseInt(closest.dataset.idx) : null;
+}
+
+function _scrollConvoToTime(startTime) {
+  requestAnimationFrame(() => {
+    const convo = document.querySelector('.transcript-convo');
+    if (!convo) return;
+    const turns = convo.querySelectorAll('.tr-turn');
+    let target = null;
+    turns.forEach(t => {
+      const time = parseFloat(t.dataset.start);
+      if (!isNaN(time) && time <= startTime) target = t;
+    });
+    if (target) target.scrollIntoView({ block: 'center', behavior: 'auto' });
+  });
+}
+
+function toggleEditMode(scrollToSegIdx) {
+  if (!_trState) return;
+  if (_trState.isEditing && scrollToSegIdx == null) {
+    // Capture current scroll position before exiting
+    const visIdx = _getVisibleEditSegIdx();
+    const returnTime = visIdx != null && _trState.editSegments[visIdx]
+      ? _trState.editSegments[visIdx].start : null;
+    // Exit edit mode — flush review progress
+    _flushReviewProgress();
+    _trState.isEditing = false;
+    _trState._returnToTime = returnTime;
+  } else if (!_trState.isEditing) {
+    // Enter edit mode — start from goal data if it exists, else original
+    const source = _trState.goalSegments || _trState.originalSegments;
+    // Snapshot the base we cloned from — diff against this, not originalSegments
+    _trState.editBase = JSON.parse(JSON.stringify(source));
+    _trState.editSegments = JSON.parse(JSON.stringify(source));
+    _trState.editBase.forEach((seg, i) => { seg._origIdx = i; });
+    _trState.editSegments.forEach((seg, i) => { seg._origIdx = i; });
+    _trState.isEditing = true;
+    _trState.isDirty = false;
+    _trState.reviewedSegs = new Set(_trState.reviewedSegs || []);
+  }
+  _renderTranscriptModal();
+
+  // Scroll to target segment, highlight it, and focus the speaker select
+  if (scrollToSegIdx != null && _trState.isEditing) {
+    requestAnimationFrame(() => {
+      const editDiv = document.querySelector('.edit-segments');
+      if (!editDiv) return;
+      const row = editDiv.querySelector(`.edit-seg[data-idx="${scrollToSegIdx}"]`);
+      if (!row) return;
+      row.scrollIntoView({ block: 'center', behavior: 'smooth' });
+      row.classList.add('focus-target');
+      setTimeout(() => row.classList.remove('focus-target'), 2500);
+      const sel = row.querySelector('select');
+      if (sel) setTimeout(() => sel.focus(), 350);
+      // Delay observer until scroll settles — avoid marking fly-by segments as reviewed
+      setTimeout(() => _setupReviewObserver(), 800);
+    });
+  } else if (_trState.isEditing) {
+    // No scroll target — set up observer immediately
+    requestAnimationFrame(() => _setupReviewObserver());
+  }
+}
+
+function jumpToEdit(segIdx) {
+  if (!_trState) return;
+  if (_trState.isEditing) {
+    // Already editing — scroll, highlight, and focus
+    const editDiv = document.querySelector('.edit-segments');
+    if (!editDiv) return;
+    // Clear any previous focus-target
+    editDiv.querySelectorAll('.focus-target').forEach(el => el.classList.remove('focus-target'));
+    const row = editDiv.querySelector(`.edit-seg[data-idx="${segIdx}"]`);
+    if (!row) return;
+    row.scrollIntoView({ block: 'center', behavior: 'smooth' });
+    row.classList.add('focus-target');
+    setTimeout(() => row.classList.remove('focus-target'), 2500);
+    const sel = row.querySelector('select');
+    if (sel) setTimeout(() => sel.focus(), 350);
+    return;
+  }
+  toggleEditMode(segIdx);
+}
+
+// ---- Review progress tracking via IntersectionObserver ----
+let _reviewObserver = null;
+let _reviewFlushTimer = null;
+
+function _setupReviewObserver() {
+  if (_reviewObserver) _reviewObserver.disconnect();
+
+  const container = document.querySelector('.edit-segments');
+  if (!container) return;
+
+  _reviewObserver = new IntersectionObserver((entries) => {
+    if (!_trState) return;
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const idx = parseInt(entry.target.dataset.idx);
+        if (!isNaN(idx)) {
+          _trState.reviewedSegs.add(idx);
+          entry.target.classList.add('reviewed');
+        }
+      }
+    });
+    // Debounced flush to backend
+    clearTimeout(_reviewFlushTimer);
+    _reviewFlushTimer = setTimeout(() => _flushReviewProgress(), 5000);
+  }, { root: container, threshold: 0.6 });
+
+  container.querySelectorAll('.edit-seg').forEach(el => {
+    _reviewObserver.observe(el);
+  });
+}
+
+async function _flushReviewProgress() {
+  if (!_trState || !_trState.reviewedSegs || _trState.reviewedSegs.size === 0) return;
+  try {
+    await fetch(`/api/episodes/${_trState.slug}/transcript/review`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        reviewed_segments: [..._trState.reviewedSegs],
+        total_segments: _trState.editSegments ? _trState.editSegments.length
+          : _trState.originalSegments.length,
+      }),
+    });
+  } catch (e) {
+    // Silent — review tracking is best-effort
+  }
+}
+
+function onEditSpeaker(idx, value) {
+  if (!_trState) return;
+  if (value === '__new__') {
+    const name = prompt('New speaker name:');
+    if (!name || !name.trim()) {
+      // Revert select
+      _renderTranscriptModal();
+      return;
+    }
+    const trimmed = name.trim();
+    if (!_trState.speakerOrder.includes(trimmed)) {
+      _trState.speakerOrder.push(trimmed);
+      _trState.speakerIdx[trimmed] = _trState.speakerOrder.length - 1;
+    }
+    _trState.editSegments[idx].speaker = trimmed;
+  } else {
+    _trState.editSegments[idx].speaker = value;
+  }
+  _trState.isDirty = true;
+  _renderTranscriptModal();
+  // Scroll edit view back to roughly where we were
+  const editDiv = document.querySelector('.edit-segments');
+  if (editDiv) {
+    const row = editDiv.querySelector(`[data-idx="${idx}"]`);
+    if (row) row.scrollIntoView({ block: 'center' });
+  }
+}
+
+// (text editing handled by onEditTextArea via textarea)
+
+function discardEdits() {
+  if (!_trState) return;
+  if (_trState.isDirty && !confirm('Discard all changes?')) return;
+  const visIdx = _getVisibleEditSegIdx();
+  _trState._returnToTime = visIdx != null && _trState.editSegments[visIdx]
+    ? _trState.editSegments[visIdx].start : null;
+  _flushReviewProgress();
+  _trState.isEditing = false;
+  _trState.isDirty = false;
+  _trState.editSegments = null;
+  _renderTranscriptModal();
+}
+
+async function saveGoalData() {
+  if (!_trState || !_trState.isDirty) return;
+  const saveBtn = document.querySelector('.btn-save');
+  if (saveBtn) { saveBtn.disabled = true; saveBtn.textContent = 'Saving...'; }
+
+  try {
+    // Clean segments: renumber IDs, strip internal tracking fields
+    const cleanSegments = _trState.editSegments.map((seg, i) => {
+      const clean = { ...seg, id: i };
+      delete clean._origIdx;
+      delete clean._splitFrom;
+      return clean;
+    });
+
+    const res = await fetch(`/api/episodes/${_trState.slug}/transcript/goal`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ segments: cleanSegments }),
+    });
+    const result = await res.json();
+    if (!res.ok) {
+      alert('Save failed: ' + (result.error || 'unknown error'));
+      if (saveBtn) { saveBtn.disabled = false; saveBtn.textContent = 'Save as Goal Data'; }
+      return;
+    }
+
+    // Capture scroll position and flush review
+    const visIdx = _getVisibleEditSegIdx();
+    _trState._returnToTime = visIdx != null && _trState.editSegments[visIdx]
+      ? _trState.editSegments[visIdx].start : null;
+    _flushReviewProgress();
+
+    // Update state
+    _trState.goalSegments = JSON.parse(JSON.stringify(_trState.editSegments));
+    _trState.hasGoal = true;
+    _trState.isEditing = false;
+    _trState.isDirty = false;
+    _trState.viewingGoal = true;
+
+    // Update episode in allEpisodes
+    const ep = allEpisodes.find(e => e.slug === _trState.slug);
+    if (ep) ep.has_goal = true;
+
+    // Rebuild speaker index from goal segments
+    const { order, idx } = _buildSpeakerIndex(_trState.goalSegments);
+    _trState.speakerOrder = order;
+    _trState.speakerIdx = idx;
+
+    _renderTranscriptModal();
+
+    // Toast
+    const toast = document.createElement('div');
+    toast.className = 'save-toast';
+    const summary = result.manifest?.correction_summary || {};
+    toast.textContent = `Goal Data saved — ${summary.speaker_reassignments || 0} speaker, ${summary.text_edits || 0} text corrections`;
+    document.body.appendChild(toast);
+    setTimeout(() => toast.remove(), 3500);
+  } catch (e) {
+    alert('Save error: ' + e.message);
+    if (saveBtn) { saveBtn.disabled = false; saveBtn.textContent = 'Save as Goal Data'; }
+  }
+}
+
+async function openTranscript(slug) {
+  openModal('<div class="transcript-loading">Loading transcript...</div>');
+  try {
+    // Fetch original + goal + review progress in parallel
+    const [origSegs, goalRes, reviewRes] = await Promise.all([
+      _fetchSegments(`/api/episodes/${slug}/transcript`),
+      fetch(`/api/episodes/${slug}/transcript/goal`),
+      fetch(`/api/episodes/${slug}/transcript/review`),
+    ]);
+
+    if (origSegs.length === 0) {
+      openModal('<p class="transcript-loading">No transcript available for this episode.</p>');
+      return;
+    }
+
+    let goalSegs = null;
+    if (goalRes.ok) {
+      const goalText = await goalRes.text();
+      goalSegs = goalText.trim().split('\n').map(l => {
+        try { return JSON.parse(l); } catch { return null; }
+      }).filter(Boolean);
+      if (goalSegs.length === 0) goalSegs = null;
+    }
+
+    // Load existing review progress
+    let reviewedSegs = new Set();
+    try {
+      if (reviewRes.ok) {
+        const reviewData = await reviewRes.json();
+        if (reviewData.exists && reviewData.reviewed_segments) {
+          reviewedSegs = new Set(reviewData.reviewed_segments);
+        }
+      }
+    } catch (e) { /* ignore */ }
+
+    const { order, idx } = _buildSpeakerIndex(goalSegs || origSegs);
+
+    _trState = {
+      slug,
+      originalSegments: origSegs,
+      goalSegments: goalSegs,
+      editSegments: null,
+      speakerOrder: order,
+      speakerIdx: idx,
+      hasGoal: !!goalSegs,
+      isEditing: false,
+      isDirty: false,
+      viewingGoal: !!goalSegs,
+      reviewedSegs,
+    };
+
+    _renderTranscriptModal();
+  } catch (e) {
+    openModal(`<p class="transcript-loading">Error loading transcript: ${e.message}</p>`);
+  }
+}
+
+async function openForumTopic(slug) {
+  openModal('<div class="transcript-loading">Loading...</div>');
+  try {
+    const res = await fetch(`/api/forum/topics/${slug}`);
+    const data = await res.json();
+    const topic = data.topic;
+    const posts = data.posts;
+
+    let html = `<h2>${topic.title}</h2>`;
+    html += '<div class="forum-thread">';
+    posts.forEach(p => {
+      const isRoger = p.author.toLowerCase().includes('deakins');
+      html += `
+        <div class="forum-post ${isRoger ? 'roger-post' : ''} ${p.post_type === 'topic' ? 'topic-starter' : ''}">
+          <div class="post-author">
+            <strong>${p.author}</strong>
+            ${p.role ? `<span class="post-role">${p.role}</span>` : ''}
+          </div>
+          <div class="post-body">${p.content}</div>
+        </div>
+      `;
+    });
+    html += '</div>';
+    openModal(html);
+  } catch {
+    openModal('<p>Error loading topic.</p>');
+  }
+}
+
+// ---- Util ----
+function fmtTime(s) {
+  if (s == null) return '';
+  const m = Math.floor(s / 60);
+  const sec = Math.floor(s % 60);
+  return `${m}:${String(sec).padStart(2, '0')}`;
+}
+
+function hashStr(str) {
+  let h = 0;
+  for (let i = 0; i < (str || '').length; i++) {
+    h = ((h << 5) - h + str.charCodeAt(i)) | 0;
+  }
+  return Math.abs(h);
+}
+
+// Keyboard
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeModal();
+});
+</script>
+</body>
+</html>
