@@ -683,15 +683,36 @@ def _latest_run_report(episode_dir: Path) -> dict:
         return {}
 
 
+def _latest_dz_run_has_embeddings(episode_dir: Path) -> bool:
+    """Return True if the most recent diarized run has non-empty speaker_embeddings/."""
+    runs_dir = episode_dir / "transcript" / "runs"
+    if not runs_dir.exists():
+        return False
+    dz_runs = sorted(
+        (r for r in runs_dir.iterdir()
+         if r.is_dir() and r.name.endswith("__dz") and (r / "extraction_report.json").exists()),
+        key=lambda r: r.name,
+        reverse=True,
+    )
+    if not dz_runs:
+        return False
+    emb_dir = dz_runs[0] / "speaker_embeddings"
+    return emb_dir.is_dir() and bool(list(emb_dir.glob("*.npy")))
+
+
 def discover_episodes(
     downloads_dir: Path,
     force: bool = False,
     diarize: bool = False,
+    embed_speakers: bool = False,
 ) -> list[tuple[Path, bool]]:
     """Return (episode_dir, per_episode_force) pairs that need transcription.
 
     When diarize=True, episodes whose latest run has speakers_detected=0 are
     included with force=True so diarization is re-run even if a transcript exists.
+
+    When embed_speakers=True, episodes whose latest diarized run has speakers but
+    no .npy files in speaker_embeddings/ are re-queued with force=True.
     """
     episodes: list[tuple[Path, bool]] = []
     for entry in sorted(downloads_dir.iterdir()):
@@ -727,6 +748,17 @@ def discover_episodes(
             report = _latest_run_report(entry)
             if report.get("speakers_detected") == 0:
                 logger.debug("Re-queuing %s (undiarized run)", entry.name)
+                episodes.append((entry, True))
+            elif embed_speakers and not _latest_dz_run_has_embeddings(entry):
+                # Diarization succeeded but ECAPA embeddings are missing
+                logger.debug("Re-queuing %s (missing speaker embeddings)", entry.name)
+                episodes.append((entry, True))
+        elif embed_speakers:
+            # Re-run if diarization succeeded but ECAPA embeddings are missing
+            # (used when --embed-speakers is passed without --diarize)
+            report = _latest_run_report(entry)
+            if report.get("speakers_detected", 0) > 0 and not _latest_dz_run_has_embeddings(entry):
+                logger.debug("Re-queuing %s (missing speaker embeddings)", entry.name)
                 episodes.append((entry, True))
 
     return episodes
@@ -1417,7 +1449,12 @@ def main() -> None:
         logger.info("Single episode mode: %s", args.episode)
 
     else:  # full
-        episodes = discover_episodes(args.downloads, force=args.force, diarize=args.diarize)
+        episodes = discover_episodes(
+            args.downloads,
+            force=args.force,
+            diarize=args.diarize,
+            embed_speakers=args.embed_speakers,
+        )
         if not episodes:
             logger.info("No episodes pending transcription.")
             return
@@ -1425,7 +1462,7 @@ def main() -> None:
             episodes = episodes[:args.limit]
         rerun_count = sum(1 for _, f in episodes if f)
         logger.info("Full mode: %d episodes queued%s", len(episodes),
-                    f" ({rerun_count} undiarized re-runs)" if rerun_count else "")
+                    f" ({rerun_count} force re-runs)" if rerun_count else "")
 
     # Run — always terminate provisioned instances on exit (success or error)
     try:
