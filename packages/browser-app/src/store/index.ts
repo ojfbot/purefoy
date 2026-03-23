@@ -3,6 +3,7 @@ import episodesReducer from './slices/episodesSlice'
 import forumReducer from './slices/forumSlice'
 import chatReducer from './slices/chatSlice'
 import uiReducer from './slices/uiSlice'
+import transcriptReducer from './slices/transcriptSlice'
 
 export const store = configureStore({
   reducer: {
@@ -10,6 +11,7 @@ export const store = configureStore({
     forum: forumReducer,
     chat: chatReducer,
     ui: uiReducer,
+    transcript: transcriptReducer,
   },
 })
 

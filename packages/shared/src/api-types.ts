@@ -70,6 +70,8 @@ export interface EpisodeListItem {
   duration: string
   hasTranscript: boolean
   canonicalRunId: string | null
+  hasGoal: boolean
+  reviewCoverage: number
   stats: {
     chapters: number
     words: number
@@ -118,4 +120,34 @@ export interface ForumSearchResult {
   timestamp: string | null
   snippet: string
   rank: number
+}
+
+/** Correction manifest saved alongside goal data */
+export interface GoalManifest {
+  tag: 'Goal Data'
+  sourceRun: string
+  createdAt: string
+  updatedAt: string
+  segmentCount: number
+  correctionSummary: {
+    speakerReassignments: number
+    textEdits: number
+    totalSegmentsModified: number
+  }
+}
+
+/** Review progress persisted to disk during edit sessions */
+export interface ReviewProgress {
+  exists: boolean
+  slug: string
+  reviewedSegments: number[]
+  totalSegments: number
+  reviewCoverage: number
+  firstOpened: string
+  lastReviewed: string
+  sessions: Array<{
+    timestamp: string
+    segmentsReviewedThisSession: number
+    cumulativeReviewed: number
+  }>
 }

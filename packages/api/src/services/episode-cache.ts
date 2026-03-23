@@ -7,6 +7,7 @@
  */
 
 import fs from 'fs'
+import { existsSync, readFileSync } from 'fs'
 import { readFile, readdir, stat } from 'fs/promises'
 import path from 'path'
 import type { EpisodeListItem, EpisodeDetail } from '../types.js'
@@ -68,6 +69,18 @@ async function buildEpisodeItem(slug: string, episodeDir: string): Promise<Episo
     }
   }
 
+  // Check for goal data and review progress
+  const goalPath = path.join(episodeDir, 'transcript', 'goal', 'transcript_segments_goal.jsonl')
+  const reviewPath = path.join(episodeDir, 'transcript', 'goal', 'review_progress.json')
+  const hasGoal = existsSync(goalPath)
+  let reviewCoverage = 0
+  if (hasGoal) {
+    try {
+      const review = JSON.parse(readFileSync(reviewPath, 'utf8')) as { review_coverage?: number }
+      reviewCoverage = review.review_coverage ?? 0
+    } catch { /* no review yet */ }
+  }
+
   const slugParsed = parseSlug(slug)
 
   return {
@@ -79,6 +92,8 @@ async function buildEpisodeItem(slug: string, episodeDir: string): Promise<Episo
     duration: meta.itunes?.duration ?? '',
     hasTranscript: canonicalRunId !== null,
     canonicalRunId,
+    hasGoal,
+    reviewCoverage,
     stats,
   }
 }

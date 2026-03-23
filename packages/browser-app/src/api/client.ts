@@ -8,6 +8,9 @@ import type {
   ForumSearchResult,
   PaginatedResponse,
   EpisodeListParams,
+  GoalManifest,
+  ReviewProgress,
+  SegmentCompact,
 } from '../types'
 
 const API_BASE = import.meta.env.VITE_API_URL ?? 'http://localhost:3021'
@@ -38,6 +41,33 @@ export const episodesApi = {
   // Returns raw Response so TranscriptViewer can stream the NDJSON body
   transcriptStream: (slug: string, signal?: AbortSignal): Promise<Response> =>
     fetch(`${API_BASE}/api/episodes/${encodeURIComponent(slug)}/transcript`, { signal }),
+
+  transcriptGoalStream: (slug: string, signal?: AbortSignal): Promise<Response> =>
+    fetch(`${API_BASE}/api/episodes/${encodeURIComponent(slug)}/transcript/goal`, { signal }),
+
+  transcriptGoalMeta: (slug: string): Promise<GoalManifest> =>
+    get<GoalManifest>(`/api/episodes/${encodeURIComponent(slug)}/transcript/goal/meta`),
+
+  saveGoal: (slug: string, segments: SegmentCompact[]): Promise<GoalManifest> => {
+    return fetch(`${API_BASE}/api/episodes/${encodeURIComponent(slug)}/transcript/goal`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ segments }),
+    }).then(r => {
+      if (!r.ok) throw new Error(`save goal → ${r.status}`)
+      return r.json() as Promise<GoalManifest>
+    })
+  },
+
+  getReview: (slug: string): Promise<ReviewProgress> =>
+    get<ReviewProgress>(`/api/episodes/${encodeURIComponent(slug)}/transcript/review`),
+
+  updateReview: (slug: string, reviewedSegments: number[], totalSegments: number): Promise<ReviewProgress> =>
+    fetch(`${API_BASE}/api/episodes/${encodeURIComponent(slug)}/transcript/review`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ reviewed_segments: reviewedSegments, total_segments: totalSegments }),
+    }).then(r => r.json() as Promise<ReviewProgress>),
 }
 
 export const forumApi = {
