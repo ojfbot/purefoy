@@ -1,0 +1,90 @@
+# Vercel deployment for purefoy.jim.software — Frame MF remote (React/Vite).
+# Uses --local-config vercel-frame.json to avoid picking up the Flask vercel.json.
+#
+# Secrets: VERCEL_TOKEN, VERCEL_ORG_ID, VERCEL_PROJECT_ID_PUREFOY_FRAME (= ojf-purefoy-frame)
+#
+# The shell at frame.jim.software loads the MF remote from:
+#   https://purefoy.jim.software/assets/remoteEntry.js
+# VITE_API_URL is set on the Vercel project (production → https://tde.jim.software).
+
+name: Deploy Purefoy Frame Remote to Vercel
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'packages/browser-app/**'
+      - 'packages/shared/**'
+      - 'openapi.json'
+      - 'vercel-frame.json'
+      - 'pnpm-workspace.yaml'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
+      - '.github/workflows/deploy-purefoy-frame.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'packages/browser-app/**'
+      - 'packages/shared/**'
+      - 'openapi.json'
+      - 'vercel-frame.json'
+  workflow_dispatch:
+
+env:
+  VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID_PUREFOY_FRAME }}
+  IBM_TELEMETRY_DISABLED: 'true'
+
+jobs:
+  deploy:
+    name: ${{ github.ref == 'refs/heads/main' && 'Production → purefoy.jim.software' || 'Preview → Frame MF remote' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'pnpm'
+
+      - name: Install Vercel CLI
+        run: npm install -g vercel@latest
+
+      - name: Resolve deploy flags
+        id: flags
+        run: |
+          if [[ "$GITHUB_REF" == "refs/heads/main" ]]; then
+            echo "vercel_env=production" >> $GITHUB_OUTPUT
+            echo "prod=--prod"           >> $GITHUB_OUTPUT
+          else
+            echo "vercel_env=preview"   >> $GITHUB_OUTPUT
+            echo "prod="                >> $GITHUB_OUTPUT
+          fi
+
+      - name: Pull Vercel project settings
+        run: vercel pull --yes --environment=${{ steps.flags.outputs.vercel_env }} --local-config vercel-frame.json --token=${{ secrets.VERCEL_TOKEN }}
+
+      - name: Build
+        run: vercel build ${{ steps.flags.outputs.prod }} --local-config vercel-frame.json --token=${{ secrets.VERCEL_TOKEN }}
+
+      - name: Deploy
+        id: deploy
+        run: echo "url=$(vercel deploy --prebuilt ${{ steps.flags.outputs.prod }} --local-config vercel-frame.json --token=${{ secrets.VERCEL_TOKEN }})" >> $GITHUB_OUTPUT
+
+      - name: Comment preview URL on PR
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `**Purefoy Frame preview ready**\n🔍 ${{ steps.deploy.outputs.url }}`
+            })
