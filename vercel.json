@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "flask_app.py",
+      "use": "@vercel/python",
+      "config": {
+        "requirementsFile": "requirements-vercel.txt"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "flask_app.py"
+    }
+  ],
+  "env": {
+    "READ_ONLY": "1"
+  }
+}

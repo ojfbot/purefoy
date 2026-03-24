@@ -60,6 +60,9 @@
 </main>
 
 <script>
+// ---- Mode ----
+const READ_ONLY = {{ read_only | tojson }};
+
 // ---- State ----
 let allEpisodes = [];
 let forumTopics = [];
@@ -666,8 +669,12 @@ function _renderToolbar() {
   // Edit / Save / Discard buttons
   if (st.isEditing) {
     html += `<button class="btn-edit active" onclick="toggleEditMode()">Editing</button>`;
-    html += `<button class="btn-save" onclick="saveGoalData()" ${st.isDirty ? '' : 'disabled'}>Save as Goal Data</button>`;
-    html += `<button class="btn-discard" onclick="discardEdits()">Discard</button>`;
+    if (READ_ONLY) {
+      html += `<span class="demo-badge">Demo — changes not saved</span>`;
+    } else {
+      html += `<button class="btn-save" onclick="saveGoalData()" ${st.isDirty ? '' : 'disabled'}>Save as Goal Data</button>`;
+      html += `<button class="btn-discard" onclick="discardEdits()">Discard</button>`;
+    }
     // Stats
     let sc = 0, te = 0, sp = 0;
     const base = st.editBase || st.originalSegments;
@@ -859,6 +866,7 @@ function _setupReviewObserver() {
 }
 
 async function _flushReviewProgress() {
+  if (READ_ONLY) return;
   if (!_trState || !_trState.reviewedSegs || _trState.reviewedSegs.size === 0) return;
   try {
     await fetch(`/api/episodes/${_trState.slug}/transcript/review`, {
@@ -919,7 +927,7 @@ function discardEdits() {
 }
 
 async function saveGoalData() {
-  if (!_trState || !_trState.isDirty) return;
+  if (READ_ONLY || !_trState || !_trState.isDirty) return;
   const saveBtn = document.querySelector('.btn-save');
   if (saveBtn) { saveBtn.disabled = true; saveBtn.textContent = 'Saving...'; }
 
