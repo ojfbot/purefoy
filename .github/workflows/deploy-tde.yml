@@ -1,5 +1,5 @@
 # Vercel deployment for tde.jim.software — standalone Flask UI.
-# Uses --local-config vercel.json to avoid picking up vercel-frame.json.
+# Deploys from a minimal staging directory to avoid bundling the full repo.
 # READ_ONLY=1 is set in vercel.json env block (not a secret).
 #
 # Secrets: VERCEL_TOKEN, VERCEL_ORG_ID, VERCEL_PROJECT_ID (= ojf-purefoy-tde)
@@ -48,19 +48,23 @@ jobs:
         id: flags
         run: |
           if [[ "$GITHUB_REF" == "refs/heads/main" ]]; then
-            echo "vercel_env=production" >> $GITHUB_OUTPUT
-            echo "prod=--prod"           >> $GITHUB_OUTPUT
+            echo "prod=--prod" >> $GITHUB_OUTPUT
           else
-            echo "vercel_env=preview"   >> $GITHUB_OUTPUT
-            echo "prod="                >> $GITHUB_OUTPUT
+            echo "prod="      >> $GITHUB_OUTPUT
           fi
 
-      - name: Pull Vercel project settings
-        run: vercel pull --yes --environment=${{ steps.flags.outputs.vercel_env }} --local-config vercel.json --token=${{ secrets.VERCEL_TOKEN }}
+      - name: Stage Flask deploy files
+        run: |
+          mkdir -p /tmp/tde-stage
+          cp flask_app.py requirements-vercel.txt vercel.json /tmp/tde-stage/
+          cp -r templates/ static/ /tmp/tde-stage/
+          # requirements.txt is what @vercel/python (uv runtime) picks up
+          cp requirements-vercel.txt /tmp/tde-stage/requirements.txt
 
       - name: Deploy
         id: deploy
-        run: echo "url=$(vercel deploy ${{ steps.flags.outputs.prod }} --local-config vercel.json --token=${{ secrets.VERCEL_TOKEN }})" >> $GITHUB_OUTPUT
+        working-directory: /tmp/tde-stage
+        run: echo "url=$(vercel deploy ${{ steps.flags.outputs.prod }} --yes --archive=tgz --token=${{ secrets.VERCEL_TOKEN }})" >> $GITHUB_OUTPUT
 
       - name: Comment preview URL on PR
         if: github.event_name == 'pull_request'
