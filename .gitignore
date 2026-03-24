@@ -178,6 +178,13 @@ $RECYCLE.BIN/
 
 # Managed by core — do not commit
 domain-knowledge/
-.claude/commands/
+.claude/skills/
 decisions/core
 personal-knowledge/
+
+# Vercel local build artifacts
+.vercel/output/
+.vercel/*.bak
+.vercel/.env.*
+uv.lock
+.python-version
