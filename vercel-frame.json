@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "buildCommand": "pnpm --filter @purefoy/browser-app build",
+  "outputDirectory": "packages/browser-app/dist",
+  "installCommand": "pnpm install",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin",  "value": "*" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET, OPTIONS" },
+        { "key": "Cache-Control",                "value": "public, max-age=31536000, immutable" }
+      ]
+    },
+    {
+      "source": "/assets/remoteEntry.js",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin",  "value": "*" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET, OPTIONS" },
+        { "key": "Cache-Control",                "value": "public, no-store" }
+      ]
+    }
+  ]
+}

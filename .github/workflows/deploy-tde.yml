@@ -1,12 +1,10 @@
 # Vercel deployment for tde.jim.software — standalone Flask UI.
+# Uses --local-config vercel.json to avoid picking up vercel-frame.json.
 #
-# Python app — no build step required; Vercel serverless runtime handles it.
-# READ_ONLY=1 is set on the Vercel project directly (not via this workflow).
-#
-# GitHub secrets required (already set via setup-vercel-ci):
-#   VERCEL_TOKEN, VERCEL_ORG_ID, VERCEL_PROJECT_ID
+# Secrets: VERCEL_TOKEN, VERCEL_ORG_ID, VERCEL_PROJECT_ID (= ojf-purefoy-tde)
+# READ_ONLY=1 is set directly on the Vercel project, not here.
 
-name: Deploy TDE to Vercel
+name: Deploy TDE (Flask) to Vercel
 
 on:
   push:
@@ -35,7 +33,7 @@ env:
 
 jobs:
   deploy:
-    name: ${{ github.ref == 'refs/heads/main' && 'Production → tde.jim.software' || 'Preview Deploy' }}
+    name: ${{ github.ref == 'refs/heads/main' && 'Production → tde.jim.software' || 'Preview → Flask TDE' }}
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -59,11 +57,11 @@ jobs:
           fi
 
       - name: Pull Vercel project settings
-        run: vercel pull --yes --environment=${{ steps.flags.outputs.vercel_env }} --token=${{ secrets.VERCEL_TOKEN }}
+        run: vercel pull --yes --environment=${{ steps.flags.outputs.vercel_env }} --local-config vercel.json --token=${{ secrets.VERCEL_TOKEN }}
 
       - name: Deploy
         id: deploy
-        run: echo "url=$(vercel deploy ${{ steps.flags.outputs.prod }} --token=${{ secrets.VERCEL_TOKEN }})" >> $GITHUB_OUTPUT
+        run: echo "url=$(vercel deploy ${{ steps.flags.outputs.prod }} --local-config vercel.json --token=${{ secrets.VERCEL_TOKEN }})" >> $GITHUB_OUTPUT
 
       - name: Comment preview URL on PR
         if: github.event_name == 'pull_request'
@@ -74,5 +72,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: `**TDE preview ready**\n🔍 ${{ steps.deploy.outputs.url }}`
+              body: `**TDE Flask preview ready**\n🔍 ${{ steps.deploy.outputs.url }}`
             })
