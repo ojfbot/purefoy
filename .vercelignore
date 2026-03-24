@@ -1,0 +1,16 @@
+# Exclude large data directories from Vercel uploads
+downloads/
+library/
+analysis/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+node_modules/
+packages/
+.git/
+*.mp3
+*.wav
+*.npy
+*.pt

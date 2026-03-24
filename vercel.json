@@ -1,5 +1,4 @@
 {
-  "$comment": "Flask standalone app — tde.jim.software. For Frame MF remote see vercel-frame.json.",
   "version": 2,
   "builds": [
     {

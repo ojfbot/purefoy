@@ -1,8 +1,8 @@
 # Vercel deployment for tde.jim.software — standalone Flask UI.
 # Uses --local-config vercel.json to avoid picking up vercel-frame.json.
+# READ_ONLY=1 is set in vercel.json env block (not a secret).
 #
 # Secrets: VERCEL_TOKEN, VERCEL_ORG_ID, VERCEL_PROJECT_ID (= ojf-purefoy-tde)
-# READ_ONLY=1 is set directly on the Vercel project, not here.
 
 name: Deploy TDE (Flask) to Vercel
 
@@ -13,7 +13,6 @@ on:
       - 'flask_app.py'
       - 'templates/**'
       - 'static/**'
-      - 'library/**'
       - 'vercel.json'
       - 'requirements-vercel.txt'
       - '.github/workflows/deploy-tde.yml'
