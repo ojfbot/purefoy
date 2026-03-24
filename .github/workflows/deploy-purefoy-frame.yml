@@ -46,6 +46,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Clone frame-ui-components (file protocol dep)
+        run: git clone --depth 1 https://github.com/ojfbot/frame-ui-components.git ../frame-ui-components
+
       - uses: pnpm/action-setup@v4
 
       - uses: actions/setup-node@v4
