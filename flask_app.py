@@ -22,6 +22,10 @@ DOWNLOADS_DIR = Path(os.environ.get("DOWNLOADS_DIR", "./downloads"))
 LIBRARY_DIR = Path(os.environ.get("LIBRARY_DIR", "./library"))
 FORUMS_DIR = LIBRARY_DIR / "forums"
 
+# Read-only mode: enabled on Vercel (no writable filesystem) or via READ_ONLY=1.
+# In this mode all write endpoints return 405 and the UI suppresses save/flush.
+READ_ONLY: bool = bool(os.environ.get("VERCEL") or os.environ.get("READ_ONLY"))
+
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -188,7 +192,7 @@ def _load_topic_with_posts(slug: str) -> dict | None:
 
 @app.route("/")
 def index():
-    return render_template("index.html")
+    return render_template("index.html", read_only=READ_ONLY)
 
 
 @app.route("/api/episodes")
@@ -307,6 +311,8 @@ def api_episode_goal_meta(slug):
 
 @app.route("/api/episodes/<slug>/transcript/goal", methods=["POST"])
 def api_save_goal(slug):
+    if READ_ONLY:
+        return jsonify({"error": "read-only mode"}), 405
     d = DOWNLOADS_DIR / slug
     if not d.exists():
         return jsonify({"error": "episode not found"}), 404
@@ -386,6 +392,8 @@ def api_save_goal(slug):
 @app.route("/api/episodes/<slug>/transcript/review", methods=["GET", "POST"])
 def api_episode_review(slug):
     """Track which segments have been human-reviewed in edit mode."""
+    if READ_ONLY and request.method == "POST":
+        return jsonify({"error": "read-only mode"}), 405
     d = DOWNLOADS_DIR / slug
     if not d.exists():
         return jsonify({"error": "not found"}), 404
