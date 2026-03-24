@@ -8,7 +8,7 @@ This is a **Team Deakins Podcast and Forum Knowledge Base** project. It contains
 
 1. **Podcast Episode Downloader & Ingest**: Scripts to download MP3s from RSS feeds and organize them into structured episode directories with metadata and transcripts.
 2. **Forum Scraper (`deakins_forums`)**: A modular, ultra-structured Python package for scraping rogerdeakins.com forums into a searchable JSON-based knowledge base.
-3. **TypeScript UI Layer (`packages/`)**: A knowledge browser with transcript editing (React/Vite micro-frontend on port 3020 + Express API on port 3021) for exploring podcast and forum data locally. Architecture decisions documented in ADR-006 through ADR-009.
+3. **TypeScript UI Layer (`packages/`)**: A Module Federation remote (React/Vite micro-frontend on port 3020 + Express API on port 3021) for exploring podcast and forum data locally. UI components are imported from `@ojfbot/frame-ui-components` (DashboardLayout, ChatShell, ThreadSidebar, CondensedChat). Architecture decisions documented in ADR-006 through ADR-009.
 4. **Standalone Flask UI (`app.py`)**: A single-file dark-theme knowledge browser at `localhost:5050`, reading directly from `downloads/` and `library/forums/`. Zero dependency on the Module Federation stack — used for local debugging against the raw corpus.
 All content is for **personal research and educational purposes only** under fair use principles. Commercial use requires explicit permission from copyright holders.
 
@@ -47,7 +47,7 @@ purefoy/
 │   ├── report.py           # Reporting utilities
 │   └── config.py           # Settings with env var overrides
 ├── packages/                # TypeScript UI layer (pnpm workspace)
-│   ├── browser-app/        # React/Vite micro-frontend remote (port 3020)
+│   ├── browser-app/        # React/Vite micro-frontend remote (port 3020) — UI via @ojfbot/frame-ui-components
 │   ├── api/                # Express API over flat JSON + SQLite (port 3021)
 │   └── shared/             # @purefoy/shared — generated OpenAPI schema + API type contracts (incl. GoalManifest, ReviewProgress)
 ├── app.py                   # Standalone Flask UI — dark-theme knowledge browser (port 5050)

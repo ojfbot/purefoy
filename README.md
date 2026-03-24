@@ -2,7 +2,7 @@
 
 A comprehensive research toolkit for building a structured knowledge base from **Team Deakins podcast episodes**, **rogerdeakins.com forum discussions**, and **cinematography articles**.
 
-**Current Status:** Production-ready v2.0 with threading support, 3,075+ forum posts indexed, **348/348 podcast episodes fully transcribed**, standalone Flask knowledge browser, and transcript editing UI in Frame.
+**Current Status:** Production-ready v2.0 with threading support, 3,075+ forum posts indexed, **348/348 podcast episodes fully transcribed**, standalone Flask knowledge browser, transcript editing UI in Frame, and **shared UI components via `@ojfbot/frame-ui-components`**.
 
 > **⚠️ IMPORTANT**: This project is for **personal research and educational purposes only**. All content remains property of its copyright holders. See [Legal & Fair Use](#legal--fair-use) below.
 
@@ -211,12 +211,10 @@ python ingest_teamdeakins_downloads.py \
 | **Podcast Transcripts** | ✅ Complete | 348/348 episodes | Full corpus transcribed; transcript editing UI in Frame; standalone Flask browser at localhost:5050 |
 | **Articles Scraper** | 🟡 Prototype | 3 sample articles | Parser complete, needs integration |
 ### 📋 Planned
-### 📋 Planned
 
 - Article scraper integration
 - MCP server implementation
 - Enhanced analytics and visualization
-- Cross-reference linking (forums ↔ podcasts ↔ articles)
 - Cross-reference linking (forums ↔ podcasts ↔ articles)
 
 See [ROADMAP.md](documentation/roadmap/ROADMAP.md) for detailed plans.
@@ -309,7 +307,7 @@ http_state.json            # HTTP cache (ephemeral)
 
 # Development
 .venv/                     # Virtual environment
-__pycache__/               # Python bytecode
+.claude/                   # Claude Code working files (skills dir renamed per ADR-0021)
 .claude/                   # Claude Code working files
 .DS_Store                  # macOS metadata
 ```
@@ -481,4 +479,4 @@ For commercial use or public distribution, contact:
 
 **Version:** 2.0.0
 **Status:** Production Ready
-**Last Updated:** 2026-03-23
+**Last Updated:** 2026-03-24
