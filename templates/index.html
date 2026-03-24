@@ -32,7 +32,7 @@
         <h1 id="hero-title"></h1>
         <p id="hero-meta"></p>
         <p id="hero-desc"></p>
-        <div id="hero-actions">
+        <div id="hero-actions" style="display:none">
           <button id="hero-play" class="btn-primary">Transcript</button>
           <button id="hero-info" class="btn-secondary">More Info</button>
         </div>
@@ -117,11 +117,25 @@ function setupSearch() {
 
 // ---- Episode rendering ----
 function renderEpisodes(eps) {
-  // Set hero to latest episode
-  if (eps.length > 0) setHero(eps[0]);
-
   const container = document.getElementById('carousels');
   container.innerHTML = '';
+
+  if (eps.length === 0) {
+    document.getElementById('hero').style.display = 'none';
+    container.innerHTML = `
+      <div style="display:flex;flex-direction:column;align-items:center;justify-content:center;height:60vh;gap:1rem;opacity:0.6;">
+        <div style="font-size:3rem;">🎬</div>
+        <h2 style="color:#e5e5e5;font-size:1.4rem;margin:0;">No episodes available</h2>
+        <p style="color:#aaa;font-size:0.9rem;margin:0;text-align:center;max-width:380px;">
+          Episode data lives in the local <code style="background:#222;padding:2px 6px;border-radius:3px;">downloads/</code> directory
+          and is not included in this demo deployment.
+        </p>
+      </div>`;
+    return;
+  }
+
+  document.getElementById('hero').style.display = '';
+  setHero(eps[0]);
 
   // Group: Recent, by season, by topic
   addCarousel(container, 'Recently Added', eps.slice(0, 30));
@@ -193,6 +207,7 @@ function setHero(ep) {
 
   document.getElementById('hero-play').onclick = () => openTranscript(ep.slug);
   document.getElementById('hero-info').onclick = () => openDetail(ep.slug);
+  document.getElementById('hero-actions').style.display = '';
 }
 
 function addCarousel(container, title, eps) {
