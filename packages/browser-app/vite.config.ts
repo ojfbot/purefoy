@@ -59,6 +59,14 @@ export default defineConfig({
   // Treat frame-ui-components as source (file: linked, not pre-built)
   optimizeDeps: {
     exclude: ['@ojfbot/frame-ui-components'],
+    // CJS transitive deps of the excluded package must be explicitly included
+    // so Vite pre-bundles them into ESM — otherwise browsers get CJS/ESM mismatch.
+    include: [
+      '@ojfbot/frame-ui-components > react-markdown',
+      '@ojfbot/frame-ui-components > hast-util-to-jsx-runtime',
+      '@ojfbot/frame-ui-components > style-to-js',
+      '@ojfbot/frame-ui-components > style-to-object',
+    ],
   },
   server: {
     port: 3020,
