@@ -56,10 +56,17 @@ export default defineConfig({
   resolve: {
     alias: { '@': path.resolve(__dirname, './src') },
   },
+  // Treat frame-ui-components as source (file: linked, not pre-built)
+  optimizeDeps: {
+    exclude: ['@ojfbot/frame-ui-components'],
+  },
   server: {
     port: 3020,
     cors: {
       origin: ['http://localhost:4000', 'http://127.0.0.1:4000'],
+    },
+    fs: {
+      allow: ['../../..'],
     },
   },
   preview: {
