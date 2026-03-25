@@ -1,4 +1,5 @@
 import { Provider } from 'react-redux'
+import { ErrorBoundary } from '@ojfbot/frame-ui-components'
 import { store } from '../store'
 import { DashboardContent } from './DashboardContent'
 
@@ -26,7 +27,9 @@ interface DashboardProps {
 export function Dashboard({ shellMode }: DashboardProps) {
   return (
     <Provider store={store}>
-      <DashboardContent shellMode={shellMode} />
+      <ErrorBoundary>
+        <DashboardContent shellMode={shellMode} />
+      </ErrorBoundary>
     </Provider>
   )
 }
