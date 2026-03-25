@@ -1,5 +1,7 @@
-import { ChatShell, ChatMessage } from '@ojfbot/frame-ui-components'
-import type { ChatDisplayState } from '@ojfbot/frame-ui-components'
+import { ChatShell, ChatMessage, MarkdownMessage, BadgeButton, getChatMessage } from '@ojfbot/frame-ui-components'
+import '@ojfbot/frame-ui-components/styles/markdown-message'
+import '@ojfbot/frame-ui-components/styles/badge-button'
+import type { ChatDisplayState, BadgeAction } from '@ojfbot/frame-ui-components'
 import { useAppDispatch, useAppSelector } from '../store/hooks'
 import {
   addMessage,
@@ -119,7 +121,15 @@ export function CondensedChatConnected() {
           {msg.role === 'user' ? (
             <span style={{ whiteSpace: 'pre-wrap', wordBreak: 'break-word' }}>{msg.content}</span>
           ) : (
-            msg.content
+            <MarkdownMessage
+              content={msg.content}
+              suggestions={msg.suggestions}
+              onExecute={(action: BadgeAction) => {
+                const message = getChatMessage(action)
+                if (message) handleSend(message)
+              }}
+              compact
+            />
           )}
         </ChatMessage>
       ))}
