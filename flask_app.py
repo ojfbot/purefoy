@@ -58,7 +58,7 @@ _episode_index: list[dict] | None = None
 # ---------------------------------------------------------------------------
 
 def _cdn_fetch_json(path: str) -> dict | list | None:
-    """Fetch JSON from CDN. Returns None on error."""
+    """Fetch JSON from CDN. Returns None on error (falls through to filesystem)."""
     if not DATA_CDN_URL:
         return None
     url = f"{DATA_CDN_URL.rstrip('/')}/{path.lstrip('/')}"
@@ -66,7 +66,8 @@ def _cdn_fetch_json(path: str) -> dict | list | None:
         req = Request(url, headers={"Accept": "application/json"})
         with urlopen(req, timeout=10) as resp:
             return json.loads(resp.read())
-    except (URLError, json.JSONDecodeError, OSError):
+    except (URLError, json.JSONDecodeError, OSError) as exc:
+        print(f"[cdn] fetch failed: {url} — {exc}", file=__import__("sys").stderr)
         return None
 
 
@@ -363,6 +364,11 @@ def robots_txt():
     )
 
 
+def _valid_slug(slug: str) -> bool:
+    """Reject path traversal attempts in episode slugs."""
+    return ".." not in slug and not slug.startswith("/") and re.match(r"S\d+E\d+__", slug) is not None
+
+
 @app.route("/api/episodes")
 def api_episodes():
     all_eps = _load_episode_index()
@@ -399,6 +405,8 @@ def api_episodes():
 
 @app.route("/api/episodes/<slug>")
 def api_episode_detail(slug):
+    if not _valid_slug(slug):
+        return jsonify({"error": "invalid slug"}), 400
     # Try CDN first
     if DATA_CDN_URL:
         detail = _cdn_fetch_json(f"episodes/{slug}/meta.json")
@@ -418,6 +426,8 @@ def api_episode_detail(slug):
 
 @app.route("/api/episodes/<slug>/chapters")
 def api_episode_chapters(slug):
+    if not _valid_slug(slug):
+        return jsonify({"error": "invalid slug"}), 400
     # Try CDN first
     if DATA_CDN_URL:
         chapters = _cdn_fetch_json(f"episodes/{slug}/chapters.json")
@@ -450,6 +460,8 @@ def api_episode_chapters(slug):
 
 @app.route("/api/episodes/<slug>/transcript")
 def api_episode_transcript(slug):
+    if not _valid_slug(slug):
+        return jsonify({"error": "invalid slug"}), 400
     # Try CDN first
     if DATA_CDN_URL:
         stream = _cdn_stream(f"episodes/{slug}/transcript.jsonl")
@@ -495,6 +507,8 @@ def api_episode_transcript(slug):
 
 @app.route("/api/episodes/<slug>/transcript/goal")
 def api_episode_goal(slug):
+    if not _valid_slug(slug):
+        return jsonify({"error": "invalid slug"}), 400
     d = DOWNLOADS_DIR / slug
     goal_path = _goal_dir(d) / "transcript_segments_goal.jsonl"
     if not goal_path.exists():
@@ -509,6 +523,8 @@ def api_episode_goal(slug):
 
 @app.route("/api/episodes/<slug>/transcript/goal/meta")
 def api_episode_goal_meta(slug):
+    if not _valid_slug(slug):
+        return jsonify({"error": "invalid slug"}), 400
     d = DOWNLOADS_DIR / slug
     manifest_path = _goal_dir(d) / "goal_manifest.json"
     if not manifest_path.exists():
@@ -521,6 +537,8 @@ def api_episode_goal_meta(slug):
 
 @app.route("/api/episodes/<slug>/transcript/goal", methods=["POST"])
 def api_save_goal(slug):
+    if not _valid_slug(slug):
+        return jsonify({"error": "invalid slug"}), 400
     if READ_ONLY:
         return jsonify({"error": "read-only mode"}), 405
     d = DOWNLOADS_DIR / slug
@@ -602,6 +620,8 @@ def api_save_goal(slug):
 @app.route("/api/episodes/<slug>/transcript/review", methods=["GET", "POST"])
 def api_episode_review(slug):
     """Track which segments have been human-reviewed in edit mode."""
+    if not _valid_slug(slug):
+        return jsonify({"error": "invalid slug"}), 400
     if READ_ONLY and request.method == "POST":
         return jsonify({"error": "read-only mode"}), 405
     d = DOWNLOADS_DIR / slug
