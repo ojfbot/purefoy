@@ -68,13 +68,27 @@ let allEpisodes = [];
 let forumTopics = [];
 let activeSlug = null;
 
+// Map camelCase API response to template field names
+function _normalize(ep) {
+  const m = ep.slug && ep.slug.match(/S\d+E\d+__\d{4}-\d{2}-\d{2}__(.+?)__libsyn_/);
+  return Object.assign({}, ep, {
+    pub_date: ep.pubDate || ep.pub_date || '',
+    has_transcript: ep.hasTranscript != null ? ep.hasTranscript : ep.has_transcript,
+    guest_slug: ep.guest_slug || (m ? m[1] : ''),
+    topics: (ep.stats && ep.stats.topics) || ep.topics || [],
+    films: (ep.stats && ep.stats.films) || ep.films || [],
+    chapter_count: (ep.stats && ep.stats.chapters) || ep.chapter_count || 0,
+  });
+}
+
 // ---- Bootstrap ----
 document.addEventListener('DOMContentLoaded', async () => {
   const [epsRes, forumRes] = await Promise.all([
-    fetch('/api/episodes'),
+    fetch('/api/episodes?limit=500'),
     fetch('/api/forum/topics'),
   ]);
-  allEpisodes = await epsRes.json();
+  const epsData = await epsRes.json();
+  allEpisodes = (epsData.items || epsData).map(_normalize);
   forumTopics = await forumRes.json();
 
   renderEpisodes(allEpisodes);
@@ -311,10 +325,19 @@ function closeModal() {
 async function openDetail(slug) {
   const ep = allEpisodes.find(e => e.slug === slug);
   if (!ep) return;
+
+  // Fetch detail + chapters in parallel
+  const fetches = [fetch(`/api/episodes/${slug}`)];
+  if (ep.has_transcript) fetches.push(fetch(`/api/episodes/${slug}/chapters`));
+  const results = await Promise.all(fetches);
+
+  const detail = _normalize(await results[0].json());
+  const description = detail.descriptionHtml || detail.description || '';
+
   let chaptersHtml = '';
-  if (ep.has_transcript) {
-    const res = await fetch(`/api/episodes/${slug}/chapters`);
-    const chapters = await res.json();
+  if (ep.has_transcript && results[1]) {
+    const chapData = await results[1].json();
+    const chapters = Array.isArray(chapData) ? chapData : (chapData.chapters || []);
     if (chapters.length > 0) {
       chaptersHtml = `
         <h3>Chapters</h3>
@@ -340,11 +363,11 @@ async function openDetail(slug) {
     ? `<div class="tag-row">${ep.films.map(f => `<span class="tag tag-film">${f}</span>`).join('')}</div>`
     : '';
   openModal(`
-    <h2>${ep.full_title || ep.title}</h2>
+    <h2>${ep.title}</h2>
     <p class="modal-meta">S${ep.season}E${ep.episode} · ${ep.pub_date} · ${ep.duration}</p>
     ${topicsHtml}
     ${filmsHtml}
-    <div class="modal-desc">${ep.description || ''}</div>
+    <div class="modal-desc">${description}</div>
     ${ep.has_transcript ? `<button class="btn-primary" onclick="openTranscript('${slug}')">View Transcript</button>` : ''}
     ${chaptersHtml}
   `);
