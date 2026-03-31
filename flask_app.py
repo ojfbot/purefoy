@@ -355,7 +355,8 @@ GOAL_SEGMENT_FIELDS = {"id", "start", "end", "text", "speaker",
 
 @app.route("/")
 def index():
-    return render_template("index.html", read_only=READ_ONLY)
+    has_forum = not DATA_CDN_URL and bool(_load_forum_topics())
+    return render_template("index.html", read_only=READ_ONLY, has_forum=has_forum)
 
 
 @app.route("/robots.txt")

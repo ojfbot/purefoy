@@ -13,7 +13,7 @@
   <div class="nav-left">
     <span class="logo">TEAM DEAKINS</span>
     <button class="nav-tab active" data-view="episodes">Episodes</button>
-    <button class="nav-tab" data-view="forum">Forum</button>
+    {% if has_forum %}<button class="nav-tab" data-view="forum">Forum</button>{% endif %}
   </div>
   <div class="nav-right">
     <input type="text" id="search" placeholder="Search episodes..." autocomplete="off">
@@ -43,10 +43,12 @@
     <div id="carousels"></div>
   </section>
 
+  {% if has_forum %}
   <!-- FORUM VIEW -->
   <section id="view-forum" class="view">
     <div id="forum-carousels"></div>
   </section>
+  {% endif %}
 
   <!-- DETAIL MODAL -->
   <div id="modal" class="modal hidden">
@@ -62,6 +64,7 @@
 <script>
 // ---- Mode ----
 const READ_ONLY = {{ read_only | tojson }};
+const HAS_FORUM = {{ has_forum | tojson }};
 
 // ---- State ----
 let allEpisodes = [];
@@ -83,16 +86,18 @@ function _normalize(ep) {
 
 // ---- Bootstrap ----
 document.addEventListener('DOMContentLoaded', async () => {
-  const [epsRes, forumRes] = await Promise.all([
-    fetch('/api/episodes?limit=500'),
-    fetch('/api/forum/topics'),
-  ]);
-  const epsData = await epsRes.json();
+  const fetches = [fetch('/api/episodes?limit=500')];
+  if (HAS_FORUM) fetches.push(fetch('/api/forum/topics'));
+  const results = await Promise.all(fetches);
+
+  const epsData = await results[0].json();
   allEpisodes = (epsData.items || epsData).map(_normalize);
-  forumTopics = await forumRes.json();
+  if (HAS_FORUM && results[1]) {
+    forumTopics = await results[1].json();
+    renderForumCarousels(forumTopics);
+  }
 
   renderEpisodes(allEpisodes);
-  renderForumCarousels(forumTopics);
   setupNav();
   setupSearch();
 });
@@ -151,39 +156,69 @@ function renderEpisodes(eps) {
   document.getElementById('hero').style.display = '';
   setHero(eps[0]);
 
-  // Group: Recent, by season, by topic
+  // Group: Recent, by guest profession, by year, by film
   addCarousel(container, 'Recently Added', eps.slice(0, 30));
 
-  // Seasons
-  const seasons = new Map();
+  // Guest profession — extract role from title "NAME - Role"
+  const roleMap = new Map();
+  const roleAliases = {
+    'cinematographer': 'Cinematographers',
+    'director of photography': 'Cinematographers',
+    'dp': 'Cinematographers',
+    'director': 'Directors',
+    'writer/director': 'Writer-Directors',
+    'writer / director': 'Writer-Directors',
+    'writer & director': 'Writer-Directors',
+    'director & cinematographer': 'Directors & Cinematographers',
+    'director & writer': 'Writer-Directors',
+    'actor': 'Actors',
+    'actor / director': 'Actors',
+    'actor/director': 'Actors',
+    'actress': 'Actors',
+    'production designer': 'Production Designers',
+    'costume designer': 'Costume Designers',
+    'editor': 'Editors',
+    'film editor': 'Editors',
+    'producer': 'Producers',
+    'vfx supervisor': 'VFX & Visual Effects',
+    'visual effects supervisor': 'VFX & Visual Effects',
+    'composer': 'Composers',
+    'gaffer': 'Gaffers & Lighting',
+    'still photographer': 'Still Photographers',
+    'colourist': 'Colourists',
+    'colorist': 'Colourists',
+    'sound mixer': 'Sound & Music',
+    'sound designer': 'Sound & Music',
+    'music supervisor': 'Sound & Music',
+  };
   eps.forEach(ep => {
-    const s = ep.season ?? -1;
-    if (!seasons.has(s)) seasons.set(s, []);
-    seasons.get(s).push(ep);
+    const m = ep.title.match(/\s*[-–—]\s+(.+)$/);
+    if (!m) return;
+    const rawRole = m[1].trim().toLowerCase();
+    const group = roleAliases[rawRole] || null;
+    if (!group) return;
+    if (!roleMap.has(group)) roleMap.set(group, []);
+    roleMap.get(group).push(ep);
   });
-  // Sort seasons descending
-  [...seasons.keys()].sort((a, b) => b - a).forEach(s => {
-    const label = s === 0 ? 'Season 0 — Foundations' : s === 1 ? 'Season 1' : s === 2 ? 'Season 2' : `Season ${s}`;
-    addCarousel(container, label, seasons.get(s));
-  });
-
-  // Topic carousels (top topics)
-  const topicMap = new Map();
-  eps.forEach(ep => {
-    (ep.topics || []).forEach(t => {
-      if (!topicMap.has(t)) topicMap.set(t, []);
-      topicMap.get(t).push(ep);
-    });
-  });
-  const topTopics = [...topicMap.entries()]
+  // Sort by count descending, show groups with 4+ episodes
+  [...roleMap.entries()]
+    .filter(([, v]) => v.length >= 4)
     .sort((a, b) => b[1].length - a[1].length)
-    .slice(0, 6);
-  topTopics.forEach(([topic, topicEps]) => {
-    const label = topic.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
-    addCarousel(container, label, topicEps);
+    .forEach(([label, roleEps]) => addCarousel(container, label, roleEps));
+
+  // By year
+  const yearMap = new Map();
+  eps.forEach(ep => {
+    const y = ep.pub_date ? ep.pub_date.slice(0, 4) : null;
+    if (!y) return;
+    if (!yearMap.has(y)) yearMap.set(y, []);
+    yearMap.get(y).push(ep);
+  });
+  [...yearMap.keys()].sort((a, b) => b - a).forEach(y => {
+    addCarousel(container, y, yearMap.get(y));
   });
 
-  // Films
+  // Films discussed (top films referenced across episodes)
   const filmMap = new Map();
   eps.forEach(ep => {
     (ep.films || []).forEach(f => {
@@ -192,9 +227,9 @@ function renderEpisodes(eps) {
     });
   });
   const topFilms = [...filmMap.entries()]
-    .filter(([, v]) => v.length >= 2)
+    .filter(([, v]) => v.length >= 3)
     .sort((a, b) => b[1].length - a[1].length)
-    .slice(0, 4);
+    .slice(0, 6);
   topFilms.forEach(([film, filmEps]) => {
     addCarousel(container, `Discussing: ${film}`, filmEps);
   });
