@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react'
-import { Tabs, TabList, Tab, TabPanels, TabPanel, Heading, Tooltip } from '@carbon/react'
-import { Chat, Close } from '@carbon/icons-react'
-import { DashboardLayout } from '@ojfbot/frame-ui-components'
+import { Tabs, TabList, Tab, TabPanels, TabPanel, Heading } from '@carbon/react'
+import { DashboardLayout, SidebarToggle } from '@ojfbot/frame-ui-components'
 import '@ojfbot/frame-ui-components/styles/dashboard-layout'
 import '@ojfbot/frame-ui-components/styles/thread-sidebar'
 import '@ojfbot/frame-ui-components/styles/chat-shell'
@@ -53,17 +52,7 @@ export function DashboardContent({ shellMode }: DashboardContentProps) {
       >
         <DashboardLayout.Header>
           <Heading className="page-header">Team Deakins Engine</Heading>
-          <div className="dashboard-header-actions">
-            <Tooltip label={sidebarExpanded ? 'Close conversations' : 'Show conversations'} align="bottom-right">
-              <button
-                className="sidebar-toggle-btn"
-                onClick={() => dispatch(toggleSidebar())}
-                aria-label="Toggle thread sidebar"
-              >
-                {sidebarExpanded ? <Close size={20} /> : <Chat size={20} />}
-              </button>
-            </Tooltip>
-          </div>
+          <SidebarToggle isExpanded={sidebarExpanded} onToggle={() => dispatch(toggleSidebar())} />
         </DashboardLayout.Header>
 
         <Tabs onChange={handleTabChange}>
