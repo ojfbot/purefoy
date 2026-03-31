@@ -71,6 +71,15 @@ purefoy/
 ```
 ```
 
+## Deployment
+
+**NEVER deploy directly to production** via CLI (`vercel deploy --prod`, `aws s3 sync` to prod paths, etc.).
+All production deployments go through the GitHub PR → CI → merge → automated deploy pipeline.
+The only exception is `workflow_dispatch` for manual CI triggers.
+
+The deploy workflow is `.github/workflows/deploy-tde.yml`. It stages files into a clean
+`/tmp/tde-stage` directory and deploys via the CI-scoped `VERCEL_TOKEN`.
+
 ## Common Commands
 
 ### Virtual Environment Setup

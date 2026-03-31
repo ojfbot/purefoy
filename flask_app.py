@@ -389,7 +389,7 @@ def api_episodes():
     # Pagination
     page = request.args.get("page", 1, type=int)
     limit = request.args.get("limit", 20, type=int)
-    limit = min(limit, 100)
+    limit = min(limit, 500)
     total = len(all_eps)
     start = (page - 1) * limit
     items = all_eps[start:start + limit]
