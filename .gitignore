@@ -79,6 +79,7 @@ library/
 
 # Analysis/Export Output - Generated files (can be regenerated)
 analysis/
+export/
 !analysis/.gitkeep
 !analysis/README.md
 

@@ -1,6 +1,7 @@
 # Vercel deployment for tde.jim.software — standalone Flask UI.
 # Deploys from a minimal staging directory to avoid bundling the full repo.
 # READ_ONLY=1 is set in vercel.json env block (not a secret).
+# DATA_CDN_URL is set on the Vercel project (production env var) — see ADR-010.
 #
 # Secrets: VERCEL_TOKEN, VERCEL_ORG_ID, VERCEL_PROJECT_ID (= ojf-purefoy-tde)
 
