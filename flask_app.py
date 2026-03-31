@@ -18,7 +18,7 @@ Usage:
 import json
 import os
 import re
-from datetime import UTC, datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib.error import URLError
 from urllib.request import Request, urlopen
@@ -49,7 +49,9 @@ DATA_CDN_URL: str | None = os.environ.get("DATA_CDN_URL")
 # In this mode all write endpoints return 405 and the UI suppresses save/flush.
 READ_ONLY: bool = bool(os.environ.get("VERCEL") or os.environ.get("READ_ONLY"))
 
-# In-memory episode index cache (populated on first request)
+# In-memory episode index cache (populated on first request).
+# Intentionally never invalidated — on Vercel each request may be a fresh
+# cold start anyway, and in local dev a server restart is sufficient.
 _episode_index: list[dict] | None = None
 
 
@@ -592,7 +594,7 @@ def api_save_goal(slug):
 
     # Write/update goal manifest
     manifest_path = goal_path / "goal_manifest.json"
-    now = datetime.now(UTC).isoformat()
+    now = datetime.now(timezone.utc).isoformat()  # noqa: UP017 — 3.9 compat
     existing = {}
     if manifest_path.exists():
         try:
@@ -643,7 +645,7 @@ def api_episode_review(slug):
     if not data:
         return jsonify({"error": "missing data"}), 400
 
-    now = datetime.now(UTC).isoformat()
+    now = datetime.now(timezone.utc).isoformat()  # noqa: UP017 — 3.9 compat
     existing = {"reviewed_segments": [], "sessions": []}
     if review_path.exists():
         try:

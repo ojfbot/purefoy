@@ -91,7 +91,6 @@ def build_episode(episode_dir: Path) -> dict | None:
 
     # Stats from extraction_report.json
     stats = None
-    chapters_data = None
     if canonical_run_id:
         run_dir = episode_dir / "transcript" / "runs" / canonical_run_id
         report = read_json(run_dir / "extraction_report.json")
@@ -99,10 +98,8 @@ def build_episode(episode_dir: Path) -> dict | None:
             # Read chapters to populate topics/films arrays
             raw_chapters = read_json(run_dir / "chapters.json")
             if isinstance(raw_chapters, dict):
-                chapters_data = raw_chapters
                 ch_list = raw_chapters.get("chapters", [])
             elif isinstance(raw_chapters, list):
-                chapters_data = raw_chapters
                 ch_list = raw_chapters
             else:
                 ch_list = []
@@ -123,7 +120,8 @@ def build_episode(episode_dir: Path) -> dict | None:
                 "films": sorted(all_films),
             }
 
-    # Goal / review data — not exported to S3, but flag presence
+    # Goal / review data — not exported to S3, but hasGoal/reviewCoverage flags
+    # are included in index.json intentionally (the React app uses them for UI state)
     goal_dir = episode_dir / "transcript" / "goal"
     has_goal = (goal_dir / "transcript_segments_goal.jsonl").exists()
     review_coverage = 0.0
@@ -169,25 +167,20 @@ def build_episode(episode_dir: Path) -> dict | None:
         "_canonicalRunDir": str(
             episode_dir / "transcript" / "runs" / canonical_run_id
         ) if canonical_run_id else None,
-        "_chaptersData": chapters_data,
     }
 
 
-def write_episode_files(ep: dict, output_dir: Path, dry_run: bool) -> dict:
+def write_episode_files(ep: dict, output_dir: Path) -> dict:
     """Write meta.json, chapters.json, transcript.jsonl for one episode."""
     slug = ep["slug"]
     ep_out = output_dir / "episodes" / slug
 
     canonical_run_dir = ep.pop("_canonicalRunDir", None)
-    ep.pop("_chaptersData", None)
 
     # meta.json — EpisodeDetail shape (everything except internal fields)
     meta = {k: v for k, v in ep.items() if not k.startswith("_")}
 
     files_written = {"meta": False, "chapters": False, "transcript": False}
-
-    if dry_run:
-        return files_written
 
     ep_out.mkdir(parents=True, exist_ok=True)
 
@@ -282,7 +275,7 @@ def main():
     # Write per-episode files
     total_size = 0
     for i, ep in enumerate(episodes):
-        write_episode_files(ep, output_dir, dry_run=False)
+        write_episode_files(ep, output_dir)
         if (i + 1) % 50 == 0:
             print(f"  Exported {i + 1}/{len(episodes)} episodes...")
 
