@@ -156,11 +156,11 @@ function renderEpisodes(eps) {
   document.getElementById('hero').style.display = '';
   setHero(eps[0]);
 
-  // Group: Recent, by guest profession, by year, by film
   addCarousel(container, 'Recently Added', eps.slice(0, 30));
 
+  // ---- Build carousel candidates by classification type ----
+
   // Guest profession — extract role from title "NAME - Role"
-  const roleMap = new Map();
   const roleAliases = {
     'cinematographer': 'Cinematographers',
     'director of photography': 'Cinematographers',
@@ -191,20 +191,18 @@ function renderEpisodes(eps) {
     'sound designer': 'Sound & Music',
     'music supervisor': 'Sound & Music',
   };
+  const roleMap = new Map();
   eps.forEach(ep => {
     const m = ep.title.match(/\s*[-–—]\s+(.+)$/);
     if (!m) return;
-    const rawRole = m[1].trim().toLowerCase();
-    const group = roleAliases[rawRole] || null;
+    const group = roleAliases[m[1].trim().toLowerCase()];
     if (!group) return;
     if (!roleMap.has(group)) roleMap.set(group, []);
     roleMap.get(group).push(ep);
   });
-  // Sort by count descending, show groups with 4+ episodes
-  [...roleMap.entries()]
+  const roles = [...roleMap.entries()]
     .filter(([, v]) => v.length >= 4)
-    .sort((a, b) => b[1].length - a[1].length)
-    .forEach(([label, roleEps]) => addCarousel(container, label, roleEps));
+    .sort((a, b) => b[1].length - a[1].length);
 
   // By year
   const yearMap = new Map();
@@ -214,11 +212,10 @@ function renderEpisodes(eps) {
     if (!yearMap.has(y)) yearMap.set(y, []);
     yearMap.get(y).push(ep);
   });
-  [...yearMap.keys()].sort((a, b) => b - a).forEach(y => {
-    addCarousel(container, y, yearMap.get(y));
-  });
+  const years = [...yearMap.keys()].sort((a, b) => b - a)
+    .map(y => [y, yearMap.get(y)]);
 
-  // Films discussed (top films referenced across episodes)
+  // Films discussed
   const filmMap = new Map();
   eps.forEach(ep => {
     (ep.films || []).forEach(f => {
@@ -226,13 +223,37 @@ function renderEpisodes(eps) {
       filmMap.get(f).push(ep);
     });
   });
-  const topFilms = [...filmMap.entries()]
+  const films = [...filmMap.entries()]
     .filter(([, v]) => v.length >= 3)
     .sort((a, b) => b[1].length - a[1].length)
-    .slice(0, 6);
-  topFilms.forEach(([film, filmEps]) => {
-    addCarousel(container, `Discussing: ${film}`, filmEps);
+    .slice(0, 8)
+    .map(([f, v]) => [`Discussing: ${f}`, v]);
+
+  // Topics — only show those covering <90% of episodes (skip universal tags)
+  const topicMap = new Map();
+  eps.forEach(ep => {
+    (ep.topics || []).forEach(t => {
+      if (!topicMap.has(t)) topicMap.set(t, []);
+      topicMap.get(t).push(ep);
+    });
   });
+  const topics = [...topicMap.entries()]
+    .filter(([, v]) => v.length >= 5 && v.length < eps.length * 0.9)
+    .sort((a, b) => b[1].length - a[1].length)
+    .slice(0, 6)
+    .map(([t, v]) => [t.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase()), v]);
+
+  // ---- Interleave: round-robin across types for variety ----
+  const lanes = [roles, films, years, topics].filter(l => l.length > 0);
+  const indices = lanes.map(() => 0);
+  while (indices.some((idx, i) => idx < lanes[i].length)) {
+    for (let i = 0; i < lanes.length; i++) {
+      if (indices[i] < lanes[i].length) {
+        const [label, items] = lanes[i][indices[i]++];
+        addCarousel(container, label, items);
+      }
+    }
+  }
 }
 
 function setHero(ep) {
