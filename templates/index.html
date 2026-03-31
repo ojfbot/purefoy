@@ -281,10 +281,14 @@ function addCarousel(container, title, eps) {
       </div>
     `;
     card.addEventListener('click', () => {
-      setHero(ep);
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+      // Update hero only if it's near the viewport (within 50vh)
+      const hero = document.getElementById('hero');
+      const heroRect = hero.getBoundingClientRect();
+      if (heroRect.bottom > -window.innerHeight * 0.5) {
+        setHero(ep);
+      }
+      openDetail(ep.slug);
     });
-    card.addEventListener('dblclick', () => openDetail(ep.slug));
     track.appendChild(card);
   });
   row.appendChild(track);
@@ -345,6 +349,11 @@ function addForumCarousel(container, title, topics) {
 // ---- Modal / detail ----
 function openModal(html) {
   const modal = document.getElementById('modal');
+  // Close any existing modal state first (prevents stacking)
+  if (!modal.classList.contains('hidden')) {
+    if (_trState && _trState.isEditing) _flushReviewProgress();
+    if (_reviewObserver) { _reviewObserver.disconnect(); _reviewObserver = null; }
+  }
   document.getElementById('modal-body').innerHTML = html;
   modal.classList.remove('hidden');
   modal.querySelector('.modal-close').onclick = closeModal;
