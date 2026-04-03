@@ -1,6 +1,6 @@
 # Purefoy: Team Deakins Knowledge Base
 
-A comprehensive research toolkit for building a structured knowledge base from **Team Deakins podcast episodes**, **rogerdeakins.com forum discussions**, and **cinematography articles**.
+A comprehensive research toolkit for building a structured knowledge base from **Team Deakins podcast episodes**, **rogerdeakins.com forum discussions**, and **cinematography articles**. 348 fully transcribed podcast episodes and 3,075+ forum posts stored as structured JSON leaves with SQLite FTS5 full-text search. Built as a Python RAG pipeline with MCP server integration for Frame OS.
 
 **Current Status:** Production-ready v2.0 with threading support, 3,075+ forum posts indexed, **348/348 podcast episodes fully transcribed**, standalone Flask knowledge browser, transcript editing UI in Frame, and **shared UI components via `@ojfbot/frame-ui-components`**.
 
