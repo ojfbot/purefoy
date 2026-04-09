@@ -1,0 +1,1 @@
+../../../core/scripts/hooks/pr-skill-audit.sh
