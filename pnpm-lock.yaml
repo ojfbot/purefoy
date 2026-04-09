@@ -70,8 +70,8 @@ importers:
         specifier: ^1.102.0
         version: 1.103.0(sass@1.98.0)
       '@ojfbot/frame-ui-components':
-        specifier: file:../../../frame-ui-components
-        version: file:../frame-ui-components(@carbon/react@1.104.1(react-dom@18.3.1(react@18.3.1))(react-is@18.2.0)(react@18.3.1)(sass@1.98.0))(@carbon/styles@1.103.0(sass@1.98.0))(react-dom@18.3.1(react@18.3.1))(react-markdown@9.1.0(@types/react@18.3.28)(react@18.3.1))(react@18.3.1)(remark-gfm@4.0.1)
+        specifier: ^1.0.1
+        version: 1.0.1(@carbon/react@1.104.1(react-dom@18.3.1(react@18.3.1))(react-is@18.2.0)(react@18.3.1)(sass@1.98.0))(@carbon/styles@1.103.0(sass@1.98.0))(react-dom@18.3.1(react@18.3.1))(react-markdown@9.1.0(@types/react@18.3.28)(react@18.3.1))(react@18.3.1)(remark-gfm@4.0.1)
       '@purefoy/shared':
         specifier: workspace:*
         version: link:../shared
@@ -671,8 +671,8 @@ packages:
   '@jridgewell/trace-mapping@0.3.31':
     resolution: {integrity: sha512-zzNR+SdQSDJzc8joaeP8QQoCQr8NuYx2dIIytl1QeBEZHJ9uW6hebsrYgbz8hJwUQao3TWCMtmfV8Nu1twOLAw==}
 
-  '@ojfbot/frame-ui-components@file:../frame-ui-components':
-    resolution: {directory: ../frame-ui-components, type: directory}
+  '@ojfbot/frame-ui-components@1.0.1':
+    resolution: {integrity: sha512-LZydBJ2tcpPDo2Y2TNm9Au0SvbcZM31GxvX4rvHQpEFYLsfgG/VJtLgvfECEaXr36gk4dYe5N1spCT9pe9c/oA==}
     peerDependencies:
       '@carbon/react': '>=1'
       '@carbon/styles': '>=1'
@@ -2966,7 +2966,7 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.5
 
-  '@ojfbot/frame-ui-components@file:../frame-ui-components(@carbon/react@1.104.1(react-dom@18.3.1(react@18.3.1))(react-is@18.2.0)(react@18.3.1)(sass@1.98.0))(@carbon/styles@1.103.0(sass@1.98.0))(react-dom@18.3.1(react@18.3.1))(react-markdown@9.1.0(@types/react@18.3.28)(react@18.3.1))(react@18.3.1)(remark-gfm@4.0.1)':
+  '@ojfbot/frame-ui-components@1.0.1(@carbon/react@1.104.1(react-dom@18.3.1(react@18.3.1))(react-is@18.2.0)(react@18.3.1)(sass@1.98.0))(@carbon/styles@1.103.0(sass@1.98.0))(react-dom@18.3.1(react@18.3.1))(react-markdown@9.1.0(@types/react@18.3.28)(react@18.3.1))(react@18.3.1)(remark-gfm@4.0.1)':
     dependencies:
       '@carbon/react': 1.104.1(react-dom@18.3.1(react@18.3.1))(react-is@18.2.0)(react@18.3.1)(sass@1.98.0)
       '@carbon/styles': 1.103.0(sass@1.98.0)
