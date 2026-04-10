@@ -1,0 +1,1 @@
+../../../core/scripts/hooks/bead-session.sh

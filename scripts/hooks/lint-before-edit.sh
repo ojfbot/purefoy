@@ -1,0 +1,1 @@
+../../../core/scripts/hooks/lint-before-edit.sh

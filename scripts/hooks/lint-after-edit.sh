@@ -1,0 +1,1 @@
+../../../core/scripts/hooks/lint-after-edit.sh
