@@ -1,0 +1,1 @@
+../../../core/scripts/hooks/log-tool-use.sh

@@ -1,0 +1,1 @@
+../../../core/scripts/hooks/scan-after-write.sh
