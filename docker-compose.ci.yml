@@ -1,0 +1,108 @@
+version: '3.8'
+
+# CI-specific Docker Compose configuration for Purefoy
+# Visual regression testing with Playwright in containers
+
+services:
+  # Browser App - React UI
+  browser-app:
+    build:
+      context: .
+      dockerfile: packages/browser-app/Dockerfile
+      target: production
+      args:
+        NODE_VERSION: '24'
+        VITE_API_URL: http://api:3021/api
+    container_name: purefoy-browser-ci
+    ports:
+      - "3020:3020"
+    environment:
+      - NODE_ENV=test
+      - CI=true
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3020"]
+      interval: 5s
+      timeout: 3s
+      retries: 12
+      start_period: 20s
+    networks:
+      - test-network
+
+  # API Server
+  api:
+    build:
+      context: .
+      dockerfile: packages/api/Dockerfile
+      target: production
+      args:
+        NODE_VERSION: '24'
+    container_name: purefoy-api-ci
+    ports:
+      - "3021:3021"
+    environment:
+      - NODE_ENV=test
+      - CI=true
+      - PORT=3021
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3021/health"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+      start_period: 15s
+    networks:
+      - test-network
+
+  # Browser Automation - Playwright testing service
+  browser-automation:
+    build:
+      context: .
+      dockerfile: packages/browser-automation/Dockerfile
+      args:
+        PLAYWRIGHT_VERSION: '1.40.0'
+    container_name: purefoy-automation-ci
+    ports:
+      - "3022:3022"
+    environment:
+      - NODE_ENV=test
+      - CI=true
+      - PORT=3022
+      - HEADLESS=true
+      - BROWSER_APP_URL=http://browser-app:3020
+      - APP_URL=http://browser-app:3020
+      - SCREENSHOTS_DIR=/app/temp/screenshots
+      - SCREENSHOT_MAX_AGE_DAYS=7
+      - DISABLE_ANIMATIONS=true
+      - PLAYWRIGHT_BROWSER_EXECUTABLE_PATH=/ms-playwright/chromium-*/chrome-linux/chrome
+    volumes:
+      - ./packages/browser-automation/test-baselines:/app/test-baselines:ro
+      - ./temp/screenshots:/app/temp/screenshots
+      - ./temp/test-results:/app/test-results
+    depends_on:
+      browser-app:
+        condition: service_healthy
+      api:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3022/health"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+      start_period: 15s
+    networks:
+      - test-network
+    deploy:
+      resources:
+        limits:
+          cpus: '2.0'
+          memory: 2G
+        reservations:
+          cpus: '1.0'
+          memory: 1G
+
+networks:
+  test-network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.34.0.0/16
