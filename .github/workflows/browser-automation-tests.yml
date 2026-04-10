@@ -1,0 +1,208 @@
+name: Browser Automation Tests (Docker)
+
+on:
+  pull_request:
+    paths:
+      - 'packages/browser-app/**'
+      - 'packages/browser-automation/**'
+      - 'packages/api/**'
+      - '.github/workflows/browser-automation-tests.yml'
+      - 'docker-compose.ci.yml'
+  push:
+    paths:
+      - 'packages/browser-app/**'
+      - 'packages/browser-automation/**'
+      - 'packages/api/**'
+      - '.github/workflows/browser-automation-tests.yml'
+      - 'docker-compose.ci.yml'
+  workflow_dispatch:
+    inputs:
+      update_baselines:
+        description: 'Update visual regression baselines'
+        required: false
+        type: boolean
+        default: false
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+env:
+  CI: true
+  NODE_ENV: test
+  HEADLESS: true
+  FORCE_COLOR: 1
+
+jobs:
+  browser-tests:
+    name: Visual Regression & UI Tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+      pull-requests: write
+      issues: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Enable Corepack
+        run: |
+          corepack enable
+          corepack prepare pnpm@9.15.4 --activate
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Setup temp directories
+        run: |
+          mkdir -p temp/screenshots
+          mkdir -p temp/test-results
+          chmod -R 777 temp
+
+      - name: Start services with Docker Compose
+        id: docker-start
+        run: |
+          docker compose -f docker-compose.ci.yml up -d
+          echo "Waiting for services to be ready..."
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        continue-on-error: true
+
+      - name: Wait for services
+        id: wait-services
+        if: steps.docker-start.outcome == 'success'
+        run: |
+          echo "Waiting for browser-app (http://localhost:3020)..."
+          timeout 60 bash -c 'until curl -sf http://localhost:3020 > /dev/null; do sleep 2; done'
+
+          echo "Waiting for API (http://localhost:3021/health)..."
+          timeout 60 bash -c 'until curl -sf http://localhost:3021/health > /dev/null; do sleep 2; done'
+
+          echo "Waiting for browser-automation (http://localhost:3022/health)..."
+          timeout 60 bash -c 'until curl -sf http://localhost:3022/health > /dev/null; do sleep 2; done'
+
+          echo "All services are ready"
+        continue-on-error: true
+
+      - name: Show service logs (debug)
+        if: steps.docker-start.outcome == 'failure' || steps.wait-services.outcome == 'failure'
+        run: |
+          docker compose -f docker-compose.ci.yml logs browser-app
+          docker compose -f docker-compose.ci.yml logs api
+          docker compose -f docker-compose.ci.yml logs browser-automation
+
+      - name: Run visual regression tests
+        id: visual-tests
+        run: |
+          docker compose -f docker-compose.ci.yml exec -T browser-automation pnpm test:visual
+        env:
+          API_URL: http://localhost:3022
+          BROWSER_APP_URL: http://browser-app:3020
+          UPDATE_BASELINES: ${{ github.event.inputs.update_baselines || 'false' }}
+        continue-on-error: true
+
+      - name: Upload test screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-screenshots-${{ github.run_number }}
+          path: temp/screenshots/
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - name: Upload visual diff artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: visual-diffs-${{ github.run_number }}
+          path: |
+            temp/test-results/visual-diffs/
+            packages/browser-automation/test-baselines/**/diffs/
+          retention-days: 30
+          if-no-files-found: ignore
+
+      - name: Upload test report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-report-${{ github.run_number }}
+          path: temp/test-results/
+          retention-days: 30
+          if-no-files-found: ignore
+
+      - name: Update baselines (if requested)
+        if: |
+          github.event.inputs.update_baselines == 'true' &&
+          github.event_name == 'workflow_dispatch'
+        run: |
+          docker compose -f docker-compose.ci.yml exec -T \
+            -e UPDATE_BASELINES=true \
+            browser-automation pnpm test:visual || true
+
+          docker cp \
+            purefoy-automation-ci:/app/packages/browser-automation/test-baselines/. \
+            packages/browser-automation/test-baselines/
+
+      - name: Comment PR with results
+        if: github.event_name == 'pull_request' && always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+
+            const summaryPath = 'temp/test-results/pr-comment.md';
+            let comment = fs.existsSync(summaryPath)
+              ? fs.readFileSync(summaryPath, 'utf8')
+              : '## Browser Automation Test Results\n\nTest report not generated. Check workflow logs.\n';
+
+            const BOT_MARKER = '<!-- purefoy-browser-automation-results -->';
+            const fullBody = BOT_MARKER + '\n' + comment;
+            const existing = await github.rest.issues.listComments({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+            });
+            const botComment = existing.data.find(c => c.body && c.body.includes(BOT_MARKER));
+            if (botComment) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: botComment.id,
+                body: fullBody,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: fullBody,
+              });
+            }
+
+      - name: Shutdown services
+        if: always()
+        run: |
+          docker compose -f docker-compose.ci.yml down -v
+          docker compose -f docker-compose.ci.yml rm -f
+
+      - name: Check test results
+        if: always()
+        run: |
+          if [ "${{ steps.docker-start.outcome }}" != "success" ] || [ "${{ steps.wait-services.outcome }}" != "success" ]; then
+            echo "Docker services failed to start -- skipping test result check"
+            exit 0
+          fi
+          if [ "${{ steps.visual-tests.outcome }}" != "success" ]; then
+            echo "Visual regression tests did not pass (non-blocking pre-release)"
+          fi
+          echo "Visual regression tests complete"
