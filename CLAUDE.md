@@ -8,7 +8,7 @@ This is a **Team Deakins Podcast and Forum Knowledge Base** project. It contains
 
 1. **Podcast Episode Downloader & Ingest**: Scripts to download MP3s from RSS feeds and organize them into structured episode directories with metadata and transcripts.
 2. **Forum Scraper (`deakins_forums`)**: A modular, ultra-structured Python package for scraping rogerdeakins.com forums into a searchable JSON-based knowledge base.
-3. **TypeScript UI Layer (`packages/`)**: A Module Federation remote (React/Vite micro-frontend on port 3020 + Express API on port 3021) for exploring podcast and forum data locally. UI components are imported from `@ojfbot/frame-ui-components` (DashboardLayout, ChatShell, ChatMessage, MarkdownMessage, ErrorBoundary, ThreadSidebar, CondensedChat). Architecture decisions documented in ADR-006 through ADR-009 and ADR-0030 (shared component architecture).
+3. **TypeScript UI Layer (`packages/`)**: A Module Federation remote (React/Vite micro-frontend on port 3020 + Express API on port 3021) for exploring podcast and forum data locally. UI components are imported from `@ojfbot/frame-ui-components` (npm `^1.0.1`) (DashboardLayout, ChatShell, ChatMessage, MarkdownMessage, ErrorBoundary, ThreadSidebar, CondensedChat). Architecture decisions documented in ADR-006 through ADR-009 and ADR-0030 (shared component architecture).
 4. **Standalone Flask UI (`app.py`)**: A single-file dark-theme knowledge browser at `localhost:5050`, reading directly from `downloads/` and `library/forums/`. Zero dependency on the Module Federation stack — used for local debugging against the raw corpus.
 All content is for **personal research and educational purposes only** under fair use principles. Commercial use requires explicit permission from copyright holders.
 
@@ -47,7 +47,7 @@ purefoy/
 │   ├── report.py           # Reporting utilities
 │   └── config.py           # Settings with env var overrides
 ├── packages/                # TypeScript UI layer (pnpm workspace)
-│   ├── browser-app/        # React/Vite micro-frontend remote (port 3020) — UI via @ojfbot/frame-ui-components
+│   ├── browser-app/        # React/Vite micro-frontend remote (port 3020) — UI via @ojfbot/frame-ui-components (npm ^1.0.1)
 │   ├── api/                # Express API over flat JSON + SQLite (port 3021)
 │   └── shared/             # @purefoy/shared — generated OpenAPI schema + API type contracts (incl. GoalManifest, ReviewProgress)
 ├── app.py                   # Standalone Flask UI — dark-theme knowledge browser (port 5050)
@@ -367,7 +367,7 @@ export DEAKINS_OUT_DIR="./library/forums"
 
 ## Git Repository Notes
 
-This repository includes scraped forum data (`library/forums/`) for private research use:
+This repository previously included scraped forum data (`library/forums/`) but that directory is now gitignored (see Git Data Policy above). On-disk data is for private research use:
 - Forum content is publicly accessible (not behind authentication)
 - Structured JSON format is git-friendly
 - Enables incremental updates and change tracking
