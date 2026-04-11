@@ -13,7 +13,6 @@ dependencies = [
 [project.optional-dependencies]
 dev = [
     "pytest>=8.0",
-    "pytest-asyncio>=0.23",
     "ruff>=0.6",
     "mypy>=1.10",
     "types-requests",
@@ -64,5 +63,4 @@ module = [
 ignore_errors = true
 
 [tool.pytest.ini_options]
-asyncio_mode = "auto"
 testpaths = ["tests"]
