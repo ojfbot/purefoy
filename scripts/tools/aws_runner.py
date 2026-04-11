@@ -380,7 +380,13 @@ class RemoteWorker:
 
         logger.info("[%s] Installing faster-whisper...", self.host)
         rc, _, err = self._ssh(
-            f"{py} -m pip install -q faster-whisper 2>&1 | tail -5",
+            # Pin torch<2.11 to stay compatible with DLAMI's cuDNN 9.10.
+            # torch 2.11+ is compiled against cuDNN 9.19 which mismatches.
+            # DLAMI ships torch 2.10 pre-installed; the constraint prevents
+            # faster-whisper from pulling 2.11+ as a transitive upgrade.
+            f"set -o pipefail; {py} -m pip install -q "
+            f"'faster-whisper>=1.0.0,<2.0' 'torch>=2.10.0,<2.11' 'torchaudio>=2.10.0,<2.11' "
+            f"2>&1 | tail -5",
             timeout=300,
         )
         if rc != 0:
@@ -1397,7 +1403,7 @@ def main() -> None:
 
     # Setup (idempotent; skippable)
     if not args.skip_setup:
-        warm = args.setup_only  # only warm model explicitly on --setup-only
+        warm = True  # Always warm model — preflight will catch missing cache otherwise
         logger.info("Running setup on %d instance(s)%s...",
                     len(workers), " (model warm included)" if warm else "")
         setup_ok = True
