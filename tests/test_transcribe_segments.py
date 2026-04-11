@@ -216,6 +216,7 @@ class TestLoadDiarizationPatches:
         engine.hf_token = "tok"
         engine.min_speakers = 1
         engine.max_speakers = 8
+        engine.strict_diarize = False
         engine._diarization_pipeline = None
         engine._load_diarization()
 
