@@ -27,5 +27,6 @@ faster-whisper>=1.0.0
 # Requires accepting model terms at https://huggingface.co/pyannote/speaker-diarization-3.1
 # and setting HF_TOKEN env var before running --diarize.
 pyannote.audio==4.0.4  # pinned: latest tested (2026-03-04); 4.x has breaking API vs 3.x
-torch>=2.0.0           # required by pyannote; pre-installed on DLAMI (2.10.0+cu128)
+torch>=2.10.0,<2.11    # pin to 2.10.x — 2.11+ needs cuDNN 9.19 but DLAMI has 9.10
+torchaudio>=2.10.0,<2.11  # must match torch version — mismatched .so causes import failure
 speechbrain==1.0.3     # pinned: 1.0.3 is the latest release; 1.0.4 does NOT exist on PyPI
