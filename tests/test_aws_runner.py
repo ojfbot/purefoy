@@ -802,7 +802,7 @@ class TestProcessEpisodeReconnect:
         with patch.object(worker, "_ssh", side_effect=mock_ssh), \
              patch.object(worker, "_rsync_up"), \
              patch.object(worker, "_launch_detached", return_value="999"), \
-             patch.object(worker, "_poll_until_done",
+             patch.object(worker, "_poll_with_progress",
                           side_effect=TimeoutError("timed out")):
             success, _ = worker.process_episode(ep, tmp_path)
 
@@ -831,7 +831,7 @@ class TestProcessEpisodeReconnect:
         with patch.object(worker, "_ssh", side_effect=mock_ssh), \
              patch.object(worker, "_rsync_up"), \
              patch.object(worker, "_launch_detached", return_value="999"), \
-             patch.object(worker, "_poll_until_done",
+             patch.object(worker, "_poll_with_progress",
                           side_effect=RuntimeError("remote job exited")):
             success, _ = worker.process_episode(ep, tmp_path)
 
