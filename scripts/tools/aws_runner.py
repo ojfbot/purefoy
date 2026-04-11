@@ -132,6 +132,22 @@ def now_iso() -> str:
 
 
 # ---------------------------------------------------------------------------
+# Stall thresholds (seconds) per pipeline stage: (warn, kill)
+# ---------------------------------------------------------------------------
+
+STALL_THRESHOLDS: dict[str, tuple[int, int]] = {
+    "model_loading":      (300,  600),   # 5 min warn, 10 min kill
+    "transcription":      (600,  1200),  # 10 min warn, 20 min kill
+    "diarization":        (600,  1500),  # 10 min warn, 25 min kill
+    "speaker_embedding":  (300,  600),   # 5 min warn, 10 min kill
+    "intro_outro_tagging": (180, 480),   # 3 min warn, 8 min kill
+    "topic_tagging":      (180,  480),
+    "chapter_generation": (180,  480),
+    "write_outputs":      (180,  480),
+}
+
+
+# ---------------------------------------------------------------------------
 # RemoteWorker
 # ---------------------------------------------------------------------------
 
@@ -154,6 +170,7 @@ class RemoteWorker:
     diarize: bool = False
     hf_token: str | None = None
     embed_speakers: bool = False
+    strict_diarize: bool = False
     # Actual ffmpeg bin directory discovered during setup (may differ from /usr/bin on DLAMI)
     ffmpeg_dir: str = ""
 
@@ -261,6 +278,310 @@ class RemoteWorker:
             f"Remote log: ssh -i {self.key_path} {self.user}@{self.host} "
             f"tail -100 {log_path}"
         )
+
+    def _poll_with_progress(
+        self,
+        done_marker: str,
+        progress_file: str,
+        pid: str,
+        ep_name: str,
+        log_path: str,
+        timeout: int = 7200,
+        poll_interval: int = 15,
+    ) -> dict[str, Any] | None:
+        """
+        Poll remote progress.json for real-time stage tracking and stall detection.
+
+        Returns the final progress snapshot on success, or raises on failure/timeout.
+        Falls back to PID-alive polling if progress.json is not available (backward compat).
+        """
+        deadline = time.monotonic() + timeout
+        backoff = 15
+        last_updated_at: str | None = None
+        last_change_time = time.monotonic()
+        stall_warned = False
+        last_progress: dict[str, Any] = {}
+        progress_available = False  # set True once we successfully read progress.json
+
+        while time.monotonic() < deadline:
+            time.sleep(poll_interval)
+            try:
+                # ── Try to read progress.json ──
+                rc, stdout, _ = self._ssh(
+                    f"cat {shlex.quote(progress_file)} 2>/dev/null", timeout=15,
+                )
+                if rc == 0 and stdout.strip():
+                    try:
+                        progress = json.loads(stdout)
+                        progress_available = True
+                        last_progress = progress
+
+                        # Check if done
+                        if progress.get("done"):
+                            if progress.get("error"):
+                                raise RuntimeError(
+                                    f"Remote job failed at stage '{progress.get('stage')}': "
+                                    f"{progress['error']}"
+                                )
+                            return progress
+
+                        # Track progress changes for stall detection
+                        current_updated = progress.get("updated_at")
+                        if current_updated != last_updated_at:
+                            last_updated_at = current_updated
+                            last_change_time = time.monotonic()
+                            stall_warned = False
+
+                        stage = progress.get("stage", "unknown")
+                        gpu = progress.get("gpu", {})
+                        detail = progress.get("detail") or ""
+                        detail_str = f" ({detail})" if detail else ""
+
+                        logger.info(
+                            "[%s] Stage: %s%s | GPU: %s%% %sMB | %d/%d stages",
+                            self.host, stage, detail_str,
+                            gpu.get("utilization_pct", "?"),
+                            gpu.get("memory_used_mb", "?"),
+                            progress.get("stage_index", 0),
+                            progress.get("stage_count", 0),
+                        )
+
+                        # ── Stall detection ──
+                        stall_duration = time.monotonic() - last_change_time
+                        warn_thresh, kill_thresh = STALL_THRESHOLDS.get(
+                            stage, (180, 480),
+                        )
+
+                        if stall_duration >= kill_thresh:
+                            logger.error(
+                                "[%s] STALL DETECTED: stage '%s' unchanged for %d s "
+                                "(kill threshold: %d s). Killing PID %s.",
+                                self.host, stage, int(stall_duration), kill_thresh, pid,
+                            )
+                            self._ssh(f"kill {pid} 2>/dev/null", timeout=15)
+                            time.sleep(10)
+                            self._ssh(f"kill -9 {pid} 2>/dev/null", timeout=15)
+                            raise RuntimeError(
+                                f"Stall timeout: stage '{stage}' unchanged for "
+                                f"{int(stall_duration)}s. Process killed."
+                            )
+
+                        if stall_duration >= warn_thresh and not stall_warned:
+                            logger.warning(
+                                "[%s] STALL WARNING: stage '%s' unchanged for %d s "
+                                "(kill at %d s)",
+                                self.host, stage, int(stall_duration), kill_thresh,
+                            )
+                            stall_warned = True
+
+                        backoff = 15
+                        continue
+
+                    except json.JSONDecodeError:
+                        pass  # Partial write — retry next cycle
+
+                # ── Fallback: no progress.json — use legacy PID check ──
+                # Check done marker
+                rc_done, _, _ = self._ssh(
+                    f"test -f {shlex.quote(done_marker)}", timeout=15,
+                )
+                if rc_done == 0:
+                    return last_progress or None
+
+                # Check PID alive
+                rc_pid, _, _ = self._ssh(
+                    f"kill -0 {pid} 2>/dev/null", timeout=15,
+                )
+                if rc_pid != 0:
+                    _, tail, _ = self._ssh(
+                        f"tail -40 {shlex.quote(log_path)} 2>/dev/null", timeout=15,
+                    )
+                    stage_info = ""
+                    if last_progress:
+                        stage_info = f" (last stage: {last_progress.get('stage', '?')})"
+                    raise RuntimeError(
+                        f"Remote job PID {pid} exited without writing "
+                        f"completion marker{stage_info}.\nLast log lines:\n{tail}"
+                    )
+
+                if not progress_available:
+                    logger.debug(
+                        "[%s] Job PID %s still running (%s)...",
+                        self.host, pid, ep_name,
+                    )
+                backoff = 15
+
+            except subprocess.TimeoutExpired:
+                logger.warning(
+                    "[%s] SSH check timed out for %s — retrying in %ds...",
+                    self.host, ep_name, backoff,
+                )
+                time.sleep(backoff)
+                backoff = min(backoff * 2, 600)
+
+        raise TimeoutError(
+            f"Episode {ep_name} did not complete within {timeout // 60} min. "
+            f"Remote log: ssh -i {self.key_path} {self.user}@{self.host} "
+            f"tail -100 {log_path}"
+        )
+
+    def preflight(self, model: str = "large-v3") -> dict[str, Any]:
+        """
+        Run pre-flight checks on the remote instance before transcription.
+
+        Verifies: model cache, CUDA/cuDNN, pyannote (if diarize), GPU memory, swap.
+        Returns a details dict. Raises RuntimeError on critical failures.
+        """
+        logger.info("[%s] Running pre-flight checks...", self.host)
+
+        check_script = f'''
+import json, sys, os, pathlib
+
+results = {{"host": "{self.host}", "checks": {{}}}}
+
+# 1. Model cache
+model_dir = pathlib.Path.home() / ".cache" / "huggingface" / "hub" / "models--Systran--faster-whisper-{model}"
+if model_dir.exists():
+    blobs = list((model_dir / "blobs").glob("*"))
+    incomplete = [b for b in blobs if b.name.endswith(".incomplete")]
+    total_size = sum(b.stat().st_size for b in blobs if not b.name.endswith(".incomplete"))
+    results["checks"]["model_cache"] = {{
+        "ok": total_size > 2_000_000_000 and len(incomplete) == 0,
+        "blob_count": len(blobs) - len(incomplete),
+        "incomplete_count": len(incomplete),
+        "total_size_gb": round(total_size / 1e9, 2),
+    }}
+else:
+    results["checks"]["model_cache"] = {{"ok": False, "error": "model dir not found"}}
+
+# 2. CUDA / cuDNN
+try:
+    import torch
+    cuda_ok = torch.cuda.is_available()
+    results["checks"]["cuda"] = {{
+        "ok": cuda_ok,
+        "torch_version": torch.__version__,
+        "cudnn_version": torch.backends.cudnn.version() if cuda_ok else None,
+        "gpu_name": torch.cuda.get_device_name(0) if cuda_ok else None,
+    }}
+    if cuda_ok:
+        t = torch.zeros(1, device="cuda")
+        del t
+except Exception as e:
+    results["checks"]["cuda"] = {{"ok": False, "error": str(e)}}
+
+# 3. pyannote (if diarize requested)
+if {self.diarize}:
+    try:
+        import torchaudio as _ta
+        if not hasattr(_ta, "list_audio_backends"):
+            _ta.list_audio_backends = lambda: ["soundfile", "sox_io"]
+        from pyannote.audio import Pipeline as _P
+        results["checks"]["pyannote"] = {{"ok": True}}
+    except Exception as e:
+        results["checks"]["pyannote"] = {{"ok": False, "error": str(e)}}
+
+# 4. GPU memory
+try:
+    import subprocess as sp
+    out = sp.run(
+        ["nvidia-smi", "--query-gpu=memory.free,memory.total", "--format=csv,noheader,nounits"],
+        capture_output=True, text=True, timeout=5,
+    )
+    parts = out.stdout.strip().split(", ")
+    results["checks"]["gpu_memory"] = {{
+        "ok": int(parts[0]) > 4000,
+        "free_mb": int(parts[0]),
+        "total_mb": int(parts[1]),
+    }}
+except Exception as e:
+    results["checks"]["gpu_memory"] = {{"ok": True, "note": "could not check"}}
+
+# 5. Swap
+try:
+    import subprocess as sp
+    out = sp.run(["free", "-m"], capture_output=True, text=True, timeout=5)
+    for line in out.stdout.splitlines():
+        if line.startswith("Swap:"):
+            parts = line.split()
+            total_swap = int(parts[1])
+            results["checks"]["swap"] = {{"ok": total_swap >= 8000, "total_mb": total_swap}}
+            break
+except Exception as e:
+    results["checks"]["swap"] = {{"ok": True, "note": "could not check"}}
+
+print(json.dumps(results))
+'''
+        rc, stdout, stderr = self._ssh(
+            f"{self.python} -c {shlex.quote(check_script)}", timeout=60,
+        )
+
+        if rc != 0:
+            raise RuntimeError(
+                f"Pre-flight script failed on {self.host}: {stderr[:500]}"
+            )
+
+        try:
+            details = json.loads(stdout.strip())
+        except json.JSONDecodeError:
+            raise RuntimeError(
+                f"Pre-flight returned invalid JSON from {self.host}: {stdout[:500]}"
+            )
+
+        checks = details.get("checks", {})
+        failures = []
+
+        # Model cache is critical
+        mc = checks.get("model_cache", {})
+        if not mc.get("ok"):
+            failures.append(f"Model cache: {mc.get('error', 'incomplete or missing')} "
+                          f"(size: {mc.get('total_size_gb', 0)} GB, "
+                          f"incomplete: {mc.get('incomplete_count', '?')})")
+        else:
+            logger.info("[%s] ✓ Model cache: %.1f GB, %d blobs",
+                       self.host, mc.get("total_size_gb", 0), mc.get("blob_count", 0))
+
+        # CUDA is critical
+        cuda = checks.get("cuda", {})
+        if not cuda.get("ok"):
+            failures.append(f"CUDA: {cuda.get('error', 'not available')}")
+        else:
+            logger.info("[%s] ✓ CUDA: %s, cuDNN %s, %s",
+                       self.host, cuda.get("torch_version"),
+                       cuda.get("cudnn_version"), cuda.get("gpu_name"))
+
+        # pyannote is critical when diarize=True
+        if self.diarize:
+            pya = checks.get("pyannote", {})
+            if not pya.get("ok"):
+                failures.append(f"pyannote: {pya.get('error', 'import failed')}")
+            else:
+                logger.info("[%s] ✓ pyannote: importable", self.host)
+
+        # GPU memory is a warning
+        gm = checks.get("gpu_memory", {})
+        if not gm.get("ok") and "free_mb" in gm:
+            logger.warning("[%s] ⚠ GPU memory low: %d MB free (need >4000 MB)",
+                         self.host, gm.get("free_mb", 0))
+        elif "free_mb" in gm:
+            logger.info("[%s] ✓ GPU memory: %d MB free / %d MB total",
+                       self.host, gm.get("free_mb", 0), gm.get("total_mb", 0))
+
+        # Swap is a warning
+        sw = checks.get("swap", {})
+        if not sw.get("ok") and "total_mb" in sw:
+            logger.warning("[%s] ⚠ Swap low: %d MB (need ≥8000 MB for ECAPA)",
+                         self.host, sw.get("total_mb", 0))
+        elif "total_mb" in sw:
+            logger.info("[%s] ✓ Swap: %d MB", self.host, sw.get("total_mb", 0))
+
+        if failures:
+            raise RuntimeError(
+                f"Pre-flight FAILED on {self.host}:\n  " + "\n  ".join(failures)
+            )
+
+        logger.info("[%s] ✓ All pre-flight checks passed", self.host)
+        return details
 
     def _rsync_up(self, local: Path, remote_path: str, timeout: int = 600) -> None:
         """Upload local path → remote."""
@@ -588,6 +909,11 @@ class RemoteWorker:
                 cmd_parts += ["--cpu-threads", str(self.cpu_threads)]
             if force:
                 cmd_parts.append("--force")
+            # Progress file for real-time monitoring (read by _poll_with_progress)
+            remote_progress = f"{remote_ep}/progress.json"
+            cmd_parts += ["--progress-file", remote_progress]
+            if getattr(self, "strict_diarize", False):
+                cmd_parts.append("--strict-diarize")
 
             remote_cmd = env_prefix + " ".join(cmd_parts)
 
@@ -608,7 +934,10 @@ class RemoteWorker:
                 self.host, pid, self.key_path, self.user, self.host, remote_log,
             )
 
-            self._poll_until_done(done_marker, pid, ep_name, remote_log, timeout=job_timeout)
+            self._poll_with_progress(
+                done_marker, remote_progress, pid, ep_name, remote_log,
+                timeout=job_timeout,
+            )
 
             elapsed = time.monotonic() - t0
             logger.info("[%s] ✓ Transcription done in %.0f s", self.host, elapsed)
@@ -1309,6 +1638,16 @@ def build_parser() -> argparse.ArgumentParser:
              "Requires --diarize. Enables cross-episode speaker clustering (B3).",
     )
     p.add_argument(
+        "--strict-diarize", action="store_true",
+        help="Fail hard if diarization cannot load on remote (no silent fallback). "
+             "Passed through to transcribe_episodes.py.",
+    )
+    p.add_argument(
+        "--skip-preflight", action="store_true",
+        help="Skip pre-flight checks (model cache, CUDA, pyannote). "
+             "Use when you know the instance is already configured.",
+    )
+    p.add_argument(
         "--verbose", "-v", action="store_true",
         help="Enable DEBUG logging",
     )
@@ -1383,6 +1722,7 @@ def main() -> None:
             diarize=args.diarize,
             hf_token=hf_token,
             embed_speakers=args.embed_speakers,
+            strict_diarize=args.strict_diarize,
         )
         for h in hosts
     ]
@@ -1430,6 +1770,22 @@ def main() -> None:
     if args.setup_only:
         logger.info("Setup complete. Run without --setup-only to begin transcription.")
         return
+
+    # Pre-flight checks (verify model cache, CUDA, pyannote before burning time)
+    if not args.skip_preflight:
+        logger.info("Running pre-flight checks on %d instance(s)...", len(workers))
+        preflight_ok = True
+        for w in workers:
+            try:
+                w.preflight(model=args.model)
+            except RuntimeError as e:
+                logger.error("Pre-flight FAILED for %s: %s", w.host, e)
+                preflight_ok = False
+        if not preflight_ok:
+            if args.provision:
+                logger.info("Pre-flight failed — terminating provisioned instance(s)...")
+                terminate_instances(provisioned_ids)
+            sys.exit(1)
 
     # Discover episodes
     if args.mode == "test":

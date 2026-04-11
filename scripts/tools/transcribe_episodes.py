@@ -196,6 +196,131 @@ def format_duration(seconds: float) -> str:
     return f"{h}:{m:02d}:{s:02d}" if h > 0 else f"{m}:{s:02d}"
 
 
+# ---------------------------------------------------------------------------
+# Progress reporting (observability for remote polling)
+# ---------------------------------------------------------------------------
+
+STAGE_NAMES = [
+    "model_loading",
+    "transcription",
+    "intro_outro_tagging",
+    "topic_tagging",
+    "diarization",
+    "speaker_embedding",
+    "chapter_generation",
+    "write_outputs",
+]
+
+
+class ProgressReporter:
+    """Writes structured progress to a JSON file for remote monitoring.
+
+    The local aws_runner polls this file via SSH to track stage transitions,
+    detect stalls, and collect GPU/system metrics — replacing blind PID-alive
+    polling with real observability.
+    """
+
+    def __init__(self, progress_path: Path, episode_name: str) -> None:
+        self._path = progress_path
+        self._episode = episode_name
+        self._started_at = now_iso()
+        self._stage: str | None = None
+        self._stage_started: float = 0.0
+        self._stage_timings: dict[str, float] = {}
+        self._stages_completed: list[str] = []
+        self._gpu_cache: tuple[float, dict[str, Any]] = (0.0, {})
+        self._enabled = True
+
+    def report_stage(self, stage: str, detail: str | None = None) -> None:
+        """Record a stage transition and write progress file."""
+        now = time.monotonic()
+        if self._stage is not None:
+            self._stage_timings[self._stage] = round(now - self._stage_started, 1)
+            self._stages_completed.append(self._stage)
+        self._stage = stage
+        self._stage_started = now
+        self._write(detail=detail)
+
+    def heartbeat(self, detail: str | None = None) -> None:
+        """Update progress within a stage (e.g. segment count)."""
+        self._write(detail=detail)
+
+    def finish(self, error: str | None = None) -> None:
+        """Mark processing as done (success or failure)."""
+        now = time.monotonic()
+        if self._stage is not None:
+            self._stage_timings[self._stage] = round(now - self._stage_started, 1)
+            self._stages_completed.append(self._stage)
+        self._write(done=True, error=error)
+
+    def _collect_gpu_metrics(self) -> dict[str, Any]:
+        """Collect GPU metrics via nvidia-smi, cached for 5 seconds."""
+        now = time.monotonic()
+        if now - self._gpu_cache[0] < 5.0:
+            return self._gpu_cache[1]
+        try:
+            import subprocess as _sp
+            out = _sp.run(
+                ["nvidia-smi", "--query-gpu=utilization.gpu,memory.used,memory.total",
+                 "--format=csv,noheader,nounits"],
+                capture_output=True, text=True, timeout=5,
+            )
+            if out.returncode == 0:
+                parts = out.stdout.strip().split(", ")
+                if len(parts) == 3:
+                    metrics = {
+                        "utilization_pct": int(parts[0]),
+                        "memory_used_mb": int(parts[1]),
+                        "memory_total_mb": int(parts[2]),
+                    }
+                    self._gpu_cache = (now, metrics)
+                    return metrics
+        except Exception:
+            pass
+        return self._gpu_cache[1]
+
+    def _write(self, detail: str | None = None, done: bool = False, error: str | None = None) -> None:
+        """Atomically write progress JSON (tmp + rename)."""
+        if not self._enabled:
+            return
+        try:
+            stage_index = STAGE_NAMES.index(self._stage) + 1 if self._stage in STAGE_NAMES else 0
+            data = {
+                "version": 1,
+                "episode": self._episode,
+                "pid": os.getpid(),
+                "started_at": self._started_at,
+                "updated_at": now_iso(),
+                "stage": self._stage,
+                "stage_index": stage_index,
+                "stage_count": len(STAGE_NAMES),
+                "stages_completed": list(self._stages_completed),
+                "stage_started_at": datetime.fromtimestamp(
+                    time.time() - (time.monotonic() - self._stage_started),
+                    tz=timezone.utc,
+                ).isoformat() if self._stage else None,
+                "stage_timings": dict(self._stage_timings),
+                "gpu": self._collect_gpu_metrics(),
+                "detail": detail,
+                "error": error,
+                "done": done,
+            }
+            self._path.parent.mkdir(parents=True, exist_ok=True)
+            tmp = self._path.with_suffix(".tmp")
+            tmp.write_text(json.dumps(data, indent=2), encoding="utf-8")
+            tmp.replace(self._path)
+        except Exception as e:
+            logger.debug("Failed to write progress file: %s", e)
+            self._enabled = False
+
+
+class _NoOpReporter:
+    """Stub reporter when --progress-file is not set."""
+    def report_stage(self, stage: str, detail: str | None = None) -> None: pass
+    def heartbeat(self, detail: str | None = None) -> None: pass
+    def finish(self, error: str | None = None) -> None: pass
+
+
 def format_timestamp_srt(seconds: float) -> str:
     h = int(seconds // 3600)
     m = int((seconds % 3600) // 60)
@@ -418,6 +543,7 @@ class TranscriptionEngine:
         cpu_threads: int = 0,
         beam_size: int = 3,
         compression_ratio_threshold: float = 3.5,
+        strict_diarize: bool = False,
     ):
         self.model_size = model_size
         self.device = device
@@ -429,6 +555,7 @@ class TranscriptionEngine:
         self.max_speakers = max_speakers
         self.cpu_threads = cpu_threads  # 0 = CTranslate2 auto (uses all cores)
         self.beam_size = beam_size
+        self.strict_diarize = strict_diarize
         # Podcast audio naturally runs 3.0–3.8 due to conversational repetition.
         # Whisper default of 2.4 triggers ~5 temperature retries per flagged segment
         # which can add 3-5 min per problematic passage.
@@ -517,6 +644,11 @@ class TranscriptionEngine:
             _hfhub.hf_hub_download = _patched_hf_dl
             from pyannote.audio import Pipeline as PyannotePipeline
         except ImportError:
+            if self.strict_diarize:
+                raise RuntimeError(
+                    "pyannote.audio not installed and --strict-diarize is set. "
+                    "Install with: pip install pyannote.audio"
+                )
             logger.warning(
                 "pyannote.audio not installed — diarization disabled.\n"
                 "Install with: pip install pyannote.audio"
@@ -549,11 +681,21 @@ class TranscriptionEngine:
             else:
                 logger.info("Diarization model loaded (CPU)")
         except Exception as e:
+            if self.strict_diarize:
+                raise RuntimeError(
+                    f"Diarization model failed to load and --strict-diarize is set: {e}"
+                ) from e
             logger.warning("Failed to load diarization model: %s — continuing without", e)
             self.diarize = False
 
-    def transcribe(self, audio_path: Path, embeddings_dir: Path | None = None) -> tuple[list[SegmentResult], dict[str, Any]]:
+    def transcribe(
+        self,
+        audio_path: Path,
+        embeddings_dir: Path | None = None,
+        progress_reporter: ProgressReporter | _NoOpReporter | None = None,
+    ) -> tuple[list[SegmentResult], dict[str, Any]]:
         """Transcribe an audio file. Returns (segments, info_dict)."""
+        reporter = progress_reporter or _NoOpReporter()
         if self._model is None:
             raise RuntimeError("Model not loaded. Call load_model() first.")
 
@@ -571,7 +713,12 @@ class TranscriptionEngine:
 
         segments_iter, info = self._model.transcribe(str(audio_path), **transcribe_kwargs)
 
-        raw_segments = list(segments_iter)
+        # Collect segments with heartbeat reporting every 50 segments
+        raw_segments: list[Any] = []
+        for seg in segments_iter:
+            raw_segments.append(seg)
+            if len(raw_segments) % 50 == 0:
+                reporter.heartbeat(detail=f"Segment {len(raw_segments)}")
 
         info_dict: dict[str, Any] = {
             "language": info.language,
@@ -609,6 +756,7 @@ class TranscriptionEngine:
         results = self._filter_hallucinations(results)
 
         if self.diarize and self._diarization_pipeline:
+            reporter.report_stage("diarization", detail="Running speaker diarization")
             results = self._apply_diarization(audio_path, results, embeddings_dir=embeddings_dir)
 
         return results, info_dict
@@ -1122,6 +1270,7 @@ def process_episode(
     chapter_generator: Any | None = None,
     run_id: str | None = None,
     embed_speakers: bool = False,
+    progress_reporter: ProgressReporter | _NoOpReporter | None = None,
 ) -> TranscriptionResult:
     """
     Process a single episode through the full pipeline.
@@ -1129,6 +1278,7 @@ def process_episode(
     This function NEVER raises — all errors are caught and returned
     in the TranscriptionResult.
     """
+    reporter = progress_reporter or _NoOpReporter()
     result = TranscriptionResult(success=False, episode_dir=episode.dir_name)
     start_time = time.monotonic()
 
@@ -1149,8 +1299,12 @@ def process_episode(
             return result
 
         # Stage 1: Transcribe (with optional diarization + embedding export)
+        reporter.report_stage("transcription", detail="Starting whisper transcription")
         embeddings_dir = (output_dir / "speaker_embeddings") if (embed_speakers and engine.diarize) else None
-        segments, info_dict = engine.transcribe(episode.audio_path, embeddings_dir=embeddings_dir)
+        segments, info_dict = engine.transcribe(
+            episode.audio_path, embeddings_dir=embeddings_dir,
+            progress_reporter=reporter,
+        )
 
         result.language = info_dict.get("language")
         result.language_probability = info_dict.get("language_probability")
@@ -1163,6 +1317,7 @@ def process_episode(
             return result
 
         # Stage 1b: Tag intro/outro time windows
+        reporter.report_stage("intro_outro_tagging")
         tag_segment_types(segments, total_duration_s=result.total_audio_duration or 0.0)
         intro_count = sum(1 for s in segments if s.segment_type == "intro")
         outro_count = sum(1 for s in segments if s.segment_type == "outro")
@@ -1171,6 +1326,7 @@ def process_episode(
                         intro_count, outro_count, len(segments) - intro_count - outro_count)
 
         # Stage 2: Topic tagging
+        reporter.report_stage("topic_tagging")
         topic_summary: dict[str, Any] = {"topics": [], "films_mentioned": []}
 
         if topic_tagger is not None:
@@ -1200,6 +1356,7 @@ def process_episode(
         result.speakers_detected = len({s.speaker for s in segments if s.speaker})
 
         # Stage 4: Chapter generation
+        reporter.report_stage("chapter_generation")
         chapter_set = None
         if chapter_generator is not None:
             try:
@@ -1229,6 +1386,7 @@ def process_episode(
                 logger.warning("Chapter generation failed: %s — continuing without", e)
 
         # Stage 5: Write outputs
+        reporter.report_stage("write_outputs")
         # output_dir was resolved above (supports --run-id for multi-run layout)
         # sources.json stays in the base transcript/ dir (episode-level provenance)
         base_transcript_dir = episode.dir_path / "transcript"
@@ -1289,6 +1447,7 @@ def process_episode(
 
     finally:
         result.processing_time_seconds = time.monotonic() - start_time
+        reporter.finish(error=result.error)
         try:
             write_extraction_report(episode, result, output_dir)
         except Exception as e:
@@ -1348,6 +1507,18 @@ def run_pipeline(args: argparse.Namespace) -> BatchReport:
         report.finished_at = now_iso()
         return report
 
+    # Create a pre-model reporter for single-episode runs so model loading
+    # is visible in progress.json (the main observability gap that caused
+    # silent 60-minute hangs on model download).
+    _pre_reporter: ProgressReporter | _NoOpReporter = _NoOpReporter()
+    _progress_file = getattr(args, "progress_file", None)
+    if args.episode and len(episodes) == 1:
+        ep0 = episodes[0]
+        if _progress_file:
+            _pre_reporter = ProgressReporter(Path(_progress_file), ep0.dir_name)
+        else:
+            _pre_reporter = ProgressReporter(ep0.dir_path / "progress.json", ep0.dir_name)
+
     engine = TranscriptionEngine(
         model_size=args.model,
         device=args.device,
@@ -1360,11 +1531,14 @@ def run_pipeline(args: argparse.Namespace) -> BatchReport:
         cpu_threads=args.cpu_threads,
         beam_size=args.beam_size,
         compression_ratio_threshold=args.compression_ratio_threshold,
+        strict_diarize=getattr(args, "strict_diarize", False),
     )
 
+    _pre_reporter.report_stage("model_loading", detail=f"Loading {args.model}")
     try:
         engine.load_model()
     except (ImportError, Exception) as e:
+        _pre_reporter.finish(error=str(e))
         logger.error("Failed to load model: %s", e)
         report.finished_at = now_iso()
         return report
@@ -1418,10 +1592,25 @@ def run_pipeline(args: argparse.Namespace) -> BatchReport:
             sep, i, len(episodes), episode.dir_name, episode.title or "(no title)", dur_str, sep,
         )
 
+        # Create per-episode progress reporter for remote monitoring.
+        # For single-episode runs, reuse the pre-model reporter so model_loading
+        # timing is included in the same progress file.
+        if isinstance(_pre_reporter, ProgressReporter) and len(episodes) == 1:
+            _reporter: ProgressReporter | _NoOpReporter = _pre_reporter
+        else:
+            _pf = getattr(args, "progress_file", None)
+            if _pf:
+                _reporter = ProgressReporter(Path(_pf), episode.dir_name)
+            elif getattr(args, "episode", None):
+                _reporter = ProgressReporter(episode.dir_path / "progress.json", episode.dir_name)
+            else:
+                _reporter = _NoOpReporter()
+
         result = process_episode(
             episode, engine, topic_tagger, chapter_generator,
             run_id=getattr(args, "run_id", None),
             embed_speakers=getattr(args, "embed_speakers", False),
+            progress_reporter=_reporter,
         )
 
         if result.success:
@@ -1574,6 +1763,11 @@ Requirements:
     p.add_argument("--batch-size", type=int, default=0)
     p.add_argument("--dry-run", action="store_true")
     p.add_argument("--report", default=None)
+    p.add_argument("--progress-file", default=None,
+                   help="Write structured progress JSON to this path (for remote monitoring). "
+                        "Default: {episode_dir}/progress.json when --episode is set.")
+    p.add_argument("--strict-diarize", action="store_true",
+                   help="Fail hard if diarization cannot load (no silent fallback).")
     p.add_argument("--verbose", action="store_true")
 
     return p
