@@ -306,9 +306,7 @@ teamdeakins_transcripts/    # Extracted transcripts (generated)
 http_state.json            # HTTP cache (ephemeral)
 
 # Development
-.venv/                     # Virtual environment
 .claude/                   # Claude Code working files (skills dir renamed per ADR-0021)
-.claude/                   # Claude Code working files
 .DS_Store                  # macOS metadata
 ```
 
@@ -385,7 +383,7 @@ See [CLAUDE.md](CLAUDE.md) for detailed architecture documentation.
 
 The project is configured for a private git repository:
 
-- `.gitignore` includes `library/` JSON data (forum content)
+- `library/` directory contains JSON data (forum content) tracked in the private repo
 - Forum content is publicly accessible but should not be publicly redistributed
 - Use for personal/educational research only
 - Do not push to public GitHub/GitLab
@@ -479,7 +477,7 @@ For commercial use or public distribution, contact:
 
 **Version:** 2.0.0
 **Status:** Production Ready
-**Last Updated:** 2026-03-24
+**Last Updated:** 2026-04-12
 
 ## Frame OS Ecosystem
 
@@ -499,4 +497,4 @@ Part of [Frame OS](https://github.com/ojfbot/shell) — an AI-native application
 | [daily-logger](https://github.com/ojfbot/daily-logger) | Automated daily dev blog pipeline |
 | **purefoy** | **Roger Deakins cinematography knowledge base (this repo)** |
 | [MrPlug](https://github.com/ojfbot/MrPlug) | Chrome extension for AI UI feedback |
-| [frame-ui-components](https://github.com/ojfbot/frame-ui-components) | Shared component library (Carbon DS) |
+| [frame-ui-components](https://github.com/ojfbot/frame-ui-components) | Shared component library (Carbon DS) — published to npm as `@ojfbot/frame-ui-components` |
