@@ -1,0 +1,1 @@
+../../../core/scripts/hooks/standup-audit.mjs
