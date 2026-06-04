@@ -104,7 +104,7 @@ purefoy/
 - `PROJECT_STRUCTURE.md` - Structure guide
 - `GIT_READY.md` - This file
 
-**Data (Private Repo):**
+**Data (on-disk only — gitignored, not committed):**
 - `library/forums/` - 3,075 post JSONs, 691 topic JSONs (24MB)
 - `library/articles/` - Sample article JSONs
 
@@ -181,20 +181,18 @@ purefoy/
 ## Git Repository Configuration
 
 ### Repository Type
-**Recommended:** Private repository
+**Adopted:** Public repository, code only — scraped data kept off-git.
+
+**Configuration:**
+1. `library/`, `downloads/`, and `analysis/` are in `.gitignore`
+2. Only source code, documentation, and illustrative schema examples are committed
+3. All ~24MB of scraped data stays on-disk (never committed)
+4. Content copyright disclaimer in README / CLAUDE.md
 
 **Reasoning:**
 - Forum content is publicly accessible but should not be redistributed
 - Personal research and educational use only
-- Includes 24MB of scraped JSON data (library/)
-- Respects copyright while enabling version control
-
-### Alternative: Public Code Only
-If making code public:
-1. Add `library/` to `.gitignore`
-2. Only commit source code and documentation
-3. Exclude all scraped data
-4. Add prominent disclaimer about content copyright
+- Respects copyright while keeping the codebase open
 
 ---
 
@@ -282,7 +280,7 @@ git push -u origin main
 ## Next Steps After Git Init
 
 1. **Create Remote Repository**
-   - GitHub, GitLab, or Gitea (private)
+   - GitHub, GitLab, or Gitea
    - Add remote: `git remote add origin <url>`
 
 2. **Push Initial Commit**

@@ -370,15 +370,15 @@ python -m deakins_forums.cli tree team-deakins__bikes --format html -o bikes_tre
 
 ### Open Source Considerations
 
-#### 4.6 Public vs. Private Decision
+#### 4.6 Public vs. Private Decision — ✅ RESOLVED
 **Priority:** Critical (before git init)
 
-**Options:**
+**Options considered:**
 1. **Private Repository**: Keep scraped data private, respect forum ToS
-2. **Public Code, Private Data**: Open-source scrapers, private data repo
+2. **Public Code, Private Data**: Open-source scrapers, scraped data off-git
 3. **Fully Public**: Open everything (requires legal review)
 
-**Current:** Private repository assumed
+**Decision:** Option 2 — **public repository, code only**. Scrapers and docs are public; scraped forum content (`library/`), audio (`downloads/`), and exports (`analysis/`) are gitignored and never committed. Respects forum ToS/copyright while keeping the codebase open.
 
 ---
 

@@ -17,7 +17,7 @@ This is a **Team Deakins Podcast and Forum Knowledge Base** project. It contains
 
 All content is for **personal research and educational purposes only** under fair use principles. Commercial use requires explicit permission from copyright holders.
 
-- **Keep this repository PRIVATE** — scraped forum data is for private research use; do not make public.
+- **Scraped data stays off-git** — the repo is public, but scraped forum content (`library/`), podcast audio (`downloads/`), and exports (`analysis/`) are gitignored and never committed. Only source code and illustrative schema examples are public. See Git Data Policy below.
 - **Personal/educational use only** — no commercial redistribution. Contact rogerdeakins.com / Team Deakins for commercial licensing.
 - Scripts identify research purpose via User-Agent headers; rate limiting is enforced (3s default); respect `robots.txt` and server resources.
 - All content remains property of original copyright holders.
