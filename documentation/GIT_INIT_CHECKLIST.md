@@ -94,18 +94,13 @@ git ls-files --others --exclude-standard
 **Schema Examples:**
 - `schema_examples/**/*`
 
-**Forum Scraped Data (for private repo):**
-- `library/forums/posts/*.json`
-- `library/forums/topics/*.json`
-- `library/forums/forums/*.json`
-- `library/forums/_site/forums_index.json`
-
 **Placeholder files:**
 - `downloads/.gitkeep`
 - `analysis/.gitkeep`
 
 ### Files that should NOT be tracked:
 
+❌ `library/**` (scraped forum/article data — public repo keeps it off-git)
 ❌ `downloads/S*/**` (episode directories with audio)
 ❌ `*.mp3`, `*.m4a`, `*.wav` (audio files)
 ❌ `*.sqlite`, `*.db` (search index - can be rebuilt)
@@ -124,7 +119,7 @@ git add .
 git diff --cached --name-only | grep -E "(\.mp3|\.sqlite|\.env|downloads/S)"
 
 # If the above command returns nothing, proceed
-# (Note: library/forums IS tracked - that's expected)
+# (Note: library/ scraped data is gitignored — NOT committed)
 git commit -m "Initial commit: Team Deakins knowledge base toolkit
 
 - Forum scraper with structured JSON storage
@@ -132,7 +127,7 @@ git commit -m "Initial commit: Team Deakins knowledge base toolkit
 - Schema examples and documentation
 - Comprehensive .gitignore for copyright/privacy
 
-Forum data included for private research use.
+Public repo, code only: scraped forum data is gitignored (on-disk).
 Audio files and SQLite indices excluded."
 ```
 
@@ -148,8 +143,8 @@ du -sh .git
 git ls-files | wc -l
 git ls-files | head -20
 
-# Verify forum data IS tracked (should find files)
-git ls-files | grep "library/forums" && echo "✓ Forum data is tracked" || echo "Warning: No forum data found"
+# Verify scraped forum data is NOT tracked (gitignored — should find nothing)
+git ls-files | grep "library/" && echo "ERROR: scraped data tracked!" || echo "✓ Forum data correctly gitignored"
 
 # Verify excluded files are NOT tracked
 git ls-files | grep -E "(downloads/S|\.mp3|\.sqlite|analysis/.*\.csv)" && echo "ERROR: Excluded files tracked!" || echo "✓ Excluded files not tracked"
@@ -235,7 +230,7 @@ git push origin --force --all
 ✅ Documentation tracked
 ✅ Schema examples tracked
 ✅ Configuration tracked
-✅ **Forum scraped data tracked** (for private repo)
+❌ **Forum scraped data excluded** (`library/` gitignored — public repo, off-git)
 ❌ Audio files excluded (.mp3, .m4a, etc.)
 ❌ Episode metadata excluded (downloads/)
 ❌ SQLite indices excluded (can rebuild)
@@ -243,7 +238,7 @@ git push origin --force --all
 ❌ Sensitive data excluded
 
 This ensures:
-- **Privacy**: Keep repository **PRIVATE** (contains scraped forum data)
+- **Privacy**: scraped forum data stays off-git via `.gitignore` (repo is public, code only)
 - **Security**: No credentials or API keys
 - **Copyright**: For personal/educational use only
 - **Size**: Audio files excluded to manage repository size

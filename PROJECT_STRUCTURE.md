@@ -78,7 +78,7 @@ __pycache__/               # Python bytecode
 - **`deakins_articles/`**: Articles scraper for rogerdeakins.com/articles
 
 ### Data Storage
-- **`library/`**: Primary data storage with JSON "leafs" (TRACKED in git for private repo)
+- **`library/`**: Primary data storage with JSON "leafs" (gitignored — on-disk only; public repo keeps scraped data off-git)
   - Structured, version-controllable JSON files
   - Enables incremental updates via content hashing
   - Ready for AI/MCP consumption

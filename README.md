@@ -126,7 +126,7 @@ Scrapes technical articles from rogerdeakins.com/articles:
 ### Installation
 
 ```bash
-# Clone repository (private repo assumed)
+# Clone repository
 git clone <repo-url>
 cd purefoy
 
@@ -312,9 +312,13 @@ http_state.json            # HTTP cache (ephemeral)
 
 **What IS tracked:**
 - ✅ All source code (`deakins_forums/`, `deakins_articles/`)
-- ✅ Library data (`library/`) - Structured JSON for private repo
 - ✅ Documentation and guides
 - ✅ Configuration files
+- ✅ Illustrative schema examples (`documentation/examples-schemas/`)
+
+**What is NOT tracked (gitignored, on-disk only):**
+- ❌ Scraped forum content (`library/`) — public repo, so data stays off-git
+- ❌ Podcast audio + episode dirs (`downloads/`), exports (`analysis/`)
 
 ---
 
@@ -364,7 +368,7 @@ See [CLAUDE.md](CLAUDE.md) for detailed architecture documentation.
 
 **Permitted Use:**
 - ✅ Personal research and education
-- ✅ Private knowledge base for learning
+- ✅ Personal knowledge base for learning
 - ✅ Academic study of cinematography
 
 **Prohibited Use:**
@@ -377,21 +381,14 @@ See [CLAUDE.md](CLAUDE.md) for detailed architecture documentation.
 
 ---
 
-### Git Repository Privacy
+### Git Data Policy
 
-**⚠️ This MUST be a PRIVATE repository**
+This is a **public repository** — scraped data is kept off-git, not behind repo visibility.
 
-The project is configured for a private git repository:
-
-- `library/` directory contains JSON data (forum content) tracked in the private repo
-- Forum content is publicly accessible but should not be publicly redistributed
-- Use for personal/educational research only
-- Do not push to public GitHub/GitLab
-
-**If making code public:**
-- Exclude `library/` directory entirely
-- Include only source code and documentation
-- Add clear disclaimers about content copyright
+- `library/` (forum content), `downloads/` (podcast audio), and `analysis/` (exports) are **gitignored** and never committed.
+- Only source code, documentation, and illustrative schema examples (`documentation/examples-schemas/`) are public.
+- Forum content is publicly accessible but should not be redistributed; use for personal/educational research only.
+- Content remains copyright of the original holders — see Copyright & Usage above.
 
 ---
 

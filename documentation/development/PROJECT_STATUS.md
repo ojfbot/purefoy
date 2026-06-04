@@ -63,12 +63,12 @@ purefoy/
     └── README.md
 ```
 
-### Will be included in git ✅ (Forum Data)
+### Excluded from git ❌ (Forum Data — gitignored, on-disk only)
 
-**Note: This is for a PRIVATE repository**
+The repo is public, so scraped forum data is never committed — it lives on-disk only:
 
 ```
-├── library/forums/                     # Scraped forum data
+├── library/forums/                     # Scraped forum data (gitignored)
 │   ├── posts/*.json                   # Individual post files
 │   ├── topics/*.json                  # Topic metadata files
 │   ├── forums/*.json                  # Forum metadata files
@@ -165,20 +165,19 @@ git ls-files | head -20
 
 ## Privacy & Copyright Protection
 
-**⚠️ IMPORTANT: Keep this repository PRIVATE**
+**This is a public repository — scraped data is kept off-git via `.gitignore`.**
 
+✅ **Forum data excluded** - `library/` gitignored; scraped JSON stays on-disk only
 ✅ **Audio files excluded** - No .mp3, .m4a, etc. in git
-✅ **Forum data INCLUDED** - JSON forum data tracked for private research
 ✅ **Episode metadata excluded** - No episode directories tracked
 ✅ **SQLite indices excluded** - Can be rebuilt from JSON
 ✅ **Analysis exports excluded** - Can be regenerated
 ✅ **Sensitive data excluded** - No .env, credentials, or API keys in git
 
-**Why include forum data?**
-- Private repository for personal/educational research
-- Forum content is publicly accessible (not behind authentication)
-- Structured JSON is git-friendly
-- Enables incremental updates and version control
+**Why exclude forum data?**
+- Public repository — scraped content should not be redistributed
+- Keeps the codebase open while respecting copyright
+- Data is regenerable on-disk via the scraper; no need to commit it
 
 ## If You Need Help
 
@@ -192,15 +191,14 @@ git ls-files | head -20
 🎉 **Project is ready for git initialization!**
 
 Your .gitignore is properly configured to:
-- **Include forum data** for private research use
+- **Exclude forum data** (`library/`) — kept off-git on a public repo
 - **Exclude audio files** to manage repository size
 - **Exclude SQLite indices** (can be rebuilt)
 - **Exclude episode metadata** (contains audio files)
 - **Secure credentials** (no sensitive data)
 
-**CRITICAL: Keep repository PRIVATE**
-- Forum data is included for research purposes
-- Personal/educational use only
-- Do not make this repository public
+**Data handling (public repo):**
+- Scraped forum data is gitignored — never committed
+- Personal/educational use only; do not redistribute scraped content
 
 Proceed with `git init` when ready.
