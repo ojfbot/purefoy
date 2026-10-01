@@ -14,7 +14,7 @@ import {
 } from '../store/slices/chatSlice'
 import { generateThreadId } from '../utils/threadStorage'
 
-const FRAME_AGENT_URL = import.meta.env.VITE_FRAME_AGENT_URL ?? 'http://localhost:4001'
+import { FRAME_AGENT_URL } from '../api/config'
 
 export function CondensedChatConnected() {
   const dispatch = useAppDispatch()
@@ -47,6 +47,7 @@ export function CondensedChatConnected() {
     const history = messages.map(m => ({ role: m.role, content: m.content }))
 
     try {
+      if (!FRAME_AGENT_URL) throw new Error('Agent not configured')
       const res = await fetch(`${FRAME_AGENT_URL}/api/chat/stream`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },

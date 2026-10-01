@@ -87,6 +87,12 @@ jobs:
       - name: Test (API)
         run: pnpm --filter @purefoy/api test -- --run
 
+      - name: Build browser-app
+        run: pnpm --filter @purefoy/browser-app build
+
+      - name: No loopback URLs in browser bundle
+        run: pnpm check:no-loopback
+
   codegen-guard:
     name: Codegen schema drift check
     runs-on: ubuntu-latest
