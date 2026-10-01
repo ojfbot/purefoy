@@ -13,10 +13,15 @@ import type {
   SegmentCompact,
 } from '../types'
 
-const API_BASE = import.meta.env.VITE_API_URL ?? 'http://localhost:3021'
+import { API_BASE } from './config'
+
+async function apiFetch(path: string, init?: RequestInit): Promise<Response> {
+  if (!API_BASE) throw new Error('purefoy-api not configured')
+  return fetch(`${API_BASE}${path}`, init)
+}
 
 async function get<T>(path: string): Promise<T> {
-  const res = await fetch(`${API_BASE}${path}`)
+  const res = await apiFetch(path)
   if (!res.ok) throw new Error(`purefoy-api ${path} → ${res.status}`)
   return res.json() as Promise<T>
 }
@@ -40,16 +45,16 @@ export const episodesApi = {
 
   // Returns raw Response so TranscriptViewer can stream the NDJSON body
   transcriptStream: (slug: string, signal?: AbortSignal): Promise<Response> =>
-    fetch(`${API_BASE}/api/episodes/${encodeURIComponent(slug)}/transcript`, { signal }),
+    apiFetch(`/api/episodes/${encodeURIComponent(slug)}/transcript`, { signal }),
 
   transcriptGoalStream: (slug: string, signal?: AbortSignal): Promise<Response> =>
-    fetch(`${API_BASE}/api/episodes/${encodeURIComponent(slug)}/transcript/goal`, { signal }),
+    apiFetch(`/api/episodes/${encodeURIComponent(slug)}/transcript/goal`, { signal }),
 
   transcriptGoalMeta: (slug: string): Promise<GoalManifest> =>
     get<GoalManifest>(`/api/episodes/${encodeURIComponent(slug)}/transcript/goal/meta`),
 
   saveGoal: (slug: string, segments: SegmentCompact[]): Promise<GoalManifest> => {
-    return fetch(`${API_BASE}/api/episodes/${encodeURIComponent(slug)}/transcript/goal`, {
+    return apiFetch(`/api/episodes/${encodeURIComponent(slug)}/transcript/goal`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ segments }),
@@ -63,7 +68,7 @@ export const episodesApi = {
     get<ReviewProgress>(`/api/episodes/${encodeURIComponent(slug)}/transcript/review`),
 
   updateReview: (slug: string, reviewedSegments: number[], totalSegments: number): Promise<ReviewProgress> =>
-    fetch(`${API_BASE}/api/episodes/${encodeURIComponent(slug)}/transcript/review`, {
+    apiFetch(`/api/episodes/${encodeURIComponent(slug)}/transcript/review`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ reviewed_segments: reviewedSegments, total_segments: totalSegments }),

@@ -17,6 +17,7 @@
     "dev:headless": "pnpm dev:api",
     "start:api": "pnpm --filter @purefoy/api start",
     "build": "pnpm --recursive --if-present build",
+    "check:no-loopback": "sh scripts/check-no-loopback.sh",
     "preview": "pnpm --filter @purefoy/browser-app preview",
     "type-check": "pnpm --recursive --if-present type-check",
     "test": "pnpm --recursive --if-present test",

@@ -6,6 +6,7 @@
 
 import { InlineNotification, Button } from '@carbon/react'
 import { useState } from 'react'
+import { API_BASE } from '../api/config'
 
 interface SettingsProps {
   // SCAFFOLD: Shell passes appType down to scoped settings selectors (ADR-0011)
@@ -20,7 +21,7 @@ export function Settings({ appType: _appType }: SettingsProps) {
     setProbing(true)
     setProbeResult(null)
     try {
-      const res = await fetch(`${import.meta.env.VITE_API_URL ?? 'http://localhost:3021'}/health`)
+      const res = await fetch(`${API_BASE}/health`)
       setProbeResult(res.ok ? 'ok' : 'error')
     } catch {
       setProbeResult('error')
@@ -35,8 +36,8 @@ export function Settings({ appType: _appType }: SettingsProps) {
 
       <section>
         <h4>API Connection</h4>
-        <p>API URL: <code>{import.meta.env.VITE_API_URL ?? 'http://localhost:3021'}</code></p>
-        <Button size="sm" kind="tertiary" onClick={probe} disabled={probing}>
+        <p>API URL: <code>{API_BASE || 'not configured'}</code></p>
+        <Button size="sm" kind="tertiary" onClick={probe} disabled={probing || !API_BASE}>
           {probing ? 'Probing…' : 'Test Connection'}
         </Button>
         {probeResult === 'ok' && (
