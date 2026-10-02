@@ -474,14 +474,14 @@ For commercial use or public distribution, contact:
 
 **Version:** 2.0.0
 **Status:** Production Ready
-**Last Updated:** 2026-04-12
+**Last Updated:** 2026-10-02
 
 ## Frame OS Ecosystem
 
 Part of [Frame OS](https://github.com/ojfbot/shell) — an AI-native application OS.
 
 | Repo | Description |
-|------|-------------|
+| [core](https://github.com/ojfbot/core) | Workflow framework (fleet-runner) — 30+ slash commands + TypeScript engine |
 | [shell](https://github.com/ojfbot/shell) | Module Federation host + frame-agent LLM gateway |
 | [core](https://github.com/ojfbot/core) | Workflow framework — 30+ slash commands + TypeScript engine |
 | [cv-builder](https://github.com/ojfbot/cv-builder) | AI-powered resume builder with LangGraph agents |
